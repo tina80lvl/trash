@@ -1,0 +1,131 @@
+#begin document (bn/vom/01/vom_0129); part 000
+bn/vom/01/vom_0129   0    0     美国    NR     (TOP(IP(NP(NP(NP*)  -    -   -   -       (GPE)       (ARG0*        (ARG0*             *    (3|(4)
+bn/vom/01/vom_0129   0    1     总统    NN                 (NP*))  -    -   -   -          *             *             *             *        -
+bn/vom/01/vom_0129   0    2    克林顿    NR                 (NP*))  -    -   -   -    (PERSON)            *)            *)            *        3)
+bn/vom/01/vom_0129   0    3    星期二    NT               (VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)   (ARGM-TMP*)            *        -
+bn/vom/01/vom_0129   0    4     抵达    VV               (VP(VP*   -   01   -   -          *           (V*)            *             *        -
+bn/vom/01/vom_0129   0    5     文莱    NR                 (NP*))  -    -   -   -       (GPE)       (ARG1*)            *             *        -
+bn/vom/01/vom_0129   0    6      ，    PU                     *   -    -   -   -          *             *             *             *        -
+bn/vom/01/vom_0129   0    7     出席    VV                  (VP*   -   01   -   -          *             *           (V*)            *        -
+bn/vom/01/vom_0129   0    8    星期三    NT   (NP(CP(CP(IP(VP(NP*)  -    -   -   -      (DATE)            *        (ARG1*    (ARGM-TMP*)      (1
+bn/vom/01/vom_0129   0    9     召开    VV                (VP*)))  -   01   -   -          *             *             *           (V*)       -
+bn/vom/01/vom_0129   0   10      的   DEC                    *))  -    -   -   -          *             *             *             *        -
+bn/vom/01/vom_0129   0   11     亚太    NR                  (NP*   -    -   -   -    (EVENT*             *             *             *       (2
+bn/vom/01/vom_0129   0   12     经济    NN                     *   -    -   2   -          *             *             *             *        -
+bn/vom/01/vom_0129   0   13     合作    NN                     *   -    -   -   -          *             *             *             *        -
+bn/vom/01/vom_0129   0   14     组织    NN                     *)  -    -   3   -          *             *             *             *        2)
+bn/vom/01/vom_0129   0   15     年度    JJ                (ADJP*)  -    -   -   -          *             *             *             *        -
+bn/vom/01/vom_0129   0   16     首脑    NN                  (NP*   -    -   -   -          *             *             *        (ARG1*        -
+bn/vom/01/vom_0129   0   17     会议    NN                 *)))))  -    -   -   -          *)            *             *)            *)       1)
+bn/vom/01/vom_0129   0   18      。    PU                    *))  -    -   -   -          *             *             *             *        -
+
+bn/vom/01/vom_0129   0    0      将    AD   (TOP(IP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)       *         *    -
+bn/vom/01/vom_0129   0    1      有    VE               (VP*   -   05   4   -            *           (V*)       *         *    -
+bn/vom/01/vom_0129   0    2     ２１    CD   (IP(NP(NP(NP(QP*   -    -   -   -    (CARDINAL)       (ARG1*   (ARG0*         *    -
+bn/vom/01/vom_0129   0    3      个     M            (CLP*)))  -    -   -   -            *             *        *         *    -
+bn/vom/01/vom_0129   0    4     亚太    NR               (NP*)  -    -   -   -         (LOC)            *        *         *    -
+bn/vom/01/vom_0129   0    5     国家    NN              (NP*))  -    -   -   -            *             *        *         *    -
+bn/vom/01/vom_0129   0    6    领导人    NN              (NP*))  -    -   -   -            *             *        *)        *    -
+bn/vom/01/vom_0129   0    7      ，    PU                  *   -    -   -   -            *             *        *         *    -
+bn/vom/01/vom_0129   0    8     参加    VV               (VP*   -   01   -   -            *             *      (V*)        *    -
+bn/vom/01/vom_0129   0    9      这    DT            (NP(DP*   -    -   -   -            *             *   (ARG1*         *   (1
+bn/vom/01/vom_0129   0   10      次     M             (CLP*))  -    -   -   -            *             *        *         *    -
+bn/vom/01/vom_0129   0   11     为期    VV      (CP(CP(IP(VP*   -   01   -   -            *             *        *       (V*)   -
+bn/vom/01/vom_0129   0   12      ２    CD               (QP*   -    -   -   -       (DATE*             *        *    (ARG1*    -
+bn/vom/01/vom_0129   0   13      天     M           (CLP*))))  -    -   -   -            *)            *        *         *)   -
+bn/vom/01/vom_0129   0   14      的   DEC                 *))  -    -   -   -            *             *        *         *    -
+bn/vom/01/vom_0129   0   15     会议    NN          (NP*))))))  -    -   -   -            *             *)       *)   (ARG0*)   1)
+bn/vom/01/vom_0129   0   16      。    PU                 *))  -    -   -   -            *             *        *         *    -
+
+bn/vom/01/vom_0129   0    0      这    PN          (TOP(IP(NP*)  -    -   -   -          *    (ARG0*)     *    (1)
+bn/vom/01/vom_0129   0    1      是    VC                 (VP*   -   01   1   -          *       (V*)     *     -
+bn/vom/01/vom_0129   0    2    克林顿    NR   (NP(DNP(LCP(IP(NP*)  -    -   -   -    (PERSON)   (ARG1*      *    (3)
+bn/vom/01/vom_0129   0    3     赞同    VV                (FLR*)  -   01   -   -          *         *    (V*)    -
+bn/vom/01/vom_0129   0    4     明年    NT              (VP(NP*   -    -   -   -     (DATE*         *      *     -
+bn/vom/01/vom_0129   0    5     １月    NT                    *)  -    -   -   -          *)        *      *     -
+bn/vom/01/vom_0129   0    6     离任    VV               (VP*)))  -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0    7     以前    LC                    *)  -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0    8      的   DEG                    *)  -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0    9     最后    JJ            (QP(ADJP*)  -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0   10      一    CD                 (QP*   -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0   11      次     M              (CLP*)))  -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0   12     亚太    NR                 (NP*   -    -   -   -    (EVENT*         *      *    (2
+bn/vom/01/vom_0129   0   13     经济    NN                    *   -    -   2   -          *         *      *     -
+bn/vom/01/vom_0129   0   14     合作    NN                    *   -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0   15     组织    NN                    *)  -    -   3   -          *         *      *     2)
+bn/vom/01/vom_0129   0   16     首脑    NN                 (NP*   -    -   -   -          *         *      *     -
+bn/vom/01/vom_0129   0   17     会议    NN                  *)))  -    -   -   -          *)        *)     *     -
+bn/vom/01/vom_0129   0   18      。    PU                   *))  -    -   -   -          *         *      *     -
+
+bn/vom/01/vom_0129   0    0      克林顿    NR      (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)   (3)
+bn/vom/01/vom_0129   0    1        是    VC             (VP*   -   01   1   -          *       (V*)    -
+bn/vom/01/vom_0129   0    2    １９９３年    NT   (NP(DNP(NP(NP*)  -    -   -   -      (DATE)   (ARG1*     -
+bn/vom/01/vom_0129   0    3       第１    OD             (QP*   -    -   -   -    (EVENT*         *     -
+bn/vom/01/vom_0129   0    4        次     M           (CLP*))  -    -   -   -          *         *     -
+bn/vom/01/vom_0129   0    5       亚太    NR             (NP*   -    -   -   -          *         *    (2
+bn/vom/01/vom_0129   0    6       经合    NN                *)  -    -   -   -          *         *     2)
+bn/vom/01/vom_0129   0    7       会议    NN            (NP*))  -    -   -   -          *)        *     -
+bn/vom/01/vom_0129   0    8        的   DEG                *)  -    -   -   -          *         *     -
+bn/vom/01/vom_0129   0    9       主要    JJ           (ADJP*)  -    -   -   -          *         *     -
+bn/vom/01/vom_0129   0   10      发起人    NN           (NP*)))  -    -   -   -          *         *)    -
+bn/vom/01/vom_0129   0   11        。    PU               *))  -    -   -   -          *         *     -
+
+bn/vom/01/vom_0129   0    0      预计    VV      (TOP(IP(VP*   -   01   -   -          *      (V*)           *             *         *     -
+bn/vom/01/vom_0129   0    1     克林顿    NR       (IP(IP(NP*)  -    -   -   -    (PERSON)  (ARG1*       (ARG0*)       (ARG0*)        *    (3)
+bn/vom/01/vom_0129   0    2       在     P          (VP(PP*   -    -   2   -          *        *   (ARGM-TMP*    (ARGM-TMP*         *     -
+bn/vom/01/vom_0129   0    3       这    DT       (NP(NP(DP*   -    -   -   -          *        *            *             *         *    (1
+bn/vom/01/vom_0129   0    4       次     M           (CLP*))  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0    5      会议    NN            (NP*))  -    -   -   -          *        *            *             *         *     1)
+bn/vom/01/vom_0129   0    6      期间    NN           (NP*)))  -    -   -   -          *        *            *)            *)        *     -
+bn/vom/01/vom_0129   0    7       ，    PU                *   -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0    8       要    VV             (VP*   -   05   4   -          *        *          (V*)            *         *     -
+bn/vom/01/vom_0129   0    9       和     P          (VP(PP*   -    -   -   -          *        *       (ARG1*        (ARG0*         *     -
+bn/vom/01/vom_0129   0   10      若干    CD   (NP(DNP(NP(QP*)  -    -   -   -          *        *            *             *         *    (5
+bn/vom/01/vom_0129   0   11      国家    NN            (NP*))  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   12       的   DEG                *)  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   13     领导人    NN           (NP*)))  -    -   -   -          *        *            *             *)        *     5)
+bn/vom/01/vom_0129   0   14      单独    AD           (ADVP*)  -    -   -   -          *        *            *    (ARGM-ADV*)        *     -
+bn/vom/01/vom_0129   0   15      会谈    VV         (VP*)))))  -   01   -   -          *        *            *)          (V*)        *     -
+bn/vom/01/vom_0129   0   16       ，    PU                *   -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   17      其中    NN          (IP(NP*)  -    -   -   -          *        *            *             *    (ARG0*)   (5)
+bn/vom/01/vom_0129   0   18      包括    VV             (VP*   -   01   -   -          *        *            *             *       (V*)    -
+bn/vom/01/vom_0129   0   19     俄罗斯    NR    (NP(NP(NP(NP*)  -    -   -   -       (GPE)       *            *             *    (ARG1*     -
+bn/vom/01/vom_0129   0   20      总统    NN            (NP*))  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   21      普京    NR            (NP*))  -    -   -   -    (PERSON)       *            *             *         *     -
+bn/vom/01/vom_0129   0   22       、    PU                *   -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   23      中国    NR       (NP(NP(NP*)  -    -   -   -       (GPE)       *            *             *         *     -
+bn/vom/01/vom_0129   0   24    国家主席    NN            (NP*))  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   25     江泽民    NR            (NP*))  -    -   -   -    (PERSON)       *            *             *         *     -
+bn/vom/01/vom_0129   0   26       、    PU                *   -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   27      韩国    NR       (NP(NP(NP*)  -    -   -   -       (GPE)       *            *             *         *     -
+bn/vom/01/vom_0129   0   28      总统    NN            (NP*))  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   29     金大中    NR            (NP*))  -    -   -   -    (PERSON)       *            *             *         *     -
+bn/vom/01/vom_0129   0   30       和    CC                *   -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   31      日本    NR       (NP(NP(NP*)  -    -   -   -       (GPE)       *            *             *         *     -
+bn/vom/01/vom_0129   0   32      首相    NN            (NP*))  -    -   -   -          *        *            *             *         *     -
+bn/vom/01/vom_0129   0   33     森喜朗    NR       (NP*)))))))  -    -   -   -    (PERSON)       *)           *             *         *)    -
+bn/vom/01/vom_0129   0   34       。    PU               *))  -    -   -   -          *        *            *             *         *     -
+
+bn/vom/01/vom_0129   0    0      克林顿    NR               (TOP(IP(IP(NP*   -    -   -   -     (PERSON)       (ARG0*             *             *            *    (3
+bn/vom/01/vom_0129   0    1       总统    NN                            *)  -    -   -   -           *             *)            *             *            *     3)
+bn/vom/01/vom_0129   0    2      星期四    NT                      (VP(NP*)  -    -   -   -       (DATE)   (ARGM-TMP*)            *             *            *     -
+bn/vom/01/vom_0129   0    3       前往    VV                         (VP*   -   01   -   -           *           (V*)            *             *            *     -
+bn/vom/01/vom_0129   0    4       越南    NR                      (NP*))))  -    -   -   -        (GPE)       (ARG1*)            *             *            *    (0)
+bn/vom/01/vom_0129   0    5        ，    PU                            *   -    -   -   -           *             *             *             *            *     -
+bn/vom/01/vom_0129   0    6        他    PN                      (IP(NP*)  -    -   -   -           *             *        (ARG0*)            *            *    (3)
+bn/vom/01/vom_0129   0    7        将    AD                    (VP(ADVP*)  -    -   -   -           *             *    (ARGM-ADV*)            *            *     -
+bn/vom/01/vom_0129   0    8        是    VC                         (VP*   -   01   1   -           *             *           (V*)            *            *     -
+bn/vom/01/vom_0129   0    9    １９７５年    NT   (NP(CP(CP(IP(VP(LCP(IP(NP*)  -    -   -   -       (DATE)            *        (ARG1*    (ARGM-TMP*)  (ARGM-TMP*     -
+bn/vom/01/vom_0129   0   10       越战    NR                         (NP*)  -    -   -   -      (EVENT)            *             *        (ARG1*)           *     -
+bn/vom/01/vom_0129   0   11       结束    VV                        (VP*))  -   01   -   -           *             *             *           (V*)           *     -
+bn/vom/01/vom_0129   0   12       以来    LC                            *)  -    -   -   -           *             *             *             *            *)    -
+bn/vom/01/vom_0129   0   13       访问    VV                         (VP*   -   01   -   -           *             *             *             *          (V*)    -
+bn/vom/01/vom_0129   0   14       越南    NR                      (NP*))))  -    -   -   -        (GPE)            *             *             *       (ARG1*)   (0)
+bn/vom/01/vom_0129   0   15        的   DEC                           *))  -    -   -   -           *             *             *             *            *     -
+bn/vom/01/vom_0129   0   16       第一    OD                         (QP*   -    -   -   -    (ORDINAL)            *             *             *            *     -
+bn/vom/01/vom_0129   0   17        位     M                       (CLP*))  -    -   2   -           *             *             *             *            *     -
+bn/vom/01/vom_0129   0   18       美国    NR                         (NP*)  -    -   -   -        (GPE)            *             *             *            *    (4)
+bn/vom/01/vom_0129   0   19       总统    NN                     (NP*)))))  -    -   -   -           *             *             *)            *       (ARG0*)    -
+bn/vom/01/vom_0129   0   20        。    PU                           *))  -    -   -   -           *             *             *             *            *     -
+
+#end document

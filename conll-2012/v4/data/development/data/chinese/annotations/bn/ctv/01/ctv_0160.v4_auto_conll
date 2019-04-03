@@ -1,0 +1,118 @@
+#begin document (bn/ctv/01/ctv_0160); part 000
+bn/ctv/01/ctv_0160   0    0     世界   NN   (TOP(IP(NP(QP(LCP(NP*)  -   -   -   -   *   (1
+bn/ctv/01/ctv_0160   0    1      上   LC                       *)  -   -   1   -   *    -
+bn/ctv/01/ctv_0160   0    2     第一   OD                    (QP*   -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    3      辆    M                 (CLP*)))  -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    4     高温   NN                    (NP*   -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    5      、   PU                       *   -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    6     超导   NN                       *   -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    7      、   PU                       *   -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    8    磁悬浮   NN                       *)  -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0    9     列车   NN                   (NP*))  -   -   -   -   *    1)
+bn/ctv/01/ctv_0160   0   10     近日   NT                 (VP(NP*)  -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0   11      在    P                    (PP*   -   -   2   -   *    -
+bn/ctv/01/ctv_0160   0   12     西南   NN                    (NP*   -   -   -   -   *   (2
+bn/ctv/01/ctv_0160   0   13     交通   NN                       *   -   -   1   -   *    -
+bn/ctv/01/ctv_0160   0   14     大学   NN                      *))  -   -   -   -   *    2)
+bn/ctv/01/ctv_0160   0   15     研究   VV                    (VP*   -   -   3   -   *    -
+bn/ctv/01/ctv_0160   0   16     成功   NN                  (NP*)))  -   -   -   -   *    -
+bn/ctv/01/ctv_0160   0   17      。   PU                      *))  -   -   -   -   *    -
+
+bn/ctv/01/ctv_0160   0    0      它    PN       (TOP(IP(NP*)   -   -   -   -   *             *    (ARG0*)       (ARG1*)   (1)
+bn/ctv/01/ctv_0160   0    1      与     P        (VP(VP(PP*    -   -   -   -   *        (ARG0*)   (ARG0*             *     -
+bn/ctv/01/ctv_0160   0    2      这    DT  (NP(CP(IP(NP(DP*    -   -   -   -   *        (ARG0*         *             *    (2
+bn/ctv/01/ctv_0160   0    3      所     M            (CLP*))   -   -   -   -   *             *         *             *     -
+bn/ctv/01/ctv_0160   0    4     学校    NN              (NP*)   -   -   -   -   *             *         *             *     2)
+bn/ctv/01/ctv_0160   0    5     前期    JJ            (ADJP*)   -   -   -   -   *             *         *             *     -
+bn/ctv/01/ctv_0160   0    6     研究    NN             (NP*))   -   -   4   -   *             *)        *             *     -
+bn/ctv/01/ctv_0160   0    7     成功    VA             (VP*))   成功  -   -   -   *           (V*)        *             *     -
+bn/ctv/01/ctv_0160   0    8      的   DEC                 *)   -   -   -   -   *             *         *             *     -
+bn/ctv/01/ctv_0160   0    9     长岛    NR              (NP*)   -   -   -   -   *             *         *             *    (0)
+bn/ctv/01/ctv_0160   0   10    磁悬浮    NN              (NP*    -   -   -   -   *             *         *             *     -
+bn/ctv/01/ctv_0160   0   11     列车    NN               *)))   -   -   -   -   *             *         *)            *     -
+bn/ctv/01/ctv_0160   0   12     相比    VV             (VP*))   相比  -   -   -   *    (ARGM-ADV*)      (V*)            *     -
+bn/ctv/01/ctv_0160   0   13     悬浮    PU                 *    -   -   -   -   *             *         *             *     -
+bn/ctv/01/ctv_0160   0   14     高度    AD         (VP(ADVP*)   -   -   -   -   *             *         *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0160   0   15     提高    VV              (VP*    提高  -   -   -   *             *         *           (V*)    -
+bn/ctv/01/ctv_0160   0   16      了    AS                 *    -   -   -   -   *             *         *        (ARG1*)    -
+bn/ctv/01/ctv_0160   0   17     １０    CD              (QP*    -   -   -   -   *             *         *        (ARG4*     -
+bn/ctv/01/ctv_0160   0   18     毫米     M         (CLP*)))))   -   -   -   -   *             *         *             *)    -
+bn/ctv/01/ctv_0160   0   19      。    PU                *))   -   -   -   -   *             *         *             *     -
+
+bn/ctv/01/ctv_0160   0    0      这   DT  (TOP(IP(IP(NP(DP*   -   -   -   -   *        (ARG0*      *        *   (1
+bn/ctv/01/ctv_0160   0    1      辆    M             (CLP*))  -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0    2     高温   NN               (NP*   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0    3      、   PU                  *   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0    4     超导   NN                  *   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0    5      、   PU                  *   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0    6    磁悬浮   NN                  *   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0    7    试验车   NN                 *))  -   -   -   -   *             *)     *        *    1)
+bn/ctv/01/ctv_0160   0    8      最   AD          (VP(ADVP*)  -   -   -   -   *    (ARGM-ADV*)     *        *    -
+bn/ctv/01/ctv_0160   0    9      大   VA             (VP*)))   大  -   -   -   *           (V*)     *        *    -
+bn/ctv/01/ctv_0160   0   10     悬浮   PU                  *   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0   11     重量   NN            (IP(NP*)  -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0   12    ５３０   CD            (VP(QP*   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0   13     公斤    M           (CLP*))))  -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0   14      ，   PU                  *   -   -   -   -   *             *      *        *    -
+bn/ctv/01/ctv_0160   0   15      可   VV            (IP(VP*    可  -   1   -   *             *    (V*)       *    -
+bn/ctv/01/ctv_0160   0   16      载   VV               (VP*    载  -   1   -   *             *      *      (V*)   -
+bn/ctv/01/ctv_0160   0   17      ５   CD            (NP(QP*)  -   -   -   -   *             *      *   (ARG1*    -
+bn/ctv/01/ctv_0160   0   18      人   NN           (NP*)))))  -   -   1   -   *             *      *        *)   -
+bn/ctv/01/ctv_0160   0   19      。   PU                 *))  -   -   -   -   *             *      *        *    -
+
+bn/ctv/01/ctv_0160   0    0     高温    NN   (TOP(IP(NP(NP*    -   -   -   -   *             *   (ARG0*   (ARG0*         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    1      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    2     超导    NN                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    3      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    4    磁悬浮    NN                *)   -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    5      车    NN            (NP*))   -   -   -   -   *             *        *)       *)        *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    6      与     P       (VP(VP(PP*    -   -   -   -   *             *   (ARG0*        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    7     目前    NT    (NP(CP(IP(NP*)   -   -   -   -   *    (ARGM-TMP*)       *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    8     日本    NR             (NP*    -   -   -   -   *        (ARG0*        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0    9      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   10     德国    NR                *)   -   -   -   -   *             *)       *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   11     投入    VV             (VP*    投入  -   1   -   *           (V*)       *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   12     运行    NN           (NP*)))   -   -   -   -   *        (ARG2*)       *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   13      的   DEC                *)   -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   14     长岛    JJ           (ADJP*)   -   -   -   -   *             *        *        *         *         *         *             *             *             *    (0)
+bn/ctv/01/ctv_0160   0   15    磁悬浮    NN             (NP*    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   16      车    NN              *)))   -   -   -   -   *             *        *)       *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   17     相比    VV            (VP*))   相比  -   -   -   *             *      (V*)       *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   18      ，    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   19     具有    VV             (VP*    具有  -   -   -   *             *        *      (V*)        *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   20     成本    NN   (NP(UCP(IP(NP*)   -   -   -   -   *             *        *   (ARG1*    (ARG0*)        *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   21      低    VA            (VP*))    低  -   1   -   *             *        *        *       (V*)        *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   22      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   23     速度    NN          (IP(NP*)   -   -   -   -   *             *        *        *         *    (ARG0*)        *             *             *             *     -
+bn/ctv/01/ctv_0160   0   24      快    VA            (VP*))    快  -   1   -   *             *        *        *         *       (V*)        *             *             *             *     -
+bn/ctv/01/ctv_0160   0   25      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   26    稳定性    NN          (IP(NP*)   -   -   -   -   *             *        *        *         *         *    (ARG0*)            *             *             *     -
+bn/ctv/01/ctv_0160   0   27      强    VA            (VP*))    强  -   -   -   *             *        *        *         *         *       (V*)            *             *             *     -
+bn/ctv/01/ctv_0160   0   28      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   29     噪声    NN          (IP(NP*)   -   -   -   -   *             *        *        *         *         *         *        (ARG0*)       (ARG1*)       (ARG0*)    -
+bn/ctv/01/ctv_0160   0   30      小    VA             (VP*     小  -   1   -   *             *        *        *         *         *         *           (V*)   (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/ctv/01/ctv_0160   0   31      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   32     稳定    VA                *    稳定  -   -   -   *             *        *        *         *         *         *             *           (V*)   (ARGM-ADV*)    -
+bn/ctv/01/ctv_0160   0   33      、    PU                *    -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   34     舒适    VA               *))   舒适  -   -   -   *             *        *        *         *         *         *    (ARGM-ADV*)   (ARGM-ADV*)          (V*)    -
+bn/ctv/01/ctv_0160   0   35      等   ETC                *)   -   -   2   -   *             *        *        *         *         *         *             *             *             *     -
+bn/ctv/01/ctv_0160   0   36     优点    NN          (NP*))))   -   -   -   -   *             *        *        *)        *         *         *             *        (ARG1*)            *     -
+bn/ctv/01/ctv_0160   0   37      。    PU               *))   -   -   -   -   *             *        *        *         *         *         *             *             *             *     -
+
+bn/ctv/01/ctv_0160   0   0      最   AD   (TOP(IP(NP(ADJP(ADVP*)   -   -   -   -   *      *   (ARG0*   -
+bn/ctv/01/ctv_0160   0   1      大   JJ                 (ADJP*))   -   -   -   -   *      *        *   -
+bn/ctv/01/ctv_0160   0   2     速度   NN                   (NP*))   -   -   -   -   *      *        *)  -
+bn/ctv/01/ctv_0160   0   3      可   VV                    (VP*     可  -   1   -   *    (V*)       *   -
+bn/ctv/01/ctv_0160   0   4     超过   VV                    (VP*    超过  -   -   -   *      *      (V*)  -
+bn/ctv/01/ctv_0160   0   5      每   DT                 (QP(DP*    -   -   -   -   *      *   (ARG1*   -
+bn/ctv/01/ctv_0160   0   6     小时    M                  (CLP*))   -   -   -   -   *      *        *   -
+bn/ctv/01/ctv_0160   0   7    ５００   CD                    (QP*    -   -   -   -   *      *        *   -
+bn/ctv/01/ctv_0160   0   8     公里    M               (CLP*)))))   -   -   -   -   *      *        *)  -
+bn/ctv/01/ctv_0160   0   9      。   PU                      *))   -   -   -   -   *      *        *   -
+
+bn/ctv/01/ctv_0160   0   0    中央台   NR   (TOP(IP(NP(NP*)   -   -   -   -   *   (ARG0*   -
+bn/ctv/01/ctv_0160   0   1     记者   NN            (NP*))   -   -   -   -   *        *)  -
+bn/ctv/01/ctv_0160   0   2     报道   VV             (VP*)   报道  -   -   -   *      (V*)  -
+bn/ctv/01/ctv_0160   0   3      。   PU               *))   -   -   -   -   *        *   -
+
+#end document

@@ -1,0 +1,82 @@
+#begin document (bn/vom/02/vom_0211); part 000
+bn/vom/02/vom_0211   0    0     欧洲    NR  (TOP(IP(IP(NP(NP*    -   -   -   -   *            *         *    (3
+bn/vom/02/vom_0211   0    1     联盟    NN                  *)   -   -   -   -   *            *         *     3)
+bn/vom/02/vom_0211   0    2      和    CC                  *    -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0    3    东南亚    NR         (NP(NP(NP*)   -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0    4     国家    NN               (NP*    -   -   1   -   *            *         *     -
+bn/vom/02/vom_0211   0    5     联盟    NN                 *))   -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0    6     部长    NN             (NP*)))   -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0    7     结束    VV               (VP*    -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0    8      了    AS                  *    -   -   -   -   *       (ARG1*)        *     -
+bn/vom/02/vom_0211   0    9      在     P   (NP(CP(IP(VP(PP*    -   -   2   -   *   (ARGM-LOC*         *    (2
+bn/vom/02/vom_0211   0   10     老挝    NR              (NP*))   -   -   -   -   *            *)        *     -
+bn/vom/02/vom_0211   0   11     举行    VV             (VP*)))   举行  -   -   -   *          (V*)        *     -
+bn/vom/02/vom_0211   0   12      的   DEC                  *)   -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0   13      ２    CD               (QP*    -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0   14      天     M             (CLP*))   -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0   15     会谈    NN            (NP*))))   -   -   -   -   *       (ARG1*)        *     2)
+bn/vom/02/vom_0211   0   16      ，    PU                  *    -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0   17     会谈    NN            (IP(NP*)   -   -   -   -   *            *    (ARG0*)   (2)
+bn/vom/02/vom_0211   0   18      在     P            (VP(PP*    -   -   2   -   *            *    (ARG2*     -
+bn/vom/02/vom_0211   0   19     关于     P    (LCP(NP(DNP(PP*    -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0   20     缅甸    NR              (NP*))   -   -   -   -   *            *         *    (4)
+bn/vom/02/vom_0211   0   21      的   DEG                  *)   -   -   -   -   *            *         *     -
+bn/vom/02/vom_0211   0   22     人权    NN               (NP*    -   -   1   -   *            *         *     -
+bn/vom/02/vom_0211   0   23     问题    NN                 *))   -   -   1   -   *            *         *     -
+bn/vom/02/vom_0211   0   24      上    LC                 *))   -   -   3   -   *            *         *)    -
+bn/vom/02/vom_0211   0   25     取得    VV               (VP*    取得  -   -   -   *            *       (V*)    -
+bn/vom/02/vom_0211   0   26     突破    NN            (NP*))))   -   -   3   -   *            *    (ARG1*)    -
+bn/vom/02/vom_0211   0   27      。    PU                 *))   -   -   -   -   *            *         *     -
+
+bn/vom/02/vom_0211   0    0     缅甸   NR   (TOP(IP(NP(NP*)   -   -   -   -   *   (ARG0*            *         *    (1|(4)
+bn/vom/02/vom_0211   0    1    军政府   NN            (NP*))   -   -   -   -   *        *)           *         *        1)
+bn/vom/02/vom_0211   0    2     同意   VV             (VP*    同意  -   1   -   *      (V*)           *         *        -
+bn/vom/02/vom_0211   0    3      下   DT    (IP(VP(NP(DP*    -   -   4   -   *   (ARG1*   (ARGM-TMP*         *        -
+bn/vom/02/vom_0211   0    4      个    M           (CLP*))   -   -   -   -   *        *            *         *        -
+bn/vom/02/vom_0211   0    5      月   NN            (NP*))   -   -   -   -   *        *            *)        *        -
+bn/vom/02/vom_0211   0    6      让   VV             (VP*     让  -   2   -   *        *          (V*)        *        -
+bn/vom/02/vom_0211   0    7      一   CD          (NP(QP*    -   -   -   -   *        *       (ARG1*         *       (5
+bn/vom/02/vom_0211   0    8      个    M           (CLP*))   -   -   -   -   *        *            *         *        -
+bn/vom/02/vom_0211   0    9     欧盟   NR             (NP*)   -   -   -   -   *        *            *         *       (3)
+bn/vom/02/vom_0211   0   10    调查团   NN            (NP*))   -   -   -   -   *        *            *)        *        5)
+bn/vom/02/vom_0211   0   11     访问   VV          (IP(VP*    访问  -   -   -   *        *       (ARG2*       (V*)       -
+bn/vom/02/vom_0211   0   12     缅甸   NR       (NP*)))))))   -   -   -   -   *        *)           *)   (ARG1*)      (4)
+bn/vom/02/vom_0211   0   13      。   PU               *))   -   -   -   -   *        *            *         *        -
+
+bn/vom/02/vom_0211   0   0     调查团   NR   (TOP(IP(NP*)   -   -   -   -   *        (ARG0*)   (5)
+bn/vom/02/vom_0211   0   1       将   AD     (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)    -
+bn/vom/02/vom_0211   0   2      会见   VV          (VP*    会见  -   -   -   *           (V*)    -
+bn/vom/02/vom_0211   0   3     反对派   NN       (NP(NP*    -   -   -   -   *        (ARG1*    (0
+bn/vom/02/vom_0211   0   4     领导人   NN             *)   -   -   -   -   *             *     -
+bn/vom/02/vom_0211   0   5    昂山树记   NR       (NP*))))   -   -   -   -   *             *)    0)
+bn/vom/02/vom_0211   0   6       。   PU            *))   -   -   -   -   *             *     -
+
+bn/vom/02/vom_0211   0   0    昂山树记   NR   (TOP(IP(NP*)   -   -   -   -   *             *    (0)
+bn/vom/02/vom_0211   0   1      自从    P       (VP(PP*    -   -   -   -   *    (ARGM-TMP*     -
+bn/vom/02/vom_0211   0   2      今年   NT      (LCP(NP*    -   -   -   -   *             *     -
+bn/vom/02/vom_0211   0   3      ９月   NT             *)   -   -   -   -   *             *     -
+bn/vom/02/vom_0211   0   4      以来   LC            *))   -   -   -   -   *             *)    -
+bn/vom/02/vom_0211   0   5      一直   AD        (ADVP*)   -   -   -   -   *    (ARGM-ADV*)    -
+bn/vom/02/vom_0211   0   6       被   SB          (VP*    -   -   -   -   *             *     -
+bn/vom/02/vom_0211   0   7      软禁   VV        (VP*)))   软禁  -   -   -   *           (V*)    -
+bn/vom/02/vom_0211   0   8       。   PU            *))   -   -   -   -   *             *     -
+
+bn/vom/02/vom_0211   0    0      缅甸    NR   (TOP(IP(NP(NP*)   -   -   -   -   *        (ARG0*    (ARG0*         *        *    (1|(4)
+bn/vom/02/vom_0211   0    1      政府    NN            (NP*))   -   -   1   -   *             *)        *)        *        *        1)
+bn/vom/02/vom_0211   0    2       也    AD        (VP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)        *         *        *        -
+bn/vom/02/vom_0211   0    3       有    VE             (VP*     有  -   4   -   *           (V*)        *         *        *        -
+bn/vom/02/vom_0211   0    4      迹象    NN          (IP(NP*)   -   -   -   -   *        (ARG1*    (ARG0*)   (ARG0*)       *        -
+bn/vom/02/vom_0211   0    5      表示    VV             (VP*    表示  -   2   -   *             *       (V*)    (REL*)       *        -
+bn/vom/02/vom_0211   0    6      准备    VV          (IP(VP*    准备  -   2   -   *             *    (ARG1*       (V*)       *        -
+bn/vom/02/vom_0211   0    7      取消    VV          (IP(VP*    取消  -   -   -   *             *         *    (ARG1*      (V*)       -
+bn/vom/02/vom_0211   0    8       对     P      (NP(DNP(PP*    -   -   3   -   *             *         *         *   (ARG1*        -
+bn/vom/02/vom_0211   0    9    昂山树记    NR          (NP(NP*)   -   -   -   -   *             *         *         *        *       (0)
+bn/vom/02/vom_0211   0   10       和    CC                *    -   -   -   -   *             *         *         *        *        -
+bn/vom/02/vom_0211   0   11      其他    DT          (NP(DP*)   -   -   -   -   *             *         *         *        *        -
+bn/vom/02/vom_0211   0   12     反对派    NN             (NP*    -   -   -   -   *             *         *         *        *        -
+bn/vom/02/vom_0211   0   13      人士    NN             *))))   -   -   -   -   *             *         *         *        *        -
+bn/vom/02/vom_0211   0   14       的   DEG                *)   -   -   -   -   *             *         *         *        *        -
+bn/vom/02/vom_0211   0   15      限制    NN    (NP*))))))))))   -   -   3   -   *             *)        *)        *)       *)       -
+bn/vom/02/vom_0211   0   16       。    PU               *))   -   -   -   -   *             *         *         *        *        -
+
+#end document

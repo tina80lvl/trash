@@ -1,0 +1,197 @@
+#begin document (bn/cbs/01/cbs_0123); part 000
+bn/cbs/01/cbs_0123   0    0       美国    NR  (TOP(IP(CP(IP(NP(CP(IP(NP(NP(NP*    -   -   -   -   *   (ARG0*             *             *    (2|(4
+bn/cbs/01/cbs_0123   0    1      民主党    NR                                 *)   -   -   -   -   *        *             *             *        2)
+bn/cbs/01/cbs_0123   0    2       总统    NN                              (NP*    -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0    3      候选人    NN                                *))   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0    4       戈尔    NR                             (NP*))   -   -   -   -   *        *             *             *        4)
+bn/cbs/01/cbs_0123   0    5       挑战    VV                              (VP*    -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0    6    佛罗里达州    NR                    (NP(DNP(NP(NP*)   -   -   -   -   *        *             *             *    (3|(6)
+bn/cbs/01/cbs_0123   0    7       选举    NN                             (NP*))   -   -   1   -   *        *             *             *        3)
+bn/cbs/01/cbs_0123   0    8        的   DEG                                 *)   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0    9       结果    NN                           (NP*))))   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   10        的   DEC                                 *)   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   11       努力    NN                             (NP*))   -   -   -   -   *        *)            *             *        -
+bn/cbs/01/cbs_0123   0   12       成功    VA                             (VP*))   成功  -   -   -   *      (V*)            *             *        -
+bn/cbs/01/cbs_0123   0   13       与否    SP                                 *)   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   14        ，    PU                                 *    -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   15       现在    NT                        (IP(VP(NP*)   -   -   -   -   *        *    (ARGM-TMP*)            *        -
+bn/cbs/01/cbs_0123   0   16        专    AD                            (ADVP*)   -   -   1   -   *        *    (ARGM-ADV*)            *        -
+bn/cbs/01/cbs_0123   0   17        看    VV                              (VP*     看  -   2   -   *        *           (V*)            *        -
+bn/cbs/01/cbs_0123   0   18       佛州    NR                     (IP(NP(NP(NP*)   -   -   -   -   *        *        (ARG1*        (ARG1*       (6)
+bn/cbs/01/cbs_0123   0   19       最高    JJ                            (ADJP*)   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   20       法院    NN                             (NP*))   -   -   -   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   21        对     P                              (PP*    -   -   3   -   *        *             *             *        -
+bn/cbs/01/cbs_0123   0   22       戈尔    NR                             (NP*))   -   -   -   -   *        *             *             *       (4)
+bn/cbs/01/cbs_0123   0   23      上诉案    NN                             (NP*))   -   -   -   -   *        *             *             *)       -
+bn/cbs/01/cbs_0123   0   24       如何    AD                         (VP(ADVP*)   -   -   -   -   *        *             *    (ARGM-ADV*)       -
+bn/cbs/01/cbs_0123   0   25       判决    VV                          (VP*)))))   判决  -   -   -   *        *             *)          (V*)       -
+bn/cbs/01/cbs_0123   0   26        了    SP                                 *)   -   -   -   -   *        *    (ARGM-ADV*)            *        -
+bn/cbs/01/cbs_0123   0   27        。    PU                                *))   -   -   -   -   *        *             *             *        -
+
+bn/cbs/01/cbs_0123   0    0     不过    AD     (TOP(IP(ADVP*)    -   -   -   -   *         *    (ARGM-DIS*)            *       -
+bn/cbs/01/cbs_0123   0    1     戈尔    NR     (NP(CP(IP(NP*)    -   -   -   -   *    (ARG0*)       (ARG0*             *      (4)
+bn/cbs/01/cbs_0123   0    2     问顶    VV              (VP*     问顶  -   -   -   *       (V*)            *             *       -
+bn/cbs/01/cbs_0123   0    3     白宫    NR            (NP*)))    -   -   -   -   *    (ARG1*)            *             *       -
+bn/cbs/01/cbs_0123   0    4      的   DEC                 *)    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0    5     真正    JJ        (DNP(ADJP*)    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0    6      的   DEG                 *)    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0    7     唯一    JJ            (ADJP*)    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0    8     希望    NN             (NP*))    -   -   2   -   *         *             *)            *       -
+bn/cbs/01/cbs_0123   0    9     可能    AD         (VP(ADVP*)    -   -   -   -   *         *    (ARGM-ADV*)            *       -
+bn/cbs/01/cbs_0123   0   10    取决于    VV              (VP*    取决于  -   -   -   *         *           (V*)            *       -
+bn/cbs/01/cbs_0123   0   11      在     P  (NP(CP(IP(VP(PP*     -   -   2   -   *         *        (ARG1*    (ARGM-LOC*       -
+bn/cbs/01/cbs_0123   0   12      两    CD           (NP(QP*     -   -   -   -   *         *             *             *   (0|(5
+bn/cbs/01/cbs_0123   0   13      个     M            (CLP*))    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0   14      小    JJ            (ADJP*)    -   -   1   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0   15      郡    NN            (NP*)))    -   -   -   -   *         *             *             *)      5)
+bn/cbs/01/cbs_0123   0   16      所   MSP              (VP*     -   -   -   -   *         *             *    (ARGM-ADV*)      -
+bn/cbs/01/cbs_0123   0   17     提出    VV           (VP*))))    提出  -   -   -   *         *             *           (V*)      -
+bn/cbs/01/cbs_0123   0   18      的   DEC                 *)    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0   19      两    CD           (NP(QP*     -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0   20      件     M            (CLP*))    -   -   -   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0   21     选举    NN             (NP*))    -   -   1   -   *         *             *             *       -
+bn/cbs/01/cbs_0123   0   22     官司    NN           (NP*))))    -   -   -   -   *         *             *)       (ARG1*)      0)
+bn/cbs/01/cbs_0123   0   23      。    PU                *))    -   -   -   -   *         *             *             *       -
+
+bn/cbs/01/cbs_0123   0    0      这    DT  (TOP(IP(NP(DP*    -   -   -   -   *        *      *        (ARG1*       (0
+bn/cbs/01/cbs_0123   0    1      两    CD            (QP*    -   -   -   -   *        *      *             *        -
+bn/cbs/01/cbs_0123   0    2      个     M         (CLP*)))   -   -   -   -   *        *      *             *        -
+bn/cbs/01/cbs_0123   0    3      由     P   (CP(IP(VP(PP*    -   -   1   -   *   (ARG0*      *             *        -
+bn/cbs/01/cbs_0123   0    4    民主党    NR         (NP(NP*)   -   -   -   -   *        *      *             *    (9|(2)
+bn/cbs/01/cbs_0123   0    5    支持者    NN          (NP*)))   -   -   -   -   *        *)     *             *        9)
+bn/cbs/01/cbs_0123   0    6      所   MSP            (VP*    -   -   -   -   *        *      *             *        -
+bn/cbs/01/cbs_0123   0    7     提起    VV         (VP*))))   提起  -   -   -   *      (V*)     *             *        -
+bn/cbs/01/cbs_0123   0    8      的   DEC               *)   -   -   -   -   *        *      *             *        -
+bn/cbs/01/cbs_0123   0    9     诉讼    NN            (NP*    -   -   -   -   *        *      *             *        -
+bn/cbs/01/cbs_0123   0   10     案件    NN              *))   -   -   -   -   *        *      *             *)       0)
+bn/cbs/01/cbs_0123   0   11      ，    PU               *    -   -   -   -   *        *      *             *        -
+bn/cbs/01/cbs_0123   0   12      将    AD       (VP(ADVP*)   -   -   -   -   *   (ARG1*      *    (ARGM-ADV*)       -
+bn/cbs/01/cbs_0123   0   13      在     P            (PP*    -   -   2   -   *        *      *    (ARGM-TMP*        -
+bn/cbs/01/cbs_0123   0   14     ６号    NT           (NP*))   -   -   -   -   *        *      *             *)       -
+bn/cbs/01/cbs_0123   0   15      由     P            (PP*    -   -   1   -   *        *      *        (ARG0*        -
+bn/cbs/01/cbs_0123   0   16     法官    NN           (NP*))   -   -   -   -   *        *      *             *)      (1)
+bn/cbs/01/cbs_0123   0   17     开庭    VV        (VP(VSB*    开庭  -   -   -   *        *    (V*)   (ARGM-ADV*)       -
+bn/cbs/01/cbs_0123   0   18     审理    VV             *)))   审理  -   -   -   *        *)     *           (V*)       -
+bn/cbs/01/cbs_0123   0   19      。    PU              *))   -   -   -   -   *        *      *             *        -
+
+bn/cbs/01/cbs_0123   0    0        两    CD   (TOP(IP(NP(NP(QP*)      -   -   -   -   *       (ARG0*   (ARG0*             *         *   (0|(9
+bn/cbs/01/cbs_0123   0    1        案    NN               (NP*))      -   -   -   -   *            *        *             *         *       0)
+bn/cbs/01/cbs_0123   0    2       原告    NN               (NP*))      -   -   -   -   *            *)       *)            *         *       9)
+bn/cbs/01/cbs_0123   0    3        在     P             (VP(PP*       -   -   2   -   *   (ARGM-LOC*        *             *         *       -
+bn/cbs/01/cbs_0123   0    4       诉上    NN            (LCP(NP*)      -   -   -   -   *            *        *             *         *       -
+bn/cbs/01/cbs_0123   0    5        中    LC                  *))      -   -   -   -   *            *)       *             *         *       -
+bn/cbs/01/cbs_0123   0    6       要求    VV                (VP*       要求  -   1   -   *          (V*)       *             *         *       -
+bn/cbs/01/cbs_0123   0    7       法官    NN                (NP*)      -   -   -   -   *       (ARG1*)       *             *         *      (1)
+bn/cbs/01/cbs_0123   0    8       判决    VV             (IP(VP*       判决  -   -   -   *       (ARG2*      (V*)            *         *       -
+bn/cbs/01/cbs_0123   0    9      马丁郡    NN             (IP(NP*)      -   -   -   -   *            *   (ARG1*             *    (ARG0*)  (5|(8
+bn/cbs/01/cbs_0123   0   10        跟     P             (VP(PP*       -   -   4   -   *            *        *    (ARGM-ADV*)   (ARG0*       -
+bn/cbs/01/cbs_0123   0   11    塞米诺尔郡    VV      (NP(CP(IP(VP*))   塞米诺尔郡  -   -   -   *            *        *           (V*)        *       5)
+bn/cbs/01/cbs_0123   0   12        的   DEC                   *)      -   -   -   -   *            *        *             *         *       -
+bn/cbs/01/cbs_0123   0   13    ２５０００    CD                (QP*       -   -   -   -   *            *        *             *         *       -
+bn/cbs/01/cbs_0123   0   14        张     M              (CLP*))      -   -   -   -   *            *        *             *         *       -
+bn/cbs/01/cbs_0123   0   15       通讯    NN                (NP*       -   -   -   -   *            *        *        (ARG1*         *       -
+bn/cbs/01/cbs_0123   0   16        票    NN                 *)))      -   -   -   -   *            *        *             *)        *)      8)
+bn/cbs/01/cbs_0123   0   17       无效    VV          (VP*)))))))      无效  -   -   -   *            *)       *)       (ARG1*)      (V*)      -
+bn/cbs/01/cbs_0123   0   18        。    PU                  *))      -   -   -   -   *            *        *             *         *       -
+
+bn/cbs/01/cbs_0123   0    0       这    DT       (TOP(IP(IP(NP(DP*      -   -   -   -   *        (ARG0*             *        *             *             *   (0
+bn/cbs/01/cbs_0123   0    1       两    CD                    (QP*      -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0    2       年     M                 (CLP*)))     -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0    3      官司    NN                   (NP*))     -   -   -   -   *             *)            *        *             *             *    0)
+bn/cbs/01/cbs_0123   0    4      只要    CS               (VP(ADVP*)     -   -   -   -   *    (ARGM-DIS*)            *        *             *             *    -
+bn/cbs/01/cbs_0123   0    5       有    VE                    (VP*       有  -   3   -   *           (V*)            *        *             *             *    -
+bn/cbs/01/cbs_0123   0    6       一    CD                 (NP(QP*      -   -   -   -   *        (ARG1*             *        *             *             *    -
+bn/cbs/01/cbs_0123   0    7       件     M                  (CLP*))     -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0    8      胜诉    NN                (NP*)))))     -   -   -   -   *             *)            *        *             *             *    -
+bn/cbs/01/cbs_0123   0    9       ，    PU                       *      -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0   10       小    JJ   (IP(NP(CP(IP(NP(ADJP*)     -   -   1   -   *             *        (ARG0*   (ARG0*             *             *   (7
+bn/cbs/01/cbs_0123   0   11      布什    NR                   (NP*))     -   -   -   -   *             *             *)       *             *             *    7)
+bn/cbs/01/cbs_0123   0   12      目前    NT                 (VP(NP*)     -   -   -   -   *             *    (ARGM-TMP*)       *             *             *    -
+bn/cbs/01/cbs_0123   0   13       所   MSP                    (VP*      -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0   14      掌握    VV                 (VP*))))     掌握  -   -   -   *             *           (V*)       *             *             *    -
+bn/cbs/01/cbs_0123   0   15       的   DEC                       *)     -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0   16     ５３７    CD                 (NP(QP*)     -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0   17       票    NN                   (NP*))     -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0   18      领先    NN                    (NP*      -   -   -   -   *             *             *        *             *             *    -
+bn/cbs/01/cbs_0123   0   19      差距    NN                      *))     -   -   -   -   *             *             *        *)            *             *    -
+bn/cbs/01/cbs_0123   0   20      确定    VV                    (VP*      确定  -   -   -   *             *             *      (V*)            *             *    -
+bn/cbs/01/cbs_0123   0   21      立刻    AD            (IP(VP(ADVP*)     -   -   -   -   *             *             *   (ARG1*    (ARGM-ADV*)   (ARGM-ADV*)   -
+bn/cbs/01/cbs_0123   0   22       就    AD                  (ADVP*)     -   -   2   -   *             *             *        *             *    (ARGM-ADV*)   -
+bn/cbs/01/cbs_0123   0   23       会    VV                    (VP*       会  -   1   -   *             *             *        *           (V*)            *    -
+bn/cbs/01/cbs_0123   0   24    化为乌有    VV               (VP*))))))   化为乌有  -   -   -   *             *             *        *)       (ARG1*)          (V*)   -
+bn/cbs/01/cbs_0123   0   25       。    PU                      *))     -   -   -   -   *             *             *        *             *             *    -
+
+bn/cbs/01/cbs_0123   0    0    如此一来    CD          (TOP(IP(LST*)   -   -   -   -   *    (ARGM-DIS*)        *    (ARGM-DIS*)            *             *        -
+bn/cbs/01/cbs_0123   0    1       ，    PU                     *    -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0    2      佛州    NR        (NP(DNP(NP(NP*)   -   -   -   -   *        (ARG0*         *        (ARG0*             *             *    (3|(6)
+bn/cbs/01/cbs_0123   0    3      选举    NN                 (NP*))   -   -   1   -   *             *         *             *             *             *        3)
+bn/cbs/01/cbs_0123   0    4       的   DEG                     *)   -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0    5     胜利者    NN                 (NP*))   -   -   -   -   *             *)        *             *)            *             *        -
+bn/cbs/01/cbs_0123   0    6       将    AD          (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)        *             *             *             *        -
+bn/cbs/01/cbs_0123   0    7      变成    VV                  (VP*    变成  -   -   -   *           (V*)        *             *             *             *        -
+bn/cbs/01/cbs_0123   0    8       为    VC               (IP(VP*     为  -   2   -   *        (ARG2*       (V*)            *             *             *        -
+bn/cbs/01/cbs_0123   0    9      戈尔    NR              (NP*)))))   -   -   -   -   *             *)   (ARG1*)            *             *             *       (4)
+bn/cbs/01/cbs_0123   0   10       ，    PU                     *    -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0   11       而    CC                     *    -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0   12       不    AD             (VP(ADVP*)   -   -   -   -   *             *         *    (ARGM-ADV*)            *             *        -
+bn/cbs/01/cbs_0123   0   13       是    VC                  (VP*     是  -   1   -   *             *         *           (V*)            *             *        -
+bn/cbs/01/cbs_0123   0   14      佛州    NR   (NP(CP(IP(NP(NP(NP*)   -   -   -   -   *             *         *        (ARG1*        (ARG0*        (ARG0*    (7|(6)
+bn/cbs/01/cbs_0123   0   15     州务卿    NN                 (NP*))   -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0   16     哈里斯    NR                 (NP*))   -   -   -   -   *             *         *             *             *)            *)       -
+bn/cbs/01/cbs_0123   0   17      先前    NT               (VP(NP*)   -   -   -   -   *             *         *             *    (ARGM-TMP*)   (ARGM-TMP*)       -
+bn/cbs/01/cbs_0123   0   18       所   MSP                  (VP*    -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0   19      宣布    VV                  (VP*    宣布  -   -   -   *             *         *             *           (V*)            *        -
+bn/cbs/01/cbs_0123   0   20      确认    VV              (VP*)))))   确认  -   1   -   *             *         *             *        (ARG1*)          (V*)       -
+bn/cbs/01/cbs_0123   0   21       的   DEC                     *)   -   -   -   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0   22       小    JJ                (ADJP*)   -   -   1   -   *             *         *             *             *             *        -
+bn/cbs/01/cbs_0123   0   23      布什    NR              (NP*)))))   -   -   -   -   *             *         *             *)            *             *        7)
+bn/cbs/01/cbs_0123   0   24       。    PU                    *))   -   -   -   -   *             *         *             *             *             *        -
+
+bn/cbs/01/cbs_0123   0    0       不过    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)       *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0    1        小    JJ       (NP(NP(ADJP*)   -   -   1   -   *        (ARG0*        *             *             *         *             *             *         *    (7
+bn/cbs/01/cbs_0123   0    2       布什    NR              (NP*))   -   -   -   -   *             *        *             *             *         *             *             *         *     7)
+bn/cbs/01/cbs_0123   0    3       阵营    NN              (NP*))   -   -   -   -   *             *)       *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0    4       确定    VV               (VP*    确定  -   -   -   *           (V*)       *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0    5        也    AD       (IP(VP(ADVP*)   -   -   -   -   *        (ARG1*        *    (ARGM-DIS*)            *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0    6        会    VV               (VP*     会  -   1   -   *             *      (V*)            *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0    7        对     P            (VP(PP*    -   -   3   -   *             *   (ARG1*        (ARG1*             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0    8        两    CD            (NP(QP*)   -   -   -   -   *             *        *             *             *         *             *             *         *    (0
+bn/cbs/01/cbs_0123   0    9        案    NN             (NP*)))   -   -   -   -   *             *        *             *)            *         *             *             *         *     0)
+bn/cbs/01/cbs_0123   0   10       提起    VV               (VP*    提起  -   -   -   *             *        *           (V*)            *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   11       上诉    NN         (NP*)))))))   -   -   -   -   *             *)       *)       (ARG1*)            *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   12        ，    PU                  *    -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   13       因为     P               (PP*    -   -   -   -   *    (ARGM-PRP*        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   14        两    CD         (IP(NP(QP*    -   -   -   -   *             *        *             *        (ARG0*         *             *             *         *    (5
+bn/cbs/01/cbs_0123   0   15        个     M             (CLP*))   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   16        郡    NN              (NP*))   -   -   -   -   *             *        *             *             *)        *             *             *         *     5)
+bn/cbs/01/cbs_0123   0   17        都    AD          (VP(ADVP*)   -   -   -   -   *             *        *             *    (ARGM-ADV*)        *             *             *         *     -
+bn/cbs/01/cbs_0123   0   18        是    VC               (VP*     是  -   1   -   *             *        *             *           (V*)        *             *             *         *     -
+bn/cbs/01/cbs_0123   0   19      共和党    NR        (NP(DNP(NP*)   -   -   -   -   *             *        *             *        (ARG1*         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   20        的   DEG                  *)   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   21       票仓    NN         (NP*)))))))   -   -   -   -   *             *)       *             *             *)        *             *             *         *     -
+bn/cbs/01/cbs_0123   0   22        ，    PU                  *    -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   23    ２５０００    CD      (IP(NP(NP(QP*    -   -   -   -   *             *        *             *             *         *        (ARG0*        (ARG0*         *    (8
+bn/cbs/01/cbs_0123   0   24        张     M             (CLP*))   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   25       选票    NN              (NP*))   -   -   -   -   *             *        *             *             *         *             *             *         *     8)
+bn/cbs/01/cbs_0123   0   26        这    DT               (DP*)   -   -   -   -   *             *        *             *             *         *             *             *         *    (8
+bn/cbs/01/cbs_0123   0   27       通讯    NN               (NP*    -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   28       选票    NN                 *))   -   -   -   -   *             *        *             *             *         *             *)            *)        *     8)
+bn/cbs/01/cbs_0123   0   29       如果    CS       (VP(CP(ADVP*)   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   30        被    LB         (CP(IP(VP*    -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   31       判决    NN            (IP(NP*)   -   -   -   -   *             *        *             *             *    (ARG0*)            *             *         *     -
+bn/cbs/01/cbs_0123   0   32       无效    VV            (VP*))))   无效  -   -   -   *             *        *             *             *       (V*)            *             *         *     -
+bn/cbs/01/cbs_0123   0   33       的话    SP                 *))   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   34        则    AD             (ADVP*)   -   -   -   -   *             *        *             *             *         *    (ARGM-DIS*)   (ARGM-DIS*)        *     -
+bn/cbs/01/cbs_0123   0   35       肯定    AD             (ADVP*)   -   -   2   -   *             *        *             *             *         *    (ARGM-ADV*)   (ARGM-ADV*)        *     -
+bn/cbs/01/cbs_0123   0   36        会    VV               (VP*     会  -   1   -   *             *        *             *             *         *           (V*)            *         *     -
+bn/cbs/01/cbs_0123   0   37        让    VV               (VP*     让  -   2   -   *             *        *             *             *         *        (ARG1*           (V*)        *     -
+bn/cbs/01/cbs_0123   0   38       戈尔    NR               (NP*)   -   -   -   -   *             *        *             *             *         *             *        (ARG1*)        *    (4)
+bn/cbs/01/cbs_0123   0   39       多出    VV            (IP(VP*    多出  -   -   -   *             *        *             *             *         *             *        (ARG2*       (V*)    -
+bn/cbs/01/cbs_0123   0   40        了    AS                  *    -   -   -   -   *             *        *             *             *         *             *             *    (ARG1*)    -
+bn/cbs/01/cbs_0123   0   41       将近    AD       (NP(QP(ADVP*)   -   -   -   -   *             *        *             *             *         *             *             *    (ARG1*     -
+bn/cbs/01/cbs_0123   0   42     ８０００    CD               (QP*    -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   43        张     M            (CLP*)))   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+bn/cbs/01/cbs_0123   0   44       选票    NN        (NP*))))))))   -   -   -   -   *             *        *             *             *         *             *)            *)        *)    -
+bn/cbs/01/cbs_0123   0   45        。    PU                 *))   -   -   -   -   *             *        *             *             *         *             *             *         *     -
+
+#end document

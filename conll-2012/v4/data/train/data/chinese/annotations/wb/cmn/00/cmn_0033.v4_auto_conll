@@ -1,0 +1,531 @@
+#begin document (wb/cmn/00/cmn_0033); part 000
+wb/cmn/00/cmn_0033   0    0     看    VV  (TOP(IP(IP(VP*   -   -   2   -   *             *             *   -
+wb/cmn/00/cmn_0033   0    1     了    AS               *   -   -   -   -   *             *             *   -
+wb/cmn/00/cmn_0033   0    2     两    CD            (QP*   -   -   -   -   *             *             *   -
+wb/cmn/00/cmn_0033   0    3     天     M        (CLP*))))  -   -   -   -   *             *             *   -
+wb/cmn/00/cmn_0033   0    4     ，    PU               *   -   -   -   -   *             *             *   -
+wb/cmn/00/cmn_0033   0    5    心里    NN         (IP(NP*)  -   -   -   -   *        (ARG0*)       (ARG0*)  -
+wb/cmn/00/cmn_0033   0    6     真    AD       (VP(ADVP*)  -   -   1   -   *    (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0    7    他妈    IJ          (INTJ*)  -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0    8     堵    VV            (VP*    堵  -   -   -   *           (V*)            *   -
+wb/cmn/00/cmn_0033   0    9     得   DER               *   -   -   -   -   *        (ARG1*)       (ARG1*)  -
+wb/cmn/00/cmn_0033   0   10     慌    VV       (VP*))))))   慌  -   -   -   *    (ARGM-EXT*)          (V*)  -
+
+wb/cmn/00/cmn_0033   0   0    nihuai   NR   (TOP(FRAG*))  -   -   -   -   *    (3)
+
+wb/cmn/00/cmn_0033   0   0         发信人   NN  (TOP(FRAG*   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   1           ：   PU           *   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   2      nihuai   NR           *   -   -   -    _nihuai_  *   (3
+wb/cmn/00/cmn_0033   0   3           （   PU           *   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   4        DULM   NR           *   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   5           ）   PU           *   -   -   -    _nihuai_  *    3)
+wb/cmn/00/cmn_0033   0   6           ，   PU           *   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   7          信区   NN           *   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   8           ：   PU           *   -   -   -    _nihuai_  *    -
+wb/cmn/00/cmn_0033   0   9    Overseas   NN          *))  -   -   -    _nihuai_  *    -
+
+wb/cmn/00/cmn_0033   0    0    标题    NN   (TOP(IP(IP(NP*)  -   -   -    _nihuai_  *       (ARG0*)            *             *   -
+wb/cmn/00/cmn_0033   0    1     ：    PU                *   -   -   -    _nihuai_  *            *             *             *   -
+wb/cmn/00/cmn_0033   0    2     看    VV             (VP*    看  -   2    _nihuai_  *          (V*)            *             *   -
+wb/cmn/00/cmn_0033   0    3     了    AS                *   -   -   -    _nihuai_  *       (ARG1*)            *             *   -
+wb/cmn/00/cmn_0033   0    4     两    CD             (QP*   -   -   -    _nihuai_  *   (ARGM-EXT*             *             *   -
+wb/cmn/00/cmn_0033   0    5     天     M         (CLP*))))  -   -   -    _nihuai_  *            *)            *             *   -
+wb/cmn/00/cmn_0033   0    6     ，    PU                *   -   -   -    _nihuai_  *            *             *             *   -
+wb/cmn/00/cmn_0033   0    7    心里    NN          (IP(NP*)  -   -   -    _nihuai_  *            *        (ARG0*)       (ARG0*)  -
+wb/cmn/00/cmn_0033   0    8     真    AD        (VP(ADVP*)  -   -   1    _nihuai_  *            *    (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0    9    他妈    IJ           (INTJ*)  -   -   -    _nihuai_  *            *    (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   10     堵    VV             (VP*    堵  -   -    _nihuai_  *            *           (V*)            *   -
+wb/cmn/00/cmn_0033   0   11     得   DER                *   -   -   -    _nihuai_  *            *        (ARG1*)       (ARG1*)  -
+wb/cmn/00/cmn_0033   0   12     慌    VV        (VP*))))))   慌  -   -    _nihuai_  *            *    (ARGM-EXT*)          (V*)  -
+
+wb/cmn/00/cmn_0033   0    0         发信站   NN  (TOP(FRAG*   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    1           ：   PU           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    2         BBS   NN           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    3          未名   NR           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    4         空间站   NR           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    5           （   PU           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    6         Sun   NT           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    7         Jan   NT           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    8         21    NT           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    9   21：10：52    NT           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0   10       2007    NT           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0   11           ）   PU          *))  -   -   -    _nihuai_  *   -
+
+wb/cmn/00/cmn_0033   0    0    按理    AD   (TOP(IP(CP(IP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)            *             *             *     -
+wb/cmn/00/cmn_0033   0    1    自己    PN                  (NP*)   -   -   -    _nihuai_  *        (ARG0*)            *             *             *    (3)
+wb/cmn/00/cmn_0033   0    2     也    AD             (VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-DIS*)            *             *             *     -
+wb/cmn/00/cmn_0033   0    3     是    VC                  (VP*     是  -   1    _nihuai_  *           (V*)            *             *             *     -
+wb/cmn/00/cmn_0033   0    4     三    CD        (NP(DNP(QP(QP*    -   -   -    _nihuai_  *        (ARG1*             *             *             *     -
+wb/cmn/00/cmn_0033   0    5    张儿     M                (CLP*))   -   -   -    _nihuai_  *             *             *             *             *     -
+wb/cmn/00/cmn_0033   0    6     半    CD                 (QP*))   -   -   -    _nihuai_  *             *             *             *             *     -
+wb/cmn/00/cmn_0033   0    7     的   DEG                     *)   -   -   -    _nihuai_  *             *             *             *             *     -
+wb/cmn/00/cmn_0033   0    8     人    NN              (NP*)))))   -   -   1    _nihuai_  *             *)            *             *             *     -
+wb/cmn/00/cmn_0033   0    9     了    SP                     *)   -   -   -    _nihuai_  *    (ARGM-ADV*)            *             *             *     -
+wb/cmn/00/cmn_0033   0   10     ，    PU                     *    -   -   -    _nihuai_  *             *             *             *             *     -
+wb/cmn/00/cmn_0033   0   11    怎么    AD       (CP(IP(VP(ADVP*)   -   -   -    _nihuai_  *             *    (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0033   0   12     也    AD                (ADVP*)   -   -   -    _nihuai_  *             *    (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0033   0   13     快    AD                (ADVP*)   -   -   2    _nihuai_  *             *    (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0033   0   14    不惑    VV                (VP*)))   不惑  -   -    _nihuai_  *             *           (V*)            *             *     -
+wb/cmn/00/cmn_0033   0   15     了    SP                     *)   -   -   -    _nihuai_  *             *             *             *             *     -
+wb/cmn/00/cmn_0033   0   16     。    PU                     *    -   -   -    _nihuai_  *             *             *             *             *     -
+wb/cmn/00/cmn_0033   0   17     但    AD             (IP(ADVP*)   -   -   -    _nihuai_  *             *             *    (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0033   0   18    依然    AD             (VP(ADVP*)   -   -   -    _nihuai_  *             *             *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0033   0   19     看    VV                  (VP*     看  -   2    _nihuai_  *             *             *           (V*)            *     -
+wb/cmn/00/cmn_0033   0   20     的   DER                     *    -   -   -    _nihuai_  *             *             *        (ARG1*)       (ARG1*)    -
+wb/cmn/00/cmn_0033   0   21     我    PN               (IP(NP*)   -   -   -    _nihuai_  *             *             *    (ARGM-ADV*        (ARG0*)   (3)
+wb/cmn/00/cmn_0033   0   22     很    AD             (VP(ADVP*)   -   -   -    _nihuai_  *             *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0   23    恶心    VA             (VP*))))))   恶心  -   -    _nihuai_  *             *             *             *)          (V*)    -
+wb/cmn/00/cmn_0033   0   24     。    PU                    *))   -   -   -    _nihuai_  *             *             *             *             *     -
+
+wb/cmn/00/cmn_0033   0   0     不   AD   (TOP(IP(VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)            *             *             *   -
+wb/cmn/00/cmn_0033   0   1    知道   VV               (VP*    知道  -   -    _nihuai_  *           (V*)            *             *             *   -
+wb/cmn/00/cmn_0033   0   2     崔   NR            (IP(NP*)   -   -   -    _nihuai_  *        (ARG1*        (ARG0*)       (ARG0*)       (ARG0*)  -
+wb/cmn/00/cmn_0033   0   3    到底   AD          (VP(ADVP*)   -   -   -    _nihuai_  *             *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   4     搞   VV           (VP(VNV*     搞  -   2    _nihuai_  *             *           (V*)        (REL*)            *   -
+wb/cmn/00/cmn_0033   0   5     没   AD                  *    -   -   2    _nihuai_  *             *    (ARGM-ADV*)   (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0033   0   6     搞   VV                  *)    搞  -   1    _nihuai_  *             *    (ARGM-ADV*)          (V*)            *   -
+wb/cmn/00/cmn_0033   0   7     未   AD       (IP(VP(ADVP*)   -   -   1    _nihuai_  *             *        (ARG1*        (ARG1*    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   8    成年   VV        (VP*))))))))   成年  -   -    _nihuai_  *             *)            *)            *)          (V*)  -
+wb/cmn/00/cmn_0033   0   9     。   PU                 *))   -   -   -    _nihuai_  *             *             *             *             *   -
+
+wb/cmn/00/cmn_0033   0    0    如果    CS   (TOP(IP(IP(CP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-DIS*)            *    (ARGM-ADV*        *    (ARGM-ADV*             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0    1    发生    VV               (IP(VP*    发生  -   1    _nihuai_  *           (V*)            *             *        *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0    2     在     P                  (PP*    -   -   2    _nihuai_  *        (ARG1*             *             *        *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0    3     我    PN               (NP(NP*    -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *    (5
+wb/cmn/00/cmn_0033   0    4    朋友    NN                     *)   -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *     5)
+wb/cmn/00/cmn_0033   0    5    身上    NN             (NP*))))))   -   -   -    _nihuai_  *             *)            *             *)       *             *)            *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0    6     ，    PU                     *    -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0    7     我    PN                  (NP*)   -   -   -    _nihuai_  *        (ARG0*)       (ARG0*)       (ARG0*)       *        (ARG0*)            *      *             *      *        *             *    (3)
+wb/cmn/00/cmn_0033   0    8    多半    AD             (VP(ADVP*)   -   -   -    _nihuai_  *             *    (ARGM-ADV*)   (ARGM-ADV*)       *    (ARGM-ADV*)   (ARGM-ADV*)     *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0    9     会    VV                  (VP*     会  -   1    _nihuai_  *             *           (V*)       (ARG0*)       *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   10    避免    VV               (VP(VP*    避免  -   -    _nihuai_  *             *        (ARG1*           (V*)       *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   11     和     P            (IP(VP(PP*    -   -   -    _nihuai_  *             *             *        (ARG1*   (ARG1*             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   12     他    PN                 (NP*))   -   -   -    _nihuai_  *             *             *             *        *)            *             *      *             *      *        *             *    (5)
+wb/cmn/00/cmn_0033   0   13    联系    VV               (VP*))))   联系  -   1    _nihuai_  *             *             *             *)     (V*)            *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   14     ，    PU                     *    -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   15     等    VV                  (VP*     等  -   1    _nihuai_  *             *             *             *        *           (V*)            *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   16     他    PN               (IP(NP*)   -   -   -    _nihuai_  *             *             *             *        *        (ARG1*        (ARG0*)     *        (ARG0*)     *        *             *    (5)
+wb/cmn/00/cmn_0033   0   17     洗    VV           (VP(VP(VRD*     洗  -   -    _nihuai_  *             *             *             *        *             *           (V*)     *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   18    干净    VA                     *)   干净  -   -    _nihuai_  *             *             *             *        *             *        (ARG1*)   (V*)            *      *        *             *     -
+wb/cmn/00/cmn_0033   0   19     了    AS                     *)   -   -   -    _nihuai_  *             *             *             *        *             *        (ARG1*)     *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   20     再    AD             (VP(ADVP*)   -   -   1    _nihuai_  *             *             *             *        *             *             *      *    (ARGM-ADV*)     *        *             *     -
+wb/cmn/00/cmn_0033   0   21     说    VV          (VP*)))))))))    说  -   7    _nihuai_  *             *             *)            *        *             *)            *      *           (V*)     *        *             *     -
+wb/cmn/00/cmn_0033   0   22     ，    PU                     *    -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   23    毕竟    AD          (IP(VP(ADVP*)   -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *     -
+wb/cmn/00/cmn_0033   0   24    做人    VV                  (VP*)   做人  -   -    _nihuai_  *             *             *             *        *             *             *      *             *    (V*)       *             *     -
+wb/cmn/00/cmn_0033   0   25     是    VC                  (VP*     是  -   1    _nihuai_  *             *             *             *        *             *             *      *             *      *      (V*)            *     -
+wb/cmn/00/cmn_0033   0   26     有    VE            (CP(IP(VP*     有  -   3    _nihuai_  *             *             *             *        *             *             *      *             *      *   (ARG1*           (V*)    -
+wb/cmn/00/cmn_0033   0   27    底线    NN                (NP*)))   -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *        (ARG1*)    -
+wb/cmn/00/cmn_0033   0   28     的   DEC                  *))))   -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0   29     。    PU                    *))   -   -   -    _nihuai_  *             *             *             *        *             *             *      *             *      *        *             *     -
+
+wb/cmn/00/cmn_0033   0    0    有些   DT   (TOP(IP(IP(NP(DP*)   -   -   -    _nihuai_  *   (ARG0*             *             *             *            *             *   -
+wb/cmn/00/cmn_0033   0    1     事   NN               (NP*))   -   -   1    _nihuai_  *        *)            *             *             *            *             *   -
+wb/cmn/00/cmn_0033   0    2     是   VC                (VP*     是  -   1    _nihuai_  *      (V*)            *             *             *            *             *   -
+wb/cmn/00/cmn_0033   0    3     绝   AD     (CP(IP(VP(ADVP*)   -   -   3    _nihuai_  *   (ARG1*    (ARGM-ADV*)   (ARGM-ADV*)            *            *             *   -
+wb/cmn/00/cmn_0033   0    4     不   AD              (ADVP*)   -   -   -    _nihuai_  *        *             *    (ARGM-ADV*)            *            *             *   -
+wb/cmn/00/cmn_0033   0    5    可以   VV                (VP*    可以  -   1    _nihuai_  *        *           (V*)            *             *            *             *   -
+wb/cmn/00/cmn_0033   0    6    接受   VV             (VP*))))   接受  -   -    _nihuai_  *        *             *           (V*)            *            *             *   -
+wb/cmn/00/cmn_0033   0    7     的   SP                 *)))   -   -   -    _nihuai_  *        *)            *             *             *            *             *   -
+wb/cmn/00/cmn_0033   0    8     ，   PU                   *    -   -   -    _nihuai_  *        *             *             *             *            *             *   -
+wb/cmn/00/cmn_0033   0    9    比如   AD           (IP(ADVP*)   -   -   -    _nihuai_  *        *             *             *    (ARGM-DIS*)           *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0033   0   10     杀   VV             (VP(VP*     杀  -   -    _nihuai_  *        *             *             *           (V*)           *             *   -
+wb/cmn/00/cmn_0033   0   11     人   NN               (NP*))   -   -   1    _nihuai_  *        *             *             *        (ARG1*)           *             *   -
+wb/cmn/00/cmn_0033   0   12     ，   PU                   *    -   -   -    _nihuai_  *        *             *             *             *            *             *   -
+wb/cmn/00/cmn_0033   0   13    比如   AD           (VP(ADVP*)   -   -   -    _nihuai_  *        *             *             *             *            *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   14     搞   VV                (VP*     搞  -   1    _nihuai_  *        *             *             *             *          (V*)            *   -
+wb/cmn/00/cmn_0033   0   15     未   AD           (VP(ADVP*)   -   -   1    _nihuai_  *        *             *             *             *   (ARGM-EXT*    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   16    成年   VV           (VP*))))))   成年  -   -    _nihuai_  *        *             *             *             *            *)          (V*)  -
+wb/cmn/00/cmn_0033   0   17     。   PU                  *))   -   -   -    _nihuai_  *        *             *             *             *            *             *   -
+
+wb/cmn/00/cmn_0033   0    0     今年    NT       (TOP(IP(NP*)    -   -   -    _nihuai_  *      *         *    (ARGM-TMP*)   (ARGM-TMP*)       *             *    -
+wb/cmn/00/cmn_0033   0    1     回国    VV    (NP(CP(IP(VP*))    回国  -   -    _nihuai_  *    (V*)        *    (ARGM-TMP*    (ARGM-TMP*        *             *    -
+wb/cmn/00/cmn_0033   0    2      的   DEC                 *)    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0    3     时候    NN             (NP*))    -   -   1    _nihuai_  *      *         *             *)            *)       *             *    -
+wb/cmn/00/cmn_0033   0    4      还    AD      (VP(VP(ADVP*)    -   -   -    _nihuai_  *      *         *    (ARGM-ADV*)            *        *             *    -
+wb/cmn/00/cmn_0033   0    5      帮     P              (PP*     -   -   1    _nihuai_  *      *         *    (ARGM-BNF*             *        *             *    -
+wb/cmn/00/cmn_0033   0    6      两    CD           (NP(QP*     -   -   -    _nihuai_  *      *    (ARG0*             *             *        *             *    -
+wb/cmn/00/cmn_0033   0    7      个     M            (CLP*))    -   -   -    _nihuai_  *      *         *)            *             *        *             *    -
+wb/cmn/00/cmn_0033   0    8    亲戚家    VV       (CP(IP(VP*))   亲戚家  -   -    _nihuai_  *      *       (V*)            *             *        *             *    -
+wb/cmn/00/cmn_0033   0    9      的   DEC                 *)    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   10      小    JJ            (ADJP*)    -   -   1    _nihuai_  *      *    (ARG1*)            *             *        *             *    -
+wb/cmn/00/cmn_0033   0   11     女孩    NN            (NP*)))    -   -   -    _nihuai_  *      *         *             *)            *        *             *    -
+wb/cmn/00/cmn_0033   0   12     辅导    VV              (VP*     辅导  -   -    _nihuai_  *      *         *           (V*)            *        *             *    -
+wb/cmn/00/cmn_0033   0   13      了    AS                 *     -   -   -    _nihuai_  *      *         *        (ARG1*)            *        *             *    -
+wb/cmn/00/cmn_0033   0   14     一下    AD            (ADVP*)    -   -   -    _nihuai_  *      *         *    (ARGM-ADV*)            *        *             *    -
+wb/cmn/00/cmn_0033   0   15     功课    NN            (NP*)))    -   -   -    _nihuai_  *      *         *        (ARG1*)            *        *             *    -
+wb/cmn/00/cmn_0033   0   16      ，    PU                 *     -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   17     感觉    VV              (VP*     感觉  -   -    _nihuai_  *      *         *             *           (V*)       *             *    -
+wb/cmn/00/cmn_0033   0   18    14     CD    (IP(NP(DNP(QP*     -   -   -    _nihuai_  *      *         *             *        (ARG1*   (ARG0*        (ARG0*   (7
+wb/cmn/00/cmn_0033   0   19      －    CC                 *     -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   20    17     CD                 *)    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   21      的   DEG                 *)    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   22      女    JJ            (ADJP*)    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   23     孩子    NN             (NP*))    -   -   1    _nihuai_  *      *         *             *             *        *)            *)   7)
+wb/cmn/00/cmn_0033   0   24      是    VC              (VP*      是  -   1    _nihuai_  *      *         *             *             *      (V*)            *    -
+wb/cmn/00/cmn_0033   0   25      个     M      (NP(QP(CLP*))    -   -   -    _nihuai_  *      *         *             *             *   (ARG1*             *    -
+wb/cmn/00/cmn_0033   0   26      很    AD   (CP(IP(VP(ADVP*)    -   -   -    _nihuai_  *      *         *             *             *        *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0033   0   27     危险    VA            (VP*)))    危险  -   -    _nihuai_  *      *         *             *             *        *           (V*)   -
+wb/cmn/00/cmn_0033   0   28      的   DEC                 *)    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+wb/cmn/00/cmn_0033   0   29    年龄段    NN         (NP*))))))    -   -   -    _nihuai_  *      *         *             *             *)       *)            *    -
+wb/cmn/00/cmn_0033   0   30      ，    PU                *))    -   -   -    _nihuai_  *      *         *             *             *        *             *    -
+
+wb/cmn/00/cmn_0033   0    0     你    PN   (TOP(IP(CP(IP(NP*)   -   -   -    _nihuai_  *      *             *        (ARG0*)     *             *    (ARGM-ADV*    (0)
+wb/cmn/00/cmn_0033   0    1    可以    VV                (VP*    可以  -   1    _nihuai_  *    (V*)            *             *      *             *             *     -
+wb/cmn/00/cmn_0033   0    2     很    AD    (VP(DVP(VP(ADVP*)   -   -   -    _nihuai_  *      *    (ARGM-ADV*)   (ARGM-ADV*      *             *             *     -
+wb/cmn/00/cmn_0033   0    3    清楚    VA               (VP*))   清楚  -   1    _nihuai_  *      *           (V*)            *      *             *             *     -
+wb/cmn/00/cmn_0033   0    4     的   DEV                   *)   -   -   -    _nihuai_  *      *             *             *)     *             *             *     -
+wb/cmn/00/cmn_0033   0    5    看到    VV                (VP*    看到  -   -    _nihuai_  *      *             *           (V*)     *             *             *     -
+wb/cmn/00/cmn_0033   0    6     她    PN             (IP(NP*)   -   -   -    _nihuai_  *      *             *        (ARG1*      *        (ARG0*)            *    (7)
+wb/cmn/00/cmn_0033   0    7     是    VC                (VP*     是  -   1    _nihuai_  *      *             *             *    (V*)            *             *     -
+wb/cmn/00/cmn_0033   0    8    怎么    AD           (VP(ADVP*)   -   -   -    _nihuai_  *      *             *             *      *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0033   0    9    考虑    VV                (VP*    考虑  -   -    _nihuai_  *      *             *             *      *           (V*)            *     -
+wb/cmn/00/cmn_0033   0   10    问题    NN        (NP*)))))))))   -   -   1    _nihuai_  *      *             *             *)     *        (ARG1*)            *     -
+wb/cmn/00/cmn_0033   0   11     的    SP                   *)   -   -   -    _nihuai_  *      *             *    (ARGM-ADV*)     *             *             *)    -
+wb/cmn/00/cmn_0033   0   12     ，    PU                   *    -   -   -    _nihuai_  *      *             *             *      *             *             *     -
+wb/cmn/00/cmn_0033   0   13    而且    AD           (IP(ADVP*)   -   -   -    _nihuai_  *      *             *             *      *             *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0033   0   14     她    PN                (NP*)   -   -   -    _nihuai_  *      *             *             *      *             *        (ARG0*)   (7)
+wb/cmn/00/cmn_0033   0   15     很    AD      (VP(ADVP(ADVP*)   -   -   -    _nihuai_  *      *             *             *      *             *    (ARGM-ADV*     -
+wb/cmn/00/cmn_0033   0   16    容易    AD             (ADVP*))   -   -   -    _nihuai_  *      *             *             *      *             *             *)    -
+wb/cmn/00/cmn_0033   0   17     对     P                (PP*    -   -   3    _nihuai_  *      *             *             *      *             *    (ARGM-DIR*     -
+wb/cmn/00/cmn_0033   0   18     你    PN               (NP*))   -   -   -    _nihuai_  *      *             *             *      *             *             *)   (0)
+wb/cmn/00/cmn_0033   0   19    敞开    VV                (VP*    敞开  -   -    _nihuai_  *      *             *             *      *             *           (V*)    -
+wb/cmn/00/cmn_0033   0   20    自己    PN         (NP(DNP(NP*)   -   -   -    _nihuai_  *      *             *             *      *             *        (ARG1*    (7)
+wb/cmn/00/cmn_0033   0   21     的   DEG                   *)   -   -   -    _nihuai_  *      *             *             *      *             *             *     -
+wb/cmn/00/cmn_0033   0   22    想法    NN                (NP*    -   -   -    _nihuai_  *      *             *             *      *             *             *     -
+wb/cmn/00/cmn_0033   0   23     和    CC                   *    -   -   -    _nihuai_  *      *             *             *      *             *             *     -
+wb/cmn/00/cmn_0033   0   24    感情    NN               *)))))   -   -   -    _nihuai_  *      *             *             *      *             *             *)    -
+wb/cmn/00/cmn_0033   0   25     ；    PU                  *))   -   -   -    _nihuai_  *      *             *             *      *             *             *     -
+
+wb/cmn/00/cmn_0033   0    0     最    AD   (TOP(IP(NP(CP(IP(VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)  (ARG0*             *             *     -
+wb/cmn/00/cmn_0033   0    1    糟糕    VA                      (VP*)))   糟糕  -   -    _nihuai_  *           (V*)       *             *             *     -
+wb/cmn/00/cmn_0033   0    2     的   DEC                          *))   -   -   -    _nihuai_  *             *        *)            *             *     -
+wb/cmn/00/cmn_0033   0    3     是    VC                        (VP*     是  -   1    _nihuai_  *             *      (V*)            *             *     -
+wb/cmn/00/cmn_0033   0    4     她    PN                  (CP(IP(NP*)   -   -   -    _nihuai_  *             *   (ARG1*        (ARG0*)       (ARG0*)   (7)
+wb/cmn/00/cmn_0033   0    5    觉得    VV                        (VP*    觉得  -   -    _nihuai_  *             *        *           (V*)            *     -
+wb/cmn/00/cmn_0033   0    6    自己    PN                     (IP(NP*)   -   -   -    _nihuai_  *             *        *        (ARG1*        (ARG0*)   (7)
+wb/cmn/00/cmn_0033   0    7    已经    AD                   (VP(ADVP*)   -   -   -    _nihuai_  *             *        *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0    8    什么    PN                        (NP*)   -   -   -    _nihuai_  *             *        *             *        (ARG1*)    -
+wb/cmn/00/cmn_0033   0    9     都    AD                      (ADVP*)   -   -   -    _nihuai_  *             *        *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0   10     懂    VV                    (VP*)))))    懂  -   -    _nihuai_  *             *        *             *)          (V*)    -
+wb/cmn/00/cmn_0033   0   11     了    SP                          *))   -   -   -    _nihuai_  *             *        *)   (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0033   0   12     。    PU                          *))   -   -   -    _nihuai_  *             *        *             *             *     -
+
+wb/cmn/00/cmn_0033   0   0     只   AD   (TOP(IP(VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)            *             *    -
+wb/cmn/00/cmn_0033   0   1     有   VE               (VP*     有  -   3    _nihuai_  *           (V*)            *             *    -
+wb/cmn/00/cmn_0033   0   2    人渣   NN            (IP(NP*)   -   -   -    _nihuai_  *        (ARG1*        (ARG0*)       (ARG0*)   -
+wb/cmn/00/cmn_0033   0   3     才   AD          (VP(ADVP*)   -   -   -    _nihuai_  *             *    (ARGM-ADV*)   (ARGM-ADV*)   -
+wb/cmn/00/cmn_0033   0   4     会   VV               (VP*     会  -   1    _nihuai_  *             *           (V*)            *    -
+wb/cmn/00/cmn_0033   0   5     对    P            (VP(PP*    -   -   3    _nihuai_  *             *        (ARG1*        (ARG1*    -
+wb/cmn/00/cmn_0033   0   6    这些   DT            (NP(DP*)   -   -   -    _nihuai_  *             *             *             *   (7
+wb/cmn/00/cmn_0033   0   7     人   NN             (NP*)))   -   -   1    _nihuai_  *             *             *             *)   7)
+wb/cmn/00/cmn_0033   0   8    下手   VV         (VP*)))))))   下手  -   -    _nihuai_  *             *)            *)          (V*)   -
+wb/cmn/00/cmn_0033   0   9     。   PU                 *))   -   -   -    _nihuai_  *             *             *             *    -
+
+wb/cmn/00/cmn_0033   0    0    如果   CS   (TOP(IP(CP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-DIS*)        *         *             *     -
+wb/cmn/00/cmn_0033   0    1     你   PN         (CP(IP(NP*)   -   -   -    _nihuai_  *        (ARG0*)        *         *             *    (2)
+wb/cmn/00/cmn_0033   0    2     有   VE               (VP*     有  -   1    _nihuai_  *           (V*)        *         *             *     -
+wb/cmn/00/cmn_0033   0    3    女儿   NN             (NP*)))   -   -   -    _nihuai_  *        (ARG1*)        *         *             *     -
+wb/cmn/00/cmn_0033   0    4    的话   SP                 *))   -   -   -    _nihuai_  *    (ARGM-ADV*)        *         *             *     -
+wb/cmn/00/cmn_0033   0    5     ，   PU                  *    -   -   -    _nihuai_  *             *         *         *             *     -
+wb/cmn/00/cmn_0033   0    6     你   PN               (NP*)   -   -   -    _nihuai_  *             *    (ARG0*)   (ARG0*)            *    (2)
+wb/cmn/00/cmn_0033   0    7     会   VV               (VP*     会  -   1    _nihuai_  *             *       (V*)        *             *     -
+wb/cmn/00/cmn_0033   0    8    明白   VV               (VP*    明白  -   -    _nihuai_  *             *    (ARG1*       (V*)            *     -
+wb/cmn/00/cmn_0033   0    9     我   PN            (IP(NP*)   -   -   -    _nihuai_  *             *         *    (ARG1*        (ARG0*)   (3)
+wb/cmn/00/cmn_0033   0   10     在   AD          (VP(ADVP*)   -   -   5    _nihuai_  *             *         *         *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0   11     说   VV               (VP*     说  -   7    _nihuai_  *             *         *         *           (V*)    -
+wb/cmn/00/cmn_0033   0   12    什么   PN          (NP*))))))   -   -   -    _nihuai_  *             *         *)        *)       (ARG1*)    -
+wb/cmn/00/cmn_0033   0   13     。   PU                 *))   -   -   -    _nihuai_  *             *         *         *             *     -
+
+wb/cmn/00/cmn_0033   0    0     有些    DT   (TOP(IP(CP(IP(NP(DP*)   -   -   -    _nihuai_  *      *             *        (ARG1*    (ARGM-ADV*     -
+wb/cmn/00/cmn_0033   0    1      事    NN                  (NP*))   -   -   1    _nihuai_  *      *             *             *)            *     -
+wb/cmn/00/cmn_0033   0    2      我    PN                   (NP*)   -   -   -    _nihuai_  *      *        (ARG0*)       (ARG0*)            *    (3)
+wb/cmn/00/cmn_0033   0    3      是    VC                   (VP*     是  -   1    _nihuai_  *    (V*)            *             *             *     -
+wb/cmn/00/cmn_0033   0    4      不    AD              (VP(ADVP*)   -   -   -    _nihuai_  *      *    (ARGM-ADV*)   (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0033   0    5      会    VV                   (VP*     会  -   1    _nihuai_  *      *           (V*)            *             *     -
+wb/cmn/00/cmn_0033   0    6     理解    VV               (VP*)))))   理解  -   -    _nihuai_  *      *        (ARG1*)          (V*)            *     -
+wb/cmn/00/cmn_0033   0    7      的    SP                      *)   -   -   -    _nihuai_  *      *             *    (ARGM-ADV*)            *)    -
+wb/cmn/00/cmn_0033   0    8      ，    PU                      *    -   -   -    _nihuai_  *      *             *             *             *     -
+wb/cmn/00/cmn_0033   0    9     比如    AD              (IP(ADVP*)   -   -   -    _nihuai_  *      *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0   10      对     P                (VP(PP*    -   -   3    _nihuai_  *      *             *             *             *     -
+wb/cmn/00/cmn_0033   0   11    14     CD            (NP(DNP(QP*    -   -   -    _nihuai_  *      *             *             *             *    (1
+wb/cmn/00/cmn_0033   0   12      －    CC                      *    -   -   -    _nihuai_  *      *             *             *             *     -
+wb/cmn/00/cmn_0033   0   13    17     CD                      *)   -   -   -    _nihuai_  *      *             *             *             *     -
+wb/cmn/00/cmn_0033   0   14      的   DEG                      *)   -   -   -    _nihuai_  *      *             *             *             *     -
+wb/cmn/00/cmn_0033   0   15      女    JJ                 (ADJP*)   -   -   -    _nihuai_  *      *             *             *             *     -
+wb/cmn/00/cmn_0033   0   16     孩子    NN                 (NP*)))   -   -   1    _nihuai_  *      *             *             *             *     1)
+wb/cmn/00/cmn_0033   0   17     产生    VV                   (VP*    产生  -   2    _nihuai_  *      *             *             *           (V*)    -
+wb/cmn/00/cmn_0033   0   18    性冲动    NN                (NP*))))   -   -   -    _nihuai_  *      *             *             *        (ARG1*)    -
+wb/cmn/00/cmn_0033   0   19      。    PU                     *))   -   -   -    _nihuai_  *      *             *             *             *     -
+
+wb/cmn/00/cmn_0033   0    0    了解    VV  (TOP(IP(IP(VP(VRD*    了解  -   1    _nihuai_  *      (V*)     *             *             *             *      *        (ARG0*        *         *         *     -
+wb/cmn/00/cmn_0033   0    1     到    VV                   *)    到  -   4    _nihuai_  *        *    (V*)            *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    2    她们    PN          (NP(NP(NP*)   -   -   -    _nihuai_  *   (ARG1*      *        (ARG0*)       (ARG0*)            *      *             *        *         *         *    (1)
+wb/cmn/00/cmn_0033   0    3    种种    JJ              (ADJP*)   -   -   -    _nihuai_  *        *      *    (ARGM-ADV*)   (ARGM-ADV*)            *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    4    幼稚    VA      (CP(IP(VP(VCD*    幼稚  -   -    _nihuai_  *        *      *           (V*)   (ARGM-ADV*)            *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    5    单纯    VA                 *)))   单纯  -   -    _nihuai_  *        *      *        (ARG1*)          (V*)            *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    6     的   DEC                   *)   -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    7    想法    NN               (NP*))   -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    8     ，    PU                   *    -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0    9    以及    CC                   *    -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   10    她们    PN             (NP(NP*)   -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *    (1)
+wb/cmn/00/cmn_0033   0   11     对     P            (DNP(PP*    -   -   3    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   12     你    PN             (IP(NP*)   -   -   -    _nihuai_  *        *      *             *             *        (ARG0*)     *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   13    几乎    AD           (VP(ADVP*)   -   -   -    _nihuai_  *        *      *             *             *    (ARGM-ADV*)     *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   14     无    VE                (VP*     无  -   1    _nihuai_  *        *      *             *             *           (V*)     *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   15    缘故    NN            (NP*)))))   -   -   -    _nihuai_  *        *      *             *             *        (ARG1*)     *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   16     的   DEG                   *)   -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   17    崇拜    NN                (NP*    -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   18     和    CC                   *    -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   19    信任    NN               *)))))   -   -   -    _nihuai_  *        *)     *             *             *             *      *             *)       *         *         *     -
+wb/cmn/00/cmn_0033   0   20     ，    PU                   *    -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+wb/cmn/00/cmn_0033   0   21     只    AD           (VP(ADVP*)   -   -   -    _nihuai_  *        *      *    (ARGM-ADV*             *             *      *    (ARGM-ADV*)       *         *         *     -
+wb/cmn/00/cmn_0033   0   22     能    VV                (VP*     能  -   1    _nihuai_  *        *      *             *             *             *    (V*)            *        *         *         *     -
+wb/cmn/00/cmn_0033   0   23     让    VV                (VP*     让  -   2    _nihuai_  *        *      *             *             *             *      *           (V*)       *         *         *     -
+wb/cmn/00/cmn_0033   0   24     我    PN                (NP*)   -   -   -    _nihuai_  *        *      *             *             *             *      *        (ARG1*)       *         *         *    (3)
+wb/cmn/00/cmn_0033   0   25    觉得    VV             (IP(VP*    觉得  -   -    _nihuai_  *        *      *             *             *             *      *        (ARG2*      (V*)        *         *     -
+wb/cmn/00/cmn_0033   0   26    好笑    VA             (IP(VP*    好笑  -   -    _nihuai_  *        *      *             *             *             *      *             *   (ARG1*       (V*)        *     -
+wb/cmn/00/cmn_0033   0   27     和    CC                   *    -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *    (ARG1*)   (ARG1*)    -
+wb/cmn/00/cmn_0033   0   28    担心    VV             *)))))))   担心  -   -    _nihuai_  *        *      *             *)            *             *      *             *)       *)        *       (V*)    -
+wb/cmn/00/cmn_0033   0   29     。    PU                  *))   -   -   -    _nihuai_  *        *      *             *             *             *      *             *        *         *         *     -
+
+wb/cmn/00/cmn_0033   0   0    什么   DT   (TOP(IP(NP(DP*)   -   -   -    _nihuai_  *        (ARG0*        (ARG0*    -
+wb/cmn/00/cmn_0033   0   1     人   NN            (NP*))   -   -   1    _nihuai_  *             *)            *)   -
+wb/cmn/00/cmn_0033   0   2     才   AD        (VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)   (ARGM-ADV*)   -
+wb/cmn/00/cmn_0033   0   3     会   VV             (VP*     会  -   1    _nihuai_  *           (V*)            *    -
+wb/cmn/00/cmn_0033   0   4     对    P          (VP(PP*    -   -   3    _nihuai_  *        (ARG1*        (ARG1*    -
+wb/cmn/00/cmn_0033   0   5    这些   DT          (NP(DP*)   -   -   -    _nihuai_  *             *             *   (1
+wb/cmn/00/cmn_0033   0   6     人   NN           (NP*)))   -   -   1    _nihuai_  *             *             *)   1)
+wb/cmn/00/cmn_0033   0   7    下手   VV          (VP*))))   下手  -   -    _nihuai_  *             *)          (V*)   -
+wb/cmn/00/cmn_0033   0   8     ？   PU               *))   -   -   -    _nihuai_  *             *             *    -
+
+wb/cmn/00/cmn_0033   0    0     我    PN   (TOP(IP(NP(CP(IP(NP(NP*)   -   -    -    _nihuai_  *        (ARG0*   (ARGM-TMP*    (3)
+wb/cmn/00/cmn_0033   0    1     和    CC                         *    -   -    -    _nihuai_  *             *            *     -
+wb/cmn/00/cmn_0033   0    2    太太    NN                     (NP*))   -   -    -    _nihuai_  *             *)           *    (6)
+wb/cmn/00/cmn_0033   0    3     刚    AD                 (VP(ADVP*)   -   -    -    _nihuai_  *    (ARGM-ADV*)           *     -
+wb/cmn/00/cmn_0033   0    4    认识    VV                    (VP*)))   认识  -    3    _nihuai_  *           (V*)           *     -
+wb/cmn/00/cmn_0033   0    5     的   DEC                         *)   -   -    -    _nihuai_  *             *            *     -
+wb/cmn/00/cmn_0033   0    6    时候    NN                     (NP*))   -   -    1    _nihuai_  *             *            *)    -
+wb/cmn/00/cmn_0033   0    7     ，    PU                         *    -   -    -    _nihuai_  *             *            *     -
+wb/cmn/00/cmn_0033   0    8     她    PN                      (NP*)   -   -    -    _nihuai_  *             *       (ARG0*)   (6)
+wb/cmn/00/cmn_0033   0    9     在     P                   (VP(PP*    -   -    2    _nihuai_  *             *   (ARGM-LOC*     -
+wb/cmn/00/cmn_0033   0   10    一些    CD                   (NP(QP*)   -   -    -    _nihuai_  *             *            *     -
+wb/cmn/00/cmn_0033   0   11    妇女    NN                      (NP*    -   -    -    _nihuai_  *             *            *     -
+wb/cmn/00/cmn_0033   0   12    组织    NN                       *)))   -   -    3    _nihuai_  *             *            *)    -
+wb/cmn/00/cmn_0033   0   13     做    VV                      (VP*     做  -   11    _nihuai_  *             *          (V*)    -
+wb/cmn/00/cmn_0033   0   14    义工    NN                    (NP*)))   -   -    -    _nihuai_  *             *       (ARG1*)    -
+wb/cmn/00/cmn_0033   0   15     。    PU                        *))   -   -    -    _nihuai_  *             *            *     -
+
+wb/cmn/00/cmn_0033   0    0     我    PN   (TOP(IP(IP(NP*)   -   -   -    _nihuai_  *        (ARG0*)       (ARG0*)       *         *             *    (3)
+wb/cmn/00/cmn_0033   0    1     也    AD        (VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)   (ARGM-DIS*)       *         *             *     -
+wb/cmn/00/cmn_0033   0    2    跑去    VV             (VP*    跑去  -   -    _nihuai_  *           (V*)            *        *         *             *     -
+wb/cmn/00/cmn_0033   0    3    帮忙    VV          (VP*))))   帮忙  -   -    _nihuai_  *             *           (V*)       *         *             *     -
+wb/cmn/00/cmn_0033   0    4     ，    PU                *    -   -   -    _nihuai_  *             *             *        *         *             *     -
+wb/cmn/00/cmn_0033   0    5    认识    VV          (IP(VP*    认识  -   3    _nihuai_  *             *             *      (V*)        *             *     -
+wb/cmn/00/cmn_0033   0    6    很多    CD          (NP(QP*)   -   -   -    _nihuai_  *             *             *   (ARG1*         *             *     -
+wb/cmn/00/cmn_0033   0    7     被    LB    (CP(IP(VP(VP*    -   -   -    _nihuai_  *             *             *        *         *             *     -
+wb/cmn/00/cmn_0033   0    8    男人    NN          (IP(NP*)   -   -   -    _nihuai_  *             *             *        *    (ARG0*)            *     -
+wb/cmn/00/cmn_0033   0    9    遗弃    VV           (VP*)))   遗弃  -   -    _nihuai_  *             *             *        *       (V*)            *     -
+wb/cmn/00/cmn_0033   0   10    甚至    AD        (VP(ADVP*)   -   -   -    _nihuai_  *             *             *        *         *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0033   0   11    虐待    VV          (VP*))))   虐待  -   -    _nihuai_  *             *             *        *         *           (V*)    -
+wb/cmn/00/cmn_0033   0   12     的   DEC                *)   -   -   -    _nihuai_  *             *             *        *         *             *     -
+wb/cmn/00/cmn_0033   0   13    单身    JJ           (ADJP*)   -   -   -    _nihuai_  *             *             *        *         *        (ARG1*)    -
+wb/cmn/00/cmn_0033   0   14    妈妈    NN          (NP*))))   -   -   -    _nihuai_  *             *             *        *)        *             *     -
+wb/cmn/00/cmn_0033   0   15     。    PU               *))   -   -   -    _nihuai_  *             *             *        *         *             *     -
+
+wb/cmn/00/cmn_0033   0   0    许多   CD   (TOP(IP(NP(QP*)   -   -   -    _nihuai_  *        (ARG1*   -
+wb/cmn/00/cmn_0033   0   1    想法   NN            (NP*))   -   -   -    _nihuai_  *             *)  -
+wb/cmn/00/cmn_0033   0   2     都   AD        (VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   3    发生   VV             (VP*    发生  -   1    _nihuai_  *           (V*)  -
+wb/cmn/00/cmn_0033   0   4     了   AS                *    -   -   -    _nihuai_  *             *   -
+wb/cmn/00/cmn_0033   0   5    转变   NN           (NP*)))   -   -   1    _nihuai_  *        (ARG0*)  -
+wb/cmn/00/cmn_0033   0   6     。   PU               *))   -   -   -    _nihuai_  *             *   -
+
+wb/cmn/00/cmn_0033   0    0      人    NN   (TOP(IP(IP(NP*)   -   -   1    _nihuai_  *      *        (ARG0*)            *      *   -
+wb/cmn/00/cmn_0033   0    1     可以    VV             (VP*    可以  -   1    _nihuai_  *    (V*)            *             *      *   -
+wb/cmn/00/cmn_0033   0    2      很    AD        (VP(ADVP*)   -   -   -    _nihuai_  *      *    (ARGM-ADV*)            *      *   -
+wb/cmn/00/cmn_0033   0    3      坏    VA          (VP*))))    坏  -   -    _nihuai_  *      *           (V*)            *      *   -
+wb/cmn/00/cmn_0033   0    4      ，    PU                *    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0    5     同时    AD        (IP(ADVP*)   -   -   -    _nihuai_  *      *             *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0033   0    6      又    AD        (VP(ADVP*)   -   -   -    _nihuai_  *      *             *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0033   0    7      是    VC             (VP*     是  -   1    _nihuai_  *      *             *           (V*)     *   -
+wb/cmn/00/cmn_0033   0    8     体面    VA   (NP(CP(IP(VP*))   体面  -   -    _nihuai_  *      *             *        (ARG1*    (V*)  -
+wb/cmn/00/cmn_0033   0    9      的   DEC                *)   -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   10     律师    NN             (NP*    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   11      ，    PU                *    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   12     医生    NN                *    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   13      ，    PU                *    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   14     教授    NN                *    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   15      ，    PU                *    -   -   -    _nihuai_  *      *             *             *      *   -
+wb/cmn/00/cmn_0033   0   16    工程师    NN            *)))))   -   -   -    _nihuai_  *      *             *             *)     *   -
+wb/cmn/00/cmn_0033   0   17      。    PU               *))   -   -   -    _nihuai_  *      *             *             *      *   -
+
+wb/cmn/00/cmn_0033   0    0      很多    CD       (TOP(IP(NP(QP*)   -   -   -    _nihuai_  *   (ARGM-TPC*             *        (ARG0*             *      *         *   -
+wb/cmn/00/cmn_0033   0    1       人    NN                (NP*))   -   -   1    _nihuai_  *            *)            *             *)            *      *         *   -
+wb/cmn/00/cmn_0033   0    2       ／    PU              (VP(NP*    -   -   -    _nihuai_  *   (ARGM-ADV*             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0    3       事    NN                    *)   -   -   1    _nihuai_  *            *)            *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0    4       让    VV                 (VP*     让  -   2    _nihuai_  *          (V*)            *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0    5       你    PN                 (NP*)   -   -   -    _nihuai_  *       (ARG1*)            *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0    6      几乎    AD         (IP(VP(ADVP*)   -   -   -    _nihuai_  *       (ARG2*    (ARGM-ADV*)   (ARGM-ADV*)            *      *         *   -
+wb/cmn/00/cmn_0033   0    7       不    AD               (ADVP*)   -   -   -    _nihuai_  *            *    (ARGM-ADV*)   (ARGM-ADV*)            *      *         *   -
+wb/cmn/00/cmn_0033   0    8       敢    VV                 (VP*     敢  -   1    _nihuai_  *            *           (V*)            *             *      *         *   -
+wb/cmn/00/cmn_0033   0    9      相信    VV                 (VP*    相信  -   -    _nihuai_  *            *             *           (V*)            *      *         *   -
+wb/cmn/00/cmn_0033   0   10       ，    PU                    *    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   11      有的    DT           (IP(NP(DP*)   -   -   -    _nihuai_  *            *             *        (ARG1*        (ARG0*      *    (ARG0*   -
+wb/cmn/00/cmn_0033   0   12       人    NN                (NP*))   -   -   1    _nihuai_  *            *             *             *             *)     *         *)  -
+wb/cmn/00/cmn_0033   0   13       就    AD      (VP(VP(PP(ADVP*)   -   -   2    _nihuai_  *            *             *             *    (ARGM-ADV*      *         *   -
+wb/cmn/00/cmn_0033   0   14       像     P                 (PP*    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   15       你    PN          (NP(DNP(NP*    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   16      身边    NN                    *)   -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   17       的   DEG                    *)   -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   18      同事    NN                 (NP*    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   19       和    CC                    *    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   20      老师    NN                 *))))   -   -   -    _nihuai_  *            *             *             *             *)     *         *   -
+wb/cmn/00/cmn_0033   0   21       ，    PU                    *    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   22       却    AD               (ADVP*)   -   -   -    _nihuai_  *            *             *             *    (ARGM-DIS*)     *         *   -
+wb/cmn/00/cmn_0033   0   23      干出    VV                 (VP*    干出  -   -    _nihuai_  *            *             *             *           (V*)     *         *   -
+wb/cmn/00/cmn_0033   0   24      非常    AD   (NP(DNP(ADJP(ADVP*)   -   -   -    _nihuai_  *            *             *             *        (ARG1*      *         *   -
+wb/cmn/00/cmn_0033   0   25      卑鄙    JJ              (ADJP*))   -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   26       的   DEG                    *)   -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   27       事    NN              (NP*))))   -   -   1    _nihuai_  *            *             *             *             *)     *         *   -
+wb/cmn/00/cmn_0033   0   28       ，    PU                    *    -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+wb/cmn/00/cmn_0033   0   29      可以    VV                 (VP*    可以  -   1    _nihuai_  *            *             *             *             *    (V*)        *   -
+wb/cmn/00/cmn_0033   0   30       说    VV                 (VP*     说  -   5    _nihuai_  *            *             *             *             *      *       (V*)  -
+wb/cmn/00/cmn_0033   0   31    禽兽不如    NN       (NP*)))))))))))   -   -   -    _nihuai_  *            *)            *             *)            *      *    (ARG1*)  -
+wb/cmn/00/cmn_0033   0   32       。    PU                   *))   -   -   -    _nihuai_  *            *             *             *             *      *         *   -
+
+wb/cmn/00/cmn_0033   0    0    以前    NT    (TOP(IP(IP(NP*)   -   -   -    _nihuai_  *    (ARGM-TMP*)   (ARGM-TMP*)        *             *             *   -
+wb/cmn/00/cmn_0033   0    1     总    AD         (VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)            *         *             *             *   -
+wb/cmn/00/cmn_0033   0    2    认为    VV              (VP*    认为  -   1    _nihuai_  *           (V*)            *         *             *             *   -
+wb/cmn/00/cmn_0033   0    3    美国    NR    (IP(NP(DNP(NP*)   -   -   -    _nihuai_  *        (ARG1*        (ARG0*         *             *             *   -
+wb/cmn/00/cmn_0033   0    4     的   DEG                 *)   -   -   -    _nihuai_  *             *             *         *             *             *   -
+wb/cmn/00/cmn_0033   0    5    很多    CD              (QP*)   -   -   -    _nihuai_  *             *             *         *             *             *   -
+wb/cmn/00/cmn_0033   0    6    法律    NN              (NP*    -   -   1    _nihuai_  *             *             *         *             *             *   -
+wb/cmn/00/cmn_0033   0    7    规定    NN                *))   -   -   -    _nihuai_  *             *             *)        *             *             *   -
+wb/cmn/00/cmn_0033   0    8    可笑    AD         (VP(ADVP*)   -   -   -    _nihuai_  *             *    (ARGM-ADV*)        *             *             *   -
+wb/cmn/00/cmn_0033   0    9    荒诞    VA             *)))))   荒诞  -   -    _nihuai_  *             *)          (V*)        *             *             *   -
+wb/cmn/00/cmn_0033   0   10     ，    PU                 *    -   -   -    _nihuai_  *             *             *         *             *             *   -
+wb/cmn/00/cmn_0033   0   11     但    AD         (IP(ADVP*)   -   -   -    _nihuai_  *             *             *         *    (ARGM-DIS*)            *   -
+wb/cmn/00/cmn_0033   0   12    经历    VV       (LCP(IP(VP*    经历  -   -    _nihuai_  *             *             *       (V*)   (ARGM-TMP*             *   -
+wb/cmn/00/cmn_0033   0   13     过    AS                 *    -   -   1    _nihuai_  *             *             *    (ARG1*)            *             *   -
+wb/cmn/00/cmn_0033   0   14    这些    PN            (NP*)))   -   -   -    _nihuai_  *             *             *    (ARG1*)            *             *   -
+wb/cmn/00/cmn_0033   0   15    以后    LC                 *)   -   -   -    _nihuai_  *             *             *         *             *)            *   -
+wb/cmn/00/cmn_0033   0   16     ，    PU                 *    -   -   -    _nihuai_  *             *             *         *             *             *   -
+wb/cmn/00/cmn_0033   0   17    觉得    VV              (VP*    觉得  -   -    _nihuai_  *             *             *         *           (V*)            *   -
+wb/cmn/00/cmn_0033   0   18    还是    AD   (CP(IP(VP(ADVP*)   -   -   -    _nihuai_  *             *             *         *        (ARG1*    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   19     很    AD            (ADVP*)   -   -   -    _nihuai_  *             *             *         *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   20     有    VE              (VP*     有  -   3    _nihuai_  *             *             *         *             *           (V*)  -
+wb/cmn/00/cmn_0033   0   21    道理    NN           (NP*))))   -   -   -    _nihuai_  *             *             *         *             *        (ARG1*)  -
+wb/cmn/00/cmn_0033   0   22     的    SP               *)))   -   -   -    _nihuai_  *             *             *         *             *)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0033   0   23     。    PU                *))   -   -   -    _nihuai_  *             *             *         *             *             *   -
+
+wb/cmn/00/cmn_0033   0    0    为了     P      (TOP(IP(PP*    -   -   -    _nihuai_  *         *      *   (ARGM-PRP*   (ARGM-PRP*      *   -
+wb/cmn/00/cmn_0033   0    1    保护    VV          (IP(VP*    保护  -   -    _nihuai_  *       (V*)     *            *            *      *   -
+wb/cmn/00/cmn_0033   0    2    弱者    NN          (NP*))))   -   -   -    _nihuai_  *    (ARG1*)     *            *)           *)     *   -
+wb/cmn/00/cmn_0033   0    3     ，    PU                *    -   -   -    _nihuai_  *         *      *            *            *      *   -
+wb/cmn/00/cmn_0033   0    4    强势    VA   (NP(CP(IP(VP*))   强势  -   -    _nihuai_  *         *    (V*)      (ARG0*       (ARG0*      *   -
+wb/cmn/00/cmn_0033   0    5     的   DEC                *)   -   -   -    _nihuai_  *         *      *            *            *      *   -
+wb/cmn/00/cmn_0033   0    6     人    NN            (NP*))   -   -   1    _nihuai_  *         *      *            *)           *)     *   -
+wb/cmn/00/cmn_0033   0    7    牺牲    VV          (VP(VP*    牺牲  -   -    _nihuai_  *         *      *          (V*)           *      *   -
+wb/cmn/00/cmn_0033   0    8    一些    CD          (NP(QP*)   -   -   -    _nihuai_  *         *      *       (ARG1*            *      *   -
+wb/cmn/00/cmn_0033   0    9    利益    NN             (NP*    -   -   -    _nihuai_  *         *      *            *            *      *   -
+wb/cmn/00/cmn_0033   0   10     或    CC                *    -   -   -    _nihuai_  *         *      *            *            *      *   -
+wb/cmn/00/cmn_0033   0   11    便利    NN              *)))   -   -   1    _nihuai_  *         *      *            *)           *      *   -
+wb/cmn/00/cmn_0033   0   12     是    VC             (VP*     是  -   1    _nihuai_  *         *      *            *          (V*)     *   -
+wb/cmn/00/cmn_0033   0   13    应该    VV      (CP(IP(VP*))   应该  -   -    _nihuai_  *         *      *            *       (ARG1*    (V*)  -
+wb/cmn/00/cmn_0033   0   14     的    SP              *)))   -   -   -    _nihuai_  *         *      *            *            *)     *   -
+wb/cmn/00/cmn_0033   0   15     。    PU               *))   -   -   -    _nihuai_  *         *      *            *            *      *   -
+
+wb/cmn/00/cmn_0033   0    0    毕竟    AD   (TOP(IP(IP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)        *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    1    那些    DT            (NP(DP*)   -   -   -    _nihuai_  *        (ARG0*         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    2    所谓    JJ         (DNP(ADJP*)   -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    3     的   DEG                  *)   -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    4     ‘    PU                  *    -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    5    牺牲    NN               (NP*)   -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    6     ’    PU                  *)   -   -   -    _nihuai_  *             *)        *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    7    并不    AD          (VP(ADVP*)   -   -   -    _nihuai_  *    (ARGM-ADV*)        *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    8     是    VC               (VP*     是  -   1    _nihuai_  *           (V*)        *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0    9    什么    DT            (NP(DP*)   -   -   -    _nihuai_  *        (ARG1*         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0   10     大    JJ             (ADJP*)   -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0   11     事    NN           (NP*)))))   -   -   1    _nihuai_  *             *)        *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0   12     ，    PU                  *    -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0   13     而    AD          (IP(ADVP*)   -   -   -    _nihuai_  *             *         *         *      *             *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0033   0   14    弱者    NN      (NP(CP(IP(NP*)   -   -   -    _nihuai_  *             *    (ARG0*)   (ARG0*)     *             *        (ARG0*   -
+wb/cmn/00/cmn_0033   0   15     所   MSP               (VP*    -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0   16     要    VV               (VP*     要  -   4    _nihuai_  *             *       (V*)        *      *             *             *   -
+wb/cmn/00/cmn_0033   0   17    承受    VV            (VP*))))   承受  -   -    _nihuai_  *             *         *       (V*)     *             *             *   -
+wb/cmn/00/cmn_0033   0   18     的   DEC                  *)   -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+wb/cmn/00/cmn_0033   0   19    灾难    NN              (NP*))   -   -   -    _nihuai_  *             *         *         *      *             *             *)  -
+wb/cmn/00/cmn_0033   0   20     则    AD          (VP(ADVP*)   -   -   -    _nihuai_  *             *         *         *      *             *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0033   0   21     要    VV               (VP*     要  -   3    _nihuai_  *             *         *         *    (V*)            *             *   -
+wb/cmn/00/cmn_0033   0   22    沉重    VA        (VP(DVP(VP*)   沉重  -   -    _nihuai_  *             *         *         *      *           (V*)   (ARGM-ADV*   -
+wb/cmn/00/cmn_0033   0   23     的   DEV                  *)   -   -   -    _nihuai_  *             *         *         *      *             *             *)  -
+wb/cmn/00/cmn_0033   0   24     多    VA           (VP*)))))    多  -   3    _nihuai_  *             *         *         *      *    (ARGM-EXT*)          (V*)  -
+wb/cmn/00/cmn_0033   0   25     。    PU                 *))   -   -   -    _nihuai_  *             *         *         *      *             *             *   -
+
+wb/cmn/00/cmn_0033   0    0     请    VV  (TOP(IP(IP(VP*     请  -   -    _nihuai_  *      (V*)       *             *     -
+wb/cmn/00/cmn_0033   0    1    守住    VV            (VP*    守住  -   -    _nihuai_  *   (ARG2*      (V*)            *     -
+wb/cmn/00/cmn_0033   0    2     你    PN     (NP(DNP(NP*)   -   -   -    _nihuai_  *        *   (ARG1*             *    (4)
+wb/cmn/00/cmn_0033   0    3     的   DEG               *)   -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0    4    道德    NN            (NP*    -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0    5    底线    NN           *)))))   -   -   -    _nihuai_  *        *)       *)            *     -
+wb/cmn/00/cmn_0033   0    6     ，    PU               *    -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0    7    即使    AD       (IP(ADVP*)   -   -   -    _nihuai_  *        *        *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0033   0    8     你    PN            (NP*)   -   -   -    _nihuai_  *        *        *        (ARG0*)   (4)
+wb/cmn/00/cmn_0033   0    9    没有    VE            (VP*    没有  -   1    _nihuai_  *        *        *           (V*)    -
+wb/cmn/00/cmn_0033   0   10     一    CD         (NP(QP*    -   -   -    _nihuai_  *        *        *        (ARG1*     -
+wb/cmn/00/cmn_0033   0   11     个     M          (CLP*))   -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0   12    十几    CD        (DNP(QP*    -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0   13     岁     M          (CLP*))   -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0   14     的   DEG               *)   -   -   -    _nihuai_  *        *        *             *     -
+wb/cmn/00/cmn_0033   0   15    女儿    NN         (NP*))))   -   -   -    _nihuai_  *        *        *             *)    -
+wb/cmn/00/cmn_0033   0   16     。    PU              *))   -   -   -    _nihuai_  *        *        *             *     -
+
+wb/cmn/00/cmn_0033   0   0    －－   PU   (TOP(FRAG*))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0033   0   0     打    VV  (TOP(NP(NP(CP(IP(VP(VRD*     打  -   2    _nihuai_  *           (V*)     *         *   -
+wb/cmn/00/cmn_0033   0   1    出来    VV                       *)))   出来  -   -    _nihuai_  *    (ARGM-ADV*)   (V*)        *   -
+wb/cmn/00/cmn_0033   0   2     的   DEC                         *)   -   -   -    _nihuai_  *    (ARGM-ADV*)     *         *   -
+wb/cmn/00/cmn_0033   0   3    江山    NN                     (NP*))   -   -   -    _nihuai_  *             *      *         *   -
+wb/cmn/00/cmn_0033   0   4     ，    PU                         *    -   -   -    _nihuai_  *             *      *         *   -
+wb/cmn/00/cmn_0033   0   5     日    NR             (NP(CP(IP(NP*)   -   -   -    _nihuai_  *             *      *    (ARG0*)  -
+wb/cmn/00/cmn_0033   0   6    出来    VV                     (VP*))   出来  -   -    _nihuai_  *             *      *       (V*)  -
+wb/cmn/00/cmn_0033   0   7     的   DEC                         *)   -   -   -    _nihuai_  *             *      *         *   -
+wb/cmn/00/cmn_0033   0   8    感情    NN                     (NP*))   -   -   -    _nihuai_  *             *      *         *   -
+wb/cmn/00/cmn_0033   0   9     ！    PU                        *))   -   -   -    _nihuai_  *             *      *         *   -
+
+wb/cmn/00/cmn_0033   0    0           ※    PU  (TOP(FRAG*   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    1          修改    NN           *   -   -   3    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    2           ：    PU           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    3         99     CD           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    4      nihuai    PU           *   -   -   -    _nihuai_  *    (3)
+wb/cmn/00/cmn_0033   0    5           於    NR           *   -   -   1    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    6         Jan    NT           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    7         21     NT           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    8   21：12：01     NT           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0    9       2007     NT           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   10          修改    NN     (NP(NP*)  -   -   3    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   11          本文    NR       (NP*))  -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   12         99     CD           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   13           ［    PU           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   14        FROM     P           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   15           ：    PU           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   16     68．189．   URL           *   -   -   -    _nihuai_  *     -
+wb/cmn/00/cmn_0033   0   17           ］    PU          *))  -   -   -    _nihuai_  *     -
+
+wb/cmn/00/cmn_0033   0    0                    ※    PU  (TOP(FRAG*   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    1                   来源    NN           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    2                    ：    PU           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    3                  99     CD           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    4                  BBS    NN           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    5                   未名    NR           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    6                  空间站    NR           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    7    http：／／mitbbs．com   URL           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    8                  99     CD           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0    9                    ［    PU           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0   10                 FROM     P           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0   11                    ：    PU           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0   12              68．189．   URL           *   -   -   -    _nihuai_  *   -
+wb/cmn/00/cmn_0033   0   13                    ］    PU          *))  -   -   -    _nihuai_  *   -
+
+#end document

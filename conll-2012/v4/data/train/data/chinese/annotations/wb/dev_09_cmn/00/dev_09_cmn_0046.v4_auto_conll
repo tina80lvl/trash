@@ -1,0 +1,616 @@
+#begin document (wb/dev_09_cmn/00/dev_09_cmn_0046); part 000
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   0    腾讯   CD   (TOP(FRAG(QP*)  -   -   -   -   *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   1    地震   NN            (NP*   -   -   1   -   *    (1
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   2    事件   NN               *   -   -   1   -   *     1)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   3    整合   NN               *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   4    营销   NN               *)  -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   5     ＊   PU              *))  -   -   -   -   *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     在     P     (TOP(IP(PP*    -   -   2   -   *    (ARGM-TMP*   (ARGM-TMP*    (ARGM-TMP*    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    四川    NR     (LCP(IP(NP*    -   -   -   -   *             *            *             *   (3
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    汶川    NR               *)   -   -   -   -   *             *            *             *    3)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3    发生    VV            (VP*    -   -   1   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4    地震    NN          (NP*)))   -   -   1   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    之后    LC              *))   -   -   -   -   *             *)           *)            *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     ，    PU               *    -   -   -   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7    企业    NN            (NP*)   -   -   -   -   *        (ARG0*)      (ARG0*)       (ARG0*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    纷纷    AD    (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)           *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9    跟进    VV            (VP*    跟进  -   -   -   *           (V*)           *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    实际    JJ       (NP(ADJP*)   -   -   -   -   *        (ARG1*            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11    情况    NN         (NP*))))   -   -   -   -   *             *)           *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12    进行    VV            (VP*    进行  -   3   -   *             *          (V*)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     了    AS               *    -   -   -   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14    大量    CD         (NP(QP*)   -   -   -   -   *             *       (ARG1*             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    捐赠    NN          (NP*)))   -   -   -   -   *             *            *)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     ，    PU               *    -   -   -   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17    同时    AD       (VP(ADVP*)   -   -   -   -   *             *            *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     也    AD          (ADVP*)   -   -   -   -   *             *            *    (ARGM-DIS*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19    进行    VV            (VP*    进行  -   3   -   *             *            *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20     了    AS               *    -   -   -   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21    合理    JJ   (NP(DNP(ADJP*)   -   -   -   -   *             *            *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22     的   DEG               *)   -   -   -   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23    整合    JJ          (ADJP*)   -   -   -   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24    事件    NN            (NP*    -   -   1   -   *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25    营销    NN           *)))))   -   -   -   -   *             *            *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     。    PU              *))   -   -   -   -   *             *            *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0      在    P  (TOP(IP(PP*    -   -   2   -   *   (ARGM-LOC*      *    (ARGM-LOC*    (ARGM-LOC*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1      这   DT  (LCP(NP(DP*    -   -   -   -   *            *      *             *             *    (1
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2      次    M       (CLP*))   -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     事件   NN        (NP*))   -   -   1   -   *            *      *             *             *     1)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4      中   LC           *))   -   -   -   -   *            *)     *             *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5      ，   PU            *    -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     腾讯   NR         (NP*)   -   -   -   -   *       (ARG0*)     *        (ARG0*)       (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     整合   VV      (VP(VP*    整合  -   -   -   *          (V*)     *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      了   AS            *    -   -   -   -   *       (ARG1*)     *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9    消费者   NN         (NP*    -   -   -   -   *       (ARG1*      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10     意愿   NN           *))   -   -   -   -   *            *)     *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11      ，   PU            *    -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     腾讯   VV     (VP(VSB*    腾讯  -   -   -   *            *    (V*)   (ARGM-ADV*)            *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     整合   VV            *)   整合  -   -   -   *            *      *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14      了   AS            *    -   -   -   -   *            *      *        (ARG1*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15     时间   NN      (NP(NP*    -   -   1   -   *            *      *        (ARG1*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16      和   CC            *    -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17     用户   NN            *)   -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     维度   NN       (NP*)))   -   -   -   -   *            *      *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19      ，   PU            *    -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20     腾讯   AD    (VP(ADVP*)   -   -   -   -   *            *      *             *    (ARGM-ADV*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     整合   VV         (VP*    整合  -   -   -   *            *      *             *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22      了   AS            *    -   -   -   -   *            *      *             *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23      各   DT      (NP(DP*    -   -   -   -   *            *      *             *        (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24      种    M       (CLP*))   -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25     沟通   NN         (NP*    -   -   -   -   *            *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     方式   NN        *)))))   -   -   -   -   *            *      *             *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27      。   PU           *))   -   -   -   -   *            *      *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0        谷歌    NR   (TOP(IP(NP(NP*)   -   -   -   -   *        (ARG0*   (ARG0*    (8
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1        中国    NR             (NP*    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    ｇｏｏｇｌｅ    NR                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3         ，    PU                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4      阿里巴巴    NR                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5         ，    PU                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6        网易    NR                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7         等   ETC                *)   -   -   2   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8       互联网    NN             (NP*    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9        企业    NN               *))   -   -   -   -   *             *)       *)    8)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10        同样    AD     (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11        做到    VV             (VP*    做到  -   -   -   *           (V*)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12         了    AS               *))   -   -   -   -   *        (ARG1*)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13         ，    PU                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14         为     P          (VP(PP*    -   -   4   -   *             *   (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15        他们    PN            (NP*))   -   -   -   -   *             *        *)   (8)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16        致敬    VV           (VP*)))   致敬  -   -   -   *             *      (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17         。    PU                *    -   -   -   -   *             *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18         ＊    PU               *))   -   -   -   -   *             *        *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     在     P     (TOP(IP(PP*    -   -   2   -   *         *    (ARGM-TMP*   (ARGM-TMP*    (ARGM-TMP*    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    四川    NR     (LCP(IP(NP*    -   -   -   -   *    (ARG1*             *            *             *   (3
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    汶川    NR               *)   -   -   -   -   *         *)            *            *             *    3)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3    发生    VV            (VP*    发生  -   1   -   *       (V*)            *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4    地震    NN          (NP*)))   -   -   1   -   *    (ARG0*)            *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    之后    LC              *))   -   -   -   -   *         *             *)           *)            *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     ，    PU               *    -   -   -   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7    企业    NN            (NP*)   -   -   -   -   *         *        (ARG0*)      (ARG0*)       (ARG0*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    纷纷    AD    (VP(VP(ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)           *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9    跟进    VV            (VP*    跟进  -   -   -   *         *           (V*)           *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    实际    JJ       (NP(ADJP*)   -   -   -   -   *         *        (ARG1*            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11    情况    NN         (NP*))))   -   -   -   -   *         *             *)           *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12    进行    VV            (VP*    进行  -   3   -   *         *             *          (V*)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     了    AS               *    -   -   -   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14    大量    CD         (NP(QP*)   -   -   -   -   *         *             *       (ARG1*             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    捐赠    NN          (NP*)))   -   -   -   -   *         *             *            *)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     ，    PU               *    -   -   -   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17    同时    AD       (VP(ADVP*)   -   -   -   -   *         *             *            *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     也    AD          (ADVP*)   -   -   -   -   *         *             *            *    (ARGM-DIS*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19    进行    VV            (VP*    进行  -   3   -   *         *             *            *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20     了    AS               *    -   -   -   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21    合理    JJ   (NP(DNP(ADJP*)   -   -   -   -   *         *             *            *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22     的   DEG               *)   -   -   -   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23    整合    JJ          (ADJP*)   -   -   -   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24    事件    NN            (NP*    -   -   1   -   *         *             *            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25    营销    NN           *)))))   -   -   -   -   *         *             *            *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     。    PU              *))   -   -   -   -   *         *             *            *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     腾讯    NR    (TOP(IP(IP(NP*)   -   -   -   -   *       (ARG0*)     *      *             *             *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1      在     P           (VP(PP*    -   -   2   -   *   (ARGM-LOC*      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2      这    DT       (LCP(NP(DP*    -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3      次     M            (CLP*))   -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     活动    NN             (NP*))   -   -   2   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5      中    LC                *))   -   -   -   -   *            *)     *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     显示    VV          (VP(VRD*    显示  -   1   -   *          (V*)     *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      出    VV                 *)    出  -   8   -   *            *    (V*)     *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      了    AS                 *    -   -   -   -   *       (ARG1*)     *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     强调    VV    (NP(CP(IP(VP*))   强调  -   -   -   *       (ARG1*      *    (V*)            *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      的   DEC                 *)   -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     实力    NN          (NP*)))))   -   -   -   -   *            *)     *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12      ，    PU                 *    -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13    不仅仅    AD         (IP(ADVP*)   -   -   -   -   *            *      *      *    (ARGM-DIS*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     企业    NN              (NP*)   -   -   -   -   *            *      *      *        (ARG0*)            *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15     捐赠    VV              (VP*    捐赠  -   -   -   *            *      *      *           (V*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16      了    AS                 *    -   -   -   -   *            *      *      *        (ARG2*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17    １千万    CD           (NP(QP*)   -   -   -   -   *            *      *      *        (ARG1*             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18    人民币    NN           (NP*))))   -   -   -   -   *            *      *      *             *)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19      ，    PU                 *    -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20     腾讯    NN           (IP(NP*    -   -   -   -   *            *      *      *             *        (ARG0*    (5|(4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     用户    NN                 *)   -   -   -   -   *            *      *      *             *             *)       5)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22     更是    AD         (VP(ADVP*)   -   -   -   -   *            *      *      *             *    (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23     捐赠    VV              (VP*    捐赠  -   -   -   *            *      *      *             *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24      了    AS                 *    -   -   -   -   *            *      *      *             *        (ARG2*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25    １千万    CD   (NP(DNP(LCP(QP*)   -   -   -   -   *            *      *      *             *        (ARG1*       (6
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     以上    LC                 *)   -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27      的   DEG                 *)   -   -   -   -   *            *      *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   28    赈灾款    NN          (NP*)))))   -   -   -   -   *            *      *      *             *             *)       6)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   29      。    PU                *))   -   -   -   -   *            *      *      *             *             *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0      在     P            (TOP(IP(PP*    -   -   2   -   *    (ARGM-TMP*            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1     ５月    NT                   (NP*    -   -   -   -   *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    １３日    NT                      *    -   -   -   -   *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     凌晨    NT                     *))   -   -   -   -   *             *)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4      ，    PU                      *    -   -   -   -   *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    马化腾    NR                   (NP*)   -   -   -   -   *        (ARG0*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6      还    AD              (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     亲自    AD                 (ADVP*)   -   -   -   -   *    (ARGM-ADV*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8     监督    VV                   (VP*    监督  -   -   -   *           (V*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9      了    AS                      *    -   -   -   -   *        (ARG1*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10     腾讯    NN   (NP(DNP(NP(CP(IP(NP*)   -   -   -   -   *        (ARG1*       (ARG0*)   (0|(4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11      为     P                (VP(PP*    -   -   4   -   *             *   (ARGM-BNF*        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     灾区    NN                   (NP*    -   -   -   -   *             *            *      (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     人民    NN                     *))   -   -   -   -   *             *            *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     制作    VV                 (VP*)))   制作  -   -   -   *             *          (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      的   DEC                      *)   -   -   -   -   *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     ＱＱ    NR                   (NP*    -   -   -   -   *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17    祈福版    NN                     *))   -   -   -   -   *             *            *        0)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18      的   DEG                      *)   -   -   -   -   *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19     研发    NN                (NP*))))   -   -   -   -   *             *)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20      。    PU                     *))   -   -   -   -   *             *            *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     那么    AD     (TOP(CP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1      ，    PU                    *    -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     针对     P                 (PP*    -   -   -   -   *    (ARGM-PRP*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     这些    DT              (NP(DP*)   -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     事件    NN               (NP*)))   -   -   1   -   *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5      ，    PU                    *    -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     腾讯    NN                 (NP*)   -   -   -   -   *        (ARG0*)            *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      是    VC                 (VP*     是  -   1   -   *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    怎么样    AD   (NP(CP(IP(VP(ADVP*)   -   -   -   -   *        (ARG1*    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     进行    VV               (VP*)))   进行  -   3   -   *             *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      的   DEC                    *)   -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     适当    JJ               (ADJP*)   -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     报道    NN              (NP*))))   -   -   -   -   *             *)       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13      呢    SP                    *    -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14      ？    PU                   *))   -   -   -   -   *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     首先    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)           *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1      ，    PU                  *    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     腾讯    NR               (NP*)   -   -   -   -   *        (ARG0*)       (ARG0*)           *     (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     整合    VV            (VP(VP*    整合  -   -   -   *           (V*)            *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4      了    AS                  *    -   -   -   -   *        (ARG1*)            *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    消费者    NN               (NP*    -   -   -   -   *        (ARG1*             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     意愿    NN                 *))   -   -   -   -   *             *)            *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      ，    PU                  *    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      也    AD          (VP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)           *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9      就    AD             (ADVP*)   -   -   7   -   *             *    (ARGM-ADV*)           *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      是    VC               (VP*     是  -   1   -   *             *           (V*)           *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     腾讯    NN            (NP(NP*    -   -   -   -   *             *        (ARG1*            *     (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     用户    NN                  *)   -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13      对     P           (DNP(PP*    -   -   3   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     灾区    NN              (NP*))   -   -   -   -   *             *             *            *    (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      的   DEG                  *)   -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     捐赠    NN               (NP*    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17     意愿    NN             *))))))   -   -   -   -   *             *             *)           *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18      ，    PU                  *    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19      在     P         (IP(VP(PP*    -   -   2   -   *             *             *   (ARGM-LOC*      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20    财付通    NR           (LCP(NP*    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21      、    PU                  *    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22     ＱＱ    NR               (NP*    -   -   -   -   *             *             *            *     (0
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23    祈福版    NN                  *)   -   -   -   -   *             *             *            *      0)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24     以及    CC                  *    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25     腾讯    NN               (NP*    -   -   -   -   *             *             *            *     (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26    公益网    NN                 *))   -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27      上    LC                 *))   -   -   1   -   *             *             *            *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   28     开通    VV               (VP*    开通  -   -   -   *             *             *          (V*)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   29      了    AS                  *    -   -   -   -   *             *             *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   30     捐赠    NN               (NP*    -   -   -   -   *             *             *       (ARG1*      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   31     平台    NN               *))))   -   -   -   -   *             *             *            *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   32      。    PU                 *))   -   -   -   -   *             *             *            *      -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    事实    NN          (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)            *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    证明    VV                 (VP*    证明  -   -   -   *       (V*)            *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     ，    PU                    *    -   -   -   -   *         *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3    腾讯    NN              (IP(NP*)   -   -   -   -   *    (ARG1*        (ARG0*)      (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     对     P              (VP(PP*    -   -   3   -   *         *             *       (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    自己    PN   (LCP(NP(DNP(NP(NP*)   -   -   -   -   *         *             *            *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6    用户    NN                (NP*))   -   -   -   -   *         *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     的   DEG                    *)   -   -   -   -   *         *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    把握    NN                (NP*))   -   -   -   -   *         *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     上    LC                   *))   -   -   3   -   *         *             *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    非常    AD        (DVP(VP(ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)  (ARGM-ADV*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11    准确    VA                (VP*))   准确  -   -   -   *         *           (V*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     的   DEV                    *)   -   -   -   -   *         *             *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     ，    PU                    *    -   -   -   -   *         *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14    腾讯    VV                 (VP*    腾讯  -   -   -   *         *             *          (V*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    智慧    NN             (NP*)))))   -   -   -   -   *         *)            *       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     ！    PU                   *))   -   -   -   -   *         *             *            *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     用户    NN   (TOP(IP(IP(NP(DNP(NP*)   -   -   -   -   *    (ARG0*   (ARG0*         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1      的   DEG                       *)   -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     智慧    NN                    (NP*    -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3      和    CC                       *    -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     社会    NN                       *    -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    责任感    NN                      *))   -   -   -   -   *         *)       *)        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     反衬    VV                 (VP(VP*    反衬  -   -   -   *       (V*)       *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      了    AS                       *    -   -   -   -   *    (ARG1*)       *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8     腾讯    NN                   (NP*))   -   -   -   -   *    (ARG1*)       *         *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     作为    VV                    (VP*    作为  -   1   -   *         *      (V*)        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      一    CD                 (NP(QP*    -   -   -   -   *         *   (ARG2*         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11      个     M                  (CLP*))   -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12    互联网    NN                (DNP(NP*    -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     企业    NN                       *)   -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14      的   DEG                       *)   -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15     社会    NN                    (NP*    -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16    责任感    NN                   *)))))   -   -   -   -   *         *        *)        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17      ，    PU                       *    -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     腾讯    NN                 (IP(NP*    -   -   -   -   *         *        *    (ARG0*    (5|(4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19     用户    NN                       *)   -   -   -   -   *         *        *         *)       5)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20      为     P                 (VP(PP*    -   -   4   -   *         *        *    (ARG2*        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     赈灾    NN                   (NP*))   -   -   -   -   *         *        *         *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22     捐赠    VV                    (VP*    捐赠  -   -   -   *         *        *       (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23      了    AS                       *    -   -   -   -   *         *        *    (ARG2*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24    上千万    CD             (NP(DNP(QP*)   -   -   -   -   *         *        *    (ARG1*       (6
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25      的   DEG                       *)   -   -   -   -   *         *        *         *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     款项    NN                (NP*)))))   -   -   -   -   *         *        *         *)       6)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27      。    PU                      *))   -   -   -   -   *         *        *         *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     整合    NN        (TOP(IP(IP(NP*    -   -   -   -   *   (ARG0*             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1     营销    NN                     *)   -   -   -   -   *        *)            *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     讲求    VV                  (VP*    讲求  -   -   -   *      (V*)            *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     整合    JJ          (NP(NP(ADJP*)   -   -   -   -   *   (ARG1*             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4    消费者    NN                 (NP*))   -   -   -   -   *        *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5     意愿    NN               (NP*))))   -   -   -   -   *        *)            *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6      ，    PU                     *    -   -   -   -   *        *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     腾讯    NN               (IP(NP*)   -   -   -   -   *        *             *             *       (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      很    AD   (VP(DVP(VP(VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)            *   (ARGM-ADV*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     迅速    VA                 (VP*))   迅速  -   -   -   *        *           (V*)            *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      很    AD             (VP(ADVP*)   -   -   -   -   *        *             *    (ARGM-ADV*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     全面    VA                (VP*)))   全面  -   -   -   *        *             *           (V*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12      的   DEV                     *)   -   -   -   -   *        *             *             *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     做到    VV                  (VP*    做到  -   -   -   *        *    (ARGM-ADV*             *          (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14      了    AS                   *)))   -   -   -   -   *        *             *)            *       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      。    PU                    *))   -   -   -   -   *        *             *             *            *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   0    其次   AD   (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   1     ，   PU               *    -   -   -   -   *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   2    腾讯   NR            (NP*)   -   -   -   -   *        (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   3    整合   VV            (VP*    整合  -   -   -   *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   4     了   AS               *    -   -   -   -   *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   5    时间   NN         (NP(NP*    -   -   1   -   *        (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   6     和   CC               *    -   -   -   -   *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   7    用户   NN               *)   -   -   -   -   *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   8    维度   NN          (NP*)))   -   -   -   -   *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   9     。   PU              *))   -   -   -   -   *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     所谓    JJ   (TOP(IP(IP(NP(ADJP*)   -   -   -   -   *        (ARG0*        *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1     时间    NN                 (NP*))   -   -   1   -   *             *)       *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2      ，    PU                     *    -   -   -   -   *             *        *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3      就    AD             (VP(ADVP*)   -   -   8   -   *    (ARGM-ADV*)       *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4      是    VC                  (VP*     是  -   1   -   *           (V*)       *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5      指    VV         (NP(CP(IP(VP*     指  -   1   -   *        (ARG1*      (V*)        *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     事件    NN               (IP(NP*)   -   -   1   -   *             *   (ARG1*    (ARG0*)       *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     发生    VV               (VP*))))   发生  -   1   -   *             *        *)      (V*)       *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      的   DEC                     *)   -   -   -   -   *             *        *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     开始    NN              (NP*)))))   -   -   -   -   *             *)       *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      ，    PU                     *    -   -   -   -   *             *        *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     腾讯    NN               (IP(NP*)   -   -   -   -   *             *        *         *        *       (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     作出    VV        (VP(LCP(IP(VP*    作出  -   -   -   *             *        *         *      (V*)  (ARGM-TMP*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     迅速    JJ             (NP(ADJP*)   -   -   -   -   *             *        *         *   (ARG1*            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     报道    NN               (NP*))))   -   -   -   -   *             *        *         *        *)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      后    LC                     *)   -   -   -   -   *             *        *         *        *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16      ，    PU                     *    -   -   -   -   *             *        *         *        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17     启动    VV                  (VP*    启动  -   -   -   *             *        *         *        *          (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18      了    AS                     *    -   -   -   -   *             *        *         *        *       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19     特别    JJ             (NP(ADJP*)   -   -   -   -   *             *        *         *        *       (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20    预备案    NN              (NP*)))))   -   -   -   -   *             *        *         *        *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21      ，    PU                    *))   -   -   -   -   *             *        *         *        *            *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    公司    NN    (TOP(IP(NP*)   -   -   1   -   *        (ARG0*)   (ARG0*)      (ARG0*)   (ARG0*)   (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    马上    AD   (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)        *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    做出    VV           (VP*    做出  -   -   -   *           (V*)        *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     了    AS              *    -   -   -   -   *             *         *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4    捐款    VV  (NP(CP(IP(VP*    捐款  -   -   -   *        (ARG1*       (V*)           *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    百万    CD         (QP*)))   -   -   -   -   *             *    (ARG1*)           *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     的   DEC              *)   -   -   -   -   *             *         *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7    决定    NN        (NP*))))   -   -   -   -   *             *)        *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8     ，    PU              *    -   -   -   -   *             *         *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9    行动    NN    (VP(DVP(NP*)   -   -   1   -   *             *         *   (ARGM-ADV*         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10     之   DEG              *)   -   -   -   -   *             *         *            *)        *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     快    VA          (VP*))    快  -   1   -   *             *         *          (V*)        *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     ，    PU              *    -   -   -   -   *             *         *            *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     让    VV           (VP*     让  -   2   -   *             *         *            *       (V*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     人    NN           (NP*)   -   -   1   -   *             *         *            *    (ARG1*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    欣慰    VV     (IP(VP*))))   欣慰  -   -   -   *             *         *            *    (ARG2*)      (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     。    PU             *))   -   -   -   -   *             *         *            *         *         *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0       之后    AD     (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-TMP*)            *    (ARGM-ADV*)       *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1        ，    PU                 *    -   -   -   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2       腾讯    NR              (NP*)   -   -   -   -   *        (ARG0*)       (ARG0*)       (ARG0*)       *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3        又    AD      (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)            *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4       根据     P              (PP*    -   -   -   -   *    (ARGM-MNR*             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5       事态    NN       (NP(DNP(NP*)   -   -   -   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6        的   DEG                 *)   -   -   -   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7       发展    NN            (NP*)))   -   -   4   -   *             *)            *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8       补捐    VV          (VP(VRD*    补捐  -   -   -   *           (V*)            *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9        至    VV                 *)    至  -   1   -   *        (ARG2*)          (V*)            *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    １０００万    CD              (QP*    -   -   -   -   *        (ARG1*        (ARG1*             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11      人民币     M          (CLP*))))   -   -   -   -   *             *)            *)            *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12        ，    PU                 *    -   -   -   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13       成为    VV              (VP*    成为  -   -   -   *             *             *           (V*)       *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14        了    AS                 *    -   -   -   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      互联网    NN  (NP(CP(IP(IP(NP*    -   -   -   -   *             *             *        (ARG1*   (ARG0*    (ARGM-ADV*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16       企业    NN                 *)   -   -   -   -   *             *             *             *        *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17       捐赠    VV             (VP*))   捐赠  -   -   -   *             *             *             *      (V*)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18       地震    NN              (NP*    -   -   1   -   *             *             *             *        *        (ARG0*   (10
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19       灾区    NN                 *)   -   -   -   -   *             *             *             *        *             *)   10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20       款项    NN              (NP*)   -   -   -   -   *             *             *             *        *        (ARG0*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21        最    AD         (VP(ADVP*)   -   -   -   -   *             *             *             *        *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22        多    VA            (VP*)))    多  -   3   -   *             *             *             *        *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23        的   DEC                 *)   -   -   -   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24       公司    NN              (NP*    -   -   1   -   *             *             *             *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25       之一    NN              *))))   -   -   1   -   *             *             *             *)       *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26        。    PU                *))   -   -   -   -   *             *             *             *        *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    在此同时    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1       ，    PU                  *    -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2      腾讯    NN            (NP(NP*)   -   -   -   -   *        (ARG0*        (ARG0*      *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3       各    DT               (DP*)   -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4       大    JJ             (ADJP*)   -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5      平台    NN              (NP*))   -   -   -   -   *             *)            *)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6      开始    VV               (VP*    开始  -   -   -   *           (V*)            *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      号召    VV               (VP*    号召  -   -   -   *        (ARG1*           (V*)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      网友    NN               (NP*)   -   -   -   -   *             *        (ARG1*)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9      捐款    VV        (IP(VP*)))))   捐款  -   -   -   *             *)       (ARG2*)   (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10       ，    PU                  *    -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11      同时    AD          (IP(ADVP*)   -   -   -   -   *             *             *      *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     财付通    NN     (NP(DNP(NP(NP*    -   -   -   -   *             *             *      *        (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13       与    CC                  *    -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14      腾讯    NR                  *)   -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      公益    NN               (NP*    -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16      平台    NN                 *))   -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17       的   DEG                  *)   -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18      整合    NN               (NP*    -   -   -   -   *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19      效应    NN                 *))   -   -   -   -   *             *             *      *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20      由此    AD          (VP(ADVP*)   -   -   -   -   *             *             *      *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21      发生    VV             (VP*)))   发生  -   1   -   *             *             *      *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22       。    PU                 *))   -   -   -   -   *             *             *      *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     用户    NN    (TOP(IP(NP*)   -   -   -   -   *      *        (ARG0*)     *         *             *             *        (ARG0*)    (2)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    不仅仅    AD   (VP(VP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)     *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     可以    VV           (VP*    可以  -   1   -   *    (V*)            *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     通过     P        (VP(PP*    -   -   4   -   *      *    (ARGM-MNR*      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     捐款    NN          (NP*))   -   -   -   -   *      *             *)     *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5     支助    VV           (VP*    支助  -   -   -   *      *           (V*)     *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     灾区    NN       (NP*)))))   -   -   -   -   *      *        (ARG1*)     *         *             *             *             *    (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      ，    PU              *    -   -   -   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      也    AD      (VP(ADVP*)   -   -   -   -   *      *             *      *         *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     可以    VV           (VP*    可以  -   1   -   *      *             *    (V*)        *    (ARGM-ADV*)            *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10     通过     P     (VP(VP(PP*    -   -   4   -   *      *             *      *         *    (ARGM-MNR*    (ARGM-MNR*             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     撰写    VV        (IP(VP*    撰写  -   -   -   *      *             *      *       (V*)            *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     文章    NN        (NP*))))   -   -   -   -   *      *             *      *    (ARG1*)            *)            *)            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13      在     P           (PP*    -   -   2   -   *      *             *      *         *    (ARGM-LOC*    (ARGM-LOC*             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     腾讯    NN       (LCP(NP*    -   -   -   -   *      *             *      *         *             *             *             *     (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15     平台    NN              *)   -   -   -   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16      上    LC             *))   -   -   1   -   *      *             *      *         *             *)            *)            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17     进行    VV       (VP(VCD*    进行  -   3   -   *      *             *      *         *           (V*)        (REL*)            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     发表    VV            *)))   发表  -   -   -   *      *             *      *         *    (ARGM-ADV*)          (V*)            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19      ，    PU              *    -   -   -   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20     表达    VV           (VP*    表达  -   -   -   *      *             *      *         *             *             *           (V*)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     自己    PN        (NP(NP*)   -   -   -   -   *      *             *      *         *             *             *        (ARG1*     (2)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22      对     P       (DNP(PP*    -   -   3   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23     灾区    NN           (NP*    -   -   -   -   *      *             *      *         *             *             *             *    (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24     人民    NN             *))   -   -   -   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25      的   DEG              *)   -   -   -   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     友好    JJ         (ADJP*)   -   -   -   -   *      *             *      *         *             *             *             *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27     意愿    NN     (NP*)))))))   -   -   -   -   *      *             *      *         *             *             *             *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   28      。    PU             *))   -   -   -   -   *      *             *      *         *             *             *             *      -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0     整合    NN  (TOP(IP(IP(NP*    -   -   -   -   *   (ARG0*   (ARG0*   (ARG0*   (ARG0*    (ARG0*   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1     营销    NN               *)   -   -   -   -   *        *)       *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     讲求    VV           (VP*))   讲求  -   -   -   *      (V*)       *)       *)       *)        *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3      ，    PU               *    -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     把握    VV         (VP(VP*    把握  -   -   -   *   (ARG1*      (V*)       *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5     时事    NN            (NP*    -   -   -   -   *        *   (ARG1*        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     机遇    NN              *))   -   -   -   -   *        *        *)       *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      ，    PU               *    -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8     进行    VV            (VP*    进行  -   3   -   *        *        *      (V*)       *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     适当    JJ       (NP(ADJP*)   -   -   -   -   *        *        *   (ARG1*        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10     营销    NN          (NP*)))   -   -   -   -   *        *        *        *)       *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11      ；    PU               *    -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     讲求    VV         (VP(VP*    讲求  -   -   -   *        *        *        *      (V*)        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     整合    JJ    (NP(NP(ADJP*)   -   -   -   -   *        *        *        *   (ARG1*         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14    消费者    NN           (NP*))   -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      对     P        (DNP(PP*    -   -   3   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     产品    NN           (NP*))   -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17      的   DEG               *)   -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     不同    JJ          (ADJP*)   -   -   -   -   *        *        *        *        *         *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19     需求    NN          (NP*)))   -   -   -   -   *        *        *        *        *)        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20     进行    VV            (VP*    进行  -   3   -   *        *        *        *        *       (V*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     搭配    NN         (NP*))))   -   -   -   -   *        *)       *        *        *    (ARG1*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22      。    PU              *))   -   -   -   -   *        *        *        *        *         *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   0    再次   AD   (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   1     ，   PU               *    -   -   -   -   *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   2    腾讯   NR            (NP*)   -   -   -   -   *        (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   3    整合   VV            (VP*    整合  -   -   -   *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   4     了   AS               *    -   -   -   -   *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   5     各   DT         (NP(DP*    -   -   -   -   *        (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   6     种    M          (CLP*))   -   -   -   -   *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   7    沟通   NN            (NP*    -   -   -   -   *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   8    方式   NN             *)))   -   -   -   -   *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   9     。   PU              *))   -   -   -   -   *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0      所谓    AD      (TOP(IP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)        *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1       ，    PU                  *    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2      沟通    NN               (NP*)   -   -   -   -   *      *        (ARG1*)        *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3       是    VC               (VP*     是  -   1   -   *    (V*)            *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4       指    VV               (VP*     指  -   1   -   *      *           (V*)        *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5      腾讯    NN            (IP(NP*)   -   -   -   -   *      *        (ARG2*         *        *       (ARG0*)    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6       在     P            (VP(PP*    -   -   2   -   *      *             *         *        *   (ARGM-TMP*      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7      号召    VV      (NP(CP(IP(VP*    号召  -   -   -   *      *             *       (V*)       *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8      赈灾    NN             (NP*)))   -   -   -   -   *      *             *    (ARG1*)       *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9       的   DEC                  *)   -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10      同时    NN             (NP*)))   -   -   -   -   *      *             *         *        *            *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11       ，    PU                  *    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12      通过     P               (PP*    -   -   4   -   *      *             *         *        *   (ARGM-MNR*      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13       各    DT            (NP(DP*    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14       种     M             (CLP*))   -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15      传播    NN            (NP(NP*    -   -   1   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16      工具    NN                  *    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17      组织    NN                  *)   -   -   3   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18       和    CC                  *    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19      宣传    NN               (NP*    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20    好人好事    NN               *))))   -   -   -   -   *      *             *         *        *            *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21       以     P               (PP*    -   -   -   -   *      *             *         *        *   (ARGM-MNR*      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22      激发    VV            (IP(VP*    激发  -   -   -   *      *             *         *      (V*)           *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23       更    AD   (NP(DNP(QP(ADVP*)   -   -   -   -   *      *             *         *   (ARG1*            *     (7
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24       多    CD              (QP*))   -   -   3   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25       的   DEG                  *)   -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26      企业    NN               (NP*    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27       和    CC                  *    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   28      个人    NN              *)))))   -   -   2   -   *      *             *         *        *)           *)     7)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   29       为     P               (PP*    -   -   4   -   *      *             *         *        *   (ARGM-BNF*      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   30      灾区    NN               (NP*    -   -   -   -   *      *             *         *        *            *    (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   31      人民    NN                 *))   -   -   -   -   *      *             *         *        *            *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   32       尽    VV               (VP*     尽  -   3   -   *      *             *         *        *          (V*)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   33      自己    PN        (NP(DNP(NP*)   -   -   -   -   *      *             *         *        *       (ARG1*     (7)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   34       的   DEG                  *)   -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   35       一    CD               (QP*    -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   36       份     M             (CLP*))   -   -   -   -   *      *             *         *        *            *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   37       力    NN         (NP*)))))))   -   -   2   -   *      *             *)        *        *            *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   38       。    PU                 *))   -   -   -   -   *      *             *         *        *            *      -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    腾讯    NN      (TOP(IP(IP(NP*    -   -   -   -   *      *       (ARG0*            *             *         *     (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    用户    NN                   *)   -   -   -   -   *      *            *)           *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    可以    VV                (VP*    可以  -   1   -   *    (V*)           *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     在     P             (VP(PP*    -   -   2   -   *      *   (ARGM-LOC*            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     各    DT  (LCP(NP(DNP(NP(DP*    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5     种     M              (CLP*))   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6    新闻    NN                (NP*    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7    渠道    NN                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8     和    CC                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9    腾讯    NN                   *    -   -   -   -   *      *            *            *             *         *     (4
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    本身    PN                   *    -   -   -   -   *      *            *            *             *         *      4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11    平台    NN                  *))   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     的   DEG                   *)   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13    专题    NN               (NP*))   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     上    LC                  *))   -   -   1   -   *      *            *)           *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    进行    VV                (VP*    进行  -   3   -   *      *          (V*)           *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16    反馈    NN             (NP(NP*    -   -   -   -   *      *       (ARG1*            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17     和    CC                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18    灾区    NN                (NP*    -   -   -   -   *      *            *            *             *         *    (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19    意见    NN                  *))   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20    沟通    NN           (NP*))))))   -   -   -   -   *      *            *)           *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     ，    PU                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22    腾讯    NN             (IP(NP*)   -   -   -   -   *      *            *       (ARG0*)            *    (ARG0*)    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23     在     P          (VP(VP(PP*    -   -   2   -   *      *            *   (ARGM-LOC*             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24    新闻    NN             (NP(NP*    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25     、    PU                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26    博客    NN                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27     和    CC                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   28    社区    NN                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   29     等   ETC                   *)   -   -   2   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   30    媒介    NN              (NP*)))   -   -   -   -   *      *            *            *)            *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   31    进行    VV                (VP*    进行  -   3   -   *      *            *          (V*)            *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   32    专题    JJ        (NP(NP(ADJP*)   -   -   -   -   *      *            *       (ARG1*             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   33    引导    NN               (NP*))   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   34     和    CC                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   35    用户    NN       (NP(CP(IP(NP*)   -   -   -   -   *      *            *            *        (ARG0*)        *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   36    自发    AD           (VP(ADVP*)   -   -   -   -   *      *            *            *    (ARGM-ADV*)        *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   37    表达    VV              (VP*)))   表达  -   -   -   *      *            *            *           (V*)        *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   38     的   DEC                   *)   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   39    组织    NN            (NP*)))))   -   -   3   -   *      *            *            *)            *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   40     ，    PU                   *    -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   41     给    VV                (VP*     给  -   -   -   *      *            *            *             *       (V*)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   42     了    AS                   *    -   -   -   -   *      *            *            *             *    (ARG2*)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   43    灾区    NN             (NP(NP*    -   -   -   -   *      *            *            *             *    (ARG1*    (10)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   44    人民    NN                   *)   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   45    莫大    JJ          (DNP(ADJP*)   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   46     的   DEG                   *)   -   -   -   -   *      *            *            *             *         *      -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   47    帮助    NN            (NP*)))))   -   -   2   -   *      *            *            *             *         *)     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   48     。    PU                  *))   -   -   -   -   *      *            *            *             *         *      -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    公益   JJ   (TOP(IP(IP(NP(ADJP*)   -   -   -   -   *    (ARG0*         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1    事件   NN                  (NP*    -   -   1   -   *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2    营销   NN                    *))   -   -   -   -   *         *)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     ，   PU                     *    -   -   -   -   *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4    行动   NN                  (NP*)   -   -   1   -   *    (ARG0*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5    重于   VV                  (VP*    重于  -   -   -   *       (V*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6    公关   NN                (NP*)))   -   -   -   -   *    (ARG1*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     ，   PU                     *    -   -   -   -   *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    腾讯   NN               (IP(NP*)   -   -   -   -   *         *    (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9    做到   VV                  (VP*    做到  -   -   -   *         *       (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10     了   AS                    *))   -   -   -   -   *         *    (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     。   PU                    *))   -   -   -   -   *         *         *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    所以    AD      (TOP(IP(ADVP*)   -   -    -   -   *    (ARGM-DIS*)     *      *    (ARGM-DIS*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1     ，    PU                  *    -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     在     P               (PP*    -   -    2   -   *    (ARGM-LOC*      *      *    (ARGM-LOC*    (ARGM-LOC*     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3     这    DT        (LCP(NP(DP*    -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4     件     M             (CLP*))   -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5     事    NN              (NP*))   -   -    1   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6     上    LC                 *))   -   -    3   -   *             *)     *      *             *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     ，    PU                  *    -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    腾讯    NR               (NP*)   -   -    -   -   *        (ARG0*)     *      *        (ARG0*)       (ARG0*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     也    AD       (VP(VP(ADVP*)   -   -    -   -   *    (ARGM-DIS*)     *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    没有    AD             (ADVP*)   -   -    2   -   *    (ARGM-ADV*)     *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11     做    VV               (VP*     做  -   11   -   *           (V*)     *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12     过    AS                  *    -   -    1   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13     多    VA   (NP(CP(IP(VP(VP*)    多  -    3   -   *        (ARG1*    (V*)     *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     或    CC                  *    -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    过分    VA             (VP*)))   过分  -    -   -   *             *      *    (V*)            *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     的   DEC                  *)   -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17    报道    NN            (NP*))))   -   -    -   -   *             *)     *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18     ，    PU                  *    -   -    -   -   *             *      *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19    显得    VV               (VP*    显得  -    -   -   *             *      *      *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20    非常    AD          (VP(ADVP*)   -   -    -   -   *             *      *      *        (ARG1*    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21    成熟    VA            (VP*))))   成熟  -    -   -   *             *      *      *             *)          (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22     。    PU                 *))   -   -    -   -   *             *      *      *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    0    通过     P   (TOP(IP(IP(PP*    -   -   4   -   *   (ARGM-MNR*         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    1     这    DT          (NP(DP*    -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    2     次     M           (CLP*))   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    3    公益    NN             (NP*    -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    4    活动    NN              *)))   -   -   2   -   *            *)        *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    5     ，    PU                *    -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    6    腾讯    NR             (NP*)   -   -   -   -   *       (ARG0*)        *             *        *             *        *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    7     让    VV             (VP*     让  -   2   -   *          (V*)        *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    8    自己    PN   (NP(NP(DNP(NP*)   -   -   -   -   *       (ARG1*         *             *        *             *        *    (9|(4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0    9     的   DEG                *)   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   10    用户    NN            (NP*))   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   11    以及    CC                *    -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   12    其他    DT   (NP(DNP(NP(DP*)   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   13    平台    NN            (NP*))   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   14     的   DEG                *)   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   15    用户    NN           (NP*)))   -   -   -   -   *            *)        *             *        *             *        *        9)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   16     对     P       (IP(VP(PP*    -   -   3   -   *       (ARG2*         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   17    腾讯    NN            (NP*))   -   -   -   -   *            *         *             *        *             *        *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   18    产生    VV             (VP*    产生  -   1   -   *            *       (V*)            *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   19     了    AS                *    -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   20    好感    NN        (NP*))))))   -   -   -   -   *            *)   (ARG1*)            *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   21     ，    PU                *    -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   22    这样    AD        (IP(ADVP*)   -   -   -   -   *            *         *    (ARGM-ADV*)       *    (ARGM-ADV*)       *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   23     很    AD     (VP(VP(ADVP*)   -   -   -   -   *            *         *    (ARGM-ADV*)       *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   24     有    VE             (VP*     有  -   3   -   *            *         *           (V*)       *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   25    可能    NN           (NP*)))   -   -   -   -   *            *         *        (ARG1*)       *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   26     会    VV             (VP*     会  -   1   -   *            *         *             *      (V*)            *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   27    导致    VV             (VP*    导致  -   -   -   *            *         *             *   (ARG1*           (V*)       *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   28    这些    DT       (IP(NP(DP*)   -   -   -   -   *            *         *             *        *        (ARG1*   (ARG0*       (9
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   29    用户    NN            (NP*))   -   -   -   -   *            *         *             *        *             *        *)       9)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   30     对     P          (VP(PP*    -   -   3   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   31    腾讯    NN      (NP(DNP(NP*)   -   -   -   -   *            *         *             *        *             *        *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   32     的   DEG                *)   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   33    产品    NN           (NP*)))   -   -   -   -   *            *         *             *        *             *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   34    进行    VV             (VP*    进行  -   3   -   *            *         *             *        *             *      (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   35    优先    JJ        (NP(ADJP*)   -   -   -   -   *            *         *             *        *             *   (ARG1*        -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   36    选择    NN     (NP*)))))))))   -   -   -   -   *            *         *             *        *)            *)       *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0046   0   37     。    PU               *))   -   -   -   -   *            *         *             *        *             *        *        -
+
+#end document

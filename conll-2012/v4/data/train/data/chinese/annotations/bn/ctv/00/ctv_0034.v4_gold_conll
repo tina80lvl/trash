@@ -1,0 +1,292 @@
+#begin document (bn/ctv/00/ctv_0034); part 000
+bn/ctv/00/ctv_0034   0    0     中国    NR      (TOP(IP(NP(NP*)  -    -   -   -     (NORP)       (ARG0*        (ARG0*    (7|(3)
+bn/ctv/00/ctv_0034   0    1    残疾人    NN                (NP*   -    -   -   -         *             *             *        -
+bn/ctv/00/ctv_0034   0    2    运动员    NN                  *))  -    -   -   -         *             *)            *)       7)
+bn/ctv/00/ctv_0034   0    3    ２６号    NT             (VP(NP*)  -    -   -   -     (DATE)   (ARGM-TMP*)   (ARGM-TMP*)       -
+bn/ctv/00/ctv_0034   0    4      在     P                (PP*   -    -   2   -         *    (ARGM-LOC*    (ARGM-LOC*        -
+bn/ctv/00/ctv_0034   0    5    第１１    OD  (LCP(NP(DNP(NP(QP*   -    -   -   -   (EVENT*             *             *       (5
+bn/ctv/00/ctv_0034   0    6      届     M              (CLP*))  -    -   -   -         *             *             *        -
+bn/ctv/00/ctv_0034   0    7    残奥会    NR               (NP*))  -    -   -   -         *)            *             *        5)
+bn/ctv/00/ctv_0034   0    8      的   DEG                   *)  -    -   -   -         *             *             *        -
+bn/ctv/00/ctv_0034   0    9     比赛    NN               (NP*))  -    -   -   -         *             *             *        -
+bn/ctv/00/ctv_0034   0   10      中    LC                  *))  -    -   -   -         *             *)            *)       -
+bn/ctv/00/ctv_0034   0   11     顽强    AD        (VP(VP(ADVP*)  -    -   -   -         *    (ARGM-ADV*)            *        -
+bn/ctv/00/ctv_0034   0   12     拼搏    VV               (VP*))  -   01   -   -         *           (V*)            *        -
+bn/ctv/00/ctv_0034   0   13      ，    PU                   *   -    -   -   -         *             *             *        -
+bn/ctv/00/ctv_0034   0   14      再    AD           (VP(ADVP*)  -    -   -   -         *             *    (ARGM-ADV*)       -
+bn/ctv/00/ctv_0034   0   15      创    VV                (VP*   -   01   -   -         *             *           (V*)       -
+bn/ctv/00/ctv_0034   0   16     佳绩    NN            (NP*)))))  -    -   -   -         *             *        (ARG1*)       -
+bn/ctv/00/ctv_0034   0   17      。    PU                  *))  -    -   -   -         *             *             *        -
+
+bn/ctv/00/ctv_0034   0    0    截止到     P      (TOP(IP(PP*   -    -   -   -            *    (ARGM-TMP*    (ARGM-TMP*        *        -
+bn/ctv/00/ctv_0034   0    1     北京    NR          (NP(NP*)  -    -   -   -         (GPE)            *             *        *    (6|(0)
+bn/ctv/00/ctv_0034   0    2     时间    NN             (NP*)  -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0    3    １７点    NT           (NP*)))  -    -   -   -        (TIME)            *)            *)       *        6)
+bn/ctv/00/ctv_0034   0    4      ，    PU                *   -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0    5      一    CD       (VP(VP(QP*   -    -   -   -       (DATE*    (ARGM-ADV*             *        *        -
+bn/ctv/00/ctv_0034   0    6      天     M           (CLP*))  -    -   -   -            *)            *)            *        *        -
+bn/ctv/00/ctv_0034   0    7      共    AD           (ADVP*)  -    -   2   -            *    (ARGM-ADV*)            *        *        -
+bn/ctv/00/ctv_0034   0    8     夺得    VV             (VP*   -   01   -   -            *           (V*)            *        *        -
+bn/ctv/00/ctv_0034   0    9      ５    CD          (NP(QP*   -    -   -   -    (CARDINAL)       (ARG1*             *        *        -
+bn/ctv/00/ctv_0034   0   10      枚     M           (CLP*))  -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0   11     金牌    NN          (NP*))))  -    -   -   -            *             *)            *        *        -
+bn/ctv/00/ctv_0034   0   12      ，    PU                *   -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0   13      并    AD        (VP(ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)       *        -
+bn/ctv/00/ctv_0034   0   14     创造    VV             (VP*   -   01   -   -            *             *           (V*)       *        -
+bn/ctv/00/ctv_0034   0   15      了    AS                *   -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0   16      ４    CD          (NP(QP*   -    -   -   -    (CARDINAL)            *        (ARG1*        *        -
+bn/ctv/00/ctv_0034   0   17      项     M           (CLP*))  -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0   18      新    VA   (CP(CP(IP(VP*))  -   01   -   -            *             *             *      (V*)       -
+bn/ctv/00/ctv_0034   0   19      的   DEC               *))  -    -   -   -            *             *             *        *        -
+bn/ctv/00/ctv_0034   0   20     世界    NN             (NP*   -    -   -   -            *             *             *   (ARG0*        -
+bn/ctv/00/ctv_0034   0   21     纪录    NN            *)))))  -    -   -   -            *             *             *)       *)       -
+bn/ctv/00/ctv_0034   0   22      。    PU               *))  -    -   -   -            *             *             *        *        -
+
+bn/ctv/00/ctv_0034   0    0        北京    NR   (TOP(IP(LCP(NP(DNP(NP(CP(CP(IP(VP(NP(NP(NP*)  -    -   -   -         (GPE)  (ARGM-TMP*   (ARGM-LOC*    (0)
+bn/ctv/00/ctv_0034   0    1        时间    NN                                         (NP*))  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0    2       ２６号    NT                                          (NP*   -    -   -   -       (TIME*            *            *     -
+bn/ctv/00/ctv_0034   0    3    １４点３０分    NT                                            *))  -    -   -   -            *)           *)           *     -
+bn/ctv/00/ctv_0034   0    4        举行    VV                                        (VP*)))  -   01   -   -            *          (V*)           *     -
+bn/ctv/00/ctv_0034   0    5         的   DEC                                            *))  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0    6        举重    NN                                          (NP*   -    -   -   -            *       (ARG1*            *     -
+bn/ctv/00/ctv_0034   0    7        项目    NN                                            *))  -    -   -   -            *            *)           *     -
+bn/ctv/00/ctv_0034   0    8         的   DEG                                             *)  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0    9        比赛    NN                                         (NP*))  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0   10         中    LC                                             *)  -    -   -   -            *            *            *)    -
+bn/ctv/00/ctv_0034   0   11         ，    PU                                             *   -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0   12        中国    NR                                    (NP(NP(NP*   -    -   -   -         (GPE)           *       (ARG0*    (8
+bn/ctv/00/ctv_0034   0   13        江苏    NR                                             *)  -    -   -   -         (GPE)           *            *     -
+bn/ctv/00/ctv_0034   0   14        选手    NN                                         (NP*))  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0   15       张海东    NR                                         (NP*))  -    -   -   -      (PERSON)           *            *)    8)
+bn/ctv/00/ctv_0034   0   16         以     P                                       (VP(PP*   -    -   -   -            *            *   (ARGM-MNR*     -
+bn/ctv/00/ctv_0034   0   17       ２３５    CD                                   (NP(DNP(QP*   -    -   -   -   (QUANTITY*            *            *     -
+bn/ctv/00/ctv_0034   0   18        公斤     M                                        (CLP*))  -    -   -   -            *)           *            *     -
+bn/ctv/00/ctv_0034   0   19         的   DEG                                             *)  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0   20        成绩    NN                                        (NP*)))  -    -   -   -            *            *            *)    -
+bn/ctv/00/ctv_0034   0   21        获得    VV                                          (VP*   -   01   -   -            *            *          (V*)    -
+bn/ctv/00/ctv_0034   0   22        男子    NN                                       (NP(NP*)  -    -   -   -            *            *       (ARG1*     -
+bn/ctv/00/ctv_0034   0   23        ７５    CD                                          (QP*   -    -   -   -   (QUANTITY*            *            *     -
+bn/ctv/00/ctv_0034   0   24        公斤     M                                        (CLP*))  -    -   -   -            *)           *            *     -
+bn/ctv/00/ctv_0034   0   25        立举    NN                                          (NP*)  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0   26       公斤级    NN                                         (FLR*)  -    -   -   -            *            *            *     -
+bn/ctv/00/ctv_0034   0   27        冠军    NN                                       (NP*))))  -    -   -   -            *            *            *)    -
+bn/ctv/00/ctv_0034   0   28         。    PU                                            *))  -    -   -   -            *            *            *     -
+
+bn/ctv/00/ctv_0034   0    0     随后    AD   (TOP(IP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/ctv/00/ctv_0034   0    1      他    PN            (NP*)  -    -   -   -            *        (ARG0*)       (ARG0*)   (8)
+bn/ctv/00/ctv_0034   0    2      又    AD       (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/ctv/00/ctv_0034   0    3      在     P            (PP*   -    -   2   -            *    (ARGM-LOC*    (ARGM-LOC*     -
+bn/ctv/00/ctv_0034   0    4     第四    OD     (LCP(NP(QP*   -    -   -   -     (ORDINAL)            *             *     -
+bn/ctv/00/ctv_0034   0    5      次     M          (CLP*))  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0    6     试举    NN           (NP*))  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0    7      中    LC              *))  -    -   -   -            *             *)            *)    -
+bn/ctv/00/ctv_0034   0    8     举起    VV         (VP(VP*   -   01   -   -            *           (V*)            *     -
+bn/ctv/00/ctv_0034   0    9      了    AS               *   -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   10    ２４０    CD     (NP(DNP(QP*   -    -   -   -   (QUANTITY*        (ARG1*             *     -
+bn/ctv/00/ctv_0034   0   11     公斤     M          (CLP*))  -    -   -   -            *)            *             *     -
+bn/ctv/00/ctv_0034   0   12      的   DEG               *)  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   13     重量    NN          (NP*)))  -    -   -   -            *             *)            *     -
+bn/ctv/00/ctv_0034   0   14      ，    PU               *   -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   15     打破    VV            (VP*   -   01   -   -            *             *           (V*)    -
+bn/ctv/00/ctv_0034   0   16     世界    NN            (NP*   -    -   -   -            *             *        (ARG1*     -
+bn/ctv/00/ctv_0034   0   17     纪录    NN            *))))  -    -   -   -            *             *             *)    -
+bn/ctv/00/ctv_0034   0   18      。    PU              *))  -    -   -   -            *             *             *     -
+
+bn/ctv/00/ctv_0034   0    0     游泳    NN      (TOP(IP(LCP(NP*   -    -   -   -            *            *   (ARGM-LOC*   (ARGM-LOC*    -
+bn/ctv/00/ctv_0034   0    1     比赛    NN                    *)  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0    2      中    LC                    *)  -    -   -   -            *            *            *)           *)   -
+bn/ctv/00/ctv_0034   0    3      ，    PU                    *   -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0    4     第一    OD  (NP(CP(CP(IP(VP(QP*   -    -   -   -     (ORDINAL)  (ARGM-ADV*       (ARG0*       (ARG0*   (4
+bn/ctv/00/ctv_0034   0    5      次     M               (CLP*))  -    -   -   -            *            *)           *            *    -
+bn/ctv/00/ctv_0034   0    6     参加    VV                 (VP*   -   01   -   -            *          (V*)           *            *    -
+bn/ctv/00/ctv_0034   0    7    残奥会    NR              (NP*))))  -    -   -   -       (EVENT)      (ARG1*)           *            *    -
+bn/ctv/00/ctv_0034   0    8      的   DEC                   *))  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0    9     河南    NR              (NP(NP*)  -    -   -   -         (GPE)           *            *            *    -
+bn/ctv/00/ctv_0034   0   10     选手    NN                (NP*))  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   11    朱红燕    NR                (NP*))  -    -   -   -      (PERSON)      (ARG0*)           *)           *)   4)
+bn/ctv/00/ctv_0034   0   12      在     P           (VP(VP(PP*   -    -   2   -            *            *   (ARGM-LOC*            *    -
+bn/ctv/00/ctv_0034   0   13     女子    NN          (LCP(NP(NP*)  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   14    ｆ１２    NN                 (NP*   -    -   -   -    (CARDINAL)           *            *            *    -
+bn/ctv/00/ctv_0034   0   15      级    NN                    *)  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   16    １００    CD                 (QP*   -    -   -   -   (QUANTITY*            *            *            *    -
+bn/ctv/00/ctv_0034   0   17      米     M               (CLP*))  -    -   -   -            *)           *            *            *    -
+bn/ctv/00/ctv_0034   0   18     蝶泳    NN                 (NP*   -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   19     比赛    NN                   *))  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   20      中    LC                   *))  -    -   -   -            *            *            *)           *    -
+bn/ctv/00/ctv_0034   0   21      以     P                 (PP*   -    -   -   -            *            *   (ARGM-MNR*            *    -
+bn/ctv/00/ctv_0034   0   22      １    CD              (QP(QP*   -    -   -   -       (TIME*            *            *            *    -
+bn/ctv/00/ctv_0034   0   23      分     M               (CLP*))  -    -   7   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   24     ０９    CD                 (QP*   -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   25      秒     M               (CLP*))  -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   26     ０９    CD               (QP*)))  -    -   -   -            *)           *            *)           *    -
+bn/ctv/00/ctv_0034   0   27     打破    VV                 (VP*   -   01   -   -            *            *          (V*)           *    -
+bn/ctv/00/ctv_0034   0   28     世界    NN                 (NP*   -    -   -   -            *            *       (ARG1*            *    -
+bn/ctv/00/ctv_0034   0   29     纪录    NN                  *)))  -    -   -   -            *            *            *)           *    -
+bn/ctv/00/ctv_0034   0   30      ，    PU                    *   -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   31     夺取    VV                 (VP*   -   01   -   -            *            *            *          (V*)   -
+bn/ctv/00/ctv_0034   0   32      了    AS                    *   -    -   -   -            *            *            *            *    -
+bn/ctv/00/ctv_0034   0   33     金牌    NN               (NP*)))  -    -   -   -            *            *            *       (ARG1*)   -
+bn/ctv/00/ctv_0034   0   34      。    PU                   *))  -    -   -   -            *            *            *            *    -
+
+bn/ctv/00/ctv_0034   0    0    朱红燕    NR                 (TOP(IP(NP*)  -    -   -   -      (PERSON)            *        (ARG0*)   (4)
+bn/ctv/00/ctv_0034   0    1      在     P                     (VP(PP*   -    -   2   -            *             *    (ARGM-LOC*     -
+bn/ctv/00/ctv_0034   0    2     已经    AD   (LCP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0034   0    3     结束    VV                      (VP*)))  -   01   -   -            *           (V*)            *     -
+bn/ctv/00/ctv_0034   0    4      的   DEC                          *))  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0    5     比赛    NN                       (NP*))  -    -   -   -            *        (ARG1*)            *     -
+bn/ctv/00/ctv_0034   0    6      中    LC                          *))  -    -   -   -            *             *             *)    -
+bn/ctv/00/ctv_0034   0    7      共    AD                      (ADVP*)  -    -   2   -            *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0034   0    8     取得    VV                        (VP*   -   01   -   -            *             *           (V*)    -
+bn/ctv/00/ctv_0034   0    9      了    AS                           *   -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   10      ３    CD                     (NP(QP*   -    -   -   -    (CARDINAL)            *        (ARG1*     -
+bn/ctv/00/ctv_0034   0   11      枚     M                      (CLP*))  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   12     金牌    NN                     (NP*))))  -    -   -   -            *             *             *)    -
+bn/ctv/00/ctv_0034   0   13      。    PU                          *))  -    -   -   -            *             *             *     -
+
+bn/ctv/00/ctv_0034   0    0     浙江   NR   (TOP(IP(NP(NP(NP*)  -    -   -   -         (GPE)       (ARG0*       (ARG0*     -
+bn/ctv/00/ctv_0034   0    1     选手   NN               (NP*))  -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0    2    尹建华   NR               (NP*))  -    -   -   -      (PERSON)            *)           *)    -
+bn/ctv/00/ctv_0034   0    3     今天   NT          (VP(VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)           *    (1)
+bn/ctv/00/ctv_0034   0    4      以    P                (PP*   -    -   -   -            *    (ARGM-MNR*            *     -
+bn/ctv/00/ctv_0034   0    5      １   CD             (QP(QP*   -    -   -   -       (TIME*             *            *     -
+bn/ctv/00/ctv_0034   0    6      分    M              (CLP*))  -    -   7   -            *             *            *     -
+bn/ctv/00/ctv_0034   0    7     ０８   CD                (QP*   -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0    8      秒    M              (CLP*))  -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0    9     １０   CD              (QP*)))  -    -   -   -            *)            *)           *     -
+bn/ctv/00/ctv_0034   0   10     打破   VV                (VP*   -   01   -   -            *           (V*)           *     -
+bn/ctv/00/ctv_0034   0   11     男子   NN             (NP(NP*)  -    -   -   -            *        (ARG1*            *     -
+bn/ctv/00/ctv_0034   0   12     ｆ６   NN                (NP*   -    -   -   -    (CARDINAL)            *            *     -
+bn/ctv/00/ctv_0034   0   13      级   NN                   *)  -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   14    １００   CD                (QP*   -    -   -   -   (QUANTITY*             *            *     -
+bn/ctv/00/ctv_0034   0   15      米    M              (CLP*))  -    -   -   -            *)            *            *     -
+bn/ctv/00/ctv_0034   0   16    自由泳   NN                (NP*)  -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   17     世界   NN                (NP*   -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   18     纪录   NN                *))))  -    -   -   -            *             *)           *     -
+bn/ctv/00/ctv_0034   0   19      ，   PU                   *   -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   20      为    P             (VP(PP*   -    -   4   -            *             *   (ARGM-BNF*     -
+bn/ctv/00/ctv_0034   0   21     中国   NR               (NP*))  -    -   -   -         (GPE)            *            *)   (3)
+bn/ctv/00/ctv_0034   0   22     夺得   VV                (VP*   -   01   -   -            *             *          (V*)    -
+bn/ctv/00/ctv_0034   0   23      本   DT             (NP(DP*   -    -   2   -            *             *       (ARG1*    (5
+bn/ctv/00/ctv_0034   0   24      届    M              (CLP*))  -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   25    残奥会   NR                (NP*)  -    -   -   -       (EVENT)            *            *     5)
+bn/ctv/00/ctv_0034   0   26     第８   OD                (QP*   -    -   -   -     (ORDINAL)            *            *     -
+bn/ctv/00/ctv_0034   0   27      枚    M              (CLP*))  -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   28     游泳   NN                (NP*   -    -   -   -            *             *            *     -
+bn/ctv/00/ctv_0034   0   29     金牌   NN               *)))))  -    -   -   -            *             *            *)    -
+bn/ctv/00/ctv_0034   0   30      。   PU                  *))  -    -   -   -            *             *            *     -
+
+bn/ctv/00/ctv_0034   0    0     福建   NR   (TOP(IP(NP(NP(NP*)  -    -   -   -         (GPE)       (ARG0*    (2)
+bn/ctv/00/ctv_0034   0    1     选手   NN               (NP*))  -    -   -   -            *             *     -
+bn/ctv/00/ctv_0034   0    2     侯丁   NR               (NP*))  -    -   -   -      (PERSON)            *)    -
+bn/ctv/00/ctv_0034   0    3     今天   NT             (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)   (1)
+bn/ctv/00/ctv_0034   0    4      在    P                (PP*   -    -   2   -            *    (ARGM-LOC*     -
+bn/ctv/00/ctv_0034   0    5     男子   NN         (LCP(NP(NP*)  -    -   -   -            *             *     -
+bn/ctv/00/ctv_0034   0    6    ｆ４２   NN                (NP*   -    -   -   -    (CARDINAL)            *     -
+bn/ctv/00/ctv_0034   0    7      级   NN                   *)  -    -   -   -            *             *     -
+bn/ctv/00/ctv_0034   0    8     跳高   NN                (NP*   -    -   -   -            *             *     -
+bn/ctv/00/ctv_0034   0    9     比赛   NN                  *))  -    -   -   -            *             *     -
+bn/ctv/00/ctv_0034   0   10      中   LC                  *))  -    -   -   -            *             *)    -
+bn/ctv/00/ctv_0034   0   11      以    P                (PP*   -    -   -   -            *    (ARGM-MNR*     -
+bn/ctv/00/ctv_0034   0   12      １   CD             (QP(QP*   -    -   -   -   (QUANTITY*             *     -
+bn/ctv/00/ctv_0034   0   13      米    M              (CLP*))  -    -   -   -            *             *     -
+bn/ctv/00/ctv_0034   0   14     ８７   CD              (QP*)))  -    -   -   -            *)            *)    -
+bn/ctv/00/ctv_0034   0   15     夺得   VV                (VP*   -   01   -   -            *           (V*)    -
+bn/ctv/00/ctv_0034   0   16     冠军   NN              (NP*)))  -    -   -   -            *        (ARG1*)    -
+bn/ctv/00/ctv_0034   0   17      。   PU                  *))  -    -   -   -            *             *     -
+
+bn/ctv/00/ctv_0034   0    0     福建    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -         (GPE)      (ARG0*        (ARG0*    (2)
+bn/ctv/00/ctv_0034   0    1     选手    NN               (NP*))  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0    2    吴延冲    NR               (NP*))  -    -   -   -      (PERSON)           *)            *)    -
+bn/ctv/00/ctv_0034   0    3      在     P          (VP(VP(PP*   -    -   2   -            *   (ARGM-LOC*             *     -
+bn/ctv/00/ctv_0034   0    4     男子    NN         (LCP(NP(NP*)  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0    5    ｆ４６    NN                (NP*   -    -   -   -    (CARDINAL)           *             *     -
+bn/ctv/00/ctv_0034   0    6      级    NN                   *)  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0    7     跳高    NN                (NP*   -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0    8     比赛    NN                  *))  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0    9      中    LC                  *))  -    -   -   -            *            *)            *     -
+bn/ctv/00/ctv_0034   0   10      以     P                (PP*   -    -   -   -            *   (ARGM-MNR*             *     -
+bn/ctv/00/ctv_0034   0   11      １    CD             (QP(QP*   -    -   -   -   (QUANTITY*            *             *     -
+bn/ctv/00/ctv_0034   0   12      米     M              (CLP*))  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   13     ９３    CD              (QP*)))  -    -   -   -            *)           *)            *     -
+bn/ctv/00/ctv_0034   0   14     夺得    VV                (VP*   -   01   -   -            *          (V*)            *     -
+bn/ctv/00/ctv_0034   0   15     冠军    NN              (NP*)))  -    -   -   -            *       (ARG1*)            *     -
+bn/ctv/00/ctv_0034   0   16      ，    PU                   *   -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   17     并且    AD           (VP(ADVP*)  -    -   -   -            *            *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0034   0   18     打破    VV                (VP*   -   01   -   -            *            *           (V*)    -
+bn/ctv/00/ctv_0034   0   19      了    AS                   *   -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   20      原    JJ           (NP(ADJP*)  -    -   -   -            *            *        (ARG1*     -
+bn/ctv/00/ctv_0034   0   21      １    CD         (DNP(QP(QP*   -    -   -   -   (QUANTITY*            *             *     -
+bn/ctv/00/ctv_0034   0   22      米     M              (CLP*))  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   23     ９２    CD               (QP*))  -    -   -   -            *)           *             *     -
+bn/ctv/00/ctv_0034   0   24      的   DEG                   *)  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   25      原    JJ              (ADJP*)  -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   26     世界    NN                (NP*   -    -   -   -            *            *             *     -
+bn/ctv/00/ctv_0034   0   27     纪录    NN               *)))))  -    -   -   -            *            *             *)    -
+bn/ctv/00/ctv_0034   0   28      。    PU                  *))  -    -   -   -            *            *             *     -
+
+bn/ctv/00/ctv_0034   0    0     女子    NN  (TOP(IP(IP(NP(NP*   -    -   -   -            *        (ARG1*             *    (9
+bn/ctv/00/ctv_0034   0    1    乒乓球    NN                  *)  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0    2    ｐｔ５    NN               (NP*   -    -   -   -    (CARDINAL)            *             *     -
+bn/ctv/00/ctv_0034   0    3      级    NN                  *)  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0    4     单打    NN               (NP*   -    -   -   -            *             *             *     9)
+bn/ctv/00/ctv_0034   0    5     决赛    NN                 *))  -    -   -   -            *             *)            *     -
+bn/ctv/00/ctv_0034   0    6      将    AD          (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0034   0    7      在     P               (PP*   -    -   2   -            *    (ARGM-LOC*             *     -
+bn/ctv/00/ctv_0034   0    8     中国    NR     (LCP(NP(NP(NP*)  -    -   -   -         (GPE)            *             *    (3)
+bn/ctv/00/ctv_0034   0    9     选手    NN              (NP*))  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   10    陈苇红    NR               (NP*   -    -   -   -      (PERSON)            *             *     -
+bn/ctv/00/ctv_0034   0   11      和    CC                  *   -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   12    任桂香    NR                 *))  -    -   -   -      (PERSON)            *             *     -
+bn/ctv/00/ctv_0034   0   13     之间    LC                 *))  -    -   -   -            *             *)            *     -
+bn/ctv/00/ctv_0034   0   14     展开    VV             (VP*)))  -   01   -   -            *           (V*)            *     -
+bn/ctv/00/ctv_0034   0   15      ，    PU                  *   -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   16     中国    NR            (IP(NP*)  -    -   -   -         (GPE)            *        (ARG0*)   (3)
+bn/ctv/00/ctv_0034   0   17     实际    AD          (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0034   0   18     已经    AD             (ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0034   0   19     取得    VV               (VP*   -   01   -   -            *             *           (V*)    -
+bn/ctv/00/ctv_0034   0   20     这个    DT     (NP(DNP(NP(DP*)  -    -   -   -            *             *        (ARG1*    (9
+bn/ctv/00/ctv_0034   0   21     项目    NN              (NP*))  -    -   -   -            *             *             *     9)
+bn/ctv/00/ctv_0034   0   22      的   DEG                  *)  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   23      金    JJ             (ADJP*   -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   24      银    JJ                  *)  -    -   -   -            *             *             *     -
+bn/ctv/00/ctv_0034   0   25      牌    NN           (NP*)))))  -    -   -   -            *             *             *)    -
+bn/ctv/00/ctv_0034   0   26      。    PU                 *))  -    -   -   -            *             *             *     -
+
+bn/ctv/00/ctv_0034   0    0     截止    P    (TOP(IP(PP*   -    -   -   -            *         *    (ARGM-TMP*    (ARGM-TMP*        -
+bn/ctv/00/ctv_0034   0    1     北京   NR     (NP(NP(NP*)  -    -   -   -         (GPE)        *             *             *    (6|(0)
+bn/ctv/00/ctv_0034   0    2     时间   NN          (NP*))  -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0    3    １７点   NT         (NP*)))  -    -   -   -        (TIME)        *             *)            *)       6)
+bn/ctv/00/ctv_0034   0    4     记者   NN    (LCP(IP(NP*)  -    -   -   -            *    (ARG0*)   (ARGM-TMP*    (ARGM-TMP*        -
+bn/ctv/00/ctv_0034   0    5     发稿   VV          (VP*))  -   01   -   -            *       (V*)            *             *        -
+bn/ctv/00/ctv_0034   0    6      时   LC              *)  -    -   -   -            *         *             *)            *)       -
+bn/ctv/00/ctv_0034   0    7      ，   PU              *   -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0    8     中国   NR        (NP(NP*)  -    -   -   -         (GPE)        *        (ARG0*        (ARG0*    (7|(3)
+bn/ctv/00/ctv_0034   0    9    代表团   NN          (NP*))  -    -   -   -            *         *             *)            *)       7)
+bn/ctv/00/ctv_0034   0   10      已   AD   (VP(VP(ADVP*)  -    -   2   -            *         *    (ARGM-ADV*)            *        -
+bn/ctv/00/ctv_0034   0   11     取得   VV           (VP*   -   01   -   -            *         *           (V*)            *        -
+bn/ctv/00/ctv_0034   0   12     ２２   CD     (NP(NP(QP*   -    -   -   -    (CARDINAL)        *        (ARG1*             *        -
+bn/ctv/00/ctv_0034   0   13      枚    M         (CLP*))  -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   14     金牌   NN          (NP*))  -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   15      、   PU              *   -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   16     １８   CD        (NP(QP*   -    -   -   -    (CARDINAL)        *             *             *        -
+bn/ctv/00/ctv_0034   0   17      枚    M         (CLP*))  -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   18     银牌   NN          (NP*))  -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   19      、   PU              *   -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   20     １３   CD        (NP(QP*   -    -   -   -    (CARDINAL)        *             *             *        -
+bn/ctv/00/ctv_0034   0   21      枚    M         (CLP*))  -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   22     铜牌   NN       (NP*)))))  -    -   -   -            *         *             *)            *        -
+bn/ctv/00/ctv_0034   0   23      ，   PU              *   -    -   -   -            *         *             *             *        -
+bn/ctv/00/ctv_0034   0   24    奖牌榜   NN    (VP(LCP(NP*)  -    -   -   -            *         *             *    (ARGM-LOC*        -
+bn/ctv/00/ctv_0034   0   25      上   LC              *)  -    -   1   -            *         *             *             *)       -
+bn/ctv/00/ctv_0034   0   26      暂   AD         (ADVP*)  -    -   -   -            *         *             *    (ARGM-ADV*)       -
+bn/ctv/00/ctv_0034   0   27      列   VV           (VP*   -   01   1   -            *         *             *           (V*)       -
+bn/ctv/00/ctv_0034   0   28     第７   OD           (QP*   -    -   -   -     (ORDINAL)        *             *        (ARG1*        -
+bn/ctv/00/ctv_0034   0   29      位    M      (CLP*)))))  -    -   3   -            *         *             *             *)       -
+bn/ctv/00/ctv_0034   0   30      。   PU             *))  -    -   -   -            *         *             *             *        -
+
+bn/ctv/00/ctv_0034   0   0    中央台   NR   (TOP(IP(NP(NP*)  -    -   -   -    (ORG)  (ARG0*   -
+bn/ctv/00/ctv_0034   0   1     记者   NN            (NP*))  -    -   -   -       *        *)  -
+bn/ctv/00/ctv_0034   0   2     报道   VV             (VP*)  -   01   -   -       *      (V*)  -
+bn/ctv/00/ctv_0034   0   3      。   PU               *))  -    -   -   -       *        *   -
+
+#end document

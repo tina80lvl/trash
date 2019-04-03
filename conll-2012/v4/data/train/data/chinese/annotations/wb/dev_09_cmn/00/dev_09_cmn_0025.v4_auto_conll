@@ -1,0 +1,474 @@
+#begin document (wb/dev_09_cmn/00/dev_09_cmn_0025); part 000
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   0    地震   NN   (TOP(IP(IP(NP*)   -   -   1   -   *        *             *       (3)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   1    袭来   VV            (VP*))   -   -   -   -   *        *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   2     ，   PU                *    -   -   -   -   *        *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   3    奥运   NR    (IP(IP(NP(NP*)   -   -   -   -   *   (ARG1*        (ARG1*    (4|(1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   4    火炬   NN            (NP*))   -   -   -   -   *        *)            *        4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   5    传递   VV            (VP*))   传递  -   -   -   *      (V*)            *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   6    已经   AD        (VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   7    没有   VE             (VP*    没有  -   1   -   *        *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   8    意义   NN        (NP*))))))   -   -   -   -   *        *        (ARG1*)       -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0             ［   PU            (TOP(IP*    -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1            宁可   AD   (QP(NP(ADJP(ADVP*)   -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2            抗日   JJ             (ADJP*))   -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3             死   NN               (NP*))   -   -   1   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4           １２１   CD               (QP*))   -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5             ］   PU                   *    -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6             于    P             (IP(PP*    -   -   -   -   *   (ARGM-TMP*   (ARGM-TMP*   (ARGM-TMP*   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    ２００８－０５－１４   NT               (NP*))   -   -   -   -   *            *)           *)           *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8      １４：１６：１０   CD                (QP*)   -   -   -   -   *       (ARG0*)      (ARG0*)      (ARG0*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9            上帖   VV             (VP(VP*)   上帖  -   -   -   *          (V*)           *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10             ［   PU                   *    -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11             发   VV                (VP*     发  -   3   -   *            *          (V*)           *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12            短信   NN               (NP*))   -   -   -   -   *            *       (ARG1*)           *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13             ］   PU                   *    -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14             ［   PU                   *    -   -   -   -   *            *            *            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15            表状   VV              (VP*)))   表状  -   -   -   *            *            *          (V*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16             ］   PU                  *))   -   -   -   -   *            *            *            *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   0    地震   NN   (TOP(IP(IP(NP*)   -   -   1   -   *    (ARG0*)       *             *       (3)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   1    袭来   VV            (VP*))   袭来  -   -   -   *       (V*)       *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   2     ，   PU                *    -   -   -   -   *         *        *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   3    奥运   NR    (IP(IP(NP(NP*)   -   -   -   -   *         *   (ARG1*        (ARG1*    (4|(1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   4    火炬   NN            (NP*))   -   -   -   -   *         *        *)            *        4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   5    传递   VV            (VP*))   传递  -   -   -   *         *      (V*)            *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   6    已经   AD        (VP(ADVP*)   -   -   -   -   *         *        *    (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   7    没有   VE             (VP*    没有  -   1   -   *         *        *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   8    意义   NN        (NP*))))))   -   -   -   -   *         *        *        (ARG1*)       -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0       冰雪   NN  (TOP(IP(IP(NP*    -   -   -   -   *        (ARG0*    (ARGM-ADV*   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1       冻害   NN               *)   -   -   -   -   *             *)            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2       刚刚   AD       (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3       过去   VV          (VP*)))   过去  -   -   -   *           (V*)            *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4        ，   PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5       拉萨   NR            (NP*)   -   -   -   -   *             *        (ARG1*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6        又   AD       (VP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7       发生   VV            (VP*    发生  -   1   -   *             *           (V*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    打砸抢烧杀   JJ       (NP(ADJP*)   -   -   -   -   *             *        (ARG0*   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       暴乱   NN         (NP*))))   -   -   -   -   *             *             *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10        ，   PU              *))   -   -   -   -   *             *             *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      现在    NT    (TOP(IP(NP*)     -   -   -   -   *    (ARGM-TMP*)        *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1      四川    NR           (NP*      -   -   -   -   *        (ARG1*         *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      汶川    NR              *)     -   -   -   -   *             *)        *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3       又    AD      (VP(ADVP*)     -   -   -   -   *    (ARGM-DIS*)        *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4      发生    VV           (VP*      发生  -   1   -   *           (V*)        *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5      强烈    JJ   (NP(NP(ADJP*)     -   -   -   -   *        (ARG1*         *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6      地震    NN          (NP*))     -   -   1   -   *             *         *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7       ，    PU              *      -   -   -   -   *             *         *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8       我    PN        (NP(NP*)     -   -   -   -   *             *    (ARG0*)  (0
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       这    DT           (DP*)     -   -   -   -   *             *         *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    多灾多难    VV    (CP(IP(VP*))   多灾多难  -   -   -   *             *       (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11       的   DEC              *)     -   -   -   -   *             *         *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12      祖国    NN       (NP*)))))     -   -   -   -   *             *)        *    0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13       。    PU             *))     -   -   -   -   *             *         *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    地震    NN  (TOP(IP(NP(DNP(NP*    -   -   1   -   *   (ARG0*            *       (3
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    灾害    NN                   *)   -   -   -   -   *        *            *        3)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2     的   DEG                   *)   -   -   -   -   *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3    发生    NN               (NP*))   -   -   1   -   *        *)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4     ，    PU                   *    -   -   -   -   *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    正值    VV                (VP*    正值  -   -   -   *      (V*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6    奥运    NR      (LCP(IP(NP(NP*)   -   -   -   -   *   (ARG1*       (ARG1*    (4|(1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    火炬    NN               (NP*))   -   -   -   -   *        *            *)       4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8     在     P             (VP(PP*    -   -   2   -   *        *   (ARGM-LOC*        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9    境内    NN               (NP*))   -   -   -   -   *        *            *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    传递    VV              (VP*)))   传递  -   -   -   *        *          (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11    之际    LC                  *))   -   -   -   -   *        *)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     。    PU                  *))   -   -   -   -   *        *            *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    地震    NN   (TOP(IP(NP(DNP(NP*)   -   -   1   -   *        (ARG0*      *         *        (ARG0*       (3)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1     的   DEG                    *)   -   -   -   -   *             *      *         *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2    袭来    NN                (NP*))   -   -   -   -   *             *)     *         *             *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3     ，    PU                    *    -   -   -   -   *             *      *         *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4    顿时    AD            (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *         *    (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5     使    VV              (VP(VP*     使  -   1   -   *           (V*)     *         *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6    奥运    NR              (NP(NP*)   -   -   -   -   *        (ARG1*      *         *             *    (4|(1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    火炬    NN                (NP*))   -   -   -   -   *             *)     *         *             *        4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    传递    VV           (IP(VP(VP*)   传递  -   -   -   *        (ARG2*    (V*)        *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9    失去    VV                 (VP*    失去  -   -   -   *             *      *       (V*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10     了    AS                    *    -   -   -   -   *             *      *    (ARG1*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11    色彩    NN             (NP*)))))   -   -   -   -   *             *)     *    (ARG1*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     ，    PU                    *    -   -   -   -   *             *      *         *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    没有    VE                 (VP*    没有  -   1   -   *             *      *         *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     了    AS                    *    -   -   -   -   *             *      *         *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15    意义    NN              (NP*))))   -   -   -   -   *             *      *         *        (ARG1*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16     。    PU                   *))   -   -   -   -   *             *      *         *             *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    火炬    NN   (TOP(IP(IP(IP(NP*)   -   -   -   -   *    (ARG1*)  (ARG0*         *         *         *    (5
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    传递    VV               (VP*))   传递  -   -   -   *       (V*)       *)        *         *         *     5)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2     是    VC                (VP*     是  -   1   -   *         *      (V*)        *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3     一    CD             (NP(QP*    -   -   -   -   *         *   (ARG1*         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4     种     M              (CLP*))   -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    象征    NN             (NP*))))   -   -   -   -   *         *        *)        *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6     ，    PU                   *    -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7     它    PN             (IP(NP*)   -   -   -   -   *         *        *    (ARG0*)        *         *    (5)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    象征    VV                (VP*    象征  -   -   -   *         *        *       (V*)        *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9    吉祥    NN                (NP*    -   -   -   -   *         *        *    (ARG1*         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10     、    PU                   *    -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11    和平    NN                   *    -   -   1   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     、    PU                   *    -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    团结    NN                   *    -   -   3   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     、    PU                   *    -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15    奋进    NN                 *)))   -   -   -   -   *         *        *         *)        *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16     ；    PU                   *    -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17     它    PN             (IP(NP*)   -   -   -   -   *         *        *         *    (ARG0*)   (ARG0*)   (5)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18    激发    VV             (VP(VP*    激发  -   -   -   *         *        *         *       (V*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19    人民    NN         (NP(DNP(NP*)   -   -   -   -   *         *        *         *    (ARG1*         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20     的   DEG                   *)   -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   21    民族    NN                (NP*    -   -   1   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   22    激情    NN                 *)))   -   -   -   -   *         *        *         *         *)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   23     ，    PU                   *    -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   24    唤起    VV                (VP*    唤起  -   -   -   *         *        *         *         *       (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   25    人民    NN         (NP(DNP(NP*)   -   -   -   -   *         *        *         *         *    (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   26     的   DEG                   *)   -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   27    爱国    JJ              (ADJP*)   -   -   -   -   *         *        *         *         *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   28    热情    NN            (NP*)))))   -   -   -   -   *         *        *         *         *         *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   29     。    PU                  *))   -   -   -   -   *         *        *         *         *         *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    奥运    NR   (TOP(IP(NP(DNP(NP(NP*)   -   -   -   -   *        (ARG0*      *      *    (4|(1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    火炬    NN                   (NP*))   -   -   -   -   *             *      *      *        4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2     的   DEG                       *)   -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3    传递    NN                   (NP*))   -   -   -   -   *             *)     *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4    明显    AD               (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    带有    VV                    (VP*    带有  -   -   -   *           (V*)     *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6     一    CD              (NP(NP(QP*    -   -   -   -   *        (ARG1*      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7     种     M                  (CLP*))   -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    浓烈    VA             (CP(IP(VP*))   浓烈  -   -   -   *             *    (V*)     *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9     的   DEC                       *)   -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    喜庆    JJ                  (ADJP*)   -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11    色彩    NN                   (NP*))   -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     和    CC                       *    -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    热烈    VA          (NP(CP(IP(VP*))   热烈  -   -   -   *             *      *    (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     的   DEC                       *)   -   -   -   -   *             *      *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15    氛围    NN                (NP*)))))   -   -   -   -   *             *)     *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16     。    PU                      *))   -   -   -   -   *             *      *      *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      然而    AD   (TOP(IP(ADVP*)     -   -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1       ，    PU               *      -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2       这    PN            (NP*      -   -   -   -   *        (ARG0*        (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3      一切    PN               *)     -   -   -   -   *             *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4      因为     P      (VP(VP(PP*      -   -   -   -   *    (ARGM-PRP*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5      地震    NN           (NP*))     -   -   1   -   *             *)            *    (3)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6       而   MSP            (VP*      -   -   -   -   *    (ARGM-ADV*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7      消散    VV            (VP*      消散  -   -   -   *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8       了    AS             *)))     -   -   -   -   *        (ARG1*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       ，    PU               *      -   -   -   -   *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    消失殆尽    VV            (VP*    消失殆尽  -   -   -   *             *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11       了    AS              *))     -   -   -   -   *             *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12       。    PU              *))     -   -   -   -   *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      火炬    NN   (TOP(IP(CP(IP(NP*)     -   -   -   -   *             *      *            *        (ARG1*)            *      *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1       还    AD           (VP(ADVP*)     -   -   -   -   *    (ARGM-ADV*)     *            *    (ARGM-ADV*)   (ARGM-ADV*)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      能够    VV                (VP*      能够  -   -   -   *           (V*)     *            *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3    一如既往    VV         (VP(DVP(VP*)   一如既往  -   -   -   *             *    (V*)           *    (ARGM-ADV*    (ARGM-ADV*      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4       地   DEV                   *)     -   -   -   -   *             *      *            *             *)            *)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    按部就班    VV         (VP(DVP(VP*)   按部就班  -   -   -   *             *      *          (V*)   (ARGM-ADV*    (ARGM-ADV*      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6       地   DEV                   *)     -   -   -   -   *             *      *            *             *)            *)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7      继续    VV                (VP*      继续  -   -   -   *             *      *   (ARGM-ADV*           (V*)            *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8      传递    VV          (VP*)))))))     传递  -   -   -   *             *      *            *)       (ARG1*)          (V*)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       吗    SP                   *)     -   -   -   -   *             *      *            *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10       ，    PU                   *      -   -   -   -   *             *      *            *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11      恐怕    AD        (IP(VP(ADVP*)     -   -   -   -   *             *      *            *             *             *      *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12       是    VC                (VP*       是  -   1   -   *             *      *            *             *             *    (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13       不    AD           (VP(ADVP*)     -   -   -   -   *             *      *            *             *             *      *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14       能    VV             (VP*))))      能  -   1   -   *             *      *            *             *             *      *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15       了    SP                   *)     -   -   -   -   *             *      *            *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16       。    PU                  *))     -   -   -   -   *             *      *            *             *             *      *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    继续    VV     (TOP(IP(IP(VP*    继续  -   -   -   *       (V*)     *        *    (ARGM-ADV*      *        *    (ARGM-ADV*      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    传递    VV             (VP*)))   传递  -   -   -   *    (ARG1*)   (V*)       *             *)     *        *             *)     *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2     ，    PU                  *    -   -   -   -   *         *      *        *             *      *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3    首先    AD       (VP(VP(ADVP*)   -   -   -   -   *         *      *        *    (ARGM-ADV*)     *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4     会    VV               (VP*     会  -   1   -   *         *      *      (V*)   (ARGM-ADV*)     *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5     冷    VV           (VP(VRD*     冷  -   1   -   *         *      *   (ARG1*           (V*)     *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6     了    VV                  *)    了  -   -   -   *         *      *        *             *    (V*)       *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    震区    NN     (NP(DNP(NP(NP*)   -   -   -   -   *         *      *        *        (ARG1*      *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    人民    NN              (NP*))   -   -   -   -   *         *      *        *             *      *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9     的   DEG                  *)   -   -   -   -   *         *      *        *             *      *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10     心    NN           (NP*)))))   -   -   -   -   *         *      *        *)            *)     *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11     ，    PU                  *    -   -   -   -   *         *      *        *             *      *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12    接着    AD          (VP(ADVP*)   -   -   -   -   *         *      *        *             *      *        *    (ARGM-ADV*)     *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13     会    VV               (VP*     会  -   1   -   *         *      *        *             *      *      (V*)   (ARGM-ADV*)     *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     冷    VV           (VP(VRD*     冷  -   1   -   *         *      *        *             *      *   (ARG1*           (V*)     *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15     了    VV                  *)    了  -   -   -   *         *      *        *             *      *        *             *    (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16    全国    JJ   (NP(DNP(NP(ADJP*)   -   -   -   -   *         *      *        *             *      *        *        (ARG1*      *    (2|(0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17    人民    NN              (NP*))   -   -   -   -   *         *      *        *             *      *        *             *      *        2)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18     的   DEG                  *)   -   -   -   -   *         *      *        *             *      *        *             *      *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19     心    NN          (NP*))))))   -   -   -   -   *         *      *        *             *      *        *)            *)     *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20     。    PU                 *))   -   -   -   -   *         *      *        *             *      *        *             *      *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    因此    AD     (TOP(CP(IP(ADVP*)   -   -   -   -   *         *    (ARGM-DIS*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1     ，    PU                    *    -   -   -   -   *         *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2    终止    VV        (NP(CP(IP(VP*    终止  -   -   -   *       (V*)       (ARG0*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3    火炬    NN               (NP*)))   -   -   -   -   *    (ARG1*)            *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4     的   DEC                    *)   -   -   -   -   *         *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    传递    NN                (NP*))   -   -   -   -   *         *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6     是    VC                 (VP*     是  -   1   -   *         *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    十分    AD   (NP(CP(IP(VP(ADVP*)   -   -   -   -   *         *        (ARG1*    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    必要    VA               (VP*)))   必要  -   -   -   *         *             *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9     的   DEC                    *)   -   -   -   -   *         *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    必须    NN              (NP*))))   -   -   -   -   *         *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11     的    SP                    *    -   -   -   -   *         *    (ARGM-ADV*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     。    PU                   *))   -   -   -   -   *         *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0       与    P  (TOP(IP(IP(VP(PP*    -   -   -   -   *   (ARG0*   (ARG0*   (ARG0*   (ARGM-ADV*        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    抗震救灾   NN            (NP(NP*)   -   -   -   -   *        *        *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2       ，   PU                  *    -   -   -   -   *        *        *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3       与   CC                  *    -   -   -   -   *        *        *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4      灾区   NN               (NP*    -   -   -   -   *        *        *        *            *       (6)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5      人民   NN                *)))   -   -   -   -   *        *)       *)       *)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6      受苦   VV               (VP*    受苦  -   -   -   *      (V*)       *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7      受难   VV                  *    受难  -   -   -   *        *      (V*)       *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8      相比   VV                *)))   相比  -   -   -   *        *        *      (V*)           *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       ，   PU                  *    -   -   -   -   *        *        *        *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10      奥运   NR            (NP(NP*)   -   -   -   -   *        *        *        *       (ARG1*    (4|(1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11      火炬   NN              (NP*))   -   -   -   -   *        *        *        *            *)       4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12      传递   VV               (VP*    传递  -   -   -   *        *        *        *          (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    不值一提   CD              (QP*))   -   -   -   -   *        *        *        *       (ARG1*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14       。   PU                 *))   -   -   -   -   *        *        *        *            *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   0      中国    NR   (TOP(IP(NP(CP(IP(NP*)     -   -   -   -   *        (ARG0*)  (ARG0*    (ARG0*        (ARG0*    (0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   1      现时    AD              (VP(ADVP*)     -   -   -   -   *    (ARGM-TMP*)       *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   2      需要    VV                 (VP*)))     需要  -   1   -   *           (V*)       *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   3       的   DEC                     *))     -   -   -   -   *             *        *)        *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   4       是    VC                   (VP*       是  -   1   -   *             *      (V*)        *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   5    万众一心    VV               (VP(VCD*    万众一心  -   -   -   *             *        *       (V*)   (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   6    同心协力    VV                      *)   同心协力  -   -   -   *             *        *         *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   7    抗震救灾    NN                 (NP*)))     -   -   -   -   *             *        *    (ARG1*)       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   8       。    PU                     *))     -   -   -   -   *             *        *         *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      地震    NN  (TOP(IP(IP(NP*      -   -   1   -   *        (ARG0*             *      *             *             *             *             *             *   (6
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1      灾区    NN               *      -   -   -   -   *             *             *      *             *             *             *             *             *    6)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      人民    NN               *)     -   -   -   -   *             *)            *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3       在    AD       (VP(ADVP*)     -   -   5   -   *    (ARGM-ADV*)            *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4    受苦受难    VV          (VP*)))   受苦受难  -   -   -   *           (V*)            *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5       ，    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6      如果    CS    (IP(CP(ADVP*)     -   -   -   -   *             *    (ARGM-DIS*)     *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-ADV*    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7      人们    NN         (IP(NP*)     -   -   -   -   *             *        (ARG1*)     *        (ARG0*)       (ARG0*)       (ARG0*)       (ARG0*)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8       还    AD       (VP(ADVP*)     -   -   -   -   *             *    (ARGM-ADV*)     *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9      继续    VV            (VP*      继续  -   -   -   *             *           (V*)     *        (ARG0*)       (ARG0*)            *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    一如既往    VV     (VP(DVP(VP*)   一如既往  -   -   -   *             *        (ARG1*    (V*)   (ARGM-ADV*    (ARGM-ADV*    (ARGM-ADV*    (ARGM-ADV*             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11       地   DEV               *)     -   -   -   -   *             *             *      *             *)            *)            *)            *)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12      热情    VA         (VP(VP*      热情  -   -   -   *             *             *      *           (V*)            *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13       着    AS               *)     -   -   -   -   *             *             *      *    (ARGM-ADV*)            *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14       、    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15      热烈    VA            (VP*      热烈  -   -   -   *             *             *      *             *           (V*)            *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16       着    AS               *)     -   -   -   -   *             *             *      *             *    (ARGM-ADV*)            *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17       、    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18      喜庆    VV            (VP*      喜庆  -   -   -   *             *             *      *             *             *           (V*)            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19       着    AS               *)     -   -   -   -   *             *             *      *             *             *        (ARG1*)            *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20       、    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   21      传递    VV            (VP*      传递  -   -   -   *             *             *      *             *             *             *           (V*)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   22       着    AS         *)))))))     -   -   -   -   *             *             *)     *             *             *             *        (ARG1*)            *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   23       ，    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   24      那么    AD          (ADVP*)     -   -   -   -   *             *             *      *             *             *             *             *    (ARGM-DIS*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   25       ，    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   26       这    PN            (NP*      -   -   -   -   *             *        (ARG1*      *             *             *             *             *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   27      一切    PN               *)     -   -   -   -   *             *             *)     *             *             *             *             *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   28      势必    AD       (VP(ADVP*)     -   -   -   -   *             *             *      *             *             *             *             *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   29       就    AD          (ADVP*)     -   -   2   -   *             *             *      *             *             *             *             *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   30       将    AD          (ADVP*)     -   -   -   -   *             *             *      *             *             *             *             *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   31      变成    VV            (VP*      变成  -   -   -   *             *             *      *             *             *             *             *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   32      冷漠    NN            (NP*      -   -   -   -   *             *             *      *             *             *             *             *        (ARG2*    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   33       、    PU               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   34      麻痹    NN               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   35       与    CC               *      -   -   -   -   *             *             *      *             *             *             *             *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   36      滑稽    NN            *))))     -   -   -   -   *             *             *      *             *             *             *             *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   37       。    PU              *))     -   -   -   -   *             *             *      *             *             *             *             *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      如果    CS   (TOP(IP(IP(CP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)   (ARGM-ADV*    (ARGM-ADV*             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1       不    AD   (IP(VP(DVP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      终止    VV                  (VP*    终止  -   -   -   *           (V*)            *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3      火炬    NN                (NP*)))   -   -   -   -   *        (ARG1*)            *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4       的   DEV                     *)   -   -   -   -   *    (ARGM-ADV*)            *)            *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5      传递    VV               (VP*))))   传递  -   -   -   *             *           (V*)            *)            *)            *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6       ，    PU                     *    -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7       就    AD             (VP(ADVP*)   -   -   2   -   *             *             *    (ARGM-ADV*)   (ARGM-ADV*)            *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8      好比    VV               (VP(VP*    好比  -   -   -   *             *             *           (V*)            *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       一    CD               (NP(QP*    -   -   -   -   *             *             *        (ARG1*             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10       家     M                (CLP*))   -   -   1   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11       人    NN                (NP*)))   -   -   1   -   *             *             *             *)            *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12      一边    AD             (VP(ADVP*)   -   -   -   -   *             *             *             *    (ARGM-DIS*)            *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13       办    VV                  (VP*     办  -   -   -   *             *             *             *           (V*)            *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14      丧事    NN             (NP*))))))   -   -   -   -   *             *             *             *        (ARG1*)            *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15       ，    PU                     *    -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16      一边    AD             (IP(ADVP*)   -   -   -   -   *             *             *             *             *    (ARGM-DIS*)     *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17       半    CD               (NP(QP*)   -   -   -   -   *             *             *             *             *        (ARG0*      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18      喜事    NN                 (NP*))   -   -   -   -   *             *             *             *             *             *)     *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19       ，    PU                     *    -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20       是    VC                  (VP*     是  -   1   -   *             *             *             *             *           (V*)     *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   21       说    VV     (NP(CP(IP(VP(VPT*     说  -   7   -   *             *             *             *             *        (ARG1*    (V*)     *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   22       不    AD                     *    -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   23      过去    VV                   *)))   过去  -   -   -   *             *             *             *             *             *      *    (V*)     *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   24       的   DEC                     *)   -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   25    不和情理    NN              (DNP(NP*)   -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   26       的   DEG                     *)   -   -   -   -   *             *             *             *             *             *      *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   27      荒唐    VA           (CP(IP(VP*))   荒唐  -   -   -   *             *             *             *             *             *      *      *    (V*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   28       的   DEC                  *))))   -   -   -   -   *             *             *             *             *             *)     *      *      *   -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   29       。    PU                    *))   -   -   -   -   *             *             *             *             *             *      *      *      *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    反而    AD   (TOP(IP(ADVP*)   -   -   -   -   *         *      *    (ARGM-DIS*)   (ARGM-DIS*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1     ，    PU               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2    终止    VV      (IP(VP(VP*    终止  -   -   -   *       (V*)     *        (ARG0*        (ARG0*        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3    火炬    NN           (NP*))   -   -   -   -   *    (ARG1*)     *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4    传递    VV          (VP*)))   传递  -   -   -   *         *    (V*)            *)            *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5     ，    PU               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6     将    AD       (VP(ADVP*)   -   -   -   -   *         *      *    (ARGM-ADV*)   (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    体现    VV         (VP(VP*    体现  -   -   -   *         *      *           (V*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8     一    CD         (NP(QP*    -   -   -   -   *         *      *        (ARG1*             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9     种     M          (CLP*))   -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    同胞    NN            (NP*    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11    情谊    NN               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     与    CC               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    人文    NN               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14    关爱    NN             *)))   -   -   -   -   *         *      *             *)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15     ，    PU               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16    体现    VV            (VP*    体现  -   -   -   *         *      *             *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17    全国    JJ    (NP(NP(ADJP*)   -   -   -   -   *         *      *             *        (ARG1*    (2|(0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18    人民    NN           (NP*))   -   -   -   -   *         *      *             *             *        2)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19     对     P        (DNP(PP*    -   -   3   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20    灾区    NN            (NP*    -   -   -   -   *         *      *             *             *       (6)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   21    人民    NN              *))   -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   22     的   DEG               *)   -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   23     一    CD            (QP*    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   24     种     M          (CLP*))   -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   25    关注    NN            (NP*    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   26     、    PU               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   27    同情    NN               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   28     与    CC               *    -   -   -   -   *         *      *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   29    支持    NN           *)))))   -   -   -   -   *         *      *             *             *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   30     。    PU              *))   -   -   -   -   *         *      *             *             *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    终止    VV     (TOP(IP(IP(VP*    终止  -   -   -   *      (V*)  (ARG0*        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    火炬    NN               (NP*    -   -   -   -   *   (ARG1*        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2    传递    NN                *)))   -   -   -   -   *        *)       *)       *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3     ，    PU                  *    -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4    相信    VV               (VP*    相信  -   -   -   *        *      (V*)       *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5     在     P            (IP(PP*    -   -   2   -   *        *   (ARG1*        *   (ARGM-TMP*             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6    赢得    VV  (NP(DNP(NP(IP(VP*    赢得  -   -   -   *        *        *      (V*)           *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7    全国    JJ   (NP(DNP(NP(ADJP*)   -   -   -   -   *        *        *   (ARG1*            *             *             *    (2|(0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    人民    NN              (NP*))   -   -   -   -   *        *        *        *            *             *             *        2)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9     的   DEG                  *)   -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    理解    NN            (NP*))))   -   -   -   -   *        *        *        *)           *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11    拥护    NN               (NP*    -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12     与    CC                  *    -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    支持    NN                 *))   -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     的   DEG                  *)   -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15    同时    NN             (NP*)))   -   -   -   -   *        *        *        *            *)            *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16     ，    PU                  *    -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17    相信    VV               (VP*    相信  -   -   -   *        *        *        *          (V*)            *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18     也    AD       (IP(VP(ADVP*)   -   -   -   -   *        *        *        *       (ARG1*    (ARGM-ADV*)   (ARGM-DIS*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19     将    AD             (ADVP*)   -   -   -   -   *        *        *        *            *    (ARGM-ADV*)   (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20    能够    VV               (VP*    能够  -   -   -   *        *        *        *            *           (V*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   21    赢得    VV               (VP*    赢得  -   -   -   *        *        *        *            *             *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   22    国际    NN         (NP(NP(NP*    -   -   1   -   *        *        *        *            *             *        (ARG1*        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   23    社会    NN                  *)   -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   24    同情    NN              (NP*))   -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   25    理解    NN               (NP*    -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   26     与    CC                  *    -   -   -   -   *        *        *        *            *             *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   27    支持    NN          *)))))))))   -   -   -   -   *        *        *)       *            *)            *             *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   28     。    PU                 *))   -   -   -   -   *        *        *        *            *             *             *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      终止    VV  (TOP(IP(IP(VP*      终止  -   -   -   *      (V*)       *    (ARGM-ADV*        *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1      火炬    NN            (NP*      -   -   -   -   *   (ARG1*        *             *        *             *         *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      传递    NN             *)))     -   -   -   -   *        *)       *             *)       *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3       ，    PU               *      -   -   -   -   *        *        *             *        *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4       只    AD       (VP(ADVP*)     -   -   -   -   *        *        *    (ARGM-ADV*)       *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5       会    VV            (VP*       会  -   1   -   *        *      (V*)            *        *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6       给    VV            (VP*       给  -   -   -   *        *   (ARG1*           (V*)       *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7      国际    NN            (NP*      -   -   1   -   *        *        *        (ARG2*        *             *         *        (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8      社会    NN               *)     -   -   -   -   *        *        *             *)       *             *         *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       一    CD         (NP(QP*      -   -   -   -   *        *        *        (ARG1*        *             *         *    (ARGM-DIS*     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10       个     M          (CLP*))     -   -   -   -   *        *        *             *        *             *         *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11      中国    NR   (CP(IP(NP(NP*)     -   -   -   -   *        *        *             *   (ARG0*        (ARG0*    (ARG0*        (ARG0*    (0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12      人民    NN           (NP*))     -   -   -   -   *        *        *             *        *)            *)        *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13      正视    VV         (VP(VP*      正视  -   -   -   *        *        *             *      (V*)            *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14      现实    JJ       (NP(ADJP*)     -   -   -   -   *        *        *             *   (ARG1*             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15    求真务实    NN          (NP*)))     -   -   -   -   *        *        *             *        *)            *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16       不    AD    (VP(VP(ADVP*)     -   -   -   -   *        *        *             *        *    (ARGM-ADV*)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17       怕    VV            (VP*       怕  -   1   -   *        *        *             *        *           (V*)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18      困难    NN          (NP*)))     -   -   -   -   *        *        *             *        *        (ARG1*)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19       ，    PU               *      -   -   -   -   *        *        *             *        *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20    万众一心    VV        (VP(VCD*    万众一心  -   -   -   *        *        *             *        *             *       (V*)   (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   21      团结    VV               *)     团结  -   1   -   *        *        *             *        *             *         *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   22      抗灾    NN        (NP*)))))     -   -   -   -   *        *        *             *        *             *    (ARG0*)       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   23       的   DEC               *)     -   -   -   -   *        *        *             *        *             *         *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   24      形象    NN        (NP*)))))     -   -   -   -   *        *        *)            *)       *             *         *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   25       。    PU              *))     -   -   -   -   *        *        *             *        *             *         *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0      相反    AD      (TOP(IP(ADVP*)     -   -   -   -   *             *             *        *        *    (ARGM-DIS*)     *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1       ，    PU                  *      -   -   -   -   *             *             *        *        *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      如果    CS          (CP(ADVP*)     -   -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)       *        *    (ARGM-ADV*      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3      一味    AD   (IP(VP(DVP(ADVP*)     -   -   -   -   *    (ARGM-ADV*    (ARGM-ADV*        *        *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4       地   DEV                  *)     -   -   -   -   *             *)            *)       *        *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5      继续    VV               (VP*      继续  -   -   -   *           (V*)            *        *        *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6      传递    VV           (VP*)))))     传递  -   -   -   *        (ARG1*)          (V*)       *        *             *)     *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7       ，    PU                  *      -   -   -   -   *             *             *        *        *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8       到    VV               (VP*       到  -   2   -   *             *             *      (V*)       *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9       只    AD          (VP(ADVP*)     -   -   -   -   *             *             *   (ARG1*        *    (ARGM-ADV*)     *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10       会    VV               (VP*       会  -   1   -   *             *             *        *      (V*)            *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11       让    VV               (VP*       让  -   2   -   *             *             *        *   (ARG1*           (V*)     *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12      国际    NN               (NP*      -   -   1   -   *             *             *        *        *        (ARG1*      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13      社会    NN                  *)     -   -   -   -   *             *             *        *        *             *)     *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14    冷眼相视    VV         (IP(VP(VP*)   冷眼相视  -   -   -   *             *             *        *        *        (ARG2*    (V*)        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15       ，    PU                  *      -   -   -   -   *             *             *        *        *             *      *         *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16    藐视小瞧    VV               (VP*    藐视小瞧  -   -   -   *             *             *        *        *             *      *       (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17      中国    NR        (NP*))))))))     -   -   -   -   *             *             *        *)       *)            *)     *    (ARG1*)   (0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18       。    PU                 *))     -   -   -   -   *             *             *        *        *             *      *         *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    取消    VV    (TOP(IP(VP(VP*    取消  -   -   -   *       (V*)       *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    传递    NN             (NP*))   -   -   -   -   *    (ARG1*)       *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2     ，    PU                 *    -   -   -   -   *         *        *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3     把    BA              (VP*    -   -   -   -   *         *        *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4    准备    VV  (IP(NP(CP(IP(VP*    准备  -   2   -   *         *      (V*)        *      *        (ARG1*      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    用于    VV           (IP(VP*    用于  -   -   -   *         *   (ARG1*       (V*)     *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6    传递    VV      (IP(VP*))))))   传递  -   -   -   *         *        *)   (ARG2*)   (V*)            *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7     的   DEC                 *)   -   -   -   -   *         *        *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    费用    NN             (NP*))   -   -   -   -   *         *        *         *      *             *)     *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9    节省    VV          (VP(VRD*    节省  -   -   -   *         *        *    (ARG2*      *           (V*)     *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10    下来    VV              *))))   下来  -   2   -   *         *        *         *)     *    (ARGM-ADV*)   (V*)        *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11     ，    PU                 *    -   -   -   -   *         *        *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12    送往    VV              (VP*    送往  -   -   -   *         *        *         *      *             *      *       (V*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13    灾区    NN             (NP*))   -   -   -   -   *         *        *         *      *             *      *    (ARG1*)           *    (6)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     ，    PU                 *    -   -   -   -   *         *        *         *      *             *      *         *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15     给     P           (VP(PP*    -   -   -   -   *         *        *         *      *             *      *         *   (ARGM-BNF*     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16    灾区    NN              (NP*    -   -   -   -   *         *        *         *      *             *      *         *            *    (6)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17    人民    NN                *))   -   -   -   -   *         *        *         *      *             *      *         *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   18     以    VV              (VP*     以  -   -   -   *         *        *         *      *             *      *         *          (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   19    帮助    NN           (NP*))))   -   -   2   -   *         *        *         *      *             *      *         *       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   20     。    PU                *))   -   -   -   -   *         *        *         *      *             *      *         *            *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0     取消   VV  (TOP(IP(VP(VP(VCD*    取消  -   -   -   *    (V*)     *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1     传递   VV                  *))   传递  -   -   -   *      *    (V*)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2      ，   PU                   *    -   -   -   -   *      *      *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3      把   BA                (VP*    -   -   -   -   *      *      *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4     奥运   NR          (IP(NP(NP*)   -   -   -   -   *      *      *   (ARG1*    (1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5     火种   NN               (NP*))   -   -   -   -   *      *      *        *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6     封存   VV                (VP*    封存  -   -   -   *      *      *      (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7      于    P                (PP*    -   -   -   -   *      *      *   (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8     北京   NR             (NP(NP*)   -   -   -   -   *      *      *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9    奥组委   NN          (NP*)))))))   -   -   -   -   *      *      *        *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10      。   PU                  *))   -   -   -   -   *      *      *        *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    0    取消   VV  (TOP(CP(IP(IP(VP(VCD*    取消  -   -   -   *    (V*)     *        (ARG0*             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    1    传递   VV                    *)))   传递  -   -   -   *      *    (V*)            *)            *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    2     ，   PU                      *    -   -   -   -   *      *      *             *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    3     就   AD              (VP(ADVP*)   -   -   2   -   *      *      *    (ARGM-ADV*)            *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    4     让   VV                   (VP*     让  -   2   -   *      *      *           (V*)            *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    5    全国   NN                   (NP*    -   -   -   -   *      *      *        (ARG1*             *            *    (2|(0)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    6    人民   NN                      *)   -   -   -   -   *      *      *             *)            *            *        2)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    7     在    P             (IP(VP(PP*    -   -   2   -   *      *      *        (ARG2*             *   (ARGM-TMP*        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    8    奥运   NR            (LCP(IP(NP*)   -   -   -   -   *      *      *             *        (ARG0*)           *       (1)
+wb/dev_09_cmn/00/dev_09_cmn_0025   0    9    开幕   VV                  (VP*))   开幕  -   -   -   *      *      *             *           (V*)           *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   10     前   LC                     *))   -   -   -   -   *      *      *             *    (ARGM-ADV*)           *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   11     ，   PU                      *    -   -   -   -   *      *      *             *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   12    默哀   VV                   (VP*    默哀  -   -   -   *      *      *             *             *          (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   13     三   CD                (NP(QP*    -   -   -   -   *      *      *             *             *   (ARGM-EXT*        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   14     个    M                 (CLP*))   -   -   -   -   *      *      *             *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   15     月   NN            (NP*))))))))   -   -   -   -   *      *      *             *)            *            *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   16     吧   SP                      *    -   -   -   -   *      *      *             *             *            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0025   0   17     。   PU                     *))   -   -   -   -   *      *      *             *             *            *        -
+
+#end document

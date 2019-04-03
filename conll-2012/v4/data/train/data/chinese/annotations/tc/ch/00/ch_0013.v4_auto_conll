@@ -1,0 +1,375 @@
+#begin document (tc/ch/00/ch_0013); part 000
+tc/ch/00/ch_0013   0    0     这   PN      (TOP(UCP(DFL*)   -   -   -    B  *        *             *        -
+tc/ch/00/ch_0013   0    1     ,   PU                  *    -   -   -    B  *        *             *        -
+tc/ch/00/ch_0013   0    2    爷爷   NN   (CP(IP(IP(VP(NP*)   -   -   -    B  *   (ARG0*             *       (1)
+tc/ch/00/ch_0013   0    3     躺   VV               (VP*    -   -   -    B  *        *             *        -
+tc/ch/00/ch_0013   0    4     着   AS                *)))   -   -   -    B  *        *)            *        -
+tc/ch/00/ch_0013   0    5    睡觉   VV              (VP*))   睡觉  -   -    B  *      (V*)            *        -
+tc/ch/00/ch_0013   0    6     呢   SP                  *)   -   -   -    B  *        *             *        -
+tc/ch/00/ch_0013   0    7     ,   PU                  *    -   -   -    B  *        *             *        -
+tc/ch/00/ch_0013   0    8    这个   DT         (IP(NP(DP*)   -   -   -    B  *        *        (ARG0*        -
+tc/ch/00/ch_0013   0    9    电话   NN              (NP*))   -   -   1    B  *        *             *)       -
+tc/ch/00/ch_0013   0   10     够   AD          (VP(ADVP*)   -   -   -    B  *        *    (ARGM-ADV*)       -
+tc/ch/00/ch_0013   0   11     不   AD             (ADVP*)   -   -   -    B  *        *    (ARGM-ADV*)       -
+tc/ch/00/ch_0013   0   12     着   VV               (VP*     着  -   -    B  *        *           (V*)       -
+tc/ch/00/ch_0013   0   13     你   PN            (NP(NP*)   -   -   -    B  *        *        (ARG1*    (1|(0)
+tc/ch/00/ch_0013   0   14    爷爷   NN           (NP*)))))   -   -   -    B  *        *             *)       1)
+tc/ch/00/ch_0013   0   15     .   PU                 *))   -   -   -    B  *        *             *        -
+
+tc/ch/00/ch_0013   0   0    哦   IJ   (TOP(CP(INTJ*)  -   -   -    A  *      *   -
+tc/ch/00/ch_0013   0   1    ,   PU               *   -   -   -    A  *      *   -
+tc/ch/00/ch_0013   0   2    是   VC        (IP(VP*))   是  -   1    A  *    (V*)  -
+tc/ch/00/ch_0013   0   3    吗   SP               *   -   -   -    A  *      *   -
+tc/ch/00/ch_0013   0   4    .   PU              *))  -   -   -    A  *      *   -
+
+tc/ch/00/ch_0013   0    0    __   PU    (TOP(UCP*    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    1     你   PN      (IP(NP*)   -   -   -    B  *    (ARG0*)       *             *    (1)
+tc/ch/00/ch_0013   0    2    起来   VV        (VP*))   起来  -   -    B  *       (V*)       *             *     -
+tc/ch/00/ch_0013   0    3     ,   PU            *    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    4    __   PU         (IP*    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    5     哎   IJ       (INTJ*)   -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    6     ,   PU            *    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    7     这   PN        (DFL*)   -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    8     ,   PU            *    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0    9     说   VV         (VP*     说  -   7    B  *         *      (V*)            *     -
+tc/ch/00/ch_0013   0   10     两   CD      (NP(QP*    -   -   -    B  *         *   (ARG1*             *     -
+tc/ch/00/ch_0013   0   11     句    M       (CLP*))   -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0   12     话   NN      (NP*))))   -   -   -    B  *         *        *)            *     -
+tc/ch/00/ch_0013   0   13     ,   PU            *    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0   14     你   PN   (CP(IP(NP*)   -   -   -    B  *         *        *        (ARG0*)   (0)
+tc/ch/00/ch_0013   0   15     等   VV         (VP*     等  -   1    B  *         *        *           (V*)    -
+tc/ch/00/ch_0013   0   16     着   AS           *))   -   -   -    B  *         *        *        (ARG1*)    -
+tc/ch/00/ch_0013   0   17     哦   SP            *)   -   -   -    B  *         *        *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   18     ,   PU            *    -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0   19     呃   IJ       (INTJ*)   -   -   -    B  *         *        *             *     -
+tc/ch/00/ch_0013   0   20    爷爷   NN    (PRN(NP*))   -   -   -    B  *         *        *             *    (1)
+tc/ch/00/ch_0013   0   21     .   PU           *))   -   -   -    B  *         *        *             *     -
+
+tc/ch/00/ch_0013   0    0      他   PN   (TOP(UCP(CP(IP(NP*)    -   -   -    A  *    (ARG0*)     *             *             *    (1)
+tc/ch/00/ch_0013   0    1      醒   VA                 (VP*      醒  -   1    A  *       (V*)     *             *             *     -
+tc/ch/00/ch_0013   0    2      着   AS                   *))    -   -   -    A  *    (ARG1*)     *             *             *     -
+tc/ch/00/ch_0013   0    3      的   SP                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0    4      吗   SP                    *)    -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0    5      ?   PU                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0    6      哎   IJ               (INTJ*     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0    7      .   PU                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0    8      喂   IJ                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0    9      ?   PU                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0   10    没关系   VV                    *)   没关系  -   -    A  *         *    (V*)            *             *     -
+tc/ch/00/ch_0013   0   11      ,   PU                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0   12     不用   AD         (IP(VP(ADVP*)    -   -   -    A  *         *      *    (ARGM-ADV*)            *     -
+tc/ch/00/ch_0013   0   13     着急   VV               (VP*)))    着急  -   -    A  *         *      *           (V*)            *     -
+tc/ch/00/ch_0013   0   14      ,   PU                    *     -   -   -    A  *         *      *             *             *     -
+tc/ch/00/ch_0013   0   15      我   PN           (CP(IP(NP*)    -   -   -    A  *         *      *             *        (ARG0*)   (0)
+tc/ch/00/ch_0013   0   16      在   VV                 (VP*      在  -   2    A  *         *      *             *           (V*)    -
+tc/ch/00/ch_0013   0   17     这儿   PN               (NP*)))    -   -   -    A  *         *      *             *        (ARG1*)    -
+tc/ch/00/ch_0013   0   18      呢   SP                    *)    -   -   -    A  *         *      *             *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   19      .   PU                   *))    -   -   -    A  *         *      *             *             *     -
+
+tc/ch/00/ch_0013   0   0    真是   AD   (TOP(IP(VP(VP(ADVP*)   -   -   -    B  *    (ARGM-ADV*)     *         *   -
+tc/ch/00/ch_0013   0   1     不   AD                (ADVP*)   -   -   -    B  *    (ARGM-ADV*)     *         *   -
+tc/ch/00/ch_0013   0   2    容易   VA                 (VP*))   容易  -   -    B  *           (V*)     *         *   -
+tc/ch/00/ch_0013   0   3     ,   PU                     *    -   -   -    B  *             *      *         *   -
+tc/ch/00/ch_0013   0   4     来   VV                  (VP*)    来  -   1    B  *             *    (V*)        *   -
+tc/ch/00/ch_0013   0   5     ,   PU                     *    -   -   -    B  *             *      *         *   -
+tc/ch/00/ch_0013   0   6     来   VV                  (VP*     来  -   1    B  *             *      *       (V*)  -
+tc/ch/00/ch_0013   0   7    这个   PN                (NP*)))   -   -   -    B  *             *      *    (ARG1*)  -
+tc/ch/00/ch_0013   0   8     ,   PU                    *))   -   -   -    B  *             *      *         *   -
+
+tc/ch/00/ch_0013   0   0      哦   IJ  (TOP(INTJ*     -   -   -    B,A  *      *   -
+tc/ch/00/ch_0013   0   1      ,   PU           *     -   -   -    B,A  *      *   -
+tc/ch/00/ch_0013   0   2    没事儿   VV           *    没事儿  -   -    B,A  *    (V*)  -
+tc/ch/00/ch_0013   0   3      .   PU          *))    -   -   -    B,A  *      *   -
+
+tc/ch/00/ch_0013   0   0    __   PU  (TOP(IP*   -   -   -    B  *             *     -
+tc/ch/00/ch_0013   0   1     我   PN     (DFL*)  -   -   -    B  *    (ARGM-ADV*)   (2)
+tc/ch/00/ch_0013   0   2     ,   PU         *   -   -   -    B  *             *     -
+tc/ch/00/ch_0013   0   3     嗯   IJ    (INTJ*)  -   -   -    B  *             *     -
+tc/ch/00/ch_0013   0   4     ,   PU         *   -   -   -    B  *             *     -
+tc/ch/00/ch_0013   0   5     我   PN      (NP*)  -   -   -    B  *        (ARG0*)   (2)
+tc/ch/00/ch_0013   0   6     听   VV      (VP*)   听  -   -    B  *           (V*)    -
+tc/ch/00/ch_0013   0   7     .   PU         *   -   -   -    B  *             *     -
+tc/ch/00/ch_0013   0   8    __   PU        *))  -   -   -    B  *             *     -
+
+tc/ch/00/ch_0013   0   0    哎   IJ  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0013   0   1    .   PU          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0013   0    0    哎呀    IJ    (TOP(UCP(INTJ*)   -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    1     ,    PU                 *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    2    老是    AD   (CP(IP(VP(ADVP*)   -   -   -    B  *    (ARGM-ADV*)            *         *     -
+tc/ch/00/ch_0013   0    3    去去    VV            (VP*)))   去去  -   -    B  *           (V*)            *         *     -
+tc/ch/00/ch_0013   0    4     呢    SP                 *)   -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    5     ,    PU                 *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    6     没    AD      (IP(VP(ADVP*)   -   -   2    B  *             *    (ARGM-ADV*)        *     -
+tc/ch/00/ch_0013   0    7     去    VV            (VP*)))    去  -   1    B  *             *           (V*)        *     -
+tc/ch/00/ch_0013   0    8     ,    PU                 *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    9     你    PN             (DFL*    -   -   -    B  *             *             *         *    (0)
+tc/ch/00/ch_0013   0   10     的   DEG                 *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0   11    那个    PN                 *)   -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0   12     ,    PU                 *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0   13     你    PN          (INC(NP*)   -   -   -    B  *             *             *    (ARG0*)   (0)
+tc/ch/00/ch_0013   0   14     看    VV              (VP*     看  -   2    B  *             *             *       (V*)    -
+tc/ch/00/ch_0013   0   15     你    PN            (NP*)))   -   -   -    B  *             *             *    (ARG1*)   (0)
+tc/ch/00/ch_0013   0   16   --     PU                *))   -   -   -    B  *             *             *         *     -
+
+tc/ch/00/ch_0013   0   0    没关系   VV   (TOP(IP(IP(VP*))   没关系  -   -    A  *    (V*)    -
+tc/ch/00/ch_0013   0   1      ,   PU                 *     -   -   -    A  *      *     -
+tc/ch/00/ch_0013   0   2      我   PN             (DFL*)    -   -   -    A  *      *    (0)
+tc/ch/00/ch_0013   0   3      ,   PU                 *     -   -   -    A  *      *     -
+tc/ch/00/ch_0013   0   4      就   AD            (FRAG*)    -   -   2    A  *      *     -
+tc/ch/00/ch_0013   0   5     -    PU                *))    -   -   -    A  *      *     -
+
+tc/ch/00/ch_0013   0    0     你   PN   (TOP(IP(IP(NP(NP*)   -   -   -    B  *   (ARG0*      *         *             *    (0)
+tc/ch/00/ch_0013   0    1    叔叔   NN               (NP*))   -   -   -    B  *        *)     *         *             *     -
+tc/ch/00/ch_0013   0    2    上班   VV               (VP*))   上班  -   -    B  *      (V*)     *         *             *     -
+tc/ch/00/ch_0013   0    3     ,   PU                   *    -   -   -    B  *        *      *         *             *     -
+tc/ch/00/ch_0013   0    4     忙   VA            (IP(VP*))    忙  -   -    B  *        *    (V*)        *             *     -
+tc/ch/00/ch_0013   0    5     ,   PU                   *    -   -   -    B  *        *      *         *             *     -
+tc/ch/00/ch_0013   0    6    我们   PN             (IP(NP*    -   -   -    B  *        *      *         *        (ARG0*     -
+tc/ch/00/ch_0013   0    7     那   PN                   *)   -   -   -    B  *        *      *         *             *)    -
+tc/ch/00/ch_0013   0    8     也   AD           (VP(ADVP*)   -   -   -    B  *        *      *         *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0    9     不   AD              (ADVP*)   -   -   -    B  *        *      *         *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   10     会   VV                (VP*     会  -   1    B  *        *      *       (V*)            *     -
+tc/ch/00/ch_0013   0   11     写   VV             (VP*))))    写  -   -    B  *        *      *    (ARG1*)          (V*)    -
+tc/ch/00/ch_0013   0   12     .   PU                  *))   -   -   -    B  *        *      *         *             *     -
+
+tc/ch/00/ch_0013   0    0    知道   VV  (TOP(UCP(CP(IP(VP*    知道  -   -    A  *      (V*)            *             *     -
+tc/ch/00/ch_0013   0    1    你们   PN             (IP(NP*)   -   -   -    A  *   (ARG1*        (ARG0*)            *     -
+tc/ch/00/ch_0013   0    2     挺   AD           (VP(ADVP*)   -   -   4    A  *        *    (ARGM-ADV*)            *     -
+tc/ch/00/ch_0013   0    3     好   VA            (VP*)))))    好  -   1    A  *        *)          (V*)            *     -
+tc/ch/00/ch_0013   0    4     的   SP                   *)   -   -   -    A  *        *             *             *     -
+tc/ch/00/ch_0013   0    5     ,   PU                   *    -   -   -    A  *        *             *             *     -
+tc/ch/00/ch_0013   0    6     我   PN             (IP(NP*)   -   -   -    A  *        *             *        (ARG0*)   (0)
+tc/ch/00/ch_0013   0    7     就   AD           (VP(ADVP*)   -   -   2    A  *        *             *    (ARGM-DIS*)    -
+tc/ch/00/ch_0013   0    8    放心   VV                (VP*    放心  -   -    A  *        *             *           (V*)    -
+tc/ch/00/ch_0013   0    9     了   AS                 *)))   -   -   -    A  *        *             *    (ARGM-DIS*)    -
+tc/ch/00/ch_0013   0   10     .   PU                  *))   -   -   -    A  *        *             *             *     -
+
+tc/ch/00/ch_0013   0    0       嗯   IJ   (TOP(UCP(INTJ*)   -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    1       ,   PU                *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    2      现在   NT          (IP(NP*)   -   -   -    B  *    (ARGM-TMP*)            *         *     -
+tc/ch/00/ch_0013   0    3       啊   SP            (FLR*)   -   -   -    B  *    (ARGM-ADV*)            *         *     -
+tc/ch/00/ch_0013   0    4       ,   PU                *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    5       还   AD        (VP(ADVP*)   -   -   -    B  *    (ARGM-ADV*)            *         *     -
+tc/ch/00/ch_0013   0    6       行   VV           (VP*)))    行  -   1    B  *           (V*)            *         *     -
+tc/ch/00/ch_0013   0    7       ,   PU                *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    8    前一段儿   CD         (IP(DFL*)   -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0    9       那   AD           (ADVP*)   -   -   -    B  *             *    (ARGM-DIS*)        *     -
+tc/ch/00/ch_0013   0   10       ,   PU                *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0   11       就   AD        (VP(ADVP*)   -   -   2    B  *             *    (ARGM-ADV*)        *     -
+tc/ch/00/ch_0013   0   12       没   AD           (ADVP*)   -   -   2    B  *             *    (ARGM-ADV*)        *     -
+tc/ch/00/ch_0013   0   13       给    P             (PP*    -   -   -    B  *             *    (ARGM-BNF*         *     -
+tc/ch/00/ch_0013   0   14       你   PN            (NP*))   -   -   -    B  *             *             *)        *    (0)
+tc/ch/00/ch_0013   0   15       说   VV             (VP*     说  -   7    B  *             *           (V*)        *     -
+tc/ch/00/ch_0013   0   16      实话   NN          (NP*))))   -   -   -    B  *             *        (ARG1*)        *     -
+tc/ch/00/ch_0013   0   17       ,   PU                *    -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0   18       你   PN       (CP(IP(NP*)   -   -   -    B  *             *             *    (ARG0*)   (0)
+tc/ch/00/ch_0013   0   19      记得   VV            (VP*))   记得  -   -    B  *             *             *       (V*)    -
+tc/ch/00/ch_0013   0   20       吗   SP                *)   -   -   -    B  *             *             *         *     -
+tc/ch/00/ch_0013   0   21       ?   PU               *))   -   -   -    B  *             *             *         *     -
+
+tc/ch/00/ch_0013   0   0    哦   IJ  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0013   0   1    .   PU          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0013   0    0      这   PN   (TOP(UCP(DFL*)    -   -   -    B  *         *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0    1      ,   PU               *     -   -   -    B  *         *             *     -
+tc/ch/00/ch_0013   0    2      这   PN      (CP(IP(NP*)    -   -   -    B  *    (ARG0*)            *     -
+tc/ch/00/ch_0013   0    3    同年儿   VV           (VP*))   同年儿  -   -    B  *       (V*)            *     -
+tc/ch/00/ch_0013   0    4      的   SP               *     -   -   -    B  *         *             *     -
+tc/ch/00/ch_0013   0    5      吧   SP               *)    -   -   -    B  *         *             *     -
+tc/ch/00/ch_0013   0    6      ,   PU               *     -   -   -    B  *         *             *     -
+tc/ch/00/ch_0013   0    7     友玉   NN         (IP(NP*)    -   -   -    B  *         *        (ARG0*)   (1)
+tc/ch/00/ch_0013   0    8      就   AD       (VP(ADVP*)    -   -   2    B  *         *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0    9      摔   VV            (VP*      摔  -   1    B  *         *           (V*)    -
+tc/ch/00/ch_0013   0   10      了   AS               *     -   -   -    B  *         *        (ARG1*)    -
+tc/ch/00/ch_0013   0   11     一下   AD       (ADVP*))))    -   -   -    B  *         *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   12      .   PU              *))    -   -   -    B  *         *             *     -
+
+tc/ch/00/ch_0013   0   0    谁   PN   (TOP(NP(NP*)  -   -   -    A  *   -
+tc/ch/00/ch_0013   0   1    呀   SP             *   -   -   -    A  *   -
+tc/ch/00/ch_0013   0   2    ?   PU            *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0013   0    0    就是   AD   (TOP(IP(IP(VP(ADVP*)  -   -   -    B  *    (ARGM-ADV*)        *             *   -
+tc/ch/00/ch_0013   0    1    大约   AD                (ADVP*)  -   -   -    B  *    (ARGM-ADV*)        *             *   -
+tc/ch/00/ch_0013   0    2    已经   AD                (ADVP*)  -   -   -    B  *    (ARGM-ADV*)        *             *   -
+tc/ch/00/ch_0013   0    3     躺   VV                  (VP*    躺  -   -    B  *           (V*)        *             *   -
+tc/ch/00/ch_0013   0    4     了   AS                     *   -   -   -    B  *        (ARG1*)        *             *   -
+tc/ch/00/ch_0013   0    5     三   CD            (NP(QP(QP*   -   -   -    B  *    (ARGM-EXT*         *             *   -
+tc/ch/00/ch_0013   0    6     个    M                (CLP*))  -   -   -    B  *             *         *             *   -
+tc/ch/00/ch_0013   0    7     多   CD                 (QP*))  -   -   4    B  *             *         *             *   -
+tc/ch/00/ch_0013   0    8     月   NN              (NP*)))))  -   -   -    B  *             *)        *             *   -
+tc/ch/00/ch_0013   0    9     ,   PU                     *   -   -   -    B  *             *         *             *   -
+tc/ch/00/ch_0013   0   10     刚   AD          (IP(VP(ADVP*)  -   -   -    B  *             *         *    (ARGM-ADV*)  -
+tc/ch/00/ch_0013   0   11     会   VV                  (VP*    会  -   1    B  *             *       (V*)            *   -
+tc/ch/00/ch_0013   0   12     走   VV                (VP*)))   走  -   3    B  *             *    (ARG1*)          (V*)  -
+tc/ch/00/ch_0013   0   13     了   SP                     *)  -   -   -    B  *             *         *    (ARGM-ADV*)  -
+tc/ch/00/ch_0013   0   14     .   PU                    *))  -   -   -    B  *             *         *             *   -
+
+tc/ch/00/ch_0013   0   0     哦   IJ   (TOP(CP(INTJ*)  -   -   -    A  *     -
+tc/ch/00/ch_0013   0   1     ,   PU               *   -   -   -    A  *     -
+tc/ch/00/ch_0013   0   2    爷爷   NN            (NP*)  -   -   -    A  *    (1)
+tc/ch/00/ch_0013   0   3     啊   SP               *   -   -   -    A  *     -
+tc/ch/00/ch_0013   0   4     ?   PU              *))  -   -   -    A  *     -
+
+tc/ch/00/ch_0013   0    0    刚   AD   (TOP(CP(CP(IP(VP(ADVP*)  -   -   -    B  *    (ARGM-ADV*)            *         *             *   -
+tc/ch/00/ch_0013   0    1    走   VV                   (VP*)))   走  -   3    B  *           (V*)            *         *             *   -
+tc/ch/00/ch_0013   0    2    哎   SP                        *)  -   -   -    B  *             *             *         *             *   -
+tc/ch/00/ch_0013   0    3    ,   PU                        *   -   -   -    B  *             *             *         *             *   -
+tc/ch/00/ch_0013   0    4    刚   AD       (CP(IP(VP(VP(ADVP*)  -   -   -    B  *             *    (ARGM-ADV*)        *             *   -
+tc/ch/00/ch_0013   0    5    会   VV                    (VP*))   会  -   1    B  *             *           (V*)        *             *   -
+tc/ch/00/ch_0013   0    6    ,   PU                        *   -   -   -    B  *             *             *         *             *   -
+tc/ch/00/ch_0013   0    7    又   AD                (VP(ADVP*)  -   -   -    B  *             *             *         *    (ARGM-DIS*)  -
+tc/ch/00/ch_0013   0    8    会   VV                     (VP*    会  -   1    B  *             *             *       (V*)            *   -
+tc/ch/00/ch_0013   0    9    走   VV                 (VP*)))))   走  -   3    B  *             *             *    (ARG1*)          (V*)  -
+tc/ch/00/ch_0013   0   10    嘞   SP                        *)  -   -   -    B  *             *             *         *             *   -
+tc/ch/00/ch_0013   0   11    .   PU                       *))  -   -   -    B  *             *             *         *             *   -
+
+tc/ch/00/ch_0013   0    0     哦   IJ   (TOP(CP(IP(INTJ*)  -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0    1     ,   PU                  *   -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0    2     那   AD             (ADVP*)  -   -   -    A  *    (ARGM-DIS*)  -
+tc/ch/00/ch_0013   0    3    怎么   AD              (DFL*   -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0    4     又   AD                  *)  -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0    5     ,   PU                  *   -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0    6    怎么   AD          (VP(ADVP*)  -   -   -    A  *    (ARGM-ADV*)  -
+tc/ch/00/ch_0013   0    7     搞   VV             (VP*)))   搞  -   1    A  *           (V*)  -
+tc/ch/00/ch_0013   0    8     的   SP                  *   -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0    9     呢   SP                  *   -   -   -    A  *             *   -
+tc/ch/00/ch_0013   0   10     ?   PU                 *))  -   -   -    A  *             *   -
+
+tc/ch/00/ch_0013   0    0      对   VA  (TOP(UCP(INTJ*     对  -   2    B  *    (V*)     *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    1      ,   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    2      对   VA               *     对  -   2    B  *      *    (V*)     *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    3      ,   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    4      对   VA               *)    对  -   2    B  *      *      *    (V*)     *             *             *             *             *     -
+tc/ch/00/ch_0013   0    5      嘿   IJ       (IP(INTJ*)   -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    6      ,   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    7      他   PN            (NP*)   -   -   -    B  *      *      *      *      *             *             *             *             *    (1
+tc/ch/00/ch_0013   0    8      那   DT      (VP(NP(DP*)   -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0    9      人   NN         (NP*))))   -   -   1    B  *      *      *      *      *             *             *             *             *     1)
+tc/ch/00/ch_0013   0   10      ,   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   11      他   PN      (CP(IP(NP*)   -   -   -    B  *      *      *      *      *        (ARG0*)            *             *             *    (1)
+tc/ch/00/ch_0013   0   12      是   VC            (VP*     是  -   1    B  *      *      *      *    (V*)            *             *             *             *     -
+tc/ch/00/ch_0013   0   13    从前儿   AD       (VP(ADVP*)   -   -   -    B  *      *      *      *      *    (ARGM-ADV*)            *             *             *     -
+tc/ch/00/ch_0013   0   14    有点儿   AD          (ADVP*)   -   -   -    B  *      *      *      *      *    (ARGM-ADV*)            *             *             *     -
+tc/ch/00/ch_0013   0   15     发烧   VV         (VP*))))   发烧  -   -    B  *      *      *      *      *           (V*)            *             *             *     -
+tc/ch/00/ch_0013   0   16      呗   SP               *)   -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   17      .   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   18     发烧   NN            (NP*)   -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   19     后来   AD       (IP(ADVP*)   -   -   -    B  *      *      *      *      *             *    (ARGM-TMP*)            *             *     -
+tc/ch/00/ch_0013   0   20      那   DT         (NP(DP*)   -   -   -    B  *      *      *      *      *             *        (ARG0*             *             *     -
+tc/ch/00/ch_0013   0   21      腿   NN           (NP*))   -   -   -    B  *      *      *      *      *             *             *)            *             *     -
+tc/ch/00/ch_0013   0   22      一   AD       (VP(ADVP*)   -   -   -    B  *      *      *      *      *             *    (ARGM-DIS*)            *             *     -
+tc/ch/00/ch_0013   0   23      软   VA          (VP*)))    软  -   -    B  *      *      *      *      *             *           (V*)            *             *     -
+tc/ch/00/ch_0013   0   24      .   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   25      就   AD    (IP(VP(ADVP*)   -   -   2    B  *      *      *      *      *             *             *    (ARGM-ADV*)            *     -
+tc/ch/00/ch_0013   0   26      歪   VA          (VP*)))    歪  -   -    B  *      *      *      *      *             *             *           (V*)            *     -
+tc/ch/00/ch_0013   0   27    一边儿   CD           (DFL*)   -   -   -    B  *      *      *      *      *             *             *             *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   28      ,   PU               *    -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   29      蹲   VV      (CP(IP(VP*     蹲  -   -    B  *      *      *      *      *             *             *             *           (V*)    -
+tc/ch/00/ch_0013   0   30      着   AS               *    -   -   -    B  *      *      *      *      *             *             *             *        (ARG1*)    -
+tc/ch/00/ch_0013   0   31     那儿   PN          (NP*)))   -   -   -    B  *      *      *      *      *             *             *             *        (ARG1*)    -
+tc/ch/00/ch_0013   0   32      呢   SP               *)   -   -   -    B  *      *      *      *      *             *             *             *             *     -
+tc/ch/00/ch_0013   0   33      .   PU              *))   -   -   -    B  *      *      *      *      *             *             *             *             *     -
+
+tc/ch/00/ch_0013   0   0    哦   IJ  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0013   0   1    .   PU          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0013   0   0    后来   AD   (TOP(IP(ADVP*)  -   -   -    B  *    (ARGM-TMP*)  -
+tc/ch/00/ch_0013   0   1     ,   PU               *   -   -   -    B  *             *   -
+tc/ch/00/ch_0013   0   2     躺   VV            (VP*    躺  -   -    B  *           (V*)  -
+tc/ch/00/ch_0013   0   3     着   AS               *   -   -   -    B  *        (ARG1*)  -
+tc/ch/00/ch_0013   0   4    这边   PN           (NP*))  -   -   -    B  *        (ARG1*)  -
+tc/ch/00/ch_0013   0   5     .   PU              *))  -   -   -    B  *             *   -
+
+tc/ch/00/ch_0013   0   0    那个   DT   (TOP(INC(NP(DP*)  -   -   -    B  *   (4
+tc/ch/00/ch_0013   0   1    姨父   NN             (NP*))  -   -   -    B  *    4)
+tc/ch/00/ch_0013   0   2     ,   PU                 *   -   -   -    B  *    -
+tc/ch/00/ch_0013   0   3    那个   PN             (FLR*)  -   -   -    B  *    -
+tc/ch/00/ch_0013   0   4   --    PU                *))  -   -   -    B  *    -
+
+tc/ch/00/ch_0013   0   0     哦   IJ   (TOP(IP(INTJ*)   -   -   -    A  *         *     -
+tc/ch/00/ch_0013   0   1     ,   PU               *    -   -   -    A  *         *     -
+tc/ch/00/ch_0013   0   2     我   PN            (NP*)   -   -   -    A  *    (ARG0*)   (0)
+tc/ch/00/ch_0013   0   3    知道   VV            (VP*)   知道  -   -    A  *       (V*)    -
+tc/ch/00/ch_0013   0   4     ,   PU              *))   -   -   -    A  *         *     -
+
+tc/ch/00/ch_0013   0   0     那个    DT   (TOP(NP(DNP(NP(DP*)  -   -   -    B  *    -
+tc/ch/00/ch_0013   0   1     唐村    NN                (NP*))  -   -   -    B  *   (4
+tc/ch/00/ch_0013   0   2      的   DEG                    *)  -   -   -    B  *    -
+tc/ch/00/ch_0013   0   3     那个    DT                (FLR*)  -   -   -    B  *    -
+tc/ch/00/ch_0013   0   4    老头儿    NN                 (NP*)  -   -   -    B  *    4)
+tc/ch/00/ch_0013   0   5      ,    PU                   *))  -   -   -    B  *    -
+
+tc/ch/00/ch_0013   0   0     他   PN   (TOP(CP(IP(NP*)  -   -   -    A  *        (ARG0*)   (4)
+tc/ch/00/ch_0013   0   1    现在   NT          (VP(NP*)  -   -   -    A  *    (ARGM-TMP*)   (3)
+tc/ch/00/ch_0013   0   2     还   AD           (ADVP*)  -   -   -    A  *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   3     在   VV             (VP*    在  -   2    A  *           (V*)    -
+tc/ch/00/ch_0013   0   4    这儿   PN          (NP*))))  -   -   -    A  *        (ARG1*)   (5)
+tc/ch/00/ch_0013   0   5     吗   SP                *   -   -   -    A  *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   6     ?   PU               *))  -   -   -    A  *             *     -
+
+tc/ch/00/ch_0013   0   0     在   VV  (TOP(IP(VP*    在  -   2    B  *       (V*)    -
+tc/ch/00/ch_0013   0   1    这儿   PN        (NP*))  -   -   -    B  *    (ARG1*)   (5)
+tc/ch/00/ch_0013   0   2     .   PU           *))  -   -   -    B  *         *     -
+
+tc/ch/00/ch_0013   0   0    哦   IJ  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0013   0   1    .   PU          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0013   0    0      先   AD   (TOP(UCP(IP(VP(ADVP*)    -   -   1    B  *    (ARGM-DIS*)            *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    1      走   VV                  (VP*))     走  -   3    B  *           (V*)            *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    2      了   SP                      *)    -   -   -    B  *    (ARGM-ADV*)            *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    3      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    4     现在   NT             (IP(VP(NP*)    -   -   -    B  *             *    (ARGM-TMP*)            *      *         *         *             *      *      *      *      *             *    (3)
+tc/ch/00/ch_0013   0    5      剩   VV                   (VP*      剩  -   -    B  *             *           (V*)            *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    6     自己   PN                (NP*))))    -   -   -    B  *             *        (ARG1*)            *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    7    --    PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    8      那   AD              (IP(ADVP*)    -   -   -    B  *             *             *    (ARGM-DIS*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0    9      那   AD                 (ADVP*)    -   -   -    B  *             *             *    (ARGM-DIS*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   10      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   11     那个   PN                  (FLR*)    -   -   -    B  *             *             *    (ARGM-ADV*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   12      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   13      我   PN                   (NP*)    -   -   -    B  *             *             *        (ARG0*)     *         *         *             *      *      *      *      *             *    (2)
+tc/ch/00/ch_0013   0   14      那   AD              (VP(ADVP*)    -   -   -    B  *             *             *    (ARGM-DIS*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   15      弄   VV               (VP(VPT*      弄  -   1    B  *             *             *           (V*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   16      不   AD                      *     -   -   -    B  *             *             *        (ARG1*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   17      了   VV                    *)))     了  -   -    B  *             *             *        (ARG1*)   (V*)        *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   18      了   SP                      *)    -   -   -    B  *             *             *    (ARGM-ADV*)     *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   19      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   20      我   PN                (IP(NP*)    -   -   -    B  *             *             *             *      *    (ARG0*)        *             *      *      *      *      *             *    (2)
+tc/ch/00/ch_0013   0   21    前阵子   VV                  (VP*))   前阵子  -   -    B  *             *             *             *      *       (V*)        *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   22      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   23      我   PN                (IP(NP*)    -   -   -    B  *             *             *             *      *         *    (ARG0*)       (ARG0*)     *      *      *      *             *    (2)
+tc/ch/00/ch_0013   0   24      弄   VV               (VP(VPT*      弄  -   1    B  *             *             *             *      *         *       (V*)            *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   25      不   AD                      *     -   -   -    B  *             *             *             *      *         *    (ARG1*)   (ARGM-ADV*)     *      *      *      *             *     -
+tc/ch/00/ch_0013   0   26      了   VV                      *)     了  -   -    B  *             *             *             *      *         *         *           (V*)     *      *      *      *             *     -
+tc/ch/00/ch_0013   0   27      他   PN                 (NP*)))    -   -   -    B  *             *             *             *      *         *    (ARG1*)            *      *      *      *      *             *    (1)
+tc/ch/00/ch_0013   0   28      .   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   29      吃   VV             (IP(VP(VP*)     吃  -   1    B  *             *             *             *      *         *         *             *    (V*)     *      *      *             *     -
+tc/ch/00/ch_0013   0   30      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   31      喝   VV                   (VP*)     喝  -   -    B  *             *             *             *      *         *         *             *      *    (V*)     *      *             *     -
+tc/ch/00/ch_0013   0   32      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   33      拉   VV                (VP(VP*)     拉  -   -    B  *             *             *             *      *         *         *             *      *      *    (V*)     *             *     -
+tc/ch/00/ch_0013   0   34      和   CC                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   35      睡   VV                  (VP*))     睡  -   -    B  *             *             *             *      *         *         *             *      *      *      *    (V*)            *     -
+tc/ch/00/ch_0013   0   36      ,   PU                      *     -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+tc/ch/00/ch_0013   0   37      都   AD              (VP(ADVP*)    -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *    (ARGM-ADV*)    -
+tc/ch/00/ch_0013   0   38      在   VV                   (VP*      在  -   2    B  *             *             *             *      *         *         *             *      *      *      *      *           (V*)    -
+tc/ch/00/ch_0013   0   39     床上   NN               (NP*)))))    -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *        (ARG1*)    -
+tc/ch/00/ch_0013   0   40      .   PU                     *))    -   -   -    B  *             *             *             *      *         *         *             *      *      *      *      *             *     -
+
+tc/ch/00/ch_0013   0   0    哦   IJ  (TOP(INTJ*   -   -   -    A  *   -
+tc/ch/00/ch_0013   0   1    .   PU          *))  -   -   -    A  *   -
+
+tc/ch/00/ch_0013   0   0    走   VV  (TOP(IP(IP(VP*    走  -   3    B  *       (V*)    -
+tc/ch/00/ch_0013   0   1    了   AS              *))  -   -   -    B  *    (ARG1*)    -
+tc/ch/00/ch_0013   0   2    ,   PU               *   -   -   -    B  *         *     -
+tc/ch/00/ch_0013   0   3    他   PN           (DFL*)  -   -   -    B  *         *    (4)
+tc/ch/00/ch_0013   0   4    .   PU              *))  -   -   -    B  *         *     -
+
+tc/ch/00/ch_0013   0   0    哦   IJ   (TOP(IP(INTJ*)  -   -   -    A  *         *   -
+tc/ch/00/ch_0013   0   1    ,   PU               *   -   -   -    A  *         *   -
+tc/ch/00/ch_0013   0   2    走   VV            (VP*    走  -   3    A  *       (V*)  -
+tc/ch/00/ch_0013   0   3    了   AS               *)  -   -   -    A  *    (ARG1*)  -
+tc/ch/00/ch_0013   0   4    .   PU              *))  -   -   -    A  *         *   -
+
+#end document

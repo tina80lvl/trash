@@ -1,0 +1,324 @@
+#begin document (bn/ctv/00/ctv_0047); part 000
+bn/ctv/00/ctv_0047   0    0       一     P  (TOP(IP(NP(CP(CP(IP(VP(PP*   -    -   -   -          *   (ARGM-MNR*        (ARG0*      *             *    (0
+bn/ctv/00/ctv_0047   0    1       些     M                (NP(QP(CLP*))  -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0    2      武侠    NN                        (NP*   -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0    3      小说    NN                         *)))  -    -   -   -          *            *)            *      *             *     -
+bn/ctv/00/ctv_0047   0    4      闻名    VV                        (VP*   -   01   -   -          *          (V*)            *      *             *     -
+bn/ctv/00/ctv_0047   0    5     海内外    NN                     (NP*))))  -    -   -   -          *       (ARG1*)            *      *             *     -
+bn/ctv/00/ctv_0047   0    6       的   DEC                          *))  -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0    7      香港    NR                     (NP(NP*)  -    -   -   -       (GPE)           *             *      *             *     -
+bn/ctv/00/ctv_0047   0    8      著名    JJ                      (ADJP*)  -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0    9      作家    NN                       (NP*))  -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   10     张梁英    NR                        (NP*   -    -   -   -    (PERSON)      (ARG0*             *      *             *     -
+bn/ctv/00/ctv_0047   0   11      先生    NN                          *))  -    -   -   -          *            *)            *)     *             *     0)
+bn/ctv/00/ctv_0047   0   12     １１月    NT                     (VP(NP*   -    -   -   -     (DATE*            *    (ARGM-TMP*      *             *     -
+bn/ctv/00/ctv_0047   0   13      ２号    NT                           *)  -    -   -   -          *)           *             *)     *             *     -
+bn/ctv/00/ctv_0047   0   14       在     P                        (PP*   -    -   2   -          *            *    (ARGM-LOC*      *             *     -
+bn/ctv/00/ctv_0047   0   15       “    PU                           *   -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   16    ２０００    NT                 (LCP(NP(QP*)  -    -   -   -      (DATE)           *             *      *             *    (1
+bn/ctv/00/ctv_0047   0   17      北京    NR                        (NP*)  -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   18      金庸    NR                        (NP*)  -    -   -   -          *            *             *      *             *    (0)
+bn/ctv/00/ctv_0047   0   19      小说    NN                        (NP*)  -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   20      国际    NN                        (NP*   -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   21     研讨会    NN                          *))  -    -   -   -          *            *             *      *             *     1)
+bn/ctv/00/ctv_0047   0   22       ”    PU                           *   -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   23       上    LC                          *))  -    -   1   -          *            *             *)     *             *     -
+bn/ctv/00/ctv_0047   0   24      明确    AD                      (ADVP*)  -    -   -   -          *            *    (ARGM-ADV*)     *             *     -
+bn/ctv/00/ctv_0047   0   25      表示    VV                        (VP*   -   01   2   -          *            *           (V*)     *             *     -
+bn/ctv/00/ctv_0047   0   26       ：    PU                           *   -    -   -   -          *            *             *      *             *     -
+bn/ctv/00/ctv_0047   0   27      今后    NT                     (IP(NP*)  -    -   -   -          *            *        (ARG1*      *    (ARGM-TMP*)    -
+bn/ctv/00/ctv_0047   0   28       他    PN                        (NP*)  -    -   -   -          *            *             *      *        (ARG0*)   (0)
+bn/ctv/00/ctv_0047   0   29       不    AD                   (VP(ADVP*)  -    -   -   -          *            *             *      *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   30       会    VV                        (VP*   -   01   -   -          *            *             *    (V*)            *     -
+bn/ctv/00/ctv_0047   0   31       再    AD                   (VP(ADVP*)  -    -   -   -          *            *             *      *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   32       写    VV                        (VP*   -   01   -   -          *            *             *      *           (V*)    -
+bn/ctv/00/ctv_0047   0   33      武侠    NN                        (NP*   -    -   -   -          *            *             *      *        (ARG1*     -
+bn/ctv/00/ctv_0047   0   34      小说    NN                    *))))))))  -    -   -   -          *            *             *)     *             *)    -
+bn/ctv/00/ctv_0047   0   35       。    PU                          *))  -    -   -   -          *            *             *      *             *     -
+
+bn/ctv/00/ctv_0047   0    0    张梁英    NR    (TOP(IP(NP(NP*   -    -   -   -         (PERSON)       (ARG0*      *   (0
+bn/ctv/00/ctv_0047   0    1     先生    NN                 *)  -    -   -   -               *             *      *    0)
+bn/ctv/00/ctv_0047   0    2     笔名    NN             (NP*))  -    -   -   -               *             *)     *    -
+bn/ctv/00/ctv_0047   0    3     金庸    NR       (VP(VP(NP*))  -    -   -   -         (PERSON)            *      *    -
+bn/ctv/00/ctv_0047   0    4      ，    PU                 *   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0    5     曾经    AD         (VP(ADVP*)  -    -   -   -               *    (ARGM-ADV*)     *    -
+bn/ctv/00/ctv_0047   0    6     创造    VV          (VP(VRD*   -   01   -   -               *           (V*)     *    -
+bn/ctv/00/ctv_0047   0    7      出    VV                 *)  -   01   8   -               *             *    (V*)   -
+bn/ctv/00/ctv_0047   0    8      《    PU       (NP(UCP(NP*   -    -   -   -               *        (ARG1*      *   (2
+bn/ctv/00/ctv_0047   0    9     射雕    VV   (NP(CP(IP(VP*)))  -    -   -   -   (WORK_OF_ART*             *      *    -
+bn/ctv/00/ctv_0047   0   10     英雄    NN             (NP*))  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   11      传    NN              (NP*)  -    -   -   -               *)            *      *    -
+bn/ctv/00/ctv_0047   0   12      》    PU                 *)  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   13      、    PU                 *   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   14      《    PU              (IP*   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   15     笑傲    VV              (VP*   -    -   -   -   (WORK_OF_ART*             *      *    -
+bn/ctv/00/ctv_0047   0   16     江湖    NN             (NP*))  -    -   -   -               *)            *      *    -
+bn/ctv/00/ctv_0047   0   17      》    PU                 *)  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   18      、    PU                 *   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   19      《    PU              (NP*   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   20    鹿鼎记    NR                 *   -    -   -   -    (WORK_OF_ART)            *      *    -
+bn/ctv/00/ctv_0047   0   21      》    PU                 *)  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   22      、    PU                 *   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   23      《    PU              (NP*   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   24     天龙    NR              (NP*)  -    -   -   -   (WORK_OF_ART*             *      *    -
+bn/ctv/00/ctv_0047   0   25      八    CD              (QP*)  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   26      部    NN              (NP*)  -    -   -   -               *)            *      *    -
+bn/ctv/00/ctv_0047   0   27      》    PU                 *)  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   28      等   ETC                 *)  -    -   2   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   29     １５    CD              (QP*   -    -   -   -       (CARDINAL)            *      *    -
+bn/ctv/00/ctv_0047   0   30      部     M            (CLP*))  -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   31     武侠    NN              (NP*   -    -   -   -               *             *      *    -
+bn/ctv/00/ctv_0047   0   32     小说    NN             *)))))  -    -   -   -               *             *)     *    2)
+bn/ctv/00/ctv_0047   0   33      。    PU                *))  -    -   -   -               *             *      *    -
+
+bn/ctv/00/ctv_0047   0    0       这些    DT   (TOP(IP(IP(NP(DP*)  -    -    -   -        *             *       (ARG0*             *             *             *      *   (2
+bn/ctv/00/ctv_0047   0    1       武侠    NN                (NP*   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0    2       小说    NN                  *))  -    -    -   -        *             *            *)            *             *             *      *    2)
+bn/ctv/00/ctv_0047   0    3        从     P             (VP(PP*   -    -    -   -        *             *   (ARGM-TMP*             *             *             *      *    -
+bn/ctv/00/ctv_0047   0    4    １９５５年    NT      (LCP(IP(VP(NP*)  -    -    -   -    (DATE)   (ARGM-TMP*)           *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0    5       陆续    AD              (ADVP*)  -    -    -   -        *    (ARGM-ADV*)           *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0    6       问世    VV              (VP*)))  -   01    -   -        *           (V*)           *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0    7       以来    LC                  *))  -    -    -   -        *             *            *)            *             *             *      *    -
+bn/ctv/00/ctv_0047   0    8        ，    PU                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0    9        在     P                (PP*   -    -    2   -        *             *   (ARGM-LOC*             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   10       世界    NN            (LCP(NP*   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   11       华人    NN                   *)  -    -    -   -    (NORP)            *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   12        中    LC                  *))  -    -    -   -        *             *            *)            *             *             *      *    -
+bn/ctv/00/ctv_0047   0   13       产生    VV                (VP*   -   01    1   -        *             *          (V*)            *             *             *      *    -
+bn/ctv/00/ctv_0047   0   14        了    AS                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   15       久远    JJ           (NP(ADJP*)  -    -    -   -        *             *       (ARG1*             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   16       影响    NN            (NP*)))))  -    -    -   -        *             *            *)            *             *             *      *    -
+bn/ctv/00/ctv_0047   0   17        ，    PU                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   18        其    PN             (IP(NP*   -    -    -   -        *             *            *        (ARG1*        (ARG0*        (ARG1*      *   (2
+bn/ctv/00/ctv_0047   0   19       作品    NN                   *)  -    -    -   -        *             *            *             *)            *)            *)     *    2)
+bn/ctv/00/ctv_0047   0   20        一    CD       (VP(VP(NP(QP*)  -    -    -   -        *             *            *    (ARGM-ADV*    (ARGM-ADV*             *      *    -
+bn/ctv/00/ctv_0047   0   21        版    NN               (NP*))  -    -    -   -        *             *            *             *)            *)            *      *    -
+bn/ctv/00/ctv_0047   0   22        一    CD             (NP(QP*)  -    -    -   -        *             *            *    (ARGM-ADV*    (ARGM-ADV*             *      *    -
+bn/ctv/00/ctv_0047   0   23        版    NN               (NP*))  -    -    -   -        *             *            *             *)            *)            *      *    -
+bn/ctv/00/ctv_0047   0   24        久    AD        (VP(VP(ADVP*)  -    -    1   -        *             *            *    (ARGM-ADV*)            *             *      *    -
+bn/ctv/00/ctv_0047   0   25        销    VV               (VP*))  -   01    1   -        *             *            *           (V*)            *             *      *    -
+bn/ctv/00/ctv_0047   0   26        不    AD           (VP(ADVP*)  -    -    -   -        *             *            *             *    (ARGM-ADV*)            *      *    -
+bn/ctv/00/ctv_0047   0   27        衰    VV             (VP*))))  -   01    -   -        *             *            *             *           (V*)            *      *    -
+bn/ctv/00/ctv_0047   0   28        ，    PU                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   29        并    AD           (VP(ADVP*)  -    -    -   -        *             *            *             *             *    (ARGM-DIS*)     *    -
+bn/ctv/00/ctv_0047   0   30        经    AD              (ADVP*)  -    -    -   -        *             *            *             *             *    (ARGM-ADV*)     *    -
+bn/ctv/00/ctv_0047   0   31        多    CD                (QP*   -    -    -   -        *             *            *             *             *    (ARGM-ADV*      *    -
+bn/ctv/00/ctv_0047   0   32        次     M              (CLP*))  -    -    -   -        *             *            *             *             *             *)     *    -
+bn/ctv/00/ctv_0047   0   33        搬    VV            (VP(VRD*   -   01    -   -        *             *            *             *             *           (V*)     *    -
+bn/ctv/00/ctv_0047   0   34        上    VV                   *)  -   01   11   -        *             *            *             *             *             *    (V*)   -
+bn/ctv/00/ctv_0047   0   35       祖国    NN      (NP(DNP(NP(NP*   -    -    -   -        *             *            *             *             *        (ARG3*      *    -
+bn/ctv/00/ctv_0047   0   36       大陆    NN                   *)  -    -    -   -     (GPE)            *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   37        、    PU                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   38       台湾    NR                (NP*)  -    -    -   -     (GPE)            *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   39        、    PU                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   40       香港    NR               (NP*))  -    -    -   -     (GPE)            *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   41        的   DEG                   *)  -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   42       电影    NN                (NP*   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   43        、    PU                   *   -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   44       电视    NN                   *)  -    -    -   -        *             *            *             *             *             *      *    -
+bn/ctv/00/ctv_0047   0   45       屏幕    NN           (NP*))))))  -    -    -   -        *             *            *             *             *             *)     *    -
+bn/ctv/00/ctv_0047   0   46        。    PU                  *))  -    -    -   -        *             *            *             *             *             *      *    -
+
+bn/ctv/00/ctv_0047   0    0     金庸    NR   (TOP(IP(IP(NP(DNP(NP*)  -    -   -   -    (PERSON)  (ARG0*        (ARG0*        *   (ARG0*        *      *            *    (2|(0)
+bn/ctv/00/ctv_0047   0    1      的   DEG                       *)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    2     武侠    NN                    (NP*   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    3     小说    NN                      *))  -    -   -   -          *        *)            *)       *        *)       *      *            *        2)
+bn/ctv/00/ctv_0047   0    4     改变    VV                 (VP(VP*   -   01   -   -          *      (V*)            *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    5      了    AS                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    6      旧    JJ        (NP(DNP(NP(ADJP*)  -    -   -   -          *   (ARG1*             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    7     武侠    NN                    (NP*   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    8     小说    NN                      *))  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0    9      的   DEG                       *)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   10     暴力    JJ                  (ADJP*)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   11     仇杀    NN                    (NP*)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   12     套路    NN                  (NP*)))  -    -   -   -          *        *)            *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   13      ，    PU                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   14     宏扬    VV                    (VP*   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   15      了    AS                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   16     人间    NN                    (NP*   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   17     正气    NN                      *))  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   18      ，    PU                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   19      既    AD               (VP(ADVP*)  -    -   -   -          *        *    (ARGM-DIS*)       *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   20      有    VE                    (VP*   -   03   1   -          *        *           (V*)       *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   21     深厚    VA       (NP(CP(CP(IP(VP*))  -   01   -   -          *        *        (ARG1*      (V*)       *        *      *            *        -
+bn/ctv/00/ctv_0047   0   22      的   DEC                      *))  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   23     历史    NN                    (NP*   -    -   -   -          *        *             *   (ARG0*        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   24     感预    NN                    *))))  -    -   -   -          *        *             *)       *)       *        *      *            *        -
+bn/ctv/00/ctv_0047   0   25      、    PU                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   26      有    VE                    (VP*   -   03   1   -          *        *             *        *      (V*)       *      *            *        -
+bn/ctv/00/ctv_0047   0   27     鲜明    VA       (NP(CP(CP(IP(VP*))  -   01   -   -          *        *             *        *   (ARG1*      (V*)     *            *        -
+bn/ctv/00/ctv_0047   0   28      的   DEC                      *))  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   29     时代    NN                    (NP*   -    -   -   -          *        *             *        *        *   (ARG0*      *            *        -
+bn/ctv/00/ctv_0047   0   30     立场    NN                   *)))))  -    -   -   -          *        *             *        *        *)       *)     *            *        -
+bn/ctv/00/ctv_0047   0   31      ，    PU                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   32      在     P                 (IP(PP*   -    -   2   -          *        *             *        *        *        *      *   (ARGM-LOC*        -
+bn/ctv/00/ctv_0047   0   33     今天    NT         (LCP(NP(DNP(NP*)  -    -   -   -      (DATE)       *             *        *        *        *      *            *       (1
+bn/ctv/00/ctv_0047   0   34      的   DEG                       *)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   35    研讨会    NN                   (NP*))  -    -   -   -          *        *             *        *        *        *      *            *        1)
+bn/ctv/00/ctv_0047   0   36      上    LC                      *))  -    -   1   -          *        *             *        *        *        *      *            *)       -
+bn/ctv/00/ctv_0047   0   37      ，    PU                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   38     金庸    NR                    (NP*   -    -   -   -    (PERSON)       *             *        *        *        *      *       (ARG0*       (0
+bn/ctv/00/ctv_0047   0   39     先生    NN                       *)  -    -   -   -          *        *             *        *        *        *      *            *)       0)
+bn/ctv/00/ctv_0047   0   40     明确    VA             (VP(DVP(VP*)  -   01   -   -          *        *             *        *        *        *    (V*)  (ARGM-ADV*        -
+bn/ctv/00/ctv_0047   0   41      地   DEV                       *)  -    -   -   -          *        *             *        *        *        *      *            *)       -
+bn/ctv/00/ctv_0047   0   42     表示    VV                    (VP*   -   01   2   -          *        *             *        *        *        *      *          (V*)       -
+bn/ctv/00/ctv_0047   0   43      了    AS                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   44     自己    PN              (NP(NP(NP*)  -    -   -   -          *        *             *        *        *        *      *       (ARG1*       (0)
+bn/ctv/00/ctv_0047   0   45     今后    NT                (DNP(NP*)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   46      的   DEG                       *)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   47     打算    NN                   (NP*))  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   48      ，    PU                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   49     以及    CC                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   50      对     P             (NP(DNP(PP*   -    -   3   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   51     自己    PN                    (NP*   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   52     武侠    NN                       *   -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   53     小说    NN                      *))  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   54      的   DEG                       *)  -    -   -   -          *        *             *        *        *        *      *            *        -
+bn/ctv/00/ctv_0047   0   55     看法    NN               (NP*))))))  -    -   -   -          *        *             *        *        *        *      *            *)       -
+bn/ctv/00/ctv_0047   0   56      。    PU                      *))  -    -   -   -          *        *             *        *        *        *      *            *        -
+
+bn/ctv/00/ctv_0047   0    0     “    PU            (TOP(IP*   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    1    现在    NT       (CP(IP(VP(NP*)  -    -   -   -   *    (ARGM-TMP*)           *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    2     不    AD              (ADVP*)  -    -   -   -   *    (ARGM-ADV*)           *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    3     写    VV              (VP*)))  -   01   -   -   *           (V*)           *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    4     了    SP                   *)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    5     ，    PU                   *   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    6     我    PN    (CP(IP(VP(NP(NP*)  -    -   -   -   *             *   (ARGM-ADV*         *             *             *             *             *    (0)
+bn/ctv/00/ctv_0047   0    7    这个    DT                (DP*)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    8    年纪    NN               (NP*))  -    -   -   -   *             *            *)        *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0    9    应该    VV                (VP*   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   10     做    VV                (VP*   -   02   5   -   *             *          (V*)        *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   11    教授    NN            (NP*)))))  -    -   -   -   *             *       (ARG1*)        *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   12     了    SP                   *)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   13     ，    PU                   *   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   14     我    PN             (IP(NP*)  -    -   -   -   *             *            *    (ARG0*)            *        (ARG0*)            *             *    (0)
+bn/ctv/00/ctv_0047   0   15    没有    VE             (VP(VP*   -   02   1   -   *             *            *       (V*)            *             *             *             *     -
+bn/ctv/00/ctv_0047   0   16     哪    DT             (IP(DP*   -    -   -   -   *             *            *    (ARG1*        (ARG1*             *             *             *     -
+bn/ctv/00/ctv_0047   0   17     一    CD                (QP*   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   18     部     M             (CLP*)))  -    -   -   -   *             *            *         *             *)            *             *             *     -
+bn/ctv/00/ctv_0047   0   19    特别    AD           (VP(ADVP*)  -    -   -   -   *             *            *         *    (ARGM-ADV*)            *             *             *     -
+bn/ctv/00/ctv_0047   0   20    满意    VV             (VP*))))  -   01   -   -   *             *            *         *)          (V*)            *             *             *     -
+bn/ctv/00/ctv_0047   0   21     ，    PU                   *   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   22     也    AD           (VP(ADVP*)  -    -   -   -   *             *            *         *             *    (ARGM-ADV*)            *             *     -
+bn/ctv/00/ctv_0047   0   23    没有    VE                (VP*   -   02   1   -   *             *            *         *             *           (V*)            *             *     -
+bn/ctv/00/ctv_0047   0   24     哪    DT             (IP(DP*   -    -   -   -   *             *            *         *             *        (ARG1*        (ARG1*             *     -
+bn/ctv/00/ctv_0047   0   25     一    CD                (QP*   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   26     部     M             (CLP*)))  -    -   -   -   *             *            *         *             *             *             *)            *     -
+bn/ctv/00/ctv_0047   0   27    特别    AD           (VP(ADVP*)  -    -   -   -   *             *            *         *             *             *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0047   0   28     不    AD              (ADVP*)  -    -   -   -   *             *            *         *             *             *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0047   0   29    满意    VV          (VP*)))))))  -   01   -   -   *             *            *         *             *             *)          (V*)            *     -
+bn/ctv/00/ctv_0047   0   30     ，    PU                   *   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   31     我    PN   (CP(IP(NP(DNP(NP*)  -    -   -   -   *             *            *         *             *             *             *        (ARG1*    (0)
+bn/ctv/00/ctv_0047   0   32     的   DEG                   *)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   33    比喻    NN               (NP*))  -    -   -   -   *             *            *         *             *             *             *             *)    -
+bn/ctv/00/ctv_0047   0   34     都    AD        (VP(VP(ADVP*)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   35     是    VC                (VP*   -    -   1   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   36     我    PN         (NP(DNP(NP*)  -    -   -   -   *             *            *         *             *             *             *             *    (0)
+bn/ctv/00/ctv_0047   0   37     的   DEG                   *)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   38    儿子    NN                (NP*   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   39     和    CC                   *   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   40    女儿    NN                *))))  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   41    全部    AD           (VP(ADVP*)  -    -   -   -   *             *            *         *             *             *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   42     都    AD              (ADVP*)  -    -   -   -   *             *            *         *             *             *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   43    喜欢    VV             (VP*))))  -   01   -   -   *             *            *         *             *             *             *           (V*)    -
+bn/ctv/00/ctv_0047   0   44     的    SP                   *)  -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   45     。    PU                   *   -    -   -   -   *             *            *         *             *             *             *             *     -
+bn/ctv/00/ctv_0047   0   46     ”    PU                  *))  -    -   -   -   *             *            *         *             *             *             *             *     -
+
+bn/ctv/00/ctv_0047   0    0     据     P  (TOP(IP(IP(PP*   -    -   -   -          *    (ARGM-MNR*             *     -
+bn/ctv/00/ctv_0047   0    1    介绍    NN           (NP*))  -    -   1   -          *             *)            *     -
+bn/ctv/00/ctv_0047   0    2     ，    PU               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0    3    金庸    NR            (NP*   -    -   -   -    (PERSON)       (ARG0*             *    (0
+bn/ctv/00/ctv_0047   0    4    先生    NN               *)  -    -   -   -          *             *)            *     0)
+bn/ctv/00/ctv_0047   0    5    长期    AD       (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0047   0    6    担任    VV            (VP*   -   01   -   -          *           (V*)            *     -
+bn/ctv/00/ctv_0047   0    7    北京    NR  (NP(DNP(NP(NP*   -    -   -   -      (ORG*        (ARG1*             *     -
+bn/ctv/00/ctv_0047   0    8    大学    NN               *   -    -   -   -          *)            *             *     -
+bn/ctv/00/ctv_0047   0    9     、    PU               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   10    英国    NR               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   11    剑桥    NR               *   -    -   -   -      (ORG*             *             *     -
+bn/ctv/00/ctv_0047   0   12    大学    NN               *   -    -   -   -          *)            *             *     -
+bn/ctv/00/ctv_0047   0   13     、    PU               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   14    香港    NR               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   15    中文    NN               *   -    -   -   -      (ORG*             *             *     -
+bn/ctv/00/ctv_0047   0   16    大学    NN               *   -    -   -   -          *)            *             *     -
+bn/ctv/00/ctv_0047   0   17     等   ETC               *)  -    -   2   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   18    世界    NN            (NP*)  -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   19     多    CD            (QP*   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   20     所     M          (CLP*))  -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   21    知名    JJ          (ADJP*)  -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   22    大学    NN           (NP*))  -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   23     的   DEG               *)  -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   24    名誉    JJ          (ADJP*)  -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   25    教授    NN        (NP*)))))  -    -   -   -          *             *)            *     -
+bn/ctv/00/ctv_0047   0   26     ，    PU               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   27    北京    NR         (IP(NP*   -    -   -   -      (ORG*             *        (ARG0*     -
+bn/ctv/00/ctv_0047   0   28    大学    NN               *)  -    -   -   -          *)            *             *)    -
+bn/ctv/00/ctv_0047   0   29     还    AD       (VP(ADVP*)  -    -   -   -          *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   30     把    BA            (VP*   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   31    金庸    NR      (IP(NP(NP*)  -    -   -   -    (PERSON)            *        (ARG1*    (0)
+bn/ctv/00/ctv_0047   0   32    小说    NN            (NP*   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   33    艺术    NN               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   34    研究    NN              *))  -    -   4   -          *             *             *)    -
+bn/ctv/00/ctv_0047   0   35    正式    AD       (VP(ADVP*)  -    -   -   -          *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   36    纳入    VV            (VP*   -   01   -   -          *             *           (V*)    -
+bn/ctv/00/ctv_0047   0   37    教学    NN            (NP*   -    -   -   -          *             *        (ARG2*     -
+bn/ctv/00/ctv_0047   0   38    科研    NN               *   -    -   -   -          *             *             *     -
+bn/ctv/00/ctv_0047   0   39    体系    NN         *)))))))  -    -   -   -          *             *             *)    -
+bn/ctv/00/ctv_0047   0   40     。    PU              *))  -    -   -   -          *             *             *     -
+
+bn/ctv/00/ctv_0047   0    0    １９９９年    NT        (TOP(IP(IP(NP*)  -    -   -   -      (DATE)     *    (ARGM-TMP*)        *        *             *     -
+bn/ctv/00/ctv_0047   0    1       金庸    NR                  (NP*)  -    -   -   -    (PERSON)     *        (ARG0*)        *        *             *    (0)
+bn/ctv/00/ctv_0047   0    2        又    AD             (VP(ADVP*)  -    -   -   -          *      *    (ARGM-ADV*)        *        *             *     -
+bn/ctv/00/ctv_0047   0    3       应邀    VV              (VP(VSB*   -   01   -   -          *    (V*)            *         *        *             *     -
+bn/ctv/00/ctv_0047   0    4       担任    VV                     *   -   01   -   -          *      *           (V*)        *        *             *     -
+bn/ctv/00/ctv_0047   0    5       浙江    NR               (NP(NP*   -    -   -   -      (ORG*      *        (ARG1*         *        *             *     -
+bn/ctv/00/ctv_0047   0    6       大学    NN                     *)  -    -   -   -          *)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0    7      文学院    NN                  (NP*   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0    8       院长    NN                *))))))  -    -   -   -          *      *             *)        *        *             *     -
+bn/ctv/00/ctv_0047   0    9        ，    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   10        在     P               (IP(PP*   -    -   2   -          *      *             *         *        *    (ARGM-LOC*     -
+bn/ctv/00/ctv_0047   0   11       为期    VV  (LCP(NP(CP(CP(IP(VP*   -   01   -   -          *      *             *       (V*)       *             *    (1
+bn/ctv/00/ctv_0047   0   12        ３    CD                  (QP*   -    -   -   -     (DATE*      *             *    (ARG1*        *             *     -
+bn/ctv/00/ctv_0047   0   13        天     M              (CLP*))))  -    -   -   -          *)     *             *         *)       *             *     -
+bn/ctv/00/ctv_0047   0   14        的   DEC                    *))  -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   15      研讨会    NN                 (NP*))  -    -   -   -          *      *             *    (ARG0*)       *             *     1)
+bn/ctv/00/ctv_0047   0   16        上    LC                    *))  -    -   1   -          *      *             *         *        *             *)    -
+bn/ctv/00/ctv_0047   0   17        ，    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   18       来自    VV      (NP(CP(CP(IP(VP*   -   01   -   -          *      *             *         *      (V*)       (ARG0*     -
+bn/ctv/00/ctv_0047   0   19       中国    NR               (NP(NP*   -    -   -   -       (GPE)     *             *         *   (ARG1*             *     -
+bn/ctv/00/ctv_0047   0   20        、    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   21       美国    NR                     *   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   22        、    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   23       韩国    NR                     *   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   24        、    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   25       日本    NR                     *   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   26        、    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   27      以色列    NR                     *   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   28        和    CC                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   29       台湾    NR                     *   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   30        、    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   31       香港    NR                     *   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   32        等   ETC                     *)  -    -   2   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   33       中国    NR                  (NP*   -    -   -   -       (GPE)     *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   34        及    CC                     *   -    -   3   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   35       地区    NN                  *))))  -    -   -   -          *      *             *         *        *)            *     -
+bn/ctv/00/ctv_0047   0   36        的   DEC                     *)  -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   37      专家们    NN                (NP*)))  -    -   -   -          *      *             *         *        *             *)    -
+bn/ctv/00/ctv_0047   0   38        ，    PU                     *   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   39        将    AD             (VP(ADVP*)  -    -   -   -          *      *             *         *        *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0047   0   40        就     P                  (PP*   -    -   1   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   41       金庸    NR               (NP(NP*)  -    -   -   -    (PERSON)     *             *         *        *             *    (0)
+bn/ctv/00/ctv_0047   0   42       武侠    NN                  (NP*   -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   43       小说    NN                     *)  -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   44       创作    NN                (NP*)))  -    -   -   -          *      *             *         *        *             *     -
+bn/ctv/00/ctv_0047   0   45       进行    VV                  (VP*   -   01   3   -          *      *             *         *        *           (V*)    -
+bn/ctv/00/ctv_0047   0   46       研讨    NN               (NP*))))  -    -   -   -          *      *             *         *        *        (ARG1*)    -
+bn/ctv/00/ctv_0047   0   47        。    PU                    *))  -    -   -   -          *      *             *         *        *             *     -
+
+bn/ctv/00/ctv_0047   0   0    中央台   NR   (TOP(IP(NP(NP*)  -    -   -   -    (ORG)  (ARG0*   -
+bn/ctv/00/ctv_0047   0   1     记者   NN            (NP*))  -    -   -   -       *        *)  -
+bn/ctv/00/ctv_0047   0   2     报道   VV             (VP*)  -   01   -   -       *      (V*)  -
+bn/ctv/00/ctv_0047   0   3      。   PU               *))  -    -   -   -       *        *   -
+
+#end document

@@ -1,0 +1,298 @@
+#begin document (bn/cts/00/cts_0038); part 000
+bn/cts/00/cts_0038   0   0     在   VV  (TOP(IP(VP*   -   -   2   -   *   -
+bn/cts/00/cts_0038   0   1    国际   NN         (NP*   -   -   1   -   *   -
+bn/cts/00/cts_0038   0   2    新闻   NN            *   -   -   -   -   *   -
+bn/cts/00/cts_0038   0   3    方面   NN           *))  -   -   1   -   *   -
+bn/cts/00/cts_0038   0   4     。   PU           *))  -   -   -   -   *   -
+
+bn/cts/00/cts_0038   0    0        一    CD  (TOP(IP(IP(NP(QP*    -   -   -   -   *        (ARG0*             *             *             *      *           (5
+bn/cts/00/cts_0038   0    1        艘     M             (CLP*))   -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0    2       美国    NR           (DNP(NP*)   -   -   -   -   *             *             *             *             *      *          (11)
+bn/cts/00/cts_0038   0    3        的   DEG                  *)   -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0    4       军舰    NN              (NP*))   -   -   -   -   *             *)            *             *             *      *            5)
+bn/cts/00/cts_0038   0    5       昨天    NT            (VP(NP*)   -   -   1   -   *    (ARGM-TMP*)            *             *             *      *           (2)
+bn/cts/00/cts_0038   0    6        在     P               (PP*    -   -   2   -   *    (ARGM-LOC*             *             *             *      *            -
+bn/cts/00/cts_0038   0    7       也门    NR              (NP*))   -   -   -   -   *             *)            *             *             *      *            -
+bn/cts/00/cts_0038   0    8       遭到    VV               (VP*    遭到  -   -   -   *           (V*)            *             *             *      *            -
+bn/cts/00/cts_0038   0    9        了    AS                  *    -   -   -   -   *        (ARG1*)            *             *             *      *            -
+bn/cts/00/cts_0038   0   10       恐怖    NN               (NP*    -   -   -   -   *        (ARG1*             *             *             *      *           (4
+bn/cts/00/cts_0038   0   11       攻击    NN               *))))   -   -   -   -   *             *)            *             *             *      *            4)
+bn/cts/00/cts_0038   0   12        ，    PU                  *    -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0   13        而    AD          (IP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)            *             *      *            -
+bn/cts/00/cts_0038   0   14      以色列    NR     (NP(DNP(NP(NP*)   -   -   -   -   *             *        (ARG0*             *             *      *    (0|(9|(13)
+bn/cts/00/cts_0038   0   15        和    CC                  *    -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0   16    巴勒斯坦人    NN              (NP*))   -   -   -   -   *             *             *             *             *      *            0)
+bn/cts/00/cts_0038   0   17        的   DEG                  *)   -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0   18       冲突    NN              (NP*))   -   -   1   -   *             *             *)            *             *      *            9)
+bn/cts/00/cts_0038   0   19        又    AD          (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *             *      *            -
+bn/cts/00/cts_0038   0   20       持续    AD         (DVP(ADVP*)   -   -   2   -   *             *    (ARGM-ADV*             *             *      *            -
+bn/cts/00/cts_0038   0   21        的   DEV                  *)   -   -   -   -   *             *             *)            *             *      *            -
+bn/cts/00/cts_0038   0   22       升高    VV             (VP*)))   升高  -   -   -   *             *           (V*)            *             *      *            -
+bn/cts/00/cts_0038   0   23        ，    PU                  *    -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0   24        这    PN            (IP(NP*)   -   -   -   -   *             *             *        (ARG0*)       (ARG0*)     *            -
+bn/cts/00/cts_0038   0   25        也    AD          (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-DIS*)   (ARGM-DIS*)     *            -
+bn/cts/00/cts_0038   0   26       使得    VV               (VP*    使得  -   -   -   *             *             *           (V*)            *      *            -
+bn/cts/00/cts_0038   0   27       中东    NR            (NP(NP*)   -   -   -   -   *             *             *        (ARG1*        (ARG1*      *          (12
+bn/cts/00/cts_0038   0   28       地区    NN              (NP*))   -   -   1   -   *             *             *             *)            *)     *           12)
+bn/cts/00/cts_0038   0   29       陷入    VV        (IP(VP(VRD*    陷入  -   -   -   *             *             *        (ARG2*           (V*)     *            -
+bn/cts/00/cts_0038   0   30        到    VV                  *)    到  -   3   -   *             *             *             *             *    (V*)           -
+bn/cts/00/cts_0038   0   31       空前    JJ      (NP(DNP(ADJP*)   -   -   -   -   *             *             *             *        (ARG1*      *            -
+bn/cts/00/cts_0038   0   32        的   DEG                  *)   -   -   -   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0   33       紧张    NN               (NP*    -   -   1   -   *             *             *             *             *      *            -
+bn/cts/00/cts_0038   0   34       状态    NN            *)))))))   -   -   -   -   *             *             *             *)            *)     *            -
+bn/cts/00/cts_0038   0   35        。    PU                 *))   -   -   -   -   *             *             *             *             *      *            -
+
+bn/cts/00/cts_0038   0    0    驱逐舰    NN      (TOP(IP(NP(NP*)   -   -   -   -   *        (ARG0*       (ARG0*    (5
+bn/cts/00/cts_0038   0    1      ‘    PU                (NP*    -   -   -   -   *             *            *     -
+bn/cts/00/cts_0038   0    2     科尔    NR                   *    -   -   -   -   *             *            *     -
+bn/cts/00/cts_0038   0    3      ’    PU                   *)   -   -   -   -   *             *            *     -
+bn/cts/00/cts_0038   0    4      号    NN               (NP*))   -   -   1   -   *             *)           *)    5)
+bn/cts/00/cts_0038   0    5     昨天    NT             (VP(NP*)   -   -   1   -   *    (ARGM-TMP*)           *    (2)
+bn/cts/00/cts_0038   0    6     驶入    VV                (VP*    驶入  -   -   -   *           (V*)           *     -
+bn/cts/00/cts_0038   0    7    阿拉伯    NR                (NP*    -   -   -   -   *        (ARG1*            *     -
+bn/cts/00/cts_0038   0    8     半岛    NN                   *)   -   -   1   -   *             *)           *     -
+bn/cts/00/cts_0038   0    9     南端    NN   (IP(VP(NP(DNP(NP*)   -   -   -   -   *        (ARG2*   (ARGM-LOC*     -
+bn/cts/00/cts_0038   0   10      的   DEG                   *)   -   -   -   -   *             *            *     -
+bn/cts/00/cts_0038   0   11     也门    NR                (NP*    -   -   -   -   *             *            *     -
+bn/cts/00/cts_0038   0   12    亚丁港    NR                  *))   -   -   -   -   *             *            *)    -
+bn/cts/00/cts_0038   0   13     加油    VV            (VP*)))))   加油  -   2   -   *             *)         (V*)    -
+bn/cts/00/cts_0038   0   14      。    PU                  *))   -   -   -   -   *             *            *     -
+
+bn/cts/00/cts_0038   0    0     船上    NN    (TOP(IP(IP(NP*)   -   -   -   -   *    (ARG0*)            *         *             *        *      -
+bn/cts/00/cts_0038   0    1     放下    VV              (VP*    放下  -   -   -   *       (V*)            *         *             *        *      -
+bn/cts/00/cts_0038   0    2     缆绳    NN            (NP*)))   -   -   -   -   *    (ARG1*)            *         *             *        *    (15)
+bn/cts/00/cts_0038   0    3      ，    PU                 *    -   -   -   -   *         *             *         *             *        *      -
+bn/cts/00/cts_0038   0    4      一    CD        (IP(NP(QP*    -   -   -   -   *         *             *    (ARG0*             *        *     (8
+bn/cts/00/cts_0038   0    5      艘     M            (CLP*))   -   -   -   -   *         *             *         *             *        *      -
+bn/cts/00/cts_0038   0    6     平常    AD   (CP(IP(VP(ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)        *             *        *      -
+bn/cts/00/cts_0038   0    7      接    VV              (VP*     接  -   -   -   *         *           (V*)        *             *        *      -
+bn/cts/00/cts_0038   0    8     缆绳    NN           (NP*))))   -   -   -   -   *         *        (ARG1*)        *             *        *    (15)
+bn/cts/00/cts_0038   0    9      的   DEC                 *)   -   -   -   -   *         *             *         *             *        *      -
+bn/cts/00/cts_0038   0   10    橡皮艇    NN             (NP*))   -   -   -   -   *         *             *         *)            *        *      8)
+bn/cts/00/cts_0038   0   11     驶到    VV              (VP*    驶到  -   -   -   *         *             *       (V*)            *        *      -
+bn/cts/00/cts_0038   0   12     旁边    NN            (NP*)))   -   -   -   -   *         *             *    (ARG1*)            *        *      -
+bn/cts/00/cts_0038   0   13      ，    PU                 *    -   -   -   -   *         *             *         *             *        *      -
+bn/cts/00/cts_0038   0   14     不料    AD         (IP(ADVP*)   -   -   -   -   *         *             *         *    (ARGM-ADV*)       *      -
+bn/cts/00/cts_0038   0   15      这    PN              (NP*)   -   -   -   -   *         *             *         *        (ARG0*)       *     (8)
+bn/cts/00/cts_0038   0   16      却    AD         (VP(ADVP*)   -   -   -   -   *         *             *         *    (ARGM-DIS*)       *      -
+bn/cts/00/cts_0038   0   17      是    VC              (VP*     是  -   1   -   *         *             *         *           (V*)       *      -
+bn/cts/00/cts_0038   0   18      一    CD           (NP(QP*    -   -   -   -   *         *             *         *        (ARG1*        *      -
+bn/cts/00/cts_0038   0   19      艘     M            (CLP*))   -   -   -   -   *         *             *         *             *        *      -
+bn/cts/00/cts_0038   0   20     从事    VV        (CP(IP(VP*    从事  -   -   -   *         *             *         *             *      (V*)     -
+bn/cts/00/cts_0038   0   21     自杀    NN              (NP*    -   -   -   -   *         *             *         *             *   (ARG1*     (4
+bn/cts/00/cts_0038   0   22     攻击    NN               *)))   -   -   -   -   *         *             *         *             *        *)     4)
+bn/cts/00/cts_0038   0   23      的   DEC                 *)   -   -   -   -   *         *             *         *             *        *      -
+bn/cts/00/cts_0038   0   24    橡皮艇    NN          (NP*)))))   -   -   -   -   *         *             *         *             *)       *      -
+bn/cts/00/cts_0038   0   25      。    PU                *))   -   -   -   -   *         *             *         *             *        *      -
+
+bn/cts/00/cts_0038   0    0     船上    NN   (TOP(IP(NP(NP*)   -   -   -   -   *   (ARG0*   (ARG0*       (ARG0*      *      *        (ARG0*        (ARG0*    -
+bn/cts/00/cts_0038   0    1      两    CD             (QP*    -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0    2      个     M           (CLP*))   -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0    3      人    NN            (NP*))   -   -   1   -   *        *)       *)           *)     *      *             *)            *)   -
+bn/cts/00/cts_0038   0    4     引爆    VV      (VP(VP(VCD*    引爆  -   -   -   *      (V*)       *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0    5     炸药    VV               *))   炸药  -   -   -   *        *      (V*)           *      *      *             *             *    -
+bn/cts/00/cts_0038   0    6      ，    PU                *    -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0    7      在     P          (VP(PP*    -   -   2   -   *        *        *   (ARGM-LOC*      *      *             *             *    -
+bn/cts/00/cts_0038   0    8      ‘    PU      (NP(DNP(NP*    -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0    9     科尔    NR                *    -   -   -   -   *        *        *            *      *      *             *             *   (5
+bn/cts/00/cts_0038   0   10      ’    PU                *    -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   11      号    NN                *)   -   -   1   -   *        *        *            *      *      *             *             *    5)
+bn/cts/00/cts_0038   0   12      的   DEG                *)   -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   13     侧面    NN           (NP*)))   -   -   -   -   *        *        *            *)     *      *             *             *    -
+bn/cts/00/cts_0038   0   14      炸    VV         (VP(VRD*     炸  -   -   -   *        *        *          (V*)     *      *             *             *    -
+bn/cts/00/cts_0038   0   15      出    VV                *)    出  -   8   -   *        *        *            *    (V*)     *             *             *    -
+bn/cts/00/cts_0038   0   16      了    AS                *    -   -   -   -   *        *        *       (ARG1*)     *      *             *             *    -
+bn/cts/00/cts_0038   0   17      一    CD          (NP(QP*    -   -   -   -   *        *        *       (ARG1*      *      *             *             *    -
+bn/cts/00/cts_0038   0   18      个     M           (CLP*))   -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   19      大    JJ           (ADJP*)   -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   20      洞    NN          (NP*))))   -   -   -   -   *        *        *            *)     *      *             *             *    -
+bn/cts/00/cts_0038   0   21      ，    PU                *    -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   22     不但    AD        (VP(ADVP*)   -   -   -   -   *        *        *            *      *      *    (ARGM-DIS*)            *    -
+bn/cts/00/cts_0038   0   23      炸    VV         (VP(VSB*     炸  -   -   -   *        *        *            *      *    (V*)   (ARGM-ADV*)            *    -
+bn/cts/00/cts_0038   0   24      穿    VV                *)    穿  -   1   -   *        *        *            *      *      *           (V*)            *    -
+bn/cts/00/cts_0038   0   25      了    AS                *    -   -   -   -   *        *        *            *      *      *        (ARG1*)            *    -
+bn/cts/00/cts_0038   0   26    引擎室    NN           (NP*)))   -   -   -   -   *        *        *            *      *      *        (ARG1*)            *    -
+bn/cts/00/cts_0038   0   27      ，    PU                *    -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   28      还    AD        (VP(ADVP*)   -   -   -   -   *        *        *            *      *      *             *    (ARGM-ADV*)   -
+bn/cts/00/cts_0038   0   29     波及    VV             (VP*    波及  -   -   -   *        *        *            *      *      *             *           (V*)   -
+bn/cts/00/cts_0038   0   30     上方    NN      (NP(DNP(NP*)   -   -   -   -   *        *        *            *      *      *             *        (ARG1*    -
+bn/cts/00/cts_0038   0   31      的   DEG                *)   -   -   -   -   *        *        *            *      *      *             *             *    -
+bn/cts/00/cts_0038   0   32     餐厅    NN         (NP*)))))   -   -   -   -   *        *        *            *      *      *             *             *)   -
+bn/cts/00/cts_0038   0   33      。    PU               *))   -   -   -   -   *        *        *            *      *      *             *             *    -
+
+bn/cts/00/cts_0038   0    0     这   DT    (TOP(IP(NP(DP*    -   -   -   -   *        (ARG0*        *        *        *   -
+bn/cts/00/cts_0038   0    1     场    M            (CLP*))   -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0    2    爆炸   NN             (NP*))   -   -   -   -   *             *)       *        *        *   -
+bn/cts/00/cts_0038   0    3    已经   AD         (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *        *        *   -
+bn/cts/00/cts_0038   0    4    造成   VV              (VP*    造成  -   -   -   *           (V*)       *        *        *   -
+bn/cts/00/cts_0038   0    5     ６   CD     (IP(IP(NP(QP*    -   -   -   -   *        (ARG1*   (ARG1*        *        *   -
+bn/cts/00/cts_0038   0    6     个    M            (CLP*))   -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0    7     人   NN             (NP*))   -   -   1   -   *             *        *)       *        *   -
+bn/cts/00/cts_0038   0    8    死亡   VV             (VP*))   死亡  -   -   -   *             *      (V*)       *        *   -
+bn/cts/00/cts_0038   0    9     ，   PU                 *    -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0   10    １１   CD        (IP(NP(QP*    -   -   -   -   *             *        *   (ARG0*        *   -
+bn/cts/00/cts_0038   0   11     个    M            (CLP*))   -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0   12     人   NN             (NP*))   -   -   1   -   *             *        *        *)       *   -
+bn/cts/00/cts_0038   0   13    失踪   VV             (VP*))   失踪  -   -   -   *             *        *      (V*)       *   -
+bn/cts/00/cts_0038   0   14     ，   PU                 *    -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0   15    至少   AD   (IP(NP(QP(ADVP*)   -   -   -   -   *             *        *        *   (ARG0*   -
+bn/cts/00/cts_0038   0   16    ３５   CD              (QP*    -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0   17     个    M           (CLP*)))   -   -   -   -   *             *        *        *        *   -
+bn/cts/00/cts_0038   0   18     人   NN             (NP*))   -   -   1   -   *             *        *        *        *)  -
+bn/cts/00/cts_0038   0   19    受伤   VV          (VP*)))))   受伤  -   -   -   *             *)       *        *      (V*)  -
+bn/cts/00/cts_0038   0   20     。   PU                *))   -   -   -   -   *             *        *        *        *   -
+
+bn/cts/00/cts_0038   0    0      美国    NR          (TOP(IP(NP(NP*)   -   -   -   -   *   (ARG0*             *             *    (11
+bn/cts/00/cts_0038   0    1      方面    NN                   (NP*))   -   -   1   -   *        *)            *             *     11)
+bn/cts/00/cts_0038   0    2      怀疑    VV                    (VP*    怀疑  -   -   -   *      (V*)            *             *      -
+bn/cts/00/cts_0038   0    3      幕后    AD   (IP(NP(CP(IP(VP(ADVP*)   -   -   -   -   *   (ARG1*    (ARGM-ADV*)       (ARG0*      -
+bn/cts/00/cts_0038   0    4      主使    VV                  (VP*)))   主使  -   -   -   *        *           (V*)            *      -
+bn/cts/00/cts_0038   0    5       的   DEC                      *))   -   -   -   -   *        *             *             *)     -
+bn/cts/00/cts_0038   0    6       正    AD               (VP(ADVP*)   -   -   -   -   *        *             *    (ARGM-ADV*)     -
+bn/cts/00/cts_0038   0    7       是    VC                    (VP*     是  -   1   -   *        *             *           (V*)     -
+bn/cts/00/cts_0038   0    8      中东    NR              (NP(NP(NP*)   -   -   -   -   *        *             *        (ARG1*    (12)
+bn/cts/00/cts_0038   0    9       头    OD                    (QP*    -   -   -   -   *        *             *             *      -
+bn/cts/00/cts_0038   0   10       号     M                  (CLP*))   -   -   1   -   *        *             *             *      -
+bn/cts/00/cts_0038   0   11      恐怖    NN                    (NP*    -   -   -   -   *        *             *             *      -
+bn/cts/00/cts_0038   0   12      分子    NN                      *))   -   -   -   -   *        *             *             *      -
+bn/cts/00/cts_0038   0   13    本·拉登    NR               (NP*))))))   -   -   -   -   *        *)            *             *)     -
+bn/cts/00/cts_0038   0   14       。    PU                      *))   -   -   -   -   *        *             *             *      -
+
+bn/cts/00/cts_0038   0    0      而    AD     (TOP(IP(IP(ADVP*)    -   -   -   -   *             *    (ARGM-DIS*)            *         -
+bn/cts/00/cts_0038   0    1     已经    AD   (NP(CP(IP(VP(ADVP*)    -   -   -   -   *    (ARGM-ADV*)   (ARGM-TPC*             *        (9
+bn/cts/00/cts_0038   0    2     持续    VV                 (VP*     持续  -   1   -   *           (V*)            *             *         -
+bn/cts/00/cts_0038   0    3      两    CD              (NP(QP*     -   -   -   -   *        (ARG1*             *             *         -
+bn/cts/00/cts_0038   0    4      个     M               (CLP*))    -   -   -   -   *             *             *             *         -
+bn/cts/00/cts_0038   0    5     星期    NN             (NP*)))))    -   -   -   -   *             *)            *             *         -
+bn/cts/00/cts_0038   0    6      的   DEC                    *)    -   -   -   -   *             *             *             *         -
+bn/cts/00/cts_0038   0    7      以    NR                 (NP*     -   -   -   -   *             *             *             *        (0
+bn/cts/00/cts_0038   0    8      巴    NR                    *)    -   -   -   -   *             *             *             *         0)
+bn/cts/00/cts_0038   0    9     冲突    NN                (NP*))    -   -   1   -   *             *             *)            *         9)
+bn/cts/00/cts_0038   0   10     昨天    NT              (VP(NP*)    -   -   1   -   *        (ARG0*    (ARGM-TMP*)            *        (2)
+bn/cts/00/cts_0038   0   11     更加    AD               (ADVP*)    -   -   -   -   *             *    (ARGM-ADV*)            *         -
+bn/cts/00/cts_0038   0   12    白热化    VV               (VP*)))   白热化  -   -   -   *             *)          (V*)            *         -
+bn/cts/00/cts_0038   0   13      ，    PU                    *     -   -   -   -   *             *             *             *         -
+bn/cts/00/cts_0038   0   14      三    CD           (IP(NP(QP*     -   -   -   -   *             *             *        (ARG1*        (6
+bn/cts/00/cts_0038   0   15      名     M               (CLP*))    -   -   -   -   *             *             *             *         -
+bn/cts/00/cts_0038   0   16    以色列    NR                 (NP*)    -   -   -   -   *             *             *             *       (13)
+bn/cts/00/cts_0038   0   17     士兵    NN                (NP*))    -   -   -   -   *             *             *             *)        6)
+bn/cts/00/cts_0038   0   18      在     P              (VP(PP*     -   -   2   -   *             *             *    (ARGM-LOC*         -
+bn/cts/00/cts_0038   0   19     西岸    NN              (NP(NP*)    -   -   -   -   *             *             *             *        (1
+bn/cts/00/cts_0038   0   20    雷马拉    NR                 (NP*     -   -   -   -   *             *             *             *         1)
+bn/cts/00/cts_0038   0   21     迷路    NN                  *)))    -   -   -   -   *             *             *             *)        -
+bn/cts/00/cts_0038   0   22      ，    PU                    *     -   -   -   -   *             *             *             *         -
+bn/cts/00/cts_0038   0   23      被    SB                 (VP*     -   -   -   -   *             *             *    (ARGM-ADV*)        -
+bn/cts/00/cts_0038   0   24     带进    VV                 (VP*     带进  -   -   -   *             *             *           (V*)        -
+bn/cts/00/cts_0038   0   25     当地    NN          (NP(DNP(NP*)    -   -   -   -   *             *             *        (ARG2*    (10|(1)
+bn/cts/00/cts_0038   0   26      的   DEG                    *)    -   -   -   -   *             *             *             *         -
+bn/cts/00/cts_0038   0   27    警察局    NN            (NP*))))))    -   -   -   -   *             *             *             *)       10)
+bn/cts/00/cts_0038   0   28      。    PU                   *))    -   -   -   -   *             *             *             *         -
+
+bn/cts/00/cts_0038   0    0      不料    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)        *   (ARGM-ADV*      *             *      *    (ARGM-ADV*      *      -
+bn/cts/00/cts_0038   0    1      大群    VV            (VP(VP*    大群  -   -   -   *           (V*)            *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0    2    巴勒斯坦    NR            (NP(NP*)   -   -   -   -   *        (ARG1*             *         *            *      *             *      *             *      *     (3)
+bn/cts/00/cts_0038   0    3      群众    NN             (NP*)))   -   -   -   -   *             *)            *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0    4      包围    VV               (VP*    包围  -   -   -   *             *           (V*)        *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0    5      警局    NN            (NP*))))   -   -   -   -   *             *        (ARG1*)        *            *)     *             *      *             *)     *    (10)
+bn/cts/00/cts_0038   0    6       ，    PU                  *    -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0    7      不顾    VV      (NP(CP(IP(VP*    不顾  -   -   -   *             *             *       (V*)      (ARG0*      *        (ARG0*      *        (ARG0*      *      -
+bn/cts/00/cts_0038   0    8      警察    NN             (NP*)))   -   -   -   -   *             *             *    (ARG1*)           *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0    9       的   DEC                  *)   -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   10      拦阻    NN              (NP*))   -   -   -   -   *             *             *         *            *)     *             *)     *             *)     *      -
+bn/cts/00/cts_0038   0   11      冲进    VV            (VP(VP*    冲进  -   -   -   *             *             *         *          (V*)     *             *      *             *      *      -
+bn/cts/00/cts_0038   0   12       了    AS                  *    -   -   -   -   *             *             *         *       (ARG1*)     *             *      *             *      *      -
+bn/cts/00/cts_0038   0   13      警局    NN           (LCP(NP*)   -   -   -   -   *             *             *         *       (ARG1*      *             *      *             *      *    (10)
+bn/cts/00/cts_0038   0   14       内    LC                 *))   -   -   -   -   *             *             *         *            *)     *             *      *             *      *      -
+bn/cts/00/cts_0038   0   15       ，    PU                  *    -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   16       将    BA               (VP*    -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   17       三    CD         (IP(NP(QP*    -   -   -   -   *             *             *         *            *      *             *      *             *      *     (6
+bn/cts/00/cts_0038   0   18       名     M             (CLP*))   -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   19      以军    NN              (NP*))   -   -   -   -   *             *             *         *            *      *             *      *             *      *      6)
+bn/cts/00/cts_0038   0   20      打死    VV             (VP*)))   打死  -   -   -   *             *             *         *            *    (V*)            *      *             *      *      -
+bn/cts/00/cts_0038   0   21       ，    PU                  *    -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   22       还    AD          (VP(ADVP*)   -   -   -   -   *             *             *         *            *      *    (ARGM-ADV*)     *    (ARGM-ADV*)     *      -
+bn/cts/00/cts_0038   0   23       把    BA            (VP(VP*    -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   24      尸体    NN            (IP(NP*)   -   -   -   -   *             *             *         *            *      *        (ARG1*)     *             *      *      -
+bn/cts/00/cts_0038   0   25       从     P            (VP(PP*    -   -   -   -   *             *             *         *            *      *    (ARGM-DIR*      *             *      *      -
+bn/cts/00/cts_0038   0   26      窗户    NN              (NP*))   -   -   -   -   *             *             *         *            *      *             *)     *             *      *      -
+bn/cts/00/cts_0038   0   27       丢    VV           (VP(VRD*     丢  -   -   -   *             *             *         *            *      *           (V*)     *             *      *      -
+bn/cts/00/cts_0038   0   28      出来    VV              *)))))   出来  -   -   -   *             *             *         *            *      *        (ARG2*)   (V*)            *      *      -
+bn/cts/00/cts_0038   0   29       ，    PU                  *    -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+bn/cts/00/cts_0038   0   30      加以    VV               (VP*    加以  -   -   -   *             *             *         *            *      *             *      *           (V*)     *      -
+bn/cts/00/cts_0038   0   31      践踏    VV       (IP(VP*))))))   践踏  -   -   -   *             *             *         *            *      *             *      *        (ARG1*)   (V*)     -
+bn/cts/00/cts_0038   0   32       。    PU                 *))   -   -   -   -   *             *             *         *            *      *             *      *             *      *      -
+
+bn/cts/00/cts_0038   0    0      事发    VV   (TOP(IP(IP(LCP(IP(VP*))   事发  -   -   -   *           (V*)   (ARGM-TMP*         *         -
+bn/cts/00/cts_0038   0    1      之后    LC                        *)   -   -   -   -   *    (ARGM-ADV*)            *)        *         -
+bn/cts/00/cts_0038   0    2      以军    NN                     (NP*)   -   -   -   -   *             *        (ARG0*)        *         -
+bn/cts/00/cts_0038   0    3      迅速    AD                (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)        *         -
+bn/cts/00/cts_0038   0    4      展开    VV                     (VP*    展开  -   -   -   *             *           (V*)        *         -
+bn/cts/00/cts_0038   0    5      报复    NN                  (NP*))))   -   -   -   -   *             *        (ARG1*)        *        (7)
+bn/cts/00/cts_0038   0    6       ，    PU                        *    -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0    7      战斗    NN                  (IP(NP*)   -   -   -   -   *             *             *    (ARG0*)        -
+bn/cts/00/cts_0038   0    8     直升机    NN                     (NP*    -   -   -   -   *             *             *    (ARG0*         -
+bn/cts/00/cts_0038   0    9       和    CC                        *    -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   10      炮艇    NN                        *)   -   -   -   -   *             *             *         *)        -
+bn/cts/00/cts_0038   0   11      攻击    VV                     (VP*    攻击  -   -   -   *             *             *       (V*)        -
+bn/cts/00/cts_0038   0   12       了    AS                        *    -   -   -   -   *             *             *    (ARG1*)        -
+bn/cts/00/cts_0038   0   13     雷马拉    NN           (NP(NP(DNP(NP*)   -   -   -   -   *             *             *    (ARG1*        (1)
+bn/cts/00/cts_0038   0   14       的   DEG                        *)   -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   15     警察局    NN                  (NP(NP*)   -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   16       和    CC                        *    -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   17      广播    NN                     (NP*    -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   18      电视    NN                        *    -   -   1   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   19     转播站    NN                      *)))   -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   20       ，    PU                        *    -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   21      还有    CC                        *    -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   22    巴勒斯坦    NR            (NP(NP(NP(NP*)   -   -   -   -   *             *             *         *    (14|(3)
+bn/cts/00/cts_0038   0   23      领袖    NN                    (NP*))   -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   24    阿拉法特    NR                    (NP*))   -   -   -   -   *             *             *         *        14)
+bn/cts/00/cts_0038   0   25       在     P                 (DNP(PP*    -   -   2   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   26      加沙    NR                    (NP*))   -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   27       的   DEG                        *)   -   -   -   -   *             *             *         *         -
+bn/cts/00/cts_0038   0   28      总部    NN                 (NP*)))))   -   -   -   -   *             *             *         *)        -
+bn/cts/00/cts_0038   0   29       。    PU                       *))   -   -   -   -   *             *             *         *         -
+
+bn/cts/00/cts_0038   0    0      不过   AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)            *      *     -
+bn/cts/00/cts_0038   0    1    阿拉法特   NR            (NP(NP*)   -   -   -   -   *        (ARG0*             *      *   (14
+bn/cts/00/cts_0038   0    2      本人   PN              (NP*))   -   -   -   -   *             *)            *      *    14)
+bn/cts/00/cts_0038   0    3     并没有   AD          (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *      *     -
+bn/cts/00/cts_0038   0    4      受到   VV               (VP*    受到  -   1   -   *           (V*)            *      *     -
+bn/cts/00/cts_0038   0    5      伤害   NN            (NP*))))   -   -   -   -   *        (ARG1*)            *      *     -
+bn/cts/00/cts_0038   0    6       ，   PU                  *    -   -   -   -   *             *             *      *     -
+bn/cts/00/cts_0038   0    7      整个   DT         (IP(NP(DP*)   -   -   -   -   *             *        (ARG0*      *    (7
+bn/cts/00/cts_0038   0    8      攻击   NN               (NP*    -   -   -   -   *             *             *      *     -
+bn/cts/00/cts_0038   0    9      行动   NN                 *))   -   -   1   -   *             *             *)     *     7)
+bn/cts/00/cts_0038   0   10      一直   AD          (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)     *     -
+bn/cts/00/cts_0038   0   11      持续   VV           (VP(VRD*    持续  -   1   -   *             *           (V*)     *     -
+bn/cts/00/cts_0038   0   12       到   VV                  *)    到  -   5   -   *             *             *    (V*)    -
+bn/cts/00/cts_0038   0   13      夜间   NT            (NP*))))   -   -   -   -   *             *        (ARG1*)     *     -
+bn/cts/00/cts_0038   0   14       。   PU                 *))   -   -   -   -   *             *             *      *     -
+
+bn/cts/00/cts_0038   0    0    如今    NT   (TOP(IP(IP(NP*)   -   -   -   -   *    (ARGM-TMP*)       *         *    (ARGM-TMP*)   (ARGM-TMP*)            *    -
+bn/cts/00/cts_0038   0    1     以    NR          (NP(NP*    -   -   -   -   *        (ARG0*        *         *        (ARG0*        (ARG0*             *   (0
+bn/cts/00/cts_0038   0    2     巴    NR                *)   -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0    3    双方    PN            (NP*))   -   -   -   -   *             *)       *         *             *)            *)            *    0)
+bn/cts/00/cts_0038   0    4    互相    AD     (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *         *             *             *             *    -
+bn/cts/00/cts_0038   0    5    指控    VV             (VP*    指控  -   -   -   *           (V*)       *         *             *             *             *    -
+bn/cts/00/cts_0038   0    6    对方    PN             (NP*)   -   -   -   -   *        (ARG1*)       *         *             *             *             *    -
+bn/cts/00/cts_0038   0    7    企图    VV          (IP(VP*    企图  -   -   -   *        (ARG2*      (V*)        *             *             *             *    -
+bn/cts/00/cts_0038   0    8    挑起    VV          (IP(VP*    挑起  -   -   -   *             *   (ARG1*       (V*)            *             *             *    -
+bn/cts/00/cts_0038   0    9    战争    NN       (NP*)))))))   -   -   1   -   *             *)       *)   (ARG1*)            *             *             *    -
+bn/cts/00/cts_0038   0   10     ，    PU                *    -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0   11     并    CC                *    -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0   12    誓言    VV             (VP*    誓言  -   -   -   *             *        *         *           (V*)            *             *    -
+bn/cts/00/cts_0038   0   13     决    AD     (IP(VP(ADVP*)   -   -   -   -   *             *        *         *        (ARG1*    (ARGM-ADV*)            *    -
+bn/cts/00/cts_0038   0   14     不    AD           (ADVP*)   -   -   -   -   *             *        *         *             *    (ARGM-ADV*)            *    -
+bn/cts/00/cts_0038   0   15    让步    VV        (VP*))))))   让步  -   -   -   *             *        *         *             *)          (V*)            *    -
+bn/cts/00/cts_0038   0   16     ，    PU                *    -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0   17     下    DT   (IP(NP(DNP(DP*    -   -   4   -   *             *        *         *             *             *        (ARG1*    -
+bn/cts/00/cts_0038   0   18     一    CD             (QP*    -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0   19     步     M          (CLP*)))   -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0   20     的   DEG                *)   -   -   -   -   *             *        *         *             *             *             *    -
+bn/cts/00/cts_0038   0   21    发展    NN            (NP*))   -   -   1   -   *             *        *         *             *             *             *)   -
+bn/cts/00/cts_0038   0   22    并不    AD        (VP(ADVP*)   -   -   -   -   *             *        *         *             *             *    (ARGM-ADV*)   -
+bn/cts/00/cts_0038   0   23    乐观    VA           (VP*)))   乐观  -   -   -   *             *        *         *             *             *           (V*)   -
+bn/cts/00/cts_0038   0   24     。    PU               *))   -   -   -   -   *             *        *         *             *             *             *    -
+
+#end document

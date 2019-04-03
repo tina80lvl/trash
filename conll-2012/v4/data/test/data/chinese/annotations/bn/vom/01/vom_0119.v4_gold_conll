@@ -1,0 +1,610 @@
+#begin document (bn/vom/01/vom_0119); part 000
+bn/vom/01/vom_0119   0    0      世界   NN       (TOP(IP(NP*   -    -   -   -        (ORG*         *             *        (ARG0*        *             *      *         (11
+bn/vom/01/vom_0119   0    1      贸易   NN                 *   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0    2      组织   NN                 *)  -    -   3   -            *)        *             *             *)       *             *      *          11)
+bn/vom/01/vom_0119   0    3      最近   NT           (VP(NP*)  -    -   -   -            *         *             *    (ARGM-TMP*)       *             *      *           -
+bn/vom/01/vom_0119   0    4       就    P              (PP*   -    -   1   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0    5      美国   NR           (IP(NP*)  -    -   -   -         (GPE)   (ARG0*)       (ARG0*)            *        *             *      *         (13)
+bn/vom/01/vom_0119   0    6      限制   VV           (VP(VP*   -   01   2   -            *       (V*)            *             *        *             *      *           -
+bn/vom/01/vom_0119   0    7    澳大利亚   NR        (NP(NP(NP*)  -    -   -   -         (GPE)   (ARG1*             *             *        *             *      *    (4|(9|(6)
+bn/vom/01/vom_0119   0    8       和   CC                 *   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0    9     新西兰   NR             (NP*))  -    -   -   -         (GPE)        *             *             *        *             *      *           9)
+bn/vom/01/vom_0119   0   10      羊肉   NN              (NP*   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   11      进口   NN               *)))  -    -   -   -            *         *)            *             *        *             *      *           4)
+bn/vom/01/vom_0119   0   12       ，   PU                 *   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   13      并且   AD         (VP(ADVP*)  -    -   -   -            *         *    (ARGM-DIS*)            *        *             *      *           -
+bn/vom/01/vom_0119   0   14      征收   VV              (VP*   -   01   -   -            *         *           (V*)            *        *             *      *           -
+bn/vom/01/vom_0119   0   15      高额   JJ         (NP(ADJP*)  -    -   -   -            *         *        (ARG1*             *        *             *      *           -
+bn/vom/01/vom_0119   0   16      关税   NN        (NP*)))))))  -    -   -   -            *         *             *)            *        *             *      *           -
+bn/vom/01/vom_0119   0   17      做出   VV              (VP*   -   01   -   -            *         *             *           (V*)       *             *      *           -
+bn/vom/01/vom_0119   0   18       了   AS                 *   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   19      初步   JJ         (NP(ADJP*)  -    -   -   -            *         *             *        (ARG1*        *             *      *          (0
+bn/vom/01/vom_0119   0   20      裁决   NN           (NP*))))  -    -   -   -            *         *             *             *)       *             *      *           0)
+bn/vom/01/vom_0119   0   21       ，   PU                 *   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   22      包括   VV  (IP(NP(CP(IP(VP*   -   01   -   -            *         *             *             *      (V*)       (ARG0*      *          (9
+bn/vom/01/vom_0119   0   23    澳大利亚   NR        (NP(NP(NP*)  -    -   -   -         (GPE)        *             *             *   (ARG1*             *      *          (6)
+bn/vom/01/vom_0119   0   24       和   CC                 *   -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   25     新西兰   NR             (NP*))  -    -   -   -         (GPE)        *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   26       两   CD              (QP*   -    -   -   -    (CARDINAL)        *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   27       个    M            (CLP*))  -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   28      国家   NN         (NP*))))))  -    -   -   -            *         *             *             *        *)            *)     *           9)
+bn/vom/01/vom_0119   0   29       都   AD         (VP(ADVP*)  -    -   -   -            *         *             *             *        *    (ARGM-ADV*)     *           -
+bn/vom/01/vom_0119   0   30       对    P              (PP*   -    -   3   -            *         *             *             *        *        (ARG3*      *           -
+bn/vom/01/vom_0119   0   31       这   DT           (NP(DP*   -    -   -   -            *         *             *             *        *             *      *          (0
+bn/vom/01/vom_0119   0   32       个    M            (CLP*))  -    -   -   -            *         *             *             *        *             *      *           -
+bn/vom/01/vom_0119   0   33      决定   NN            (NP*)))  -    -   -   -            *         *             *             *        *             *)     *           0)
+bn/vom/01/vom_0119   0   34      表示   VV              (VP*   -   01   1   -            *         *             *             *        *           (V*)     *           -
+bn/vom/01/vom_0119   0   35      满意   VA       (IP(VP*)))))  -   01   -   -            *         *             *             *        *        (ARG1*)   (V*)          -
+bn/vom/01/vom_0119   0   36       。   PU                *))  -    -   -   -            *         *             *             *        *             *      *           -
+
+bn/vom/01/vom_0119   0    0     目前    NT      (TOP(IP(NP*)  -    -   -   -            *        *        -
+bn/vom/01/vom_0119   0    1      ，    PU                *   -    -   -   -            *        *        -
+bn/vom/01/vom_0119   0    2      两    CD   (NP(DNP(NP(QP*)  -    -   -   -    (CARDINAL)       *   (9|(14
+bn/vom/01/vom_0119   0    3      国    NN            (NP*))  -    -   -   -            *        *        9)
+bn/vom/01/vom_0119   0    4      的   DEG                *)  -    -   -   -            *        *        -
+bn/vom/01/vom_0119   0    5    牧场主    NN            (NP*))  -    -   -   -            *        *       14)
+bn/vom/01/vom_0119   0    6      也    AD        (VP(ADVP*)  -    -   -   -            *        *        -
+bn/vom/01/vom_0119   0    7      在    AD           (ADVP*)  -    -   2   -            *        *        -
+bn/vom/01/vom_0119   0    8     计划    VV             (VP*   -    -   -   -            *        *        -
+bn/vom/01/vom_0119   0    9      向     P       (IP(VP(PP*   -    -   -   -            *   (ARG2*        -
+bn/vom/01/vom_0119   0   10    华盛顿    NR            (NP*))  -    -   -   -         (GPE)       *)     (13)
+bn/vom/01/vom_0119   0   11     索取    VV             (VP*   -   01   -   -            *      (V*)       -
+bn/vom/01/vom_0119   0   12     高额    JJ    (NP(DNP(ADJP*)  -    -   -   -            *   (ARG1*       (2
+bn/vom/01/vom_0119   0   13      的   DEG                *)  -    -   -   -            *        *        -
+bn/vom/01/vom_0119   0   14     赔偿    NN       (NP*)))))))  -    -   -   -            *        *)       2)
+bn/vom/01/vom_0119   0   15      。    PU               *))  -    -   -   -            *        *        -
+
+bn/vom/01/vom_0119   0    0    详细    JJ                (TOP(IP(NP(ADJP*)  -    -   -   -          *    (ARGM-DIS*    (ARGM-TPC*         *              -
+bn/vom/01/vom_0119   0    1    内容    NN                           (NP*))  -    -   -   -          *             *)            *)        *              -
+bn/vom/01/vom_0119   0    2    下面    NN                            (NP*)  -    -   -   -          *    (ARGM-TMP*)   (ARGM-TMP*)        *              -
+bn/vom/01/vom_0119   0    3     请    VV                            (VP*   -   01   -   -          *           (V*)            *         *              -
+bn/vom/01/vom_0119   0    4     听    VV                            (VP*   -   01   -   -          *        (ARG2*           (V*)        *              -
+bn/vom/01/vom_0119   0    5    美国    NR   (NP(CP(CP(IP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*             *        (ARG1*    (ARG0*    (12|(15|(13)
+bn/vom/01/vom_0119   0    6     之   DEG                               *)  -    -   -   -          *             *             *         *              -
+bn/vom/01/vom_0119   0    7     音    NN                       (NP(NP*)))  -    -   -   -          *)            *             *         *             12)
+bn/vom/01/vom_0119   0    8    特约    JJ                          (ADJP*)  -    -   -   -          *             *             *         *              -
+bn/vom/01/vom_0119   0    9    记者    NN                           (NP*))  -    -   -   -          *             *             *         *              -
+bn/vom/01/vom_0119   0   10    魏然    NR                           (NP*))  -    -   -   -    (PERSON)            *             *         *)            15)
+bn/vom/01/vom_0119   0   11    发来    VV                           (VP*))  -   01   -   -          *             *             *       (V*)             -
+bn/vom/01/vom_0119   0   12     的   DEC                              *))  -    -   -   -          *             *             *         *              -
+bn/vom/01/vom_0119   0   13    报道    NN                         (NP*))))  -    -   -   -          *             *)            *)   (ARG1*)             -
+bn/vom/01/vom_0119   0   14     。    PU                              *))  -    -   -   -          *             *             *         *              -
+
+bn/vom/01/vom_0119   0    0    澳大利亚    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -    (GPE)   (ARG0*    (9|(6)
+bn/vom/01/vom_0119   0    1       和    CC                   *   -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0    2     新西兰    NR               (NP*))  -    -   -   -    (GPE)        *        9)
+bn/vom/01/vom_0119   0    3     畜牧业    NN                (NP*   -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0    4      以及    CC                   *   -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0    5      政界    NN                   *)  -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0    6      人士    NN               (NP*))  -    -   -   -       *         *)       -
+bn/vom/01/vom_0119   0    7       对     P             (VP(PP*   -    -   3   -       *    (ARG3*        -
+bn/vom/01/vom_0119   0    8      世界    NN      (NP(DNP(NP(NP*   -    -   -   -   (ORG*         *   (0|(11
+bn/vom/01/vom_0119   0    9      贸易    NN                   *   -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0   10      组织    NN                   *)  -    -   3   -       *         *        -
+bn/vom/01/vom_0119   0   11     ｗｔｏ    NR               (NP*))  -    -   -   -       *)        *       11)
+bn/vom/01/vom_0119   0   12       的   DEG                   *)  -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0   13       一    CD                (QP*   -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0   14       个     M              (CLP*))  -    -   -   -       *         *        -
+bn/vom/01/vom_0119   0   15      裁定    NN              (NP*)))  -    -   -   -       *         *)       0)
+bn/vom/01/vom_0119   0   16      表示    VV                (VP*   -   01   1   -       *       (V*)       -
+bn/vom/01/vom_0119   0   17      欢迎    NN              (NP*)))  -    -   -   -       *    (ARG1*)       -
+bn/vom/01/vom_0119   0   18       。    PU                  *))  -    -   -   -       *         *        -
+
+bn/vom/01/vom_0119   0    0       据     P         (TOP(IP(PP*   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0    1      英国    NR          (IP(NP(NP*)  -    -   -   -    (GPE)     *   (ARG0*        *            *        *      *         *           -
+bn/vom/01/vom_0119   0    2      报界    NN               (NP*))  -    -   -   -       *      *        *)       *            *        *      *         *           -
+bn/vom/01/vom_0119   0    3      报道    VV            (VP(VSB*   -   01   -   -       *    (V*)       *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0    4       说    VV                *))))  -   01   8   -       *      *      (V*)       *            *        *      *         *           -
+bn/vom/01/vom_0119   0    5       ：    PU                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0    6      世界    NN                (NP*   -    -   -   -   (ORG*      *        *        *            *        *      *         *         (11
+bn/vom/01/vom_0119   0    7      贸易    NN                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0    8      组织    NN                   *)  -    -   3   -       *)     *        *        *            *        *      *         *          11)
+bn/vom/01/vom_0119   0    9      初步    AD           (VP(ADVP*)  -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   10      裁定    VV                (VP*   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   11       ：    PU                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   12      美国    NR    (IP(NP(CP(IP(NP*)  -    -   -   -    (GPE)     *        *        *       (ARG0*)  (ARG0*      *         *      (8|(13)
+bn/vom/01/vom_0119   0   13      通过     P             (VP(PP*   -    -   4   -       *      *        *        *   (ARGM-MNR*        *      *         *           -
+bn/vom/01/vom_0119   0   14      征收    VV             (IP(VP*   -   01   -   -       *      *        *      (V*)           *        *      *         *           -
+bn/vom/01/vom_0119   0   15       高    JJ           (NP(ADJP*)  -    -   1   -       *      *        *   (ARG1*            *        *      *         *           -
+bn/vom/01/vom_0119   0   16      关税    NN            (NP*)))))  -    -   -   -       *      *        *        *)           *)       *      *         *           -
+bn/vom/01/vom_0119   0   17      限制    VV                (VP*   -   01   2   -       *      *        *        *          (V*)       *      *         *           -
+bn/vom/01/vom_0119   0   18    澳大利亚    NR          (NP(NP(NP*)  -    -   -   -    (GPE)     *        *        *       (ARG1*        *      *         *    (4|(9|(6)
+bn/vom/01/vom_0119   0   19       和    CC                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   20     新西兰    NR               (NP*))  -    -   -   -    (GPE)     *        *        *            *        *      *         *           9)
+bn/vom/01/vom_0119   0   21      羊肉    NN                (NP*   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   22      进口    NN               *)))))  -    -   -   -       *      *        *        *            *)       *      *         *           4)
+bn/vom/01/vom_0119   0   23       的   DEC                   *)  -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   24      做法    NN               (NP*))  -    -   -   -       *      *        *        *            *        *)     *         *           8)
+bn/vom/01/vom_0119   0   25       是    VC                (VP*   -   01   1   -       *      *        *        *            *      (V*)     *         *           -
+bn/vom/01/vom_0119   0   26      错误    VA   (NP(CP(CP(IP(VP*))  -   01   -   -       *      *        *        *            *   (ARG1*    (V*)        *           -
+bn/vom/01/vom_0119   0   27       的   DEC                *))))  -    -   -   -       *      *        *        *            *        *)     *         *           -
+bn/vom/01/vom_0119   0   28       ，    PU                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   29      因为     P                (PP*   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   30       ，    PU                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   31       他    PN             (IP(NP*)  -    -   -   -       *      *        *        *            *        *      *    (ARG0*)         (8)
+bn/vom/01/vom_0119   0   32      违反    VV                (VP*   -   01   -   -       *      *        *        *            *        *      *       (V*)          -
+bn/vom/01/vom_0119   0   33       了    AS                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   34      世界    NN             (NP(NP*   -    -   -   -   (ORG*      *        *        *            *        *      *    (ARG1*         (11
+bn/vom/01/vom_0119   0   35      贸易    NN                   *   -    -   -   -       *      *        *        *            *        *      *         *           -
+bn/vom/01/vom_0119   0   36      组织    NN                   *)  -    -   3   -       *)     *        *        *            *        *      *         *          11)
+bn/vom/01/vom_0119   0   37      条例    NN         (NP*))))))))  -    -   -   -       *      *        *        *            *        *      *         *)          -
+bn/vom/01/vom_0119   0   38       。    PU                  *))  -    -   -   -       *      *        *        *            *        *      *         *           -
+
+bn/vom/01/vom_0119   0    0     世贸    NN         (TOP(IP(NP*   -    -   -   -   (ORG*        (ARG0*             *        *            *   (11
+bn/vom/01/vom_0119   0    1     组织    NN                   *)  -    -   3   -       *)            *)            *        *            *    11)
+bn/vom/01/vom_0119   0    2      只    AD           (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)            *        *            *     -
+bn/vom/01/vom_0119   0    3     允许    VV                (VP*   -   01   -   -       *           (V*)            *        *            *     -
+bn/vom/01/vom_0119   0    4    成员国    NN                (NP*)  -    -   -   -       *        (ARG1*)            *        *            *     -
+bn/vom/01/vom_0119   0    5      在     P          (IP(VP(PP*   -    -   2   -       *        (ARG2*             *        *   (ARGM-ADV*     -
+bn/vom/01/vom_0119   0    6     进口    NN   (LCP(NP(CP(IP(NP*)  -    -   -   -       *             *        (ARG1*)       *            *     -
+bn/vom/01/vom_0119   0    7     突然    AD           (VP(ADVP*)  -    -   -   -       *             *    (ARGM-ADV*)       *            *     -
+bn/vom/01/vom_0119   0    8     增加    VV              (VP*)))  -   01   1   -       *             *           (V*)       *            *     -
+bn/vom/01/vom_0119   0    9      的   DEC                   *)  -    -   -   -       *             *             *        *            *     -
+bn/vom/01/vom_0119   0   10     情况    NN               (NP*))  -    -   -   -       *             *             *        *            *     -
+bn/vom/01/vom_0119   0   11      下    LC                  *))  -    -   1   -       *             *             *        *            *)    -
+bn/vom/01/vom_0119   0   12      ，    PU                   *   -    -   -   -       *             *             *        *            *     -
+bn/vom/01/vom_0119   0   13      为     P                (PP*   -    -   5   -       *             *             *        *   (ARGM-PRP*     -
+bn/vom/01/vom_0119   0   14     保护    VV             (IP(VP*   -   01   -   -       *             *             *      (V*)           *     -
+bn/vom/01/vom_0119   0   15     本国    NN                (NP*   -    -   -   -       *             *             *   (ARG1*            *     -
+bn/vom/01/vom_0119   0   16     产业    NN                *))))  -    -   -   -       *             *             *        *)           *)    -
+bn/vom/01/vom_0119   0   17      而   MSP                (VP*   -    -   -   -       *             *             *        *            *     -
+bn/vom/01/vom_0119   0   18     实行    VV                (VP*   -   01   -   -       *             *             *        *          (V*)    -
+bn/vom/01/vom_0119   0   19    暂时性    JJ       (NP(DNP(ADJP*)  -    -   -   -       *             *             *        *       (ARG1*     -
+bn/vom/01/vom_0119   0   20      的   DEG                   *)  -    -   -   -       *             *             *        *            *     -
+bn/vom/01/vom_0119   0   21     禁止    NN                (NP*   -    -   -   -       *             *             *        *            *     -
+bn/vom/01/vom_0119   0   22     政策    NN            *))))))))  -    -   -   -       *             *)            *        *            *)    -
+bn/vom/01/vom_0119   0   23      。    PU                  *))  -    -   -   -       *             *             *        *            *     -
+
+bn/vom/01/vom_0119   0    0      但是   AD   (TOP(IP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)   (ARGM-DIS*)        -
+bn/vom/01/vom_0119   0    1       ，   PU               *   -    -   -   -            *             *             *         -
+bn/vom/01/vom_0119   0    2      美国   NR         (NP(NP*)  -    -   -   -         (GPE)       (ARG0*        (ARG0*    (8|(13)
+bn/vom/01/vom_0119   0    3       这   DT            (DP*   -    -   -   -            *             *             *         -
+bn/vom/01/vom_0119   0    4       一   CD           (QP*))  -    -   -   -            *             *             *         -
+bn/vom/01/vom_0119   0    5      限制   NN           (NP*))  -    -   3   -            *             *)            *)        8)
+bn/vom/01/vom_0119   0    6       只   AD    (VP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *         -
+bn/vom/01/vom_0119   0    7       是   VC            (VP*   -   01   2   -            *           (V*)            *         -
+bn/vom/01/vom_0119   0    8      针对    P            (PP*   -    -   -   -            *        (ARG1*             *         -
+bn/vom/01/vom_0119   0    9    澳大利亚   NR         (NP(NP*   -    -   -   -         (GPE)            *             *        (9
+bn/vom/01/vom_0119   0   10       和   CC               *   -    -   -   -            *             *             *         -
+bn/vom/01/vom_0119   0   11     新西兰   NR               *)  -    -   -   -         (GPE)            *             *         -
+bn/vom/01/vom_0119   0   12       两   CD            (QP*)  -    -   -   -    (CARDINAL)            *             *         -
+bn/vom/01/vom_0119   0   13       国   NN        (NP*)))))  -    -   -   -            *             *)            *         9)
+bn/vom/01/vom_0119   0   14       ，   PU               *   -    -   -   -            *             *             *         -
+bn/vom/01/vom_0119   0   15       而   AD       (VP(ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)        -
+bn/vom/01/vom_0119   0   16      给予   VV            (VP*   -   01   -   -            *             *           (V*)        -
+bn/vom/01/vom_0119   0   17     加拿大   NR         (NP(NP*   -    -   -   -         (GPE)            *        (ARG2*         -
+bn/vom/01/vom_0119   0   18       和   CC               *   -    -   -   -            *             *             *         -
+bn/vom/01/vom_0119   0   19     墨西哥   NR              *))  -    -   -   -         (GPE)            *             *)        -
+bn/vom/01/vom_0119   0   20      特殊   JJ       (NP(ADJP*)  -    -   -   -            *             *        (ARG1*         -
+bn/vom/01/vom_0119   0   21      待遇   NN        (NP*)))))  -    -   -   -            *             *             *)        -
+bn/vom/01/vom_0119   0   22       。   PU              *))  -    -   -   -            *             *             *         -
+
+bn/vom/01/vom_0119   0    0         在     P       (TOP(IP(PP*   -    -   2   -            *            *    (ARGM-LOC*        *         *             *      -
+bn/vom/01/vom_0119   0    1         这    DT       (LCP(NP(DP*   -    -   -   -            *            *             *        *         *             *     (8
+bn/vom/01/vom_0119   0    2         个     M            (CLP*))  -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0    3         于     P  (CP(CP(IP(VP(PP*   -    -   -   -            *   (ARGM-TMP*             *        *         *             *      -
+bn/vom/01/vom_0119   0    4        去年    NT              (NP*   -    -   -   -       (DATE*            *             *        *         *             *      -
+bn/vom/01/vom_0119   0    5       ７月份    NT                *))  -    -   -   -            *)           *)            *        *         *             *      -
+bn/vom/01/vom_0119   0    6        实行    VV            (VP*)))  -   01   -   -            *          (V*)            *        *         *             *      -
+bn/vom/01/vom_0119   0    7         的   DEC                *))  -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0    8        贸易    NN              (NP*   -    -   -   -            *       (ARG1*             *        *         *             *      -
+bn/vom/01/vom_0119   0    9        限制    NN                *))  -    -   3   -            *            *)            *        *         *             *      8)
+bn/vom/01/vom_0119   0   10        之下    LC                *))  -    -   -   -            *            *             *)       *         *             *      -
+bn/vom/01/vom_0119   0   11         ，    PU                 *   -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0   12      澳大利亚    NR           (NP(NP*   -    -   -   -         (GPE)           *        (ARG1*        *         *             *     (9
+bn/vom/01/vom_0119   0   13         、    PU                 *   -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0   14       新西兰    NR                 *)  -    -   -   -         (GPE)           *             *        *         *             *      -
+bn/vom/01/vom_0119   0   15         两    CD              (QP*)  -    -   -   -    (CARDINAL)           *             *        *         *             *      -
+bn/vom/01/vom_0119   0   16         国    NN             (NP*))  -    -   -   -            *            *             *)       *         *             *      9)
+bn/vom/01/vom_0119   0   17         每    DT           (VP(DP*   -    -   -   -            *            *    (ARGM-ADV*        *         *             *      -
+bn/vom/01/vom_0119   0   18         年     M            (CLP*))  -    -   -   -            *            *             *)       *         *             *      -
+bn/vom/01/vom_0119   0   19         只    AD            (ADVP*)  -    -   -   -            *            *    (ARGM-ADV*)       *         *             *      -
+bn/vom/01/vom_0119   0   20        允许    VV              (VP*   -   01   -   -            *            *           (V*)       *         *             *      -
+bn/vom/01/vom_0119   0   21         向     P        (IP(VP(PP*   -    -   -   -            *            *        (ARG2*   (ARG2*         *             *      -
+bn/vom/01/vom_0119   0   22        美国    NR             (NP*))  -    -   -   -         (GPE)           *             *        *)        *             *    (13)
+bn/vom/01/vom_0119   0   23        出口    VV              (VP*   -   01   1   -            *            *             *      (V*)        *             *      -
+bn/vom/01/vom_0119   0   24    ３３，０００    CD       (NP(DNP(QP*   -    -   -   -   (QUANTITY*            *             *   (ARG1*         *             *      -
+bn/vom/01/vom_0119   0   25         吨     M            (CLP*))  -    -   -   -            *)           *             *        *         *             *      -
+bn/vom/01/vom_0119   0   26         的   DEG                 *)  -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0   27        关税    NN     (CP(CP(IP(NP*)  -    -   -   -            *            *             *        *    (ARG0*)            *      -
+bn/vom/01/vom_0119   0   28         为    VC              (VP*   -   01   1   -            *            *             *        *       (V*)            *      -
+bn/vom/01/vom_0119   0   29        ９％    CD            (QP*)))  -    -   -   -     (PERCENT)           *             *        *    (ARG1*)            *      -
+bn/vom/01/vom_0119   0   30         的   DEC                *))  -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0   31        羊肉    NN        (NP*)))))))  -    -   -   -            *            *             *)       *)   (ARG0*)            *      -
+bn/vom/01/vom_0119   0   32         ，    PU                 *   -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0   33        其余    DT        (IP(NP(DP*)  -    -   -   -            *            *             *        *         *        (ARG1*      -
+bn/vom/01/vom_0119   0   34        进口    NN              (NP*   -    -   -   -            *            *             *        *         *             *      -
+bn/vom/01/vom_0119   0   35        羊肉    NN                *))  -    -   -   -            *            *             *        *         *             *)     -
+bn/vom/01/vom_0119   0   36         将    AD         (VP(ADVP*)  -    -   -   -            *            *             *        *         *    (ARGM-ADV*)     -
+bn/vom/01/vom_0119   0   37         以     P              (PP*   -    -   -   -            *            *             *        *         *    (ARGM-MNR*      -
+bn/vom/01/vom_0119   0   38       ４０％    CD             (QP*))  -    -   -   -     (PERCENT)           *             *        *         *             *)     -
+bn/vom/01/vom_0119   0   39        征税    VV            (VP*)))  -   01   -   -            *            *             *        *         *           (V*)     -
+bn/vom/01/vom_0119   0   40         。    PU                *))  -    -   -   -            *            *             *        *         *             *      -
+
+bn/vom/01/vom_0119   0    0      据     P     (TOP(IP(PP*   -    -   -   -            *    (ARGM-MNR*        -
+bn/vom/01/vom_0119   0    1     初步    JJ       (NP(ADVP*)  -    -   -   -            *             *        -
+bn/vom/01/vom_0119   0    2     预测    NN          (NP*)))  -    -   1   -            *             *)       -
+bn/vom/01/vom_0119   0    3      ：    PU               *   -    -   -   -            *             *        -
+bn/vom/01/vom_0119   0    4      澳    NR  (NP(DNP(NP(NP*   -    -   -   -         (GPE)       (ARG0*   (9|(14
+bn/vom/01/vom_0119   0    5      、    PU               *   -    -   -   -            *             *        -
+bn/vom/01/vom_0119   0    6      新    NR               *)  -    -   -   -         (GPE)            *        -
+bn/vom/01/vom_0119   0    7      两    CD            (QP*)  -    -   -   -    (CARDINAL)            *        -
+bn/vom/01/vom_0119   0    8      国    NN           (NP*))  -    -   -   -            *             *        9)
+bn/vom/01/vom_0119   0    9      的   DEG               *)  -    -   -   -            *             *        -
+bn/vom/01/vom_0119   0   10    农场主    NN           (NP*))  -    -   -   -            *             *)      14)
+bn/vom/01/vom_0119   0   11      共    AD       (VP(ADVP*)  -    -   2   -            *    (ARGM-ADV*)       -
+bn/vom/01/vom_0119   0   12     损失    VV            (VP*   -   01   -   -            *           (V*)       -
+bn/vom/01/vom_0119   0   13    上百万    CD            (QP*   -    -   -   -      (MONEY*        (ARG1*        -
+bn/vom/01/vom_0119   0   14     澳元     M        (CLP*))))  -    -   -   -            *)            *)       -
+bn/vom/01/vom_0119   0   15      。    PU              *))  -    -   -   -            *             *        -
+
+bn/vom/01/vom_0119   0    0    澳大利亚    NR  (TOP(IP(NP(NP(NP*   -    -   -   -        (ORG*   (ARG0*        *            *             *       (16
+bn/vom/01/vom_0119   0    1     农场主    NN                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0    2     联合会    NN                  *)  -    -   -   -            *)       *        *            *             *         -
+bn/vom/01/vom_0119   0    3      主席    NN              (NP*))  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0    4     多尼斯    NR              (NP*))  -    -   -   -      (PERSON)       *)       *            *             *        16)
+bn/vom/01/vom_0119   0    5       说    VV               (VP*   -   01   7   -            *      (V*)       *            *             *         -
+bn/vom/01/vom_0119   0    6       ：    PU                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0    7      为了     P         (IP(IP(PP*   -    -   -   -            *   (ARG1*        *   (ARGM-PRP*             *         -
+bn/vom/01/vom_0119   0    8      反对    VV            (IP(VP*   -   01   -   -            *        *      (V*)           *             *         -
+bn/vom/01/vom_0119   0    9     华盛顿    NR        (NP(DNP(NP*)  -    -   -   -         (GPE)       *   (ARG1*            *             *    (8|(13)
+bn/vom/01/vom_0119   0   10       的   DEG                  *)  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   11       这    DT               (DP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   12       一    CD              (QP*))  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   13     歧视性    JJ         (DNP(ADJP*)  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   14       的   DEG                  *)  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   15      贸易    NN               (NP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   16      限制    NN              *)))))  -    -   3   -            *        *        *)           *)            *         8)
+bn/vom/01/vom_0119   0   17       ，    PU                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   18       澳    NR     (NP(DNP(NP(NP*   -    -   -   -         (GPE)       *        *       (ARG0*             *    (9|(14
+bn/vom/01/vom_0119   0   19       、    PU                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   20       新    NR                  *)  -    -   -   -         (GPE)       *        *            *             *         -
+bn/vom/01/vom_0119   0   21       两    CD               (QP*)  -    -   -   -    (CARDINAL)       *        *            *             *         -
+bn/vom/01/vom_0119   0   22       国    NN              (NP*))  -    -   -   -            *        *        *            *             *         9)
+bn/vom/01/vom_0119   0   23       的   DEG                  *)  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   24     牧场主    NN              (NP*))  -    -   -   -            *        *        *            *)            *        14)
+bn/vom/01/vom_0119   0   25      施加    VV               (VP*   -   01   -   -            *        *        *          (V*)            *         -
+bn/vom/01/vom_0119   0   26       了    AS                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   27      不少    CD            (NP(QP*)  -    -   -   -            *        *        *       (ARG1*             *         -
+bn/vom/01/vom_0119   0   28      政治    NN               (NP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   29      压力    NN               *))))  -    -   -   -            *        *        *            *)            *         -
+bn/vom/01/vom_0119   0   30       ，    PU                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   31     农场主    NN            (IP(NP*)  -    -   -   -            *        *        *            *        (ARG0*)      (14)
+bn/vom/01/vom_0119   0   32      曾经    AD       (VP(VP(ADVP*)  -    -   -   -            *        *        *            *    (ARGM-ADV*)        -
+bn/vom/01/vom_0119   0   33       在     P               (PP*   -    -   2   -            *        *        *            *    (ARGM-LOC*         -
+bn/vom/01/vom_0119   0   34     堪培拉    NR        (LCP(NP(NP*)  -    -   -   -         (GPE)       *        *            *             *         -
+bn/vom/01/vom_0119   0   35      美国    NR               (NP*)  -    -   -   -        (FAC*        *        *            *             *       (13)
+bn/vom/01/vom_0119   0   36     大使馆    NN              (NP*))  -    -   -   -            *)       *        *            *             *         -
+bn/vom/01/vom_0119   0   37       前    LC                 *))  -    -   -   -            *        *        *            *             *)        -
+bn/vom/01/vom_0119   0   38      举行    VV               (VP*   -   01   -   -            *        *        *            *           (V*)        -
+bn/vom/01/vom_0119   0   39       过    AS                  *   -    -   1   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   40      示威    NN               (NP*   -    -   -   -            *        *        *            *        (ARG1*        (7
+bn/vom/01/vom_0119   0   41      抗议    NN                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   42      活动    NN                *)))  -    -   2   -            *        *        *            *             *)        7)
+bn/vom/01/vom_0119   0   43       ，    PU                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   44       并    AD          (VP(ADVP*)  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   45       在     P               (PP*   -    -   2   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   46      美国    NR         (NP(NP(NP*)  -    -   -   -         (GPE)       *        *            *             *       (13)
+bn/vom/01/vom_0119   0   47      首都    NN              (NP*))  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   48     华盛顿    NR             (NP*)))  -    -   -   -         (GPE)       *        *            *             *         -
+bn/vom/01/vom_0119   0   49       ，    PU                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   50       将    BA               (VP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   51       一    CD         (IP(NP(QP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   52       头     M             (CLP*))  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   53       羊    NN              (NP*))  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   54      栓在    VV            (VP(VP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   55       了    AS                  *   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   56      白宫    NR    (LCP(NP(DNP(NP*)  -    -   -   -         (FAC)       *        *            *             *         -
+bn/vom/01/vom_0119   0   57       的   DEG                  *)  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   58      栅栏    NN              (NP*))  -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   59       上    LC                 *))  -    -   1   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   60      以示    VV               (VP*   -    -   -   -            *        *        *            *             *         -
+bn/vom/01/vom_0119   0   61      抗议    NN      (NP*))))))))))  -    -   -   -            *        *)       *            *             *         -
+bn/vom/01/vom_0119   0   62       。    PU                 *))  -    -   -   -            *        *        *            *             *         -
+
+bn/vom/01/vom_0119   0    0    多尼斯    NR   (TOP(IP(NP*   -    -   -   -    (PERSON)  (ARG0*         *    (16
+bn/vom/01/vom_0119   0    1     先生    NN             *)  -    -   -   -          *        *)        *     16)
+bn/vom/01/vom_0119   0    2      说    VV          (VP*   -   01   7   -          *      (V*)        *      -
+bn/vom/01/vom_0119   0    3      ：    PU             *   -    -   -   -          *        *         *      -
+bn/vom/01/vom_0119   0    4     他们    PN   (IP(NP(NP*))  -    -   -   -          *   (ARG1*    (ARG0*)   (14)
+bn/vom/01/vom_0119   0    5      在     P       (VP(PP*   -    -   2   -          *        *    (ARG2*      -
+bn/vom/01/vom_0119   0    6      这    DT   (LCP(NP(DP*   -    -   -   -          *        *         *     (7
+bn/vom/01/vom_0119   0    7      一    CD         (QP*))  -    -   -   -          *        *         *      -
+bn/vom/01/vom_0119   0    8     示威    NN          (NP*   -    -   -   -          *        *         *      -
+bn/vom/01/vom_0119   0    9     抗议    NN             *   -    -   -   -          *        *         *      -
+bn/vom/01/vom_0119   0   10     活动    NN            *))  -    -   2   -          *        *         *      7)
+bn/vom/01/vom_0119   0   11      中    LC            *))  -    -   -   -          *        *         *)     -
+bn/vom/01/vom_0119   0   12     注入    VV          (VP*   -   01   -   -          *        *       (V*)     -
+bn/vom/01/vom_0119   0   13      了    AS             *   -    -   -   -          *        *         *      -
+bn/vom/01/vom_0119   0   14     不少    CD   (NP(DNP(QP*)  -    -   -   -          *        *    (ARG1*      -
+bn/vom/01/vom_0119   0   15      的   DEG             *)  -    -   -   -          *        *         *      -
+bn/vom/01/vom_0119   0   16     心血    NN     (NP*))))))  -    -   -   -          *        *)        *)     -
+bn/vom/01/vom_0119   0   17      。    PU            *))  -    -   -   -          *        *         *      -
+
+bn/vom/01/vom_0119   0    0    然而   AD   (TOP(IP(IP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)     *        *    (ARGM-DIS*)           *             *      *      -
+bn/vom/01/vom_0119   0    1     ，   PU                  *   -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0    2    他们   PN               (NP*)  -    -   -   -       *        (ARG0*)     *        *        (ARG0*)           *             *      *    (14)
+bn/vom/01/vom_0119   0    3     只   AD          (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)     *        *    (ARGM-ADV*)           *             *      *      -
+bn/vom/01/vom_0119   0    4     有   VE               (VP*   -   01   4   -       *           (V*)     *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0    5     一   CD         (IP(NP(QP*   -    -   -   -       *        (ARG1*      *   (ARG1*        (ARG1*            *             *      *     (1
+bn/vom/01/vom_0119   0    6     条    M             (CLP*))  -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0    7     路   NN              (NP*))  -    -   -   -       *             *      *        *)            *            *             *      *      1)
+bn/vom/01/vom_0119   0    8     可   VV               (VP*   -   01   1   -       *             *    (V*)       *             *            *             *      *      -
+bn/vom/01/vom_0119   0    9     走   VV           (VP*)))))  -   01   5   -       *             *)     *      (V*)            *)           *             *      *      -
+bn/vom/01/vom_0119   0   10     ，   PU                  *   -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   11     那   PN               (NP*)  -    -   -   -       *             *      *        *             *            *             *      *     (1)
+bn/vom/01/vom_0119   0   12     就   AD          (VP(ADVP*)  -    -   8   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   13     是   VC               (VP*   -   01   1   -       *             *      *        *           (V*)           *             *      *      -
+bn/vom/01/vom_0119   0   14     向    P         (IP(VP(PP*   -    -   -   -       *             *      *        *             *   (ARGM-DIR*             *      *      -
+bn/vom/01/vom_0119   0   15    世界   NN               (NP*   -    -   -   -   (ORG*             *      *        *             *            *             *      *    (11
+bn/vom/01/vom_0119   0   16    贸易   NN                  *   -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   17    组织   NN                 *))  -    -   3   -       *)            *      *        *             *            *)            *      *     11)
+bn/vom/01/vom_0119   0   18    提出   VV               (VP*   -   01   -   -       *             *      *        *             *          (V*)            *      *      -
+bn/vom/01/vom_0119   0   19    诉讼   NN         (NP*)))))))  -    -   -   -       *             *      *        *             *       (ARG1*)            *      *      -
+bn/vom/01/vom_0119   0   20     ，   PU                  *   -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   21    他们   PN      (CP(IP(IP(NP*)  -    -   -   -       *             *      *        *             *            *        (ARG0*)     *    (14)
+bn/vom/01/vom_0119   0   22    现在   NT            (VP(NP*)  -    -   -   -       *             *      *        *             *            *    (ARGM-TMP*)     *    (17)
+bn/vom/01/vom_0119   0   23    看来   VV             (VP*)))  -   01   -   -       *             *      *        *             *            *           (V*)     *      -
+bn/vom/01/vom_0119   0   24     这   DT            (NP(DP*   -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   25     一   CD              (QP*))  -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   26    行动   NN              (NP*))  -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   27     是   VC               (VP*   -   01   1   -       *             *      *        *             *            *             *    (V*)     -
+bn/vom/01/vom_0119   0   28    奏效   VV             (VP*)))  -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   29     的   SP                  *)  -    -   -   -       *             *      *        *             *            *             *      *      -
+bn/vom/01/vom_0119   0   30     。   PU                 *))  -    -   -   -       *             *      *        *             *            *             *      *      -
+
+bn/vom/01/vom_0119   0    0       他   PN     (TOP(IP(NP(NP*)  -    -   -   -   *    (ARG0*      *             *      *             *      *    (16
+bn/vom/01/vom_0119   0    1      本人   NN              (NP*))  -    -   -   -   *         *)     *             *      *             *      *     16)
+bn/vom/01/vom_0119   0    2       对    P            (VP(PP*   -    -   3   -   *    (ARG3*      *             *      *             *      *      -
+bn/vom/01/vom_0119   0    3       此   PN              (NP*))  -    -   -   -   *         *)     *             *      *             *      *     (0)
+bn/vom/01/vom_0119   0    4      表示   VV               (VP*   -   01   1   -   *       (V*)     *             *      *             *      *      -
+bn/vom/01/vom_0119   0    5      高兴   VA         (IP(VP*))))  -   01   -   -   *    (ARG1*)   (V*)            *      *             *      *      -
+bn/vom/01/vom_0119   0    6       ，   PU                  *   -    -   -   -   *         *      *             *      *             *      *      -
+bn/vom/01/vom_0119   0    7       他   PN            (IP(NP*)  -    -   -   -   *         *      *        (ARG0*)     *             *      *    (16)
+bn/vom/01/vom_0119   0    8       也   AD          (VP(ADVP*)  -    -   -   -   *         *      *    (ARGM-ADV*)     *             *      *      -
+bn/vom/01/vom_0119   0    9      深信   VV               (VP*   -   01   -   -   *         *      *           (V*)     *             *      *      -
+bn/vom/01/vom_0119   0   10    牧场主们   NN            (IP(NP*)  -    -   -   -   *         *      *        (ARG1*      *        (ARG0*)     *    (14)
+bn/vom/01/vom_0119   0   11       对    P            (VP(PP*   -    -   3   -   *         *      *             *      *             *      *      -
+bn/vom/01/vom_0119   0   12       这   DT            (NP(DP*)  -    -   -   -   *         *      *             *      *             *      *     (0
+bn/vom/01/vom_0119   0   13      决定   NN             (NP*)))  -    -   -   -   *         *      *             *      *             *      *      0)
+bn/vom/01/vom_0119   0   14       也   AD          (VP(ADVP*)  -    -   -   -   *         *      *             *      *    (ARGM-ADV*)     *      -
+bn/vom/01/vom_0119   0   15       会   VV               (VP*   -   01   -   -   *         *      *             *    (V*)            *      *      -
+bn/vom/01/vom_0119   0   16      深表   VV               (VP*   -   01   -   -   *         *      *             *      *           (V*)     *      -
+bn/vom/01/vom_0119   0   17      高兴   VA   (IP(VP*))))))))))  -   01   -   -   *         *      *             *)     *        (ARG1*)   (V*)     -
+bn/vom/01/vom_0119   0   18       。   PU                 *))  -    -   -   -   *         *      *             *      *             *      *      -
+
+bn/vom/01/vom_0119   0    0      他    PN          (TOP(IP(IP(NP*)  -    -   -   -            *        (ARG0*)           *         *             *      *             *      (16)
+bn/vom/01/vom_0119   0    1     同时    AD               (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)           *         *             *      *             *        -
+bn/vom/01/vom_0119   0    2     呼吁    VV                    (VP*   -   01   1   -            *           (V*)           *         *             *      *             *        -
+bn/vom/01/vom_0119   0    3      澳    NR              (NP(NP(NP*   -    -   -   -         (GPE)       (ARG1*            *         *             *      *             *   (9|(10
+bn/vom/01/vom_0119   0    4      新    NR                       *)  -    -   -   -         (GPE)            *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0    5      两    CD                    (QP*)  -    -   -   -    (CARDINAL)            *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0    6      国    NN                   (NP*))  -    -   -   -            *             *            *         *             *      *             *        9)
+bn/vom/01/vom_0119   0    7     政府    NN                   (NP*))  -    -   -   -            *             *)           *         *             *      *             *       10)
+bn/vom/01/vom_0119   0    8      向     P              (IP(VP(PP*   -    -   -   -            *    (ARGM-ADV*   (ARGM-DIR*         *             *      *             *        -
+bn/vom/01/vom_0119   0    9     美国    NR                   (NP*))  -    -   -   -         (GPE)            *            *)        *             *      *             *      (13)
+bn/vom/01/vom_0119   0   10     提出    VV                    (VP*   -   01   -   -            *             *          (V*)        *             *      *             *        -
+bn/vom/01/vom_0119   0   11     赔偿    NN                    (NP*   -    -   -   -            *             *       (ARG1*         *             *      *             *        -
+bn/vom/01/vom_0119   0   12     要求    NN                 *)))))))  -    -   3   -            *             *)           *)        *             *      *             *        -
+bn/vom/01/vom_0119   0   13      ，    PU                       *   -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   14      他    PN                 (IP(NP*)  -    -   -   -            *             *            *    (ARG0*)            *      *             *      (16)
+bn/vom/01/vom_0119   0   15      说    VV                    (VP*   -   01   7   -            *             *            *       (V*)            *      *             *        -
+bn/vom/01/vom_0119   0   16      ：    PU                       *   -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   17      很    AD   (IP(IP(DVP(ADJP(ADVP*)  -    -   -   -            *             *            *    (ARG1*    (ARGM-ADV*      *             *        -
+bn/vom/01/vom_0119   0   18     明显    JJ                 (ADJP*))  -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   19      的   DEV                       *)  -    -   -   -            *             *            *         *             *)     *             *        -
+bn/vom/01/vom_0119   0   20    主动权    NN                    (NP*)  -    -   -   -            *             *            *         *        (ARG0*)     *             *        -
+bn/vom/01/vom_0119   0   21      又    AD               (VP(ADVP*)  -    -   -   -            *             *            *         *    (ARGM-ADV*)     *             *        -
+bn/vom/01/vom_0119   0   22     回到    VV                    (VP*   -   01   -   -            *             *            *         *           (V*)     *             *        -
+bn/vom/01/vom_0119   0   23      了    AS                       *   -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   24      澳    NR      (LCP(NP(DNP(NP(NP*   -    -   -   -         (GPE)            *            *         *        (ARG1*      *             *       (9
+bn/vom/01/vom_0119   0   25      新    NR                       *)  -    -   -   -         (GPE)            *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   26      两    CD                    (QP*)  -    -   -   -    (CARDINAL)            *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   27      国    NN                   (NP*))  -    -   -   -            *             *            *         *             *      *             *        9)
+bn/vom/01/vom_0119   0   28      的   DEG                       *)  -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   29      手    NN                   (NP*))  -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   30      中    LC                    *))))  -    -   -   -            *             *            *         *             *)     *             *        -
+bn/vom/01/vom_0119   0   31      ，    PU                       *   -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   32     因此    AD               (IP(ADVP*)  -    -   -   -            *             *            *         *             *      *    (ARGM-DIS*)       -
+bn/vom/01/vom_0119   0   33      ，    PU                       *   -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   34    堪培拉    NR                    (NP*   -    -   -   -         (GPE)            *            *         *             *      *        (ARG0*      (10
+bn/vom/01/vom_0119   0   35      和    CC                       *   -    -   -   -            *             *            *         *             *      *             *        -
+bn/vom/01/vom_0119   0   36    惠林顿    NR                       *)  -    -   -   -         (GPE)            *            *         *             *      *             *)      10)
+bn/vom/01/vom_0119   0   37     必须    VV                    (VP*   -   01   -   -            *             *            *         *             *    (V*)            *        -
+bn/vom/01/vom_0119   0   38      向     P                 (VP(PP*   -    -   -   -            *             *            *         *             *      *        (ARG2*        -
+bn/vom/01/vom_0119   0   39    华盛顿    NR                   (NP*))  -    -   -   -         (GPE)            *            *         *             *      *             *)     (13)
+bn/vom/01/vom_0119   0   40     要求    VV                    (VP*   -   01   1   -            *             *            *         *             *      *           (V*)       -
+bn/vom/01/vom_0119   0   41     经济    NN                    (NP*   -    -   2   -            *             *            *         *             *      *        (ARG1*       (2
+bn/vom/01/vom_0119   0   42     索赔    NN                *))))))))  -    -   -   -            *             *            *         *)            *      *             *)       2)
+bn/vom/01/vom_0119   0   43      。    PU                      *))  -    -   -   -            *             *            *         *             *      *             *        -
+
+bn/vom/01/vom_0119   0    0    同时    AD   (TOP(IP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)       *             *             *      -
+bn/vom/01/vom_0119   0    1     ，    PU               *   -    -   -   -   *             *        *             *             *      -
+bn/vom/01/vom_0119   0    2    他们    PN            (NP*)  -    -   -   -   *        (ARG0*)       *             *             *    (14)
+bn/vom/01/vom_0119   0    3     也    AD       (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)       *             *             *      -
+bn/vom/01/vom_0119   0    4    希望    VV            (VP*   -   02   1   -   *           (V*)       *             *             *      -
+bn/vom/01/vom_0119   0    5    看到    VV         (IP(VP*   -   01   -   -   *        (ARG1*      (V*)            *             *      -
+bn/vom/01/vom_0119   0    6    关税    NN      (IP(IP(NP*   -    -   -   -   *             *   (ARG1*             *             *      -
+bn/vom/01/vom_0119   0    7     和    CC               *   -    -   -   -   *             *        *             *             *      -
+bn/vom/01/vom_0119   0    8    限额    NN               *)  -    -   -   -   *             *        *             *             *      -
+bn/vom/01/vom_0119   0    9    统统    AD       (VP(ADVP*)  -    -   -   -   *             *        *    (ARGM-ADV*)            *      -
+bn/vom/01/vom_0119   0   10     被    SB            (VP*   -    -   -   -   *             *        *             *             *      -
+bn/vom/01/vom_0119   0   11    取消    VV         (VP*))))  -   01   -   -   *             *        *           (V*)            *      -
+bn/vom/01/vom_0119   0   12     ，    PU               *   -    -   -   -   *             *        *             *             *      -
+bn/vom/01/vom_0119   0   13     而    AD    (IP(VP(ADVP*)  -    -   -   -   *             *        *             *    (ARGM-DIS*)     -
+bn/vom/01/vom_0119   0   14     由     P            (PP*   -    -   -   -   *             *        *             *        (ARG0*      -
+bn/vom/01/vom_0119   0   15    市场    NN           (NP*))  -    -   -   -   *             *        *             *             *)     -
+bn/vom/01/vom_0119   0   16     来   MSP            (VP*   -    -   7   -   *             *        *             *             *      -
+bn/vom/01/vom_0119   0   17    主宰    VV            (VP*   -   01   -   -   *             *        *             *           (V*)     -
+bn/vom/01/vom_0119   0   18    一切    PN   (NP*))))))))))  -    -   -   -   *             *)       *)            *        (ARG1*)     -
+bn/vom/01/vom_0119   0   19     。    PU              *))  -    -   -   -   *             *        *             *             *      -
+
+bn/vom/01/vom_0119   0    0       据     P         (TOP(IP(PP*   -    -   -   -         *        *      *      *   (ARGM-MNR*   -
+bn/vom/01/vom_0119   0    1     新西兰    NR   (IP(NP(DNP(NP(NP*)  -    -   -   -      (GPE)  (ARG0*      *      *            *   -
+bn/vom/01/vom_0119   0    2      方面    NN               (NP*))  -    -   -   -         *        *      *      *            *   -
+bn/vom/01/vom_0119   0    3       的   DEG                   *)  -    -   -   -         *        *      *      *            *   -
+bn/vom/01/vom_0119   0    4      初步    JJ              (ADJP*)  -    -   -   -         *        *      *      *            *   -
+bn/vom/01/vom_0119   0    5      调查    NN               (NP*))  -    -   -   -         *        *)     *      *            *   -
+bn/vom/01/vom_0119   0    6      显示    VV              (VP*)))  -   01   1   -         *      (V*)     *      *            *)  -
+bn/vom/01/vom_0119   0    7       ，    PU                   *   -    -   -   -         *        *      *      *            *   -
+bn/vom/01/vom_0119   0    8       这    DT             (NP(DP*   -    -   -   -         *        *      *      *       (ARG0*   -
+bn/vom/01/vom_0119   0    9       一    CD               (QP*))  -    -   -   -         *        *      *      *            *   -
+bn/vom/01/vom_0119   0   10      赔偿    NN                (NP*   -    -   -   -         *        *      *      *            *   -
+bn/vom/01/vom_0119   0   11      金额    NN                  *))  -    -   -   -         *        *      *      *            *)  -
+bn/vom/01/vom_0119   0   12      可能    VV                (VP*   -   01   -   -         *        *    (V*)     *            *   -
+bn/vom/01/vom_0119   0   13       会    VV                (VP*   -   01   -   -         *        *      *    (V*)           *   -
+bn/vom/01/vom_0119   0   14      高达    VV                (VP*   -   01   -   -   (MONEY*        *      *      *          (V*)  -
+bn/vom/01/vom_0119   0   15    ８００万    CD                (QP*   -    -   -   -         *        *      *      *       (ARG1*   -
+bn/vom/01/vom_0119   0   16      美元     M           (CLP*)))))  -    -   -   -         *)       *      *      *            *)  -
+bn/vom/01/vom_0119   0   17       。    PU                  *))  -    -   -   -         *        *      *      *            *   -
+
+bn/vom/01/vom_0119   0    0    澳大利亚    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -      (ORG*   (ARG0*             *             *         *             *             *    (5|(6)
+bn/vom/01/vom_0119   0    1      贸易    NN                (NP*   -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0    2      部长    NN                  *))  -    -   -   -          *)       *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0    3    马克维尔    NR               (NP*))  -    -   -   -    (PERSON)       *)            *             *         *             *             *        5)
+bn/vom/01/vom_0119   0    4      表示    VV                (VP*   -   01   2   -          *      (V*)            *             *         *             *             *        -
+bn/vom/01/vom_0119   0    5       ，    PU                   *   -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0    6      虽然    CS        (IP(CP(ADVP*)  -    -   -   -          *   (ARG1*    (ARGM-DIS*)   (ARGM-DIS*)        *             *             *        -
+bn/vom/01/vom_0119   0    7      美国    NR          (IP(IP(NP*)  -    -   -   -       (GPE)       *        (ARG0*)       (ARG0*)        *             *             *      (13)
+bn/vom/01/vom_0119   0    8      继续    VV                (VP*   -   01   -   -          *        *           (V*)            *         *             *             *        -
+bn/vom/01/vom_0119   0    9      上诉    VV              (VP*)))  -   01   -   -          *        *        (ARG1*)          (V*)        *             *             *        -
+bn/vom/01/vom_0119   0   10       并    CC                   *   -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0   11      获得    VV    (IP(NP(CP(IP(VP*   -   01   -   -          *        *             *             *       (V*)       (ARG0*             *        -
+bn/vom/01/vom_0119   0   12      成功    NN              (NP*)))  -    -   -   -          *        *             *             *    (ARG1*)            *             *        -
+bn/vom/01/vom_0119   0   13       的   DEC                   *)  -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0   14     可能性    NN               (NP*))  -    -   -   -          *        *             *             *         *             *)            *        -
+bn/vom/01/vom_0119   0   15       不    AD           (VP(ADVP*)  -    -   -   -          *        *             *             *         *    (ARGM-ADV*)            *        -
+bn/vom/01/vom_0119   0   16       大    VA            (VP*)))))  -   01   -   -          *        *             *             *         *           (V*)            *        -
+bn/vom/01/vom_0119   0   17       ，    PU                   *   -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0   18      但是    AD              (ADVP*)  -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0   19       ，    PU                   *   -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0   20      现在    NT          (IP(VP(NP*)  -    -   -   -          *        *             *             *         *             *    (ARGM-TMP*)     (17)
+bn/vom/01/vom_0119   0   21       谈    VV                (VP*   -   01   -   -          *        *             *             *         *             *           (V*)       -
+bn/vom/01/vom_0119   0   22      赔偿    NN             (NP*))))  -    -   -   -          *        *             *             *         *             *        (ARG1*)      (2)
+bn/vom/01/vom_0119   0   23       还    AD           (VP(ADVP*)  -    -   -   -          *        *             *             *         *             *             *        -
+bn/vom/01/vom_0119   0   24    为时过早    VV             (VP*))))  -    -   -   -          *        *)            *             *         *             *             *        -
+bn/vom/01/vom_0119   0   25       。    PU                  *))  -    -   -   -          *        *             *             *         *             *             *        -
+
+bn/vom/01/vom_0119   0    0      他    PN     (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)            *      (5)
+bn/vom/01/vom_0119   0    1      说    VV            (VP*   -   01   7   -       *       (V*)            *       -
+bn/vom/01/vom_0119   0    2      ：    PU               *   -    -   -   -       *         *             *       -
+bn/vom/01/vom_0119   0    3     世界    NN   (IP(IP(NP(NP*   -    -   -   -   (ORG*    (ARG1*        (ARG0*     (11
+bn/vom/01/vom_0119   0    4     贸易    NN               *   -    -   -   -       *         *             *       -
+bn/vom/01/vom_0119   0    5     组织    NN               *)  -    -   3   -       *         *             *       -
+bn/vom/01/vom_0119   0    6    ｗｔｏ    NR           (NP*))  -    -   -   -       *)        *             *)     11)
+bn/vom/01/vom_0119   0    7    还没有    AD       (VP(ADVP*)  -    -   -   -       *         *    (ARGM-ADV*)      -
+bn/vom/01/vom_0119   0    8     完全    AD          (ADVP*)  -    -   -   -       *         *    (ARGM-ADV*)      -
+bn/vom/01/vom_0119   0    9     公布    VV            (VP*   -   01   -   -       *         *           (V*)      -
+bn/vom/01/vom_0119   0   10      这    DT  (NP(DNP(NP(DP*   -    -   -   -       *         *        (ARG1*   (0|(3
+bn/vom/01/vom_0119   0   11      一    CD           (QP*))  -    -   -   -       *         *             *       -
+bn/vom/01/vom_0119   0   12     裁决    NN           (NP*))  -    -   -   -       *         *             *       0)
+bn/vom/01/vom_0119   0   13      的   DEG               *)  -    -   -   -       *         *             *       -
+bn/vom/01/vom_0119   0   14     全文    NN        (NP*)))))  -    -   -   -       *         *             *)      3)
+bn/vom/01/vom_0119   0   15      ，    PU               *   -    -   -   -       *         *             *       -
+bn/vom/01/vom_0119   0   16      他    PN         (IP(NP*)  -    -   -   -       *         *             *      (5)
+bn/vom/01/vom_0119   0   17     无法    AD       (VP(ADVP*)  -    -   -   -       *         *             *       -
+bn/vom/01/vom_0119   0   18      对     P            (PP*   -    -   3   -       *         *             *       -
+bn/vom/01/vom_0119   0   19      此    DT         (NP(DP*)  -    -   -   -       *         *             *      (0
+bn/vom/01/vom_0119   0   20      事    NN          (NP*)))  -    -   -   -       *         *             *       0)
+bn/vom/01/vom_0119   0   21     述评    VV        (VP*)))))  -    -   -   -       *         *)            *       -
+bn/vom/01/vom_0119   0   22      。    PU              *))  -    -   -   -       *         *             *       -
+
+bn/vom/01/vom_0119   0    0     他    PN         (TOP(IP(NP*)  -    -   -   -   *    (ARG0*)       *             *             *     (5)
+bn/vom/01/vom_0119   0    1     说    VV                (VP*   -   01   7   -   *       (V*)       *             *             *      -
+bn/vom/01/vom_0119   0    2     ：    PU                   *   -    -   -   -   *         *        *             *             *      -
+bn/vom/01/vom_0119   0    3    只有    AD       (IP(LCP(ADVP*)  -    -   -   -   *    (ARG1*        *    (ARGM-TMP*    (ARGM-TMP*      -
+bn/vom/01/vom_0119   0    4    看到    VV         (LCP(IP(VP*   -   01   -   -   *         *      (V*)            *             *      -
+bn/vom/01/vom_0119   0    5    裁定    VV   (NP(CP(CP(IP(VP*))  -    -   -   -   *         *   (ARG1*             *             *     (3
+bn/vom/01/vom_0119   0    6     的   DEC                  *))  -    -   -   -   *         *        *             *             *      -
+bn/vom/01/vom_0119   0    7    文字    NN             (NP*))))  -    -   -   -   *         *        *)            *             *      3)
+bn/vom/01/vom_0119   0    8    之后    LC                  *))  -    -   -   -   *         *        *             *)            *)     -
+bn/vom/01/vom_0119   0    9     ，    PU                   *   -    -   -   -   *         *        *             *             *      -
+bn/vom/01/vom_0119   0   10    政府    NN                (NP*)  -    -   -   -   *         *        *        (ARG0*)       (ARG0*)   (10)
+bn/vom/01/vom_0119   0   11     才    AD           (VP(ADVP*)  -    -   -   -   *         *        *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bn/vom/01/vom_0119   0   12     有    VE                (VP*   -   03   4   -   *         *        *           (V*)            *      -
+bn/vom/01/vom_0119   0   13    可能    NN               (NP*))  -    -   -   -   *         *        *        (ARG1*)            *      -
+bn/vom/01/vom_0119   0   14    着手    VV                (VP*   -   01   -   -   *         *        *             *           (V*)     -
+bn/vom/01/vom_0119   0   15     这    DT             (NP(DP*   -    -   -   -   *         *        *             *        (ARG1*     (2
+bn/vom/01/vom_0119   0   16     一    CD               (QP*))  -    -   -   -   *         *        *             *             *      -
+bn/vom/01/vom_0119   0   17    问题    NN           (NP*))))))  -    -   -   -   *         *)       *             *             *)     2)
+bn/vom/01/vom_0119   0   18     。    PU                  *))  -    -   -   -   *         *        *             *             *      -
+
+bn/vom/01/vom_0119   0    0      尽管    CS   (TOP(IP(CP(ADVP*)  -    -    -   -            *    (ARGM-DIS*)       *    (ARGM-ADV*    -
+bn/vom/01/vom_0119   0    1      近年    NT        (IP(LCP(NP*)  -    -    -   -            *    (ARGM-TMP*        *             *    -
+bn/vom/01/vom_0119   0    2       来    LC                  *)  -    -   13   -            *             *)       *             *    -
+bn/vom/01/vom_0119   0    3     畜牧业    NN            (NP(NP*)  -    -    -   -            *        (ARG0*        *             *    -
+bn/vom/01/vom_0119   0    4       在     P           (DNP(PP*   -    -    2   -            *             *        *             *    -
+bn/vom/01/vom_0119   0    5    澳大利亚    NR    (LCP(NP(DNP(NP*   -    -    -   -         (GPE)            *        *             *   (9
+bn/vom/01/vom_0119   0    6       和    CC                  *   -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0    7     新西兰    NR                  *)  -    -    -   -         (GPE)            *        *             *    9)
+bn/vom/01/vom_0119   0    8       的   DEG                  *)  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0    9      出口    NN               (NP*   -    -    1   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   10      产业    NN                 *))  -    -    2   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   11       中    LC                 *))  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   12       的   DEG                  *)  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   13      地位    NN              (NP*))  -    -    -   -            *             *)       *             *    -
+bn/vom/01/vom_0119   0   14      有所    VV               (VP*   -   01    -   -            *           (V*)       *             *    -
+bn/vom/01/vom_0119   0   15      下降    NN            (NP*))))  -    -    1   -            *        (ARG1*)       *             *)   -
+bn/vom/01/vom_0119   0   16       ，    PU                  *   -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   17      但是    AD             (ADVP*)  -    -    -   -            *             *        *    (ARGM-DIS*)   -
+bn/vom/01/vom_0119   0   18       ，    PU                  *   -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   19       与     P         (IP(VP(PP*   -    -    -   -            *             *   (ARG0*    (ARGM-ADV*    -
+bn/vom/01/vom_0119   0   20      其它    DT            (NP(DP*)  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   21      国家    NN             (NP*)))  -    -    -   -            *             *        *)            *    -
+bn/vom/01/vom_0119   0   22      相比    VV             (VP*)))  -   01    -   -            *             *      (V*)            *)   -
+bn/vom/01/vom_0119   0   23       ，    PU                  *   -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   24       澳    NR            (NP(NP*   -    -    -   -         (GPE)            *        *        (ARG0*   (9
+bn/vom/01/vom_0119   0   25       新    NR                  *)  -    -    -   -         (GPE)            *        *             *    -
+bn/vom/01/vom_0119   0   26       两    CD               (QP*)  -    -    -   -    (CARDINAL)            *        *             *    -
+bn/vom/01/vom_0119   0   27       国    NN              (NP*))  -    -    -   -            *             *        *             *)   9)
+bn/vom/01/vom_0119   0   28      仍然    AD          (VP(ADVP*)  -    -    -   -            *             *        *    (ARGM-ADV*)   -
+bn/vom/01/vom_0119   0   29       是    VC               (VP*   -   01    1   -            *             *        *           (V*)   -
+bn/vom/01/vom_0119   0   30      世界    NN            (NP(NP*)  -    -    -   -            *             *        *        (ARG1*    -
+bn/vom/01/vom_0119   0   31      主要    JJ         (DNP(ADJP*)  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   32       的   DEG                  *)  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   33      羊毛    NN               (NP*   -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   34       、    PU                  *   -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   35      羊肉    NN                  *)  -    -    -   -            *             *        *             *    -
+bn/vom/01/vom_0119   0   36     出口国    NN                *)))  -    -    -   -            *             *        *             *)   -
+bn/vom/01/vom_0119   0   37       。    PU                 *))  -    -    -   -            *             *        *             *    -
+
+bn/vom/01/vom_0119   0    0      而    AD     (TOP(IP(IP(ADVP*)  -    -   -   -       *        *    (ARGM-DIS*)            *         -
+bn/vom/01/vom_0119   0    1      在     P                 (PP*   -    -   2   -       *        *    (ARGM-TMP*             *         -
+bn/vom/01/vom_0119   0    2    华盛顿    NR   (LCP(IP(NP(DNP(NP*)  -    -   -   -    (GPE)  (ARG1*             *             *    (8|(13)
+bn/vom/01/vom_0119   0    3      的   DEG                    *)  -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0    4     限额    NN                 (NP*   -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0    5      和    CC                    *   -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0    6     关税    NN                   *))  -    -   -   -       *        *)            *             *         8)
+bn/vom/01/vom_0119   0    7     实行    VV                (VP*))  -   01   -   -       *      (V*)            *             *         -
+bn/vom/01/vom_0119   0    8     之前    LC                   *))  -    -   -   -       *        *             *)            *         -
+bn/vom/01/vom_0119   0    9      ，    PU                    *   -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0   10     羊肉    NN              (NP(NP*)  -    -   -   -       *        *        (ARG0*             *         -
+bn/vom/01/vom_0119   0   11      在     P             (DNP(PP*   -    -   2   -       *        *             *             *         -
+bn/vom/01/vom_0119   0   12     美国    NR              (NP(NP*)  -    -   -   -    (GPE)       *             *             *       (13)
+bn/vom/01/vom_0119   0   13     市场    NN               (NP*)))  -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0   14      的   DEG                    *)  -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0   15     需求    NN                (NP*))  -    -   -   -       *        *             *)            *         -
+bn/vom/01/vom_0119   0   16      也    AD            (VP(ADVP*)  -    -   -   -       *        *    (ARGM-ADV*)            *         -
+bn/vom/01/vom_0119   0   17    越来越    AD               (ADVP*)  -    -   -   -       *        *    (ARGM-ADV*)            *         -
+bn/vom/01/vom_0119   0   18      大    VA               (VP*)))  -   01   -   -       *        *           (V*)            *         -
+bn/vom/01/vom_0119   0   19      ，    PU                    *   -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0   20      而    AD            (IP(ADVP*)  -    -   -   -       *        *             *    (ARGM-DIS*)        -
+bn/vom/01/vom_0119   0   21     美国    NR              (NP(NP*)  -    -   -   -    (GPE)       *             *        (ARG0*       (13)
+bn/vom/01/vom_0119   0   22     羊肉    NN                 (NP*   -    -   -   -       *        *             *             *         -
+bn/vom/01/vom_0119   0   23    生产业    NN                   *))  -    -   -   -       *        *             *             *)        -
+bn/vom/01/vom_0119   0   24      却    AD            (VP(ADVP*)  -    -   -   -       *        *             *    (ARGM-DIS*)        -
+bn/vom/01/vom_0119   0   25      在    AD            (VP(ADVP*)  -    -   5   -       *        *             *    (ARGM-ADV*)        -
+bn/vom/01/vom_0119   0   26      走    VV                 (VP*   -   01   5   -       *        *             *           (V*)        -
+bn/vom/01/vom_0119   0   27    下坡路    NN             (NP*)))))  -    -   -   -       *        *             *        (ARG1*)        -
+bn/vom/01/vom_0119   0   28      。    PU                   *))  -    -   -   -       *        *             *             *         -
+
+bn/vom/01/vom_0119   0   0     美国    NR   (TOP(IP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*        (ARG0*    (12|(15|(13)
+bn/vom/01/vom_0119   0   1      之   DEG                          *)  -    -   -   -          *             *              -
+bn/vom/01/vom_0119   0   2      音    NN                      (NP*))  -    -   -   -          *)            *             12)
+bn/vom/01/vom_0119   0   3     记者    NN                      (NP*))  -    -   -   -          *             *              -
+bn/vom/01/vom_0119   0   4     魏然    NR                      (NP*))  -    -   -   -    (PERSON)            *)            15)
+bn/vom/01/vom_0119   0   5    莫尔本    NR                    (VP(NP*)  -    -   -   -       (GPE)   (ARGM-LOC*)             -
+bn/vom/01/vom_0119   0   6     报道    VV                      (VP*))  -   01   -   -          *           (V*)             -
+bn/vom/01/vom_0119   0   7      。    PU                         *))  -    -   -   -          *             *              -
+
+#end document

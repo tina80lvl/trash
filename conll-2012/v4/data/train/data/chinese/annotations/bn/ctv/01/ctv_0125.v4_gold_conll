@@ -1,0 +1,167 @@
+#begin document (bn/ctv/01/ctv_0125); part 000
+bn/ctv/01/ctv_0125   0    0    俄罗斯    NR    (TOP(IP(NP(NP(NP*)  -    -   -   -       (GPE)       (ARG0*        *      *             *    (5|(6)
+bn/ctv/01/ctv_0125   0    1     总统    NN                (NP*))  -    -   -   -          *             *        *      *             *        -
+bn/ctv/01/ctv_0125   0    2     普京    NR                (NP*))  -    -   -   -    (PERSON)            *)       *      *             *        5)
+bn/ctv/01/ctv_0125   0    3     ９号    NT              (VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)       *      *             *        -
+bn/ctv/01/ctv_0125   0    4     表示    VV                 (VP*   -   01   2   -          *           (V*)       *      *             *        -
+bn/ctv/01/ctv_0125   0    5      ，    PU                    *   -    -   -   -          *             *        *      *             *        -
+bn/ctv/01/ctv_0125   0    6      在     P           (IP(VP(PP*   -    -   2   -          *        (ARG1*        *      *    (ARGM-TMP*        -
+bn/ctv/01/ctv_0125   0    7    １４号    NT   (LCP(IP(NP(DNP(NP*)  -    -   -   -      (DATE)            *   (ARG0*      *             *        -
+bn/ctv/01/ctv_0125   0    8      的   DEG                    *)  -    -   -   -          *             *        *      *             *        -
+bn/ctv/01/ctv_0125   0    9     判决    NN                (NP*))  -    -   -   -          *             *        *)     *             *        -
+bn/ctv/01/ctv_0125   0   10     生效    VV                (VP*))  -   01   -   -          *             *      (V*)     *             *        -
+bn/ctv/01/ctv_0125   0   11     之前    LC                   *))  -    -   -   -          *             *        *      *             *)       -
+bn/ctv/01/ctv_0125   0   12      不    AD               (ADVP*)  -    -   -   -          *             *        *      *    (ARGM-ADV*)       -
+bn/ctv/01/ctv_0125   0   13      会    VV                 (VP*   -   01   -   -          *             *        *    (V*)            *        -
+bn/ctv/01/ctv_0125   0   14     释放    VV                 (VP*   -   01   1   -          *             *        *      *           (V*)       -
+bn/ctv/01/ctv_0125   0   15     波普    NR           (NP*)))))))  -    -   -   -    (PERSON)            *)       *      *        (ARG1*)      (0)
+bn/ctv/01/ctv_0125   0   16      。    PU                   *))  -    -   -   -          *             *        *      *             *        -
+
+bn/ctv/01/ctv_0125   0    0           普京    NR           (TOP(IP(CP(IP(NP*)  -    -   -   -    (PERSON)     *        *       (ARG0*)       *            *        *        *             *             *    (5)
+bn/ctv/01/ctv_0125   0    1            是    VC                        (VP*   -   01   2   -          *    (V*)       *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    2            在     P                     (VP(PP*   -    -   2   -          *      *        *   (ARGM-TMP*        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    3           视察    VV                     (IP(VP*   -   01   -   -          *      *      (V*)           *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    4          俄罗斯    NR                  (NP(NP(NP*)  -    -   -   -       (GPE)     *   (ARG1*            *        *            *        *        *             *             *    (6)
+bn/ctv/01/ctv_0125   0    5           工业    NN                        (NP*   -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    6           城市    NN                          *))  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    7    马格尼托戈尔斯克市    NR                    (NP*)))))  -    -   -   -       (GPE)     *        *)           *)       *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    8            说    VV                        (VP*   -   01   7   -          *      *        *          (V*)       *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0    9            这    DT                     (NP(DP*   -    -   -   -          *      *        *       (ARG1*        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   10            番     M                      (CLP*))  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   11            话    NN                   (NP*))))))  -    -   -   -          *      *        *            *)       *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   12            的    SP                           *)  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   13            ，    PU                           *   -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   14           普京    NR                     (IP(NP*)  -    -   -   -    (PERSON)     *        *            *        *       (ARG0*)       *        *             *             *    (5)
+bn/ctv/01/ctv_0125   0   15            在     P                     (VP(PP*   -    -   2   -          *      *        *            *        *   (ARGM-TMP*        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   16           回答    VV                 (LCP(IP(VP*   -   01   -   -          *      *        *            *      (V*)           *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   17           记者    NN                        (NP*   -    -   -   -          *      *        *            *   (ARG1*            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   18           提问    NN                         *)))  -    -   -   -          *      *        *            *        *)           *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   19            时    LC                          *))  -    -   -   -          *      *        *            *        *            *)       *        *             *             *     -
+bn/ctv/01/ctv_0125   0   20            说    VV                        (VP*   -   01   7   -          *      *        *            *        *          (V*)       *        *             *             *     -
+bn/ctv/01/ctv_0125   0   21            ：    PU                           *   -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   22            “    PU                        (IP*   -    -   -   -          *      *        *            *        *       (ARG1*        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   23           应该    VV                     (IP(VP*   -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   24           听取    VV                        (VP*   -   01   1   -          *      *        *            *        *            *      (V*)       *             *             *     -
+bn/ctv/01/ctv_0125   0   25            由     P  (NP(DNP(NP(CP(CP(IP(VP(PP*   -    -   -   -          *      *        *            *        *            *   (ARG1*   (ARG1*             *             *    (1
+bn/ctv/01/ctv_0125   0   26           社会    NN                     (NP(NP*)  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   27           权威    JJ                      (ADJP*)  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   28           人士    NN                      (NP*)))  -    -   -   -          *      *        *            *        *            *        *        *)            *             *     -
+bn/ctv/01/ctv_0125   0   29           组成    VV                      (VP*)))  -   01   -   -          *      *        *            *        *            *        *      (V*)            *             *     -
+bn/ctv/01/ctv_0125   0   30            的   DEC                          *))  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   31           特赦    NN                        (NP*   -    -   -   -          *      *        *            *        *            *        *   (ARG0*             *             *     -
+bn/ctv/01/ctv_0125   0   32          委员会    NN                          *))  -    -   -   -          *      *        *            *        *            *        *        *)            *             *     1)
+bn/ctv/01/ctv_0125   0   33            的   DEG                           *)  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   34           建议    NN                    (NP*)))))  -    -   -   -          *      *        *            *        *            *        *)       *             *             *     -
+bn/ctv/01/ctv_0125   0   35            ，    PU                           *   -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   36           并且    AD                   (IP(ADVP*)  -    -   -   -          *      *        *            *        *            *        *        *    (ARGM-DIS*)            *     -
+bn/ctv/01/ctv_0125   0   37           俄方    NN                        (NP*)  -    -   -   -      (NORP)     *        *            *        *            *        *        *        (ARG0*)            *    (6)
+bn/ctv/01/ctv_0125   0   38            也    AD                   (VP(ADVP*)  -    -   -   -          *      *        *            *        *            *        *        *    (ARGM-ADV*)            *     -
+bn/ctv/01/ctv_0125   0   39            不    AD                      (ADVP*)  -    -   -   -          *      *        *            *        *            *        *        *    (ARGM-ADV*)            *     -
+bn/ctv/01/ctv_0125   0   40           希望    VV                        (VP*   -   02   1   -          *      *        *            *        *            *        *        *           (V*)            *     -
+bn/ctv/01/ctv_0125   0   41            俄    NR                  (IP(NP(NP*   -    -   -   -       (GPE)     *        *            *        *            *        *        *        (ARG1*        (ARG0*     -
+bn/ctv/01/ctv_0125   0   42            美    NR                           *)  -    -   -   -       (GPE)     *        *            *        *            *        *        *             *             *     -
+bn/ctv/01/ctv_0125   0   43           关系    NN                       (NP*))  -    -   2   -          *      *        *            *        *            *        *        *             *             *)    -
+bn/ctv/01/ctv_0125   0   44            再    AD                   (VP(ADVP*)  -    -   -   -          *      *        *            *        *            *        *        *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0125   0   45            起    VV                        (VP*   -   05   2   -          *      *        *            *        *            *        *        *             *           (V*)    -
+bn/ctv/01/ctv_0125   0   46           波澜    NN                  (NP*)))))))  -    -   -   -          *      *        *            *        *            *        *        *             *)       (ARG0*)    -
+bn/ctv/01/ctv_0125   0   47            ”    PU                        *))))  -    -   -   -          *      *        *            *        *            *)       *        *             *             *     -
+bn/ctv/01/ctv_0125   0   48            。    PU                          *))  -    -   -   -          *      *        *            *        *            *        *        *             *             *     -
+
+bn/ctv/01/ctv_0125   0    0     据悉   AD   (TOP(IP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)   (ARGM-MNR*)   (ARGM-MNR*)     *         *            *        -
+bn/ctv/01/ctv_0125   0    1      ，   PU               *   -    -   -   -          *             *             *             *      *         *            *        -
+bn/ctv/01/ctv_0125   0    2      俄   NR      (NP(NP(NP*)  -    -   -   -       (GPE)       (ARG0*        (ARG0*        (ARG0*      *         *            *    (5|(6)
+bn/ctv/01/ctv_0125   0    3     总统   NN           (NP*))  -    -   -   -          *             *             *             *      *         *            *        -
+bn/ctv/01/ctv_0125   0    4     普京   NR           (NP*))  -    -   -   -    (PERSON)            *)            *)            *)     *         *            *        5)
+bn/ctv/01/ctv_0125   0    5     ８号   NT         (VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)   (ARGM-TMP*)   (ARGM-TMP*)     *         *            *       (4)
+bn/ctv/01/ctv_0125   0    6      打   VV      (VP(VP(VP*   -   01   2   -          *           (V*)            *             *      *         *            *        -
+bn/ctv/01/ctv_0125   0    7     电话   NN           (NP*))  -    -   2   -          *        (ARG1*)            *             *      *         *            *        -
+bn/ctv/01/ctv_0125   0    8      给   VV            (VP*   -   01   -   -          *             *           (V*)            *      *         *            *        -
+bn/ctv/01/ctv_0125   0    9     美国   NR      (NP(NP(NP*)  -    -   -   -       (GPE)            *        (ARG2*             *      *         *            *       (2)
+bn/ctv/01/ctv_0125   0   10     总统   NN           (NP*))  -    -   -   -          *             *             *             *      *         *            *        -
+bn/ctv/01/ctv_0125   0   11    克林顿   NR         (NP*))))  -    -   -   -    (PERSON)            *             *)            *      *         *            *        -
+bn/ctv/01/ctv_0125   0   12      ，   PU               *   -    -   -   -          *             *             *             *      *         *            *        -
+bn/ctv/01/ctv_0125   0   13     表示   VV            (VP*   -   01   2   -          *             *             *           (V*)     *         *            *        -
+bn/ctv/01/ctv_0125   0   14     俄方   NN         (IP(NP*)  -    -   -   -      (NORP)            *             *        (ARG1*      *         *       (ARG0*)      (6)
+bn/ctv/01/ctv_0125   0   15      会   VV            (VP*   -   01   -   -          *             *             *             *    (V*)        *            *        -
+bn/ctv/01/ctv_0125   0   16      在    P         (VP(PP*   -    -   2   -          *             *             *             *      *         *   (ARGM-TMP*        -
+bn/ctv/01/ctv_0125   0   17     释放   VV     (LCP(IP(VP*   -   01   1   -          *             *             *             *      *       (V*)           *        -
+bn/ctv/01/ctv_0125   0   18     波普   NR          (NP*)))  -    -   -   -    (PERSON)            *             *             *      *    (ARG1*)           *       (0)
+bn/ctv/01/ctv_0125   0   19      前   LC              *))  -    -   -   -          *             *             *             *      *         *            *)       -
+bn/ctv/01/ctv_0125   0   20      为    P            (PP*   -    -   4   -          *             *             *             *      *         *       (ARG2*        -
+bn/ctv/01/ctv_0125   0   21      他   PN           (NP*))  -    -   -   -          *             *             *             *      *         *            *)      (0)
+bn/ctv/01/ctv_0125   0   22     提供   VV            (VP*   -   01   -   -          *             *             *             *      *         *          (V*)       -
+bn/ctv/01/ctv_0125   0   23     医疗   NN            (NP*   -    -   -   -          *             *             *             *      *         *       (ARG1*       (3
+bn/ctv/01/ctv_0125   0   24     服务   NN        *))))))))  -    -   -   -          *             *             *             *)     *         *            *)       3)
+bn/ctv/01/ctv_0125   0   25      。   PU              *))  -    -   -   -          *             *             *             *      *         *            *        -
+
+bn/ctv/01/ctv_0125   0   0     但   AD   (TOP(IP(ADVP*)  -    -   -   -          *    (ARGM-DIS*)    -
+bn/ctv/01/ctv_0125   0   1    波普   NR            (NP*)  -    -   -   -    (PERSON)       (ARG0*)   (0)
+bn/ctv/01/ctv_0125   0   2     已   AD       (VP(ADVP*)  -    -   2   -          *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0125   0   3    拒绝   VV            (VP*   -   01   -   -          *           (V*)    -
+bn/ctv/01/ctv_0125   0   4     了   AS               *   -    -   -   -          *             *     -
+bn/ctv/01/ctv_0125   0   5     这   DT         (NP(DP*   -    -   -   -          *        (ARG1*    (3
+bn/ctv/01/ctv_0125   0   6     一   CD           (QP*))  -    -   -   -          *             *     -
+bn/ctv/01/ctv_0125   0   7    帮助   NN         (NP*))))  -    -   2   -          *             *)    3)
+bn/ctv/01/ctv_0125   0   8     。   PU              *))  -    -   -   -          *             *     -
+
+bn/ctv/01/ctv_0125   0    0     当天   NT   (TOP(IP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)   (ARGM-TMP*)      (4)
+bn/ctv/01/ctv_0125   0    1    俄联邦   NR       (NP(NP*)  -    -   -   -      (ORG*        (ARG0*        (ARG0*    (1|(6)
+bn/ctv/01/ctv_0125   0    2     特赦   NN          (NP*   -    -   -   -          *             *             *        -
+bn/ctv/01/ctv_0125   0    3    委员会   NN            *))  -    -   -   -          *)            *)            *)       1)
+bn/ctv/01/ctv_0125   0    4     作出   VV       (VP(VP*   -   01   -   -          *           (V*)            *        -
+bn/ctv/01/ctv_0125   0    5     决定   NN         (NP*))  -    -   -   -          *        (ARG1*)            *        -
+bn/ctv/01/ctv_0125   0    6      ，   PU             *   -    -   -   -          *             *             *        -
+bn/ctv/01/ctv_0125   0    7      对    P       (VP(PP*   -    -   3   -          *             *        (ARG2*        -
+bn/ctv/01/ctv_0125   0    8     美国   NR    (NP(NP(NP*)  -    -   -   -       (GPE)            *             *    (0|(2)
+bn/ctv/01/ctv_0125   0    9     间谍   NN         (NP*))  -    -   -   -          *             *             *        -
+bn/ctv/01/ctv_0125   0   10     波普   NR        (NP*)))  -    -   -   -    (PERSON)            *             *)       0)
+bn/ctv/01/ctv_0125   0   11     实行   VV          (VP*   -   01   -   -          *             *           (V*)       -
+bn/ctv/01/ctv_0125   0   12     特赦   NN       (NP*))))  -    -   -   -          *             *        (ARG1*)       -
+bn/ctv/01/ctv_0125   0   13      。   PU            *))  -    -   -   -          *             *             *        -
+
+bn/ctv/01/ctv_0125   0    0       据    P     (TOP(IP(PP*   -    -   -   -          *        *   (ARGM-MNR*   (ARGM-MNR*     -
+bn/ctv/01/ctv_0125   0    1     俄罗斯   NR   (IP(NP(NP(NP*)  -    -   -   -       (GPE)  (ARG0*            *            *    (6)
+bn/ctv/01/ctv_0125   0    2      安全   NN            (NP*   -    -   2   -          *        *            *            *     -
+bn/ctv/01/ctv_0125   0    3      会议   NN               *   -    -   -   -          *        *            *            *     -
+bn/ctv/01/ctv_0125   0    4      秘书   NN              *))  -    -   -   -          *        *            *            *     -
+bn/ctv/01/ctv_0125   0    5    伊万诺夫   NR           (NP*))  -    -   -   -    (PERSON)       *)           *            *     -
+bn/ctv/01/ctv_0125   0    6      透露   VV          (VP*)))  -   01   1   -          *      (V*)           *)           *)    -
+bn/ctv/01/ctv_0125   0    7       ，   PU               *   -    -   -   -          *        *            *            *     -
+bn/ctv/01/ctv_0125   0    8      波普   NR            (NP*)  -    -   -   -    (PERSON)       *       (ARG0*)      (ARG0*)   (0)
+bn/ctv/01/ctv_0125   0    9       有   VE         (VP(VP*   -   01   3   -          *        *          (V*)           *     -
+bn/ctv/01/ctv_0125   0   10      可能   NN           (NP*))  -    -   -   -          *        *       (ARG1*)           *     -
+bn/ctv/01/ctv_0125   0   11       在    P         (VP(PP*   -    -   2   -          *        *            *   (ARGM-TMP*     -
+bn/ctv/01/ctv_0125   0   12     圣诞节   NN        (LCP(NP*)  -    -   -   -      (DATE)       *            *            *     -
+bn/ctv/01/ctv_0125   0   13      之前   LC              *))  -    -   -   -          *        *            *            *)    -
+bn/ctv/01/ctv_0125   0   14      回到   VV            (VP*   -   01   -   -          *        *            *          (V*)    -
+bn/ctv/01/ctv_0125   0   15      家里   NN         (NP*))))  -    -   -   -          *        *            *       (ARG1*)    -
+bn/ctv/01/ctv_0125   0   16       。   PU              *))  -    -   -   -          *        *            *            *     -
+
+bn/ctv/01/ctv_0125   0    0       本    DT  (TOP(IP(NP(DP*   -    -   2   -     (DATE*        *   (ARGM-TMP*     -
+bn/ctv/01/ctv_0125   0    1       周     M          (CLP*))  -    -   -   -          *)       *            *     -
+bn/ctv/01/ctv_0125   0    2    早些时候    NN           (NP*))  -    -   -   -          *        *            *)    -
+bn/ctv/01/ctv_0125   0    3      波普    NR            (NP*)  -    -   -   -    (PERSON)       *            *    (0)
+bn/ctv/01/ctv_0125   0    4       因     P         (VP(PP*   -    -   -   -          *        *       (ARG3*     -
+bn/ctv/01/ctv_0125   0    5     间谍罪    NN        (UCP(NP*)  -    -   -   -          *        *            *     -
+bn/ctv/01/ctv_0125   0    6       和    CC               *   -    -   -   -          *        *            *     -
+bn/ctv/01/ctv_0125   0    7      窃取    VV         (IP(VP*   -   01   -   -          *      (V*)           *     -
+bn/ctv/01/ctv_0125   0    8      军事    NN            (NP*   -    -   -   -          *   (ARG1*            *     -
+bn/ctv/01/ctv_0125   0    9      机密    NN           *)))))  -    -   -   -          *        *)           *)    -
+bn/ctv/01/ctv_0125   0   10       而   MSP            (VP*   -    -   -   -          *        *            *     -
+bn/ctv/01/ctv_0125   0   11       被    LB            (VP*   -    -   -   -          *        *            *     -
+bn/ctv/01/ctv_0125   0   12     俄罗斯    NR      (IP(NP(NP*)  -    -   -   -       (GPE)       *       (ARG0*    (6)
+bn/ctv/01/ctv_0125   0   13       一    CD            (QP*   -    -   -   -          *        *            *     -
+bn/ctv/01/ctv_0125   0   14       家     M          (CLP*))  -    -   -   -          *        *            *     -
+bn/ctv/01/ctv_0125   0   15      法院    NN           (NP*))  -    -   -   -          *        *            *)    -
+bn/ctv/01/ctv_0125   0   16      判处    VV            (VP*   -   01   -   -          *        *          (V*)    -
+bn/ctv/01/ctv_0125   0   17      ２０    CD         (NP(QP*   -    -   -   -     (DATE*        *       (ARG2*     -
+bn/ctv/01/ctv_0125   0   18       年     M          (CLP*))  -    -   -   -          *)       *            *     -
+bn/ctv/01/ctv_0125   0   19      监禁    NN      (NP*)))))))  -    -   -   -          *        *            *)    -
+bn/ctv/01/ctv_0125   0   20       。    PU              *))  -    -   -   -          *        *            *     -
+
+bn/ctv/01/ctv_0125   0   0    中央台   NR   (TOP(IP(NP*)  -    -   -   -    (ORG)   (ARG0*)  -
+bn/ctv/01/ctv_0125   0   1     编译   VV      (VP(VSB*   -    -   -   -       *         *   -
+bn/ctv/01/ctv_0125   0   2     报道   VV            *))  -   01   -   -       *       (V*)  -
+bn/ctv/01/ctv_0125   0   3      。   PU            *))  -    -   -   -       *         *   -
+
+#end document

@@ -1,0 +1,459 @@
+#begin document (wb/cmn/00/cmn_0002); part 000
+wb/cmn/00/cmn_0002   0   0    日常中   NN   (TOP(IP(NP*)  -   -   -   -   *   -
+wb/cmn/00/cmn_0002   0   1     如何   AD     (VP(ADVP*)  -   -   -   -   *   -
+wb/cmn/00/cmn_0002   0   2     护肤   VV         (VP*))  -   -   -   -   *   -
+wb/cmn/00/cmn_0002   0   3      ？   PU            *))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0002   0   0    爱美   NN   (TOP(NP*))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0002   0   0    白皙    VA   (TOP(IP(NP(CP(IP(VP(VP*)   白皙  -   -    _爱美_  *    (V*)     *             *   -
+wb/cmn/00/cmn_0002   0   1    细嫩    VV                    (VP*)))   细嫩  -   -    _爱美_  *      *    (V*)            *   -
+wb/cmn/00/cmn_0002   0   2     的   DEC                         *)   -   -   -    _爱美_  *      *      *             *   -
+wb/cmn/00/cmn_0002   0   3    皮肤    NN                     (NP*))   -   -   -    _爱美_  *      *      *             *   -
+wb/cmn/00/cmn_0002   0   4     ，    PU                         *    -   -   -    _爱美_  *      *      *             *   -
+wb/cmn/00/cmn_0002   0   5     谁    PN                      (NP*)   -   -   -    _爱美_  *      *      *        (ARG0*)  -
+wb/cmn/00/cmn_0002   0   6     不    AD                 (VP(ADVP*)   -   -   -    _爱美_  *      *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   7    想要    VV                     (VP*))   想要  -   1    _爱美_  *      *      *           (V*)  -
+wb/cmn/00/cmn_0002   0   8     ？    PU                        *))   -   -   -    _爱美_  *      *      *             *   -
+
+wb/cmn/00/cmn_0002   0    0       但    AD   (TOP(IP(ADVP*)    -   -   -    _爱美_  *    (ARGM-DIS*)     *    (ARGM-DIS*)   (ARGM-DIS*)    -
+wb/cmn/00/cmn_0002   0    1      生活    NN        (LCP(NP*)    -   -   1    _爱美_  *    (ARGM-LOC*      *    (ARGM-LOC*    (ARGM-LOC*     -
+wb/cmn/00/cmn_0002   0    2       中    LC               *)    -   -   -    _爱美_  *             *)     *             *)            *)    -
+wb/cmn/00/cmn_0002   0    3       ，    PU               *     -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0    4      我们    PN     (NP(DNP(NP*)    -   -   -    _爱美_  *        (ARG0*      *        (ARG0*        (ARG0*    (0)
+wb/cmn/00/cmn_0002   0    5       的   DEG               *)    -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0    6      皮肤    NN           (NP*))    -   -   -    _爱美_  *             *)     *             *)            *)    -
+wb/cmn/00/cmn_0002   0    7       却    AD    (VP(VP(ADVP*)    -   -   -    _爱美_  *    (ARGM-DIS*)     *             *             *     -
+wb/cmn/00/cmn_0002   0    8      时常    AD          (ADVP*)    -   -   -    _爱美_  *    (ARGM-ADV*)     *             *             *     -
+wb/cmn/00/cmn_0002   0    9       和     P            (PP*     -   -   -    _爱美_  *        (ARG0*      *             *             *     -
+wb/cmn/00/cmn_0002   0   10      我们    PN           (NP*))    -   -   -    _爱美_  *             *)     *             *             *    (0)
+wb/cmn/00/cmn_0002   0   11     过不去    VV           (VP*))   过不去  -   -    _爱美_  *           (V*)     *             *             *     -
+wb/cmn/00/cmn_0002   0   12       ，    PU               *     -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0   13       不    AD    (VP(VP(ADVP*)    -   -   -    _爱美_  *             *      *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0002   0   14       是    VC            (VP*      是  -   2    _爱美_  *             *    (V*)            *             *     -
+wb/cmn/00/cmn_0002   0   15       长    VV            (VP*      长  -   1    _爱美_  *             *      *           (V*)            *     -
+wb/cmn/00/cmn_0002   0   16       着    AS               *     -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0   17       一    CD         (NP(QP*     -   -   -    _爱美_  *             *      *        (ARG1*             *     -
+wb/cmn/00/cmn_0002   0   18       副     M          (CLP*))    -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0   19      黑红    JJ          (ADJP*)    -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0   20      面孔    NN        (NP*)))))    -   -   -    _爱美_  *             *      *             *)            *     -
+wb/cmn/00/cmn_0002   0   21       ，    PU               *     -   -   -    _爱美_  *             *      *             *             *     -
+wb/cmn/00/cmn_0002   0   22       就    AD       (VP(ADVP*)    -   -   8    _爱美_  *             *      *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0002   0   23       是    VC            (VP*      是  -   1    _爱美_  *             *      *             *           (V*)    -
+wb/cmn/00/cmn_0002   0   24    晦暗苍白    NN        (NP*)))))    -   -   -    _爱美_  *             *      *             *        (ARG1*)    -
+wb/cmn/00/cmn_0002   0   25       。    PU              *))    -   -   -    _爱美_  *             *      *             *             *     -
+
+wb/cmn/00/cmn_0002   0   0    怎么办   VV   (TOP(IP(VP*)   怎么办  -   -    _爱美_  *    (V*)  -
+wb/cmn/00/cmn_0002   0   1      ？   PU            *))    -   -   -    _爱美_  *      *   -
+
+wb/cmn/00/cmn_0002   0    0    适当    AD   (TOP(IP(IP(VP(ADVP*)   -   -   -    _爱美_  *    (ARGM-ADV*)     *        (ARG0*        *   -
+wb/cmn/00/cmn_0002   0    1    改变    VV                  (VP*    改变  -   -    _爱美_  *           (V*)     *             *        *   -
+wb/cmn/00/cmn_0002   0    2    一下    AD                (ADVP*)   -   -   -    _爱美_  *    (ARGM-ADV*)     *             *        *   -
+wb/cmn/00/cmn_0002   0    3    饮食    NN                  (NP*    -   -   -    _爱美_  *        (ARG1*      *             *        *   -
+wb/cmn/00/cmn_0002   0    4    结构    NN                  *))))   -   -   1    _爱美_  *             *)     *             *)       *   -
+wb/cmn/00/cmn_0002   0    5     ，    PU                     *    -   -   -    _爱美_  *             *      *             *        *   -
+wb/cmn/00/cmn_0002   0    6     就    AD             (VP(ADVP*)   -   -   2    _爱美_  *             *      *    (ARGM-ADV*)       *   -
+wb/cmn/00/cmn_0002   0    7    可能    VV                  (VP*    可能  -   -    _爱美_  *             *    (V*)            *        *   -
+wb/cmn/00/cmn_0002   0    8     使    VV                  (VP*     使  -   1    _爱美_  *             *      *           (V*)       *   -
+wb/cmn/00/cmn_0002   0    9    皮肤    NN                  (NP*)   -   -   -    _爱美_  *             *      *        (ARG1*)       *   -
+wb/cmn/00/cmn_0002   0   10    得到    VV               (IP(VP*    得到  -   -    _爱美_  *             *      *        (ARG2*      (V*)  -
+wb/cmn/00/cmn_0002   0   11     很    AD    (NP(DNP(ADJP(ADVP*)   -   -   -    _爱美_  *             *      *             *   (ARG1*   -
+wb/cmn/00/cmn_0002   0   12     大    JJ               (ADJP*))   -   -   -    _爱美_  *             *      *             *        *   -
+wb/cmn/00/cmn_0002   0   13     的   DEG                     *)   -   -   -    _爱美_  *             *      *             *        *   -
+wb/cmn/00/cmn_0002   0   14    改善    NN            (NP*)))))))   -   -   -    _爱美_  *             *      *             *)       *)  -
+wb/cmn/00/cmn_0002   0   15     。    PU                    *))   -   -   -    _爱美_  *             *      *             *        *   -
+
+wb/cmn/00/cmn_0002   0    0     你    PN   (TOP(IP(IP(NP(DNP(NP*)   -   -   -    _爱美_  *        (ARG0*      *        *             *   -
+wb/cmn/00/cmn_0002   0    1     的   DEG                       *)   -   -   -    _爱美_  *             *      *        *             *   -
+wb/cmn/00/cmn_0002   0    2    皮肤    NN                   (NP*))   -   -   -    _爱美_  *             *)     *        *             *   -
+wb/cmn/00/cmn_0002   0    3    哪里    AD               (VP(ADVP*)   -   -   -    _爱美_  *    (ARGM-ADV*)     *        *             *   -
+wb/cmn/00/cmn_0002   0    4     不    AD                  (ADVP*)   -   -   -    _爱美_  *    (ARGM-ADV*)     *        *             *   -
+wb/cmn/00/cmn_0002   0    5     好    VA                  (VP*)))    好  -   1    _爱美_  *           (V*)     *        *             *   -
+wb/cmn/00/cmn_0002   0    6     ，    PU                       *    -   -   -    _爱美_  *             *      *        *             *   -
+wb/cmn/00/cmn_0002   0    7    应该    VV                 (IP(VP*    应该  -   -    _爱美_  *             *    (V*)       *             *   -
+wb/cmn/00/cmn_0002   0    8     是    VC                    (VP*     是  -   1    _爱美_  *             *      *      (V*)            *   -
+wb/cmn/00/cmn_0002   0    9    对症    NN             (IP(LCP(NP*)   -   -   -    _爱美_  *             *      *   (ARG1*    (ARGM-LOC*   -
+wb/cmn/00/cmn_0002   0   10     下    LC                       *)   -   -   1    _爱美_  *             *      *        *             *)  -
+wb/cmn/00/cmn_0002   0   11     ＂    PU                    (NP*    -   -   -    _爱美_  *             *      *        *        (ARG0*   -
+wb/cmn/00/cmn_0002   0   12     菜    NN                       *    -   -   -    _爱美_  *             *      *        *             *   -
+wb/cmn/00/cmn_0002   0   13     ＂    PU                       *)   -   -   -    _爱美_  *             *      *        *             *)  -
+wb/cmn/00/cmn_0002   0   14     才    AD               (VP(ADVP*)   -   -   -    _爱美_  *             *      *        *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   15     行    VV               (VP*))))))    行  -   1    _爱美_  *             *      *        *)          (V*)  -
+wb/cmn/00/cmn_0002   0   16     。    PU                      *))   -   -   -    _爱美_  *             *      *        *             *   -
+
+wb/cmn/00/cmn_0002   0    0      红   JJ   (TOP(IP(NP(ADJP*)   -   -   1    _爱美_  *      *        *             *       (ARG0*    (1
+wb/cmn/00/cmn_0002   0    1     脸膛   NN              (NP*))   -   -   -    _爱美_  *      *        *             *            *)    1)
+wb/cmn/00/cmn_0002   0    2      ：   PU                  *    -   -   -    _爱美_  *      *        *             *            *     -
+wb/cmn/00/cmn_0002   0    3      这   PN               (NP*)   -   -   -    _爱美_  *      *        *             *       (ARG0*)   (1)
+wb/cmn/00/cmn_0002   0    4      是   VC               (VP*     是  -   1    _爱美_  *    (V*)       *             *            *     -
+wb/cmn/00/cmn_0002   0    5     由于    P            (VP(PP*    -   -   -    _爱美_  *      *        *             *   (ARGM-PRP*     -
+wb/cmn/00/cmn_0002   0    6     摄取   VV         (IP(IP(VP*    摄取  -   -    _爱美_  *      *      (V*)            *            *     -
+wb/cmn/00/cmn_0002   0    7    动物性   NN               (NP*    -   -   -    _爱美_  *      *   (ARG1*             *            *     -
+wb/cmn/00/cmn_0002   0    8     脂肪   NN                *)))   -   -   -    _爱美_  *      *        *)            *            *     -
+wb/cmn/00/cmn_0002   0    9      和   CC                  *    -   -   -    _爱美_  *      *        *             *            *     -
+wb/cmn/00/cmn_0002   0   10    蛋白质   NN            (IP(NP*)   -   -   -    _爱美_  *      *        *        (ARG0*)           *     -
+wb/cmn/00/cmn_0002   0   11      过   AD          (VP(ADVP*)   -   -   7    _爱美_  *      *        *    (ARGM-ADV*)           *     -
+wb/cmn/00/cmn_0002   0   12      多   VA           (VP*)))))    多  -   3    _爱美_  *      *        *           (V*)           *)    -
+wb/cmn/00/cmn_0002   0   13     所致   VV             (VP*)))   所致  -   -    _爱美_  *      *        *             *          (V*)    -
+wb/cmn/00/cmn_0002   0   14      。   PU                 *))   -   -   -    _爱美_  *      *        *             *            *     -
+
+wb/cmn/00/cmn_0002   0    0     治疗    NN  (TOP(IP(IP(IP(NP*    -   -   -    _爱美_  *      *        *        *      *        (ARG0*             *   -
+wb/cmn/00/cmn_0002   0    1     方法    NN                  *)   -   -   -    _爱美_  *      *        *        *      *             *)            *   -
+wb/cmn/00/cmn_0002   0    2      是    VC               (VP*     是  -   1    _爱美_  *    (V*)       *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0    3      ，    PU                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0    4      在     P            (VP(PP*    -   -   2    _爱美_  *      *        *        *      *    (ARGM-TMP*             *   -
+wb/cmn/00/cmn_0002   0    5     食用    VV        (LCP(IP(VP*    食用  -   -    _爱美_  *      *      (V*)       *      *             *             *   -
+wb/cmn/00/cmn_0002   0    6      含    VV         (NP(IP(VP*     含  -   -    _爱美_  *      *   (ARG1*      (V*)     *             *             *   -
+wb/cmn/00/cmn_0002   0    7    动物性    NN            (NP(NP*    -   -   -    _爱美_  *      *        *   (ARG1*      *             *             *   -
+wb/cmn/00/cmn_0002   0    8     脂肪    NN                  *)   -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0    9      和    CC                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   10    蛋白质    NN                *)))   -   -   -    _爱美_  *      *        *        *)     *             *             *   -
+wb/cmn/00/cmn_0002   0   11     食物    NN            (NP*))))   -   -   -    _爱美_  *      *        *)       *      *             *             *   -
+wb/cmn/00/cmn_0002   0   12      时    LC                 *))   -   -   -    _爱美_  *      *        *        *      *             *)            *   -
+wb/cmn/00/cmn_0002   0   13      ，    PU                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   14     一定    AD             (ADVP*)   -   -   -    _爱美_  *      *        *        *      *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0002   0   15      要    VV               (VP*     要  -   3    _爱美_  *      *        *        *    (V*)            *             *   -
+wb/cmn/00/cmn_0002   0   16     辅以    AD          (VP(ADVP*)   -   -   -    _爱美_  *      *        *        *      *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0002   0   17      含    VV               (VP*     含  -   -    _爱美_  *      *        *        *      *           (V*)            *   -
+wb/cmn/00/cmn_0002   0   18     大量    CD     (NP(DNP(NP(QP*)   -   -   -    _爱美_  *      *        *        *      *        (ARG1*             *   -
+wb/cmn/00/cmn_0002   0   19    叶绿素    NN              (NP*))   -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   20      的   DEG                  *)   -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   21     蔬菜    NN        (NP*))))))))   -   -   -    _爱美_  *      *        *        *      *             *)            *   -
+wb/cmn/00/cmn_0002   0   22      ，    PU                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   23      如     P               (PP*    -   -   1    _爱美_  *      *        *        *      *    (ARGM-ADV*             *   -
+wb/cmn/00/cmn_0002   0   24     菠菜    NN               (NP*    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   25      、    PU                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   26     芹菜    NN                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   27      、    PU                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   28     莴苣    NN                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   29      等   ETC                *)))   -   -   2    _爱美_  *      *        *        *      *             *)            *   -
+wb/cmn/00/cmn_0002   0   30      ，    PU                  *    -   -   -    _爱美_  *      *        *        *      *             *             *   -
+wb/cmn/00/cmn_0002   0   31     生吃    NN            (IP(NP*    -   -   -    _爱美_  *      *        *        *      *             *        (ARG0*   -
+wb/cmn/00/cmn_0002   0   32     效果    NN                  *)   -   -   -    _爱美_  *      *        *        *      *             *             *)  -
+wb/cmn/00/cmn_0002   0   33      更    AD          (VP(ADVP*)   -   -   -    _爱美_  *      *        *        *      *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   34      好    VA             (VP*)))    好  -   1    _爱美_  *      *        *        *      *             *           (V*)  -
+wb/cmn/00/cmn_0002   0   35      。    PU                 *))   -   -   -    _爱美_  *      *        *        *      *             *             *   -
+
+wb/cmn/00/cmn_0002   0    0     也   AD   (TOP(IP(VP(ADVP*)   -   -   -    _爱美_  *      *    (ARGM-ADV*)   (ARGM-DIS*)  -
+wb/cmn/00/cmn_0002   0    1     可   VV               (VP*     可  -   1    _爱美_  *    (V*)            *             *   -
+wb/cmn/00/cmn_0002   0    2     将   BA            (VP(VP*    -   -   -    _爱美_  *      *             *             *   -
+wb/cmn/00/cmn_0002   0    3    蔬菜   NN            (IP(NP*)   -   -   -    _爱美_  *      *        (ARG1*)            *   -
+wb/cmn/00/cmn_0002   0    4    切碎   VV             (VP*)))   切碎  -   -    _爱美_  *      *           (V*)            *   -
+wb/cmn/00/cmn_0002   0    5     ，   PU                  *    -   -   -    _爱美_  *      *             *             *   -
+wb/cmn/00/cmn_0002   0    6     用    P            (VP(PP*    -   -   5    _爱美_  *      *             *    (ARGM-MNR*   -
+wb/cmn/00/cmn_0002   0    7    布包   NN               (NP*    -   -   -    _爱美_  *      *             *             *   -
+wb/cmn/00/cmn_0002   0    8    挤汁   NN                 *))   -   -   -    _爱美_  *      *             *             *)  -
+wb/cmn/00/cmn_0002   0    9    饮用   VV           (VP*)))))   饮用  -   -    _爱美_  *      *             *           (V*)  -
+wb/cmn/00/cmn_0002   0   10     。   PU                 *))   -   -   -    _爱美_  *      *             *             *   -
+
+wb/cmn/00/cmn_0002   0    0     赤红   JJ   (TOP(IP(IP(NP(ADJP*)   -   -   -    _爱美_  *    (ARG0*             *             *   -
+wb/cmn/00/cmn_0002   0    1      脸   NN                 (NP*))   -   -   -    _爱美_  *         *)            *             *   -
+wb/cmn/00/cmn_0002   0    2      ：   PU                     *    -   -   -    _爱美_  *         *             *             *   -
+wb/cmn/00/cmn_0002   0    3     原因   NN                  (NP*)   -   -   -    _爱美_  *    (ARG0*)            *             *   -
+wb/cmn/00/cmn_0002   0    4      是   VC                  (VP*     是  -   1    _爱美_  *       (V*)            *             *   -
+wb/cmn/00/cmn_0002   0    5     血液   NN               (IP(NP*    -   -   -    _爱美_  *    (ARG1*        (ARG0*             *   -
+wb/cmn/00/cmn_0002   0    6     循环   NN                     *)   -   -   -    _爱美_  *         *             *)            *   -
+wb/cmn/00/cmn_0002   0    7      不   AD             (VP(ADVP*)   -   -   -    _爱美_  *         *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0002   0    8      好   VA              (VP*)))))    好  -   1    _爱美_  *         *)          (V*)            *   -
+wb/cmn/00/cmn_0002   0    9      ，   PU                     *    -   -   -    _爱美_  *         *             *             *   -
+wb/cmn/00/cmn_0002   0   10    特别是   AD             (IP(ADVP*)   -   -   -    _爱美_  *         *             *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0002   0   11     末梢   NN                  (NP*    -   -   -    _爱美_  *         *             *        (ARG0*   -
+wb/cmn/00/cmn_0002   0   12     细胞   NN                     *)   -   -   -    _爱美_  *         *             *             *)  -
+wb/cmn/00/cmn_0002   0   13     血液   NN               (VP(NP*)   -   -   -    _爱美_  *         *             *    (ARGM-LOC*)  -
+wb/cmn/00/cmn_0002   0   14      不   AD                (ADVP*)   -   -   -    _爱美_  *         *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   15     畅通   VV                (VP*)))   畅通  -   -    _爱美_  *         *             *           (V*)  -
+wb/cmn/00/cmn_0002   0   16      。   PU                    *))   -   -   -    _爱美_  *         *             *             *   -
+
+wb/cmn/00/cmn_0002   0    0      当     P   (TOP(IP(PP*    -   -   4    _爱美_  *         *   (ARGM-TMP*    (ARGM-TMP*   -
+wb/cmn/00/cmn_0002   0    1     天气    NN   (LCP(IP(NP*)   -   -   -    _爱美_  *    (ARG0*)           *             *   -
+wb/cmn/00/cmn_0002   0    2     寒冷    VA         (VP*))   寒冷  -   -    _爱美_  *       (V*)           *             *   -
+wb/cmn/00/cmn_0002   0    3      时    LC            *))   -   -   -    _爱美_  *         *            *)            *)  -
+wb/cmn/00/cmn_0002   0    4      ，    PU             *    -   -   -    _爱美_  *         *            *             *   -
+wb/cmn/00/cmn_0002   0    5      人    NN   (NP(DNP(NP*)   -   -   1    _爱美_  *         *       (ARG0*        (ARG0*   -
+wb/cmn/00/cmn_0002   0    6      的   DEG             *)   -   -   -    _爱美_  *         *            *             *   -
+wb/cmn/00/cmn_0002   0    7     面颊    NN         (NP*))   -   -   -    _爱美_  *         *            *)            *)  -
+wb/cmn/00/cmn_0002   0    8     赤红    VV       (VP(VP*)   赤红  -   -    _爱美_  *         *          (V*)            *   -
+wb/cmn/00/cmn_0002   0    9      ，    PU             *    -   -   -    _爱美_  *         *            *             *   -
+wb/cmn/00/cmn_0002   0   10    尤其是    AD     (VP(ADVP*)   -   -   -    _爱美_  *         *            *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   11     鼻尖    VV          (VP*    鼻尖  -   -    _爱美_  *         *            *           (V*)  -
+wb/cmn/00/cmn_0002   0   12     部位    NN       (NP*))))   -   -   -    _爱美_  *         *            *        (ARG1*)  -
+wb/cmn/00/cmn_0002   0   13      。    PU            *))   -   -   -    _爱美_  *         *            *             *   -
+
+wb/cmn/00/cmn_0002   0    0    治疗    NN      (TOP(IP(NP*    -   -   -    _爱美_  *   (ARG0*             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    1    方法    NN                *)   -   -   -    _爱美_  *        *)            *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    2     是    VC             (VP*     是  -   1    _爱美_  *      (V*)            *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    3     ：    PU                *    -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    4    1     CD      (IP(IP(LST*)   -   -   -    _爱美_  *   (ARG1*             *             *    (ARGM-DIS*)        *      *      *    (ARGM-ADV*   (ARG0*   -
+wb/cmn/00/cmn_0002   0    5     ．    PU                *    -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    6    经常    AD     (VP(VP(ADVP*)   -   -   -    _爱美_  *        *    (ARGM-ADV*)   (ARGM-ADV*)            *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    7    洗澡    VV          (VP(VP*)   洗澡  -   -    _爱美_  *        *           (V*)            *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    8     和    CC                *    -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0    9    按摩    VV           (VP*)))   按摩  -   -    _爱美_  *        *             *           (V*)            *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0   10     ，    PU                *    -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0   11     使    VV             (VP*     使  -   1    _爱美_  *        *             *             *           (V*)        *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0   12    血液    NN             (NP*)   -   -   -    _爱美_  *        *             *             *        (ARG1*)   (ARG1*)     *      *             *        *   -
+wb/cmn/00/cmn_0002   0   13    流通    NN          (IP(NP*)   -   -   -    _爱美_  *        *             *             *        (ARG2*    (ARG0*)     *      *             *        *   -
+wb/cmn/00/cmn_0002   0   14    畅快    VA         (VP*)))))   畅快  -   -    _爱美_  *        *             *             *             *)      (V*)     *      *             *)       *)  -
+wb/cmn/00/cmn_0002   0   15     ，    PU                *    -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0   16     对     P          (VP(PP*    -   -   3    _爱美_  *        *             *             *             *         *      *      *             *   (ARG1*   -
+wb/cmn/00/cmn_0002   0   17     红    VA   (NP(CP(IP(VP*))    红  -   1    _爱美_  *        *             *             *             *         *    (V*)     *             *        *   -
+wb/cmn/00/cmn_0002   0   18     的   DEC                *)   -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+wb/cmn/00/cmn_0002   0   19    部位    NN           (NP*)))   -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *)  -
+wb/cmn/00/cmn_0002   0   20     要    VV          (VP(VP*     要  -   3    _爱美_  *        *             *             *             *         *      *    (V*)            *        *   -
+wb/cmn/00/cmn_0002   0   21     多    AD        (VP(ADVP*)   -   -   8    _爱美_  *        *             *             *             *         *      *      *    (ARGM-ADV*)       *   -
+wb/cmn/00/cmn_0002   0   22     做    VV           (VP*)))    做  -   9    _爱美_  *        *             *             *             *         *      *      *           (V*)       *   -
+wb/cmn/00/cmn_0002   0   23    按摩    VV         (VP*)))))   按摩  -   -    _爱美_  *        *)            *             *             *         *      *      *             *      (V*)  -
+wb/cmn/00/cmn_0002   0   24     ；    PU               *))   -   -   -    _爱美_  *        *             *             *             *         *      *      *             *        *   -
+
+wb/cmn/00/cmn_0002   0    0       2     CD          (TOP(IP(LST*)   -   -   -    _爱美_  *         *    (ARGM-DIS*)            *      *             *        *      *    (ARGM-DIS*)        *   -
+wb/cmn/00/cmn_0002   0    1        ．    PU                     *    -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0    2        为     P                  (PP*    -   -   5    _爱美_  *         *             *             *      *             *        *      *    (ARGM-PRP*         *   -
+wb/cmn/00/cmn_0002   0    3        使    VV               (IP(VP*     使  -   1    _爱美_  *       (V*)            *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0    4       体内    NN                  (NP*)   -   -   -    _爱美_  *    (ARG1*)            *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0    5        更    AD   (IP(VP(DVP(VP(ADVP*)   -   -   -    _爱美_  *    (ARG2*    (ARGM-ADV*)   (ARGM-ADV*      *    (ARGM-ADV*        *      *             *         *   -
+wb/cmn/00/cmn_0002   0    6        好    VA                 (VP*))    好  -   1    _爱美_  *         *           (V*)            *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0    7        地   DEV                     *)   -   -   -    _爱美_  *         *             *             *)     *             *)       *      *             *         *   -
+wb/cmn/00/cmn_0002   0    8       充分    AD          (VP(VP(ADVP*)   -   -   -    _爱美_  *         *             *    (ARGM-ADV*)     *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0    9       吸收    VV                  (VP*    吸收  -   -    _爱美_  *         *             *           (V*)     *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   10      蛋白质    NN                (NP*)))   -   -   -    _爱美_  *         *             *        (ARG1*)     *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   11        ，    PU                     *    -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   12        要    VV                  (VP*     要  -   3    _爱美_  *         *             *             *    (V*)            *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   13       大量    AD             (VP(ADVP*)   -   -   -    _爱美_  *         *             *             *      *    (ARGM-ADV*)       *      *             *         *   -
+wb/cmn/00/cmn_0002   0   14       食用    VV                  (VP*    食用  -   -    _爱美_  *         *             *             *      *           (V*)       *      *             *         *   -
+wb/cmn/00/cmn_0002   0   15        含    VV         (NP(CP(IP(VP*     含  -   -    _爱美_  *         *             *             *      *        (ARG1*      (V*)     *             *         *   -
+wb/cmn/00/cmn_0002   0   16   维生素B1     NN                  (NP*    -   -   -    _爱美_  *         *             *             *      *             *   (ARG1*      *             *         *   -
+wb/cmn/00/cmn_0002   0   17        、    PU                     *    -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   18     维生素C    NN                   *)))   -   -   -    _爱美_  *         *             *             *      *             *        *)     *             *         *   -
+wb/cmn/00/cmn_0002   0   19        的   DEC                     *)   -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   20       食物    NN        (NP*)))))))))))   -   -   -    _爱美_  *         *)            *             *      *             *)       *      *             *)        *   -
+wb/cmn/00/cmn_0002   0   21        ，    PU                     *    -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   22       通过     P               (VP(PP*    -   -   4    _爱美_  *         *             *             *      *             *        *      *    (ARGM-MNR*         *   -
+wb/cmn/00/cmn_0002   0   23       日光    NN                  (NP*    -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+wb/cmn/00/cmn_0002   0   24       照晒    NN                    *))   -   -   -    _爱美_  *         *             *             *      *             *        *      *             *)        *   -
+wb/cmn/00/cmn_0002   0   25        可    VV                  (VP*     可  -   1    _爱美_  *         *             *             *      *             *        *    (V*)            *         *   -
+wb/cmn/00/cmn_0002   0   26       帮助    VV                  (VP*    帮助  -   1    _爱美_  *         *             *             *      *             *        *      *           (V*)        *   -
+wb/cmn/00/cmn_0002   0   27       吸收    VV               (IP(VP*    吸收  -   -    _爱美_  *         *             *             *      *             *        *      *        (ARG1*       (V*)  -
+wb/cmn/00/cmn_0002   0   28     维生素D    NN             (NP*))))))   -   -   -    _爱美_  *         *             *             *      *             *        *      *             *)   (ARG1*)  -
+wb/cmn/00/cmn_0002   0   29        。    PU                    *))   -   -   -    _爱美_  *         *             *             *      *             *        *      *             *         *   -
+
+wb/cmn/00/cmn_0002   0    0     油脂   NN    (TOP(IP(NP*    -   -   -    _爱美_  *    (ARG0*        *    (2
+wb/cmn/00/cmn_0002   0    1     黑脸   NN              *)   -   -   -    _爱美_  *         *)       *     2)
+wb/cmn/00/cmn_0002   0    2      ：   PU              *    -   -   -    _爱美_  *         *        *     -
+wb/cmn/00/cmn_0002   0    3      这   PN           (NP*)   -   -   -    _爱美_  *    (ARG0*)       *    (2)
+wb/cmn/00/cmn_0002   0    4      是   VC           (VP*     是  -   1    _爱美_  *       (V*)       *     -
+wb/cmn/00/cmn_0002   0    5     由于    P           (PP*    -   -   -    _爱美_  *    (ARG1*        *     -
+wb/cmn/00/cmn_0002   0    6     过量   JJ   (IP(NP(ADJP*)   -   -   -    _爱美_  *         *   (ARG0*     -
+wb/cmn/00/cmn_0002   0    7     食用   NN           (NP*    -   -   -    _爱美_  *         *        *     -
+wb/cmn/00/cmn_0002   0    8    动物油   NN              *    -   -   -    _爱美_  *         *        *     -
+wb/cmn/00/cmn_0002   0    9      和   CC              *    -   -   -    _爱美_  *         *        *     -
+wb/cmn/00/cmn_0002   0   10    植物油   NN             *))   -   -   -    _爱美_  *         *        *)    -
+wb/cmn/00/cmn_0002   0   11     所致   VV        (VP*))))   所致  -   -    _爱美_  *         *)     (V*)    -
+wb/cmn/00/cmn_0002   0   12      。   PU             *))   -   -   -    _爱美_  *         *        *     -
+
+wb/cmn/00/cmn_0002   0    0      治疗    NN    (TOP(IP(NP*    -   -   -    _爱美_  *      *        (ARG0*        (ARG0*         *   -
+wb/cmn/00/cmn_0002   0    1      方法    NN              *)   -   -   -    _爱美_  *      *             *)            *)        *   -
+wb/cmn/00/cmn_0002   0    2       是    VC          (DFL*)    是  -   1    _爱美_  *    (V*)   (ARGM-ADV*)   (ARGM-ADV*)        *   -
+wb/cmn/00/cmn_0002   0    3       ，    PU              *    -   -   -    _爱美_  *      *             *             *         *   -
+wb/cmn/00/cmn_0002   0    4      控制    VV        (VP(VP*    控制  -   -    _爱美_  *      *           (V*)            *         *   -
+wb/cmn/00/cmn_0002   0    5    动植物油    NN    (NP(DNP(NP*)   -   -   -    _爱美_  *      *        (ARG1*             *         *   -
+wb/cmn/00/cmn_0002   0    6       的   DEG              *)   -   -   -    _爱美_  *      *             *             *         *   -
+wb/cmn/00/cmn_0002   0    7     食用量    NN         (NP*)))   -   -   -    _爱美_  *      *             *)            *         *   -
+wb/cmn/00/cmn_0002   0    8       ，    PU              *    -   -   -    _爱美_  *      *             *             *         *   -
+wb/cmn/00/cmn_0002   0    9       多    AD      (VP(ADVP*)   -   -   7    _爱美_  *      *             *    (ARGM-ADV*)        *   -
+wb/cmn/00/cmn_0002   0   10       吃    VV           (VP*     吃  -   1    _爱美_  *      *             *           (V*)        *   -
+wb/cmn/00/cmn_0002   0   11       含    VV  (NP(CP(IP(VP*     含  -   -    _爱美_  *      *             *        (ARG1*       (V*)  -
+wb/cmn/00/cmn_0002   0   12     叶绿素    NN         (NP*)))   -   -   -    _爱美_  *      *             *             *    (ARG1*)  -
+wb/cmn/00/cmn_0002   0   13       的   DEC              *)   -   -   -    _爱美_  *      *             *             *         *   -
+wb/cmn/00/cmn_0002   0   14      蔬菜    NN       (NP*)))))   -   -   -    _爱美_  *      *             *             *)        *   -
+wb/cmn/00/cmn_0002   0   15       。    PU             *))   -   -   -    _爱美_  *      *             *             *         *   -
+
+wb/cmn/00/cmn_0002   0    0     吃饭    NN   (TOP(IP(IP(LCP(NP*)  -   -   -    _爱美_  *   (ARGM-TMP*            *             *   -
+wb/cmn/00/cmn_0002   0    1      前    LC                    *)  -   -   -    _爱美_  *            *)           *             *   -
+wb/cmn/00/cmn_0002   0    2      喝    VV                 (VP*    喝  -   -    _爱美_  *          (V*)           *             *   -
+wb/cmn/00/cmn_0002   0    3      一    CD              (NP(QP*   -   -   -    _爱美_  *       (ARG1*            *             *   -
+wb/cmn/00/cmn_0002   0    4      杯     M               (CLP*))  -   -   -    _爱美_  *            *            *             *   -
+wb/cmn/00/cmn_0002   0    5      用     P        (CP(IP(VP(PP*   -   -   1    _爱美_  *            *   (ARGM-MNR*             *   -
+wb/cmn/00/cmn_0002   0    6    温开水    NN                (NP*))  -   -   -    _爱美_  *            *            *)            *   -
+wb/cmn/00/cmn_0002   0    7      沏    VV               (VP*)))   沏  -   -    _爱美_  *            *          (V*)            *   -
+wb/cmn/00/cmn_0002   0    8      的   DEC                    *)  -   -   -    _爱美_  *            *            *             *   -
+wb/cmn/00/cmn_0002   0    9    菜末汁    NN              (NP*))))  -   -   -    _爱美_  *            *)           *             *   -
+wb/cmn/00/cmn_0002   0   10      ，    PU                    *   -   -   -    _爱美_  *            *            *             *   -
+wb/cmn/00/cmn_0002   0   11     效果    NN              (IP(NP*)  -   -   -    _爱美_  *            *            *        (ARG0*)  -
+wb/cmn/00/cmn_0002   0   12      更    AD            (VP(ADVP*)  -   -   -    _爱美_  *            *            *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   13      好    VA               (VP*)))   好  -   1    _爱美_  *            *            *           (V*)  -
+wb/cmn/00/cmn_0002   0   14      。    PU                   *))  -   -   -    _爱美_  *            *            *             *   -
+
+wb/cmn/00/cmn_0002   0    0      面部    NN        (TOP(IP(NP*    -   -   -    _爱美_  *        *        (ARG0*             *             *   -
+wb/cmn/00/cmn_0002   0    1      黑色    NN                  *)   -   -   -    _爱美_  *        *             *)            *             *   -
+wb/cmn/00/cmn_0002   0    2       ：    PU                  *    -   -   -    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    3    一般来说    AD       (IP(IP(ADVP*)   -   -   -    _爱美_  *        *    (ARGM-ADV*)   (ARGM-ADV*)       (ARG0*   -
+wb/cmn/00/cmn_0002   0    4       ，    PU                  *    -   -   -    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    5      食盐    VV      (NP(CP(IP(VP*    食盐  -   -    _爱美_  *      (V*)       (ARG0*        (ARG0*             *   -
+wb/cmn/00/cmn_0002   0    6       过    AD   (NP(DNP(QP(ADVP*)   -   -   1    _爱美_  *   (ARG1*             *             *             *   -
+wb/cmn/00/cmn_0002   0    7       多    CD              (QP*))   -   -   3    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    8       的   DEG                  *)   -   -   -    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    9       人    NN           (NP*)))))   -   -   1    _爱美_  *        *)            *             *             *   -
+wb/cmn/00/cmn_0002   0   10      肌肤    NN              (NP*))   -   -   -    _爱美_  *        *             *)            *)            *   -
+wb/cmn/00/cmn_0002   0   11      粗糙    VA            (VP(VP*)   粗糙  -   -    _爱美_  *        *           (V*)            *             *   -
+wb/cmn/00/cmn_0002   0   12      发黑    VV             (VP*)))   发黑  -   -    _爱美_  *        *             *           (V*)            *)  -
+wb/cmn/00/cmn_0002   0   13       ，    PU                  *    -   -   -    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   14       经     P            (VP(PP*    -   -   -    _爱美_  *        *             *             *    (ARGM-ADV*   -
+wb/cmn/00/cmn_0002   0   15      阳光    NN           (LCP(NP*    -   -   -    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   16      照晒    NN                  *)   -   -   -    _爱美_  *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   17       后    LC                 *))   -   -   -    _爱美_  *        *             *             *             *)  -
+wb/cmn/00/cmn_0002   0   18       更    AD             (ADVP*)   -   -   -    _爱美_  *        *             *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   19      厉害    VA             (VP*)))   厉害  -   -    _爱美_  *        *             *             *           (V*)  -
+wb/cmn/00/cmn_0002   0   20       。    PU                 *))   -   -   -    _爱美_  *        *             *             *             *   -
+
+wb/cmn/00/cmn_0002   0    0      手   NN  (TOP(IP(NP*    -   -   -    _爱美_  *   (ARG0*      *            *   -
+wb/cmn/00/cmn_0002   0    1      、   PU            *    -   -   -    _爱美_  *        *      *            *   -
+wb/cmn/00/cmn_0002   0    2      足   NN            *    -   -   1    _爱美_  *        *      *            *   -
+wb/cmn/00/cmn_0002   0    3     发黑   NN            *)   -   -   -    _爱美_  *        *)     *            *   -
+wb/cmn/00/cmn_0002   0    4      是   VC         (VP*     是  -   1    _爱美_  *      (V*)     *            *   -
+wb/cmn/00/cmn_0002   0    5     由于    P         (PP*    -   -   -    _爱美_  *   (ARG1*      *            *   -
+wb/cmn/00/cmn_0002   0    6     体内   NN      (IP(NP*    -   -   -    _爱美_  *        *      *       (ARG0*   -
+wb/cmn/00/cmn_0002   0    7     盐分   NN            *)   -   -   -    _爱美_  *        *      *            *)  -
+wb/cmn/00/cmn_0002   0    8      要   VV         (VP*     要  -   3    _爱美_  *        *    (V*)           *   -
+wb/cmn/00/cmn_0002   0    9      从    P      (VP(PP*    -   -   -    _爱美_  *        *      *   (ARGM-DIR*   -
+wb/cmn/00/cmn_0002   0   10    末梢处   NR        (NP*))   -   -   -    _爱美_  *        *      *            *)  -
+wb/cmn/00/cmn_0002   0   11     泄出   VV    (VP*))))))   泄出  -   -    _爱美_  *        *)     *          (V*)  -
+wb/cmn/00/cmn_0002   0   12      。   PU           *))   -   -   -    _爱美_  *        *      *            *   -
+
+wb/cmn/00/cmn_0002   0    0     过    AD   (TOP(IP(DVP(QP(ADVP*)   -   -   7    _爱美_  *        *    (ARGM-ADV*   -
+wb/cmn/00/cmn_0002   0    1     多    CD                  (QP*))   -   -   3    _爱美_  *        *             *   -
+wb/cmn/00/cmn_0002   0    2     地   DEV                      *)   -   -   -    _爱美_  *        *             *)  -
+wb/cmn/00/cmn_0002   0    3    食盐    NN                   (NP*    -   -   -    _爱美_  *        *        (ARG0*   -
+wb/cmn/00/cmn_0002   0    4    面部    NN                      *)   -   -   -    _爱美_  *        *             *)  -
+wb/cmn/00/cmn_0002   0    5     会    VV                   (VP*     会  -   1    _爱美_  *      (V*)            *   -
+wb/cmn/00/cmn_0002   0    6    慢慢    AD              (VP(ADVP*)   -   -   -    _爱美_  *   (ARG1*    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0    7    罩上    VV                   (VP*    罩上  -   -    _爱美_  *        *           (V*)  -
+wb/cmn/00/cmn_0002   0    8     一    CD                (NP(QP*    -   -   -    _爱美_  *        *        (ARG1*   -
+wb/cmn/00/cmn_0002   0    9     层     M                 (CLP*))   -   -   -    _爱美_  *        *             *   -
+wb/cmn/00/cmn_0002   0   10    黑色    NN               (NP*)))))   -   -   -    _爱美_  *        *)            *)  -
+wb/cmn/00/cmn_0002   0   11     。    PU                     *))   -   -   -    _爱美_  *        *             *   -
+
+wb/cmn/00/cmn_0002   0    0     治疗   NN  (TOP(IP(NP*    -   -   -    _爱美_  *   (ARG0*             *             *             *            *   -
+wb/cmn/00/cmn_0002   0    1     方法   NN            *)   -   -   -    _爱美_  *        *)            *             *             *            *   -
+wb/cmn/00/cmn_0002   0    2      是   VC         (VP*     是  -   1    _爱美_  *      (V*)            *             *             *            *   -
+wb/cmn/00/cmn_0002   0    3      ：   PU            *    -   -   -    _爱美_  *        *             *             *             *            *   -
+wb/cmn/00/cmn_0002   0    4     1    CD     (IP(LST*)   -   -   -    _爱美_  *   (ARG1*    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)           *   -
+wb/cmn/00/cmn_0002   0    5      ．   PU            *    -   -   -    _爱美_  *        *             *             *             *            *   -
+wb/cmn/00/cmn_0002   0    6     控制   VV      (VP(VP*    控制  -   -    _爱美_  *        *           (V*)            *             *            *   -
+wb/cmn/00/cmn_0002   0    7     食盐   NN         (NP*    -   -   -    _爱美_  *        *        (ARG1*             *             *            *   -
+wb/cmn/00/cmn_0002   0    8    摄入量   NN           *))   -   -   -    _爱美_  *        *             *)            *             *            *   -
+wb/cmn/00/cmn_0002   0    9      ，   PU            *    -   -   -    _爱美_  *        *             *             *             *            *   -
+wb/cmn/00/cmn_0002   0   10      多   AD    (VP(ADVP*)   -   -   7    _爱美_  *        *             *    (ARGM-ADV*)            *            *   -
+wb/cmn/00/cmn_0002   0   11     饮水   VV        (VP*))   饮水  -   -    _爱美_  *        *             *           (V*)            *            *   -
+wb/cmn/00/cmn_0002   0   12      ，   PU            *    -   -   -    _爱美_  *        *             *             *             *            *   -
+wb/cmn/00/cmn_0002   0   13      使   VV         (VP*     使  -   1    _爱美_  *        *             *             *           (V*)           *   -
+wb/cmn/00/cmn_0002   0   14     盐分   NN         (NP*)   -   -   -    _爱美_  *        *             *             *        (ARG1*)           *   -
+wb/cmn/00/cmn_0002   0   15      随    P   (IP(VP(PP*    -   -   1    _爱美_  *        *             *             *        (ARG2*   (ARGM-ADV*   -
+wb/cmn/00/cmn_0002   0   16     尿液   NN        (NP*))   -   -   -    _爱美_  *        *             *             *             *            *)  -
+wb/cmn/00/cmn_0002   0   17     排出   VV   (VP*)))))))   排出  -   -    _爱美_  *        *)            *             *             *)         (V*)  -
+wb/cmn/00/cmn_0002   0   18      ；   PU           *))   -   -   -    _爱美_  *        *             *             *             *            *   -
+
+wb/cmn/00/cmn_0002   0    0    2    CD   (TOP(IP(LST*)   -   -   -    _爱美_  *    (ARGM-DIS*)   (ARGM-DIS*)     *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0002   0    1     ．   PU              *    -   -   -    _爱美_  *             *             *      *      *             *   -
+wb/cmn/00/cmn_0002   0    2     勤   AD   (VP(VP(ADVP*)   -   -   -    _爱美_  *    (ARGM-ADV*)            *      *      *             *   -
+wb/cmn/00/cmn_0002   0    3    洗澡   VV          (VP*))   洗澡  -   -    _爱美_  *           (V*)            *      *      *             *   -
+wb/cmn/00/cmn_0002   0    4     ，   PU              *    -   -   -    _爱美_  *             *             *      *      *             *   -
+wb/cmn/00/cmn_0002   0    5     在    P        (VP(PP*    -   -   2    _爱美_  *             *    (ARGM-LOC*      *      *             *   -
+wb/cmn/00/cmn_0002   0    6    浴室   NN       (LCP(NP*)   -   -   -    _爱美_  *             *             *      *      *             *   -
+wb/cmn/00/cmn_0002   0    7     中   LC             *))   -   -   -    _爱美_  *             *             *)     *      *             *   -
+wb/cmn/00/cmn_0002   0    8    浸泡   VV           (VP*    浸泡  -   -    _爱美_  *             *           (V*)     *      *             *   -
+wb/cmn/00/cmn_0002   0    9     至    P           (PP*    -   -   1    _爱美_  *             *        (ARG2*      *      *             *   -
+wb/cmn/00/cmn_0002   0   10    出汗   VV    (IP(VP*)))))   出汗  -   -    _爱美_  *             *             *)   (V*)     *             *   -
+wb/cmn/00/cmn_0002   0   11     ，   PU              *    -   -   -    _爱美_  *             *             *      *      *             *   -
+wb/cmn/00/cmn_0002   0   12     也   AD      (VP(ADVP*)   -   -   -    _爱美_  *             *             *      *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0002   0   13     可   VV           (VP*     可  -   1    _爱美_  *             *             *      *    (V*)            *   -
+wb/cmn/00/cmn_0002   0   14    排泄   VV           (VP*    排泄  -   -    _爱美_  *             *             *      *      *           (V*)  -
+wb/cmn/00/cmn_0002   0   15    一些   CD        (NP(QP*)   -   -   -    _爱美_  *             *             *      *      *        (ARG1*   -
+wb/cmn/00/cmn_0002   0   16    盐分   NN      (NP*))))))   -   -   -    _爱美_  *             *             *      *      *             *)  -
+wb/cmn/00/cmn_0002   0   17     。   PU             *))   -   -   -    _爱美_  *             *             *      *      *             *   -
+
+wb/cmn/00/cmn_0002   0    0     面颊    NR  (TOP(IP(IP(NP*    -   -   -    _爱美_  *        (ARG0*    (ARGM-TPC*         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    1     雀斑    NN               *)   -   -   -    _爱美_  *             *)            *)        *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    2      ：    PU               *    -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    3     食盐    NN            (NP*)   -   -   -    _爱美_  *        (ARG0*)       (ARG0*)        *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    4      过    AD    (VP(VP(ADVP*)   -   -   7    _爱美_  *    (ARGM-ADV*)            *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    5      多    VA           (VP*))    多  -   3    _爱美_  *           (V*)            *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    6      ，    PU               *    -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    7    有可能    AD       (VP(ADVP*)   -   -   -    _爱美_  *             *    (ARGM-ADV*)        *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    8     导致    VV            (VP*    导致  -   -    _爱美_  *             *           (V*)        *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0    9     面颊    NN         (IP(NP*)   -   -   -    _爱美_  *             *        (ARG1*    (ARG0*)            *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   10     长出    VV            (VP*    长出  -   -    _爱美_  *             *             *       (V*)            *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   11     雀斑    NN      (NP*)))))))   -   -   -    _爱美_  *             *             *)   (ARG1*)            *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   12      ；    PU               *    -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   13      而    AD       (IP(ADVP*)   -   -   -    _爱美_  *             *             *         *    (ARGM-DIS*)       *    (ARGM-DIS*)   (ARGM-DIS*)            *   -
+wb/cmn/00/cmn_0002   0   14     饮食    NN        (LCP(NP*)   -   -   -    _爱美_  *             *             *         *    (ARGM-LOC*        *        (ARG0*    (ARGM-LOC*             *   -
+wb/cmn/00/cmn_0002   0   15      中    LC               *)   -   -   -    _爱美_  *             *             *         *             *)       *             *)            *)            *   -
+wb/cmn/00/cmn_0002   0   16      如    AD    (VP(VP(ADVP*)   -   -   3    _爱美_  *             *             *         *    (ARGM-ADV*)       *             *             *             *   -
+wb/cmn/00/cmn_0002   0   17      只    AD          (ADVP*)   -   -   -    _爱美_  *             *             *         *    (ARGM-ADV*)       *             *             *             *   -
+wb/cmn/00/cmn_0002   0   18     摄取    VV            (VP*    摄取  -   -    _爱美_  *             *             *         *           (V*)       *             *             *             *   -
+wb/cmn/00/cmn_0002   0   19    动物性    NN         (NP(NP*    -   -   -    _爱美_  *             *             *         *        (ARG1*        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   20     脂肪    NN               *)   -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   21      和    CC               *    -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   22    蛋白质    NN         (NP*))))   -   -   -    _爱美_  *             *             *         *             *)       *             *             *             *   -
+wb/cmn/00/cmn_0002   0   23      ，    PU               *    -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   24      则    AD       (VP(ADVP*)   -   -   -    _爱美_  *             *             *         *             *        *    (ARGM-DIS*)   (ARGM-DIS*)            *   -
+wb/cmn/00/cmn_0002   0   25      会    VV            (VP*     会  -   1    _爱美_  *             *             *         *             *      (V*)       (ARG0*)            *             *   -
+wb/cmn/00/cmn_0002   0   26     影响    VV         (VP(VP*    影响  -   1    _爱美_  *             *             *         *             *   (ARG1*           (V*)            *             *   -
+wb/cmn/00/cmn_0002   0   27     肝脏    NN         (NP(NP*)   -   -   -    _爱美_  *             *             *         *             *        *        (ARG1*             *             *   -
+wb/cmn/00/cmn_0002   0   28     正常    JJ          (ADJP*)   -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   29     功能    NN          (NP*)))   -   -   -    _爱美_  *             *             *         *             *        *             *)            *             *   -
+wb/cmn/00/cmn_0002   0   30      而   MSP            (VP*    -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+wb/cmn/00/cmn_0002   0   31      使    VV            (VP*     使  -   1    _爱美_  *             *             *         *             *        *             *           (V*)            *   -
+wb/cmn/00/cmn_0002   0   32     雀斑    NN            (NP*)   -   -   -    _爱美_  *             *             *         *             *        *             *        (ARG1*)            *   -
+wb/cmn/00/cmn_0002   0   33      更    AD    (IP(VP(ADVP*)   -   -   -    _爱美_  *             *             *         *             *        *             *        (ARG2*    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0   34     显眼    VA   (VP*))))))))))   显眼  -   -    _爱美_  *             *             *         *             *        *)            *             *)          (V*)  -
+wb/cmn/00/cmn_0002   0   35      。    PU              *))   -   -   -    _爱美_  *             *             *         *             *        *             *             *             *   -
+
+wb/cmn/00/cmn_0002   0    0    所以   AD   (TOP(IP(ADVP*)   -   -   -    _爱美_  *        *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0002   0    1     长   JJ       (NP(ADJP*)   -   -   3    _爱美_  *   (ARG0*        (ARG0*   -
+wb/cmn/00/cmn_0002   0    2    雀斑   JJ          (ADJP*)   -   -   -    _爱美_  *        *             *   -
+wb/cmn/00/cmn_0002   0    3     者   NN           (NP*))   -   -   -    _爱美_  *        *)            *)  -
+wb/cmn/00/cmn_0002   0    4    一定   AD       (VP(ADVP*)   -   -   -    _爱美_  *        *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0    5     要   VV            (VP*     要  -   3    _爱美_  *      (V*)            *   -
+wb/cmn/00/cmn_0002   0    6    大量   AD       (VP(ADVP*)   -   -   -    _爱美_  *        *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0002   0    7    食用   VV            (VP*    食用  -   -    _爱美_  *        *           (V*)  -
+wb/cmn/00/cmn_0002   0    8    水果   NN            (NP*    -   -   -    _爱美_  *        *        (ARG1*   -
+wb/cmn/00/cmn_0002   0    9     和   CC               *    -   -   -    _爱美_  *        *             *   -
+wb/cmn/00/cmn_0002   0   10    蔬菜   NN           *)))))   -   -   -    _爱美_  *        *             *)  -
+wb/cmn/00/cmn_0002   0   11     。   PU              *))   -   -   -    _爱美_  *        *             *   -
+
+wb/cmn/00/cmn_0002   0    0     此外    AD   (TOP(IP(IP(ADVP*)   -   -   -    _爱美_  *    (ARGM-DIS*)       *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    1      ，    PU                  *    -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    2     药物    NN               (NP*)   -   -   -    _爱美_  *        (ARG0*)       *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    3      是    VC               (VP*     是  -   1    _爱美_  *           (V*)       *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    4     肌肤    NN        (NP(DNP(NP*)   -   -   -    _爱美_  *        (ARG1*        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    5      的   DEG                  *)   -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    6     大敌    NN            (NP*))))   -   -   -    _爱美_  *             *)       *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    7      ，    PU                  *    -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0    8    尤其是    AD          (IP(ADVP*)   -   -   -    _爱美_  *             *        *    (ARGM-ADV*)       *         *      *         *   -
+wb/cmn/00/cmn_0002   0    9    安眠药    NN               (NP*)   -   -   -    _爱美_  *             *        *        (ARG0*)       *         *      *         *   -
+wb/cmn/00/cmn_0002   0   10      会    VV               (VP*     会  -   1    _爱美_  *             *      (V*)            *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0   11      使    VV               (VP*     使  -   1    _爱美_  *             *   (ARG1*           (V*)       *         *      *         *   -
+wb/cmn/00/cmn_0002   0   12     体内    NN               (NP*)   -   -   -    _爱美_  *             *        *        (ARG1*)       *         *      *         *   -
+wb/cmn/00/cmn_0002   0   13     产生    VV            (IP(VP*    产生  -   3    _爱美_  *             *        *        (ARG2*      (V*)        *      *         *   -
+wb/cmn/00/cmn_0002   0   14      过    AD       (NP(QP(ADVP*)   -   -   1    _爱美_  *             *        *             *   (ARG1*         *      *         *   -
+wb/cmn/00/cmn_0002   0   15      多    CD              (QP*))   -   -   3    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0   16     酸性    NN         (NP*)))))))   -   -   -    _爱美_  *             *        *)            *)       *)        *      *         *   -
+wb/cmn/00/cmn_0002   0   17      ，    PU                  *    -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0   18     激素    NN            (IP(NP*)   -   -   -    _爱美_  *             *        *             *        *    (ARG0*)     *         *   -
+wb/cmn/00/cmn_0002   0   19     失衡    VV              (VP*))   失衡  -   -    _爱美_  *             *        *             *        *       (V*)     *         *   -
+wb/cmn/00/cmn_0002   0   20      ，    PU                  *    -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0   21     脸上    NN            (IP(NP*)   -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+wb/cmn/00/cmn_0002   0   22     生出    VV           (VP(VCD*    生出  -   -    _爱美_  *             *        *             *        *         *    (V*)   (ARG0*)  -
+wb/cmn/00/cmn_0002   0   23     雀斑    VV                *)))   雀斑  -   -    _爱美_  *             *        *             *        *         *      *       (V*)  -
+wb/cmn/00/cmn_0002   0   24      。    PU                 *))   -   -   -    _爱美_  *             *        *             *        *         *      *         *   -
+
+wb/cmn/00/cmn_0002   0   0               点击    VV   (TOP(UCP(IP(IP(VP*))   点击  -   -    _爱美_  *    (V*)     *    (ARG0*)  -
+wb/cmn/00/cmn_0002   0   1               可以    VV                  (VP*    可以  -   1    _爱美_  *      *    (V*)        *   -
+wb/cmn/00/cmn_0002   0   2               了解    VV                  (VP*    了解  -   1    _爱美_  *      *      *       (V*)  -
+wb/cmn/00/cmn_0002   0   3                更    AD          (NP(QP(ADVP*)   -   -   -    _爱美_  *      *      *    (ARG1*   -
+wb/cmn/00/cmn_0002   0   4                多    CD                 (QP*))   -   -   3    _爱美_  *      *      *         *   -
+wb/cmn/00/cmn_0002   0   5               详细    JJ                (ADJP*)   -   -   -    _爱美_  *      *      *         *   -
+wb/cmn/00/cmn_0002   0   6               内容    NN              (NP*)))))   -   -   -    _爱美_  *      *      *         *)  -
+wb/cmn/00/cmn_0002   0   7    www．120zy．com   URL                (NP*)))   -   -   -    _爱美_  *      *      *         *   -
+
+#end document

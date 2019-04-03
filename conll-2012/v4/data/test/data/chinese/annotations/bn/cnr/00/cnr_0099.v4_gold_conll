@@ -1,0 +1,79 @@
+#begin document (bn/cnr/00/cnr_0099); part 000
+bn/cnr/00/cnr_0099   0    0       继     P       (TOP(IP(PP*   -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0    1      赛欧    NR       (LCP(NP(NP*   -    -   -   -     (ORG)            *        -
+bn/cnr/00/cnr_0099   0    2       、    PU                 *   -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0    3      夏利    NR                 *)  -    -   -   -     (ORG)            *        -
+bn/cnr/00/cnr_0099   0    4    ２０００    NT           (NP(NP*)  -    -   -   -    (DATE)            *        -
+bn/cnr/00/cnr_0099   0    5      新款    JJ            (ADJP*)  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0    6      轿车    NN            (NP*)))  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0    7      之后    LC                *))  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0    8       ，    PU                 *   -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0    9      近日    NT              (NP*)  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0   10     中华牌    NR           (NP(NP*)  -    -   -   -    (ORG*             *    (2|(1)
+bn/cnr/00/cnr_0099   0   11      轿车    NN             (NP*))  -    -   -   -        *)            *        2)
+bn/cnr/00/cnr_0099   0   12       又    AD         (VP(ADVP*)  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0   13       在     P              (PP*   -    -   2   -        *             *        -
+bn/cnr/00/cnr_0099   0   14      华晨    NR  (NP(CP(CP(IP(NP*   -    -   -   -    (ORG*        (ARG0*        -
+bn/cnr/00/cnr_0099   0   15      集团    NN                 *)  -    -   -   -        *)            *)       -
+bn/cnr/00/cnr_0099   0   16       所   MSP              (VP*   -    -   -   -        *    (ARGM-ADV*)       -
+bn/cnr/00/cnr_0099   0   17       属    VV            (VP*)))  -   02   3   -        *           (V*)       -
+bn/cnr/00/cnr_0099   0   18       的   DEC                *))  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0   19      沈阳    NR              (NP*)  -    -   -   -    (ORG*             *        -
+bn/cnr/00/cnr_0099   0   20      金杯    NN              (NP*   -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0   21      客车    NN                 *   -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0   22      公司    NN               *)))  -    -   -   -        *)            *        -
+bn/cnr/00/cnr_0099   0   23      下线    VV             (VP*))  -    -   -   -        *             *        -
+bn/cnr/00/cnr_0099   0   24       。    PU                *))  -    -   -   -        *             *        -
+
+bn/cnr/00/cnr_0099   0    0     这    PN    (TOP(IP(NP*)  -    -   -   -           *    (ARG0*)        *    (2)
+bn/cnr/00/cnr_0099   0    1     是    VC           (VP*   -   01   1   -           *       (V*)        *     -
+bn/cnr/00/cnr_0099   0    2     我    PN        (NP(NP*   -    -   -   -           *    (ARG1*         *    (0
+bn/cnr/00/cnr_0099   0    3     国    NN              *)  -    -   -   -           *         *         *     0)
+bn/cnr/00/cnr_0099   0    4    第一    OD           (QP*   -    -   -   -    (ORDINAL)        *         *     -
+bn/cnr/00/cnr_0099   0    5     款     M         (CLP*))  -    -   -   -           *         *         *     -
+bn/cnr/00/cnr_0099   0    6    拥有    VV  (CP(CP(IP(VP*   -   01   -   -           *         *       (V*)    -
+bn/cnr/00/cnr_0099   0    7    整车    NN        (NP(NP*)  -    -   -   -           *         *    (ARG1*     -
+bn/cnr/00/cnr_0099   0    8    自主    JJ         (ADJP*)  -    -   -   -           *         *         *     -
+bn/cnr/00/cnr_0099   0    9    知识    NN           (NP*   -    -   -   -           *         *         *     -
+bn/cnr/00/cnr_0099   0   10    产权    NN           *))))  -    -   -   -           *         *         *)    -
+bn/cnr/00/cnr_0099   0   11     的   DEC             *))  -    -   -   -           *         *         *     -
+bn/cnr/00/cnr_0099   0   12    轿车    NN         (NP*)))  -    -   -   -           *         *)   (ARG1*)    -
+bn/cnr/00/cnr_0099   0   13     。    PU             *))  -    -   -   -           *         *         *     -
+
+bn/cnr/00/cnr_0099   0    0    中华牌    NR   (TOP(IP(IP(NP(NP*)  -    -   -   -   (ORG*   (ARG0*             *       (ARG0*             *             *             *    (2|(1)
+bn/cnr/00/cnr_0099   0    1     轿车    NN               (NP*))  -    -   -   -       *)       *)            *            *)            *             *             *        2)
+bn/cnr/00/cnr_0099   0    2     融合    VV             (VP(VP*   -   01   -   -       *      (V*)            *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0    3      了    AS                   *   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0    4     当今    NT      (NP(DNP(NP(NP*)  -    -   -   -       *   (ARG1*             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0    5     国际    NN                (NP*   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0    6     轿车    NN                  *))  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0    7      的   DEG                   *)  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0    8      最    AD     (CP(IP(VP(ADVP*)  -    -   -   -       *        *    (ARGM-ADV*)           *             *             *             *        -
+bn/cnr/00/cnr_0099   0    9     先进    VA             (VP*))))  -   01   -   -       *        *           (V*)           *             *             *             *        -
+bn/cnr/00/cnr_0099   0   10     技术    NN              (NP*)))  -    -   -   -       *        *)       (ARG0*)           *             *             *             *        -
+bn/cnr/00/cnr_0099   0   11      ，    PU                   *   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   12      在     P             (VP(PP*   -    -   2   -       *        *             *   (ARGM-LOC*             *             *             *        -
+bn/cnr/00/cnr_0099   0   13    零部件    NN     (LCP(NP(DNP(NP*)  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   14      的   DEG                   *)  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   15     研制    NN                (NP*   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   16     开发    NN                  *))  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   17      上    LC                  *))  -    -   3   -       *        *             *            *)            *             *             *        -
+bn/cnr/00/cnr_0099   0   18     走出    VV                (VP*   -   01   1   -       *        *             *          (V*)            *             *             *        -
+bn/cnr/00/cnr_0099   0   19      了    AS                   *   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   20      一    CD             (NP(QP*   -    -   -   -    (LAW)       *             *       (ARG1*             *             *             *        -
+bn/cnr/00/cnr_0099   0   21      条     M              (CLP*))  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   22     国际    NN    (CP(IP(VP(VP(NP*)  -    -   -   -       *        *             *            *    (ARGM-LOC*)            *             *        -
+bn/cnr/00/cnr_0099   0   23     招标    VV               (VP*))  -   01   -   -       *        *             *            *           (V*)            *             *        -
+bn/cnr/00/cnr_0099   0   24      、    PU                   *   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   25     国内    NN             (VP(NP*)  -    -   -   -       *        *             *            *             *    (ARGM-LOC*)            *       (0)
+bn/cnr/00/cnr_0099   0   26     生产    VV             (VP*))))  -   01   1   -       *        *             *            *             *           (V*)            *        -
+bn/cnr/00/cnr_0099   0   27      的   DEC                   *)  -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   28     道路    NN           (NP*))))))  -    -   -   -       *        *             *            *)            *             *             *        -
+bn/cnr/00/cnr_0099   0   29      ，    PU                   *   -    -   -   -       *        *             *            *             *             *             *        -
+bn/cnr/00/cnr_0099   0   30     生产    NN             (IP(NP*   -    -   3   -       *        *             *            *             *             *        (ARG1*        -
+bn/cnr/00/cnr_0099   0   31     成本    NN                   *)  -    -   -   -       *        *             *            *             *             *             *)       -
+bn/cnr/00/cnr_0099   0   32     大大    AD           (VP(ADVP*)  -    -   -   -       *        *             *            *             *             *    (ARGM-ADV*)       -
+bn/cnr/00/cnr_0099   0   33     降低    VV              (VP*)))  -   01   -   -       *        *             *            *             *             *           (V*)       -
+bn/cnr/00/cnr_0099   0   34      。    PU                  *))  -    -   -   -       *        *             *            *             *             *             *        -
+
+#end document

@@ -1,0 +1,509 @@
+#begin document (bn/cnr/01/cnr_0100); part 000
+bn/cnr/01/cnr_0100   0    0     最后    AD   (TOP(IP(VP(ADVP*)   -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0    1     播送    VV               (VP*    -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0    2    新华社    NR   (NP(CP(IP(NP(NP*)   -   -   -   -   *   (ARG0*   -
+bn/cnr/01/cnr_0100   0    3      和    CC                  *    -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0    4     中国    NR               (NP*    -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0    5     国际    NN                  *    -   -   1   -   *        *   -
+bn/cnr/01/cnr_0100   0    6     广播    NN                  *    -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0    7     电台    NN                 *))   -   -   -   -   *        *)  -
+bn/cnr/01/cnr_0100   0    8     提供    VV              (VP*))   提供  -   -   -   *      (V*)  -
+bn/cnr/01/cnr_0100   0    9      的   DEC                  *)   -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0   10     国际    NN               (NP*    -   -   1   -   *        *   -
+bn/cnr/01/cnr_0100   0   11     新闻    NN               *))))   -   -   -   -   *        *   -
+bn/cnr/01/cnr_0100   0   12      。    PU                 *))   -   -   -   -   *        *   -
+
+bn/cnr/01/cnr_0100   0    0      美国    NR   (TOP(IP(IP(NP(NP(NP*)   -   -   -   -   *        (ARG0*   (ARG0*         *             *         *             *    (18|(4)
+bn/cnr/01/cnr_0100   0    1      当选    JJ                 (ADJP*)   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0    2      总统    NN                  (NP*))   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0    3      布什    NR                  (NP*))   -   -   -   -   *             *)       *)        *             *         *             *        18)
+bn/cnr/01/cnr_0100   0    4      昨天    NT             (VP(VP(NP*)   -   -   1   -   *    (ARGM-TMP*)       *         *             *         *             *        (8)
+bn/cnr/01/cnr_0100   0    5      宣布    VV                   (VP*    宣布  -   -   -   *           (V*)       *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0    6       了    AS                      *    -   -   -   -   *        (ARG1*)       *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0    7       其    PN         (NP(DNP(NP(NP*)   -   -   -   -   *        (ARG1*        *         *             *         *             *       (18)
+bn/cnr/01/cnr_0100   0    8       新    JJ                 (ADJP*)   -   -   1   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0    9      政府    NN                  (NP*))   -   -   1   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   10       的   DEG                      *)   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   11      第一    OD                   (QP*    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   12       位     M                 (CLP*))   -   -   2   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   13      内阁    NN                   (NP*    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   14      成员    NN                      *    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   15      人选    NN                   *))))   -   -   -   -   *             *)       *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   16       ，    PU                      *    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   17      任命    VV                   (VP*    任命  -   -   -   *             *      (V*)        *             *         *             *         -
+bn/cnr/01/cnr_0100   0   18       前    JJ        (NP(NP(NP(ADJP*)   -   -   -   -   *             *   (ARG1*         *             *         *             *       (15
+bn/cnr/01/cnr_0100   0   19     参谋长    NN                   (NP*    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   20    联席会议    NN                     *))   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   21      主席    NN                  (NP*))   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   22     鲍威尔    NR                  (NP*))   -   -   -   -   *             *        *)        *             *         *             *        15)
+bn/cnr/01/cnr_0100   0   23       为    VC                (IP(VP*     为  -   2   -   *             *   (ARG2*       (V*)            *         *             *         -
+bn/cnr/01/cnr_0100   0   24     国务卿    NN              (NP*))))))   -   -   -   -   *             *        *)   (ARG1*)            *         *             *         -
+bn/cnr/01/cnr_0100   0   25       ，    PU                      *    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   26      如果    CS           (IP(CP(ADVP*)   -   -   -   -   *             *        *         *    (ARGM-DIS*)        *    (ARGM-ADV*         -
+bn/cnr/01/cnr_0100   0   27       这    DT             (IP(NP(DP*    -   -   -   -   *             *        *         *        (ARG0*         *             *         -
+bn/cnr/01/cnr_0100   0   28       一    CD                  (QP*))   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   29      任命    NN                  (NP*))   -   -   -   -   *             *        *         *             *)        *             *         -
+bn/cnr/01/cnr_0100   0   30      获得    VV                   (VP*    获得  -   -   -   *             *        *         *           (V*)    (REL*)            *         -
+bn/cnr/01/cnr_0100   0   31     参议院    NN                (IP(NP*)   -   -   -   -   *             *        *         *        (ARG1*    (ARG0*)            *         -
+bn/cnr/01/cnr_0100   0   32      批准    VV               (VP*)))))   批准  -   1   -   *             *        *         *             *)      (V*)            *)        -
+bn/cnr/01/cnr_0100   0   33       ，    PU                      *    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   34     鲍威尔    NR                   (NP*)   -   -   -   -   *             *        *         *             *         *        (ARG0*)      (15)
+bn/cnr/01/cnr_0100   0   35       将    AD              (VP(ADVP*)   -   -   -   -   *             *        *         *             *         *    (ARGM-ADV*)        -
+bn/cnr/01/cnr_0100   0   36      成为    VV                   (VP*    成为  -   -   -   *             *        *         *             *         *           (V*)        -
+bn/cnr/01/cnr_0100   0   37      美国    NR                (NP(NP*)   -   -   -   -   *             *        *         *             *         *        (ARG1*        (4)
+bn/cnr/01/cnr_0100   0   38      历史    NN            (QP(LCP(NP*)   -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   39       上    LC                      *)   -   -   1   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   40      第一    OD                   (QP*    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   41       位     M                (CLP*)))   -   -   2   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   42      黑人    NN                   (NP*    -   -   -   -   *             *        *         *             *         *             *         -
+bn/cnr/01/cnr_0100   0   43     国务卿    NN                  *)))))   -   -   -   -   *             *        *         *             *         *             *)        -
+bn/cnr/01/cnr_0100   0   44       。    PU                     *))   -   -   -   -   *             *        *         *             *         *             *         -
+
+bn/cnr/01/cnr_0100   0    0      鲍威尔    NR   (TOP(IP(NP*)   -   -   -   -   *        *        *       (ARG0*)   (15)
+bn/cnr/01/cnr_0100   0    1        因     P       (VP(PP*    -   -   -   -   *        *        *   (ARGM-PRP*      -
+bn/cnr/01/cnr_0100   0    2       策划    VV       (IP(VP*    策划  -   -   -   *      (V*)       *            *      -
+bn/cnr/01/cnr_0100   0    3       指挥    VV       (IP(VP*    指挥  -   -   -   *   (ARG1*      (V*)           *      -
+bn/cnr/01/cnr_0100   0    4    １９９１年    NT   (NP(DNP(NP*)   -   -   -   -   *        *   (ARG1*            *      -
+bn/cnr/01/cnr_0100   0    5        的   DEG             *)   -   -   -   -   *        *        *            *      -
+bn/cnr/01/cnr_0100   0    6       海湾    NN          (NP*    -   -   -   -   *        *        *            *      -
+bn/cnr/01/cnr_0100   0    7       战争    NN       *)))))))   -   -   1   -   *        *)       *)           *)     -
+bn/cnr/01/cnr_0100   0    8        而   MSP          (VP*    -   -   -   -   *        *        *            *      -
+bn/cnr/01/cnr_0100   0    9       闻名    VV        (VP*)))   闻名  -   -   -   *        *        *          (V*)     -
+bn/cnr/01/cnr_0100   0   10        。    PU            *))   -   -   -   -   *        *        *            *      -
+
+bn/cnr/01/cnr_0100   0    0       南联盟   NR   (TOP(IP(NP(NP(NP(NP(NP*)   -   -   -   -   *        (ARG0*        *    (19)
+bn/cnr/01/cnr_0100   0    1        外长   NN                     (NP*))   -   -   -   -   *             *        *      -
+bn/cnr/01/cnr_0100   0    2    思维拉诺维奇   NR                     (NP*))   -   -   -   -   *             *        *      -
+bn/cnr/01/cnr_0100   0    3         与   CC                         *    -   -   -   -   *             *        *      -
+bn/cnr/01/cnr_0100   0    4        波黑   NR                   (NP(NP*)   -   -   -   -   *             *        *     (0)
+bn/cnr/01/cnr_0100   0    5        外长   NN                    (NP*)))   -   -   -   -   *             *        *      -
+bn/cnr/01/cnr_0100   0    6      普尔利奇   NR                     (NP*))   -   -   -   -   *             *)       *      -
+bn/cnr/01/cnr_0100   0    7        前天   NT                   (VP(NP*)   -   -   -   -   *    (ARGM-TMP*)       *     (3)
+bn/cnr/01/cnr_0100   0    8         在    P                      (PP*    -   -   2   -   *    (ARGM-LOC*        *      -
+bn/cnr/01/cnr_0100   0    9     贝尔格莱德   NR                     (NP*))   -   -   -   -   *             *)       *      -
+bn/cnr/01/cnr_0100   0   10        正式   AD                    (ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *      -
+bn/cnr/01/cnr_0100   0   11        签署   VV                      (VP*    签署  -   -   -   *           (V*)       *      -
+bn/cnr/01/cnr_0100   0   12         了   AS                         *    -   -   -   -   *             *        *      -
+bn/cnr/01/cnr_0100   0   13         两   CD             (NP(IP(NP(QP*)   -   -   -   -   *        (ARG1*   (ARG0*      -
+bn/cnr/01/cnr_0100   0   14         国   NN                     (NP*))   -   -   1   -   *             *        *)     -
+bn/cnr/01/cnr_0100   0   15        建交   VV                     (VP*))   建交  -   -   -   *             *      (V*)     -
+bn/cnr/01/cnr_0100   0   16        公报   NN                   (NP*))))   -   -   -   -   *             *)       *      -
+bn/cnr/01/cnr_0100   0   17         。   PU                        *))   -   -   -   -   *             *        *      -
+
+bn/cnr/01/cnr_0100   0    0       据     P    (TOP(IP(PP*    -   -   -   -   *   (ARGM-MNR*        *      -
+bn/cnr/01/cnr_0100   0    1      了解    NN          (NP*))   -   -   1   -   *            *)       *      -
+bn/cnr/01/cnr_0100   0    2       ，    PU              *    -   -   -   -   *            *        *      -
+bn/cnr/01/cnr_0100   0    3      波黑    NR           (NP*)   -   -   -   -   *       (ARG0*)       *     (0)
+bn/cnr/01/cnr_0100   0    4       是    VC           (VP*     是  -   1   -   *          (V*)       *      -
+bn/cnr/01/cnr_0100   0    5      最后    JJ   (NP(QP(ADJP*)   -   -   -   -   *       (ARG1*        *      -
+bn/cnr/01/cnr_0100   0    6       一    CD           (QP*    -   -   -   -   *            *        *      -
+bn/cnr/01/cnr_0100   0    7       个     M        (CLP*)))   -   -   -   -   *            *        *      -
+bn/cnr/01/cnr_0100   0    8       与     P  (CP(IP(VP(PP*    -   -   -   -   *            *   (ARG0*      -
+bn/cnr/01/cnr_0100   0    9     南联盟    NR          (NP*))   -   -   -   -   *            *        *)   (19)
+bn/cnr/01/cnr_0100   0   10      建交    VV         (VP*)))   建交  -   -   -   *            *      (V*)     -
+bn/cnr/01/cnr_0100   0   11       的   DEC              *)   -   -   -   -   *            *        *      -
+bn/cnr/01/cnr_0100   0   12       前    JJ         (ADJP*)   -   -   -   -   *            *        *      -
+bn/cnr/01/cnr_0100   0   13    南斯拉夫    NR           (NP*    -   -   -   -   *            *        *      -
+bn/cnr/01/cnr_0100   0   14     共和国    NN            *)))   -   -   -   -   *            *)       *      -
+bn/cnr/01/cnr_0100   0   15       。    PU             *))   -   -   -   -   *            *        *      -
+
+bn/cnr/01/cnr_0100   0    0     至此    AD         (TOP(IP(ADVP*)    -   -   -   -   *    (ARGM-TMP*)        *   -
+bn/cnr/01/cnr_0100   0    1      前    JJ   (NP(NP(DNP(NP(ADJP*)    -   -   -   -   *        (ARG0*         *   -
+bn/cnr/01/cnr_0100   0    2      南    NN                 (NP*))    -   -   -   -   *             *         *   -
+bn/cnr/01/cnr_0100   0    3      的   DEG                     *)    -   -   -   -   *             *         *   -
+bn/cnr/01/cnr_0100   0    4      ５    CD                  (QP*     -   -   -   -   *             *         *   -
+bn/cnr/01/cnr_0100   0    5      个     M                (CLP*))    -   -   -   -   *             *         *   -
+bn/cnr/01/cnr_0100   0    6    共和国    NN                 (NP*))    -   -   -   -   *             *         *   -
+bn/cnr/01/cnr_0100   0    7     彼此    PN                 (NP*))    -   -   -   -   *             *)        *   -
+bn/cnr/01/cnr_0100   0    8      都    AD             (VP(ADVP*)    -   -   -   -   *    (ARGM-ADV*)        *   -
+bn/cnr/01/cnr_0100   0    9     实现    VV                  (VP*     实现  -   -   -   *           (V*)        *   -
+bn/cnr/01/cnr_0100   0   10      了    AS                     *     -   -   -   -   *        (ARG1*)        *   -
+bn/cnr/01/cnr_0100   0   11     邦交    NN               (IP(NP*)    -   -   -   -   *        (ARG1*    (ARG0*)  -
+bn/cnr/01/cnr_0100   0   12    正常化    VV               (VP*))))   正常化  -   -   -   *             *)      (V*)  -
+bn/cnr/01/cnr_0100   0   13      。    PU                    *))    -   -   -   -   *             *         *   -
+
+bn/cnr/01/cnr_0100   0    0     西班牙   NR   (TOP(IP(NP(NP*)   -   -   -   -   *        (ARG0*        *   (11
+bn/cnr/01/cnr_0100   0    1      政府   NN            (NP*))   -   -   1   -   *             *)       *    11)
+bn/cnr/01/cnr_0100   0    2      前天   NT          (VP(NP*)   -   -   -   -   *    (ARGM-TMP*)       *    (3)
+bn/cnr/01/cnr_0100   0    3      决定   VV             (VP*    决定  -   -   -   *           (V*)       *     -
+bn/cnr/01/cnr_0100   0    4       ，   PU                *    -   -   -   -   *             *        *     -
+bn/cnr/01/cnr_0100   0    5       同    P       (IP(VP(PP*    -   -   -   -   *        (ARG1*   (ARG0*     -
+bn/cnr/01/cnr_0100   0    6      朝鲜   NR          (NP(NP*)   -   -   -   -   *             *        *    (9
+bn/cnr/01/cnr_0100   0    7    民主主义   NR             (NP*    -   -   -   -   *             *        *     -
+bn/cnr/01/cnr_0100   0    8      人民   NN                *    -   -   -   -   *             *        *     -
+bn/cnr/01/cnr_0100   0    9     共和国   NN              *)))   -   -   -   -   *             *        *)    9)
+bn/cnr/01/cnr_0100   0   10      建立   VV             (VP*    建立  -   -   -   *             *      (V*)    -
+bn/cnr/01/cnr_0100   0   11      外交   NN             (NP*    -   -   -   -   *             *   (ARG1*     -
+bn/cnr/01/cnr_0100   0   12      关系   NN           *))))))   -   -   2   -   *             *)       *)    -
+bn/cnr/01/cnr_0100   0   13       。   PU               *))   -   -   -   -   *             *        *     -
+
+bn/cnr/01/cnr_0100   0    0     决定    NN      (TOP(IP(NP*)    -   -   -   -   *    (ARG0*)        *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    1      说    VV             (VP*      说  -   8   -   *       (V*)        *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    2      ，    PU                *     -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    3    西班牙    NR    (IP(IP(IP(NP*)    -   -   -   -   *    (ARG1*    (ARG0*)      (ARG0*      *         *        *        *             *             *    (11)
+bn/cnr/01/cnr_0100   0    4      同     P          (VP(PP*     -   -   -   -   *         *    (ARG0*            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    5     朝鲜    NR            (NP*))    -   -   -   -   *         *         *)           *      *         *        *        *             *             *     (9)
+bn/cnr/01/cnr_0100   0    6     建交    VV           (VP*)))    建交  -   -   -   *         *       (V*)           *)     *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    7      是    VC             (VP*      是  -   1   -   *         *         *          (V*)     *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    8     适宜    VA   (NP(CP(IP(VP*))    适宜  -   -   -   *         *         *       (ARG1*    (V*)        *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0    9      的   DEC             *))))    -   -   -   -   *         *         *            *)     *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   10      ，    PU                *     -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   11     因为     P             (PP*     -   -   -   -   *         *         *   (ARGM-PRP*      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   12      这    PN          (IP(NP*)    -   -   -   -   *         *         *            *      *    (ARG0*)       *        *        (ARG0*)            *      -
+bn/cnr/01/cnr_0100   0   13    有助于    VV          (VP(VP*    有助于  -   -   -   *         *         *            *      *       (V*)       *        *             *             *      -
+bn/cnr/01/cnr_0100   0   14     推进    VV          (IP(VP*     推进  -   -   -   *         *         *            *      *    (ARG1*      (V*)       *             *             *      -
+bn/cnr/01/cnr_0100   0   15     朝鲜    NR   (NP(NP(DNP(NP*     -   -   -   -   *         *         *            *      *         *   (ARG1*        *             *             *      -
+bn/cnr/01/cnr_0100   0   16     半岛    NN                *)    -   -   1   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   17      的   DEG                *)    -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   18     民族    NN             (NP*     -   -   1   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   19     和解    NN               *))    -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   20      和    CC                *     -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   21     南北    NN    (NP(CP(IP(NP*     -   -   -   -   *         *         *            *      *         *        *   (ARG0*             *             *      -
+bn/cnr/01/cnr_0100   0   22     关系    NN                *)    -   -   2   -   *         *         *            *      *         *        *        *)            *             *      -
+bn/cnr/01/cnr_0100   0   23    正常化    VV            (VP*))   正常化  -   -   -   *         *         *            *      *         *        *      (V*)            *             *      -
+bn/cnr/01/cnr_0100   0   24      的   DEC                *)    -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   25     进行    NN        (NP*))))))    -   -   2   -   *         *         *            *      *         *)       *)       *             *             *      -
+bn/cnr/01/cnr_0100   0   26      ，    PU                *     -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   27      也    AD        (VP(ADVP*)    -   -   -   -   *         *         *            *      *         *        *        *    (ARGM-DIS*)            *      -
+bn/cnr/01/cnr_0100   0   28    有助于    VV             (VP*    有助于  -   -   -   *         *         *            *      *         *        *        *           (V*)            *      -
+bn/cnr/01/cnr_0100   0   29    西班牙    NR   (IP(DNP(NP(NP*)    -   -   -   -   *         *         *            *      *         *        *        *        (ARG1*             *    (11)
+bn/cnr/01/cnr_0100   0   30      对     P             (PP*     -   -   3   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   31     朝鲜    NR            (NP*))    -   -   -   -   *         *         *            *      *         *        *        *             *             *     (9)
+bn/cnr/01/cnr_0100   0   32     事务    NN            (NP*))    -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   33      的   DEG                *)    -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+bn/cnr/01/cnr_0100   0   34     日益    AD     (IP(VP(ADVP*)    -   -   -   -   *         *         *            *      *         *        *        *             *    (ARGM-ADV*)     -
+bn/cnr/01/cnr_0100   0   35     关注    VV   (VP*)))))))))))    关注  -   -   -   *         *)        *            *)     *         *        *        *             *)          (V*)     -
+bn/cnr/01/cnr_0100   0   36      。    PU               *))    -   -   -   -   *         *         *            *      *         *        *        *             *             *      -
+
+bn/cnr/01/cnr_0100   0    0     罗马尼亚    NR     (TOP(IP(NP(NP*)   -   -   -   -   *        *        (ARG0*        (ARG0*    (6|(20)
+bn/cnr/01/cnr_0100   0    1       第一    OD               (QP*)   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0    2        大    JJ             (ADJP*)   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0    3        党    NN              (NP*))   -   -   -   -   *        *             *)            *)        -
+bn/cnr/01/cnr_0100   0    4       ——    PU                  *    -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0    5       社会    NN         (NP(NP(NP*    -   -   -   -   *        *        (ARG0*        (ARG0*         -
+bn/cnr/01/cnr_0100   0    6     民主主义    NN                  *)   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0    7        党    NN               (NP*    -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0    8      众议员    NN                 *))   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0    9    多尔内亚努    NR              (NP*))   -   -   -   -   *        *             *)            *)        6)
+bn/cnr/01/cnr_0100   0   10       前天    NT            (VP(NP*)   -   -   -   -   *        *    (ARGM-TMP*)   (ARGM-TMP*)       (3)
+bn/cnr/01/cnr_0100   0   11        在     P               (PP*    -   -   2   -   *        *    (ARGM-LOC*    (ARGM-LOC*         -
+bn/cnr/01/cnr_0100   0   12        新    JJ      (LCP(NP(ADJP*)   -   -   1   -   *        *             *             *       (17
+bn/cnr/01/cnr_0100   0   13        一    CD               (QP*    -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0   14        届     M             (CLP*))   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0   15      众议院    NN               (NP*    -   -   -   -   *        *             *             *        17)
+bn/cnr/01/cnr_0100   0   16       全体    JJ                  *    -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0   17       会议    NN                 *))   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0   18        上    LC                 *))   -   -   1   -   *        *             *)            *)        -
+bn/cnr/01/cnr_0100   0   19        以     P               (PP*    -   -   -   -   *        *    (ARGM-MNR*        (ARG2*         -
+bn/cnr/01/cnr_0100   0   20      ３０３    CD   (NP(CP(IP(NP(QP*)   -   -   -   -   *   (ARG0*             *             *         -
+bn/cnr/01/cnr_0100   0   21        票    NN              (NP*))   -   -   -   -   *        *)            *             *         -
+bn/cnr/01/cnr_0100   0   22       赞成    VV              (VP*))   赞成  -   -   -   *      (V*)            *             *         -
+bn/cnr/01/cnr_0100   0   23        的   DEC                  *)   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0   24       绝对    JJ             (ADJP*)   -   -   -   -   *        *             *             *         -
+bn/cnr/01/cnr_0100   0   25       多数    NN             (NP*)))   -   -   -   -   *        *             *)            *)        -
+bn/cnr/01/cnr_0100   0   26       当选    VV           (VP(VCP*    当选  -   -   -   *   (ARG1*           (V*)   (ARGM-ADV*)        -
+bn/cnr/01/cnr_0100   0   27        为    VC                  *)    为  -   2   -   *        *        (ARG1*)          (V*)        -
+bn/cnr/01/cnr_0100   0   28      众议长    NR             (NP*)))   -   -   -   -   *        *)       (ARG1*)       (ARG1*)        -
+bn/cnr/01/cnr_0100   0   29        。    PU                 *))   -   -   -   -   *        *             *             *         -
+
+bn/cnr/01/cnr_0100   0    0       现年    VV  (TOP(IP(NP(CP(IP(VP*    现年  -   -   -   *      (V*)     *       (ARG0*             *             *         *             *     (6
+bn/cnr/01/cnr_0100   0    1       ５６    CD                  (QP*    -   -   -   -   *   (ARG1*      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0    2        岁     M              (CLP*))))   -   -   -   -   *        *)     *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0    3        的   DEC                     *)   -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0    4    多尔内亚努    NR                 (NP*))   -   -   -   -   *        *      *            *)            *             *         *             *      6)
+bn/cnr/01/cnr_0100   0    5       当选    VV       (VP(LCP(IP(VP*))   当选  -   -   -   *        *    (V*)  (ARGM-TMP*             *             *         *             *      -
+bn/cnr/01/cnr_0100   0    6        后    LC                     *)   -   -   -   -   *        *      *            *)            *             *         *             *      -
+bn/cnr/01/cnr_0100   0    7       表示    VV                  (VP*    表示  -   2   -   *        *      *          (V*)            *             *         *             *      -
+bn/cnr/01/cnr_0100   0    8        ，    PU                     *    -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0    9        新    JJ          (IP(NP(ADJP*)   -   -   1   -   *        *      *       (ARG1*        (ARG0*        (ARG0*    (ARG0*             *    (17
+bn/cnr/01/cnr_0100   0   10       议会    NN                 (NP*))   -   -   -   -   *        *      *            *             *)            *)        *)            *     17)
+bn/cnr/01/cnr_0100   0   11        将    AD          (VP(VP(ADVP*)   -   -   -   -   *        *      *            *    (ARGM-ADV*)   (ARGM-ADV*)        *             *      -
+bn/cnr/01/cnr_0100   0   12       修改    VV               (VP(VP*    修改  -   1   -   *        *      *            *           (V*)            *         *             *      -
+bn/cnr/01/cnr_0100   0   13      一系列    CD               (NP(QP*)   -   -   -   -   *        *      *            *        (ARG1*             *         *             *      -
+bn/cnr/01/cnr_0100   0   14       规章    NN                  (NP*    -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   15       制度    NN                   *)))   -   -   -   -   *        *      *            *             *)            *         *             *      -
+bn/cnr/01/cnr_0100   0   16        ，    PU                     *    -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   17       改进    VV                  (VP*    改进  -   -   -   *        *      *            *             *           (V*)        *             *      -
+bn/cnr/01/cnr_0100   0   18        这    DT        (NP(DNP(NP(DP*    -   -   -   -   *        *      *            *             *        (ARG1*         *             *    (17
+bn/cnr/01/cnr_0100   0   19        个     M                (CLP*))   -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   20       机构    NN                 (NP*))   -   -   1   -   *        *      *            *             *             *         *             *     17)
+bn/cnr/01/cnr_0100   0   21        的   DEG                     *)   -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   22       立法    NN                  (NP*    -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   23       程序    NN                 *)))))   -   -   -   -   *        *      *            *             *             *)        *             *      -
+bn/cnr/01/cnr_0100   0   24        ，    PU                     *    -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   25        使    VV                  (VP*     使  -   1   -   *        *      *            *             *             *       (V*)            *      -
+bn/cnr/01/cnr_0100   0   26        其    PN                  (NP*)   -   -   -   -   *        *      *            *             *             *    (ARG1*)            *    (17)
+bn/cnr/01/cnr_0100   0   27        不    AD          (IP(VP(ADVP*)   -   -   -   -   *        *      *            *             *             *    (ARG2*    (ARGM-ADV*)     -
+bn/cnr/01/cnr_0100   0   28        再    AD                (ADVP*)   -   -   1   -   *        *      *            *             *             *         *    (ARGM-ADV*)     -
+bn/cnr/01/cnr_0100   0   29       成为    VV                  (VP*    成为  -   -   -   *        *      *            *             *             *         *           (V*)     -
+bn/cnr/01/cnr_0100   0   30       政治    NN        (NP(DNP(NP(NP*    -   -   1   -   *        *      *            *             *             *         *        (ARG1*      -
+bn/cnr/01/cnr_0100   0   31       冲突    NN                     *)   -   -   1   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   32        和    CC                     *    -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   33       空泛    JJ             (NP(ADJP*)   -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   34       论坛    NN                (NP*)))   -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   35        的   DEG                     *)   -   -   -   -   *        *      *            *             *             *         *             *      -
+bn/cnr/01/cnr_0100   0   36       场所    NN         (NP*))))))))))   -   -   -   -   *        *      *            *)            *             *         *)            *)     -
+bn/cnr/01/cnr_0100   0   37        。    PU                    *))   -   -   -   -   *        *      *            *             *             *         *             *      -
+
+bn/cnr/01/cnr_0100   0    0     同时    AD   (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *             *      -
+bn/cnr/01/cnr_0100   0    1      他    PN            (NP*)   -   -   -   -   *        (ARG0*)       *             *     (6)
+bn/cnr/01/cnr_0100   0    2      还    AD       (VP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)       *             *      -
+bn/cnr/01/cnr_0100   0    3     强调    VV            (VP*    强调  -   -   -   *           (V*)       *             *      -
+bn/cnr/01/cnr_0100   0    4      ，    PU               *    -   -   -   -   *             *        *             *      -
+bn/cnr/01/cnr_0100   0    5      他    PN         (IP(NP*)   -   -   -   -   *        (ARG1*        *        (ARG0*)    (6)
+bn/cnr/01/cnr_0100   0    6      将    AD       (VP(ADVP*)   -   -   -   -   *             *        *    (ARGM-ADV*)     -
+bn/cnr/01/cnr_0100   0    7      把    BA            (VP*    -   -   -   -   *             *        *             *      -
+bn/cnr/01/cnr_0100   0    8     加强    VV      (IP(IP(VP*    加强  -   -   -   *             *      (V*)       (ARG1*      -
+bn/cnr/01/cnr_0100   0    9      同     P     (NP(DNP(PP*    -   -   -   -   *             *   (ARG1*             *      -
+bn/cnr/01/cnr_0100   0   10     政府    NN           (NP*))   -   -   1   -   *             *        *             *    (20)
+bn/cnr/01/cnr_0100   0   11      的   DEG               *)   -   -   -   -   *             *        *             *      -
+bn/cnr/01/cnr_0100   0   12     合作    NN         (NP*))))   -   -   -   -   *             *        *)            *)     -
+bn/cnr/01/cnr_0100   0   13     作为    VV            (VP*    作为  -   1   -   *             *        *           (V*)     -
+bn/cnr/01/cnr_0100   0   14    众议院    NN     (NP(DNP(NP*)   -   -   -   -   *             *        *        (ARG2*    (17)
+bn/cnr/01/cnr_0100   0   15      的   DEG               *)   -   -   -   -   *             *        *             *      -
+bn/cnr/01/cnr_0100   0   16     优先    JJ          (ADJP*)   -   -   -   -   *             *        *             *      -
+bn/cnr/01/cnr_0100   0   17     任务    NN            (NP*    -   -   -   -   *             *        *             *      -
+bn/cnr/01/cnr_0100   0   18     之一    NN       *)))))))))   -   -   1   -   *             *)       *             *)     -
+bn/cnr/01/cnr_0100   0   19      。    PU              *))   -   -   -   -   *             *        *             *      -
+
+bn/cnr/01/cnr_0100   0    0       日本    NR         (TOP(IP(NP(NP*)   -   -   -   -   *             *       (ARG0*             *            (5
+bn/cnr/01/cnr_0100   0    1       政府    NN                  (NP*))   -   -   1   -   *             *            *)            *             5)
+bn/cnr/01/cnr_0100   0    2        在     P                (VP(PP*    -   -   2   -   *             *   (ARGM-LOC*             *             -
+bn/cnr/01/cnr_0100   0    3       前天    NT   (LCP(NP(CP(IP(VP(NP*)   -   -   -   -   *    (ARGM-TMP*)           *             *            (3)
+bn/cnr/01/cnr_0100   0    4       举行    VV                 (VP*)))   举行  -   -   -   *           (V*)           *             *             -
+bn/cnr/01/cnr_0100   0    5        的   DEC                      *)   -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0    6       安全    NN                (NP(NP*    -   -   2   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0    7       保障    NN                      *    -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0    8       会议    NN                      *)   -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0    9        和    CC                      *    -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   10       内阁    NN                   (NP*    -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   11       会议    NN                    *)))   -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   12        上    LC                     *))   -   -   1   -   *             *            *)            *             -
+bn/cnr/01/cnr_0100   0   13       制订    VV                   (VP*    制订  -   -   -   *        (ARG1*          (V*)            *             -
+bn/cnr/01/cnr_0100   0   14        了    AS                      *    -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   15    ２００１年    NT       (NP(CP(IP(VP(NP*)   -   -   -   -   *             *       (ARG1*    (ARGM-TMP*)  (12|(13|(16
+bn/cnr/01/cnr_0100   0   16        到    VV                   (VP*     到  -   3   -   *             *            *           (V*)            -
+bn/cnr/01/cnr_0100   0   17     ２００５    CD                   (QP*    -   -   -   -   *             *            *        (ARG1*            12)
+bn/cnr/01/cnr_0100   0   18       年度    NN              (CLP*)))))   -   -   -   -   *             *            *             *)           13)
+bn/cnr/01/cnr_0100   0   19        的   DEC                      *)   -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   20       中期    NN                   (NP*    -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   21       防卫    NN                      *    -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   22       力量    NN                      *)   -   -   -   -   *             *            *             *             -
+bn/cnr/01/cnr_0100   0   23       整备    NN                   (NP*    -   -   -   -   *             *            *        (ARG1*             -
+bn/cnr/01/cnr_0100   0   24       计划    NN                   *))))   -   -   1   -   *             *)           *)            *)           16)
+bn/cnr/01/cnr_0100   0   25        。    PU                     *))   -   -   -   -   *             *            *             *             -
+
+bn/cnr/01/cnr_0100   0    0          根据     P        (TOP(IP(PP*    -   -   -   -   *             *   (ARGM-MNR*   (ARGM-MNR*         -
+bn/cnr/01/cnr_0100   0    1           这    DT            (NP(DP*    -   -   -   -   *             *            *            *       (16
+bn/cnr/01/cnr_0100   0    2           项     M             (CLP*))   -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0    3           新    JJ             (ADJP*)   -   -   1   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0    4          计划    NN             (NP*)))   -   -   1   -   *             *            *)           *)       16)
+bn/cnr/01/cnr_0100   0    5           ，    PU                  *    -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0    6       ２００１年    NT   (NP(CP(IP(VP(NP*)   -   -   -   -   *    (ARGM-TMP*)      (ARG0*       (ARG0*   (12|(13
+bn/cnr/01/cnr_0100   0    7           到    VV               (VP*     到  -   3   -   *           (V*)           *            *         -
+bn/cnr/01/cnr_0100   0    8        ２００５    CD               (QP*    -   -   -   -   *        (ARG1*            *            *        12)
+bn/cnr/01/cnr_0100   0    9          年度    NN          (CLP*)))))   -   -   -   -   *             *)           *            *        13)
+bn/cnr/01/cnr_0100   0   10           的   DEC                  *)   -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0   11         防卫费    NN               (NP*    -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0   12          总额    NN                 *))   -   -   -   -   *             *            *)           *)        -
+bn/cnr/01/cnr_0100   0   13           为    VC            (VP(VP*     为  -   1   -   *             *          (V*)           *         -
+bn/cnr/01/cnr_0100   0   14    ２５万１６００亿    CD               (QP*    -   -   -   -   *             *       (ARG1*            *         -
+bn/cnr/01/cnr_0100   0   15          日元     M            (CLP*)))   -   -   -   -   *             *            *)           *         -
+bn/cnr/01/cnr_0100   0   16           ，    PU                  *    -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0   17           以   MSP               (VP*    -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0   18          加强    VV               (VP*    加强  -   -   -   *             *            *          (V*)        -
+bn/cnr/01/cnr_0100   0   19         自卫队    NN        (NP(DNP(NP*)   -   -   -   -   *             *            *       (ARG1*       (14)
+bn/cnr/01/cnr_0100   0   20           的   DEG                  *)   -   -   -   -   *             *            *            *         -
+bn/cnr/01/cnr_0100   0   21          装备    NN           (NP*)))))   -   -   -   -   *             *            *            *)        -
+bn/cnr/01/cnr_0100   0   22           。    PU                 *))   -   -   -   -   *             *            *            *         -
+
+bn/cnr/01/cnr_0100   0    0     新   JJ   (TOP(IP(NP(ADJP*)   -   -   1   -   *        (ARG0*             *        *   (16
+bn/cnr/01/cnr_0100   0    1    计划   NN              (NP*))   -   -   1   -   *             *)            *        *    16)
+bn/cnr/01/cnr_0100   0    2    同时   AD          (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)       *     -
+bn/cnr/01/cnr_0100   0    3    准备   VV               (VP*    准备  -   2   -   *           (V*)            *        *     -
+bn/cnr/01/cnr_0100   0    4    继续   VV            (IP(VP*    继续  -   -   -   *        (ARG1*           (V*)       *     -
+bn/cnr/01/cnr_0100   0    5    推进   VV               (VP*    推进  -   -   -   *             *        (ARG1*      (V*)    -
+bn/cnr/01/cnr_0100   0    6     与    P            (NP(PP*    -   -   -   -   *             *             *   (ARG1*     -
+bn/cnr/01/cnr_0100   0    7    美国   NR            (NP(NP*)   -   -   -   -   *             *             *        *    (4)
+bn/cnr/01/cnr_0100   0    8    共同   JJ             (ADJP*)   -   -   -   -   *             *             *        *     -
+bn/cnr/01/cnr_0100   0    9    研究   NN               (NP*    -   -   4   -   *             *             *        *     -
+bn/cnr/01/cnr_0100   0   10    开发   NN                *)))   -   -   1   -   *             *             *        *     -
+bn/cnr/01/cnr_0100   0   11    战区   NN               (NP*    -   -   -   -   *             *             *        *     -
+bn/cnr/01/cnr_0100   0   12    导弹   NN                  *    -   -   -   -   *             *             *        *     -
+bn/cnr/01/cnr_0100   0   13    防御   NN                  *    -   -   -   -   *             *             *        *     -
+bn/cnr/01/cnr_0100   0   14    系统   NN            *)))))))   -   -   1   -   *             *)            *)       *)    -
+bn/cnr/01/cnr_0100   0   15     。   PU                 *))   -   -   -   -   *             *             *        *     -
+
+bn/cnr/01/cnr_0100   0    0     当地    NN             (TOP(IP(NP*    -   -   -   -   *   (ARG0*        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    1     舆论    NN                       *)   -   -   -   -   *        *)       *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    2     指出    VV                    (VP*    指出  -   -   -   *      (V*)       *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    3      ，    PU                       *    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    4      新    JJ   (IP(IP(NP(NP(QP(ADJP*)   -   -   1   -   *   (ARG1*   (ARG2*        (ARG0*        *        *             *      *             *    (16
+bn/cnr/01/cnr_0100   0    5      一    CD                    (QP*    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    6      期     M                 (CLP*)))   -   -   1   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    7     日本    NR                    (NP*)   -   -   -   -   *        *        *             *        *        *             *      *             *     (5)
+bn/cnr/01/cnr_0100   0    8     中期    NN                    (NP*    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0    9     访问    NN                       *    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   10     力量    NN                      *))   -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   11     整备    NN                    (NP*    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   12     计划    NN                      *))   -   -   1   -   *        *        *)            *)       *        *             *      *             *     16)
+bn/cnr/01/cnr_0100   0   13     表明    VV                    (VP*    表明  -   -   -   *        *      (V*)            *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   14      ，    PU                       *    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   15     日本    NR                 (IP(NP*)   -   -   -   -   *        *   (ARG1*        (ARG0*)       *        *             *      *             *     (5)
+bn/cnr/01/cnr_0100   0   16     正在    AD               (VP(ADVP*)   -   -   -   -   *        *        *    (ARGM-ADV*)       *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   17     试图    VV                    (VP*    试图  -   -   -   *        *        *           (V*)       *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   18     加强    VV                 (IP(VP*    加强  -   -   -   *        *        *        (ARG1*      (V*)       *             *      *             *      -
+bn/cnr/01/cnr_0100   0   19    自卫队    NN             (NP(DNP(NP*)   -   -   -   -   *        *        *             *   (ARG1*        *             *      *             *    (14)
+bn/cnr/01/cnr_0100   0   20      的   DEG                       *)   -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   21     越洋    NN                    (NP*    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   22     行动    NN                       *    -   -   1   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   23     能力    NN               *)))))))))   -   -   1   -   *        *        *)            *)       *)       *             *      *             *      -
+bn/cnr/01/cnr_0100   0   24      ，    PU                       *    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   25     日本    NR              (IP(NP(NP*)   -   -   -   -   *        *        *             *        *        *        (ARG0*      *             *    (14
+bn/cnr/01/cnr_0100   0   26    自卫队    NN                   (NP*))   -   -   -   -   *        *        *             *        *        *             *)     *             *     14)
+bn/cnr/01/cnr_0100   0   27     装备    VV          (VP(LCP(IP(VP*    装备  -   -   -   *        *        *             *        *      (V*)   (ARGM-TMP*      *             *      -
+bn/cnr/01/cnr_0100   0   28     空中    NN                    (NP*    -   -   -   -   *        *        *             *        *   (ARG1*             *      *             *      -
+bn/cnr/01/cnr_0100   0   29    加油机    NN                     *)))   -   -   -   -   *        *        *             *        *        *)            *      *             *      -
+bn/cnr/01/cnr_0100   0   30      后    LC                       *)   -   -   -   -   *        *        *             *        *        *             *)     *             *      -
+bn/cnr/01/cnr_0100   0   31      ，    PU                       *    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   32      将    AD                  (ADVP*)   -   -   -   -   *        *        *             *        *        *    (ARGM-ADV*)     *             *      -
+bn/cnr/01/cnr_0100   0   33     扩大    VV                    (VP*    扩大  -   -   -   *        *        *             *        *        *           (V*)     *             *      -
+bn/cnr/01/cnr_0100   0   34     续航    NN                    (NP*    -   -   -   -   *        *        *             *        *        *        (ARG1*      *             *      -
+bn/cnr/01/cnr_0100   0   35     能力    NN                    *))))   -   -   1   -   *        *        *             *        *        *             *)     *             *      -
+bn/cnr/01/cnr_0100   0   36      ，    PU                       *    -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   37      这    PN                 (IP(NP*)   -   -   -   -   *        *        *             *        *        *             *      *        (ARG0*)     -
+bn/cnr/01/cnr_0100   0   38      必    VV                    (VP*     必  -   1   -   *        *        *             *        *        *             *    (V*)            *      -
+bn/cnr/01/cnr_0100   0   39      将    AD               (VP(ADVP*)   -   -   -   -   *        *        *             *        *        *             *      *    (ARGM-ADV*)     -
+bn/cnr/01/cnr_0100   0   40      对     P                    (PP*    -   -   3   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   41     周边    NN                 (NP(NP*)   -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   42      各    DT                    (DP*)   -   -   -   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   43      国    NN                  (NP*)))   -   -   1   -   *        *        *             *        *        *             *      *             *      -
+bn/cnr/01/cnr_0100   0   44     构成    VV                    (VP*    构成  -   -   -   *        *        *             *        *        *             *      *           (V*)     -
+bn/cnr/01/cnr_0100   0   45     威胁    NN              (NP*)))))))   -   -   -   -   *        *)       *             *        *        *             *      *        (ARG1*)     -
+bn/cnr/01/cnr_0100   0   46      。    PU                      *))   -   -   -   -   *        *        *             *        *        *             *      *             *      -
+
+bn/cnr/01/cnr_0100   0    0    朝鲜    NR  (TOP(IP(NP*    -   -   -   -   *        (ARG0*        *    (ARG0*   (10
+bn/cnr/01/cnr_0100   0    1     和    CC            *    -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0    2    美国    NR            *)   -   -   -   -   *             *)       *         *)   10)
+bn/cnr/01/cnr_0100   0    3    昨天    NT   (VP(VP(NP*)   -   -   1   -   *    (ARGM-TMP*)       *         *    (8)
+bn/cnr/01/cnr_0100   0    4    结束    VV         (VP*    结束  -   -   -   *           (V*)       *         *     -
+bn/cnr/01/cnr_0100   0    5     了    AS            *    -   -   -   -   *        (ARG1*)       *         *     -
+bn/cnr/01/cnr_0100   0    6    关于     P  (NP(DNP(PP*    -   -   -   -   *        (ARG1*        *         *     -
+bn/cnr/01/cnr_0100   0    7    寻找    VV      (IP(VP*    寻找  -   -   -   *             *      (V*)        *     -
+bn/cnr/01/cnr_0100   0    8    朝鲜    NR   (NP(NP(NP*    -   -   -   -   *             *   (ARG1*         *   (21
+bn/cnr/01/cnr_0100   0    9    战争    NN            *)   -   -   1   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   10    期间    NN         (NP*)   -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   11    失踪    JJ       (ADJP*)   -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   12    美军    NN         (NP*    -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   13    士兵    NN           *))   -   -   -   -   *             *        *         *    21)
+bn/cnr/01/cnr_0100   0   14    问题    NN     (NP*)))))   -   -   1   -   *             *        *)        *     -
+bn/cnr/01/cnr_0100   0   15     的   DEG            *)   -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   16    会谈    NN      (NP*))))   -   -   -   -   *             *)       *         *     -
+bn/cnr/01/cnr_0100   0   17     并    CC            *    -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   18    达成    VV         (VP*    达成  -   -   -   *             *        *       (V*)    -
+bn/cnr/01/cnr_0100   0   19     了    AS            *    -   -   -   -   *             *        *         *     -
+bn/cnr/01/cnr_0100   0   20    共识    NN       (NP*)))   -   -   -   -   *             *        *    (ARG1*)    -
+bn/cnr/01/cnr_0100   0   21     。    PU           *))   -   -   -   -   *             *        *         *     -
+
+bn/cnr/01/cnr_0100   0    0    双方    PN        (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)       *            *        *         *        *      (10)
+bn/cnr/01/cnr_0100   0    1    同意    VV               (VP*    同意  -   1   -   *       (V*)       *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0    2    扩大    VV         (IP(VP(VP*    扩大  -   -   -   *    (ARG1*      (V*)           *        *         *        *        -
+bn/cnr/01/cnr_0100   0    3    美国    NR      (NP(CP(IP(NP*)   -   -   -   -   *         *   (ARG1*       (ARG0*)       *         *        *    (2|(4)
+bn/cnr/01/cnr_0100   0    4     在     P            (VP(PP*    -   -   2   -   *         *        *   (ARGM-LOC*        *         *        *        -
+bn/cnr/01/cnr_0100   0    5    朝鲜    NR              (NP*))   -   -   -   -   *         *        *            *)       *         *        *       (9)
+bn/cnr/01/cnr_0100   0    6    寻找    VV               (VP*    寻找  -   -   -   *         *        *          (V*)       *         *        *        -
+bn/cnr/01/cnr_0100   0    7    失踪    JJ   (NP(DNP(NP(ADJP*)   -   -   -   -   *         *        *       (ARG1*        *         *        *      (21
+bn/cnr/01/cnr_0100   0    8    美军    NN               (NP*    -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0    9    士兵    NN                 *))   -   -   -   -   *         *        *            *        *         *        *       21)
+bn/cnr/01/cnr_0100   0   10     的   DEG                  *)   -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   11    工作    NN               (NP*    -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   12    小组    NN              *)))))   -   -   -   -   *         *        *            *)       *         *        *        2)
+bn/cnr/01/cnr_0100   0   13     的   DEC                  *)   -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   14    规模    NN             (NP*)))   -   -   1   -   *         *        *)           *        *         *        *        -
+bn/cnr/01/cnr_0100   0   15     ，    PU                  *    -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   16    增加    VV               (VP*    增加  -   1   -   *         *        *            *      (V*)        *        *        -
+bn/cnr/01/cnr_0100   0   17    寻找    VV   (NP(NP(CP(IP(VP*    寻找  -   -   -   *         *        *            *   (ARG1*       (V*)       *       (7
+bn/cnr/01/cnr_0100   0   18    行动    NN             (NP*)))   -   -   1   -   *         *        *            *        *    (ARG1*)       *        7)
+bn/cnr/01/cnr_0100   0   19     的   DEC                  *)   -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   20    次数    NN              (NP*))   -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   21    以及    CC                  *    -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   22    扩大    VV      (NP(CP(IP(VP*    扩大  -   -   -   *         *        *            *        *         *      (V*)       -
+bn/cnr/01/cnr_0100   0   23    搜寻    NN               (NP*    -   -   -   -   *         *        *            *        *         *   (ARG1*       (7
+bn/cnr/01/cnr_0100   0   24    行动    NN                *)))   -   -   1   -   *         *        *            *        *         *        *)       7)
+bn/cnr/01/cnr_0100   0   25     的   DEC                  *)   -   -   -   -   *         *        *            *        *         *        *        -
+bn/cnr/01/cnr_0100   0   26    范围    NN         (NP*)))))))   -   -   -   -   *         *)       *            *        *)        *        *        -
+bn/cnr/01/cnr_0100   0   27     。    PU                 *))   -   -   -   -   *         *        *            *        *         *        *        -
+
+bn/cnr/01/cnr_0100   0    0      据     P    (TOP(IP(PP*    -   -   -   -   *    (ARGM-MNR*    (ARGM-MNR*   -
+bn/cnr/01/cnr_0100   0    1     透露    NN          (NP*))   -   -   3   -   *             *)            *)  -
+bn/cnr/01/cnr_0100   0    2      ，    PU              *    -   -   -   -   *             *             *   -
+bn/cnr/01/cnr_0100   0    3     明年    NT    (NP(DNP(NP*)   -   -   -   -   *        (ARG1*        (ARG1*   -
+bn/cnr/01/cnr_0100   0    4      的   DEG              *)   -   -   -   -   *             *             *   -
+bn/cnr/01/cnr_0100   0    5     寻找    NN           (NP*    -   -   -   -   *             *             *   -
+bn/cnr/01/cnr_0100   0    6     行动    NN             *))   -   -   1   -   *             *)            *)  -
+bn/cnr/01/cnr_0100   0    7      将    AD   (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *   -
+bn/cnr/01/cnr_0100   0    8      于     P           (PP*    -   -   -   -   *    (ARGM-TMP*             *   -
+bn/cnr/01/cnr_0100   0    9    ４月份    NT          (NP*))   -   -   -   -   *             *)            *   -
+bn/cnr/01/cnr_0100   0   10     开始    VV          (VP*))   开始  -   -   -   *           (V*)            *   -
+bn/cnr/01/cnr_0100   0   11      ，    PU              *    -   -   -   -   *             *             *   -
+bn/cnr/01/cnr_0100   0   12      共    AD      (VP(ADVP*)   -   -   2   -   *             *    (ARGM-ADV*)  -
+bn/cnr/01/cnr_0100   0   13     进行    VV           (VP*    进行  -   3   -   *             *           (V*)  -
+bn/cnr/01/cnr_0100   0   14     １０    CD           (QP*    -   -   -   -   *             *    (ARGM-ADV*   -
+bn/cnr/01/cnr_0100   0   15      次     M      (CLP*)))))   -   -   -   -   *             *             *)  -
+bn/cnr/01/cnr_0100   0   16      。    PU             *))   -   -   -   -   *             *             *   -
+
+bn/cnr/01/cnr_0100   0    0     在     P            (TOP(IP(PP*    -   -   2   -   *             *    (ARGM-LOC*    (ARGM-LOC*     -
+bn/cnr/01/cnr_0100   0    1    今年    NT   (LCP(NP(CP(IP(VP(NP*)   -   -   -   -   *    (ARGM-TMP*)            *             *    (1
+bn/cnr/01/cnr_0100   0    2    进行    VV                 (VP*)))   进行  -   1   -   *           (V*)            *             *     -
+bn/cnr/01/cnr_0100   0    3     的   DEC                      *)   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0    4     ５    CD                   (QP*    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0    5     次     M                 (CLP*))   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0    6    寻找    NN                   (NP*    -   -   -   -   *        (ARG1*             *             *     -
+bn/cnr/01/cnr_0100   0    7    行动    NN                     *))   -   -   1   -   *             *)            *             *     1)
+bn/cnr/01/cnr_0100   0    8     中    LC                     *))   -   -   -   -   *             *             *)            *)    -
+bn/cnr/01/cnr_0100   0    9     ，    PU                      *    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   10    工作    NN                   (NP*    -   -   -   -   *             *        (ARG0*        (ARG0*    (2
+bn/cnr/01/cnr_0100   0   11    小组    NN                      *)   -   -   -   -   *             *             *)            *)    2)
+bn/cnr/01/cnr_0100   0   12     共    AD           (VP(VP(ADVP*)   -   -   2   -   *             *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0100   0   13    发现    VV                   (VP*    发现  -   1   -   *             *           (V*)            *     -
+bn/cnr/01/cnr_0100   0   14    ６５    CD         (NP(DNP(NP(QP*    -   -   -   -   *             *        (ARG1*             *     -
+bn/cnr/01/cnr_0100   0   15     具     M                 (CLP*))   -   -   2   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   16    美军    NN                   (NP*    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   17    士兵    NN                     *))   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   18     的   DEG                      *)   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   19    遗骸    NN                (NP*))))   -   -   -   -   *             *             *)            *     -
+bn/cnr/01/cnr_0100   0   20     ，    PU                      *    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   21     在     P                (VP(PP*    -   -   2   -   *             *             *    (ARGM-LOC*     -
+bn/cnr/01/cnr_0100   0   22     此    PN    (LCP(QP(DNP(LCP(NP*)   -   -   -   -   *             *             *             *    (1)
+bn/cnr/01/cnr_0100   0   23    之前    LC                      *)   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   24     的   DEG                      *)   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   25     四    CD                   (QP*    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   26     年     M                (CLP*)))   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   27     里    LC                     *))   -   -   -   -   *             *             *             *)    -
+bn/cnr/01/cnr_0100   0   28     ，    PU                      *    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   29     共    AD                 (ADVP*)   -   -   2   -   *             *             *    (ARGM-ADV*)    -
+bn/cnr/01/cnr_0100   0   30    找到    VV                   (VP*    找到  -   1   -   *             *             *           (V*)    -
+bn/cnr/01/cnr_0100   0   31    ４２    CD         (NP(DNP(NP(QP*    -   -   -   -   *             *             *        (ARG1*     -
+bn/cnr/01/cnr_0100   0   32     具     M                 (CLP*))   -   -   2   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   33    美军    NN                   (NP*    -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   34    士兵    NN                     *))   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   35     的   DEG                      *)   -   -   -   -   *             *             *             *     -
+bn/cnr/01/cnr_0100   0   36    遗骸    NN               (NP*)))))   -   -   -   -   *             *             *             *)    -
+bn/cnr/01/cnr_0100   0   37     。    PU                     *))   -   -   -   -   *             *             *             *     -
+
+bn/cnr/01/cnr_0100   0    0    俄罗斯   NR   (TOP(IP(NP(NP(NP*)   -   -   -   -   *        (ARG0*     -
+bn/cnr/01/cnr_0100   0    1     国家   NN               (NP*))   -   -   1   -   *             *     -
+bn/cnr/01/cnr_0100   0    2     杜马   NR               (NP*))   -   -   -   -   *             *)    -
+bn/cnr/01/cnr_0100   0    3     前天   NT             (VP(NP*)   -   -   -   -   *    (ARGM-TMP*)   (3)
+bn/cnr/01/cnr_0100   0    4     批准   VV                (VP*    批准  -   1   -   *           (V*)    -
+bn/cnr/01/cnr_0100   0    5      了   AS                   *    -   -   -   -   *             *     -
+bn/cnr/01/cnr_0100   0    6     美国   NR                (NP*    -   -   -   -   *        (ARG1*     -
+bn/cnr/01/cnr_0100   0    7      、   PU                   *    -   -   -   -   *             *     -
+bn/cnr/01/cnr_0100   0    8    俄罗斯   NR                   *    -   -   -   -   *             *     -
+bn/cnr/01/cnr_0100   0    9      、   PU                   *    -   -   -   -   *             *     -
+bn/cnr/01/cnr_0100   0   10     欧洲   NR                   *    -   -   -   -   *             *     -
+bn/cnr/01/cnr_0100   0   11     航天   NN                   *    -   -   -   -   *             *     -
+bn/cnr/01/cnr_0100   0   12      …   PU                 *)))   -   -   -   -   *             *)    -
+bn/cnr/01/cnr_0100   0   13      …   PU                  *))   -   -   -   -   *             *     -
+
+#end document

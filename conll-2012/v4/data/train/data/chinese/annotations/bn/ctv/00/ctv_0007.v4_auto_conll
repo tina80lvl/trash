@@ -1,0 +1,166 @@
+#begin document (bn/ctv/00/ctv_0007); part 000
+bn/ctv/00/ctv_0007   0    0     记者    NN       (TOP(IP(NP*)   -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0    1     ９号    NT           (VP(NP*)   -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0    2      从     P              (PP*    -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0    3    铁道部    NN             (NP*))   -   -   -   -   *      *             *             *    (1)
+bn/ctv/00/ctv_0007   0    4     了解    VV          (VP(VRD*    -   -   1   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0    5      到    VV                 *)    到  -   4   -   *    (V*)            *             *     -
+bn/ctv/00/ctv_0007   0    6      ，    PU                 *    -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0    7     中国    NR        (IP(IP(NP*    -   -   -   -   *      *        (ARG0*             *     -
+bn/ctv/00/ctv_0007   0    8     铁路    NN                 *)   -   -   -   -   *      *             *)            *     -
+bn/ctv/00/ctv_0007   0    9      将    AD         (VP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0007   0   10     再次    AD            (ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0007   0   11     提速    VV            (VP*)))   提速  -   -   -   *      *           (V*)            *     -
+bn/ctv/00/ctv_0007   0   12      ，    PU                 *    -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0   13     目前    NT           (IP(NP*)   -   -   -   -   *      *             *    (ARGM-TMP*)    -
+bn/ctv/00/ctv_0007   0   14     提速    NN   (NP(DNP(LCP(NP*)   -   -   -   -   *      *             *        (ARG0*     -
+bn/ctv/00/ctv_0007   0   15      前    LC                 *)   -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0   16      的   DEG                 *)   -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0   17      各    DT              (DP*    -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0   18      项     M            (CLP*))   -   -   -   -   *      *             *             *     -
+bn/ctv/00/ctv_0007   0   19     工作    NN             (NP*))   -   -   -   -   *      *             *             *)    -
+bn/ctv/00/ctv_0007   0   20     已经    AD         (VP(ADVP*)   -   -   -   -   *      *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0007   0   21     就绪    VV         (VP*))))))   就绪  -   -   -   *      *             *           (V*)    -
+bn/ctv/00/ctv_0007   0   22      。    PU                *))   -   -   -   -   *      *             *             *     -
+
+bn/ctv/00/ctv_0007   0    0      近日    NT        (TOP(IP(IP(NP*)   -   -   -   -   *    (ARGM-TMP*)   (ARGM-TMP*)     *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0    1      全长    VV         (NP(CP(IP(VP*    全长  -   -   -   *           (V*)       (ARG1*      *            *      *             *         *             *   (0
+bn/ctv/00/ctv_0007   0    2    ３４２８    CD                  (QP*    -   -   -   -   *        (ARG1*             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0    3      公里     M              (CLP*))))   -   -   -   -   *             *)            *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0    4       的   DEC                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0    5      兰新    NN                  (NP*    -   -   -   -   *             *             *      *            *      *             *         *             *   (2
+bn/ctv/00/ctv_0007   0    6       －    PU                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0    7      陇海    NR                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    2)
+bn/ctv/00/ctv_0007   0    8      铁路    NN                  (NP*    -   -   -   -   *        (ARG1*             *      *            *      *             *         *             *    0)
+bn/ctv/00/ctv_0007   0    9      提速    NN                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   10      改造    NN                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   11      工程    NN                    *))   -   -   1   -   *             *)            *)     *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   12      全部    AD             (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)     *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   13      完工    VV                (VP*)))   完工  -   -   -   *             *           (V*)     *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   14       ，    PU                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   15      列车    NN               (IP(NP*    -   -   -   -   *             *             *      *       (ARG0*      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   16      试验    NN                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   17      速度    NN                     *)   -   -   -   -   *             *             *      *            *)     *             *         *             *    -
+bn/ctv/00/ctv_0007   0   18       每    DT            (VP(NP(DP*)   -   -   -   -   *             *             *      *   (ARGM-TMP*      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   19      小时    NN                 (NP*))   -   -   -   -   *             *             *      *            *)     *             *         *             *    -
+bn/ctv/00/ctv_0007   0   20      可以    VV                  (VP*    可以  -   1   -   *             *             *    (V*)           *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   21      达到    VV                  (VP*    达到  -   -   -   *             *             *      *          (V*)     *             *         *             *    -
+bn/ctv/00/ctv_0007   0   22     １４０    CD                  (QP*    -   -   -   -   *             *             *      *       (ARG1*      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   23      公里     M            (CLP*))))))   -   -   -   -   *             *             *      *            *)     *             *         *             *    -
+bn/ctv/00/ctv_0007   0   24       ，    PU                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   25      其中    NN               (IP(NP*)   -   -   -   -   *             *             *      *            *      *    (ARGM-LOC*)        *             *    -
+bn/ctv/00/ctv_0007   0   26     ５６％    CD           (NP(DNP(QP*)   -   -   -   -   *             *             *      *            *      *        (ARG0*         *             *    -
+bn/ctv/00/ctv_0007   0   27       的   DEG                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   28      线路    NN                  (NP*    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   29      列车    NN                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   30      时速    NN                    *))   -   -   -   -   *             *             *      *            *      *             *)        *             *    -
+bn/ctv/00/ctv_0007   0   31      可以    VV                  (VP*    可以  -   1   -   *             *             *      *            *    (V*)            *         *             *    -
+bn/ctv/00/ctv_0007   0   32      达到    VV                  (VP*    达到  -   -   -   *             *             *      *            *      *           (V*)        *             *    -
+bn/ctv/00/ctv_0007   0   33     １２０    CD              (LCP(QP*    -   -   -   -   *             *             *      *            *      *        (ARG1*         *             *    -
+bn/ctv/00/ctv_0007   0   34      公里     M                (CLP*))   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   35      以上    LC                  *))))   -   -   -   -   *             *             *      *            *      *             *)        *             *    -
+bn/ctv/00/ctv_0007   0   36       ，    PU                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   37       这    PN               (IP(NP*)   -   -   -   -   *             *             *      *            *      *             *    (ARG2*)            *    -
+bn/ctv/00/ctv_0007   0   38      表明    VV                  (VP*    表明  -   -   -   *             *             *      *            *      *             *       (V*)            *    -
+bn/ctv/00/ctv_0007   0   39      西部    NN  (IP(NP(DNP(NP(NP(NP*    -   -   -   -   *             *             *      *            *      *             *    (ARG1*        (ARG0*   (0
+bn/ctv/00/ctv_0007   0   40      铁路    NN                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   41       大    JJ                (ADJP*)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   42      通道    NN                 (NP*))   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   43       “    PU                  (NP*    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   44       亚    NR                  (NP*    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   45       欧    NR                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   46     大陆桥    NN                  (NP*)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   47       ”    PU                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   48       主    JJ                (ADJP*)   -   -   2   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   49      干线    NN                 (NP*))   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   50       的   DEG                     *)   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   51      陇海    NN                  (NP*    -   -   -   -   *             *             *      *            *      *             *         *             *   (2
+bn/ctv/00/ctv_0007   0   52       －    PU                     *    -   -   -   -   *             *             *      *            *      *             *         *             *    -
+bn/ctv/00/ctv_0007   0   53      兰新    NR                  (NP*    -   -   -   -   *             *             *      *            *      *             *         *             *    2)
+bn/ctv/00/ctv_0007   0   54      铁路    NN                   *)))   -   -   -   -   *             *             *      *            *      *             *         *             *)   0)
+bn/ctv/00/ctv_0007   0   55      已经    AD             (VP(ADVP*)   -   -   -   -   *             *             *      *            *      *             *         *    (ARGM-ADV*)   -
+bn/ctv/00/ctv_0007   0   56      基本    AD                (ADVP*)   -   -   -   -   *             *             *      *            *      *             *         *    (ARGM-ADV*)   -
+bn/ctv/00/ctv_0007   0   57      达到    VV                  (VP*    达到  -   -   -   *             *             *      *            *      *             *         *           (V*)   -
+bn/ctv/00/ctv_0007   0   58      标准    NN             (NP*))))))   -   -   -   -   *             *             *      *            *      *             *         *)       (ARG1*)   -
+bn/ctv/00/ctv_0007   0   59       。    PU                    *))   -   -   -   -   *             *             *      *            *      *             *         *             *    -
+
+bn/ctv/00/ctv_0007   0    0      为了     P        (TOP(IP(PP*    -   -   -   -   *        *    (ARGM-PRP*    (ARGM-PRP*   (ARGM-PRP*   (ARGM-PRP*   (ARGM-PRP*   (ARGM-PRP*     -
+bn/ctv/00/ctv_0007   0    1      确保    VV            (IP(VP*    确保  -   -   -   *      (V*)            *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0    2      提速    NN        (NP(DNP(NP*)   -   -   -   -   *   (ARG1*             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0    3       的   DEG                  *)   -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0    4      安全    NN           (NP*)))))   -   -   1   -   *        *)            *)            *)           *)           *)           *)           *)    -
+bn/ctv/00/ctv_0007   0    5       ，    PU                  *    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0    6     铁道部    NN            (NP(NP*)   -   -   -   -   *        *        (ARG0*        (ARG0*       (ARG0*       (ARG0*       (ARG0*       (ARG0*    (1)
+bn/ctv/00/ctv_0007   0    7       和    CC                  *    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0    8       各    DT            (NP(DP*)   -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0    9     铁路局    NN             (NP*)))   -   -   -   -   *        *             *)            *)           *)           *)           *)           *)    -
+bn/ctv/00/ctv_0007   0   10      先后    AD       (VP(VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)   (ARGM-ADV*)           *            *            *            *     -
+bn/ctv/00/ctv_0007   0   11      投资    VV            (VP(VP*    投资  -   1   -   *        *           (V*)            *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   12    ２０多亿    CD               (QP*    -   -   -   -   *        *        (ARG2*             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   13       元     M            (CLP*)))   -   -   -   -   *        *             *)            *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   14       对     P            (VP(PP*    -   -   3   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   15      现有    JJ   (NP(DNP(QP(ADJP*)   -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   16     １万多    CD               (QP*    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   17      公里     M            (CLP*)))   -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   18       的   DEG                  *)   -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   19      铁路    NN             (NP*)))   -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   20      进行    VV               (VP*    进行  -   3   -   *        *             *           (V*)           *            *            *            *     -
+bn/ctv/00/ctv_0007   0   21      改造    NN           (NP*)))))   -   -   -   -   *        *             *        (ARG1*)           *            *            *            *     -
+bn/ctv/00/ctv_0007   0   22       ，    PU                  *    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   23      更换    VV               (VP*    更换  -   -   -   *        *             *             *          (V*)           *            *            *     -
+bn/ctv/00/ctv_0007   0   24      提速    NN               (NP*    -   -   -   -   *        *             *             *       (ARG1*            *            *            *     -
+bn/ctv/00/ctv_0007   0   25      道岔    NN                  *)   -   -   -   -   *        *             *             *            *)           *            *            *     -
+bn/ctv/00/ctv_0007   0   26    ２０４６    CD               (QP*    -   -   -   -   *        *             *             *       (ARG1*            *            *            *     -
+bn/ctv/00/ctv_0007   0   27       组     M            (CLP*)))   -   -   1   -   *        *             *             *            *)           *            *            *     -
+bn/ctv/00/ctv_0007   0   28       ，    PU                  *    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   29      改造    VV               (VP*    改造  -   -   -   *        *             *             *            *          (V*)           *            *     -
+bn/ctv/00/ctv_0007   0   30       大    JJ          (NP(ADJP*)   -   -   -   -   *        *             *             *            *       (ARG1*            *            *     -
+bn/ctv/00/ctv_0007   0   31      弯道    NN              (NP*))   -   -   -   -   *        *             *             *            *            *)           *            *     -
+bn/ctv/00/ctv_0007   0   32     ４４３    CD               (QP*    -   -   -   -   *        *             *             *            *       (ARG1*            *            *     -
+bn/ctv/00/ctv_0007   0   33       处     M            (CLP*)))   -   -   1   -   *        *             *             *            *            *)           *            *     -
+bn/ctv/00/ctv_0007   0   34       ，    PU                  *    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   35      更换    VV               (VP*    更换  -   -   -   *        *             *             *            *            *          (V*)           *     -
+bn/ctv/00/ctv_0007   0   36      无缝    NN               (NP*    -   -   -   -   *        *             *             *            *            *       (ARG1*            *     -
+bn/ctv/00/ctv_0007   0   37      钢管    NN                  *)   -   -   -   -   *        *             *             *            *            *            *)           *     -
+bn/ctv/00/ctv_0007   0   38     ６０３    CD               (QP*    -   -   -   -   *        *             *             *            *            *       (ARG1*            *     -
+bn/ctv/00/ctv_0007   0   39      公里     M            (CLP*)))   -   -   -   -   *        *             *             *            *            *            *)           *     -
+bn/ctv/00/ctv_0007   0   40       ，    PU                  *    -   -   -   -   *        *             *             *            *            *            *            *     -
+bn/ctv/00/ctv_0007   0   41      封闭    VV               (VP*    封闭  -   -   -   *        *             *             *            *            *            *          (V*)    -
+bn/ctv/00/ctv_0007   0   42      线路    NN               (NP*)   -   -   -   -   *        *             *             *            *            *            *       (ARG1*)    -
+bn/ctv/00/ctv_0007   0   43    １２１０    CD               (QP*    -   -   -   -   *        *             *             *            *            *            *       (ARG1*     -
+bn/ctv/00/ctv_0007   0   44      公里     M           (CLP*))))   -   -   -   -   *        *             *             *            *            *            *            *)    -
+bn/ctv/00/ctv_0007   0   45       。    PU                 *))   -   -   -   -   *        *             *             *            *            *            *            *     -
+
+bn/ctv/00/ctv_0007   0    0      此外    AD   (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)     *    (ARGM-DIS*)   (ARGM-DIS*)  -
+bn/ctv/00/ctv_0007   0    1       ，    PU               *    -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0    2      铁路    NN            (NP*    -   -   -   -   *        (ARG0*      *        (ARG0*        (ARG0*   -
+bn/ctv/00/ctv_0007   0    3      部门    NN               *)   -   -   -   -   *             *)     *             *)            *)  -
+bn/ctv/00/ctv_0007   0    4       还    AD    (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *             *             *   -
+bn/ctv/00/ctv_0007   0    5      增加    VV            (VP*    增加  -   1   -   *           (V*)     *             *             *   -
+bn/ctv/00/ctv_0007   0    6       了    AS               *    -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0    7     １１０    CD      (NP(NP(QP*    -   -   -   -   *        (ARG1*      *             *             *   -
+bn/ctv/00/ctv_0007   0    8       台     M          (CLP*))   -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0    9      提速    VV     (CP(IP(VP*))   提速  -   -   -   *             *    (V*)            *             *   -
+bn/ctv/00/ctv_0007   0   10       的   DEC               *)   -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   11      新型    JJ          (ADJP*)   -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   12      机车    NN           (NP*))   -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   13       和    CC               *    -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   14    ７００多    CD         (NP(QP*    -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   15       辆     M          (CLP*))   -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   16      提速    NN            (NP*    -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   17      车厢    NN           *)))))   -   -   -   -   *             *)     *             *             *   -
+bn/ctv/00/ctv_0007   0   18       ，    PU               *    -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   19      基本    AD       (VP(ADVP*)   -   -   -   -   *             *      *    (ARGM-ADV*)   (ARGM-ADV*)  -
+bn/ctv/00/ctv_0007   0   20      能够    VV            (VP*    能够  -   -   -   *             *      *           (V*)            *   -
+bn/ctv/00/ctv_0007   0   21      满足    VV            (VP*    满足  -   -   -   *             *      *             *           (V*)  -
+bn/ctv/00/ctv_0007   0   22      提速    NN     (NP(DNP(NP*)   -   -   -   -   *             *      *             *        (ARG2*   -
+bn/ctv/00/ctv_0007   0   23       的   DEG               *)   -   -   -   -   *             *      *             *             *   -
+bn/ctv/00/ctv_0007   0   24      需求    NN       (NP*))))))   -   -   -   -   *             *      *             *             *)  -
+bn/ctv/00/ctv_0007   0   25       。    PU              *))   -   -   -   -   *             *      *             *             *   -
+
+bn/ctv/00/ctv_0007   0   0    中央台   NR   (TOP(IP(NP(NP*)   -   -   -   -   *   (ARG0*   -
+bn/ctv/00/ctv_0007   0   1     记者   NN            (NP*))   -   -   -   -   *        *)  -
+bn/ctv/00/ctv_0007   0   2     报道   VV             (VP*)   报道  -   -   -   *      (V*)  -
+bn/ctv/00/ctv_0007   0   3      。   PU               *))   -   -   -   -   *        *   -
+
+#end document

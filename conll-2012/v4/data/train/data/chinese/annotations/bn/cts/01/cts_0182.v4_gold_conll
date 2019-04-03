@@ -1,0 +1,246 @@
+#begin document (bn/cts/01/cts_0182); part 000
+bn/cts/01/cts_0182   0    0    台北市   NR   (TOP(IP(IP(NP(NP*)  -    -   -   -         (GPE)           *             *        *         *    (5
+bn/cts/01/cts_0182   0    1      一   CD                (QP*   -    -   -   -    (CARDINAL)           *             *        *         *     -
+bn/cts/01/cts_0182   0    2      名    M              (CLP*))  -    -   -   -            *            *             *        *         *     -
+bn/cts/01/cts_0182   0    3    通缉犯   NN               (NP*))  -    -   -   -            *            *             *        *         *     5)
+bn/cts/01/cts_0182   0    4      五   CD         (VP(LCP(QP*   -    -   -   -       (DATE*   (ARGM-TMP*             *        *         *     -
+bn/cts/01/cts_0182   0    5      天    M              (CLP*))  -    -   -   -            *)           *             *        *         *     -
+bn/cts/01/cts_0182   0    6      前   LC                   *)  -    -   -   -            *            *)            *        *         *     -
+bn/cts/01/cts_0182   0    7      被   LB                (VP*   -    -   -   -            *            *             *        *         *     -
+bn/cts/01/cts_0182   0    8     警察   NN             (IP(NP*)  -    -   -   -            *       (ARG0*)            *        *         *    (6)
+bn/cts/01/cts_0182   0    9     开枪   VV            (VP(VSB*   -    -   -   -            *            *             *        *         *     -
+bn/cts/01/cts_0182   0   10     打死   VV              *))))))  -   01   -   -            *          (V*)            *        *         *     -
+bn/cts/01/cts_0182   0   11      ，   PU                   *   -    -   -   -            *            *             *        *         *     -
+bn/cts/01/cts_0182   0   12     家属   NN             (IP(NP*)  -    -   -   -            *            *        (ARG0*)       *         *    (2)
+bn/cts/01/cts_0182   0   13     强烈   AD           (VP(ADVP*)  -    -   -   -            *            *    (ARGM-ADV*)       *         *     -
+bn/cts/01/cts_0182   0   14     质疑   VV                (VP*   -   01   -   -            *            *           (V*)       *         *     -
+bn/cts/01/cts_0182   0   15      是   VC             (IP(VP*   -   01   2   -            *            *        (ARG1*      (V*)        *     -
+bn/cts/01/cts_0182   0   16     警方   NN             (IP(NP*)  -    -   -   -            *            *             *   (ARG1*    (ARG0*)   (3)
+bn/cts/01/cts_0182   0   17     用枪   VV             (VP(VP*)  -    -   -   -            *            *             *        *    (ARG0*)    -
+bn/cts/01/cts_0182   0   18     不当   VA         (VP*))))))))  -   01   -   -            *            *             *)       *)      (V*)    -
+bn/cts/01/cts_0182   0   19      。   PU                  *))  -    -   -   -            *            *             *        *         *     -
+
+bn/cts/01/cts_0182   0    0    检察官    NN         (TOP(IP(NP*)  -    -   -   -        *        (ARG0*)            *        *      *      *     -
+bn/cts/01/cts_0182   0    1     上午    NT             (VP(NP*)  -    -   -   -    (TIME)   (ARGM-TMP*)            *        *      *      *     -
+bn/cts/01/cts_0182   0    2      到    VV             (VP(VP*   -   01   1   -        *           (V*)            *        *      *      *     -
+bn/cts/01/cts_0182   0    3    殡仪馆    NN               (NP*))  -    -   -   -        *        (ARG1*)            *        *      *      *    (4)
+bn/cts/01/cts_0182   0    4     验尸    VV              (VP*)))  -    -   -   -        *             *             *        *      *      *     -
+bn/cts/01/cts_0182   0    5      ，    PU                   *   -    -   -   -        *             *             *        *      *      *     -
+bn/cts/01/cts_0182   0    6     由于     P                (PP*   -    -   -   -        *             *             *        *      *      *     -
+bn/cts/01/cts_0182   0    7     家属    NN             (IP(NP*)  -    -   -   -        *             *        (ARG0*)       *      *      *    (2)
+bn/cts/01/cts_0182   0    8     曾经    AD           (VP(ADVP*)  -    -   -   -        *             *    (ARGM-ADV*)       *      *      *     -
+bn/cts/01/cts_0182   0    9     扬言    VV                (VP*   -   01   -   -        *             *           (V*)       *      *      *     -
+bn/cts/01/cts_0182   0   10      要    VV             (IP(VP*   -   04   4   -        *             *        (ARG1*      (V*)     *      *     -
+bn/cts/01/cts_0182   0   11     开枪    VV   (NP(CP(CP(IP(VP*))  -    -   -   -        *             *             *   (ARG1*      *      *    (6
+bn/cts/01/cts_0182   0   12      的   DEC                  *))  -    -   -   -        *             *             *        *      *      *     -
+bn/cts/01/cts_0182   0   13     警察    NN               (NP*))  -    -   -   -        *             *             *        *)     *      *     6)
+bn/cts/01/cts_0182   0   14     到场    VV          (IP(VP(VP*)  -   01   -   -        *             *             *   (ARG2*    (V*)     *     -
+bn/cts/01/cts_0182   0   15     陪罪    VV            (VP(VCD*   -    -   -   -        *             *             *        *      *      *     -
+bn/cts/01/cts_0182   0   16     道歉    VV          *))))))))))  -   01   -   -        *             *             *)       *)     *    (V*)    -
+bn/cts/01/cts_0182   0   17      。    PU                  *))  -    -   -   -        *             *             *        *      *      *     -
+
+bn/cts/01/cts_0182   0    0     为了     P  (TOP(IP(PP*   -    -   -   -            *        *         *    (ARGM-PRP*      *    (ARGM-PRP*     -
+bn/cts/01/cts_0182   0    1     防止    VV      (IP(VP*   -   01   -   -            *      (V*)        *             *      *             *     -
+bn/cts/01/cts_0182   0    2     冲突    NN      (IP(NP*)  -    -   -   -            *   (ARG1*    (ARG0*)            *      *             *     -
+bn/cts/01/cts_0182   0    3     发生    VV     (VP*)))))  -   01   1   -            *        *)      (V*)            *)     *             *)    -
+bn/cts/01/cts_0182   0    4      ，    PU            *   -    -   -   -            *        *         *             *      *             *     -
+bn/cts/01/cts_0182   0    5     警方    NN         (NP*)  -    -   -   -            *        *         *        (ARG0*)     *        (ARG0*)   (3)
+bn/cts/01/cts_0182   0    6    一大早    NT      (VP(NP*)  -    -   -   -            *        *         *    (ARGM-TMP*)     *    (ARGM-TMP*)   (1)
+bn/cts/01/cts_0182   0    7     出动    VV      (VP(VP*   -   01   -   -            *        *         *           (V*)     *             *     -
+bn/cts/01/cts_0182   0    8      了    AS            *   -    -   -   -            *        *         *             *      *             *     -
+bn/cts/01/cts_0182   0    9     ５０    CD  (NP(DNP(QP*   -    -   -   -    (CARDINAL)       *         *        (ARG1*      *             *     -
+bn/cts/01/cts_0182   0   10      名     M       (CLP*))  -    -   -   -            *        *         *             *      *             *     -
+bn/cts/01/cts_0182   0   11      的   DEG            *)  -    -   -   -            *        *         *             *      *             *     -
+bn/cts/01/cts_0182   0   12     警力    NN       (NP*)))  -    -   -   -            *        *         *             *)     *             *     -
+bn/cts/01/cts_0182   0   13     到场    VV     (VP(VSB*   -   01   -   -            *        *         *             *    (V*)            *     -
+bn/cts/01/cts_0182   0   14     戒备    VV         *))))  -   01   -   -            *        *         *             *      *           (V*)    -
+bn/cts/01/cts_0182   0   15      。    PU           *))  -    -   -   -            *        *         *             *      *             *     -
+
+bn/cts/01/cts_0182   0    0    一大早    NT        (TOP(IP(IP(NP*)  -    -   -   -            *             *             *        *         *      *             *       (1)
+bn/cts/01/cts_0182   0    1     板桥    NR                  (NP*   -    -   -   -        (FAC*             *             *        *         *      *             *       (4
+bn/cts/01/cts_0182   0    2    殡仪馆    NN                     *)  -    -   -   -            *)            *             *        *         *      *             *        4)
+bn/cts/01/cts_0182   0    3     警戒    NN                  (NP*)  -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0    4     森严    VA                 (VP*))  -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0    5      ，    PU                     *   -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0    6     将近    AD   (IP(NP(DNP(QP(ADVP*)  -    -   -   -            *        (ARG0*             *        *         *      *             *        -
+bn/cts/01/cts_0182   0    7    ５０多    CD                  (QP*   -    -   -   -    (CARDINAL)            *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0    8      名     M               (CLP*)))  -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0    9      的   DEG                     *)  -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   10     警察    NN                 (NP*))  -    -   -   -            *             *)            *        *         *      *             *        -
+bn/cts/01/cts_0182   0   11     全部    AD             (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *        *         *      *             *        -
+bn/cts/01/cts_0182   0   12     武装    AD                (ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *        *         *      *             *        -
+bn/cts/01/cts_0182   0   13     待命    VV                 (VP*))  -   01   -   -            *           (V*)            *        *         *      *             *        -
+bn/cts/01/cts_0182   0   14      ，    PU                     *   -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   15     因为     P                  (PP*   -    -   -   -            *    (ARGM-PRP*             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   16     死者    NN               (IP(NP*   -    -   -   -            *             *        (ARG0*        *         *      *             *       (2
+bn/cts/01/cts_0182   0   17     家属    NN                     *)  -    -   -   -            *             *             *)       *         *      *             *        2)
+bn/cts/01/cts_0182   0   18     曾经    AD             (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)       *         *      *             *        -
+bn/cts/01/cts_0182   0   19     表示    VV                  (VP*   -   01   2   -            *             *           (V*)       *         *      *             *        -
+bn/cts/01/cts_0182   0   20      要    VV            (IP(VP(VP*   -   05   4   -            *             *        (ARG1*      (V*)        *      *             *        -
+bn/cts/01/cts_0182   0   21      来    VV               (VP(VP*   -   01   1   -            *             *             *   (ARG1*       (V*)     *             *        -
+bn/cts/01/cts_0182   0   22     这里    PN                 (NP*))  -    -   -   -            *             *             *        *    (ARG1*)     *             *       (4)
+bn/cts/01/cts_0182   0   23     抗议    VV                (VP*)))  -   01   -   -            *             *             *        *)        *    (V*)            *        -
+bn/cts/01/cts_0182   0   24      ，    PU                     *   -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   25     并且    AD             (VP(ADVP*)  -    -   -   -            *             *             *        *         *      *    (ARGM-DIS*)       -
+bn/cts/01/cts_0182   0   26      要    VV                  (VP*   -   05   4   -            *             *             *        *         *      *           (V*)       -
+bn/cts/01/cts_0182   0   27      向     P               (VP(PP*   -    -   -   -            *             *             *        *         *      *        (ARG1*        -
+bn/cts/01/cts_0182   0   28     当时    NT   (NP(CP(CP(IP(VP(NP*)  -    -   -   -            *             *             *        *         *      *             *    (6|(0)
+bn/cts/01/cts_0182   0   29     开枪    VV                (VP*)))  -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   30      的   DEC                    *))  -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   31     警察    NN                (NP*)))  -    -   -   -            *             *             *        *         *      *             *        6)
+bn/cts/01/cts_0182   0   32     讨回    VV                  (VP*   -    -   -   -            *             *             *        *         *      *             *        -
+bn/cts/01/cts_0182   0   33     公道    NN       (NP*))))))))))))  -    -   -   -            *             *)            *)       *         *      *             *)       -
+bn/cts/01/cts_0182   0   34      。    PU                    *))  -    -   -   -            *             *             *        *         *      *             *        -
+
+bn/cts/01/cts_0182   0    0      当然    AD   (TOP(IP(IP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)     *             *     -
+bn/cts/01/cts_0182   0    1      为了     P               (PP*   -    -   -   -   *         *    (ARGM-PRP*      *             *     -
+bn/cts/01/cts_0182   0    2      防止    VV            (IP(VP*   -   01   -   -   *       (V*)            *      *             *     -
+bn/cts/01/cts_0182   0    3      冲突    NN            (NP*))))  -    -   -   -   *    (ARG1*)            *)     *             *     -
+bn/cts/01/cts_0182   0    4       ，    PU                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0    5       这    DT            (NP(DP*   -    -   -   -   *         *        (ARG0*      *             *    (6
+bn/cts/01/cts_0182   0    6       名     M             (CLP*))  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0    7      开枪    VV     (CP(CP(IP(VP*))  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0    8       的   DEC                 *))  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0    9      警察    NN              (NP*))  -    -   -   -   *         *             *)     *             *     6)
+bn/cts/01/cts_0182   0   10     并没有    AD          (VP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)     *             *     -
+bn/cts/01/cts_0182   0   11      到场    VV             (VP*)))  -   01   -   -   *         *           (V*)     *             *     -
+bn/cts/01/cts_0182   0   12       ，    PU                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   13       而    AD          (IP(ADVP*)  -    -   -   -   *         *             *      *    (ARGM-DIS*)    -
+bn/cts/01/cts_0182   0   14      家属    NN               (NP*)  -    -   -   -   *         *             *      *        (ARG0*)   (2)
+bn/cts/01/cts_0182   0   15       则    AD          (VP(ADVP*)  -    -   -   -   *         *             *      *    (ARGM-DIS*)    -
+bn/cts/01/cts_0182   0   16       是    VC               (VP*   -   01   2   -   *         *             *    (V*)            *     -
+bn/cts/01/cts_0182   0   17       在     P            (VP(PP*   -    -   2   -   *         *             *      *    (ARGM-LOC*     -
+bn/cts/01/cts_0182   0   18     检察官    NN    (LCP(NP(DNP(NP*   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   19       和    CC                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   20    三分局长    NN                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   21      以及    CC                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   22     刑警队    NN                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   23      人员    NN                  *)  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   24       的   DEG                  *)  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   25      陪同    NN              (NP*))  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   26      之下    LC                 *))  -    -   -   -   *         *             *      *             *)    -
+bn/cts/01/cts_0182   0   27       ，    PU                  *   -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   28      一起    AD             (ADVP*)  -    -   -   -   *         *             *      *    (ARGM-ADV*)    -
+bn/cts/01/cts_0182   0   29      进入    VV            (VP(VP*)  -   01   -   -   *         *             *      *           (V*)    -
+bn/cts/01/cts_0182   0   30      验尸    VV          (VP*))))))  -    -   -   -   *         *             *      *             *     -
+bn/cts/01/cts_0182   0   31       。    PU                 *))  -    -   -   -   *         *             *      *             *     -
+
+bn/cts/01/cts_0182   0    0    不过   AD   (TOP(IP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)  -
+bn/cts/01/cts_0182   0    1    截止    P            (PP*   -    -   -   -   *    (ARGM-TMP*   -
+bn/cts/01/cts_0182   0    2    目前   NT        (LCP(NP*)  -    -   -   -   *             *   -
+bn/cts/01/cts_0182   0    3    为止   LC              *))  -    -   -   -   *             *)  -
+bn/cts/01/cts_0182   0    4     ，   PU               *   -    -   -   -   *             *   -
+bn/cts/01/cts_0182   0    5    结果   NN            (NP*)  -    -   -   -   *        (ARG0*)  -
+bn/cts/01/cts_0182   0    6     都   AD       (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)  -
+bn/cts/01/cts_0182   0    7     还   AD          (ADVP*)  -    -   -   -   *    (ARGM-ADV*)  -
+bn/cts/01/cts_0182   0    8    没有   AD          (ADVP*)  -    -   2   -   *    (ARGM-ADV*)  -
+bn/cts/01/cts_0182   0    9    出来   VV           (VP*))  -   01   -   -   *           (V*)  -
+bn/cts/01/cts_0182   0   10     。   PU              *))  -    -   -   -   *             *   -
+
+bn/cts/01/cts_0182   0    0     死者    NN   (TOP(IP(IP(NP*)  -    -   -   -            *    (ARG0*)        *            *            *            *    (5)
+bn/cts/01/cts_0182   0    1      是    VC             (VP*   -   01   1   -            *       (V*)        *            *            *            *     -
+bn/cts/01/cts_0182   0    2     ２９    CD   (NP(NP(DNP(QP*   -    -   -   -    (CARDINAL)   (ARG1*         *            *            *            *     -
+bn/cts/01/cts_0182   0    3      岁     M           (CLP*))  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0    4      的   DEG                *)  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0    5    通缉犯    NN            (NP*))  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0    6    罗俊清    NR          (NP*))))  -    -   -   -      (PERSON)        *)        *            *            *            *     -
+bn/cts/01/cts_0182   0    7      ，    PU                *   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0    8     为了     P          (IP(PP*   -    -   -   -            *         *         *   (ARGM-PRP*   (ARGM-PRP*   (ARGM-PRP*     -
+bn/cts/01/cts_0182   0    9      他    PN       (NP(IP(NP*)  -    -   -   -            *         *         *            *            *            *    (5)
+bn/cts/01/cts_0182   0   10      被    LB             (VP*   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   11     警察    NN          (IP(NP*)  -    -   -   -            *         *    (ARG0*)           *            *            *    (6)
+bn/cts/01/cts_0182   0   12     开枪    VV         (VP(VSB*   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   13     打死    VV            *)))))  -   01   -   -            *         *       (V*)           *            *            *     -
+bn/cts/01/cts_0182   0   14      这    DT             (DP*   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   15      件     M           (CLP*))  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   16      事    NN           (NP*)))  -    -   -   -            *         *         *            *)           *)           *)    -
+bn/cts/01/cts_0182   0   17      ，    PU                *   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   18     家属    NN             (NP*)  -    -   -   -            *         *         *       (ARG0*)      (ARG0*)      (ARG0*)   (2)
+bn/cts/01/cts_0182   0   19      在     P          (VP(PP*   -    -   2   -            *         *         *   (ARGM-TMP*   (ARGM-TMP*   (ARGM-TMP*     -
+bn/cts/01/cts_0182   0   20      两    CD         (LCP(QP*   -    -   -   -       (DATE*         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   21      天     M           (CLP*))  -    -   -   -            *)        *         *            *            *            *     -
+bn/cts/01/cts_0182   0   22      前    LC               *))  -    -   -   -            *         *         *            *)           *)           *)    -
+bn/cts/01/cts_0182   0   23     纠集    VV          (VP(VP*   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   24    ２０多    CD          (NP(QP*)  -    -   -   -    (CARDINAL)        *         *            *            *            *     -
+bn/cts/01/cts_0182   0   25      人    NN           (NP*)))  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   26      绑    VV             (VP*   -   01   -   -            *         *         *          (V*)           *            *     -
+bn/cts/01/cts_0182   0   27      着    AS                *   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   28    白布条    NN            (NP*))  -    -   -   -            *         *         *       (ARG2*)           *            *     -
+bn/cts/01/cts_0182   0   29      到    VV             (VP*   -   01   1   -            *         *         *            *          (V*)           *     -
+bn/cts/01/cts_0182   0   30     海山    NR  (LCP(NP(DNP(NP*   -    -   -   -        (ORG*         *         *            *       (ARG1*            *     -
+bn/cts/01/cts_0182   0   31     分局    NN                *)  -    -   -   -            *)        *         *            *            *            *     -
+bn/cts/01/cts_0182   0   32      的   DEG                *)  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   33     门口    NN            (NP*))  -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   34      前    LC               *))  -    -   -   -            *         *         *            *            *)           *     -
+bn/cts/01/cts_0182   0   35     下跪    VV         (VP(VSB*   -    -   -   -            *         *         *            *            *            *     -
+bn/cts/01/cts_0182   0   36     抗议    VV            *)))))  -   01   -   -            *         *         *            *            *          (V*)    -
+bn/cts/01/cts_0182   0   37      。    PU               *))  -    -   -   -            *         *         *            *            *            *     -
+
+bn/cts/01/cts_0182   0    0      当时    NT          (TOP(IP(NP*)  -    -   1   -            *    (ARGM-TMP*)   (ARGM-TMP*)   (ARGM-TMP*)  -
+bn/cts/01/cts_0182   0    1      警察    NN                 (NP*)  -    -   -   -            *        (ARG0*)       (ARG0*)       (ARG0*)  -
+bn/cts/01/cts_0182   0    2      出动    VV              (VP(VP*   -   01   -   -            *           (V*)            *             *   -
+bn/cts/01/cts_0182   0    3       了    AS                    *   -    -   -   -            *             *             *             *   -
+bn/cts/01/cts_0182   0    4    １００多    CD              (NP(QP*   -    -   -   -    (CARDINAL)       (ARG1*             *             *   -
+bn/cts/01/cts_0182   0    5       名     M               (CLP*))  -    -   -   -            *             *             *             *   -
+bn/cts/01/cts_0182   0    6      警力    NN               (NP*)))  -    -   -   -            *             *)            *             *   -
+bn/cts/01/cts_0182   0    7      防止    VV                 (VP*   -   01   -   -            *             *           (V*)            *   -
+bn/cts/01/cts_0182   0    8      冲突    NN                (NP*))  -    -   -   -            *             *        (ARG1*)            *   -
+bn/cts/01/cts_0182   0    9       ，    PU                    *   -    -   -   -            *             *             *             *   -
+bn/cts/01/cts_0182   0   10      引起    VV                 (VP*   -   01   -   -            *             *             *           (V*)  -
+bn/cts/01/cts_0182   0   11      不少    CD   (NP(DNP(NP(DNP(QP*)  -    -   -   -            *             *             *        (ARG1*   -
+bn/cts/01/cts_0182   0   12       的   DEG                    *)  -    -   -   -            *             *             *             *   -
+bn/cts/01/cts_0182   0   13      路人    NN                (NP*))  -    -   -   -            *             *             *             *   -
+bn/cts/01/cts_0182   0   14       的   DEG                    *)  -    -   -   -            *             *             *             *   -
+bn/cts/01/cts_0182   0   15      围观    NN              (NP*))))  -    -   -   -            *             *             *             *)  -
+bn/cts/01/cts_0182   0   16       。    PU                   *))  -    -   -   -            *             *             *             *   -
+
+bn/cts/01/cts_0182   0    0    由于    P        (TOP(IP(PP*   -    -   -   -   *             *             *      *      *    (ARGM-PRP*     -
+bn/cts/01/cts_0182   0    1    家属   NN         (IP(IP(NP*)  -    -   -   -   *        (ARG0*)            *      *      *             *    (2)
+bn/cts/01/cts_0182   0    2    强烈   AD          (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *      *      *             *     -
+bn/cts/01/cts_0182   0    3    质疑   VV               (VP*   -   01   -   -   *           (V*)            *      *      *             *     -
+bn/cts/01/cts_0182   0    4    警察   NN            (IP(NP*)  -    -   -   -   *        (ARG1*             *      *      *             *    (6)
+bn/cts/01/cts_0182   0    5     在    P            (VP(PP*   -    -   2   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0    6    没有   AD   (LCP(IP(VP(ADVP*)  -    -   2   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0    7    对空   AD             (ADVP*)  -    -   -   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0    8    鸣枪   VV             (VP*)))  -    -   -   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0    9     下   LC                 *))  -    -   1   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0   10     ，   PU                  *   -    -   -   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0   11     就   AD             (ADVP*)  -    -   2   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0   12     朝    P               (PP*   -    -   -   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0   13    死者   NN              (NP*))  -    -   -   -   *             *             *      *      *             *    (5)
+bn/cts/01/cts_0182   0   14    开枪   VV          (VP*))))))  -    -   -   -   *             *)            *      *      *             *     -
+bn/cts/01/cts_0182   0   15     ，   PU                  *   -    -   -   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0   16    甚至   AD       (IP(VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)     *      *             *     -
+bn/cts/01/cts_0182   0   17     还   AD             (ADVP*)  -    -   -   -   *             *    (ARGM-DIS*)     *      *             *     -
+bn/cts/01/cts_0182   0   18     有   VE               (VP*   -   05   4   -   *             *           (V*)     *      *             *     -
+bn/cts/01/cts_0182   0   19    路人   NN            (IP(NP*)  -    -   -   -   *             *        (ARG1*      *      *             *     -
+bn/cts/01/cts_0182   0   20    可以   VV               (VP*   -   01   1   -   *             *             *    (V*)     *             *     -
+bn/cts/01/cts_0182   0   21    做证   VV        (VP*))))))))  -    -   -   -   *             *             *)     *      *             *)    -
+bn/cts/01/cts_0182   0   22     ，   PU                  *   -    -   -   -   *             *             *      *      *             *     -
+bn/cts/01/cts_0182   0   23    所以   AD             (ADVP*)  -    -   -   -   *             *             *      *      *    (ARGM-DIS*)    -
+bn/cts/01/cts_0182   0   24    他们   PN               (NP*)  -    -   -   -   *             *             *      *      *        (ARG0*)   (2)
+bn/cts/01/cts_0182   0   25     才   AD          (VP(ADVP*)  -    -   -   -   *             *             *      *      *    (ARGM-DIS*)    -
+bn/cts/01/cts_0182   0   26     会   VV               (VP*   -   01   -   -   *             *             *      *    (V*)            *     -
+bn/cts/01/cts_0182   0   27    如此   AD          (VP(ADVP*)  -    -   -   -   *             *             *      *      *    (ARGM-ADV*)    -
+bn/cts/01/cts_0182   0   28    不满   VV            (VP*))))  -   01   -   -   *             *             *      *      *           (V*)    -
+bn/cts/01/cts_0182   0   29     。   PU                 *))  -    -   -   -   *             *             *      *      *             *     -
+
+bn/cts/01/cts_0182   0    0    不过   AD   (TOP(IP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)            *         *             *     -
+bn/cts/01/cts_0182   0    1    警方   NN            (NP*)  -    -   -   -   *        (ARG0*)            *         *             *    (3)
+bn/cts/01/cts_0182   0    2    表示   VV            (VP*   -   01   2   -   *           (V*)            *         *             *     -
+bn/cts/01/cts_0182   0    3     ，   PU               *   -    -   -   -   *             *             *         *             *     -
+bn/cts/01/cts_0182   0    4    死者   NN      (IP(IP(NP*)  -    -   -   -   *        (ARG1*        (ARG0*)        *             *    (5)
+bn/cts/01/cts_0182   0    5    当时   NT         (VP(NP*)  -    -   1   -   *             *    (ARGM-TMP*)        *             *    (0)
+bn/cts/01/cts_0182   0    6    抢夺   VV            (VP*   -   01   -   -   *             *           (V*)        *             *     -
+bn/cts/01/cts_0182   0    7    警枪   NN         (NP*))))  -    -   -   -   *             *        (ARG1*)        *             *     -
+bn/cts/01/cts_0182   0    8     ，   PU               *   -    -   -   -   *             *             *         *             *     -
+bn/cts/01/cts_0182   0    9    警察   NN         (IP(NP*)  -    -   -   -   *             *             *    (ARG0*)       (ARG0*)   (6)
+bn/cts/01/cts_0182   0   10    自卫   VV     (VP(VP(VCD*   -    -   -   -   *             *             *         *             *     -
+bn/cts/01/cts_0182   0   11    反击   VV              *))  -   01   -   -   *             *             *       (V*)            *     -
+bn/cts/01/cts_0182   0   12     ，   PU               *   -    -   -   -   *             *             *         *             *     -
+bn/cts/01/cts_0182   0   13     并   AD       (VP(ADVP*)  -    -   -   -   *             *             *         *    (ARGM-ADV*)    -
+bn/cts/01/cts_0182   0   14    没有   VE            (VP*   -   02   1   -   *             *             *         *           (V*)    -
+bn/cts/01/cts_0182   0   15    不对   NN      (NP*)))))))  -    -   -   -   *             *)            *         *        (ARG1*)    -
+bn/cts/01/cts_0182   0   16     。   PU              *))  -    -   -   -   *             *             *         *             *     -
+
+#end document

@@ -1,0 +1,745 @@
+#begin document (wb/cmn/00/cmn_0030); part 000
+wb/cmn/00/cmn_0030   0    0    ZT   NR    (TOP(IP(NP*   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    1    韩寒   NR              *)  -   -   -   -    (PERSON)     (0)
+wb/cmn/00/cmn_0030   0    2     ：   PU              *   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    3    汽车   NN  (VP(NP(NP(NP*   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    4    知识   NN              *)  -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    5     和   CC              *   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    6    生命   NN           (NP*   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    7    模样   NN             *))  -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    8     （   PU          (PRN*   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0    9    关于    P           (PP*   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0   10     那   DT     (NP(NP(DP*   -   -   -   -          *   (4|(6
+wb/cmn/00/cmn_0030   0   11     个    M         (CLP*))  -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0   12    台湾   NR           (NP*)  -   -   -   -      (NORP)     (8)
+wb/cmn/00/cmn_0030   0   13     美   JJ         (ADJP*)  -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0   14     ／   PU              *   -   -   -   -          *       -
+wb/cmn/00/cmn_0030   0   15    才女   NN          (NP*))  -   -   -   -          *       4)
+wb/cmn/00/cmn_0030   0   16    车祸   NN      (NP*))))))  -   -   -   -          *       6)
+wb/cmn/00/cmn_0030   0   17     ）   PU             *))  -   -   -   -          *       -
+
+wb/cmn/00/cmn_0030   0   0    conjee   NR   (TOP(FRAG*))  -   -   -   -    (PERSON)   (5)
+
+wb/cmn/00/cmn_0030   0   0           发信人   NN   (TOP(IP(IP(NP*)  -   -   -    _conjee_         *    -
+wb/cmn/00/cmn_0030   0   1             ：   PU                *   -   -   -    _conjee_         *    -
+wb/cmn/00/cmn_0030   0   2        conjee   NR          (VP(NP*   -   -   -    _conjee_   (PERSON)  (5
+wb/cmn/00/cmn_0030   0   3             （   PU                *   -   -   -    _conjee_         *    -
+wb/cmn/00/cmn_0030   0   4        conjee   NR                *   -   -   -    _conjee_   (PERSON)   -
+wb/cmn/00/cmn_0030   0   5             ）   PU              *)))  -   -   -    _conjee_         *    5)
+wb/cmn/00/cmn_0030   0   6             ，   PU                *   -   -   -    _conjee_         *    -
+wb/cmn/00/cmn_0030   0   7            信区   NN          (IP(NP*)  -   -   -    _conjee_         *    -
+wb/cmn/00/cmn_0030   0   8             ：   PU                *   -   -   -    _conjee_         *    -
+wb/cmn/00/cmn_0030   0   9    Automobile   NN      (VP(NP*)))))  -   -   -    _conjee_         *    -
+
+wb/cmn/00/cmn_0030   0    0    标题   NN   (TOP(IP(NP*)  -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    1     ：   PU             *   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    2    ZT   NR    (VP(NP(NP*   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    3    韩寒   NR             *)  -   -   -    _conjee_   (PERSON)     (0)
+wb/cmn/00/cmn_0030   0    4     ：   PU             *   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    5    汽车   NN    (NP(NP(NP*   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    6    知识   NN             *)  -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    7     和   CC             *   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    8    生命   NN          (NP*   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0    9    模样   NN            *))  -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0   10     （   PU         (PRN*   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0   11    关于    P          (PP*   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0   12     那   DT    (NP(NP(DP*   -   -   -    _conjee_         *   (4|(6
+wb/cmn/00/cmn_0030   0   13     个    M        (CLP*))  -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0   14    台湾   NR          (NP*)  -   -   -    _conjee_     (NORP)     (8)
+wb/cmn/00/cmn_0030   0   15     美   JJ        (ADJP*)  -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0   16     ／   PU             *   -   -   -    _conjee_         *       -
+wb/cmn/00/cmn_0030   0   17    才女   NN         (NP*))  -   -   -    _conjee_         *       4)
+wb/cmn/00/cmn_0030   0   18    车祸   NN    (NP*)))))))  -   -   -    _conjee_         *       6)
+wb/cmn/00/cmn_0030   0   19     ）   PU            *))  -   -   -    _conjee_         *       -
+
+wb/cmn/00/cmn_0030   0    0         发信站   NN   (TOP(IP(NP*)  -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0    1           ：   PU             *   -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0    2         BBS   NN    (VP(NP(NP*   -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0    3          未名   NR             *   -   -   -    _conjee_   (ORG*   -
+wb/cmn/00/cmn_0030   0    4         空间站   NR             *)  -   -   -    _conjee_       *)  -
+wb/cmn/00/cmn_0030   0    5           （   PU             *   -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0    6         Wed   NT      (PRN(NP*   -   -   -    _conjee_  (TIME*   -
+wb/cmn/00/cmn_0030   0    7         Jan   NT             *   -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0    8         31    NT             *   -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0    9   11：16：04    NT             *   -   -   -    _conjee_       *   -
+wb/cmn/00/cmn_0030   0   10       2007    NT          *))))  -   -   -    _conjee_       *)  -
+wb/cmn/00/cmn_0030   0   11           ）   PU            *))  -   -   -    _conjee_       *   -
+
+wb/cmn/00/cmn_0030   0    0     前   DT    (TOP(IP(DP*   -    -   -    _conjee_      (DATE*   (ARGM-TMP*     -
+wb/cmn/00/cmn_0030   0    1     几   CD           (QP*   -    -   -    _conjee_           *            *     -
+wb/cmn/00/cmn_0030   0    2     天    M        (CLP*)))  -    -   -    _conjee_           *)           *)    -
+wb/cmn/00/cmn_0030   0    3     ，   PU              *   -    -   -    _conjee_           *            *     -
+wb/cmn/00/cmn_0030   0    4     又   AD   (NP(QP(ADVP*)  -    -   -    _conjee_           *       (ARG0*    (4
+wb/cmn/00/cmn_0030   0    5     一   CD           (QP*   -    -   -    _conjee_   (CARDINAL)           *     -
+wb/cmn/00/cmn_0030   0    6     位    M        (CLP*)))  -    -   -    _conjee_           *            *     -
+wb/cmn/00/cmn_0030   0    7    台湾   NR           (NP*)  -    -   -    _conjee_       (NORP)           *    (8)
+wb/cmn/00/cmn_0030   0    8    明星   NN          (NP*))  -    -   -    _conjee_           *            *)    4)
+wb/cmn/00/cmn_0030   0    9    离开   VV           (VP*)  -   01   -    _conjee_           *          (V*)    -
+wb/cmn/00/cmn_0030   0   10     。   PU             *))  -    -   -    _conjee_           *            *     -
+
+wb/cmn/00/cmn_0030   0    0     我    PN   (TOP(IP(IP(NP*)  -    -   -    _conjee_  *        (ARG0*)       *        *         *    (0)
+wb/cmn/00/cmn_0030   0    1    之前    NT          (VP(NP*)  -    -   -    _conjee_  *    (ARGM-TMP*)       *        *         *     -
+wb/cmn/00/cmn_0030   0    2    没有    AD           (ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)       *        *         *     -
+wb/cmn/00/cmn_0030   0    3    听说    VV             (VP*   -   01   -    _conjee_  *           (V*)       *        *         *     -
+wb/cmn/00/cmn_0030   0    4     过    AS                *   -    -   -    _conjee_  *             *        *        *         *     -
+wb/cmn/00/cmn_0030   0    5     她    PN          (NP*))))  -    -   -    _conjee_  *        (ARG1*)       *        *         *    (4)
+wb/cmn/00/cmn_0030   0    6     ，    PU                *   -    -   -    _conjee_  *             *        *        *         *     -
+wb/cmn/00/cmn_0030   0    7    听说    VV          (IP(VP*   -   01   -    _conjee_  *             *      (V*)       *         *     -
+wb/cmn/00/cmn_0030   0    8     是    VC          (IP(VP*   -   01   -    _conjee_  *             *   (ARG1*      (V*)        *     -
+wb/cmn/00/cmn_0030   0    9     个     M     (NP(QP(CLP*))  -    -   -    _conjee_  *             *        *   (ARG1*         *     -
+wb/cmn/00/cmn_0030   0   10     有    VE    (CP(CP(IP(VP*   -   01   -    _conjee_  *             *        *        *       (V*)    -
+wb/cmn/00/cmn_0030   0   11    才华    NN           (NP*)))  -    -   -    _conjee_  *             *        *        *    (ARG1*)    -
+wb/cmn/00/cmn_0030   0   12     的   DEC               *))  -    -   -    _conjee_  *             *        *        *         *     -
+wb/cmn/00/cmn_0030   0   13    美女    NN        (NP*))))))  -    -   -    _conjee_  *             *        *)       *)   (ARG0*)    -
+wb/cmn/00/cmn_0030   0   14     。    PU               *))  -    -   -    _conjee_  *             *        *        *         *     -
+
+wb/cmn/00/cmn_0030   0   0    非常   AD   (TOP(IP(VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   1    惋惜   VV              (VP*))  -   01   -    _conjee_  *           (V*)  -
+wb/cmn/00/cmn_0030   0   2     。   PU                 *))  -    -   -    _conjee_  *             *   -
+
+wb/cmn/00/cmn_0030   0   0    事故   NN   (TOP(IP(NP*)  -    -   -    _conjee_  *    (ARG0*)   (6)
+wb/cmn/00/cmn_0030   0   1     是   VC          (VP*   -   01   -    _conjee_  *       (V*)    -
+wb/cmn/00/cmn_0030   0   2     一   CD       (NP(QP*   -    -   -    _conjee_  *    (ARG1*     -
+wb/cmn/00/cmn_0030   0   3     场    M        (CLP*))  -    -   -    _conjee_  *         *     -
+wb/cmn/00/cmn_0030   0   4    车祸   NN        (NP*)))  -    -   -    _conjee_  *         *)    -
+wb/cmn/00/cmn_0030   0   5     ，   PU            *))  -    -   -    _conjee_  *         *     -
+
+wb/cmn/00/cmn_0030   0    0    许多    CD         (TOP(IP(NP(QP*)  -    -   -    _conjee_  *   (ARG0*             *        *         *        -
+wb/cmn/00/cmn_0030   0    1    娱乐    NN                   (NP*   -    -   -    _conjee_  *        *             *        *         *        -
+wb/cmn/00/cmn_0030   0    2    新闻    NN                     *))  -    -   -    _conjee_  *        *)            *        *         *        -
+wb/cmn/00/cmn_0030   0    3    指责    VV                   (VP*   -   01   -    _conjee_  *      (V*)            *        *         *        -
+wb/cmn/00/cmn_0030   0    4     他    PN   (IP(IP(NP(NP(DNP(NP*)  -    -   -    _conjee_  *   (ARG1*        (ARG1*   (ARG0*         *    (9|(4)
+wb/cmn/00/cmn_0030   0    5     的   DEG                      *)  -    -   -    _conjee_  *        *             *        *         *        -
+wb/cmn/00/cmn_0030   0    6    汽车    NN                  (NP*))  -    -   -    _conjee_  *        *             *        *         *        9)
+wb/cmn/00/cmn_0030   0    7    前方    NN                   (NP*   -    -   -    _conjee_  *        *             *        *         *        -
+wb/cmn/00/cmn_0030   0    8    安全    NN                      *   -    -   -    _conjee_  *        *             *        *         *        -
+wb/cmn/00/cmn_0030   0    9    气囊    NN                     *))  -    -   -    _conjee_  *        *             *)       *         *        -
+wb/cmn/00/cmn_0030   0   10    没有    AD              (VP(ADVP*)  -    -   -    _conjee_  *        *    (ARGM-ADV*)       *         *        -
+wb/cmn/00/cmn_0030   0   11    打开    VV                 (VP*)))  -   01   -    _conjee_  *        *           (V*)       *)        *        -
+wb/cmn/00/cmn_0030   0   12     ，    PU                      *   -    -   -    _conjee_  *        *             *        *         *        -
+wb/cmn/00/cmn_0030   0   13     是    VC                   (VP*   -   01   -    _conjee_  *        *             *      (V*)        *        -
+wb/cmn/00/cmn_0030   0   14    导致    VV       (NP(CP(CP(IP(VP*   -   01   -    _conjee_  *        *             *   (ARG1*       (V*)       -
+wb/cmn/00/cmn_0030   0   15    死亡    NN                 (NP*)))  -    -   -    _conjee_  *        *             *        *    (ARG1*)       -
+wb/cmn/00/cmn_0030   0   16     的   DEC                     *))  -    -   -    _conjee_  *        *             *        *         *        -
+wb/cmn/00/cmn_0030   0   17    原因    NN               (NP*)))))  -    -   -    _conjee_  *        *)            *        *)   (ARG0*)       -
+wb/cmn/00/cmn_0030   0   18     。    PU                     *))  -    -   -    _conjee_  *        *             *        *         *        -
+
+wb/cmn/00/cmn_0030   0    0        其实    AD             (TOP(IP(ADVP*)  -    -   -    _conjee_          *           *    (ARGM-ADV*)        *    (ARGM-DIS*)   (ARGM-DIS*)            *        -
+wb/cmn/00/cmn_0030   0    1         ，    PU                         *   -    -   -    _conjee_          *           *             *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0    2         她    PN          (NP(CP(CP(IP(NP*)  -    -   -    _conjee_          *      (ARG0*)       (ARG0*         *        (ARG0*        (ARG0*             *    (3|(4)
+wb/cmn/00/cmn_0030   0    3         所   MSP                      (VP*   -    -   -    _conjee_          *           *             *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0    4         坐    VV                    (VP*)))  -   02   -    _conjee_          *         (V*)            *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0    5         的   DEC                        *))  -    -   -    _conjee_          *           *             *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0    6      MINI    JJ                    (ADJP*)  -    -   -    _conjee_  (PRODUCT*      (ARG1*)            *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0    7    COOPER    NN                     (NP*))  -    -   -    _conjee_          *)   (C-ARG1*)            *)        *             *)            *)            *        3)
+wb/cmn/00/cmn_0030   0    8         不    AD              (VP(VP(ADVP*)  -    -   -    _conjee_          *           *    (ARGM-ADV*)        *    (ARGM-ADV*)            *             *        -
+wb/cmn/00/cmn_0030   0    9         算    VV                      (VP*   -    -   -    _conjee_          *           *             *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0   10         是    VC                      (VP*   -   01   -    _conjee_          *           *           (V*)        *             *             *             *        -
+wb/cmn/00/cmn_0030   0   11        报道    NN   (VP(NP(CP(CP(IP(LCP(NP*)  -    -   -    _conjee_          *           *        (ARG1*    (ARG2*    (ARGM-MNR*             *             *        -
+wb/cmn/00/cmn_0030   0   12         中    LC                         *)  -    -   -    _conjee_          *           *             *         *)            *             *             *        -
+wb/cmn/00/cmn_0030   0   13         说    VV                     (VP*))  -   01   -    _conjee_          *           *             *       (V*)            *             *             *        -
+wb/cmn/00/cmn_0030   0   14         的   DEC                       *)))  -    -   -    _conjee_          *           *             *         *             *)            *             *        -
+wb/cmn/00/cmn_0030   0   15        那样    VA                  (VP*)))))  -   01   -    _conjee_          *           *             *)   (ARG1*)          (V*)            *             *        -
+wb/cmn/00/cmn_0030   0   16         ，    PU                         *   -    -   -    _conjee_          *           *             *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0   17         是    VC                      (VP*   -   01   -    _conjee_          *           *             *         *             *           (V*)            *        -
+wb/cmn/00/cmn_0030   0   18        安全    NN          (NP(CP(CP(IP(NP*   -    -   -    _conjee_          *           *             *         *             *        (ARG1*        (ARG0*        -
+wb/cmn/00/cmn_0030   0   19        系数    NN                         *)  -    -   -    _conjee_          *           *             *         *             *             *             *)       -
+wb/cmn/00/cmn_0030   0   20         最    AD                 (VP(ADVP*)  -    -   -    _conjee_          *           *             *         *             *             *    (ARGM-ADV*)       -
+wb/cmn/00/cmn_0030   0   21         高    VA                    (VP*)))  -   01   -    _conjee_          *           *             *         *             *             *           (V*)       -
+wb/cmn/00/cmn_0030   0   22         的   DEC                        *))  -    -   -    _conjee_          *           *             *         *             *             *             *        -
+wb/cmn/00/cmn_0030   0   23         车    NN                   (NP*))))  -    -   -    _conjee_          *           *             *         *             *             *)       (ARG0*)       -
+wb/cmn/00/cmn_0030   0   24         。    PU                        *))  -    -   -    _conjee_          *           *             *         *             *             *             *        -
+
+wb/cmn/00/cmn_0030   0    0       在    P  (TOP(IP(IP(PP*   -    -   -    _conjee_          *   (ARGM-LOC*             *     -
+wb/cmn/00/cmn_0030   0    1      香港   NR           (NP*))  -    -   -    _conjee_       (GPE)           *)            *     -
+wb/cmn/00/cmn_0030   0    2       ，   PU               *   -    -   -    _conjee_          *            *             *     -
+wb/cmn/00/cmn_0030   0    3       它   PN            (NP*)  -    -   -    _conjee_          *       (ARG1*)            *    (3)
+wb/cmn/00/cmn_0030   0    4       卖   VV            (VP*   -   01   -    _conjee_          *          (V*)            *     -
+wb/cmn/00/cmn_0030   0    5     19万   CD            (QP*   -    -   -    _conjee_    (MONEY*       (ARG3*             *     -
+wb/cmn/00/cmn_0030   0    6      港币    M        (CLP*))))  -    -   -    _conjee_          *)           *)            *     -
+wb/cmn/00/cmn_0030   0    7       ，   PU               *   -    -   -    _conjee_          *            *             *     -
+wb/cmn/00/cmn_0030   0    8    POLO   NR         (IP(NP*)  -    -   -    _conjee_   (PRODUCT)           *        (ARG0*)    -
+wb/cmn/00/cmn_0030   0    9       也   AD       (VP(ADVP*)  -    -   -    _conjee_          *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0030   0   10       要   VV            (VP*   -   02   -    _conjee_          *            *           (V*)    -
+wb/cmn/00/cmn_0030   0   11    14万多   CD            (QP*   -    -   -    _conjee_    (MONEY*            *        (ARG1*     -
+wb/cmn/00/cmn_0030   0   12      港币    M       (CLP*)))))  -    -   -    _conjee_          *)           *             *)    -
+wb/cmn/00/cmn_0030   0   13       。   PU              *))  -    -   -    _conjee_          *            *             *     -
+
+wb/cmn/00/cmn_0030   0    0      只    AD   (TOP(IP(VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0030   0    1      是    VC               (VP*   -   01   -    _conjee_  *           (V*)            *   -
+wb/cmn/00/cmn_0030   0    2      一    CD            (NP(QP*   -    -   -    _conjee_  *        (ARG1*             *   -
+wb/cmn/00/cmn_0030   0    3      个     M             (CLP*))  -    -   -    _conjee_  *             *             *   -
+wb/cmn/00/cmn_0030   0    4    女孩子    NN      (CP(CP(IP(NP*)  -    -   -    _conjee_  *             *        (ARG0*)  -
+wb/cmn/00/cmn_0030   0    5     比较    AD          (VP(ADVP*)  -    -   -    _conjee_  *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0    6     喜欢    VV             (VP*)))  -   01   -    _conjee_  *             *           (V*)  -
+wb/cmn/00/cmn_0030   0    7      的   DEC                 *))  -    -   -    _conjee_  *             *             *   -
+wb/cmn/00/cmn_0030   0    8     可爱    JJ             (ADJP*)  -    -   -    _conjee_  *             *        (ARG1*)  -
+wb/cmn/00/cmn_0030   0    9      小    JJ             (ADJP*)  -    -   -    _conjee_  *             *      (C-ARG1*)  -
+wb/cmn/00/cmn_0030   0   10      车    NN            (NP*))))  -    -   -    _conjee_  *             *)     (C-ARG1*)  -
+wb/cmn/00/cmn_0030   0   11      。    PU                 *))  -    -   -    _conjee_  *             *             *   -
+
+wb/cmn/00/cmn_0030   0   0     但   AD    (TOP(IP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0   1    安全   NN             (NP*)  -    -   -    _conjee_  *      *        (ARG0*)  -
+wb/cmn/00/cmn_0030   0   2    肯定   VV        (VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   3     不   AD           (ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   4     会   VV             (VP*   -   02   -    _conjee_  *    (V*)            *   -
+wb/cmn/00/cmn_0030   0   5     有   VE             (VP*   -   03   -    _conjee_  *      *           (V*)  -
+wb/cmn/00/cmn_0030   0   6     太   AD   (NP(ADJP(ADVP*)  -    -   -    _conjee_  *      *        (ARG1*   -
+wb/cmn/00/cmn_0030   0   7     大   JJ          (ADJP*))  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0   8    问题   NN         (NP*)))))  -    -   -    _conjee_  *      *             *)  -
+wb/cmn/00/cmn_0030   0   9     。   PU               *))  -    -   -    _conjee_  *      *             *   -
+
+wb/cmn/00/cmn_0030   0   0    撞击    VV   (TOP(IP(NP(CP(CP(IP(VP*))  -   01   -    _conjee_  *       (V*)  (ARG0*   -
+wb/cmn/00/cmn_0030   0   1     的   DEC                         *))  -    -   -    _conjee_  *         *        *   -
+wb/cmn/00/cmn_0030   0   2    部位    NN                      (NP*))  -    -   -    _conjee_  *    (ARG1*)       *)  -
+wb/cmn/00/cmn_0030   0   3     是    VC                       (VP*   -   01   -    _conjee_  *         *      (V*)  -
+wb/cmn/00/cmn_0030   0   4    侧面    NN                       (NP*   -    -   -    _conjee_  *         *   (ARG1*   -
+wb/cmn/00/cmn_0030   0   5     和    CC                          *   -    -   -    _conjee_  *         *        *   -
+wb/cmn/00/cmn_0030   0   6    后面    NN                         *))  -    -   -    _conjee_  *         *        *)  -
+wb/cmn/00/cmn_0030   0   7     。    PU                         *))  -    -   -    _conjee_  *         *        *   -
+
+wb/cmn/00/cmn_0030   0    0    所以    AD   (TOP(IP(ADVP*)  -    -   -    _conjee_  *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0030   0    1     ，    PU               *   -    -   -    _conjee_  *             *     -
+wb/cmn/00/cmn_0030   0    2    车子    NN     (NP(DNP(NP*)  -    -   -    _conjee_  *        (ARG1*    (9)
+wb/cmn/00/cmn_0030   0    3     的   DEG               *)  -    -   -    _conjee_  *             *     -
+wb/cmn/00/cmn_0030   0    4    侧面    NN            (NP*   -    -   -    _conjee_  *             *     -
+wb/cmn/00/cmn_0030   0    5    气囊    NN               *   -    -   -    _conjee_  *             *     -
+wb/cmn/00/cmn_0030   0    6     和    CC               *   -    -   -    _conjee_  *             *     -
+wb/cmn/00/cmn_0030   0    7    气帘    NN              *))  -    -   -    _conjee_  *             *)    -
+wb/cmn/00/cmn_0030   0    8    全部    AD       (VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0030   0    9    打开    VV            (VP*   -   01   -    _conjee_  *           (V*)    -
+wb/cmn/00/cmn_0030   0   10     了    AS              *))  -    -   -    _conjee_  *             *     -
+wb/cmn/00/cmn_0030   0   11     。    PU              *))  -    -   -    _conjee_  *             *     -
+
+wb/cmn/00/cmn_0030   0    0     这    PN          (TOP(CP(IP(NP*)  -    -   -    _conjee_          *      *             *       (ARG1*)  -
+wb/cmn/00/cmn_0030   0    1     是    VC                    (VP*   -   04   -    _conjee_          *    (V*)            *            *   -
+wb/cmn/00/cmn_0030   0    2    第一    OD  (VP(NP(CP(CP(IP(VP(QP*   -    -   -    _conjee_   (ORDINAL)     *    (ARGM-ADV*   (ARGM-TMP*   -
+wb/cmn/00/cmn_0030   0    3     次     M                  (CLP*))  -    -   -    _conjee_          *      *             *)           *   -
+wb/cmn/00/cmn_0030   0    4    撞击    VV                    (VP*   -   01   -    _conjee_          *      *           (V*)           *   -
+wb/cmn/00/cmn_0030   0    5    护拦    NN                 (NP*))))  -    -   -    _conjee_          *      *        (ARG1*)           *   -
+wb/cmn/00/cmn_0030   0    6     的   DEC                      *))  -    -   -    _conjee_          *      *             *            *   -
+wb/cmn/00/cmn_0030   0    7    时候    NN                   (NP*))  -    -   -    _conjee_          *      *    (ARGM-TMP*)           *)  -
+wb/cmn/00/cmn_0030   0    8    打开    VV                 (VP*))))  -   01   -    _conjee_          *      *             *          (V*)  -
+wb/cmn/00/cmn_0030   0    9     的    SP                       *   -    -   -    _conjee_          *      *             *            *   -
+wb/cmn/00/cmn_0030   0   10     ，    PU                      *))  -    -   -    _conjee_          *      *             *            *   -
+
+wb/cmn/00/cmn_0030   0    0     第一    OD  (TOP(IP(IP(NP(DNP(QP*   -    -   -    _conjee_   (ORDINAL)       (ARG0*         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    1      次     M                 (CLP*))  -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    2      的   DEG                      *)  -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    3     撞击    NN                  (NP*))  -    -   -    _conjee_          *             *)        *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    4     属于    VV                (VP(VP*   -   01   -    _conjee_          *           (V*)        *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    5      蹭    VV                (IP(VP*   -   01   -    _conjee_          *        (ARG1*       (V*)        *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    6     护拦    NN                (NP*))))  -    -   -    _conjee_          *             *)   (ARG1*)        *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    7     而已    AD               (ADVP*)))  -    -   -    _conjee_          *    (ARGM-ADV*)        *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    8      ，    PU                      *   -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    9     人员    NN    (IP(NP(CP(CP(IP(NP*   -    -   -    _conjee_          *             *         *    (ARG0*        (ARG0*             *      *             *   -
+wb/cmn/00/cmn_0030   0   10     本身    NN                      *)  -    -   -    _conjee_          *             *         *         *)            *             *      *             *   -
+wb/cmn/00/cmn_0030   0   11     受到    VV                  (VP*))  -   01   -    _conjee_          *             *         *       (V*)            *             *      *             *   -
+wb/cmn/00/cmn_0030   0   12      的   DEC                     *))  -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   13    撞击力    NN                  (NP*))  -    -   -    _conjee_          *             *         *    (ARG1*)            *)            *      *             *   -
+wb/cmn/00/cmn_0030   0   14      都    AD              (VP(ADVP*)  -    -   -    _conjee_          *             *         *         *    (ARGM-ADV*)            *      *             *   -
+wb/cmn/00/cmn_0030   0   15     非常    AD                 (ADVP*)  -    -   -    _conjee_          *             *         *         *    (ARGM-ADV*)            *      *             *   -
+wb/cmn/00/cmn_0030   0   16      小    VA                 (VP*)))  -   01   -    _conjee_          *             *         *         *           (V*)            *      *             *   -
+wb/cmn/00/cmn_0030   0   17      ，    PU                      *   -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   18     而且    AD              (IP(ADVP*)  -    -   -    _conjee_          *             *         *         *             *    (ARGM-DIS*)     *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0   19      有    VE                (VP(VP*   -   01   -    _conjee_          *             *         *         *             *           (V*)     *             *   -
+wb/cmn/00/cmn_0030   0   20     气帘    NN            (NP(DNP(NP*)  -    -   -    _conjee_          *             *         *         *             *        (ARG1*      *             *   -
+wb/cmn/00/cmn_0030   0   21      的   DEG                      *)  -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   22     保护    NN                 (NP*)))  -    -   -    _conjee_          *             *         *         *             *             *)     *             *   -
+wb/cmn/00/cmn_0030   0   23      ，    PU                      *   -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   24     所以    AD              (VP(ADVP*)  -    -   -    _conjee_          *             *         *         *             *             *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0   25     肯定    VV                 (ADVP*)  -    -   -    _conjee_          *             *         *         *             *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   26      不    AD                 (ADVP*)  -    -   -    _conjee_          *             *         *         *             *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   27      会    VV                   (VP*   -   02   -    _conjee_          *             *         *         *             *             *    (V*)            *   -
+wb/cmn/00/cmn_0030   0   28      有    VE                   (VP*   -   03   -    _conjee_          *             *         *         *             *             *      *           (V*)  -
+wb/cmn/00/cmn_0030   0   29      大    JJ              (NP(ADJP*)  -    -   -    _conjee_          *             *         *         *             *             *      *        (ARG1*   -
+wb/cmn/00/cmn_0030   0   30     问题    NN             (NP*)))))))  -    -   -    _conjee_          *             *         *         *             *             *      *             *)  -
+wb/cmn/00/cmn_0030   0   31      。    PU                     *))  -    -   -    _conjee_          *             *         *         *             *             *      *             *   -
+
+wb/cmn/00/cmn_0030   0    0    真正    AD   (TOP(IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -    _conjee_          *    (ARGM-ADV*)  (ARG0*   -
+wb/cmn/00/cmn_0030   0    1    致命    VV                         (VP*)))  -   01   -    _conjee_          *           (V*)       *   -
+wb/cmn/00/cmn_0030   0    2     的   DEC                             *))  -    -   -    _conjee_          *             *        *   -
+wb/cmn/00/cmn_0030   0    3    撞击    NN                          (NP*))  -    -   -    _conjee_          *        (ARG0*)       *)  -
+wb/cmn/00/cmn_0030   0    4     是    VC                           (VP*   -   01   -    _conjee_          *             *      (V*)  -
+wb/cmn/00/cmn_0030   0    5   第2     OD                    (NP(DNP(QP*   -    -   -    _conjee_   (ORDINAL)            *   (ARG1*   -
+wb/cmn/00/cmn_0030   0    6     下     M                         (CLP*))  -    -   -    _conjee_          *             *        *   -
+wb/cmn/00/cmn_0030   0    7     的   DEG                              *)  -    -   -    _conjee_          *             *        *   -
+wb/cmn/00/cmn_0030   0    8    卡车    NN                           (NP*   -    -   -    _conjee_          *             *        *   -
+wb/cmn/00/cmn_0030   0    9    追尾    NN                            *)))  -    -   -    _conjee_          *             *        *)  -
+wb/cmn/00/cmn_0030   0   10     。    PU                             *))  -    -   -    _conjee_          *             *        *   -
+
+wb/cmn/00/cmn_0030   0    0    当时    NT   (TOP(IP(IP(NP*)  -    -   -    _conjee_  *         *    (ARGM-TMP*)   (ARGM-TMP*)     *             *   -
+wb/cmn/00/cmn_0030   0    1    所有    DT          (NP(DP*)  -    -   -    _conjee_  *         *        (ARG0*        (ARG0*      *             *   -
+wb/cmn/00/cmn_0030   0    2    充气    VV   (CP(CP(IP(VP*))  -   01   -    _conjee_  *       (V*)            *             *      *             *   -
+wb/cmn/00/cmn_0030   0    3     的   DEC               *))  -    -   -    _conjee_  *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    4    气囊    NN            (NP*))  -    -   -    _conjee_  *    (ARG1*)            *)            *)     *             *   -
+wb/cmn/00/cmn_0030   0    5     都    AD        (VP(ADVP*)  -    -   -    _conjee_  *         *    (ARGM-ADV*)   (ARGM-ADV*)     *             *   -
+wb/cmn/00/cmn_0030   0    6    已经    AD           (ADVP*)  -    -   -    _conjee_  *         *    (ARGM-ADV*)   (ARGM-ADV*)     *             *   -
+wb/cmn/00/cmn_0030   0    7    泄气    VV          (VP(VP*)  -   01   -    _conjee_  *         *           (V*)            *      *             *   -
+wb/cmn/00/cmn_0030   0    8     ，    PU                *   -    -   -    _conjee_  *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    9    没有    VE             (VP*   -   02   -    _conjee_  *         *             *           (V*)     *             *   -
+wb/cmn/00/cmn_0030   0   10    保护    NN             (NP*   -    -   -    _conjee_  *         *             *        (ARG1*      *             *   -
+wb/cmn/00/cmn_0030   0   11    作用    NN            *)))))  -    -   -    _conjee_  *         *             *             *)     *             *   -
+wb/cmn/00/cmn_0030   0   12     ，    PU                *   -    -   -    _conjee_  *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   13    而且    AD     (CP(IP(ADVP*)  -    -   -    _conjee_  *         *             *             *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0   14     这    DT      (NP(DNP(DP*   -    -   -    _conjee_  *         *             *             *      *        (ARG0*   -
+wb/cmn/00/cmn_0030   0   15     下     M           (CLP*))  -    -   -    _conjee_  *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   16     的   DEG                *)  -    -   -    _conjee_  *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   17    力量    NN            (NP*))  -    -   -    _conjee_  *         *             *             *      *             *)  -
+wb/cmn/00/cmn_0030   0   18     是    VC             (VP*   -   04   -    _conjee_  *         *             *             *    (V*)            *   -
+wb/cmn/00/cmn_0030   0   19    非常    AD        (VP(ADVP*)  -    -   -    _conjee_  *         *             *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   20     大    VA          (VP*))))  -   01   -    _conjee_  *         *             *             *      *           (V*)  -
+wb/cmn/00/cmn_0030   0   21     的    SP                *)  -    -   -    _conjee_  *         *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   22     ，    PU               *))  -    -   -    _conjee_  *         *             *             *      *             *   -
+
+wb/cmn/00/cmn_0030   0    0    如果    CS       (TOP(IP(CP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-DIS*)   (ARGM-DIS*)     *        *     -
+wb/cmn/00/cmn_0030   0    1     车    NN                (IP(NP*)  -    -   -    _conjee_  *      *        (ARG0*)       (ARG1*)     *        *    (9)
+wb/cmn/00/cmn_0030   0    2     是    VC                   (VP*   -   04   -    _conjee_  *    (V*)            *             *      *        *     -
+wb/cmn/00/cmn_0030   0    3     歪    VA                (VP(VP*   -   01   -    _conjee_  *      *           (V*)            *      *        *     -
+wb/cmn/00/cmn_0030   0    4     着    AS                      *)  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0    5     停    VV                   (VP*   -   01   -    _conjee_  *      *             *           (V*)     *        *     -
+wb/cmn/00/cmn_0030   0    6     着    AS                  *)))))  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0    7     ，    PU                      *   -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0    8    那么    AD                 (ADVP*)  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0    9     ，    PU                      *   -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   10    肯定    AD              (VP(ADVP*)  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   11     有    VE                   (VP*   -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   12     一    CD   (IP(NP(DNP(NP(NP(QP*)  -    -   -    _conjee_  *      *             *             *      *   (ARG0*     -
+wb/cmn/00/cmn_0030   0   13     侧    NN                  (NP*))  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   14     人    NN                  (NP*))  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   15     的   DEG                      *)  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   16    脑袋    NN                  (NP*))  -    -   -    _conjee_  *      *             *             *      *        *)    -
+wb/cmn/00/cmn_0030   0   17     会    VV                   (VP*   -   02   -    _conjee_  *      *             *             *    (V*)       *     -
+wb/cmn/00/cmn_0030   0   18    撞击    VV               (VP(VRD*   -   01   -    _conjee_  *      *             *             *      *      (V*)    -
+wb/cmn/00/cmn_0030   0   19     到    VV                      *)  -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   20    玻璃    NN                   (NP*   -    -   -    _conjee_  *      *             *             *      *   (ARG1*     -
+wb/cmn/00/cmn_0030   0   21    或者    CC                      *   -    -   -    _conjee_  *      *             *             *      *        *     -
+wb/cmn/00/cmn_0030   0   22    B柱    NN                 *))))))  -    -   -    _conjee_  *      *             *             *      *        *)    -
+wb/cmn/00/cmn_0030   0   23     。    PU                     *))  -    -   -    _conjee_  *      *             *             *      *        *     -
+
+wb/cmn/00/cmn_0030   0    0     而    AD    (TOP(IP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0    1    另外    DT   (NP(DNP(NP(DP*   -    -   -    _conjee_  *      *        (ARG0*   -
+wb/cmn/00/cmn_0030   0    2     一    CD            (QP*))  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0    3     侧    NN            (NP*))  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0    4     的   DEG                *)  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0    5     人    NN            (NP*))  -    -   -    _conjee_  *      *             *)  -
+wb/cmn/00/cmn_0030   0    6     不    AD        (VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0    7     会    VV             (VP*   -   02   -    _conjee_  *    (V*)            *   -
+wb/cmn/00/cmn_0030   0    8     有    VE             (VP*   -   02   -    _conjee_  *      *           (V*)  -
+wb/cmn/00/cmn_0030   0    9     太    AD   (NP(ADJP(ADVP*)  -    -   -    _conjee_  *      *        (ARG1*   -
+wb/cmn/00/cmn_0030   0   10     大    JJ          (ADJP*))  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0   11    问题    NN         (NP*)))))  -    -   -    _conjee_  *      *             *)  -
+wb/cmn/00/cmn_0030   0   12     。    PU               *))  -    -   -    _conjee_  *      *             *   -
+
+wb/cmn/00/cmn_0030   0   0     这   PN   (TOP(IP(NP*)  -    -   -    _conjee_  *    (ARG0*)  -
+wb/cmn/00/cmn_0030   0   1     是   VC          (VP*   -   01   -    _conjee_  *       (V*)  -
+wb/cmn/00/cmn_0030   0   2    常识   NN         (NP*))  -    -   -    _conjee_  *    (ARG1*)  -
+wb/cmn/00/cmn_0030   0   3     。   PU            *))  -    -   -    _conjee_  *         *   -
+
+wb/cmn/00/cmn_0030   0    0     就    AD   (TOP(IP(IP(VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)        *      *        *           *   -
+wb/cmn/00/cmn_0030   0    1     看    VV                  (VP*   -   01   -    _conjee_  *           (V*)        *      *        *           *   -
+wb/cmn/00/cmn_0030   0    2     谁    PN            (CP(IP(NP*)  -    -   -    _conjee_  *        (ARG1*    (ARG0*)     *        *           *   -
+wb/cmn/00/cmn_0030   0    3    倒霉    VV                 (VP*))  -   01   -    _conjee_  *             *       (V*)     *        *           *   -
+wb/cmn/00/cmn_0030   0    4     了    SP                  *))))  -    -   -    _conjee_  *             *)        *      *        *           *   -
+wb/cmn/00/cmn_0030   0    5     ，    PU                     *   -    -   -    _conjee_  *             *         *      *        *           *   -
+wb/cmn/00/cmn_0030   0    6     是    VC               (IP(VP*   -   04   -    _conjee_  *             *         *    (V*)       *           *   -
+wb/cmn/00/cmn_0030   0    7     坐    VV                  (VP*   -   01   -    _conjee_  *             *         *      *      (V*)          *   -
+wb/cmn/00/cmn_0030   0    8     在     P                  (PP*   -    -   -    _conjee_  *             *         *      *   (ARG1*           *   -
+wb/cmn/00/cmn_0030   0    9    汽车    NN      (NP(CP(CP(IP(NP*   -    -   -    _conjee_  *             *         *      *        *      (ARG0*   -
+wb/cmn/00/cmn_0030   0   10    车头    NN                     *)  -    -   -    _conjee_  *             *         *      *        *           *)  -
+wb/cmn/00/cmn_0030   0   11    歪向    VV                 (VP*))  -   01   -    _conjee_  *             *         *      *        *         (V*)  -
+wb/cmn/00/cmn_0030   0   12     的   DEC                    *))  -    -   -    _conjee_  *             *         *      *        *           *   -
+wb/cmn/00/cmn_0030   0   13     那    DT                  (DP*   -    -   -    _conjee_  *             *         *      *        *      (ARG1*   -
+wb/cmn/00/cmn_0030   0   14     一    CD                 (QP*))  -    -   -    _conjee_  *             *         *      *        *           *)  -
+wb/cmn/00/cmn_0030   0   15     边    NN             (NP*))))))  -    -   -    _conjee_  *             *         *      *        *)   (C-ARG1*)  -
+wb/cmn/00/cmn_0030   0   16     。    PU                    *))  -    -   -    _conjee_  *             *         *      *        *           *   -
+
+wb/cmn/00/cmn_0030   0    0     前面    NN   (TOP(CP(IP(IP(NP(DNP(NP*)  -    -   -    _conjee_  *        (ARG1*      *        (ARG0*             *             *   (7
+wb/cmn/00/cmn_0030   0    1      的   DEG                          *)  -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0    2     气囊    NN                      (NP*))  -    -   -    _conjee_  *             *)     *             *             *             *    7)
+wb/cmn/00/cmn_0030   0    3      不    AD                  (VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)     *             *             *             *    -
+wb/cmn/00/cmn_0030   0    4     打开    VV                     (VP*)))  -   01   -    _conjee_  *           (V*)     *             *)            *             *    -
+wb/cmn/00/cmn_0030   0    5      是    VC                       (VP*   -   04   -    _conjee_  *             *    (V*)            *             *             *    -
+wb/cmn/00/cmn_0030   0    6     完全    AD                  (VP(ADVP*)  -    -   -    _conjee_  *             *      *    (ARGM-ADV*)            *             *    -
+wb/cmn/00/cmn_0030   0    7      对    VA                    (VP*))))  -   02   -    _conjee_  *             *      *           (V*)            *             *    -
+wb/cmn/00/cmn_0030   0    8      的    SP                          *   -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0    9      ，    PU                          *   -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0   10     因为     P                       (PP*   -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0   11     车头    NN                 (IP(IP(NP*)  -    -   -    _conjee_  *             *      *             *        (ARG1*)            *    -
+wb/cmn/00/cmn_0030   0   12     一点    CD                    (NP(QP*)  -    -   -    _conjee_  *             *      *             *        (ARG0*             *    -
+wb/cmn/00/cmn_0030   0   13     损坏    NN                      (NP*))  -    -   -    _conjee_  *             *      *             *             *)            *    -
+wb/cmn/00/cmn_0030   0   14      都    AD                  (VP(ADVP*)  -    -   -    _conjee_  *             *      *             *    (ARGM-ADV*)            *    -
+wb/cmn/00/cmn_0030   0   15     没有    VE                     (VP*)))  -   01   -    _conjee_  *             *      *             *           (V*)            *    -
+wb/cmn/00/cmn_0030   0   16      ，    PU                          *   -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0   17     所有    DT             (IP(NP(DNP(DP*)  -    -   -    _conjee_  *             *      *             *             *        (ARG0*    -
+wb/cmn/00/cmn_0030   0   18      的   DEG                          *)  -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0   19    传感器    NN                      (NP*))  -    -   -    _conjee_  *             *      *             *             *             *)   -
+wb/cmn/00/cmn_0030   0   20      都    AD                  (VP(ADVP*)  -    -   -    _conjee_  *             *      *             *             *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0030   0   21     没有    AD                     (ADVP*)  -    -   -    _conjee_  *             *      *             *             *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0030   0   22     接受    VV                   (VP(VRD*   -   01   -    _conjee_  *             *      *             *             *           (V*)   -
+wb/cmn/00/cmn_0030   0   23      到    VV                          *)  -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0   24     撞击    NN                (NP(DNP(NP*)  -    -   -    _conjee_  *             *      *             *             *        (ARG1*    -
+wb/cmn/00/cmn_0030   0   25      的   DEG                          *)  -    -   -    _conjee_  *             *      *             *             *             *    -
+wb/cmn/00/cmn_0030   0   26     信号    NN                 (NP*)))))))  -    -   -    _conjee_  *             *      *             *             *             *)   -
+wb/cmn/00/cmn_0030   0   27      。    PU                         *))  -    -   -    _conjee_  *             *      *             *             *             *    -
+
+wb/cmn/00/cmn_0030   0    0      试想    VV         (TOP(IP(IP(VP*))  -   01   -    _conjee_  *    (V*)        *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    1       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    2       这    PN                 (IP(NP*)  -    -   -    _conjee_  *      *    (ARG0*)     *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    3       是    VC                    (VP*   -   01   -    _conjee_  *      *       (V*)     *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    4      后方    NN             (NP(DNP(NP*)  -    -   -    _conjee_  *      *    (ARG1*      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    5       的   DEG                       *)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    6      撞击    NN                 (NP*))))  -    -   -    _conjee_  *      *         *)     *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    7       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    8       人    NN              (CP(IP(NP*)  -    -   -    _conjee_  *      *         *      *        (ARG0*)     *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0    9       是    VC                    (VP*   -   04   -    _conjee_  *      *         *    (V*)            *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   10      猛然    AD               (VP(ADVP*)  -    -   -    _conjee_  *      *         *      *    (ARGM-ADV*)     *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   11      往后    AD                  (ADVP*)  -    -   -    _conjee_  *      *         *      *    (ARGM-ADV*)     *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   12       退    VV                 (VP*))))  -   02   -    _conjee_  *      *         *      *           (V*)     *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   13       的    SP                       *)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   14       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   15      身体    NN                 (IP(NP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   16      可以    VV                    (VP*   -   01   -    _conjee_  *      *         *      *             *    (V*)        *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   17       被    LB                    (VP*   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   18      座椅    NN                 (IP(NP*)  -    -   -    _conjee_  *      *         *      *             *      *    (ARG0*)     *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   19      托住    VV                (VP*)))))  -   01   -    _conjee_  *      *         *      *             *      *       (V*)     *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   20       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   21       但    AD            (CP(IP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *    (ARGM-DIS*)            *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   22      颈椎    NN             (NP(DNP(NP*   -    -   -    _conjee_  *      *         *      *             *      *         *      *        (ARG0*             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   23       和    CC                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   24      大脑    NN                       *)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   25       的   DEG                       *)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   26      受力    NN                   (NP*))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *)            *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   27       是    VC                    (VP*   -   04   -    _conjee_  *      *         *      *             *      *         *    (V*)            *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   28      非常    AD               (VP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *    (ARGM-ADV*)            *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   29       大    VA                 (VP*))))  -   01   -    _conjee_  *      *         *      *             *      *         *      *           (V*)            *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   30       的    SP                       *)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   31       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   32       在     P                 (IP(PP*   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *    (ARGM-TMP*    (ARGM-TMP*      *    (ARGM-TMP*   -
+wb/cmn/00/cmn_0030   0   33       猛    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *    (ARGM-ADV*)            *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   34      往后    VV                  (VP*)))  -   01   -    _conjee_  *      *         *      *             *      *         *      *             *           (V*)            *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   35       的   DEC                      *))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   36      时候    NN                  (NP*)))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *    (ARGM-TMP*)            *             *)            *)     *             *)  -
+wb/cmn/00/cmn_0030   0   37       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   38       再    AD            (VP(VP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *    (ARGM-ADV*)            *      *             *   -
+wb/cmn/00/cmn_0030   0   39       被    LB                    (VP*   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   40      前面    NN              (IP(NP(NP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *        (ARG0*             *      *             *   -
+wb/cmn/00/cmn_0030   0   41    莫名其妙    AD      (CP(CP(IP(VP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *    (ARGM-ADV*)            *             *      *             *   -
+wb/cmn/00/cmn_0030   0   42      打开    VV                  (VP*)))  -   01   -    _conjee_  *      *         *      *             *      *         *      *             *             *           (V*)            *             *      *             *   -
+wb/cmn/00/cmn_0030   0   43       的   DEC                      *))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   44      气囊    NN                   (NP*))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *        (ARG1*)            *)            *      *             *   -
+wb/cmn/00/cmn_0030   0   45    雪上加霜    VV                    (VP*   -   01   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *           (V*)            *      *             *   -
+wb/cmn/00/cmn_0030   0   46      一下    AD              (ADVP*)))))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *    (ARGM-ADV*)            *      *             *   -
+wb/cmn/00/cmn_0030   0   47       ，    PU                       *   -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+wb/cmn/00/cmn_0030   0   48      本来    AD            (VP(VP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *    (ARGM-ADV*)     *             *   -
+wb/cmn/00/cmn_0030   0   49       不    AD                  (ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *    (ARGM-ADV*)     *             *   -
+wb/cmn/00/cmn_0030   0   50       死    VV                   (VP*))  -   01   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *           (V*)     *             *   -
+wb/cmn/00/cmn_0030   0   51       都    AD               (VP(ADVP*)  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0   52       得    VV                    (VP*   -   02   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *    (V*)            *   -
+wb/cmn/00/cmn_0030   0   53       死    VV               (VP*))))))  -   01   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *           (V*)  -
+wb/cmn/00/cmn_0030   0   54       。    PU                      *))  -    -   -    _conjee_  *      *         *      *             *      *         *      *             *             *             *             *             *      *             *   -
+
+wb/cmn/00/cmn_0030   0    0      所以    AD     (TOP(IP(IP(ADVP*)  -    -   -    _conjee_          *        *      *    (ARGM-DIS*)        *             *   -
+wb/cmn/00/cmn_0030   0    1       ，    PU                    *   -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0    2      撞击    VV     (NP(CP(CP(IP(VP*   -   01   -    _conjee_          *      (V*)     *    (ARGM-TPC*         *             *   -
+wb/cmn/00/cmn_0030   0    3       在     P                 (PP*   -    -   -    _conjee_          *   (ARG1*      *             *         *             *   -
+wb/cmn/00/cmn_0030   0    4      后面    NN              (NP*))))  -    -   -    _conjee_          *        *)     *             *         *             *   -
+wb/cmn/00/cmn_0030   0    5       的   DEC                  *)))  -    -   -    _conjee_          *        *      *             *)        *             *   -
+wb/cmn/00/cmn_0030   0    6       ，    PU                    *   -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0    7      世界    NN   (NP(DNP(NP(LCP(NP*)  -    -   -    _conjee_          *        *      *        (ARG1*         *             *   -
+wb/cmn/00/cmn_0030   0    8       上    LC                    *)  -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0    9      所有    DT             (DNP(DP*)  -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0   10       的   DEG                    *)  -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0   11       车    NN                (NP*))  -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0   12       的   DEG                    *)  -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0   13       前    JJ               (ADJP*)  -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0   14      气囊    NN                (NP*))  -    -   -    _conjee_          *        *      *             *)        *             *   -
+wb/cmn/00/cmn_0030   0   15       都    AD            (VP(ADVP*)  -    -   -    _conjee_          *        *      *    (ARGM-ADV*)        *             *   -
+wb/cmn/00/cmn_0030   0   16       不    AD               (ADVP*)  -    -   -    _conjee_          *        *      *    (ARGM-ADV*)        *             *   -
+wb/cmn/00/cmn_0030   0   17       会    VV                 (VP*   -   02   -    _conjee_          *        *    (V*)            *         *             *   -
+wb/cmn/00/cmn_0030   0   18       开    VV              (VP*))))  -   09   -    _conjee_          *        *      *           (V*)        *             *   -
+wb/cmn/00/cmn_0030   0   19       ，    PU                    *   -    -   -    _conjee_          *        *      *             *         *             *   -
+wb/cmn/00/cmn_0030   0   20       换    VV           (IP(IP(VP*   -   02   -    _conjee_          *        *      *             *       (V*)       (ARG0*   -
+wb/cmn/00/cmn_0030   0   21    劳斯莱斯    NR               (NP*)))  -    -   -    _conjee_   (PRODUCT)       *      *             *    (ARG1*)            *)  -
+wb/cmn/00/cmn_0030   0   22       也    AD            (VP(ADVP*)  -    -   -    _conjee_          *        *      *             *         *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0   23      一样    VA               (VP*)))  -   01   -    _conjee_          *        *      *             *         *           (V*)  -
+wb/cmn/00/cmn_0030   0   24       。    PU                   *))  -    -   -    _conjee_          *        *      *             *         *             *   -
+
+wb/cmn/00/cmn_0030   0    0    如果   CS   (TOP(IP(CP(ADVP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    1    追尾   NN         (IP(NP(NP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    2    时候   NN              (NP*))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    3     前   JJ          (NP(ADJP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    4    气囊   NN              (NP*))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    5     开   VV               (VP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    6     了   AS                *)))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    7     ，   PU                  *   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    8     那   PN               (NP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0    9     才   AD       (VP(VP(ADVP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   10     是   VC               (VP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   11    质量   NN               (NP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   12    问题   NN                *)))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   13     。   PU                  *   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   14    而且   AD          (VP(ADVP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   15    非常   AD             (ADVP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   16    危险   VA             (VP*)))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   17     。   PU                 *))  -   -   -    _conjee_  *   -
+
+wb/cmn/00/cmn_0030   0   0     安全    NN  (TOP(CP(IP(NP(DNP(NP*   -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   1     气囊    NN                      *)  -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   2      的   DEG                      *)  -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   3    爆炸力    NN                  (NP*))  -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   4      是    VC                   (VP*   -   04   -    _conjee_  *    (V*)     *   -
+wb/cmn/00/cmn_0030   0   5     可以    VV                   (VP*   -   01   -    _conjee_  *      *    (V*)  -
+wb/cmn/00/cmn_0030   0   6     拍死    VV                   (VP*   -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   7      人    NN               (NP*)))))  -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   8      的    SP                      *   -    -   -    _conjee_  *      *      *   -
+wb/cmn/00/cmn_0030   0   9      。    PU                     *))  -    -   -    _conjee_  *      *      *   -
+
+wb/cmn/00/cmn_0030   0   0    所以   AD   (TOP(IP(ADVP*)  -    -   -    _conjee_  *    (ARGM-DIS*)       *        *   -
+wb/cmn/00/cmn_0030   0   1     ，   PU               *   -    -   -    _conjee_  *             *        *        *   -
+wb/cmn/00/cmn_0030   0   2    婴儿   NN            (NP*)  -    -   -    _conjee_  *        (ARG0*)       *        *   -
+wb/cmn/00/cmn_0030   0   3     是   VC            (VP*   -   01   -    _conjee_  *           (V*)       *        *   -
+wb/cmn/00/cmn_0030   0   4    严禁   VV      (CP(IP(VP*   -   01   -    _conjee_  *        (ARG1*      (V*)       *   -
+wb/cmn/00/cmn_0030   0   5     坐   VV         (IP(VP*   -   01   -    _conjee_  *             *   (ARG1*      (V*)  -
+wb/cmn/00/cmn_0030   0   6     在    P            (PP*   -    -   -    _conjee_  *             *        *   (ARG1*   -
+wb/cmn/00/cmn_0030   0   7    前坐   NN       (NP*))))))  -    -   -    _conjee_  *             *        *)       *)  -
+wb/cmn/00/cmn_0030   0   8     的   SP              *))  -    -   -    _conjee_  *             *)       *        *   -
+wb/cmn/00/cmn_0030   0   9     。   PU              *))  -    -   -    _conjee_  *             *        *        *   -
+
+wb/cmn/00/cmn_0030   0   0     整   DT  (TOP(IP(NP(DP*   -    -   -    _conjee_  *      *        (ARG0*   (6
+wb/cmn/00/cmn_0030   0   1     个    M          (CLP*))  -    -   -    _conjee_  *      *             *    -
+wb/cmn/00/cmn_0030   0   2    事故   NN           (NP*))  -    -   -    _conjee_  *      *             *)   6)
+wb/cmn/00/cmn_0030   0   3     就   AD       (VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0030   0   4     是   VC            (VP*   -   04   -    _conjee_  *    (V*)            *    -
+wb/cmn/00/cmn_0030   0   5    这样   VA          (VP*)))  -   01   -    _conjee_  *      *           (V*)   -
+wb/cmn/00/cmn_0030   0   6     。   PU              *))  -    -   -    _conjee_  *      *             *    -
+
+wb/cmn/00/cmn_0030   0    0     事故    NN  (TOP(IP(NP(DNP(NP*   -    -   -    _conjee_  *      *        (ARG0*   -
+wb/cmn/00/cmn_0030   0    1    调查科    NN                   *)  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0    2      的   DEG                   *)  -    -   -    _conjee_  *      *             *   -
+wb/cmn/00/cmn_0030   0    3     结果    NN               (NP*))  -    -   -    _conjee_  *      *             *)  -
+wb/cmn/00/cmn_0030   0    4      也    AD           (VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0    5      不    AD              (ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0    6      会    VV                (VP*   -   02   -    _conjee_  *    (V*)            *   -
+wb/cmn/00/cmn_0030   0    7      和     P             (VP(PP*   -    -   -    _conjee_  *      *      (C-ARG0*   -
+wb/cmn/00/cmn_0030   0    8     这个    PN               (NP*))  -    -   -    _conjee_  *      *             *)  -
+wb/cmn/00/cmn_0030   0    9      有    VE                (VP*   -   03   -    _conjee_  *      *           (V*)  -
+wb/cmn/00/cmn_0030   0   10     偏差    NN            (NP*)))))  -    -   -    _conjee_  *      *        (ARG1*)  -
+wb/cmn/00/cmn_0030   0   11      。    PU                  *))  -    -   -    _conjee_  *      *             *   -
+
+wb/cmn/00/cmn_0030   0    0    这样    JJ   (TOP(CP(IP(NP(DNP(ADJP*)  -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0    1     的   DEG                         *)  -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0    2    事故    NN                     (NP*))  -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0    3     ，    PU                         *   -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0    4     看    VV                   (IP(VP*   -   02   -    _conjee_  *          (V*)     *   -
+wb/cmn/00/cmn_0030   0    5     一    CD                      (QP*   -    -   -    _conjee_  *   (ARGM-EXT*      *   -
+wb/cmn/00/cmn_0030   0    6     眼     M                    (CLP*))  -    -   -    _conjee_  *            *)     *   -
+wb/cmn/00/cmn_0030   0    7    汽车    NN                      (NP*   -    -   -    _conjee_  *       (ARG1*      *   -
+wb/cmn/00/cmn_0030   0    8    残骸    NN                       *)))  -    -   -    _conjee_  *            *)     *   -
+wb/cmn/00/cmn_0030   0    9     就    AD                 (VP(ADVP*)  -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0   10    可以    VV                      (VP*   -   01   -    _conjee_  *            *    (V*)  -
+wb/cmn/00/cmn_0030   0   11    断定    VV                   (VP*))))  -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0   12     了    SP                         *   -    -   -    _conjee_  *            *      *   -
+wb/cmn/00/cmn_0030   0   13     。    PU                        *))  -    -   -    _conjee_  *            *      *   -
+
+wb/cmn/00/cmn_0030   0    0    汽车    NN   (TOP(IP(CP(IP(NP(NP*)  -    -   -    _conjee_  *      *   (ARG0*             *     -
+wb/cmn/00/cmn_0030   0    1     和    CC                      *   -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0    2    汽车    NN                   (NP*   -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0    3    厂商    NN                     *))  -    -   -    _conjee_  *      *        *)            *     -
+wb/cmn/00/cmn_0030   0    4     是    VC                   (VP*   -   04   -    _conjee_  *    (V*)       *             *     -
+wb/cmn/00/cmn_0030   0    5    没有    VE                   (VP*   -   02   -    _conjee_  *      *      (V*)            *     -
+wb/cmn/00/cmn_0030   0    6    任何    DT                (NP(DP*)  -    -   -    _conjee_  *      *   (ARG1*             *     -
+wb/cmn/00/cmn_0030   0    7    过错    NN               (NP*)))))  -    -   -    _conjee_  *      *        *)            *     -
+wb/cmn/00/cmn_0030   0    8     的    SP                      *)  -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0    9     ，    PU                      *   -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   10    汽车    NN             (IP(NP(NP*)  -    -   -    _conjee_  *      *        *        (ARG0*    (1
+wb/cmn/00/cmn_0030   0   11    所有    DT               (DNP(DP*)  -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   12     的   DEG                      *)  -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   13    被动    JJ                 (ADJP*)  -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   14    安全    NN                   (NP*   -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   15    保护    NN                      *   -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   16    系统    NN                     *))  -    -   -    _conjee_  *      *        *             *)    1)
+wb/cmn/00/cmn_0030   0   17    已经    AD              (VP(ADVP*)  -    -   -    _conjee_  *      *        *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0030   0   18    完全    AD                 (ADVP*)  -    -   -    _conjee_  *      *        *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0030   0   19    发挥    VV                   (VP*   -   01   -    _conjee_  *      *        *           (V*)    -
+wb/cmn/00/cmn_0030   0   20     了    AS                      *   -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   21     它    PN            (NP(DNP(NP*)  -    -   -    _conjee_  *      *        *        (ARG1*    (1)
+wb/cmn/00/cmn_0030   0   22     的   DEG                      *)  -    -   -    _conjee_  *      *        *             *     -
+wb/cmn/00/cmn_0030   0   23    作用    NN               (NP*)))))  -    -   -    _conjee_  *      *        *             *)    -
+wb/cmn/00/cmn_0030   0   24     。    PU                     *))  -    -   -    _conjee_  *      *        *             *     -
+
+wb/cmn/00/cmn_0030   0    0     所以    AD   (TOP(IP(CP(IP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-DIS*)   (ARGM-DIS*)            *      *             *    -
+wb/cmn/00/cmn_0030   0    1      ，    PU                     *   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0    2     对于     P                  (PP*   -    -   -    _conjee_  *      *    (ARGM-ADV*    (ARGM-ADV*             *      *             *    -
+wb/cmn/00/cmn_0030   0    3     这样    JJ             (NP(ADJP*)  -    -   -    _conjee_  *      *             *             *             *      *             *   (6
+wb/cmn/00/cmn_0030   0    4      一    CD                  (QP*   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0    5      个     M                (CLP*))  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0    6     事故    NN                (NP*)))  -    -   -    _conjee_  *      *             *)            *)            *      *             *    6)
+wb/cmn/00/cmn_0030   0    7      ，    PU                     *   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0    8     对于     P           (NP(DNP(PP*   -    -   -    _conjee_  *      *        (ARG0*        (ARG0*             *      *             *    -
+wb/cmn/00/cmn_0030   0    9     汽车    NN                  (NP*   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   10      和    CC                     *   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   11     厂家    NN                    *))  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   12      的   DEG                     *)  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   13     指责    NN                  (NP*   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   14      和    CC                     *   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   15     怀疑    NN                    *))  -    -   -    _conjee_  *      *             *)            *)            *      *             *    -
+wb/cmn/00/cmn_0030   0   16      是    VC                  (VP*   -   04   -    _conjee_  *    (V*)            *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   17     非常    AD          (VP(VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)            *             *      *             *    -
+wb/cmn/00/cmn_0030   0   18     滑稽    VA                 (VP*))  -   01   -    _conjee_  *      *           (V*)            *             *      *             *    -
+wb/cmn/00/cmn_0030   0   19      和    CC                     *   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   20      不    AD             (VP(ADVP*)  -    -   -    _conjee_  *      *             *    (ARGM-ADV*)            *      *             *    -
+wb/cmn/00/cmn_0030   0   21     科学    VA              (VP*)))))  -   01   -    _conjee_  *      *             *           (V*)            *      *             *    -
+wb/cmn/00/cmn_0030   0   22      的    SP                     *)  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   23      ，    PU                     *   -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   24    尤其是    AD          (CP(IP(ADVP*)  -    -   -    _conjee_  *      *             *             *             *      *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0030   0   25     关于     P           (NP(DNP(PP*   -    -   -    _conjee_  *      *             *             *             *      *        (ARG0*    -
+wb/cmn/00/cmn_0030   0   26     前面    NN        (IP(NP(DNP(NP*)  -    -   -    _conjee_  *      *             *             *        (ARG1*      *             *   (7
+wb/cmn/00/cmn_0030   0   27      的   DEG                     *)  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   28     气囊    NN                 (NP*))  -    -   -    _conjee_  *      *             *             *             *)     *             *    7)
+wb/cmn/00/cmn_0030   0   29     怎么    AD             (VP(ADVP*)  -    -   -    _conjee_  *      *             *             *    (ARGM-ADV*)     *             *    -
+wb/cmn/00/cmn_0030   0   30      没    AD                (ADVP*)  -    -   -    _conjee_  *      *             *             *    (ARGM-ADV*)     *             *    -
+wb/cmn/00/cmn_0030   0   31     打开    VV               (VP*))))  -   01   -    _conjee_  *      *             *             *           (V*)     *             *    -
+wb/cmn/00/cmn_0030   0   32      的   DEG                     *)  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   33     猜测    NN                 (NP*))  -    -   -    _conjee_  *      *             *             *             *      *             *)   -
+wb/cmn/00/cmn_0030   0   34      是    VC                  (VP*   -   04   -    _conjee_  *      *             *             *             *    (V*)            *    -
+wb/cmn/00/cmn_0030   0   35     非常    AD             (VP(ADVP*)  -    -   -    _conjee_  *      *             *             *             *      *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0030   0   36     业余    VA               (VP*))))  -   01   -    _conjee_  *      *             *             *             *      *           (V*)   -
+wb/cmn/00/cmn_0030   0   37      的    SP                     *)  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+wb/cmn/00/cmn_0030   0   38      。    PU                    *))  -    -   -    _conjee_  *      *             *             *             *      *             *    -
+
+wb/cmn/00/cmn_0030   0    0      没    AD   (TOP(IP(CP(IP(IP(VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)     *        (ARG0*             *   -
+wb/cmn/00/cmn_0030   0    1     打开    VV                      (VP*)))  -   01   -    _conjee_  *           (V*)     *             *)            *   -
+wb/cmn/00/cmn_0030   0    2      才    AD                   (VP(ADVP*)  -    -   -    _conjee_  *             *      *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0030   0    3      是    VC                        (VP*   -   04   -    _conjee_  *             *    (V*)            *             *   -
+wb/cmn/00/cmn_0030   0    4      对    VA                     (VP*))))  -   02   -    _conjee_  *             *      *           (V*)            *   -
+wb/cmn/00/cmn_0030   0    5      的    SP                           *)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0    6      ，    PU                           *   -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0    7     如果    CS             (CP(IP(CP(ADVP*)  -    -   -    _conjee_  *             *      *             *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0030   0    8     打开    VV                     (IP(VP*   -   01   -    _conjee_  *             *      *             *           (V*)  -
+wb/cmn/00/cmn_0030   0    9      了    AS                         *)))  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   10      ，    PU                           *   -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   11      她    PN                 (NP(DNP(NP*)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   12      的   DEG                           *)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   13     助手    NN                       (NP*))  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   14     现在    NT                     (VP(NP*)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   15    说不定    AD                      (ADVP*)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   16      也    AD                      (ADVP*)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   17      还    AD                      (ADVP*)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   18      躺    AD                        (VP*   -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   19      在     P                        (PP*   -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   20     医院    NN                    (NP*)))))  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   21      呢    SP                           *)  -    -   -    _conjee_  *             *      *             *             *   -
+wb/cmn/00/cmn_0030   0   22      。    PU                          *))  -    -   -    _conjee_  *             *      *             *             *   -
+
+wb/cmn/00/cmn_0030   0    0    如果   CS   (TOP(IP(CP(ADVP*)  -    -   -    _conjee_  *    (ARGM-DIS*)     *             *      *   -
+wb/cmn/00/cmn_0030   0    1     在    P         (IP(VP(PP*   -    -   -    _conjee_  *    (ARGM-LOC*      *             *      *   -
+wb/cmn/00/cmn_0030   0    2    高速   JJ      (LCP(NP(ADJP*)  -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0    3    公路   NN              (NP*))  -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0    4     上   LC                 *))  -    -   -    _conjee_  *             *)     *             *      *   -
+wb/cmn/00/cmn_0030   0    5    发生   VV               (VP*   -   01   -    _conjee_  *           (V*)     *             *      *   -
+wb/cmn/00/cmn_0030   0    6    事故   NN           (NP*)))))  -    -   -    _conjee_  *        (ARG0*)     *             *      *   -
+wb/cmn/00/cmn_0030   0    7     ，   PU                  *   -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0    8    如果   CS          (CP(ADVP*)  -    -   -    _conjee_  *             *      *    (ARGM-DIS*)     *   -
+wb/cmn/00/cmn_0030   0    9     能   VV            (IP(VP*   -   01   -    _conjee_  *             *    (V*)            *      *   -
+wb/cmn/00/cmn_0030   0   10    走动   VV            (VP*))))  -   01   -    _conjee_  *             *      *           (V*)     *   -
+wb/cmn/00/cmn_0030   0   11     ，   PU                  *   -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0   12     请   VV               (VP*   -   03   -    _conjee_  *             *      *             *    (V*)  -
+wb/cmn/00/cmn_0030   0   13    立即   AD          (VP(ADVP*)  -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0   14    下车   VV           (VP(VCD*   -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0   15    离开   VV               *))))  -    -   -    _conjee_  *             *      *             *      *   -
+wb/cmn/00/cmn_0030   0   16     。   PU                 *))  -    -   -    _conjee_  *             *      *             *      *   -
+
+wb/cmn/00/cmn_0030   0    0      很多    CD              (TOP(IP(NP(QP*)  -    -   -    _conjee_  *        (ARG0*         *             *             *            *        (ARG0*   -
+wb/cmn/00/cmn_0030   0    1      高速    JJ                      (ADJP*)  -    -   -    _conjee_  *             *         *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0    2      事故    NN                       (NP*))  -    -   -    _conjee_  *             *)        *             *             *            *             *)  -
+wb/cmn/00/cmn_0030   0    3       就    AD                   (VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)        *             *             *            *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0030   0    4       是    VC                        (VP*   -   01   -    _conjee_  *           (V*)        *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0    5      因为     P                     (VP(PP*   -    -   -    _conjee_  *        (ARG1*         *             *             *            *    (ARGM-PRP*   -
+wb/cmn/00/cmn_0030   0    6       人    NN                     (IP(NP*)  -    -   -    _conjee_  *             *    (ARG0*)            *             *            *             *   -
+wb/cmn/00/cmn_0030   0    7       留    VV                     (VP(VP*   -   01   -    _conjee_  *             *       (V*)            *             *            *             *   -
+wb/cmn/00/cmn_0030   0    8       在     P                        (PP*   -    -   -    _conjee_  *             *    (ARG1*             *             *            *             *   -
+wb/cmn/00/cmn_0030   0    9       车    NN                    (LCP(NP*)  -    -   -    _conjee_  *             *         *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0   10       里    LC                         *)))  -    -   -    _conjee_  *             *         *)            *             *            *             *   -
+wb/cmn/00/cmn_0030   0   11     定定神    VV   (VP(NP(CP(CP(IP(VP(VP(VP*)  -   01   -    _conjee_  *             *         *           (V*)            *   (ARGM-TMP*             *   -
+wb/cmn/00/cmn_0030   0   12    回味回味    VV                     (VP*))))  -   01   -    _conjee_  *             *         *             *           (V*)           *             *   -
+wb/cmn/00/cmn_0030   0   13       的   DEC                          *))  -    -   -    _conjee_  *             *         *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0   14      时候    NN                       (NP*))  -    -   -    _conjee_  *             *         *    (ARGM-TMP*)   (ARGM-TMP*)           *)            *   -
+wb/cmn/00/cmn_0030   0   15       ，    PU                           *   -    -   -    _conjee_  *             *         *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0   16       被    LB                        (VP*   -    -   -    _conjee_  *             *         *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0   17      后面    NN              (IP(NP(DNP(NP*)  -    -   -    _conjee_  *             *         *             *             *       (ARG0*             *   -
+wb/cmn/00/cmn_0030   0   18       的   DEG                           *)  -    -   -    _conjee_  *             *         *             *             *            *             *   -
+wb/cmn/00/cmn_0030   0   19      车辆    NN                       (NP*))  -    -   -    _conjee_  *             *         *             *             *            *)            *   -
+wb/cmn/00/cmn_0030   0   20      追撞    VV                  (VP*)))))))  -   01   -    _conjee_  *             *         *             *             *          (V*)            *)  -
+wb/cmn/00/cmn_0030   0   21      导致    VV                        (VP*   -   01   -    _conjee_  *             *         *             *             *            *           (V*)  -
+wb/cmn/00/cmn_0030   0   22      死亡    NN                    (NP*)))))  -    -   -    _conjee_  *             *)        *             *             *            *        (ARG1*)  -
+wb/cmn/00/cmn_0030   0   23       。    PU                          *))  -    -   -    _conjee_  *             *         *             *             *            *             *   -
+
+wb/cmn/00/cmn_0030   0    0    对于    P  (TOP(IP(IP(PP*   -    -   -    _conjee_  *      *    (ARGM-TPC*             *             *      -
+wb/cmn/00/cmn_0030   0    1     死   NN           (NP*))  -    -   -    _conjee_  *      *             *)            *             *      -
+wb/cmn/00/cmn_0030   0    2     ，   PU               *   -    -   -    _conjee_  *      *             *             *             *      -
+wb/cmn/00/cmn_0030   0    3     我   PN            (NP*)  -    -   -    _conjee_  *      *        (ARG0*)            *             *     (0)
+wb/cmn/00/cmn_0030   0    4    一直   AD       (VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)            *             *      -
+wb/cmn/00/cmn_0030   0    5     是   VC            (VP*   -   04   -    _conjee_  *    (V*)            *             *             *      -
+wb/cmn/00/cmn_0030   0    6    这么   AD       (VP(ADVP*)  -    -   -    _conjee_  *      *    (ARGM-ADV*)            *             *      -
+wb/cmn/00/cmn_0030   0    7    觉得   VV        (VP*)))))  -   01   -    _conjee_  *      *           (V*)            *             *      -
+wb/cmn/00/cmn_0030   0    8     ，   PU               *   -    -   -    _conjee_  *      *             *             *             *      -
+wb/cmn/00/cmn_0030   0    9    他们   PN         (IP(NP*)  -    -   -    _conjee_  *      *             *        (ARG0*)            *     (2)
+wb/cmn/00/cmn_0030   0   10     并   AD       (VP(ADVP*)  -    -   -    _conjee_  *      *             *    (ARGM-ADV*)            *      -
+wb/cmn/00/cmn_0030   0   11    没有   AD          (ADVP*)  -    -   -    _conjee_  *      *             *    (ARGM-ADV*)            *      -
+wb/cmn/00/cmn_0030   0   12    离开   VV            (VP*   -   01   -    _conjee_  *      *             *           (V*)            *      -
+wb/cmn/00/cmn_0030   0   13    世界   NN         (NP*))))  -    -   -    _conjee_  *      *             *        (ARG1*)            *    (10)
+wb/cmn/00/cmn_0030   0   14     ，   PU               *   -    -   -    _conjee_  *      *             *             *             *      -
+wb/cmn/00/cmn_0030   0   15    他们   PN         (IP(NP*)  -    -   -    _conjee_  *      *             *             *        (ARG0*)    (2)
+wb/cmn/00/cmn_0030   0   16    只是   AD       (VP(ADVP*)  -    -   -    _conjee_  *      *             *             *    (ARGM-ADV*)     -
+wb/cmn/00/cmn_0030   0   17    离开   VV            (VP*   -   01   -    _conjee_  *      *             *             *           (V*)     -
+wb/cmn/00/cmn_0030   0   18     了   AS               *   -    -   -    _conjee_  *      *             *             *             *      -
+wb/cmn/00/cmn_0030   0   19    人间   NN         (NP*))))  -    -   -    _conjee_  *      *             *             *        (ARG1*)     -
+wb/cmn/00/cmn_0030   0   20     。   PU              *))  -    -   -    _conjee_  *      *             *             *             *      -
+
+wb/cmn/00/cmn_0030   0    0    他们    PN     (TOP(IP(NP*)  -    -   -    _conjee_  *        (ARG0*)       (ARG0*)   (2)
+wb/cmn/00/cmn_0030   0    1    一定    AD       (VP(ADVP*)  -    -   -    _conjee_  *    (ARGM-ADV*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0030   0    2     和     P      (VP(VP(PP*   -    -   -    _conjee_  *        (ARG0*             *     -
+wb/cmn/00/cmn_0030   0    3    我们    PN           (NP*))  -    -   -    _conjee_  *             *)            *     -
+wb/cmn/00/cmn_0030   0    4    分享    VV            (VP*   -   01   -    _conjee_  *           (V*)            *     -
+wb/cmn/00/cmn_0030   0    5     着    AS               *   -    -   -    _conjee_  *             *             *     -
+wb/cmn/00/cmn_0030   0    6     同    DT         (NP(DP*   -    -   -    _conjee_  *        (ARG1*             *   (10
+wb/cmn/00/cmn_0030   0    7     一    CD            (QP*   -    -   -    _conjee_  *             *             *     -
+wb/cmn/00/cmn_0030   0    8     个     M         (CLP*)))  -    -   -    _conjee_  *             *             *     -
+wb/cmn/00/cmn_0030   0    9    世界    NN         (NP*))))  -    -   -    _conjee_  *             *)            *    10)
+wb/cmn/00/cmn_0030   0   10     ，    PU               *   -    -   -    _conjee_  *             *             *     -
+wb/cmn/00/cmn_0030   0   11     用    VV            (VP*   -   01   -    _conjee_  *             *           (V*)    -
+wb/cmn/00/cmn_0030   0   12    不同    JJ   (NP(DNP(ADJP*)  -    -   -    _conjee_  *             *        (ARG1*     -
+wb/cmn/00/cmn_0030   0   13     的   DEG               *)  -    -   -    _conjee_  *             *             *     -
+wb/cmn/00/cmn_0030   0   14    生命    NN            (NP*   -    -   -    _conjee_  *             *             *     -
+wb/cmn/00/cmn_0030   0   15    模样    NN           *)))))  -    -   -    _conjee_  *             *             *)    -
+wb/cmn/00/cmn_0030   0   16     。    PU              *))  -    -   -    _conjee_  *             *             *     -
+
+wb/cmn/00/cmn_0030   0   0    －－   PU   (TOP(FRAG*))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0030   0   0         It   PN   (TOP(IP(NP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   1         is   VC          (VP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   2         in    P       (PP(PP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   3     change   NN         (NP*))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   4       that   CS          (CP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   5         we   PN       (IP(NP*)  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   6       find   VV       (VP(VP*   -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   7    purpose   NN    (NP*)))))))  -   -   -    _conjee_  *   -
+wb/cmn/00/cmn_0030   0   8          ．   PU            *))  -   -   -    _conjee_  *   -
+
+wb/cmn/00/cmn_0030   0    0                    ※    PU    (TOP(IP*   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    1                   来源    NN        (NP*)  -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    2                    ：    PU           *   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    3                  99     CD  (VP(NP(NP*   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    4                  BBS    NN           *   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    5                   未名    NR           *   -   -   -    _conjee_  (ORG*   -
+wb/cmn/00/cmn_0030   0    6                  空间站    NR           *)  -   -   -    _conjee_      *)  -
+wb/cmn/00/cmn_0030   0    7    http：／／mitbbs．com   URL       (PRN*   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    8                  99     CD    (VP(QP*))  -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0    9                    ［    PU           *   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0   10                 FROM     P        (PP*   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0   11                    ：    PU           *   -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0   12              156．56．   URL        *))))  -   -   -    _conjee_      *   -
+wb/cmn/00/cmn_0030   0   13                    ］    PU          *))  -   -   -    _conjee_      *   -
+
+#end document

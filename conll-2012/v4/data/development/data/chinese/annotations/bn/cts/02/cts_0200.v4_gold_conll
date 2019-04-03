@@ -1,0 +1,232 @@
+#begin document (bn/cts/02/cts_0200); part 000
+bn/cts/02/cts_0200   0    0     今天    NT   (TOP(IP(IP(NP*)  -    -   -   -      (DATE)   (ARG0*)            *             *         *         *            *    (4)
+bn/cts/02/cts_0200   0    1      是    VC             (VP*   -   01   1   -          *       (V*)            *             *         *         *            *     -
+bn/cts/02/cts_0200   0    2     世界    NN             (NP*   -    -   -   -     (DATE*    (ARG1*             *             *         *         *            *     -
+bn/cts/02/cts_0200   0    3    爱滋日    NN              *)))  -    -   -   -          *)        *)            *             *         *         *            *     -
+bn/cts/02/cts_0200   0    4      ，    PU                *   -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0    5     歌手    NN       (IP(NP(NP*)  -    -   -   -          *         *        (ARG0*        (ARG0*         *         *            *    (5
+bn/cts/02/cts_0200   0    6     李玟    NR            (NP*))  -    -   -   -    (PERSON)        *             *)            *)        *         *            *     5)
+bn/cts/02/cts_0200   0    7     特别    AD        (VP(ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)   (ARGM-ADV*)        *         *            *     -
+bn/cts/02/cts_0200   0    8      到    VV          (VP(VP*   -   01   1   -          *         *           (V*)            *         *         *            *     -
+bn/cts/02/cts_0200   0    9     香港    NR            (NP*))  -    -   -   -       (GPE)        *        (ARG1*)            *         *         *            *    (3)
+bn/cts/02/cts_0200   0   10     出席    VV             (VP*   -   01   -   -          *         *             *           (V*)        *         *            *     -
+bn/cts/02/cts_0200   0   11      了    AS                *   -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   12      一    CD          (NP(QP*   -    -   -   -          *         *             *        (ARG1*         *         *            *    (1
+bn/cts/02/cts_0200   0   13      项     M           (CLP*))  -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   14     关心    VV       (CP(IP(VP*   -   01   -   -          *         *             *             *       (V*)        *            *     -
+bn/cts/02/cts_0200   0   15     爱滋    NN           (NP*)))  -    -   -   -          *         *             *             *    (ARG1*)        *            *     -
+bn/cts/02/cts_0200   0   16      的   DEC                *)  -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   17    音乐会    NN        (NP*))))))  -    -   -   -          *         *             *             *)        *         *            *     1)
+bn/cts/02/cts_0200   0   18      ，    PU                *   -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   19      她    PN          (IP(NP*)  -    -   -   -          *         *             *             *         *    (ARG0*)           *    (5)
+bn/cts/02/cts_0200   0   20     呼吁    VV             (VP*   -   02   2   -          *         *             *             *         *       (V*)           *     -
+bn/cts/02/cts_0200   0   21     大家    PN          (IP(NP*)  -    -   -   -          *         *             *             *         *    (ARG1*       (ARG0*)    -
+bn/cts/02/cts_0200   0   22      以     P          (VP(PP*   -    -   -   -          *         *             *             *         *         *   (ARGM-MNR*     -
+bn/cts/02/cts_0200   0   23     正面    JJ    (NP(DNP(ADJP*)  -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   24      的   DEG                *)  -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   25     态度    NN           (NP*)))  -    -   -   -          *         *             *             *         *         *            *)    -
+bn/cts/02/cts_0200   0   26      来   MSP             (VP*   -    -   7   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   27     关心    VV             (VP*   -   01   -   -          *         *             *             *         *         *          (V*)    -
+bn/cts/02/cts_0200   0   28     爱滋    NN      (NP(DNP(NP*)  -    -   -   -          *         *             *             *         *         *       (ARG1*     -
+bn/cts/02/cts_0200   0   29      的   DEG                *)  -    -   -   -          *         *             *             *         *         *            *     -
+bn/cts/02/cts_0200   0   30     病患    NN      (NP*))))))))  -    -   -   -          *         *             *             *         *         *)           *)    -
+bn/cts/02/cts_0200   0   31      。    PU               *))  -    -   -   -          *         *             *             *         *         *            *     -
+
+bn/cts/02/cts_0200   0    0    ｃｏｃｏ李玟    NR      (TOP(IP(NP*)  -    -   -   -        *       (ARG0*)   (ARG0*)   (ARG0*)           *    (5)
+bn/cts/02/cts_0200   0    1         整    DT    (VP(VP(NP(DP*)  -    -   -   -   (TIME*   (ARGM-TMP*         *         *            *     -
+bn/cts/02/cts_0200   0    2         晚    NN            (NP*))  -    -   2   -        *)           *)        *         *            *     -
+bn/cts/02/cts_0200   0    3         以     P             (PP*   -    -   -   -        *   (ARGM-MNR*         *         *            *     -
+bn/cts/02/cts_0200   0    4         她    PN          (NP(NP*)  -    -   -   -        *            *         *         *            *    (5)
+bn/cts/02/cts_0200   0    5        一贯    JJ       (DNP(ADJP*)  -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0    6         的   DEG                *)  -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0    7      劲歌热舞    NN           (NP*)))  -    -   -   -        *            *)        *         *            *     -
+bn/cts/02/cts_0200   0    8         和     P             (PP*   -    -   -   -        *       (ARG0*         *         *            *     -
+bn/cts/02/cts_0200   0    9        歌迷    NN            (NP*))  -    -   -   -        *            *)        *         *            *    (6)
+bn/cts/02/cts_0200   0   10        见面    VV            (VP*))  -   01   -   -        *          (V*)        *         *            *     -
+bn/cts/02/cts_0200   0   11         ，    PU                *   -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   12        并且    CC                *   -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   13        唱出    VV             (VP*   -   01   -   -        *            *       (V*)        *            *     -
+bn/cts/02/cts_0200   0   14         多    CD          (NP(QP*   -    -   -   -        *            *    (ARG1*         *            *     -
+bn/cts/02/cts_0200   0   15         首     M           (CLP*))  -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   16         她    PN         (DNP(NP*)  -    -   -   -        *            *         *         *            *    (5)
+bn/cts/02/cts_0200   0   17         的   DEG                *)  -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   18        成名    JJ           (ADJP*)  -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   19        歌曲    NN           (NP*)))  -    -   -   -        *            *         *)        *            *     -
+bn/cts/02/cts_0200   0   20         ，    PU                *   -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   21         让    VV             (VP*   -   02   2   -        *            *         *       (V*)           *     -
+bn/cts/02/cts_0200   0   22        现场    NN   (NP(NP(DNP(NP*)  -    -   -   -        *            *         *    (ARG1*            *    (6
+bn/cts/02/cts_0200   0   23         的   DEG                *)  -    -   -   -        *            *         *         *            *     -
+bn/cts/02/cts_0200   0   24        歌迷    NN            (NP*))  -    -   -   -        *            *         *         *            *     6)
+bn/cts/02/cts_0200   0   25        情绪    NN            (NP*))  -    -   -   -        *            *         *         *)           *     -
+bn/cts/02/cts_0200   0   26         为     P       (IP(VP(PP*   -    -   5   -        *            *         *    (ARG2*   (ARGM-PRP*     -
+bn/cts/02/cts_0200   0   27         之    PN            (NP*))  -    -   -   -        *            *         *         *            *)    -
+bn/cts/02/cts_0200   0   28        沸腾    VV         (VP*)))))  -   01   -   -        *            *         *         *)         (V*)    -
+bn/cts/02/cts_0200   0   29         。    PU               *))  -    -   -   -        *            *         *         *            *     -
+
+bn/cts/02/cts_0200   0    0      为了     P                (TOP(IP(PP*   -    -   -   -   *        *    (ARGM-PRP*      *    (ARGM-PRP*             *             *     -
+bn/cts/02/cts_0200   0    1      回报    VV                    (IP(VP*   -   01   -   -   *      (V*)            *      *             *             *             *     -
+bn/cts/02/cts_0200   0    2      歌迷    NN                (NP(DNP(NP*)  -    -   -   -   *   (ARG1*             *      *             *             *             *    (6)
+bn/cts/02/cts_0200   0    3       的   DEG                          *)  -    -   -   -   *        *             *      *             *             *             *     -
+bn/cts/02/cts_0200   0    4      热情    NN                   (NP*)))))  -    -   -   -   *        *)            *)     *             *)            *             *     -
+bn/cts/02/cts_0200   0    5       ，    PU                          *   -    -   -   -   *        *             *      *             *             *             *     -
+bn/cts/02/cts_0200   0    6    ｃｏｃｏ    NR                       (NP*)  -    -   -   -   *        *        (ARG0*)     *        (ARG0*)            *             *    (5)
+bn/cts/02/cts_0200   0    7       还    AD                  (VP(ADVP*)  -    -   -   -   *        *    (ARGM-ADV*)     *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0200   0    8      特地    AD                     (ADVP*)  -    -   -   -   *        *    (ARGM-ADV*)     *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0200   0    9       走    VV                (VP(VP(VRD*   -   01   1   -   *        *           (V*)     *             *             *             *     -
+bn/cts/02/cts_0200   0   10       下    VV                          *)  -   01   9   -   *        *             *    (V*)            *             *             *     -
+bn/cts/02/cts_0200   0   11      舞台    NN                      (NP*))  -    -   -   -   *        *        (ARG1*)     *             *             *             *     -
+bn/cts/02/cts_0200   0   12       和     P                    (VP(PP*   -    -   -   -   *        *             *      *        (ARG0*             *             *     -
+bn/cts/02/cts_0200   0   13      歌迷    NN                      (NP*))  -    -   -   -   *        *             *      *             *)            *             *    (6)
+bn/cts/02/cts_0200   0   14     近距离    AD                     (ADVP*)  -    -   -   -   *        *             *      *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0200   0   15      接触    VV                    (VP*))))  -   01   -   -   *        *             *      *           (V*)            *             *     -
+bn/cts/02/cts_0200   0   16       ，    PU                          *   -    -   -   -   *        *             *      *             *             *             *     -
+bn/cts/02/cts_0200   0   17      这样    AD   (IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -   *        *    (ARGM-ADV*      *             *    (ARGM-ADV*)       (ARG0*     -
+bn/cts/02/cts_0200   0   18      亲切    VA                     (VP*)))  -   01   -   -   *        *             *      *             *           (V*)            *     -
+bn/cts/02/cts_0200   0   19       的   DEC                         *))  -    -   -   -   *        *             *      *             *             *             *     -
+bn/cts/02/cts_0200   0   20      举动    NN                      (NP*))  -    -   -   -   *        *             *      *             *        (ARG0*)            *)    -
+bn/cts/02/cts_0200   0   21       ，    PU                          *   -    -   -   -   *        *             *      *             *             *             *     -
+bn/cts/02/cts_0200   0   22      当然    AD                  (VP(ADVP*)  -    -   -   -   *        *             *      *             *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0200   0   23       又    AD                     (ADVP*)  -    -   -   -   *        *             *      *             *             *    (ARGM-DIS*)    -
+bn/cts/02/cts_0200   0   24      引起    VV                       (VP*   -   01   -   -   *        *             *      *             *             *           (V*)    -
+bn/cts/02/cts_0200   0   25      歌迷    NN                (NP(DNP(NP*)  -    -   -   -   *        *             *      *             *             *        (ARG1*    (6)
+bn/cts/02/cts_0200   0   26       的   DEG                          *)  -    -   -   -   *        *             *      *             *             *             *     -
+bn/cts/02/cts_0200   0   27      骚动    NN                   (NP*)))))  -    -   -   -   *        *             *)     *             *             *             *)    -
+bn/cts/02/cts_0200   0   28       。    PU                         *))  -    -   -   -   *        *             *      *             *             *             *     -
+
+bn/cts/02/cts_0200   0   0     演唱会   NN   (TOP(IP(LCP(IP(NP*)  -    -   -   -          *    (ARG1*)  (ARGM-TMP*             *    (1)
+bn/cts/02/cts_0200   0   1      结束   VV                (VP*))  -   01   -   -          *       (V*)           *             *     -
+bn/cts/02/cts_0200   0   2       后   LC                    *)  -    -   -   -          *         *            *)            *     -
+bn/cts/02/cts_0200   0   3    ｃｏｃｏ   NR                 (NP*)  -    -   -   -    (PERSON)        *       (ARG0*)            *    (5)
+bn/cts/02/cts_0200   0   4      表示   VV                 (VP*   -   01   1   -          *         *          (V*)            *     -
+bn/cts/02/cts_0200   0   5      非常   AD         (IP(VP(ADVP*)  -    -   -   -          *         *       (ARG1*    (ARGM-ADV*)    -
+bn/cts/02/cts_0200   0   6      感动   VA              (VP*))))  -   01   -   -          *         *            *)          (V*)    -
+bn/cts/02/cts_0200   0   7       。   PU                   *))  -    -   -   -          *         *            *             *     -
+
+bn/cts/02/cts_0200   0    0       “    PU                (TOP(IP*   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    1      第一    OD           (IP(VP(VP(QP*   -    -   -   -    (ORDINAL)  (ARGM-ADV*      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    2       次     M                  (CLP*))  -    -   -   -           *            *)     *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    3       在     P                    (PP*   -    -   2   -           *   (ARGM-LOC*      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    4      香港    NR                   (NP*))  -    -   -   -        (GPE)           *)     *        *            *      *         *         *         *         *             *             *    (3)
+bn/cts/02/cts_0200   0    5       开    VV                (VP(VRD*   -   01   3   -           *          (V*)     *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    6       完    VV                       *)  -   01   2   -           *            *    (V*)       *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    7      这个    DT                 (NP(DP*)  -    -   -   -           *       (ARG1*      *        *            *      *         *         *         *         *             *             *    (1
+bn/cts/02/cts_0200   0    8      小型    JJ              (DNP(ADJP*)  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0    9       的   DEG                       *)  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   10     音乐会    NN                 (NP*))))  -    -   -   -           *            *)     *        *            *      *         *         *         *         *             *             *     1)
+bn/cts/02/cts_0200   0   11      觉得    VV                    (VP*   -   01   -   -           *            *      *      (V*)           *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   12      非常    AD   (IP(VP(DVP(ADVP(ADVP*)  -    -   -   -           *            *      *   (ARG1*   (ARGM-ADV*      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   13      非常    AD                 (ADVP*))  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   14       的   DEV                       *)  -    -   -   -           *            *      *        *            *)     *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   15      开心    VA               (VP*))))))  -   01   -   -           *            *      *        *)         (V*)     *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   16       ，    PU                       *   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   17      整个    DT              (IP(NP(DP*)  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *    (5
+bn/cts/02/cts_0200   0   18       人    NN                   (NP*))  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     5)
+bn/cts/02/cts_0200   0   19       是    VC                    (VP*   -   01   2   -           *            *      *        *            *    (V*)        *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   20      好象    VV                    (VP*   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   21       在     P        (NP(CP(IP(VP(PP*   -    -   2   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   22      天上    NN                   (NP*))  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   23    飘来飘去    VV                  (VP*)))  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   24       的   DEC                       *)  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   25      感觉    NN                (NP*)))))  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   26       ，    PU                       *   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   27       我    PN                 (IP(NP*)  -    -   -   -           *            *      *        *            *      *    (ARG0*)        *         *         *             *             *    (5)
+bn/cts/02/cts_0200   0   28       是    VC                    (VP*   -   01   2   -           *            *      *        *            *      *       (V*)        *         *         *             *             *     -
+bn/cts/02/cts_0200   0   29      嘴巴    NN                 (IP(NP*)  -    -   -   -           *            *      *        *            *      *    (ARG1*    (ARG0*)   (ARG1*)   (ARG0*)            *             *     -
+bn/cts/02/cts_0200   0   30      没有    VE                 (VP(VP*   -   02   1   -           *            *      *        *            *      *         *       (V*)        *         *             *             *     -
+bn/cts/02/cts_0200   0   31      办法    NN                   (NP*))  -    -   -   -           *            *      *        *            *      *         *    (ARG1*)        *         *             *             *     -
+bn/cts/02/cts_0200   0   32       闭    VV                (VP(VSB*   -   01   -   -           *            *      *        *            *      *         *         *       (V*)        *             *             *     -
+bn/cts/02/cts_0200   0   33      起来    VV                  *))))))  -   01   -   -           *            *      *        *            *      *         *)        *         *       (V*)            *             *     -
+bn/cts/02/cts_0200   0   34       ，    PU                       *   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   35      可是    AD            (CP(IP(ADVP*)  -    -   -   -           *            *      *        *            *      *         *         *         *         *    (ARGM-DIS*)            *     -
+bn/cts/02/cts_0200   0   36       太    AD               (VP(ADVP*)  -    -   -   -           *            *      *        *            *      *         *         *         *         *    (ARGM-ADV*)            *     -
+bn/cts/02/cts_0200   0   37      开心    VV                  (VP*)))  -   01   -   -           *            *      *        *            *      *         *         *         *         *           (V*)            *     -
+bn/cts/02/cts_0200   0   38       了    SP                       *)  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   39       ，    PU                       *   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   40       好    AD         (CP(IP(VP(ADVP*)  -    -   7   -           *            *      *        *            *      *         *         *         *         *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0200   0   41      开心    VA                  (VP*)))  -   01   -   -           *            *      *        *            *      *         *         *         *         *             *           (V*)    -
+bn/cts/02/cts_0200   0   42       啊    SP                       *)  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   43       。    PU                       *   -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+bn/cts/02/cts_0200   0   44       ”    PU                      *))  -    -   -   -           *            *      *        *            *      *         *         *         *         *             *             *     -
+
+bn/cts/02/cts_0200   0    0     李玟   NR        (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)            *             *             *             *            *    (5)
+bn/cts/02/cts_0200   0    1      说   VV               (VP*   -   01   7   -          *       (V*)            *             *             *             *            *     -
+bn/cts/02/cts_0200   0    2      她   PN            (IP(NP*)  -    -   -   -          *    (ARG1*        (ARG0*)       (ARG0*)       (ARG0*)            *            *    (5)
+bn/cts/02/cts_0200   0    3     目前   NT         (VP(VP(NP*)  -    -   -   -          *         *    (ARGM-TMP*)   (ARGM-TMP*)            *             *            *     -
+bn/cts/02/cts_0200   0    4     正在   AD             (ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)   (ARGM-ADV*)            *             *            *     -
+bn/cts/02/cts_0200   0    5      忙   VV            (VP(VP*   -   01   -   -          *         *           (V*)            *             *             *            *     -
+bn/cts/02/cts_0200   0    6      着   AS                  *)  -    -   -   -          *         *             *             *             *             *            *     -
+bn/cts/02/cts_0200   0    7     灌录   VV               (VP*   -   01   -   -          *         *        (ARG1*           (V*)            *             *            *     -
+bn/cts/02/cts_0200   0    8     广东   NR            (NP(NP*)  -    -   -   -      (NORP)        *             *        (ARG1*             *             *            *     -
+bn/cts/02/cts_0200   0    9     专辑   NN           (NP*)))))  -    -   -   -          *         *             *)            *)            *             *            *     -
+bn/cts/02/cts_0200   0   10      ，   PU                  *   -    -   -   -          *         *             *             *             *             *            *     -
+bn/cts/02/cts_0200   0   11     本来   AD          (VP(ADVP*)  -    -   -   -          *         *             *             *    (ARGM-ADV*)            *            *     -
+bn/cts/02/cts_0200   0   12      还   AD             (ADVP*)  -    -   -   -          *         *             *             *    (ARGM-ADV*)            *            *     -
+bn/cts/02/cts_0200   0   13      在   AD             (ADVP*)  -    -   5   -          *         *             *             *    (ARGM-ADV*)            *            *     -
+bn/cts/02/cts_0200   0   14     犹豫   VV               (VP*   -   01   -   -          *         *             *             *           (V*)            *            *     -
+bn/cts/02/cts_0200   0   15     明年   NT         (IP(VP(NP*)  -    -   -   -      (DATE)        *             *             *        (ARG1*    (ARGM-TMP*)           *    (7)
+bn/cts/02/cts_0200   0   16     是否   VV               (VP*   -    -   -   -          *         *             *             *             *             *            *     -
+bn/cts/02/cts_0200   0   17      要   VV               (VP*   -   03   3   -          *         *             *             *             *           (V*)           *     -
+bn/cts/02/cts_0200   0   18      在    P         (IP(VP(PP*   -    -   2   -          *         *             *             *             *        (ARG0*   (ARGM-LOC*     -
+bn/cts/02/cts_0200   0   19     香港   NR              (NP*))  -    -   -   -       (GPE)        *             *             *             *             *            *)   (3)
+bn/cts/02/cts_0200   0   20      办   VV               (VP*   -   01   -   -          *         *             *             *             *             *          (V*)    -
+bn/cts/02/cts_0200   0   21    演唱会   NN   (NP*)))))))))))))  -    -   -   -          *         *)            *             *             *)            *)      (ARG1*)   (2)
+bn/cts/02/cts_0200   0   22      。   PU                 *))  -    -   -   -          *         *             *             *             *             *            *     -
+
+bn/cts/02/cts_0200   0    0     看到    VV  (TOP(IP(IP(VP*   -   01   -   -        *      (V*)  (ARGM-ADV*      *             *        -
+bn/cts/02/cts_0200   0    1     歌迷    NN     (NP(DNP(NP*)  -    -   -   -        *   (ARG1*            *      *             *       (6)
+bn/cts/02/cts_0200   0    2      的   DEG               *)  -    -   -   -        *        *            *      *             *        -
+bn/cts/02/cts_0200   0    3     反映    NN         (NP*))))  -    -   3   -        *        *)           *)     *             *        -
+bn/cts/02/cts_0200   0    4      ，    PU               *   -    -   -   -        *        *            *      *             *        -
+bn/cts/02/cts_0200   0    5     唱片    NN            (NP*   -    -   -   -        *        *       (ARG0*      *             *       (0
+bn/cts/02/cts_0200   0    6     公司    NN               *)  -    -   -   -        *        *            *)     *             *        0)
+bn/cts/02/cts_0200   0    7     表示    VV            (VP*   -   01   2   -        *        *          (V*)     *             *        -
+bn/cts/02/cts_0200   0    8      ，    PU               *   -    -   -   -        *        *            *      *             *        -
+bn/cts/02/cts_0200   0    9     明年    NT         (IP(NP*)  -    -   -   -    (DATE)       *       (ARG1*      *    (ARGM-TMP*)      (7)
+bn/cts/02/cts_0200   0   10     香港    NR         (NP(NP*)  -    -   -   -     (GPE)       *            *      *        (ARG1*    (2|(3)
+bn/cts/02/cts_0200   0   11    演唱会    NN           (NP*))  -    -   -   -        *        *            *      *             *)       2)
+bn/cts/02/cts_0200   0   12     一定    AD       (VP(ADVP*)  -    -   -   -        *        *            *      *    (ARGM-ADV*)       -
+bn/cts/02/cts_0200   0   13      会    VV            (VP*   -   01   -   -        *        *            *    (V*)            *        -
+bn/cts/02/cts_0200   0   14      开    VV        (VP*)))))  -   01   3   -        *        *            *)     *           (V*)       -
+bn/cts/02/cts_0200   0   15      。    PU              *))  -    -   -   -        *        *            *      *             *        -
+
+bn/cts/02/cts_0200   0    0      “   PU     (TOP(IP*   -    -   -   -        *             *        *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0    1      那   AD    (IP(ADVP*)  -    -   -   -        *    (ARGM-DIS*)       *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0    2     现在   NT         (NP*)  -    -   -   -        *    (ARGM-TMP*)       *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0    3      呢   SP        (FLR*)  -    -   -   -        *             *        *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0    4     他们   PN         (NP*)  -    -   -   -        *        (ARG0*)       *        *         *         *             *             *    (0)
+bn/cts/02/cts_0200   0    5      都   AD    (VP(ADVP*)  -    -   -   -        *    (ARGM-ADV*)       *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0    6     告诉   VV         (VP*   -   01   -   -        *           (V*)       *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0    7      我   PN         (NP*)  -    -   -   -        *        (ARG2*)       *        *         *         *             *             *    (5)
+bn/cts/02/cts_0200   0    8     确定   VV   (CP(IP(VP*   -   01   -   -        *        (ARG1*      (V*)       *         *         *             *             *     -
+bn/cts/02/cts_0200   0    9      要   VV      (IP(VP*   -   05   4   -        *             *   (ARG1*      (V*)        *         *             *             *     -
+bn/cts/02/cts_0200   0   10      来   VV      (VP(VP*   -   01   1   -        *             *        *   (ARG1*       (V*)        *             *             *     -
+bn/cts/02/cts_0200   0   11     香港   NR        (NP*))  -    -   -   -     (GPE)            *        *        *    (ARG1*)        *             *             *    (3)
+bn/cts/02/cts_0200   0   12      开   VV         (VP*   -   01   3   -        *             *        *        *         *       (V*)            *             *     -
+bn/cts/02/cts_0200   0   13    演唱会   NN   (NP*)))))))  -    -   -   -        *             *        *)       *)        *    (ARG1*)            *             *    (2)
+bn/cts/02/cts_0200   0   14      了   SP         *))))  -    -   -   -        *             *)       *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0   15      ，   PU            *   -    -   -   -        *             *        *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0   16     因为    P      (IP(PP*   -    -   -   -        *             *        *        *         *         *             *    (ARGM-PRP*     -
+bn/cts/02/cts_0200   0   17     今天   NT      (IP(NP*)  -    -   -   -    (DATE)            *        *        *         *         *    (ARGM-TMP*)            *    (4)
+bn/cts/02/cts_0200   0   18     成绩   NN         (NP*)  -    -   -   -        *             *        *        *         *         *        (ARG0*)            *     -
+bn/cts/02/cts_0200   0   19     非常   AD    (VP(ADVP*)  -    -   -   -        *             *        *        *         *         *    (ARGM-ADV*)            *     -
+bn/cts/02/cts_0200   0   20      好   VA      (VP*))))  -   01   1   -        *             *        *        *         *         *           (V*)            *)    -
+bn/cts/02/cts_0200   0   21      ，   PU            *   -    -   -   -        *             *        *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0   22     所以   AD       (ADVP*)  -    -   -   -        *             *        *        *         *         *             *    (ARGM-DIS*)    -
+bn/cts/02/cts_0200   0   23      我   PN         (NP*)  -    -   -   -        *             *        *        *         *         *             *        (ARG0*)   (5)
+bn/cts/02/cts_0200   0   24      很   AD    (VP(ADVP*)  -    -   -   -        *             *        *        *         *         *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0200   0   25     开心   VA       (VP*)))  -   01   -   -        *             *        *        *         *         *             *           (V*)    -
+bn/cts/02/cts_0200   0   26      。   PU            *   -    -   -   -        *             *        *        *         *         *             *             *     -
+bn/cts/02/cts_0200   0   27      ”   PU           *))  -    -   -   -        *             *        *        *         *         *             *             *     -
+
+bn/cts/02/cts_0200   0   0      看来    AD   (TOP(CP(IP(ADVP*)  -    -   -   -          *         *      *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0200   0   1      喜欢    VV   (NP(CP(CP(IP(VP*   -   01   -   -          *       (V*)     *        (ARG0*        (ARG0*     -
+bn/cts/02/cts_0200   0   2    ｃｏｃｏ    NR             (NP*)))  -    -   -   -    (PERSON)   (ARG1*)     *             *             *    (5)
+bn/cts/02/cts_0200   0   3       的   DEC                 *))  -    -   -   -          *         *      *             *             *     -
+bn/cts/02/cts_0200   0   4      歌迷    NN              (NP*))  -    -   -   -          *    (ARG0*)     *             *)            *)    -
+bn/cts/02/cts_0200   0   5      可以    VV               (VP*   -   01   1   -          *         *    (V*)            *             *     -
+bn/cts/02/cts_0200   0   6      开始    VV               (VP*   -   01   -   -          *         *      *           (V*)            *     -
+bn/cts/02/cts_0200   0   7      期待    VV            (VP*))))  -   01   -   -          *         *      *        (ARG1*)          (V*)    -
+bn/cts/02/cts_0200   0   8       了    SP                  *   -    -   -   -          *         *      *             *             *     -
+bn/cts/02/cts_0200   0   9       。    PU                 *))  -    -   -   -          *         *      *             *             *     -
+
+#end document

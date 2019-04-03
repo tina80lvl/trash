@@ -1,0 +1,719 @@
+#begin document (bn/cbs/01/cbs_0105); part 000
+bn/cbs/01/cbs_0105   0   0     《   PU  (TOP(IP(NP*   -   -   -   -   *   (20
+bn/cbs/01/cbs_0105   0   1    专题   JJ       (ADJP*)  -   -   -   -   *     -
+bn/cbs/01/cbs_0105   0   2    报导   NN         (NP*)  -   -   -   -   *    (1)
+bn/cbs/01/cbs_0105   0   3     》   PU            *)  -   -   -   -   *    20)
+bn/cbs/01/cbs_0105   0   4     。   PU           *))  -   -   -   -   *     -
+
+bn/cbs/01/cbs_0105   0    0    各位   DT   (TOP(IP(IP(NP(DP*)  -    -   -   -   *      (ARG0*        *        *     -
+bn/cbs/01/cbs_0105   0    1    听众   NN               (NP*))  -    -   -   -   *           *)       *        *     -
+bn/cbs/01/cbs_0105   0    2    大家   PN                (NP*)  -    -   -   -   *    (C-ARG0*)       *        *     -
+bn/cbs/01/cbs_0105   0    3     好   VA               (VP*))  -   01   5   -   *         (V*)       *        *     -
+bn/cbs/01/cbs_0105   0    4     ，   PU                   *   -    -   -   -   *           *        *        *     -
+bn/cbs/01/cbs_0105   0    5    欢迎   VV             (IP(VP*   -   01   -   -   *           *      (V*)       *     -
+bn/cbs/01/cbs_0105   0    6    收听   VV             (IP(VP*   -   01   -   -   *           *   (ARG2*      (V*)    -
+bn/cbs/01/cbs_0105   0    7     《   PU                (NP*   -    -   -   -   *           *        *   (ARG1*   (20
+bn/cbs/01/cbs_0105   0    8    专题   JJ              (ADJP*)  -    -   -   -   *           *        *        *     -
+bn/cbs/01/cbs_0105   0    9    报导   NN                (NP*)  -    -   -   -   *           *        *        *    (1)
+bn/cbs/01/cbs_0105   0   10     》   PU               *)))))  -    -   -   -   *           *        *)       *)   20)
+bn/cbs/01/cbs_0105   0   11     。   PU                  *))  -    -   -   -   *           *        *        *     -
+
+bn/cbs/01/cbs_0105   0    0      由     P  (TOP(IP(NP(NP(CP(CP(IP(VP(PP*   -    -   -   -        *   (ARG0*        (ARG0*   (9|(16
+bn/cbs/01/cbs_0105   0    1     台北    NR                        (NP(NP*   -    -   -   -    (ORG*        *             *        -
+bn/cbs/01/cbs_0105   0    2     律师    NN                              *   -    -   -   -        *        *             *        -
+bn/cbs/01/cbs_0105   0    3     工会    NN                              *)  -    -   -   -        *)       *             *        -
+bn/cbs/01/cbs_0105   0    4      跟    CC                              *   -    -   4   -        *        *             *        -
+bn/cbs/01/cbs_0105   0    5     民间    NN                           (NP*   -    -   -   -    (ORG*        *             *        -
+bn/cbs/01/cbs_0105   0    6     司法    NN                              *   -    -   -   -        *        *             *        -
+bn/cbs/01/cbs_0105   0    7     改革    NN                              *   -    -   -   -        *        *             *        -
+bn/cbs/01/cbs_0105   0    8    基金会    NN                            *)))  -    -   -   -        *)       *)            *        -
+bn/cbs/01/cbs_0105   0    9      所   MSP                           (VP*   -    -   -   -        *        *             *        -
+bn/cbs/01/cbs_0105   0   10     举办    VV                        (VP*))))  -   01   -   -        *      (V*)            *        -
+bn/cbs/01/cbs_0105   0   11      的   DEC                             *))  -    -   -   -        *        *             *        -
+bn/cbs/01/cbs_0105   0   12    ８９年    NT                           (NP*)  -    -   -   -    (DATE)       *             *        -
+bn/cbs/01/cbs_0105   0   13     法官    NN                           (NP*   -    -   -   -        *   (ARG1*             *        -
+bn/cbs/01/cbs_0105   0   14     评建    NN                             *))  -    -   -   -        *        *)            *       16)
+bn/cbs/01/cbs_0105   0   15     结果    NN                          (NP*))  -    -   -   -        *        *             *)   (3)|9)
+bn/cbs/01/cbs_0105   0   16     日前    NT                        (VP(NP*)  -    -   -   -        *        *    (ARGM-TMP*)       -
+bn/cbs/01/cbs_0105   0   17     出炉    VV                          (VP*))  -   01   -   -        *        *           (V*)       -
+bn/cbs/01/cbs_0105   0   18      。    PU                             *))  -    -   -   -        *        *             *        -
+
+bn/cbs/01/cbs_0105   0    0      结果    NN               (TOP(IP(IP(NP*)  -    -   -   -   *    (ARG0*)            *        *         *             *             *             *    (3)
+bn/cbs/01/cbs_0105   0    1      显示    VV                         (VP*   -   01   1   -   *       (V*)            *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    2      法官    NN         (IP(IP(NP(NP(DNP(NP*)  -    -   -   -   *    (ARG1*        (ARG0*        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    3       的   DEG                            *)  -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    4      评价    NN                        (NP*))  -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    5      落差    NN                        (NP*))  -    -   -   -   *         *             *)       *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    6       极    AD                    (VP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)       *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    7       大    VA                       (VP*)))  -   01   -   -   *         *           (V*)       *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    8       ，    PU                            *   -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0    9      而且    CC                            *   -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   10      出现    VV                      (IP(VP*   -   01   -   -   *         *             *      (V*)        *             *             *             *     -
+bn/cbs/01/cbs_0105   0   11       了    AS                            *   -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   12    有案在身    VV   (NP(CP(IP(NP(CP(CP(IP(VP*))  -    -   -   -   *         *             *   (ARG1*    (ARG0*             *             *             *     -
+bn/cbs/01/cbs_0105   0   13       的   DEC                           *))  -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   14      法官    NN                        (NP*))  -    -   -   -   *         *             *        *         *)            *             *             *     -
+bn/cbs/01/cbs_0105   0   15      继续    VV                         (VP*   -   01   -   -   *         *             *        *       (V*)            *             *             *     -
+bn/cbs/01/cbs_0105   0   16      审案    VV                       (VP*)))  -    -   -   -   *         *             *        *    (ARG1*)            *             *             *     -
+bn/cbs/01/cbs_0105   0   17       的   DEC                            *)  -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   18      现象    NN                   (NP*)))))))  -    -   -   -   *         *)            *        *)        *             *             *             *     -
+bn/cbs/01/cbs_0105   0   19       ，    PU                            *   -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   20      因此    AD                    (IP(ADVP*)  -    -   -   -   *         *             *        *         *    (ARGM-ADV*)            *             *     -
+bn/cbs/01/cbs_0105   0   21      司改    NN                         (NP*   -    -   -   -   *         *             *        *         *        (ARG0*             *             *    (7
+bn/cbs/01/cbs_0105   0   22      团体    NN                            *)  -    -   -   -   *         *             *        *         *             *)            *             *     7)
+bn/cbs/01/cbs_0105   0   23      呼吁    VV                         (VP*   -   02   2   -   *         *             *        *         *           (V*)            *             *     -
+bn/cbs/01/cbs_0105   0   24      紧速    AD                 (IP(VP(ADVP*)  -    -   -   -   *         *             *        *         *        (ARG1*    (ARGM-ADV*)            *     -
+bn/cbs/01/cbs_0105   0   25      建立    VV                         (VP*   -   01   -   -   *         *             *        *         *             *           (V*)            *     -
+bn/cbs/01/cbs_0105   0   26      淘汰    VV          (NP(CP(CP(IP(VP(VP*   -   01   -   -   *         *             *        *         *             *        (ARG1*           (V*)   (8
+bn/cbs/01/cbs_0105   0   27       不    AD           (NP(CP(IP(VP(ADVP*)  -    -   -   -   *         *             *        *         *             *             *        (ARG1*     -
+bn/cbs/01/cbs_0105   0   28      适任    VA                      (VP*))))  -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   29      法官    NN                     (NP*)))))  -    -   -   -   *         *             *        *         *             *             *             *)    -
+bn/cbs/01/cbs_0105   0   30       的   DEC                           *))  -    -   -   -   *         *             *        *         *             *             *             *     -
+bn/cbs/01/cbs_0105   0   31      机制    NN                   (NP*)))))))  -    -   -   -   *         *             *        *         *             *)            *)   (ARGM-MNR*)    8)
+bn/cbs/01/cbs_0105   0   32       。    PU                           *))  -    -   -   -   *         *             *        *         *             *             *             *     -
+
+bn/cbs/01/cbs_0105   0   0     记者    NN   (TOP(IP(NP(DNP(NP(NP*)  -   -   -   -          *   -
+bn/cbs/01/cbs_0105   0   1    洪志千    NR                   (NP*))  -   -   -   -    (PERSON)  -
+bn/cbs/01/cbs_0105   0   2      的   DEG                       *)  -   -   -   -          *   -
+bn/cbs/01/cbs_0105   0   3     报导    NN                   (NP*))  -   -   -   -          *   -
+bn/cbs/01/cbs_0105   0   4      。    PU                      *))  -   -   -   -          *   -
+
+bn/cbs/01/cbs_0105   0    0        这    DT  (TOP(IP(IP(NP(CP(CP(IP(NP(DP*   -    -   -   -            *    (ARG0*   (ARG0*         *        *            *          -
+bn/cbs/01/cbs_0105   0    1        份     M                         (CLP*))  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0    2       法官    NN                           (NP*   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0    3       评卷    NN                             *))  -    -   -   -            *         *)       *         *        *            *          -
+bn/cbs/01/cbs_0105   0    4       调查    VV                          (VP*))  -   01   -   -            *       (V*)       *         *        *            *          -
+bn/cbs/01/cbs_0105   0    5        的   DEC                             *))  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0    6       范围    NN                          (NP*))  -    -   -   -            *    (ARG1*)       *)        *        *            *          -
+bn/cbs/01/cbs_0105   0    7       包括    VV                           (VP*   -   01   -   -            *         *      (V*)        *        *            *          -
+bn/cbs/01/cbs_0105   0    8        了    AS                              *   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0    9       台湾    NR                     (NP(NP(NP*)  -    -   -   -         (GPE)        *   (ARG1*         *        *            *    (21|(18)
+bn/cbs/01/cbs_0105   0   10       高等    JJ                         (ADJP*)  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   11       法院    NN                          (NP*))  -    -   -   -            *         *        *         *        *            *         21)
+bn/cbs/01/cbs_0105   0   12        、    PU                              *   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   13       台北    NR                        (NP(NP*)  -    -   -   -         (GPE)        *        *         *        *            *      (4|(2)
+bn/cbs/01/cbs_0105   0   14       地方    JJ                         (ADJP*)  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   15       法院    NN                          (NP*))  -    -   -   -            *         *        *         *        *            *          4)
+bn/cbs/01/cbs_0105   0   16        、    PU                              *   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   17       市林    NR                        (NP(NP*)  -    -   -   -         (GPE)        *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   18       地方    JJ                         (ADJP*)  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   19       法院    NN                          (NP*))  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   20        和    CC                              *   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   21       板桥    NR                        (NP(NP*)  -    -   -   -         (GPE)        *        *         *        *            *        (11)
+bn/cbs/01/cbs_0105   0   22       地方    JJ                         (ADJP*)  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   23       法院    NN                       (NP*)))))  -    -   -   -            *         *        *)        *        *            *          -
+bn/cbs/01/cbs_0105   0   24        ，    PU                              *   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   25       参与    VV            (IP(NP(CP(CP(IP(VP*   -   01   -   -            *         *        *       (V*)  (ARG0*            *          -
+bn/cbs/01/cbs_0105   0   26       评证    NN                         (NP*)))  -    -   -   -            *         *        *    (ARG1*)       *            *        (16)
+bn/cbs/01/cbs_0105   0   27        的   DEC                             *))  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   28       律师    NN                          (NP*))  -    -   -   -            *         *        *    (ARG0*)       *)           *          -
+bn/cbs/01/cbs_0105   0   29       总计    VV                           (VP*   -   01   -   -            *         *        *         *      (V*)           *          -
+bn/cbs/01/cbs_0105   0   30        约    AD                      (QP(ADVP*)  -    -   -   -            *         *        *         *   (ARG1*            *          -
+bn/cbs/01/cbs_0105   0   31      ７００    CD                           (QP*   -    -   -   -    (CARDINAL)        *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   32        位     M                      (CLP*)))))  -    -   2   -            *         *        *         *        *)           *          -
+bn/cbs/01/cbs_0105   0   33        ，    PU                              *   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   34       评件    VV         (IP(NP(CP(CP(IP(VP*))))  -    -   -   -            *         *        *         *        *       (ARG0*          -
+bn/cbs/01/cbs_0105   0   35        总    JJ                         (ADJP*)  -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   36       案件    NN                           (NP*   -    -   -   -            *         *        *         *        *            *          -
+bn/cbs/01/cbs_0105   0   37        数    NN                             *))  -    -   -   -            *         *        *         *        *            *)         -
+bn/cbs/01/cbs_0105   0   38        为    VC                           (VP*   -   01   1   -            *         *        *         *        *          (V*)         -
+bn/cbs/01/cbs_0105   0   39    ７２００余    CD                           (QP*   -    -   -   -    (CARDINAL)        *        *         *        *   (ARGM-PRD*          -
+bn/cbs/01/cbs_0105   0   40        件     M                       (CLP*))))  -    -   -   -            *         *        *         *        *            *)         -
+bn/cbs/01/cbs_0105   0   41        。    PU                             *))  -    -   -   -            *         *        *         *        *            *          -
+
+bn/cbs/01/cbs_0105   0    0     评件    NN      (TOP(IP(NP*   -    -   -   -   *   (ARG0*        *    (9
+bn/cbs/01/cbs_0105   0    1     结果    NN                *)  -    -   -   -   *        *)       *     9)
+bn/cbs/01/cbs_0105   0    2     指出    VV             (VP*   -   01   -   -   *      (V*)       *     -
+bn/cbs/01/cbs_0105   0    3      ，    PU                *   -    -   -   -   *        *        *     -
+bn/cbs/01/cbs_0105   0    4     法官    NN          (IP(NP*   -    -   -   -   *   (ARG1*   (ARG0*   (19
+bn/cbs/01/cbs_0105   0    5     表现    NN                *)  -    -   1   -   *        *        *)   19)
+bn/cbs/01/cbs_0105   0    6     呈现    VV             (VP*   -   01   2   -   *        *      (V*)    -
+bn/cbs/01/cbs_0105   0    7    两极化    VV   (NP(CP(IP(VP*))  -    -   -   -   *        *   (ARG1*     -
+bn/cbs/01/cbs_0105   0    8      的   DEC                *)  -    -   -   -   *        *        *     -
+bn/cbs/01/cbs_0105   0    9     现象    NN         (NP*)))))  -    -   -   -   *        *)       *)    -
+bn/cbs/01/cbs_0105   0   10      。    PU               *))  -    -   -   -   *        *        *     -
+
+bn/cbs/01/cbs_0105   0    0     有    VE     (TOP(IP(IP(VP(VP*   -   05   4   -            *          (V*)        *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    1    法官    NN               (IP(NP*)  -    -   -   -            *   (ARGM-ADV*    (ARG0*)           *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    2    得到    VV                  (VP*   -   01   -   -            *            *       (V*)           *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    3     近    AD   (NP(DNP(NP(QP(ADVP*)  -    -   -   -            *            *    (ARG1*            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    4    ９０    CD                 (QP*))  -    -   -   -    (CARDINAL)           *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    5     分    NN                 (NP*))  -    -   5   -            *            *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    6     的   DEG                     *)  -    -   -   -            *            *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    7    高分    NN              (NP*)))))  -    -   -   -            *            *)        *)           *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    8     ，    PU                     *   -    -   -   -            *            *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0    9     有    VE                  (VP*   -   05   4   -            *            *         *          (V*)            *        *        *             *     -
+bn/cbs/01/cbs_0105   0   10    法官    NN               (IP(NP*)  -    -   -   -            *            *         *   (ARGM-ADV*        (ARG0*)       *        *             *     -
+bn/cbs/01/cbs_0105   0   11     不    AD             (VP(ADVP*)  -    -   -   -            *            *         *            *    (ARGM-ADV*)       *        *             *     -
+bn/cbs/01/cbs_0105   0   12     及    VV                  (VP*   -   02   1   -            *            *         *            *           (V*)       *        *             *     -
+bn/cbs/01/cbs_0105   0   13    ６０    CD               (NP(QP*)  -    -   -   -    (CARDINAL)           *         *            *        (ARG1*        *        *             *     -
+bn/cbs/01/cbs_0105   0   14     分    NN           (NP*))))))))  -    -   5   -            *            *         *            *)            *)       *        *             *     -
+bn/cbs/01/cbs_0105   0   15     ，    PU                     *   -    -   -   -            *            *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0   16    显示    VV               (IP(VP*   -   01   1   -            *            *         *            *             *      (V*)       *             *     -
+bn/cbs/01/cbs_0105   0   17    法官    NN         (IP(IP(NP(NP*   -    -   -   -            *            *         *            *             *   (ARG1*   (ARG0*             *   (19
+bn/cbs/01/cbs_0105   0   18    表现    NN                     *)  -    -   1   -            *            *         *            *             *        *        *             *    19)
+bn/cbs/01/cbs_0105   0   19    落差    NN                 (NP*))  -    -   -   -            *            *         *            *             *        *        *)            *     -
+bn/cbs/01/cbs_0105   0   20     大    VA                 (VP*))  -   01   -   -            *            *         *            *             *        *      (V*)            *     -
+bn/cbs/01/cbs_0105   0   21     ，    PU                     *   -    -   -   -            *            *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0   22    部分    CD            (IP(NP(QP*)  -    -   -   -            *            *         *            *             *        *        *        (ARG0*     -
+bn/cbs/01/cbs_0105   0   23    法官    NN                 (NP*))  -    -   -   -            *            *         *            *             *        *        *             *)    -
+bn/cbs/01/cbs_0105   0   24     还    AD             (VP(ADVP*)  -    -   -   -            *            *         *            *             *        *        *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0105   0   25     有    VE                  (VP*   -   01   3   -            *            *         *            *             *        *        *           (V*)    -
+bn/cbs/01/cbs_0105   0   26    改进    NN           (NP(DNP(NP*)  -    -   -   -            *            *         *            *             *        *        *        (ARG1*     -
+bn/cbs/01/cbs_0105   0   27     的   DEG                     *)  -    -   -   -            *            *         *            *             *        *        *             *     -
+bn/cbs/01/cbs_0105   0   28    空间    NN           (NP*))))))))  -    -   -   -            *            *         *            *             *        *)       *             *)    -
+bn/cbs/01/cbs_0105   0   29     。    PU                    *))  -    -   -   -            *            *         *            *             *        *        *             *     -
+
+bn/cbs/01/cbs_0105   0    0     另外    AD        (TOP(IP(IP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)       *         *        -
+bn/cbs/01/cbs_0105   0    1      在     P                    (PP*   -    -   2   -           *    (ARGM-LOC*        *         *        -
+bn/cbs/01/cbs_0105   0    2      各    DT   (LCP(NP(DNP(NP(NP(DP*)  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0    3     法院    NN                   (NP*))  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0    4     新案    NN                   (NP*))  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0    5      的   DEG                       *)  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0    6     调查    NN                   (NP*))  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0    7      中    LC                      *))  -    -   -   -           *             *)       *         *        -
+bn/cbs/01/cbs_0105   0    8      ，    PU                       *   -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0    9     高等    JJ         (IP(IP(NP(ADJP*)  -    -   -   -           *        (ARG0*        *         *      (21
+bn/cbs/01/cbs_0105   0   10     法院    NN                   (NP*))  -    -   -   -           *             *)       *         *       21)
+bn/cbs/01/cbs_0105   0   11      只    AD               (VP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)       *         *        -
+bn/cbs/01/cbs_0105   0   12      有    VE                    (VP*   -   02   2   -           *           (V*)       *         *        -
+bn/cbs/01/cbs_0105   0   13    ５成５    CD                 (QP*))))  -    -   -   -    (PERCENT)       (ARG1*)       *         *        -
+bn/cbs/01/cbs_0105   0   14      ，    PU                       *   -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   15     台北    NR           (IP(NP(NP(NP*)  -    -   -   -        (GPE)            *        *         *    (4|(2)
+bn/cbs/01/cbs_0105   0   16     地院    NN                   (NP*))  -    -   -   -           *             *        *         *        4)
+bn/cbs/01/cbs_0105   0   17      和    CC                       *   -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   18     板桥    NR                 (NP(NP*)  -    -   -   -        (GPE)            *        *         *      (11)
+bn/cbs/01/cbs_0105   0   19     地院    NN                  (NP*)))  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   20      也    AD               (VP(ADVP*)  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   21      才    AD                  (ADVP*)  -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   22    ７成多    CD            (VP(QP*))))))  -    -   -   -    (PERCENT)            *        *         *        -
+bn/cbs/01/cbs_0105   0   23      ，    PU                       *   -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   24     显示    VV                 (IP(VP*   -   01   1   -           *             *      (V*)        *        -
+bn/cbs/01/cbs_0105   0   25     法官    NN                 (IP(NP*   -    -   -   -           *             *   (ARG1*    (ARG0*        -
+bn/cbs/01/cbs_0105   0   26     品德    NN                       *   -    -   -   -           *             *        *         *        -
+bn/cbs/01/cbs_0105   0   27     操守    NN                       *)  -    -   -   -           *             *        *         *)       -
+bn/cbs/01/cbs_0105   0   28     有待    VV                    (VP*   -   01   -   -           *             *        *       (V*)       -
+bn/cbs/01/cbs_0105   0   29     加强    NN                (NP*)))))  -    -   -   -           *             *        *)   (ARG1*)       -
+bn/cbs/01/cbs_0105   0   30      。    PU                      *))  -    -   -   -           *             *        *         *        -
+
+bn/cbs/01/cbs_0105   0    0     民间    NN    (TOP(IP(NP(NP(NP*   -    -   -   -      (ORG*   (ARG0*         *             *             *             *             *    (7
+bn/cbs/01/cbs_0105   0    1    司改会    NN                    *)  -    -   -   -          *)       *         *             *             *             *             *     7)
+bn/cbs/01/cbs_0105   0    2    执行长    NN                (NP*))  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0    3    王学思    NR                (NP*))  -    -   -   -    (PERSON)       *)        *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0    4     表示    VV                 (VP*   -   01   2   -          *      (V*)        *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0    5      ，    PU                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0    6     他们    PN              (IP(NP*)  -    -   -   -          *   (ARG1*    (ARG0*)            *             *             *             *    (7)
+bn/cbs/01/cbs_0105   0    7     呼吁    VV                 (VP*   -   02   1   -          *        *       (V*)            *             *             *             *     -
+bn/cbs/01/cbs_0105   0    8    司务部    NN              (IP(NP*   -    -   -   -       (ORG)       *    (ARG1*        (ARG0*             *        (ARG0*        (ARG0*    (0
+bn/cbs/01/cbs_0105   0    9      、    PU                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   10    司法院    NN                    *)  -    -   -   -       (ORG)       *         *             *)            *             *)            *)    0)
+bn/cbs/01/cbs_0105   0   11     紧速    AD            (VP(ADVP*)  -    -   -   -          *        *         *    (ARGM-ADV*)            *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cbs/01/cbs_0105   0   12     建立    VV              (VP(VP*   -   01   -   -          *        *         *           (V*)            *             *             *     -
+bn/cbs/01/cbs_0105   0   13     淘汰    VV  (NP(CP(CP(IP(VP(VP*   -   01   -   -          *        *         *        (ARG1*           (V*)            *             *    (8
+bn/cbs/01/cbs_0105   0   14      不    AD   (NP(CP(IP(VP(ADVP*)  -    -   -   -          *        *         *             *        (ARG1*             *             *     -
+bn/cbs/01/cbs_0105   0   15     适任    VA              (VP*))))  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   16     法官    NN             (NP*)))))  -    -   -   -          *        *         *             *             *)            *             *     -
+bn/cbs/01/cbs_0105   0   17      的   DEC                   *))  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   18     机制    NN               (NP*)))  -    -   -   -          *        *         *             *)   (ARGM-MNR*)            *             *     8)
+bn/cbs/01/cbs_0105   0   19      ，    PU                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   20     建订    VV                 (VP*   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   21      《    PU                 (NP*   -    -   -   -          *        *         *             *             *             *             *   (10
+bn/cbs/01/cbs_0105   0   22     法官    NN                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   23      法    NN                    *)  -    -   -   -          *        *         *             *             *             *             *    10)
+bn/cbs/01/cbs_0105   0   24      》    PU                    *)  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   25      ，    PU                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   26     打破    VV                 (VP*   -   01   -   -          *        *         *             *             *           (V*)            *     -
+bn/cbs/01/cbs_0105   0   27     法官    NN        (NP(CP(IP(NP*)  -    -   -   -          *        *         *             *             *        (ARG1*             *     -
+bn/cbs/01/cbs_0105   0   28     一律    AD            (VP(ADVP*)  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   29    终身制    NN           (VP(NP*))))  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   30      的   DEC                    *)  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   31     作法    NN               (NP*)))  -    -   -   -          *        *         *             *             *             *)            *     -
+bn/cbs/01/cbs_0105   0   32      ，    PU                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   33     以及    CC                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   34     建立    VV                 (VP*   -   01   -   -          *        *         *             *             *             *           (V*)    -
+bn/cbs/01/cbs_0105   0   35     法官    NN          (NP(DNP(NP*   -    -   -   -          *        *         *             *             *             *        (ARG1*    (6
+bn/cbs/01/cbs_0105   0   36      、    PU                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   37    检察官    NN                    *   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   38     律师    NN                    *)  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   39      的   DEG                    *)  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   40     官方    JJ               (ADJP*)  -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   41     评建    NN                 (NP*   -    -   -   -          *        *         *             *             *             *             *     -
+bn/cbs/01/cbs_0105   0   42     机制    NN            *)))))))))  -    -   -   -          *        *)        *)            *             *             *             *)    6)
+bn/cbs/01/cbs_0105   0   43      。    PU                   *))  -    -   -   -          *        *         *             *             *             *             *     -
+
+bn/cbs/01/cbs_0105   0    0      “    PU             (TOP(IP*   -    -   -   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0    1     我们    PN              (IP(NP*)  -    -   -   -       *    (ARG0*)           *             *            *             *    (7)
+bn/cbs/01/cbs_0105   0    2     宿求    NN                (FLR*)  -    -   -   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0    3     要求    VV                 (VP*   -   02   1   -       *       (V*)           *             *            *             *     -
+bn/cbs/01/cbs_0105   0    4    司法院    NN                 (NP*   -    -   -   -    (ORG)   (ARG1*            *             *            *             *    (0
+bn/cbs/01/cbs_0105   0    5      跟    CC                    *   -    -   4   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0    6    司务部    NN                    *)  -    -   -   -    (ORG)        *)           *             *            *             *     0)
+bn/cbs/01/cbs_0105   0    7      要    VV              (IP(VP*   -   06   3   -       *    (ARG2*          (V*)            *            *             *     -
+bn/cbs/01/cbs_0105   0    8     立即    AD            (VP(ADVP*)  -    -   -   -       *         *   (ARGM-ADV*    (ARGM-ADV*)           *             *     -
+bn/cbs/01/cbs_0105   0    9     建立    VV                 (VP*   -   01   -   -       *         *            *           (V*)           *             *     -
+bn/cbs/01/cbs_0105   0   10     这些    DT              (NP(NP*   -    -   -   -       *         *            *        (ARG1*            *             *    (6
+bn/cbs/01/cbs_0105   0   11     机制    NN                    *)  -    -   -   -       *         *            *             *            *             *     6)
+bn/cbs/01/cbs_0105   0   12      ，    PU                    *   -    -   -   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0   13     尤其    AD        (PRN(NP(ADVP*)  -    -   -   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0   14    司法院    NN     (NP(CP(CP(IP(NP*)  -    -   -   -    (ORG)        *            *             *       (ARG0*)       (ARG0*)    -
+bn/cbs/01/cbs_0105   0   15      要    VV                 (VP*   -   06   3   -       *         *            *             *          (V*)            *     -
+bn/cbs/01/cbs_0105   0   16     坚决    AD            (VP(ADVP*)  -    -   -   -       *         *            *             *   (ARGM-ADV*    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0105   0   17     淘汰    VV                 (VP*   -   01   -   -       *         *            *             *            *           (V*)    -
+bn/cbs/01/cbs_0105   0   18      不    AD   (NP(CP(IP(VP(ADVP*)  -    -   -   -       *         *            *             *            *        (ARG1*     -
+bn/cbs/01/cbs_0105   0   19     适任    VA              (VP*))))  -    -   -   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0   20     法官    NN            (NP*))))))  -    -   -   -       *         *            *             *            *)            *)    -
+bn/cbs/01/cbs_0105   0   21      的   DEC                   *))  -    -   -   -       *         *            *             *            *             *     -
+bn/cbs/01/cbs_0105   0   22     机制    NN       (NP*)))))))))))  -    -   -   -       *         *)           *)            *)           *    (ARGM-MNR*)    -
+bn/cbs/01/cbs_0105   0   23      。    PU                   *))  -    -   -   -       *         *            *             *            *             *     -
+
+bn/cbs/01/cbs_0105   0    0     另外    AD   (TOP(IP(VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)            *            *     -
+bn/cbs/01/cbs_0105   0    1      就    AD             (ADVP*)  -    -   8   -   *    (ARGM-ADV*)            *            *     -
+bn/cbs/01/cbs_0105   0    2      是    VC               (VP*   -   01   1   -   *           (V*)            *            *     -
+bn/cbs/01/cbs_0105   0    3      以     P         (IP(VP(PP*   -    -   -   -   *        (ARG1*             *   (ARGM-MNR*     -
+bn/cbs/01/cbs_0105   0    4     推动    VV   (NP(CP(IP(VP(VP*   -   02   3   -   *             *           (V*)           *     -
+bn/cbs/01/cbs_0105   0    5      《    PU               (NP*   -    -   -   -   *             *        (ARG1*            *   (10
+bn/cbs/01/cbs_0105   0    6     法官    NN                  *   -    -   -   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0    7      法    NN                  *)  -    -   -   -   *             *             *)           *    10)
+bn/cbs/01/cbs_0105   0    8      》    PU               *))))  -    -   -   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0    9     诚意    NN             (NP*)))  -    -   -   -   *             *    (ARGM-MNR*)           *)    -
+bn/cbs/01/cbs_0105   0   10      来   MSP               (VP*   -    -   7   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0   11     建立    VV               (VP*   -   01   -   -   *             *             *          (V*)    -
+bn/cbs/01/cbs_0105   0   12    制度化    VV   (NP(CP(CP(IP(VP*   -    -   -   -   *             *             *       (ARG1*   (10
+bn/cbs/01/cbs_0105   0   13      的   DEC               *))))  -    -   -   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0   14      《    PU               (NP*   -    -   -   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0   15     法官    NN                  *   -    -   -   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0   16      法    NN                  *   -    -   -   -   *             *             *            *     -
+bn/cbs/01/cbs_0105   0   17      》    PU           *))))))))  -    -   -   -   *             *)            *            *)   10)
+bn/cbs/01/cbs_0105   0   18      。    PU                 *))  -    -   -   -   *             *             *            *     -
+
+bn/cbs/01/cbs_0105   0    0     第三    OD      (TOP(IP(NP(QP*   -    -   -   -   (ORDINAL*        (ARG0*        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0    1      个     M              (CLP*))  -    -   -   -           *)            *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0    2     部分    NN               (NP*))  -    -   -   -           *             *)       *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0    3      就    AD           (VP(ADVP*)  -    -   2   -           *    (ARGM-ADV*)       *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0    4      是    VC                (VP*   -   01   1   -           *           (V*)       *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0    5     要求    VV             (IP(VP*   -   02   1   -           *        (ARG1*      (V*)            *             *             *             *    -
+bn/cbs/01/cbs_0105   0    6    司法院    NN                (NP*   -    -   -   -        (ORG)            *   (ARG1*             *             *             *             *   (0
+bn/cbs/01/cbs_0105   0    7      跟    CC                   *   -    -   4   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0    8    司务部    NN                   *)  -    -   -   -        (ORG)            *        *)            *             *             *             *    0)
+bn/cbs/01/cbs_0105   0    9     共同    AD        (IP(VP(ADVP*)  -    -   -   -           *             *   (ARG2*    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   -
+bn/cbs/01/cbs_0105   0   10      来    VV             (VP(VP*   -   05   7   -           *             *        *           (V*)            *             *             *    -
+bn/cbs/01/cbs_0105   0   11     落实    VV                (VP*   -   01   -   -           *             *        *    (ARGM-ADV*           (V*)            *             *    -
+bn/cbs/01/cbs_0105   0   12     去年    NT      (NP(DNP(NP(NP*)  -    -   -   -           *             *        *             *        (ARG1*             *             *    -
+bn/cbs/01/cbs_0105   0   13     全国    JJ              (ADJP*)  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   14    司改会    NN               (NP*))  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   15      的   DEG                   *)  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   16     决定    NN             (NP*))))  -    -   -   -           *             *        *             *)            *)            *             *    -
+bn/cbs/01/cbs_0105   0   17      ，    PU                   *   -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   18      来    VV                (VP*   -   05   7   -           *             *        *             *             *           (V*)            *    -
+bn/cbs/01/cbs_0105   0   19     建立    VV                (VP*   -   01   -   -           *             *        *             *             *    (ARGM-ADV*           (V*)   -
+bn/cbs/01/cbs_0105   0   20     法官    NN  (NP(DNP(NP(DNP(NP*   -    -   -   -           *             *        *             *             *             *        (ARG1*   (6
+bn/cbs/01/cbs_0105   0   21      、    PU                   *   -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   22    检察官    NN                   *   -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   23      、    PU                   *   -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   24     律师    NN                   *)  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   25      的   DEG                   *)  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   26     淘汰    NN                (NP*   -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   27      跟    CC                   *   -    -   4   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   28     评建    NN                  *))  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   29      的   DEG                   *)  -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   30     机制    NN      (NP*)))))))))))  -    -   -   -           *             *)       *)            *             *             *)            *)   6)
+bn/cbs/01/cbs_0105   0   31      。    PU                   *   -    -   -   -           *             *        *             *             *             *             *    -
+bn/cbs/01/cbs_0105   0   32      ”    PU                  *))  -    -   -   -           *             *        *             *             *             *             *    -
+
+bn/cbs/01/cbs_0105   0    0     一同    AD   (TOP(IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)  (ARG0*            *             *        *             *        *         *      *         *             *             *         *     (5
+bn/cbs/01/cbs_0105   0    1     出席    VV                         (VP*)))  -   01   -   -          *           (V*)       *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    2      的   DEC                             *))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    3    林永忠    NR                           (NP*   -    -   -   -    (PERSON)       (ARG0*        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    4     律师    NN                             *))  -    -   -   -          *             *)       *)           *             *        *             *        *         *      *         *             *             *         *      5)
+bn/cbs/01/cbs_0105   0    5     指出    VV                           (VP*   -   01   -   -          *             *      (V*)           *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    6      ，    PU                              *   -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    7     由于     P                        (IP(PP*   -    -   -   -          *             *   (ARG1*            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    8      有    VE                        (IP(VP*   -   05   4   -          *             *        *          (V*)            *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0    9     许多    CD                     (IP(NP(QP*)  -    -   -   -          *             *        *   (ARGM-ADV*        (ARG0*        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   10      不    AD             (CP(CP(IP(VP(ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   11     适任    VA                         (VP*)))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   12      的   DEC                             *))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   13     法官    NN                          (NP*))  -    -   -   -          *             *        *            *             *)       *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   14      在    AD                      (VP(ADVP*)  -    -   5   -          *             *        *            *    (ARGM-ADV*)       *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   15     担任    VV                           (VP*   -   01   -   -          *             *        *            *           (V*)       *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   16     判案    VV                 (NP(CP(IP(VP*))  -    -   -   -          *             *        *            *        (ARG1*        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   17      的   DEC                              *)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   18     工作    NN                    (NP*))))))))  -    -   -   -          *             *        *            *)            *)       *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   19      ，    PU                              *   -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   20     因此    AD                         (ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   21      他    PN                        (IP(NP*)  -    -   -   -          *             *        *            *             *        *        (ARG0*)       *         *      *         *             *             *         *     (5)
+bn/cbs/01/cbs_0105   0   22      在     P                        (VP(PP*   -    -   2   -          *             *        *            *             *        *    (ARGM-TMP*        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   23     接受    VV                    (LCP(IP(VP*   -   01   -   -          *             *        *            *             *      (V*)            *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   24    委托人    NN                    (NP(DNP(NP*)  -    -   -   -          *             *        *            *             *   (ARG1*             *        *         *      *         *             *             *         *    (22)
+bn/cbs/01/cbs_0105   0   25      的   DEG                              *)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   26     委托    NN                        (NP*))))  -    -   -   -          *             *        *            *             *        *)            *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   27      时    LC                             *))  -    -   -   -          *             *        *            *             *        *             *)       *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   28      ，    PU                              *   -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   29     尽管    CS                         (ADVP*)  -    -   -   -          *             *        *            *             *        *    (ARGM-DIS*)       *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   30      有    VE                           (VP*   -   05   4   -          *             *        *            *             *        *           (V*)       *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   31     许多    CD                 (IP(NP(DNP(QP*)  -    -   -   -          *             *        *            *             *        *        (ARG1*   (ARG0*         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   32      的   DEG                              *)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   33     证据    NN                          (NP*))  -    -   -   -          *             *        *            *             *        *             *        *)        *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   34     显示    VV                           (VP*   -   01   1   -          *             *        *            *             *        *             *      (V*)        *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   35    当事人    NN                        (IP(NP*)  -    -   -   -          *             *        *            *             *        *             *   (ARG1*    (ARG0*)     *         *             *             *         *    (17)
+bn/cbs/01/cbs_0105   0   36      是    VC                           (VP*   -   01   1   -          *             *        *            *             *        *             *        *       (V*)     *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   37     无辜    VA              (NP(CP(CP(IP(VP*))  -   01   -   -          *             *        *            *             *        *             *        *    (ARG1*    (V*)        *             *             *         *      -
+bn/cbs/01/cbs_0105   0   38      的   DEC                     *))))))))))  -    -   -   -          *             *        *            *             *        *             *)       *)        *)     *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   39      ，    PU                              *   -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   40     但是    AD                         (ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   41      当     P                           (PP*   -    -   4   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   42    委托人    NN                    (LCP(IP(NP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *    (ARG0*)            *             *         *    (22)
+bn/cbs/01/cbs_0105   0   43     询问    VV                           (VP*   -   01   -   -          *             *        *            *             *        *             *        *         *      *       (V*)            *             *         *      -
+bn/cbs/01/cbs_0105   0   44     几时    AD                   (IP(VP(ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *    (ARG1*    (ARGM-ADV*)   (ARGM-TMP*)        *      -
+bn/cbs/01/cbs_0105   0   45      才    AD                         (ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *    (ARGM-ADV*)   (ARGM-ADV*)        *      -
+bn/cbs/01/cbs_0105   0   46      能    VV                           (VP*   -   01   1   -          *             *        *            *             *        *             *        *         *      *         *           (V*)            *         *      -
+bn/cbs/01/cbs_0105   0   47     得到    VV                           (VP*   -   01   -   -          *             *        *            *             *        *             *        *         *      *         *    (ARGM-ADV*           (V*)        *      -
+bn/cbs/01/cbs_0105   0   48     平反    NN                     (NP*)))))))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *)            *)       (ARG1*)        *    (12)
+bn/cbs/01/cbs_0105   0   49      时    LC                             *))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   50      ，    PU                              *   -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   51     他们    PN                           (NP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *    (15)
+bn/cbs/01/cbs_0105   0   52      却    AD                      (VP(ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   53     无法    AD                         (ADVP*)  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   54     作出    VV                           (VP*   -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   55     明确    VA              (NP(CP(CP(IP(VP*))  -   01   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *       (V*)     -
+bn/cbs/01/cbs_0105   0   56      的   DEC                             *))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+bn/cbs/01/cbs_0105   0   57     回答    NN                      (NP*))))))  -    -   -   -          *             *        *)           *             *        *             *        *         *      *         *             *             *    (ARG1*)     -
+bn/cbs/01/cbs_0105   0   58      。    PU                             *))  -    -   -   -          *             *        *            *             *        *             *        *         *      *         *             *             *         *      -
+
+bn/cbs/01/cbs_0105   0    0     因为     P            (TOP(IP(PP*   -    -   -   -   *        *         *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0    1     只有    AD           (IP(VP(ADVP*)  -    -   -   -   *        *         *         *    (ARGM-ADV*)   (ARGM-DIS*)        *         *      -
+bn/cbs/01/cbs_0105   0    2      在     P                   (PP*   -    -   2   -   *        *         *         *    (ARGM-TMP*    (ARGM-TMP*         *         *      -
+bn/cbs/01/cbs_0105   0    3     遇到    VV            (LCP(IP(VP*   -   01   -   -   *      (V*)        *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0    4     认真    VA   (NP(CP(CP(IP(IP(VP*))  -   01   -   -   *   (ARG1*       (V*)        *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0    5      、    PU                      *   -    -   -   -   *        *         *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0    6     操守    NN                (IP(NP*)  -    -   -   -   *        *         *    (ARG0*)            *             *         *         *      -
+bn/cbs/01/cbs_0105   0    7      好    VA                  (VP*))  -   01   1   -   *        *         *       (V*)            *             *         *         *      -
+bn/cbs/01/cbs_0105   0    8      、    PU                      *   -    -   -   -   *        *         *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0    9    有担当    VA              (IP(VP*)))  -    -   -   -   *        *         *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0   10      的   DEC                     *))  -    -   -   -   *        *         *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0   11     法官    NN                (NP*))))  -    -   -   -   *        *)   (ARG0*)   (ARG0*)            *             *         *         *      -
+bn/cbs/01/cbs_0105   0   12      时    LC                     *))  -    -   -   -   *        *         *         *             *)            *)        *         *      -
+bn/cbs/01/cbs_0105   0   13      才    AD                 (ADVP*)  -    -   -   -   *        *         *         *    (ARGM-ADV*)   (ARGM-DIS*)        *         *      -
+bn/cbs/01/cbs_0105   0   14      能    VV                   (VP*   -   01   1   -   *        *         *         *           (V*)            *         *         *      -
+bn/cbs/01/cbs_0105   0   15     判断    VV                   (VP*   -   01   -   -   *        *         *         *    (ARGM-ADV*           (V*)        *         *      -
+bn/cbs/01/cbs_0105   0   16     平反    NN                (IP(NP*)  -    -   -   -   *        *         *         *             *        (ARG1*    (ARG0*)   (ARG0*)   (12)
+bn/cbs/01/cbs_0105   0   17      有    VE               (VP(VNV*   -   03   3   -   *        *         *         *             *             *       (V*)        *      -
+bn/cbs/01/cbs_0105   0   18      没    AD                      *   -    -   1   -   *        *         *         *             *             *         *         *      -
+bn/cbs/01/cbs_0105   0   19      有    VE                      *)  -   03   3   -   *        *         *         *             *             *         *       (V*)     -
+bn/cbs/01/cbs_0105   0   20     希望    NN            (NP*))))))))  -    -   3   -   *        *         *         *             *)            *)   (ARG1*)   (ARG1*)   (14)
+bn/cbs/01/cbs_0105   0   21      。    PU                     *))  -    -   -   -   *        *         *         *             *             *         *         *      -
+
+bn/cbs/01/cbs_0105   0    0      “    PU              (TOP(IP*   -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0    1      在     P                  (PP*   -    -   2   -   *             *   (ARGM-TMP*         *         *      -
+bn/cbs/01/cbs_0105   0    2     法院    NN   (NP(NP(CP(CP(IP(NP*)  -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0    3     判案    VV             (VP(VP*)))  -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0    4      的   DEC                    *))  -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0    5     时候    NN                 (NP*))  -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0    6      ，    PU                     *   -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0    7    当事人    NN      (NP(CP(CP(IP(NP*)  -    -   -   -   *        (ARG0*)           *         *         *    (17)
+bn/cbs/01/cbs_0105   0    8     委托    VV               (VP(VP*   -   01   -   -   *           (V*)           *         *         *      -
+bn/cbs/01/cbs_0105   0    9      你    PN               (NP*))))  -    -   -   -   *        (ARG1*)           *         *         *     (5)
+bn/cbs/01/cbs_0105   0   10      的   DEC                    *))  -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0   11     时候    NN               (NP*))))  -    -   -   -   *    (ARGM-TMP*)           *)        *         *      -
+bn/cbs/01/cbs_0105   0   12      ，    PU                     *   -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0   13      他    PN                  (NP*)  -    -   -   -   *             *       (ARG0*)        *         *    (17)
+bn/cbs/01/cbs_0105   0   14      问    VV                  (VP*   -   01   1   -   *             *          (V*)        *         *      -
+bn/cbs/01/cbs_0105   0   15      你    PN                  (NP*)  -    -   -   -   *             *       (ARG2*)        *         *     (5)
+bn/cbs/01/cbs_0105   0   16      ‘    PU                     *   -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0   17      你    PN               (IP(NP*)  -    -   -   -   *             *       (ARG1*    (ARG0*)        *     (5)
+bn/cbs/01/cbs_0105   0   18     认为    VV                  (VP*   -   01   1   -   *             *            *       (V*)        *      -
+bn/cbs/01/cbs_0105   0   19      我    PN            (CP(IP(NP*)  -    -   -   -   *             *            *    (ARG1*    (ARG0*)   (17)
+bn/cbs/01/cbs_0105   0   20      有    VE                  (VP*   -   01   3   -   *             *            *         *       (V*)     -
+bn/cbs/01/cbs_0105   0   21     希望    NN                (NP*)))  -    -   3   -   *             *            *         *    (ARG1*)   (14)
+bn/cbs/01/cbs_0105   0   22      吗    SP                     *   -    -   -   -   *             *            *         *         *      -
+bn/cbs/01/cbs_0105   0   23      ？    PU                  *))))  -    -   -   -   *             *            *)        *)        *      -
+bn/cbs/01/cbs_0105   0   24      ’    PU                    *))  -    -   -   -   *             *            *         *         *      -
+
+bn/cbs/01/cbs_0105   0   0     ，   PU    (TOP(IP*   -    -   -   -   *         *             *     -
+bn/cbs/01/cbs_0105   0   1     我   PN        (NP*)  -    -   -   -   *    (ARG0*)            *    (5)
+bn/cbs/01/cbs_0105   0   2     说   VV        (VP*   -   01   7   -   *       (V*)            *     -
+bn/cbs/01/cbs_0105   0   3     ‘   PU        (IP*   -    -   -   -   *    (ARG1*             *     -
+bn/cbs/01/cbs_0105   0   4     我   PN        (NP*)  -    -   -   -   *         *        (ARG0*)   (5)
+bn/cbs/01/cbs_0105   0   5     不   AD   (VP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0105   0   6    知道   VV       (VP*))  -   01   -   -   *         *           (V*)    -
+bn/cbs/01/cbs_0105   0   7     ’   PU          *))  -    -   -   -   *         *)            *     -
+bn/cbs/01/cbs_0105   0   8     。   PU          *))  -    -   -   -   *         *             *     -
+
+bn/cbs/01/cbs_0105   0    0     那   PN     (TOP(IP(NP*)  -    -   -   -   *        (ARG0*)            *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0    1     不   AD       (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0    2     是   VC            (VP*   -   01   1   -   *           (V*)            *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0    3     每   DT      (IP(NP(DP*   -    -   -   -   *        (ARG1*        (ARG0*        (ARG0*         *         *             *      -
+bn/cbs/01/cbs_0105   0    4     个    M          (CLP*))  -    -   -   -   *             *             *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0    5    法官   NN           (NP*))  -    -   -   -   *             *             *)            *)        *         *             *      -
+bn/cbs/01/cbs_0105   0    6     都   AD       (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)   (ARGM-ADV*)        *         *             *      -
+bn/cbs/01/cbs_0105   0    7    可以   VV            (VP*   -   01   1   -   *             *           (V*)            *         *         *             *      -
+bn/cbs/01/cbs_0105   0    8    招招   AD       (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*    (ARGM-ADV*)        *         *             *      -
+bn/cbs/01/cbs_0105   0    9    猜测   VV            (VP*   -   01   -   -   *             *             *           (V*)        *         *             *      -
+bn/cbs/01/cbs_0105   0   10     有   VE     (IP(VP(VNV*   -   01   3   -   *             *             *        (ARG1*       (V*)        *             *      -
+bn/cbs/01/cbs_0105   0   11     没   AD               *   -    -   1   -   *             *             *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0   12     有   VE               *)  -   01   3   -   *             *             *             *         *       (V*)            *      -
+bn/cbs/01/cbs_0105   0   13    希望   NN   (NP*))))))))))  -    -   3   -   *             *)            *)            *)   (ARG1*)   (ARG1*)            *    (14)
+bn/cbs/01/cbs_0105   0   14     ，   PU               *   -    -   -   -   *             *             *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0   15    因为    P            (PP*   -    -   -   -   *    (ARGM-PRP*             *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0   16     每   DT      (IP(NP(DP*   -    -   -   -   *             *             *             *         *         *        (ARG0*      -
+bn/cbs/01/cbs_0105   0   17     一   CD            (QP*   -    -   -   -   *             *             *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0   18     个    M         (CLP*)))  -    -   -   -   *             *             *             *         *         *             *      -
+bn/cbs/01/cbs_0105   0   19    法官   NN           (NP*))  -    -   -   -   *             *             *             *         *         *             *)     -
+bn/cbs/01/cbs_0105   0   20     都   AD       (VP(ADVP*)  -    -   -   -   *             *             *             *         *         *    (ARGM-ADV*)     -
+bn/cbs/01/cbs_0105   0   21     不   AD          (ADVP*)  -    -   -   -   *             *             *             *         *         *    (ARGM-ADV*)     -
+bn/cbs/01/cbs_0105   0   22    一样   VA         (VP*))))  -   01   -   -   *             *)            *             *         *         *           (V*)     -
+bn/cbs/01/cbs_0105   0   23     。   PU              *))  -    -   -   -   *             *             *             *         *         *             *      -
+
+bn/cbs/01/cbs_0105   0    0     所以   AD   (TOP(IP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)        *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0    1     往往   AD       (VP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)        *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0    2      有   VE            (VP*   -   05   4   -           *           (V*)        *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0    3     一些   CD      (IP(NP(QP*)  -    -   -   -           *    (ARGM-ADV*         *             *             *       (ARG0*      *      *        *      -
+bn/cbs/01/cbs_0105   0    4     案子   NN           (NP*))  -    -   -   -           *             *         *             *             *            *)     *      *        *      -
+bn/cbs/01/cbs_0105   0    5     我们   PN     (LCP(IP(NP*)  -    -   -   -           *             *    (ARG0*)            *             *   (ARGM-TMP*      *      *        *    (15)
+bn/cbs/01/cbs_0105   0    6     深入   VV            (VP*   -   02   -   -           *             *       (V*)            *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0    7      了   AS              *))  -    -   -   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0    8     以后   LC               *)  -    -   -   -           *             *         *             *             *            *)     *      *        *      -
+bn/cbs/01/cbs_0105   0    9      ，   PU               *   -    -   -   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   10    当事人   NN         (IP(NP*)  -    -   -   -           *             *         *        (ARG0*)       (ARG0*)      (ARG0*      *      *        *    (17)
+bn/cbs/01/cbs_0105   0   11      能   VV        (VP(VNV*   -   01   1   -           *             *         *           (V*)            *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   12      不   AD               *   -    -   -   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   13      能   VV               *)  -   01   1   -           *             *         *             *           (V*)           *      *      *        *      -
+bn/cbs/01/cbs_0105   0   14     平反   VV          (VP*)))  -    -   -   -           *             *         *    (ARGM-ADV*)   (ARGM-ADV*)           *)     *      *        *      -
+bn/cbs/01/cbs_0105   0   15      ，   PU               *   -    -   -   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   16      要   VV            (VP*   -    -   3   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   17      看   VV            (VP*   -   01   1   -           *             *         *             *             *          (V*)     *      *        *      -
+bn/cbs/01/cbs_0105   0   18     第一   OD      (IP(NP(QP*   -    -   -   -    (ORDINAL)            *         *             *             *       (ARG1*      *      *   (ARG0*    (13
+bn/cbs/01/cbs_0105   0   19      个    M          (CLP*))  -    -   -   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   20     法官   NN           (NP*))  -    -   -   -           *             *         *             *             *            *      *      *        *)    13)
+bn/cbs/01/cbs_0105   0   21      是   VC        (VP(VNV*   -   01   1   -           *             *         *             *             *            *    (V*)     *        *      -
+bn/cbs/01/cbs_0105   0   22      不   AD               *   -    -   -   -           *             *         *             *             *            *      *      *        *      -
+bn/cbs/01/cbs_0105   0   23      是   VC               *)  -   01   1   -           *             *         *             *             *            *      *    (V*)       *      -
+bn/cbs/01/cbs_0105   0   24     认真   VA     (VP*))))))))  -   01   -   -           *             *)        *             *             *            *)     *      *      (V*)     -
+bn/cbs/01/cbs_0105   0   25      。   PU              *))  -    -   -   -           *             *         *             *             *            *      *      *        *      -
+
+bn/cbs/01/cbs_0105   0    0    第二   OD   (TOP(IP(IP(LST*)  -    -   -   -    (ORDINAL)   (ARGM-DIS*)            *      *      -
+bn/cbs/01/cbs_0105   0    1     ，   PU                 *   -    -   -   -           *             *             *      *      -
+bn/cbs/01/cbs_0105   0    2     他   PN           (IP(NP*)  -    -   -   -           *        (ARG0*)            *      *    (13)
+bn/cbs/01/cbs_0105   0    3    操守   NN              (NP*)  -    -   -   -           *        (ARG0*)            *      *      -
+bn/cbs/01/cbs_0105   0    4     好   VA            (VP*)))  -   01   1   -           *           (V*)            *      *      -
+bn/cbs/01/cbs_0105   0    5     ，   PU                 *   -    -   -   -           *             *             *      *      -
+bn/cbs/01/cbs_0105   0    6     他   PN           (IP(NP*)  -    -   -   -           *             *        (ARG0*)     *    (13)
+bn/cbs/01/cbs_0105   0    7     才   AD         (VP(ADVP*)  -    -   -   -           *             *    (ARGM-DIS*)     *      -
+bn/cbs/01/cbs_0105   0    8     敢   VV              (VP*   -    -   1   -           *             *             *      *      -
+bn/cbs/01/cbs_0105   0    9     判   VV              (VP*   -   01   1   -           *             *           (V*)     *      -
+bn/cbs/01/cbs_0105   0   10    无罪   VV      (IP(VP*))))))  -   01   -   -           *             *        (ARG2*)   (V*)     -
+bn/cbs/01/cbs_0105   0   11     。   PU                *))  -    -   -   -           *             *             *      *      -
+
+bn/cbs/01/cbs_0105   0    0     第三   OD  (TOP(IP(IP(QP*   -    -   -   -    (ORDINAL)  (ARG0*             *             *      *      -
+bn/cbs/01/cbs_0105   0    1      个    M          (CLP*))  -    -   -   -           *        *)            *             *      *      -
+bn/cbs/01/cbs_0105   0    2      是   VC            (VP*   -   01   1   -           *      (V*)            *             *      *      -
+bn/cbs/01/cbs_0105   0    3      他   PN         (IP(NP*)  -    -   -   -           *   (ARG1*             *             *      *    (13)
+bn/cbs/01/cbs_0105   0    4    有担当   VA         (VP*))))  -    -   -   -           *        *)            *             *      *      -
+bn/cbs/01/cbs_0105   0    5      ，   PU               *   -    -   -   -           *        *             *             *      *      -
+bn/cbs/01/cbs_0105   0    6      他   PN         (IP(NP*)  -    -   -   -           *        *        (ARG0*)       (ARG0*)     *    (13)
+bn/cbs/01/cbs_0105   0    7      才   AD       (VP(ADVP*)  -    -   -   -           *        *    (ARGM-ADV*)   (ARGM-DIS*)     *      -
+bn/cbs/01/cbs_0105   0    8      有   VE         (VP(VP*   -   01   1   -           *        *           (V*)            *      *      -
+bn/cbs/01/cbs_0105   0    9      权   NN           (NP*))  -    -   -   -           *        *        (ARG1*)            *      *      -
+bn/cbs/01/cbs_0105   0   10      判   VV            (VP*   -   01   1   -           *        *             *           (V*)     *      -
+bn/cbs/01/cbs_0105   0   11     无罪   VV    (IP(VP*))))))  -   01   -   -           *        *             *        (ARG2*)   (V*)     -
+bn/cbs/01/cbs_0105   0   12      。   PU               *   -    -   -   -           *        *             *             *      *      -
+bn/cbs/01/cbs_0105   0   13      ”   PU              *))  -    -   -   -           *        *             *             *      *      -
+
+bn/cbs/01/cbs_0105   0    0     另外    AD                (TOP(IP(ADVP*)  -    -   -   -          *      *    (ARGM-ADV*)           *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    1    林永忠    NR                         (NP*)  -    -   -   -    (PERSON)     *        (ARG0*)           *             *             *             *             *             *      *      *            *    (5)
+bn/cbs/01/cbs_0105   0    2      也    AD                    (VP(ADVP*)  -    -   -   -          *      *    (ARGM-ADV*)           *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    3     举例    VV                     (VP(VSB*   -   01   -   -          *    (V*)            *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    4     说明    VV                            *)  -   01   1   -          *      *           (V*)           *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    5      有    VE                   (IP(VP(VP*   -   05   4   -          *      *        (ARG1*          (V*)            *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    6      多    CD                   (IP(NP(QP*   -    -   3   -          *      *             *   (ARGM-ADV*        (ARG0*        (ARG0*             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    7      位     M                       (CLP*))  -    -   2   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    8     法官    NN                        (NP*))  -    -   -   -          *      *             *            *             *)            *)            *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0    9     本身    PN                   (VP(VP(NP*)  -    -   -   -          *      *             *            *    (ARGM-ADV*)            *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   10     涉及    VV                         (VP*   -   01   -   -          *      *             *            *           (V*)            *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   11     不法    JJ                    (NP(ADJP*)  -    -   -   -          *      *             *            *        (ARG1*             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   12     案件    NN                      (NP*))))  -    -   -   -          *      *             *            *             *)            *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   13      ，    PU                            *   -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   14      却    AD                    (VP(ADVP*)  -    -   -   -          *      *             *            *             *    (ARGM-DIS*)            *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   15     仍然    AD                       (ADVP*)  -    -   -   -          *      *             *            *             *    (ARGM-ADV*)            *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   16     担任    VV                         (VP*   -   01   -   -          *      *             *            *             *           (V*)            *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   17     判案    NN                  (NP(DNP(NP*)  -    -   -   -          *      *             *            *             *        (ARG1*             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   18      的   DEG                            *)  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   19     职务    NN                   (NP*)))))))  -    -   -   -          *      *             *            *)            *             *)            *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   20      ；    PU                            *   -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   21      也    AD                    (VP(ADVP*)  -    -   -   -          *      *             *            *             *             *    (ARGM-ADV*)            *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   22      有    VE                         (VP*   -   05   4   -          *      *             *            *             *             *           (V*)            *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   23     原本    AD     (IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -          *      *             *            *             *             *    (ARGM-ADV*    (ARGM-ADV*)            *      *      *            *     -
+bn/cbs/01/cbs_0105   0   24     遭到    VV                         (VP*   -   01   -   -          *      *             *            *             *             *             *           (V*)            *      *      *            *     -
+bn/cbs/01/cbs_0105   0   25     停职    NN                      (NP*))))  -    -   -   -          *      *             *            *             *             *             *        (ARG1*)            *      *      *            *     -
+bn/cbs/01/cbs_0105   0   26      的   DEC                           *))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   27     法官    NN                        (NP*))  -    -   -   -          *      *             *            *             *             *             *        (ARG0*)            *      *      *            *     -
+bn/cbs/01/cbs_0105   0   28      在     P                      (VP(PP*   -    -   2   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   29     复职    VV                 (LCP(IP(VP*))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   30      后    LC                           *))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   31     依然    AD                       (ADVP*)  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   32     报有    VV                         (VP*   -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   33     法官    NN                  (NP(DNP(NP*   -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   34    终身制    NN                            *)  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   35      的   DEG                            *)  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   36     待遇    NN                   (NP*)))))))  -    -   -   -          *      *             *            *             *             *             *)            *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   37      ，    PU                            *   -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   38    更甚者    AD                    (VP(ADVP*)  -    -   -   -          *      *             *            *             *             *             *             *    (ARGM-ADV*)     *      *            *     -
+bn/cbs/01/cbs_0105   0   39      还    AD                       (ADVP*)  -    -   -   -          *      *             *            *             *             *             *             *    (ARGM-ADV*)     *      *            *     -
+bn/cbs/01/cbs_0105   0   40      有    VE                         (VP*   -   03   4   -          *      *             *            *             *             *             *             *           (V*)     *      *            *     -
+bn/cbs/01/cbs_0105   0   41     涉案    VV   (NP(CP(IP(NP(CP(CP(IP(VP*))  -    -   -   -          *      *             *            *             *             *             *             *        (ARG1*      *      *       (ARG0*     -
+bn/cbs/01/cbs_0105   0   42      的   DEC                           *))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   43     法官    NN                        (NP*))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *)    -
+bn/cbs/01/cbs_0105   0   44     去逝    VV              (VP(LCP(IP(VP*))  -   01   -   -          *      *             *            *             *             *             *             *             *    (V*)     *   (ARGM-TMP*     -
+bn/cbs/01/cbs_0105   0   45      后    LC                            *)  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *)    -
+bn/cbs/01/cbs_0105   0   46      改    VV                     (VP(VSB*   -   01   -   -          *      *             *            *             *             *             *             *             *      *    (V*)           *     -
+bn/cbs/01/cbs_0105   0   47      当    VV                            *)  -   02   2   -          *      *             *            *             *             *             *             *             *      *      *          (V*)    -
+bn/cbs/01/cbs_0105   0   48     律师    NN                         (NP*   -    -   -   -          *      *             *            *             *             *             *             *             *      *      *       (ARG1*     -
+bn/cbs/01/cbs_0105   0   49     职业    NN                         *))))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *)    -
+bn/cbs/01/cbs_0105   0   50      的   DEC                            *)  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+bn/cbs/01/cbs_0105   0   51    怪现象    NN                  (NP*))))))))  -    -   -   -          *      *             *)           *             *             *             *             *             *)     *      *            *     -
+bn/cbs/01/cbs_0105   0   52      。    PU                           *))  -    -   -   -          *      *             *            *             *             *             *             *             *      *      *            *     -
+
+bn/cbs/01/cbs_0105   0    0    林永忠   NR    (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)            *             *      *         *    (5)
+bn/cbs/01/cbs_0105   0    1     表示   VV           (VP*   -   01   2   -          *       (V*)            *             *      *         *     -
+bn/cbs/01/cbs_0105   0    2      ，   PU              *   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0    3     一般   JJ   (IP(NP(ADJP*)  -    -   -   -          *    (ARG1*             *             *      *         *     -
+bn/cbs/01/cbs_0105   0    4    公务员   NN          (NP*))  -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0    5     只要   CS   (VP(CP(ADVP*)  -    -   -   -          *         *    (ARGM-DIS*)            *      *         *     -
+bn/cbs/01/cbs_0105   0    6     一旦   CS   (IP(VP(ADVP*)  -    -   -   -          *         *    (ARGM-DIS*)            *      *         *     -
+bn/cbs/01/cbs_0105   0    7      被   SB           (VP*   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0    8     起诉   VV       (VP*)))))  -   01   -   -          *         *           (V*)            *      *         *     -
+bn/cbs/01/cbs_0105   0    9      ，   PU              *   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   10     就算   CS      (CP(ADVP*)  -    -   -   -          *         *             *    (ARGM-DIS*)     *         *     -
+bn/cbs/01/cbs_0105   0   11     没有   AD   (IP(VP(ADVP*)  -    -   2   -          *         *             *    (ARGM-ADV*)     *         *     -
+bn/cbs/01/cbs_0105   0   12      被   SB           (VP*   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   13     羁押   VV       (VP*)))))  -   01   -   -          *         *             *           (V*)     *         *     -
+bn/cbs/01/cbs_0105   0   14      也   AD      (VP(ADVP*)  -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   15      会   VV           (VP*   -   01   -   -          *         *             *             *    (V*)        *     -
+bn/cbs/01/cbs_0105   0   16     遭到   VV        (VP(VP*   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   17     停职   NN           (NP*   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   18     处分   NN             *))  -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   19      ，   PU              *   -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   20      直   AD      (VP(ADVP*)  -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   21      到    P           (PP*   -    -   5   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   22     无罪   NN    (LCP(IP(NP*)  -    -   -   -          *         *             *             *      *    (ARG1*)    -
+bn/cbs/01/cbs_0105   0   23     确定   VV          (VP*))  -   01   -   -          *         *             *             *      *       (V*)    -
+bn/cbs/01/cbs_0105   0   24     之后   LC             *))  -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   25      才   AD         (ADVP*)  -    -   -   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   26      能   VV           (VP*   -    -   1   -          *         *             *             *      *         *     -
+bn/cbs/01/cbs_0105   0   27     复职   VV   (VP*)))))))))  -    -   -   -          *         *)            *             *      *         *     -
+bn/cbs/01/cbs_0105   0   28      。   PU             *))  -    -   -   -          *         *             *             *      *         *     -
+
+bn/cbs/01/cbs_0105   0    0      可是    AD       (TOP(IP(IP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)        *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    1       却    AD              (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)        *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    2       有    VE                   (VP*   -   05   4   -   *           (V*)        *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    3      许多    CD         (IP(NP(DNP(QP*)  -    -   -   -   *        (ARG1*         *        (ARG0*         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    4       的   DEG                      *)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    5      法官    NN                  (NP*))  -    -   -   -   *             *         *             *)        *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    6       被    SB         (VP(LCP(IP(VP*   -    -   -   -   *             *         *    (ARGM-TMP*         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    7      起诉    VV                 (VP*)))  -   01   -   -   *             *       (V*)            *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    8      之后    LC                      *)  -    -   -   -   *             *         *             *)        *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0    9       ，    PU                      *   -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   10      只是    AD                 (ADVP*)  -    -   -   -   *             *         *    (ARGM-ADV*)        *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   11      遭到    VV                   (VP*   -   01   -   -   *             *         *           (V*)        *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   12     公务员    NN          (NP(CP(IP(NP*   -    -   -   -   *             *         *        (ARG1*         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   13      停界    NN                      *   -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   14     委员会    NN                      *)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   15      休职    VV                  (VP*))  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   16       的   DEC                      *)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   17      待遇    NN            (NP*))))))))  -    -   -   -   *             *)        *             *)        *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   18       ，    PU                      *   -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   19      但是    AD              (IP(ADVP*)  -    -   -   -   *             *         *             *         *         *             *             *    (ARGM-DIS*)  -
+bn/cbs/01/cbs_0105   0   20       却    AD                 (ADVP*)  -    -   -   -   *             *         *             *         *         *             *             *    (ARGM-DIS*)  -
+bn/cbs/01/cbs_0105   0   21      因为     P                   (PP*   -    -   -   -   *             *         *             *         *         *             *             *    (ARGM-PRP*   -
+bn/cbs/01/cbs_0105   0   22      法官    NN                (IP(NP*)  -    -   -   -   *             *         *             *    (ARG0*)        *             *             *             *   -
+bn/cbs/01/cbs_0105   0   23      休职    VV                (VP(VP*)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   24       有    VE                   (VP*   -   03   3   -   *             *         *             *       (V*)        *             *             *             *   -
+bn/cbs/01/cbs_0105   0   25      一定    JJ          (NP(DNP(ADJP*)  -    -   -   -   *             *         *             *    (ARG1*         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   26       的   DEG                      *)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   27      期限    NN              (NP*))))))  -    -   -   -   *             *         *             *         *)        *             *             *             *)  -
+bn/cbs/01/cbs_0105   0   28       ，    PU                      *   -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   29      所以    AD                 (ADVP*)  -    -   -   -   *             *         *             *         *         *             *             *    (ARGM-DIS*)  -
+bn/cbs/01/cbs_0105   0   30      出现    VV      (NP(CP(CP(IP(VP*))  -   01   -   -   *             *         *             *         *       (V*)            *             *        (ARG1*   -
+bn/cbs/01/cbs_0105   0   31       的   DEC                     *))  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   32      案子    NN          (CP(IP(IP(NP*)  -    -   -   -   *             *         *             *         *         *        (ARG1*)            *             *   -
+bn/cbs/01/cbs_0105   0   33       还    AD              (VP(ADVP*)  -    -   -   -   *             *         *             *         *         *    (ARGM-ADV*)            *             *   -
+bn/cbs/01/cbs_0105   0   34      没有    AD                 (ADVP*)  -    -   2   -   *             *         *             *         *         *    (ARGM-ADV*)            *             *   -
+bn/cbs/01/cbs_0105   0   35      判定    VV                   (VP*   -   02   -   -   *             *         *             *         *         *           (V*)            *             *   -
+bn/cbs/01/cbs_0105   0   36    有罪无罪    VV            (IP(VP*)))))  -    -   -   -   *             *         *             *         *         *        (ARG2*)            *             *   -
+bn/cbs/01/cbs_0105   0   37       ，    PU                      *   -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   38      涉案    VV   (IP(NP(CP(CP(IP(VP*))  -    -   -   -   *             *         *             *         *         *             *        (ARG0*             *   -
+bn/cbs/01/cbs_0105   0   39       的   DEC                     *))  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   40      法官    NN                  (NP*))  -    -   -   -   *             *         *             *         *         *             *             *)            *   -
+bn/cbs/01/cbs_0105   0   41       却    AD              (VP(ADVP*)  -    -   -   -   *             *         *             *         *         *             *    (ARGM-DIS*)            *   -
+bn/cbs/01/cbs_0105   0   42      复职    VV               (VP(VCD*   -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   43      担任    VV                      *)  -   01   -   -   *             *         *             *         *         *             *           (V*)            *   -
+bn/cbs/01/cbs_0105   0   44      法官    NN               (NP*)))))  -    -   -   -   *             *         *             *         *         *             *        (ARG1*)            *   -
+bn/cbs/01/cbs_0105   0   45       的   DEC                      *)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   46      奇怪    JJ                 (ADJP*)  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+bn/cbs/01/cbs_0105   0   47      现象    NN                  (NP*))  -    -   -   -   *             *    (ARG1*)            *         *    (ARG1*)            *             *             *)  -
+bn/cbs/01/cbs_0105   0   48      产生    VV                  (VP*))  -   01   3   -   *             *         *             *         *         *             *             *           (V*)  -
+bn/cbs/01/cbs_0105   0   49       。    PU                     *))  -    -   -   -   *             *         *             *         *         *             *             *             *   -
+
+bn/cbs/01/cbs_0105   0    0    因此    AD   (TOP(IP(ADVP*)  -    -   -   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0    1     要    VV         (IP(VP*   -   05   1   -   *          (V*)       *            *            *    -
+bn/cbs/01/cbs_0105   0    2    解决    VV            (VP*   -   01   -   -   *   (ARGM-ADV*      (V*)           *            *    -
+bn/cbs/01/cbs_0105   0    3    这些    DT         (NP(DP*)  -    -   -   -   *            *   (ARG1*            *            *    -
+bn/cbs/01/cbs_0105   0    4    司法    NN    (DNP(LCP(NP*)  -    -   -   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0    5     上    LC               *)  -    -   3   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0    6     的   DEG               *)  -    -   -   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0    7    弊端    NN        (NP*)))))  -    -   -   -   *            *)       *)           *            *    -
+bn/cbs/01/cbs_0105   0    8     ，    PU               *   -    -   -   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0    9    司改    NN            (NP*   -    -   -   -   *            *        *            *            *   (7
+bn/cbs/01/cbs_0105   0   10    团体    NN               *)  -    -   -   -   *            *        *            *            *    7)
+bn/cbs/01/cbs_0105   0   11    认为    VV            (VP*   -    -   1   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0   12     新    JJ    (IP(NP(ADJP*)  -    -   -   -   *            *        *       (ARG0*       (ARG0*    -
+bn/cbs/01/cbs_0105   0   13    政府    NN           (NP*))  -    -   -   -   *            *        *            *)           *)   -
+bn/cbs/01/cbs_0105   0   14    应该    VV            (VP*   -    -   -   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0   15     要    VV            (VP*   -   06   3   -   *            *        *          (V*)           *    -
+bn/cbs/01/cbs_0105   0   16     从     P         (VP(PP*   -    -   -   -   *            *        *   (ARGM-ADV*   (ARGM-ADV*    -
+bn/cbs/01/cbs_0105   0   17    根本    NN        (LCP(NP*)  -    -   1   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0   18     上    LC              *))  -    -   3   -   *            *        *            *            *)   -
+bn/cbs/01/cbs_0105   0   19     来   MSP            (VP*   -    -   7   -   *            *        *            *            *    -
+bn/cbs/01/cbs_0105   0   20    解决    VV            (VP*   -   01   -   -   *            *        *            *          (V*)   -
+bn/cbs/01/cbs_0105   0   21    问题    NN     (NP*))))))))  -    -   -   -   *            *        *            *)      (ARG1*)   -
+bn/cbs/01/cbs_0105   0   22     。    PU              *))  -    -   -   -   *            *        *            *            *    -
+
+bn/cbs/01/cbs_0105   0    0    除了     P          (TOP(IP(IP(PP*   -    -   -   -       *    (ARGM-ADV*    (ARGM-ADV*      *    (ARGM-ADV*    (ARGM-ADV*             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    1    制度    NN         (LCP(NP(DNP(NP*)  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    2     的   DEG                       *)  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    3    改变    NN                   (NP*))  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    4    之外    LC                      *))  -    -   -   -       *             *)            *)     *             *)            *)            *             *             *      *      -
+bn/cbs/01/cbs_0105   0    5     ，    PU                       *   -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    6     也    AD               (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)   (ARGM-ADV*)     *    (ARGM-DIS*)   (ARGM-ADV*)            *             *             *      *      -
+bn/cbs/01/cbs_0105   0    7     要    VV                    (VP*   -   06   3   -       *           (V*)            *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    8     从     P              (VP(VP(PP*   -    -   -   -       *    (ARGM-ADV*    (ARGM-DIR*      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0    9     人    NN             (NP(DNP(NP*)  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   10     的   DEG                       *)  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   11    方面    NN                  (NP*)))  -    -   -   -       *             *             *)     *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   12    着手    VV                   (VP*))  -   01   -   -       *             *           (V*)     *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   13    加速    VV                (VP(VSB*   -   01   -   -       *             *             *    (V*)            *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   14    建立    VV                       *)  -   01   -   -       *             *             *      *           (V*)            *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   15     《    PU                    (NP*)  -    -   -   -       *             *             *      *        (ARG1*)            *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   16    法官    NN                       *   -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   17     法    NN                       *   -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   18     》    PU                       *)  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   19    淘汰    VV                    (VP*   -   01   -   -       *             *             *      *             *           (V*)            *             *             *      *      -
+bn/cbs/01/cbs_0105   0   20     不    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -       *             *             *      *             *        (ARG1*             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   21    适任    VA                  (VP*)))  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   22     的   DEC                      *))  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   23    法官    NN              (NP*)))))))  -    -   -   -       *             *)            *      *             *             *)            *             *             *      *      -
+bn/cbs/01/cbs_0105   0   24     ，    PU                       *   -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   25    如此    AD            (IP(VP(ADVP*)  -    -   -   -       *             *             *      *             *             *    (ARGM-ADV*)   (ARGM-ADV*)            *      *      -
+bn/cbs/01/cbs_0105   0   26     才    AD                  (ADVP*)  -    -   -   -       *             *             *      *             *             *    (ARGM-ADV*)   (ARGM-ADV*)            *      *      -
+bn/cbs/01/cbs_0105   0   27     能    VV                    (VP*   -   01   1   -       *             *             *      *             *             *           (V*)            *             *      *      -
+bn/cbs/01/cbs_0105   0   28     使    VV                    (VP*   -   01   -   -       *             *             *      *             *             *    (ARGM-ADV*           (V*)            *      *      -
+bn/cbs/01/cbs_0105   0   29    台湾    NR             (NP(DNP(NP*)  -    -   -   -    (GPE)            *             *      *             *             *             *        (ARG1*             *      *    (18)
+bn/cbs/01/cbs_0105   0   30     的   DEG                       *)  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   31    司法    NN                    (NP*   -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+bn/cbs/01/cbs_0105   0   32    改革    NN                      *))  -    -   -   -       *             *             *      *             *             *             *             *)            *      *      -
+bn/cbs/01/cbs_0105   0   33     更    AD            (IP(VP(ADVP*)  -    -   -   -       *             *             *      *             *             *             *        (ARG2*    (ARGM-ADV*)     *      -
+bn/cbs/01/cbs_0105   0   34     趋    VV                    (VP*   -   01   -   -       *             *             *      *             *             *             *             *           (V*)     *      -
+bn/cbs/01/cbs_0105   0   35    完善    VA         (IP(VP*)))))))))  -   01   -   -       *             *             *      *             *             *             *)            *)       (ARG1*)   (V*)     -
+bn/cbs/01/cbs_0105   0   36     。    PU                      *))  -    -   -   -       *             *             *      *             *             *             *             *             *      *      -
+
+#end document

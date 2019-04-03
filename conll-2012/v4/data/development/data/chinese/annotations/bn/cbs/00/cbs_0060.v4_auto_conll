@@ -1,0 +1,86 @@
+#begin document (bn/cbs/00/cbs_0060); part 000
+bn/cbs/00/cbs_0060   0    0    根据     P        (TOP(IP(PP*    -   -   -   -   *         *    (ARGM-MNR*        *     -
+bn/cbs/00/cbs_0060   0    1    贷款    NN            (IP(NP*    -   -   -   -   *         *             *        *    (3
+bn/cbs/00/cbs_0060   0    2    银行    NN                  *)   -   -   -   -   *         *             *        *     3)
+bn/cbs/00/cbs_0060   0    3    表示    VV             (VP*)))   -   -   2   -   *         *             *)       *     -
+bn/cbs/00/cbs_0060   0    4     ，    PU                  *    -   -   -   -   *         *             *        *     -
+bn/cbs/00/cbs_0060   0    5    南韩    NR   (NP(CP(IP(NP(NP*)   -   -   -   -   *    (ARG0*        (ARG0*   (ARG0*    (2
+bn/cbs/00/cbs_0060   0    6    经营    NN              (NP*))   -   -   -   -   *         *)            *        *     -
+bn/cbs/00/cbs_0060   0    7    陷于    VV               (VP*    陷于  -   -   -   *       (V*)            *        *     -
+bn/cbs/00/cbs_0060   0    8    困境    NN             (NP*)))   -   -   -   -   *    (ARG1*)            *        *     -
+bn/cbs/00/cbs_0060   0    9     的   DEC                  *)   -   -   -   -   *         *             *        *     -
+bn/cbs/00/cbs_0060   0   10    大宇    NR               (NP*    -   -   -   -   *         *             *        *     -
+bn/cbs/00/cbs_0060   0   11    汽车    NN                  *    -   -   -   -   *         *             *        *     -
+bn/cbs/00/cbs_0060   0   12    公司    NN                 *))   -   -   1   -   *         *             *)       *)    2)
+bn/cbs/00/cbs_0060   0   13    ８号    NT            (VP(NP*)   -   -   -   -   *         *    (ARGM-TMP*)       *    (1)
+bn/cbs/00/cbs_0060   0   14    正式    AD             (ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)       *     -
+bn/cbs/00/cbs_0060   0   15    宣布    VV               (VP*    宣布  -   -   -   *         *           (V*)       *     -
+bn/cbs/00/cbs_0060   0   16    破产    VV         (IP(VP*))))   破产  -   -   -   *         *        (ARG1*)     (V*)   (0)
+bn/cbs/00/cbs_0060   0   17     。    PU                 *))   -   -   -   -   *         *             *        *     -
+
+bn/cbs/00/cbs_0060   0    0    大宇    NR  (TOP(IP(NP(DNP(NP*    -   -   -   -   *   (ARG0*             *        *   (2|(3|(4
+bn/cbs/00/cbs_0060   0    1    汽车    NN                   *)   -   -   -   -   *        *             *        *          2)
+bn/cbs/00/cbs_0060   0    2     的   DEG                   *)   -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0    3    主要    JJ              (ADJP*)   -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0    4    贷款    NN                (NP*    -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0    5    银行    NN                   *)   -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0    6    韩国    NR            (DNP(NP*    -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0    7    开发    NN                   *    -   -   1   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0    8    银行    NN                   *)   -   -   -   -   *        *             *        *          3)
+bn/cbs/00/cbs_0060   0    9     的   DEG                   *)   -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0   10    主管    NN               (NP*))   -   -   -   -   *        *)            *        *          4)
+bn/cbs/00/cbs_0060   0   11    指出    VV                (VP*    指出  -   -   -   *      (V*)            *        *          -
+bn/cbs/00/cbs_0060   0   12     ，    PU                   *    -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0   13    大宇    NR             (IP(NP*    -   -   -   -   *   (ARG1*        (ARG0*   (ARG0*         (2
+bn/cbs/00/cbs_0060   0   14    汽车    NN                   *    -   -   -   -   *        *             *        *          -
+bn/cbs/00/cbs_0060   0   15    公司    NN                   *)   -   -   1   -   *        *             *)       *)         2)
+bn/cbs/00/cbs_0060   0   16    ８号    NT             (VP(NP*)   -   -   -   -   *        *    (ARGM-TMP*)       *         (1)
+bn/cbs/00/cbs_0060   0   17    正式    AD              (ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)       *          -
+bn/cbs/00/cbs_0060   0   18    宣布    VV                (VP*    宣布  -   -   -   *        *           (V*)       *          -
+bn/cbs/00/cbs_0060   0   19    破产    VV        (IP(VP*))))))   破产  -   -   -   *        *)       (ARG1*)     (V*)        (0)
+bn/cbs/00/cbs_0060   0   20     。    PU                  *))   -   -   -   -   *        *             *        *          -
+
+bn/cbs/00/cbs_0060   0    0    大宇    NR      (TOP(IP(NP*)   -   -   -   -   *      *       (ARG0*)   (2)
+bn/cbs/00/cbs_0060   0    1     是    VC             (VP*     是  -   1   -   *    (V*)           *     -
+bn/cbs/00/cbs_0060   0    2     在     P          (VP(PP*    -   -   2   -   *      *   (ARGM-LOC*     -
+bn/cbs/00/cbs_0060   0    3    贷款    NN  (LCP(NP(DNP(NP*    -   -   -   -   *      *            *    (3
+bn/cbs/00/cbs_0060   0    4    银行    NN                *)   -   -   -   -   *      *            *     3)
+bn/cbs/00/cbs_0060   0    5     的   DEG                *)   -   -   -   -   *      *            *     -
+bn/cbs/00/cbs_0060   0    6     一    CD             (QP*    -   -   -   -   *      *            *     -
+bn/cbs/00/cbs_0060   0    7     项     M           (CLP*))   -   -   -   -   *      *            *     -
+bn/cbs/00/cbs_0060   0    8    会议    NN            (NP*))   -   -   -   -   *      *            *     -
+bn/cbs/00/cbs_0060   0    9     上    LC               *))   -   -   1   -   *      *            *)    -
+bn/cbs/00/cbs_0060   0   10    做出    VV             (VP*    做出  -   -   -   *      *          (V*)    -
+bn/cbs/00/cbs_0060   0   11     了    AS                *    -   -   -   -   *      *            *     -
+bn/cbs/00/cbs_0060   0   12     这    DT          (NP(DP*    -   -   -   -   *      *       (ARG1*     -
+bn/cbs/00/cbs_0060   0   13     项     M           (CLP*))   -   -   -   -   *      *            *     -
+bn/cbs/00/cbs_0060   0   14    决定    NN         (NP*)))))   -   -   -   -   *      *            *)    -
+bn/cbs/00/cbs_0060   0   15     。    PU               *))   -   -   -   -   *      *            *     -
+
+bn/cbs/00/cbs_0060   0    0       这    DT       (TOP(IP(NP(DP*    -   -   -   -   *   (ARG0*    (ARG0*             *            *             *             *      *    (4
+bn/cbs/00/cbs_0060   0    1       名     M               (CLP*))   -   -   -   -   *        *         *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0    2      主管    NN                (NP*))   -   -   -   -   *        *)        *)            *            *             *             *      *     4)
+bn/cbs/00/cbs_0060   0    3      指出    VV                 (VP*    指出  -   -   -   *      (V*)        *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0    4       ，    PU                    *    -   -   -   -   *        *         *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0    5      大宇    NR              (IP(NP*)   -   -   -   -   *   (ARG1*    (ARG0*)            *            *             *             *      *    (2)
+bn/cbs/00/cbs_0060   0    6       是    VC                 (VP*     是  -   2   -   *        *       (V*)            *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0    7      因为     P                 (PP*    -   -   -   -   *        *    (ARG1*             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0    8      无法    AD      (IP(VP(VP(ADVP*)   -   -   -   -   *        *         *    (ARGM-ADV*)           *             *             *      *     -
+bn/cbs/00/cbs_0060   0    9      偿付    VV                 (VP*    偿付  -   -   -   *        *         *           (V*)           *             *             *      *     -
+bn/cbs/00/cbs_0060   0   10    ４４５亿    CD              (NP(QP*)   -   -   -   -   *        *         *        (ARG1*            *             *             *      *     -
+bn/cbs/00/cbs_0060   0   11      韩元    NN              (NP*))))   -   -   -   -   *        *         *             *)           *             *             *      *     -
+bn/cbs/00/cbs_0060   0   12       ，    PU                    *    -   -   -   -   *        *         *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0   13      折合    VV              (VP(VP*    折合  -   -   -   *        *         *             *          (V*)            *             *      *     -
+bn/cbs/00/cbs_0060   0   14      大约    AD                (FLR*    -   -   -   -   *        *         *             *   (ARGM-ADV*    (ARGM-ADV*)            *      *     -
+bn/cbs/00/cbs_0060   0   15       是    VC                    *)    是  -   1   -   *        *         *             *            *)          (V*)            *      *     -
+bn/cbs/00/cbs_0060   0   16    ３９０万    CD          (NP(DNP(QP*    -   -   -   -   *        *         *             *       (ARG1*             *             *      *     -
+bn/cbs/00/cbs_0060   0   17      美元     M               (CLP*))   -   -   -   -   *        *         *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0   18       的   DEG                    *)   -   -   -   -   *        *         *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0   19      贷款    NN               (NP*)))   -   -   -   -   *        *         *             *            *)            *             *      *     -
+bn/cbs/00/cbs_0060   0   20       而   MSP                 (VP*    -   -   -   -   *        *         *             *            *             *             *      *     -
+bn/cbs/00/cbs_0060   0   21      被迫    AD            (VP(ADVP*)   -   -   -   -   *        *         *             *            *             *    (ARGM-ADV*)     *     -
+bn/cbs/00/cbs_0060   0   22      宣布    VV                 (VP*    宣布  -   -   -   *        *         *             *            *             *           (V*)     *     -
+bn/cbs/00/cbs_0060   0   23      破产    VV   (IP(VP*))))))))))))   破产  -   -   -   *        *)        *)            *            *             *        (ARG1*)   (V*)   (0)
+bn/cbs/00/cbs_0060   0   24       。    PU                   *))   -   -   -   -   *        *         *             *            *             *             *      *     -
+
+#end document

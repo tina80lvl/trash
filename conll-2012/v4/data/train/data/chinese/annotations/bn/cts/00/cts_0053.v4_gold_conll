@@ -1,0 +1,184 @@
+#begin document (bn/cts/00/cts_0053); part 000
+bn/cts/00/cts_0053   0    0     基隆    NR         (TOP(IP(IP(NP*)  -    -   -   -         (GPE)      (ARG0*)           *         *       (4)
+bn/cts/00/cts_0053   0    1      有    VE                   (VP*   -   05   4   -            *          (V*)           *         *        -
+bn/cts/00/cts_0053   0    2      一    CD             (IP(NP(QP*)  -    -   -   -    (CARDINAL)  (ARGM-ADV*       (ARG0*         *       (2
+bn/cts/00/cts_0053   0    3     渔船    NN                  (NP*))  -    -   -   -            *            *            *)        *        2)
+bn/cts/00/cts_0053   0    4     昨天    NT                (VP(NP*   -    -   -   -        (DATE)           *   (ARGM-TMP*         *       (5
+bn/cts/00/cts_0053   0    5     晚上    NT                      *)  -    -   -   -        (TIME)           *            *)        *        5)
+bn/cts/00/cts_0053   0    6      在     P                   (PP*   -    -   2   -            *            *   (ARGM-LOC*         *        -
+bn/cts/00/cts_0053   0    7     基隆    NR            (NP(DNP(NP*)  -    -   -   -         (GPE)           *            *         *    (1|(4)
+bn/cts/00/cts_0053   0    8      的   DEG                      *)  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0    9     外海    NN                 (NP*)))  -    -   -   -            *            *            *)        *        1)
+bn/cts/00/cts_0053   0   10     爆炸    VV               (VP*)))))  -   01   -   -            *            *)         (V*)        *        -
+bn/cts/00/cts_0053   0   11      ，    PU                      *   -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   12     经过     P                (IP(PP*   -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   13    海巡署    NN                (NP(NP*)  -    -   -   -         (ORG)           *            *         *       (3)
+bn/cts/00/cts_0053   0   14     紧急    JJ             (DNP(ADJP*)  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   15      的   DEG                      *)  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   16     抢救    NN                 (NP*)))  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   17      ，    PU                      *   -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   18      才    AD              (VP(ADVP*)  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   19     紧急    AD                 (ADVP*)  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   20      把    BA                   (VP*   -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   21     受伤    VV   (IP(NP(CP(CP(IP(VP*))  -   01   -   -            *            *            *       (V*)      (6
+bn/cts/00/cts_0053   0   22      的   DEC                     *))  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   23      ４    CD                   (QP*   -    -   -   -    (CARDINAL)           *            *         *        -
+bn/cts/00/cts_0053   0   24      名     M                 (CLP*))  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   25     船员    NN                  (NP*))  -    -   -   -            *            *            *    (ARG0*)       6)
+bn/cts/00/cts_0053   0   26     送医    VV               (VP(VSB*   -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   27     急治    VV                 *))))))  -    -   -   -            *            *            *         *        -
+bn/cts/00/cts_0053   0   28      。    PU                     *))  -    -   -   -            *            *            *         *        -
+
+bn/cts/00/cts_0053   0    0     基隆    NR      (TOP(IP(IP(NP(NP*)  -    -   -   -            (GPE)     *            *             *        (ARG0*             *         *             *      *             *         *             *             *    (2|(4)
+bn/cts/00/cts_0053   0    1    兴万昌    NR                   (NP*   -    -   -   -    (WORK_OF_ART)     *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0    2     渔船    NN                     *))  -    -   -   -               *      *            *             *             *)            *         *             *      *             *         *             *             *        2)
+bn/cts/00/cts_0053   0    3     昨天    NT      (VP(LCP(IP(VP(NP*   -    -   -   -           (DATE)     *   (ARGM-TMP*             *    (ARGM-TMP*             *         *             *      *             *         *             *             *       (5
+bn/cts/00/cts_0053   0    4     晚上    NT                      *)  -    -   -   -           (TIME)     *            *)            *             *             *         *             *      *             *         *             *             *        5)
+bn/cts/00/cts_0053   0    5     出海    VV               (VP(VSB*   -   01   -   -               *    (V*)           *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0    6     作业    VV                   *))))  -   01   -   -               *      *          (V*)            *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0    7      时    LC                      *)  -    -   -   -               *      *            *             *             *)            *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0    8     突然    AD                 (ADVP*)  -    -   -   -               *      *            *             *    (ARGM-ADV*)            *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0    9      在     P                   (PP*   -    -   2   -               *      *            *             *    (ARGM-LOC*             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   10     基隆    NR                (NP(NP*)  -    -   -   -            (GPE)     *            *             *             *             *         *             *      *             *         *             *             *    (1|(4)
+bn/cts/00/cts_0053   0   11     外海    NN                 (NP*)))  -    -   -   -               *      *            *             *             *)            *         *             *      *             *         *             *             *        1)
+bn/cts/00/cts_0053   0   12     因为     P                   (PP*   -    -   -   -               *      *            *             *    (ARGM-PRP*             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   13    冷动机    NN                (IP(NP*)  -    -   -   -               *      *            *        (ARG1*)            *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   14     突然    AD              (VP(ADVP*)  -    -   -   -               *      *            *    (ARGM-ADV*)            *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   15     发生    VV                   (VP*   -   01   1   -               *      *            *           (V*)            *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   16     故障    NN               (NP*)))))  -    -   -   -               *      *            *        (ARG0*)            *)            *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   17      而   MSP                   (VP*   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   18     罹难    VV                (VP*))))  -   01   -   -               *      *            *             *           (V*)            *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   19      ，    PU                      *   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   20     结果    AD              (IP(ADVP*)  -    -   -   -               *      *            *             *             *    (ARGM-ADV*)        *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   21     造成    VV                   (VP*   -   01   -   -               *      *            *             *             *           (V*)        *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   22      １    CD       (IP(IP(NP(NP(QP*   -    -   -   -       (CARDINAL)     *            *             *             *        (ARG1*    (ARG0*             *      *             *         *             *             *       (6
+bn/cts/00/cts_0053   0   23      名     M                 (CLP*))  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   24     台籍    NN                   (NP*   -    -   -   -           (NORP)     *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   25    轮机长    NN                     *))  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   26      和    CC                      *   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   27      ３    CD                (NP(QP*   -    -   -   -       (CARDINAL)     *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   28      位     M                 (CLP*))  -    -   2   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   29     大陆    NN                   (NP*   -    -   -   -            (GPE)     *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   30     渔工    NN                    *)))  -    -   -   -               *      *            *             *             *             *         *)            *      *             *         *             *             *        6)
+bn/cts/00/cts_0053   0   31     眼睛    NN                   (NP*)  -    -   -   -               *      *            *             *             *             *    (ARG0*)            *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   32     受伤    VV                  (VP*))  -   01   -   -               *      *            *             *             *             *       (V*)            *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   33      ，    PU                      *   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   34      还    AD           (IP(VP(ADVP*)  -    -   -   -               *      *            *             *             *             *         *    (ARGM-DIS*)     *             *         *             *             *        -
+bn/cts/00/cts_0053   0   35     合并    VV               (VP(VSB*   -   01   -   -               *      *            *             *             *             *         *           (V*)     *             *         *             *             *        -
+bn/cts/00/cts_0053   0   36      有    VE                      *)  -   03   3   -               *      *            *             *             *             *         *             *    (V*)            *         *             *             *        -
+bn/cts/00/cts_0053   0   37     呕吐    NN                   (NP*   -    -   -   -               *      *            *             *             *             *         *        (ARG1*      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   38     现象    NN                *)))))))  -    -   -   -               *      *            *             *             *             *)        *             *)     *             *         *             *             *        -
+bn/cts/00/cts_0053   0   39      ，    PU                      *   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   40     不过    AD              (IP(ADVP*)  -    -   -   -               *      *            *             *             *             *         *             *      *    (ARGM-DIS*)        *             *             *        -
+bn/cts/00/cts_0053   0   41     当时    NT                   (NP*)  -    -   -   -               *      *            *             *             *             *         *             *      *    (ARGM-TMP*)        *             *             *       (0)
+bn/cts/00/cts_0053   0   42     渔船    NN                   (NP*)  -    -   -   -               *      *            *             *             *             *         *             *      *        (ARG0*)        *             *             *       (2)
+bn/cts/00/cts_0053   0   43     已经    AD              (VP(ADVP*)  -    -   -   -               *      *            *             *             *             *         *             *      *    (ARGM-ADV*)        *             *             *        -
+bn/cts/00/cts_0053   0   44     失去    VV                   (VP*   -   01   -   -               *      *            *             *             *             *         *             *      *           (V*)        *             *             *        -
+bn/cts/00/cts_0053   0   45      了    AS                      *   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   46     动力    NN                (NP*))))  -    -   -   -               *      *            *             *             *             *         *             *      *        (ARG1*)        *             *             *        -
+bn/cts/00/cts_0053   0   47      ，    PU                      *   -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   48     受伤    VV   (IP(NP(CP(CP(IP(VP*))  -   01   -   -               *      *            *             *             *             *         *             *      *             *       (V*)       (ARG0*        (ARG0*       (6
+bn/cts/00/cts_0053   0   49      的   DEC                     *))  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+bn/cts/00/cts_0053   0   50     人员    NN                  (NP*))  -    -   -   -               *      *            *             *             *             *         *             *      *             *    (ARG0*)            *)            *)       6)
+bn/cts/00/cts_0053   0   51      只    AD              (VP(ADVP*)  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *    (ARGM-ADV*)   (ARGM-ADV*)       -
+bn/cts/00/cts_0053   0   52      能    VV                   (VP*   -   01   1   -               *      *            *             *             *             *         *             *      *             *         *           (V*)            *        -
+bn/cts/00/cts_0053   0   53      在     P                (VP(PP*   -    -   2   -               *      *            *             *             *             *         *             *      *             *         *    (ARGM-ADV*    (ARGM-LOC*        -
+bn/cts/00/cts_0053   0   54     渔船    NN               (LCP(NP*)  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *       (2)
+bn/cts/00/cts_0053   0   55      上    LC                     *))  -    -   1   -               *      *            *             *             *             *         *             *      *             *         *             *             *)       -
+bn/cts/00/cts_0053   0   56     等待    VV                   (VP*   -   01   -   -               *      *            *             *             *             *         *             *      *             *         *             *           (V*)       -
+bn/cts/00/cts_0053   0   57     救援    NN              (NP*))))))  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *)       (ARG1*)       -
+bn/cts/00/cts_0053   0   58      。    PU                     *))  -    -   -   -               *      *            *             *             *             *         *             *      *             *         *             *             *        -
+
+bn/cts/00/cts_0053   0    0      而   AD   (TOP(IP(ADVP*)  -    -   -   -            *        *    (ARGM-DIS*)     *    (ARGM-DIS*)    -
+bn/cts/00/cts_0053   0    1    海巡署   NN            (NP*)  -    -   -   -         (ORG)       *        (ARG0*)     *        (ARG0*)   (3)
+bn/cts/00/cts_0053   0    2      在    P         (VP(PP*   -    -   2   -            *        *    (ARGM-TMP*      *    (ARGM-TMP*     -
+bn/cts/00/cts_0053   0    3     接获   VV     (LCP(IP(VP*   -   01   -   -            *      (V*)            *      *             *     -
+bn/cts/00/cts_0053   0    4      了   AS               *   -    -   -   -            *        *             *      *             *     -
+bn/cts/00/cts_0053   0    5     求助   NN            (NP*   -    -   -   -            *   (ARG1*             *      *             *     -
+bn/cts/00/cts_0053   0    6     信号   NN             *)))  -    -   -   -            *        *)            *      *             *     -
+bn/cts/00/cts_0053   0    7     之后   LC              *))  -    -   -   -            *        *             *)     *             *)    -
+bn/cts/00/cts_0053   0    8      ，   PU               *   -    -   -   -            *        *             *      *             *     -
+bn/cts/00/cts_0053   0    9      也   AD          (ADVP*)  -    -   -   -            *        *    (ARGM-DIS*)     *    (ARGM-ADV*)    -
+bn/cts/00/cts_0053   0   10     立即   AD          (ADVP*)  -    -   -   -            *        *    (ARGM-ADV*)     *    (ARGM-ADV*)    -
+bn/cts/00/cts_0053   0   11     出动   VV         (VP(VP*   -   01   -   -            *        *           (V*)     *             *     -
+bn/cts/00/cts_0053   0   12      了   AS               *   -    -   -   -            *        *             *      *             *     -
+bn/cts/00/cts_0053   0   13      ３   CD         (NP(QP*   -    -   -   -    (CARDINAL)       *        (ARG1*      *             *     -
+bn/cts/00/cts_0053   0   14      艘    M          (CLP*))  -    -   -   -            *        *             *      *             *     -
+bn/cts/00/cts_0053   0   15    巡逻艇   NN          (NP*)))  -    -   -   -            *        *             *)     *             *     -
+bn/cts/00/cts_0053   0   16     前往   VV        (VP(VSB*   -   01   -   -            *        *             *    (V*)            *     -
+bn/cts/00/cts_0053   0   17     抢救   VV            *))))  -   01   -   -            *        *             *      *           (V*)    -
+bn/cts/00/cts_0053   0   18      。   PU              *))  -    -   -   -            *        *             *      *             *     -
+
+bn/cts/00/cts_0053   0    0      不过   AD   (TOP(IP(ADVP*)  -    -   -   -       *             *      *     -
+bn/cts/00/cts_0053   0    1      因为    P            (PP*   -    -   -   -       *             *      *     -
+bn/cts/00/cts_0053   0    2      当时   NT         (IP(NP*)  -    -   1   -       *    (ARGM-TMP*)     *    (0)
+bn/cts/00/cts_0053   0    3      海上   NN            (NP*)  -    -   -   -       *    (ARGM-LOC*)     *     -
+bn/cts/00/cts_0053   0    4      风浪   NN            (NP*)  -    -   -   -       *        (ARG0*)     *     -
+bn/cts/00/cts_0053   0    5       很   AD       (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)     *     -
+bn/cts/00/cts_0053   0    6       大   VA         (VP*))))  -   01   -   -       *           (V*)     *     -
+bn/cts/00/cts_0053   0    7       ，   PU               *   -    -   -   -       *             *      *     -
+bn/cts/00/cts_0053   0    8     海巡署   NN            (NP*)  -    -   -   -    (ORG)            *      *    (3)
+bn/cts/00/cts_0053   0    9       是   VC            (VP*   -   01   2   -       *             *    (V*)    -
+bn/cts/00/cts_0053   0   10    无功而返   VV           (VP*))  -    -   -   -       *             *      *     -
+bn/cts/00/cts_0053   0   11       。   PU              *))  -    -   -   -       *             *      *     -
+
+bn/cts/00/cts_0053   0    0     最后    AD   (TOP(IP(IP(ADVP*)  -    -   -   -            *      *    (ARGM-ADV*)     *    (ARGM-TMP*)     *      *             *             *     -
+bn/cts/00/cts_0053   0    1      是    VC               (VP*   -   01   1   -            *    (V*)            *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    2      由     P         (VP(VP(PP*   -    -   -   -            *      *        (ARG0*      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    3     国军    NN               (NP*   -    -   -   -        (ORG*      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    4     搜救    NN                  *   -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    5     中心    NN                 *))  -    -   -   -            *)     *             *)     *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    6     出动    VV               (VP*   -   01   -   -            *      *           (V*)     *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    7      了    AS                  *   -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    8      一    CD            (NP(QP*   -    -   -   -    (CARDINAL)     *        (ARG1*      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0    9      架     M             (CLP*))  -    -   2   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   10    直升机    NN            (NP*))))  -    -   -   -            *      *             *)     *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   11      ，    PU                  *   -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   12      才    AD          (VP(ADVP*)  -    -   -   -            *      *             *      *    (ARGM-ADV*)     *      *             *             *     -
+bn/cts/00/cts_0053   0   13     顺利    VA           (DVP(VP*)  -   01   -   -            *      *             *    (V*)   (ARGM-ADV*      *      *             *             *     -
+bn/cts/00/cts_0053   0   14      的   DEV                  *)  -    -   -   -            *      *             *      *             *)     *      *             *             *     -
+bn/cts/00/cts_0053   0   15      将    BA               (VP*   -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   16      这    DT         (IP(NP(DP*   -    -   -   -            *      *             *      *             *      *      *             *             *    (6
+bn/cts/00/cts_0053   0   17      ４    CD               (QP*   -    -   -   -    (CARDINAL)     *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   18      名     M            (CLP*)))  -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   19     船员    NN              (NP*))  -    -   -   -            *      *             *      *             *      *      *             *             *     6)
+bn/cts/00/cts_0053   0   20     运送    VV        (VP(VP(VRD*   -   01   -   -            *      *             *      *           (V*)     *      *             *             *     -
+bn/cts/00/cts_0053   0   21      到    VV                  *)  -   01   2   -            *      *             *      *             *    (V*)     *             *             *     -
+bn/cts/00/cts_0053   0   22    台北市    NR        (NP(DNP(NP*)  -    -   -   -        (ORG*      *             *      *        (ARG2*      *      *             *             *    (7
+bn/cts/00/cts_0053   0   23      的   DEG                  *)  -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   24     空军    NN               (NP*   -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   25     医院    NN                *)))  -    -   -   -            *)     *             *      *             *)     *      *             *             *     7)
+bn/cts/00/cts_0053   0   26     医治    VV        (VP*))))))))  -   01   -   -            *      *             *      *             *      *    (V*)            *             *     -
+bn/cts/00/cts_0053   0   27      ，    PU                  *   -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   28     目前    NT            (IP(NP*)  -    -   -   -            *      *             *      *             *      *      *    (ARGM-TMP*)            *     -
+bn/cts/00/cts_0053   0   29      这    DT            (NP(DP*   -    -   -   -            *      *             *      *             *      *      *        (ARG0*             *    (6
+bn/cts/00/cts_0053   0   30      ４    CD               (QP*   -    -   -   -    (CARDINAL)     *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   31      名     M            (CLP*)))  -    -   -   -            *      *             *      *             *      *      *             *             *     -
+bn/cts/00/cts_0053   0   32     船员    NN              (NP*))  -    -   -   -            *      *             *      *             *      *      *             *)            *     6)
+bn/cts/00/cts_0053   0   33      都    AD          (VP(ADVP*)  -    -   -   -            *      *             *      *             *      *      *    (ARGM-ADV*)            *     -
+bn/cts/00/cts_0053   0   34      在    VV               (VP*   -   01   2   -            *      *             *      *             *      *      *           (V*)            *     -
+bn/cts/00/cts_0053   0   35     医院    NN        (LCP(IP(NP*)  -    -   -   -            *      *             *      *             *      *      *        (ARG1*    (ARGM-LOC*)   (7)
+bn/cts/00/cts_0053   0   36     观察    VV              (VP*))  -   01   -   -            *      *             *      *             *      *      *             *           (V*)    -
+bn/cts/00/cts_0053   0   37     当中    LC               *))))  -    -   -   -            *      *             *      *             *      *      *             *)            *     -
+bn/cts/00/cts_0053   0   38      。    PU                 *))  -    -   -   -            *      *             *      *             *      *      *             *             *     -
+
+bn/cts/00/cts_0053   0    0      而    AD     (TOP(IP(ADVP*)  -    -   -   -               *        *    (ARGM-DIS*)   (ARGM-DIS*)     *     -
+bn/cts/00/cts_0053   0    1      有    VE  (NP(CP(CP(IP(VP*   -   03   1   -               *      (V*)       (ARG0*        (ARG0*      *    (2
+bn/cts/00/cts_0053   0    2     机械    NN              (NP*   -    -   -   -               *   (ARG1*             *             *      *     -
+bn/cts/00/cts_0053   0    3     故障    NN               *)))  -    -   -   -               *        *)            *             *      *     -
+bn/cts/00/cts_0053   0    4      的   DEC                *))  -    -   -   -               *        *             *             *      *     -
+bn/cts/00/cts_0053   0    5    兴万昌    NR              (NP*   -    -   -   -    (WORK_OF_ART)       *             *             *      *     -
+bn/cts/00/cts_0053   0    6     渔船    NN                *))  -    -   -   -               *        *             *)            *)     *     2)
+bn/cts/00/cts_0053   0    7      也    AD      (VP(VP(ADVP*)  -    -   -   -               *        *    (ARGM-ADV*)            *      *     -
+bn/cts/00/cts_0053   0    8      在     P              (PP*   -    -   2   -               *        *    (ARGM-TMP*             *      *     -
+bn/cts/00/cts_0053   0    9     今天    NT             (NP*))  -    -   -   -           (DATE)       *             *)            *      *     -
+bn/cts/00/cts_0053   0   10     回到    VV              (VP*   -   01   -   -               *        *           (V*)            *      *     -
+bn/cts/00/cts_0053   0   11      了    AS                 *   -    -   -   -               *        *             *             *      *     -
+bn/cts/00/cts_0053   0   12    基隆镇    NR       (NP(DNP(NP*)  -    -   -   -            (GPE)       *        (ARG1*             *      *    (4)
+bn/cts/00/cts_0053   0   13      的   DEG                 *)  -    -   -   -               *        *             *             *      *     -
+bn/cts/00/cts_0053   0   14     渔港    NN           (NP*))))  -    -   -   -               *        *             *)            *      *     -
+bn/cts/00/cts_0053   0   15     准备    VV              (VP*   -   02   2   -               *        *             *           (V*)     *     -
+bn/cts/00/cts_0053   0   16     修复    VV        (IP(VP*))))  -   01   -   -               *        *             *        (ARG1*)   (V*)    -
+bn/cts/00/cts_0053   0   17      。    PU                *))  -    -   -   -               *        *             *             *      *     -
+
+#end document

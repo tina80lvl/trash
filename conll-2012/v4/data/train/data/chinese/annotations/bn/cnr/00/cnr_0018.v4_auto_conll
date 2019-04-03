@@ -1,0 +1,59 @@
+#begin document (bn/cnr/00/cnr_0018); part 000
+bn/cnr/00/cnr_0018   0    0      美国    NR   (TOP(IP(NP(NP(NP*)   -   -   -   -   *         *    (1|(2)
+bn/cnr/00/cnr_0018   0    1      总统    NN               (NP*))   -   -   -   -   *         *        -
+bn/cnr/00/cnr_0018   0    2     克林顿    NR               (NP*))   -   -   -   -   *         *        1)
+bn/cnr/00/cnr_0018   0    3      昨天    NT             (VP(NP*)   -   -   1   -   *         *        -
+bn/cnr/00/cnr_0018   0    4      宣布    VV                (VP*    -   -   -   -   *         *        -
+bn/cnr/00/cnr_0018   0    5       ；    PU                   *    -   -   -   -   *         *        -
+bn/cnr/00/cnr_0018   0    6      美国    NR             (IP(NP*)   -   -   -   -   *    (ARG0*)      (2)
+bn/cnr/00/cnr_0018   0    7      取消    VV                (VP*    取消  -   -   -   *       (V*)       -
+bn/cnr/00/cnr_0018   0    8       对     P         (NP(DNP(PP*    -   -   3   -   *    (ARG1*        -
+bn/cnr/00/cnr_0018   0    9    南斯拉夫    NR               (NP*))   -   -   -   -   *         *       (0)
+bn/cnr/00/cnr_0018   0   10       的   DEG                   *)   -   -   -   -   *         *        -
+bn/cnr/00/cnr_0018   0   11      贸易    NN                (NP*    -   -   1   -   *         *        -
+bn/cnr/00/cnr_0018   0   12       和    CC                   *    -   -   -   -   *         *        -
+bn/cnr/00/cnr_0018   0   13      经济    NN                   *    -   -   2   -   *         *        -
+bn/cnr/00/cnr_0018   0   14      制裁    NN              *))))))   -   -   -   -   *         *)       -
+bn/cnr/00/cnr_0018   0   15       。    PU                  *))   -   -   -   -   *         *        -
+
+bn/cnr/00/cnr_0018   0    0     克林顿    NR     (TOP(IP(NP*)   -   -   -   -   *       (ARG0*)       (ARG0*)            *        (ARG0*)       *    (1)
+bn/cnr/00/cnr_0018   0    1       在     P         (VP(PP*    -   -   2   -   *   (ARGM-LOC*             *             *             *        *     -
+bn/cnr/00/cnr_0018   0    2       一    CD     (LCP(NP(QP*    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0    3       份     M          (CLP*))   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0    4      声明    NN           (NP*))   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0    5       中    LC              *))   -   -   -   -   *            *)            *             *             *        *     -
+bn/cnr/00/cnr_0018   0    6       说    VV            (VP*     说  -   8   -   *          (V*)            *             *             *        *     -
+bn/cnr/00/cnr_0018   0    7       ，    PU               *    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0    8       他    PN         (IP(NP*)   -   -   -   -   *       (ARG1*        (ARG0*)            *        (ARG0*)       *    (1)
+bn/cnr/00/cnr_0018   0    9      已经    AD    (VP(VP(ADVP*)   -   -   -   -   *            *    (ARGM-ADV*)            *             *        *     -
+bn/cnr/00/cnr_0018   0   10      下令    VV            (VP*    下令  -   -   -   *            *           (V*)            *             *        *     -
+bn/cnr/00/cnr_0018   0   11      立即    AD    (IP(VP(ADVP*)   -   -   -   -   *            *        (ARG1*    (ARGM-ADV*)            *        *     -
+bn/cnr/00/cnr_0018   0   12      解除    VV            (VP*    解除  -   -   -   *            *             *           (V*)            *        *     -
+bn/cnr/00/cnr_0018   0   13       对     P  (NP(NP(DNP(PP*    -   -   3   -   *            *             *        (ARG1*             *        *     -
+bn/cnr/00/cnr_0018   0   14    南斯拉夫    NR           (NP*))   -   -   -   -   *            *             *             *             *        *    (0)
+bn/cnr/00/cnr_0018   0   15       的   DEG               *)   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   16      石油    NN         (NP(NP*    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   17      禁运    NN               *)   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   18       和    CC               *    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   19      航班    NN            (NP*    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   20      禁飞    NN             *)))   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   21       两    CD            (QP*    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   22       项     M          (CLP*))   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   23      制裁    NN      (NP*)))))))   -   -   -   -   *            *             *)            *)            *        *     -
+bn/cnr/00/cnr_0018   0   24       ，    PU               *    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   25       并    CC               *    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   26       将    AD       (VP(ADVP*)   -   -   -   -   *            *             *             *    (ARGM-ADV*)       *     -
+bn/cnr/00/cnr_0018   0   27      考虑    VV            (VP*    考虑  -   -   -   *            *             *             *           (V*)       *     -
+bn/cnr/00/cnr_0018   0   28      取消    VV         (IP(VP*    取消  -   -   -   *            *             *             *        (ARG1*      (V*)    -
+bn/cnr/00/cnr_0018   0   29       在     P     (NP(DNP(PP*    -   -   2   -   *            *             *             *             *   (ARG1*     -
+bn/cnr/00/cnr_0018   0   30      国际    NN            (NP*    -   -   1   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   31      借贷    NN               *    -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   32      方面    NN              *))   -   -   1   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   33       的   DEG               *)   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   34       对     P        (DNP(PP*    -   -   3   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   35    南斯拉夫    NR           (NP*))   -   -   -   -   *            *             *             *             *        *    (0)
+bn/cnr/00/cnr_0018   0   36       的   DEG               *)   -   -   -   -   *            *             *             *             *        *     -
+bn/cnr/00/cnr_0018   0   37      限制    NN   (NP*))))))))))   -   -   3   -   *            *)            *             *             *)       *)    -
+bn/cnr/00/cnr_0018   0   38       。    PU              *))   -   -   -   -   *            *             *             *             *        *     -
+
+#end document

@@ -1,0 +1,101 @@
+#begin document (bn/vom/03/vom_0308); part 000
+bn/vom/03/vom_0308   0    0     中国    NR   (TOP(IP(NP(NP(NP(DNP(NP(NP(NP*)   -   -   -   -   *   (ARG0*   (ARG0*        (ARG0*   (0|(3
+bn/vom/03/vom_0308   0    1     厦门    NR                             (NP*    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    2     腐败    NN                                *    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    3      和    CC                                *    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    4     走私    NN                             (NP*    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    5     大案    NN                              *)))   -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    6      “    PU                             (NP*    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    7    远华案    NN                                *    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    8      ”    PU                               *))   -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0    9      的   DEG                                *)   -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   10     主要    JJ                           (ADJP*)   -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   11     犯罪    NN                             (NP*    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   12    嫌疑人    NN                               *))   -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   13    赖昌兴    NR                            (NP*))   -   -   -   -   *        *        *             *       0)
+bn/vom/03/vom_0308   0   14      在     P                         (DNP(PP*    -   -   2   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   15    加拿大    NR                            (NP*))   -   -   -   -   *        *        *             *      (1)
+bn/vom/03/vom_0308   0   16      的   DEG                                *)   -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   17     律师    NN                            (NP*))   -   -   -   -   *        *)       *)            *)      3)
+bn/vom/03/vom_0308   0   18      ，    PU                                *    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   19     要求    VV                          (VP(VP*    -   -   1   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   20      对     P                       (IP(VP(PP*    -   -   3   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   21    赖昌兴    NR                             (NP*    -   -   -   -   *        *        *             *      (2
+bn/vom/03/vom_0308   0   22     夫妇    NN                               *))   -   -   -   -   *        *        *             *       2)
+bn/vom/03/vom_0308   0   23     进行    VV                             (VP*    进行  -   3   -   *      (V*)       *             *       -
+bn/vom/03/vom_0308   0   24     特别    JJ                        (NP(ADJP*)   -   -   -   -   *   (ARG1*        *             *       -
+bn/vom/03/vom_0308   0   25     软禁    NN                        (NP*))))))   -   -   -   -   *        *)       *             *       -
+bn/vom/03/vom_0308   0   26      而    CC                                *    -   -   -   -   *        *        *             *       -
+bn/vom/03/vom_0308   0   27      不    AD                        (VP(ADVP*)   -   -   -   -   *        *        *    (ARGM-ADV*)      -
+bn/vom/03/vom_0308   0   28      要    VV                             (VP*     要  -   3   -   *        *      (V*)            *       -
+bn/vom/03/vom_0308   0   29     保释    VV                          (VP*))))   保释  -   -   -   *        *        *           (V*)      -
+bn/vom/03/vom_0308   0   30      。    PU                               *))   -   -   -   -   *        *        *             *       -
+
+bn/vom/03/vom_0308   0    0     要求    VV       (TOP(IP(IP(VP*    要求  -   1   -   *       (V*)       *         *    (ARGM-ADV*        (ARG0*             *      *         *         *      *       -
+bn/vom/03/vom_0308   0    1     软禁    NN                 (NP*)   -   -   -   -   *    (ARG1*)       *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0    2     说明    VV              (IP(VP*    说明  -   1   -   *    (ARG2*      (V*)        *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0    3    赖昌兴    NR       (IP(NP(DNP(NP*    -   -   -   -   *         *   (ARG1*    (ARG0*             *             *             *      *         *         *      *   (2|(3
+bn/vom/03/vom_0308   0    4     夫妇    NN                    *)   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       2)
+bn/vom/03/vom_0308   0    5      的   DEG                    *)   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0    6     律师    NN                (NP*))   -   -   -   -   *         *        *         *)            *             *             *      *         *         *      *       3)
+bn/vom/03/vom_0308   0    7     改变    VV                 (VP*    改变  -   -   -   *         *        *       (V*)            *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0    8      了    AS                    *    -   -   -   -   *         *        *    (ARG1*)            *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0    9     策略    NN           (NP*)))))))   -   -   -   -   *         *)       *)   (ARG1*)            *)            *)            *      *         *         *      *       -
+bn/vom/03/vom_0308   0   10      ，    PU                    *    -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   11      将    AD            (VP(ADVP*)   -   -   -   -   *         *        *         *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)     *         *         *      *       -
+bn/vom/03/vom_0308   0   12      在     P           (VP(VP(PP*    -   -   2   -   *         *        *         *        (ARG1*             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   13     严密    JJ        (LCP(NP(ADJP*)   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   14     监护    NN                (NP*))   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   15      下    LC                   *))   -   -   1   -   *         *        *         *             *)            *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   16      ，    PU                    *    -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   17      住    VV                 (VP*     住  -   1   -   *         *        *         *           (V*)            *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   18      在     P                 (PP*    -   -   2   -   *         *        *         *        (ARG1*             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   19     他们    PN   (LCP(NP(DNP(NP(NP*)   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *      (2)
+bn/vom/03/vom_0308   0   20    温哥华    NR                (NP*))   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   21      的   DEG                    *)   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   22      家    NN                (NP*))   -   -   1   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   23      里    LC                 *))))   -   -   -   -   *         *        *         *             *)            *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   24      ，    PU                    *    -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   25     等候    VV                 (VP*    等候  -   -   -   *         *        *         *             *           (V*)            *      *         *         *      *       -
+bn/vom/03/vom_0308   0   26    加拿大    NR           (IP(NP(NP*)   -   -   -   -   *         *        *         *             *        (ARG1*        (ARG0*      *    (ARG0*         *      *      (1)
+bn/vom/03/vom_0308   0   27     当局    NN                (NP*))   -   -   -   -   *         *        *         *             *             *             *)     *         *)        *      *       -
+bn/vom/03/vom_0308   0   28     决定    VV                 (VP*    决定  -   -   -   *         *        *         *             *             *           (V*)     *         *         *      *       -
+bn/vom/03/vom_0308   0   29     是否    VV              (IP(VP*    是否  -   -   -   *         *        *         *             *             *        (ARG1*    (V*)        *         *      *       -
+bn/vom/03/vom_0308   0   30     给予    VV              (VP(VP*    给予  -   -   -   *         *        *         *             *             *             *      *       (V*)        *      *       -
+bn/vom/03/vom_0308   0   31     他们    PN                 (NP*)   -   -   -   -   *         *        *         *             *             *             *      *    (ARG2*)        *      *      (2)
+bn/vom/03/vom_0308   0   32     难民    NN                 (NP*    -   -   -   -   *         *        *         *             *             *             *      *    (ARG1*         *      *       -
+bn/vom/03/vom_0308   0   33     地位    NN                   *))   -   -   -   -   *         *        *         *             *             *             *      *         *)        *      *       -
+bn/vom/03/vom_0308   0   34     或是    CC                    *    -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   35      把    BA                 (VP*    -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+bn/vom/03/vom_0308   0   36     他们    PN              (IP(NP*)   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *      (2)
+bn/vom/03/vom_0308   0   37     驱逐    VV             (VP(VRD*    驱逐  -   -   -   *         *        *         *             *             *             *      *         *       (V*)     *       -
+bn/vom/03/vom_0308   0   38     出境    VV         *))))))))))))   出境  -   -   -   *         *        *         *             *             *)            *)     *         *    (ARG2*)   (V*)      -
+bn/vom/03/vom_0308   0   39      。    PU                   *))   -   -   -   -   *         *        *         *             *             *             *      *         *         *      *       -
+
+bn/vom/03/vom_0308   0    0    赖昌兴   NR            (TOP(IP(NP*)   -   -   -   -   *            *        (ARG0*)   (0)
+bn/vom/03/vom_0308   0    1     去年   NT   (VP(LCP(IP(VP(NP(NP*)   -   -   -   -   *   (ARGM-TMP*    (ARGM-TMP*     -
+bn/vom/03/vom_0308   0    2    １１月   NT                   (NP*    -   -   -   -   *            *             *     -
+bn/vom/03/vom_0308   0    3    ２３号   NT                     *))   -   -   -   -   *            *)            *     -
+bn/vom/03/vom_0308   0    4     被捕   VV                 (VP*)))   被捕  -   -   -   *          (V*)            *     -
+bn/vom/03/vom_0308   0    5     以来   LC                      *)   -   -   -   -   *            *             *)    -
+bn/vom/03/vom_0308   0    6      ，   PU                      *    -   -   -   -   *            *             *     -
+bn/vom/03/vom_0308   0    7     一共   AD                 (ADVP*)   -   -   -   -   *            *    (ARGM-ADV*)    -
+bn/vom/03/vom_0308   0    8     进行   VV                   (VP*    进行  -   3   -   *            *           (V*)    -
+bn/vom/03/vom_0308   0    9      了   AS                      *    -   -   -   -   *            *             *     -
+bn/vom/03/vom_0308   0   10      ３   CD                (NP(QP*    -   -   -   -   *            *        (ARG1*     -
+bn/vom/03/vom_0308   0   11      次    M                 (CLP*))   -   -   -   -   *            *             *     -
+bn/vom/03/vom_0308   0   12     听证   NN                (NP*))))   -   -   -   -   *            *             *)    -
+bn/vom/03/vom_0308   0   13      。   PU                     *))   -   -   -   -   *            *             *     -
+
+bn/vom/03/vom_0308   0   0    刚才    AD   (TOP(IP(ADVP*)   -   -   -   -   *         *    (ARGM-TMP*)  -
+bn/vom/03/vom_0308   0   1    各位    PN   (NP(CP(IP(NP*)   -   -   -   -   *    (ARG0*)       (ARG0*   -
+bn/vom/03/vom_0308   0   2    听到    VV           (VP*))   听到  -   -   -   *       (V*)            *   -
+bn/vom/03/vom_0308   0   3     的   DEC              *))   -   -   -   -   *         *             *)  -
+bn/vom/03/vom_0308   0   4     是    VC            (VP*     是  -   1   -   *         *           (V*)  -
+bn/vom/03/vom_0308   0   5    中国    NR     (NP(DNP(NP*)   -   -   -   -   *         *        (ARG1*   -
+bn/vom/03/vom_0308   0   6     的   DEG               *)   -   -   -   -   *         *             *   -
+bn/vom/03/vom_0308   0   7    简要    JJ          (ADJP*)   -   -   -   -   *         *             *   -
+bn/vom/03/vom_0308   0   8    新闻    NN          (NP*)))   -   -   -   -   *         *             *)  -
+bn/vom/03/vom_0308   0   9     。    PU              *))   -   -   -   -   *         *             *   -
+
+#end document

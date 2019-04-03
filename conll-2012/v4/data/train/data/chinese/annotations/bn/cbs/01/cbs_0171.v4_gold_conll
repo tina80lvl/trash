@@ -1,0 +1,111 @@
+#begin document (bn/cbs/01/cbs_0171); part 000
+bn/cbs/01/cbs_0171   0    0     行政院    NN  (TOP(IP(NP(NP(NP*   -    -   -   -      (ORG*       (ARG0*       (ARG0*   (1
+bn/cbs/01/cbs_0171   0    1      大陆    NN                  *   -    -   -   -          *            *            *    -
+bn/cbs/01/cbs_0171   0    2     委员会    NN                  *)  -    -   -   -          *)           *            *    -
+bn/cbs/01/cbs_0171   0    3    主任委员    NN              (NP*))  -    -   -   -          *            *            *    -
+bn/cbs/01/cbs_0171   0    4     蔡英文    NR              (NP*))  -    -   -   -    (PERSON)           *)           *)   1)
+bn/cbs/01/cbs_0171   0    5      今天    NT            (VP(NP*   -    -   -   -      (DATE)  (ARGM-TMP*   (ARGM-TMP*    -
+bn/cbs/01/cbs_0171   0    6      下午    NT                  *)  -    -   -   -      (TIME)           *)           *)   -
+bn/cbs/01/cbs_0171   0    7      前往    VV            (VP(VP*   -   01   -   -          *          (V*)           *    -
+bn/cbs/01/cbs_0171   0    8      海峡    NN  (NP(DNP(NP(NP(NP*   -    -   -   -      (ORG*       (ARG1*            *   (3
+bn/cbs/01/cbs_0171   0    9      交流    NN                  *   -    -   -   -          *            *            *    -
+bn/cbs/01/cbs_0171   0   10     基金会    NN                  *)  -    -   -   -          *)           *            *    -
+bn/cbs/01/cbs_0171   0   11     董事长    NN              (NP*))  -    -   -   -          *            *            *    -
+bn/cbs/01/cbs_0171   0   12     郭镇福    NR              (NP*))  -    -   -   -    (PERSON)           *            *    3)
+bn/cbs/01/cbs_0171   0   13       的   DEG                  *)  -    -   -   -          *            *            *    -
+bn/cbs/01/cbs_0171   0   14      寓所    NN             (NP*)))  -    -   -   -          *            *)           *    -
+bn/cbs/01/cbs_0171   0   15      拜访    VV             (VP*)))  -   01   -   -          *            *          (V*)   -
+bn/cbs/01/cbs_0171   0   16       。    PU                 *))  -    -   -   -          *            *            *    -
+
+bn/cbs/01/cbs_0171   0    0     除了     P                (TOP(IP(PP*   -    -    -   -          *        *    (ARGM-ADV*       -
+bn/cbs/01/cbs_0171   0    1     关切    VV                (LCP(IP(VP*   -   01    -   -          *      (V*)            *       -
+bn/cbs/01/cbs_0171   0    2      郭    NR                (NP(DNP(NP*   -    -    -   -    (PERSON)  (ARG1*             *   (0|(3
+bn/cbs/01/cbs_0171   0    3    董事长    NN                          *)  -    -    -   -          *        *             *       3)
+bn/cbs/01/cbs_0171   0    4      的   DEG                          *)  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0    5     康复    NN                       (NP*   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0    6     情况    NN                       *))))  -    -    -   -          *        *)            *       0)
+bn/cbs/01/cbs_0171   0    7     之外    LC                         *))  -    -    -   -          *        *             *)      -
+bn/cbs/01/cbs_0171   0    8      ，    PU                          *   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0    9      也    AD                  (VP(ADVP*)  -    -    -   -          *        *    (ARGM-ADV*)      -
+bn/cbs/01/cbs_0171   0   10      向     P                       (PP*   -    -    -   -          *        *    (ARGM-DIR*       -
+bn/cbs/01/cbs_0171   0   11      他    PN                      (NP*))  -    -    -   -          *        *             *)     (3)
+bn/cbs/01/cbs_0171   0   12     提出    VV                       (VP*   -   01    -   -          *        *           (V*)      -
+bn/cbs/01/cbs_0171   0   13     最近    JJ   (NP(NP(DNP(NP(LCP(NP(NP*)  -    -    -   -          *        *        (ARG1*      (4
+bn/cbs/01/cbs_0171   0   14      ３    CD                       (QP*   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   15      个     M                     (CLP*))  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   16      月    NN                      (NP*))  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   17      来    LC                          *)  -    -   13   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   18      两    CD              (NP(NP(NP(QP*)  -    -    -   -      (LOC*        *             *       -
+bn/cbs/01/cbs_0171   0   19      岸    NN                      (NP*))  -    -    -   -          *)       *             *       -
+bn/cbs/01/cbs_0171   0   20     关系    NN                      (NP*))  -    -    2   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   21      、    PU                          *   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   22     整体    NN                       (NP*   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   23     形势    NN                        *)))  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   24      的   DEG                          *)  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   25     简报    NN                      (NP*))  -    -    -   -          *        *             *       4)
+bn/cbs/01/cbs_0171   0   26      ，    PU                          *   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   27     以及    CC                          *   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   28     政府    NN                (NP(DNP(NP*   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   29     大陆    NN                          *   -    -    -   -       (GPE)       *             *       -
+bn/cbs/01/cbs_0171   0   30     工作    NN                          *)  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   31      的   DEG                          *)  -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   32     规划    NN                       (NP*   -    -    -   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   33      跟    CC                          *   -    -    4   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   34     推动    NN                          *)  -    -    1   -          *        *             *       -
+bn/cbs/01/cbs_0171   0   35     情形    NN                   (NP*)))))  -    -    -   -          *        *             *)      -
+bn/cbs/01/cbs_0171   0   36      。    PU                         *))  -    -    -   -          *        *             *       -
+
+bn/cbs/01/cbs_0171   0    0     对于     P     (TOP(IP(IP(PP*   -    -   -   -          *   (ARG3*        *             *             *         *        -
+bn/cbs/01/cbs_0171   0    1      蔡    NR        (NP(DNP(NP*   -    -   -   -    (PERSON)       *        *             *             *         *    (1|(4
+bn/cbs/01/cbs_0171   0    2     主委    NN                  *)  -    -   -   -          *        *        *             *             *         *        1)
+bn/cbs/01/cbs_0171   0    3      的   DEG                  *)  -    -   -   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0    4     简报    NN             (NP*)))  -    -   -   -          *        *)       *             *             *         *        4)
+bn/cbs/01/cbs_0171   0    5      郭    NR               (NP*   -    -   -   -    (PERSON)  (ARG0*        *             *             *         *       (3
+bn/cbs/01/cbs_0171   0    6    董事长    NN                  *)  -    -   -   -          *        *)       *             *             *         *        3)
+bn/cbs/01/cbs_0171   0    7     表示    VV               (VP*   -   01   1   -          *      (V*)       *             *             *         *        -
+bn/cbs/01/cbs_0171   0    8     理解    NN               (NP*   -    -   -   -          *   (ARG1*        *             *             *         *        -
+bn/cbs/01/cbs_0171   0    9      跟    CC                  *   -    -   4   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0   10     谢意    NN                *)))  -    -   -   -          *        *)       *             *             *         *        -
+bn/cbs/01/cbs_0171   0   11      ，    PU                  *   -    -   -   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0   12     另外    AD          (IP(ADVP*)  -    -   -   -          *        *        *    (ARGM-DIS*)   (ARGM-DIS*)        *        -
+bn/cbs/01/cbs_0171   0   13    蔡英文    NR               (NP*)  -    -   -   -    (PERSON)       *        *        (ARG0*)       (ARG0*)        *       (1)
+bn/cbs/01/cbs_0171   0   14      也    AD       (VP(VP(ADVP*)  -    -   -   -          *        *        *    (ARGM-DIS*)            *         *        -
+bn/cbs/01/cbs_0171   0   15     对于     P               (PP*   -    -   -   -          *        *        *        (ARG3*             *         *        -
+bn/cbs/01/cbs_0171   0   16    郭镇福    NR   (IP(NP(CP(IP(NP*)  -    -   -   -    (PERSON)       *   (ARG0*             *             *         *    (0|(3)
+bn/cbs/01/cbs_0171   0   17     康复    VV              (VP*))  -    -   -   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0   18      的   DEC                  *)  -    -   -   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0   19     情况    NN              (NP*))  -    -   -   -          *        *        *)            *             *         *        0)
+bn/cbs/01/cbs_0171   0   20     良好    VA             (VP*)))  -   01   -   -          *        *      (V*)            *)            *         *        -
+bn/cbs/01/cbs_0171   0   21     表示    VV               (VP*   -   01   1   -          *        *        *           (V*)            *         *        -
+bn/cbs/01/cbs_0171   0   22     欣慰    NN             (NP*)))  -    -   -   -          *        *        *        (ARG1*)            *         *        -
+bn/cbs/01/cbs_0171   0   23      ，    PU                  *   -    -   -   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0   24     认为    VV               (VP*   -   01   1   -          *        *        *             *           (V*)        *        -
+bn/cbs/01/cbs_0171   0   25      这    PN            (IP(NP*)  -    -   -   -          *        *        *             *        (ARG1*    (ARG0*)       -
+bn/cbs/01/cbs_0171   0   26      是    VC               (VP*   -   01   1   -          *        *        *             *             *       (V*)       -
+bn/cbs/01/cbs_0171   0   27     国家    NN        (NP(DNP(NP*)  -    -   -   -          *        *        *             *             *    (ARG1*        -
+bn/cbs/01/cbs_0171   0   28      的   DEG                  *)  -    -   -   -          *        *        *             *             *         *        -
+bn/cbs/01/cbs_0171   0   29     福气    NN         (NP*)))))))  -    -   -   -          *        *        *             *             *)        *)       -
+bn/cbs/01/cbs_0171   0   30      。    PU                 *))  -    -   -   -          *        *        *             *             *         *        -
+
+bn/cbs/01/cbs_0171   0    0      这    DT  (TOP(IP(IP(NP(DP*   -    -   -   -   *   (ARG0*         *    -
+bn/cbs/01/cbs_0171   0    1      次     M             (CLP*))  -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0    2      两    CD        (DNP(NP(QP*)  -    -   -   -   *        *         *   (2
+bn/cbs/01/cbs_0171   0    3      人    NN              (NP*))  -    -   -   -   *        *         *    2)
+bn/cbs/01/cbs_0171   0    4      的   DEG                  *)  -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0    5     晤谈    NN              (NP*))  -    -   -   -   *        *)        *    -
+bn/cbs/01/cbs_0171   0    6     历经    VV               (VP*   -   01   -   -   *      (V*)        *    -
+bn/cbs/01/cbs_0171   0    7      一    CD            (NP(QP*   -    -   -   -   *   (ARG2*         *    -
+bn/cbs/01/cbs_0171   0    8      个     M             (CLP*))  -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0    9     小时    NN            (NP*))))  -    -   -   -   *        *)        *    -
+bn/cbs/01/cbs_0171   0   10      ，    PU                  *   -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0   11     气氛    NN            (IP(NP*)  -    -   -   -   *        *    (ARG0*)   -
+bn/cbs/01/cbs_0171   0   12     融洽    VA              (VP*))  -   01   -   -   *        *       (V*)   -
+bn/cbs/01/cbs_0171   0   13      ，    PU                  *   -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0   14      两    CD         (IP(NP(QP*)  -    -   -   -   *        *         *   (2
+bn/cbs/01/cbs_0171   0   15      人    NN              (NP*))  -    -   -   -   *        *         *    2)
+bn/cbs/01/cbs_0171   0   16     并且    AD          (VP(ADVP*)  -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0   17     相互    AD             (ADVP*)  -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0   18    拜早年    VV             (VP*)))  -    -   -   -   *        *         *    -
+bn/cbs/01/cbs_0171   0   19      。    PU                 *))  -    -   -   -   *        *         *    -
+
+#end document

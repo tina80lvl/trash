@@ -1,0 +1,242 @@
+#begin document (bn/cts/02/cts_0220); part 000
+bn/cts/02/cts_0220   0    0    大众    NN        (TOP(IP(NP*   -    -   -   -   *        (ARG1*             *   -
+bn/cts/02/cts_0220   0    1    交通    NN                  *   -    -   -   -   *             *             *   -
+bn/cts/02/cts_0220   0    2    工具    NN                  *)  -    -   -   -   *             *)            *   -
+bn/cts/02/cts_0220   0    3    最近    NT            (VP(NP*)  -    -   -   -   *    (ARGM-TMP*)            *   -
+bn/cts/02/cts_0220   0    4    变成    VV               (VP*   -   01   -   -   *           (V*)            *   -
+bn/cts/02/cts_0220   0    5     了    AS                  *   -    -   -   -   *             *             *   -
+bn/cts/02/cts_0220   0    6    歹徒    NN   (NP(CP(CP(IP(NP*)  -    -   -   -   *        (ARG2*        (ARG0*)  -
+bn/cts/02/cts_0220   0    7    运输    VV            (VP(VP*   -   01   -   -   *             *           (V*)  -
+bn/cts/02/cts_0220   0    8    黑枪    NN            (NP*))))  -    -   -   -   *             *        (ARG1*)  -
+bn/cts/02/cts_0220   0    9     的   DEC                 *))  -    -   -   -   *             *             *   -
+bn/cts/02/cts_0220   0   10    工具    NN            (NP*))))  -    -   -   -   *             *)   (ARGM-MNR*)  -
+bn/cts/02/cts_0220   0   11     。    PU                 *))  -    -   -   -   *             *             *   -
+
+bn/cts/02/cts_0220   0    0    国道    NN       (TOP(IP(NP(NP*   -    -   -   -        (ORG*        (ARG0*        (ARG0*     -
+bn/cts/02/cts_0220   0    1    公路    NN                    *   -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0    2    警察    NN                    *)  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0    3    二队    NN                (NP*))  -    -   -   -            *)            *)            *)    -
+bn/cts/02/cts_0220   0    4    凌晨    NT              (VP(NP*)  -    -   -   -        (TIME)   (ARGM-TMP*)   (ARGM-TMP*)   (0)
+bn/cts/02/cts_0220   0    5     在     P           (VP(VP(PP*   -    -   2   -            *    (ARGM-LOC*             *     -
+bn/cts/02/cts_0220   0    6     一    CD          (LCP(NP(QP*   -    -   -   -            *             *             *    (7
+bn/cts/02/cts_0220   0    7     个     M               (CLP*))  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0    8    尊隆    NR                 (NP*)  -    -   -   -         (ORG)            *             *    (5)
+bn/cts/02/cts_0220   0    9    巴士    NN                (NP*))  -    -   -   -            *             *             *     7)
+bn/cts/02/cts_0220   0   10     上    LC                   *))  -    -   1   -            *             *)            *     -
+bn/cts/02/cts_0220   0   11     就    AD               (ADVP*)  -    -   7   -            *    (ARGM-ADV*)            *     -
+bn/cts/02/cts_0220   0   12    查获    VV                 (VP*   -   01   -   -            *           (V*)            *     -
+bn/cts/02/cts_0220   0   13     了    AS                    *   -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   14     两    CD           (NP(NP(QP*   -    -   -   -    (CARDINAL)       (ARG1*             *    (2
+bn/cts/02/cts_0220   0   15     把     M               (CLP*))  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   16    制式    JJ           (DNP(ADJP*)  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   17     的   DEG                    *)  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   18    手枪    NN                (NP*))  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   19     和    CC                    *   -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   20    子弹    NN              (NP*))))  -    -   -   -            *             *)            *     2)
+bn/cts/02/cts_0220   0   21     ，    PU                    *   -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   22    并且    AD            (VP(ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)    -
+bn/cts/02/cts_0220   0   23    抓到    VV                 (VP*   -   01   -   -            *             *           (V*)    -
+bn/cts/02/cts_0220   0   24     了    AS                    *   -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   25    尾随    VV  (NP(CP(CP(IP(VP(VP*   -    -   -   -            *             *        (ARG1*    (1
+bn/cts/02/cts_0220   0   26     车    NN             (LCP(NP*)  -    -   -   -            *             *             *    (7)
+bn/cts/02/cts_0220   0   27     后    LC                   *))  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   28    跟货    VV               (VP*)))  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   29     的   DEC                   *))  -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   30     一    CD                 (QP*   -    -   -   -            *             *             *     -
+bn/cts/02/cts_0220   0   31     对     M               (CLP*))  -    -   4   -            *             *             *     -
+bn/cts/02/cts_0220   0   32    男女    NN            (NP*))))))  -    -   -   -            *             *             *)    1)
+bn/cts/02/cts_0220   0   33     。    PU                   *))  -    -   -   -            *             *             *     -
+
+bn/cts/02/cts_0220   0    0    国道队    NN    (TOP(IP(IP(NP(NP*)  -    -    -   -            *        (ARG0*        *             *        *     -
+bn/cts/02/cts_0220   0    1     员警    NN                (NP*))  -    -    -   -            *             *)       *             *        *     -
+bn/cts/02/cts_0220   0    2     凌晨    NT              (VP(NP*)  -    -    -   -        (TIME)   (ARGM-TMP*)       *             *        *    (0)
+bn/cts/02/cts_0220   0    3      从     P                 (PP*   -    -    -   -            *    (ARGM-LOC*        *             *        *     -
+bn/cts/02/cts_0220   0    4     尊隆    NR             (LCP(NP*   -    -    -   -         (ORG)            *        *             *        *    (7
+bn/cts/02/cts_0220   0    5     客运    NN                    *)  -    -    -   -            *             *        *             *        *     7)
+bn/cts/02/cts_0220   0    6      上    LC                   *))  -    -    1   -            *             *)       *             *        *     -
+bn/cts/02/cts_0220   0    7     查获    VV                 (VP*   -   01    -   -            *           (V*)       *             *        *     -
+bn/cts/02/cts_0220   0    8      了    AS                    *   -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0    9     枪弹    NN              (NP*))))  -    -    -   -            *        (ARG1*)       *             *        *    (2)
+bn/cts/02/cts_0220   0   10      ，    PU                    *   -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   11     包括    VV              (IP(VP*   -   01    -   -            *             *      (V*)            *        *     -
+bn/cts/02/cts_0220   0   12      了    AS                    *   -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   13      两    CD           (NP(NP(QP*   -    -    -   -    (CARDINAL)            *   (ARG1*             *        *    (2
+bn/cts/02/cts_0220   0   14      把     M               (CLP*))  -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   15     分别    AD   (CP(CP(IP(VP(ADVP*)  -    -    -   -            *             *        *    (ARGM-ADV*)       *     -
+bn/cts/02/cts_0220   0   16      是    VC                 (VP*   -   01    1   -            *             *        *           (V*)       *     -
+bn/cts/02/cts_0220   0   17    以色列    NR              (IP(NP*   -    -    -   -         (GPE)            *        *        (ARG1*   (ARG0*     -
+bn/cts/02/cts_0220   0   18      和    CC                    *   -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   19    意大利    NR                    *)  -    -    -   -         (GPE)            *        *             *        *)    -
+bn/cts/02/cts_0220   0   20     制造    VV             (VP*)))))  -   01    -   -            *             *        *             *)     (V*)    -
+bn/cts/02/cts_0220   0   21      的   DEC                   *))  -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   22    ９００    NN                 (NP*   -    -    -   -    (CARDINAL)            *        *        (ARG0*        *     -
+bn/cts/02/cts_0220   0   23     手枪    NN                   *))  -    -    -   -            *             *        *             *)       *     -
+bn/cts/02/cts_0220   0   24     以及    CC                    *   -    -    -   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   25     ２１    CD              (NP(QP*   -    -    -   -    (CARDINAL)            *        *             *        *     -
+bn/cts/02/cts_0220   0   26      发     M               (CLP*))  -    -   12   -            *             *        *             *        *     -
+bn/cts/02/cts_0220   0   27     子弹    NN             (NP*)))))  -    -    -   -            *             *        *)            *        *     2)
+bn/cts/02/cts_0220   0   28      。    PU                   *))  -    -    -   -            *             *        *             *        *     -
+
+bn/cts/02/cts_0220   0    0     这些    DT   (TOP(IP(IP(NP(DP*)  -    -   -   -          *        (ARG1*   (ARG1*      *         *             *    (2
+bn/cts/02/cts_0220   0    1     枪弹    NN               (NP*))  -    -   -   -          *             *)       *)     *         *             *     2)
+bn/cts/02/cts_0220   0    2     全部    AD        (VP(VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *      *         *             *     -
+bn/cts/02/cts_0220   0    3      装    VV                (VP*   -   01   -   -          *           (V*)       *      *         *             *     -
+bn/cts/02/cts_0220   0    4      在     P                (PP*   -    -   2   -          *        (ARG2*        *      *         *             *     -
+bn/cts/02/cts_0220   0    5     黑色    NN            (LCP(NP*   -    -   -   -          *             *        *      *         *             *    (6
+bn/cts/02/cts_0220   0    6     皮包    NN                   *)  -    -   -   -          *             *        *      *         *             *     6)
+bn/cts/02/cts_0220   0    7      内    LC                *))))  -    -   -   -          *             *)       *      *         *             *     -
+bn/cts/02/cts_0220   0    8     放置    VV                (VP*   -   01   -   -          *             *      (V*)     *         *             *     -
+bn/cts/02/cts_0220   0    9      在     P                (PP*   -    -   2   -          *             *   (ARG2*      *         *             *     -
+bn/cts/02/cts_0220   0   10     底层    NN     (LCP(NP(DNP(NP*)  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   11      的   DEG                   *)  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   12     乘客    NN                (NP*   -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   13     座椅    NN                  *))  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   14      下    LC               *)))))  -    -   2   -          *             *        *)     *         *             *     -
+bn/cts/02/cts_0220   0   15      ，    PU                   *   -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   16     警方    NN             (IP(NP*)  -    -   -   -          *             *        *      *         *             *    (3)
+bn/cts/02/cts_0220   0   17     随后    AD        (VP(VP(ADVP*)  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   18      也    AD              (ADVP*)  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   19     拦查    VV            (VP(VRD*   -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   20      到    VV                   *)  -   01   4   -          *             *        *    (V*)        *             *     -
+bn/cts/02/cts_0220   0   21      一    CD             (NP(QP*   -    -   -   -          *             *        *      *         *             *    (8
+bn/cts/02/cts_0220   0   22      辆     M              (CLP*))  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   23     可疑    VA      (CP(CP(IP(VP*))  -   01   -   -          *             *        *      *       (V*)            *     -
+bn/cts/02/cts_0220   0   24      的   DEC                  *))  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   25    计程车    NN             (NP*))))  -    -   -   -          *             *        *      *    (ARG0*)            *     8)
+bn/cts/02/cts_0220   0   26      ，    PU                   *   -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   27     留置    VV                (VP*   -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   28      一    CD          (NP(NP(QP*   -    -   -   -          *             *        *      *         *             *    (1
+bn/cts/02/cts_0220   0   29      对     M              (CLP*))  -    -   4   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   30     男女    NN               (NP*))  -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   31     分别    AD       (PRN(VP(ADVP*)  -    -   -   -          *             *        *      *         *    (ARGM-ADV*)    -
+bn/cts/02/cts_0220   0   32      是    VC                (VP*   -   01   1   -          *             *        *      *         *           (V*)    -
+bn/cts/02/cts_0220   0   33    杨正发    NR                (NP*   -    -   -   -    (PERSON)            *        *      *         *        (ARG1*     -
+bn/cts/02/cts_0220   0   34      和    CC                   *   -    -   -   -          *             *        *      *         *             *     -
+bn/cts/02/cts_0220   0   35    吴雅淑    NR            *))))))))  -    -   -   -    (PERSON)            *        *      *         *             *)    1)
+bn/cts/02/cts_0220   0   36      。    PU                  *))  -    -   -   -          *             *        *      *         *             *     -
+
+bn/cts/02/cts_0220   0    0      他们    PN    (TOP(IP(IP(NP*)  -    -   -   -       *       (ARG0*)       (ARG0*)            *        (ARG0*)       *        *    (1)
+bn/cts/02/cts_0220   0    1       从     P        (VP(VP(PP*   -    -   -   -       *   (ARGM-LOC*             *             *             *        *        *     -
+bn/cts/02/cts_0220   0    2     高雄市    NR           (NP(NP*   -    -   -   -    (GPE)           *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0    3      九如    NR                 *)  -    -   -   -   (FAC*            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0    4     交流道    NN            (NP*)))  -    -   -   -       *)           *)            *             *             *        *        *     -
+bn/cts/02/cts_0220   0    5      搭上    VV              (VP*   -   01   -   -       *          (V*)            *             *             *        *        *     -
+bn/cts/02/cts_0220   0    6     计程车    NN            (NP*)))  -    -   -   -       *       (ARG1*)            *             *             *        *        *    (8)
+bn/cts/02/cts_0220   0    7       ，    PU                 *   -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0    8       并    AD         (VP(ADVP*)  -    -   -   -       *            *    (ARGM-DIS*)            *             *        *        *     -
+bn/cts/02/cts_0220   0    9      要求    VV              (VP*   -   02   1   -       *            *           (V*)            *             *        *        *     -
+bn/cts/02/cts_0220   0   10      司机    NN              (NP*)  -    -   -   -       *            *        (ARG1*)            *             *        *        *    (4)
+bn/cts/02/cts_0220   0   11      一路    AD      (IP(VP(ADVP*)  -    -   -   -       *            *        (ARG2*    (ARGM-ADV*)            *        *        *     -
+bn/cts/02/cts_0220   0   12      往北    AD            (ADVP*)  -    -   -   -       *            *             *    (ARGM-ADV*)            *        *        *     -
+bn/cts/02/cts_0220   0   13       追    VV              (VP*   -   01   -   -       *            *             *           (V*)            *        *        *     -
+bn/cts/02/cts_0220   0   14       这    DT           (NP(DP*   -    -   -   -       *            *             *        (ARG1*             *        *        *    (7
+bn/cts/02/cts_0220   0   15       辆     M            (CLP*))  -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   16      尊隆    NR              (NP*)  -    -   -   -    (ORG)           *             *             *             *        *        *    (5)
+bn/cts/02/cts_0220   0   17      巴士    NN        (NP*)))))))  -    -   -   -       *            *             *)            *)            *        *        *     7)
+bn/cts/02/cts_0220   0   18       ，    PU                 *   -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   19       还    AD         (VP(ADVP*)  -    -   -   -       *            *             *             *    (ARGM-ADV*)       *        *     -
+bn/cts/02/cts_0220   0   20       说    VV              (VP*   -   01   7   -       *            *             *             *           (V*)       *        *     -
+bn/cts/02/cts_0220   0   21       是    VC           (IP(VP*   -   01   2   -       *            *             *             *        (ARG1*      (V*)       *     -
+bn/cts/02/cts_0220   0   22      为了     P              (PP*   -    -   -   -       *            *             *             *             *   (ARG1*        *     -
+bn/cts/02/cts_0220   0   23       找    VV           (IP(VP*   -   01   -   -       *            *             *             *             *        *      (V*)    -
+bn/cts/02/cts_0220   0   24      遣留    VV  (NP(CP(CP(IP(VP*   -    -   -   -       *            *             *             *             *        *   (ARG1*    (6
+bn/cts/02/cts_0220   0   25       在     P              (PP*   -    -   2   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   26      车上    NN           (NP*))))  -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   27       的   DEC                *))  -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   28      皮包    NN    (NP*)))))))))))  -    -   -   -       *            *             *             *             *)       *)       *)    6)
+bn/cts/02/cts_0220   0   29       ，    PU                 *   -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   30     计程车    NN           (IP(NP*   -    -   -   -       *            *             *             *             *        *        *    (4
+bn/cts/02/cts_0220   0   31      司机    NN                 *)  -    -   -   -       *            *             *             *             *        *        *     4)
+bn/cts/02/cts_0220   0   32       被    SB              (VP*   -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   33      搞得    VV              (VP*   -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   34    一头雾水    VV           (VP*))))  -    -   -   -       *            *             *             *             *        *        *     -
+bn/cts/02/cts_0220   0   35       。    PU                *))  -    -   -   -       *            *             *             *             *        *        *     -
+
+bn/cts/02/cts_0220   0    0     “   PU       (TOP(IP*   -    -   -   -       *         *            *         *      *      *         *     -
+bn/cts/02/cts_0220   0    1     我   PN     (IP(IP(NP*)  -    -   -   -       *    (ARG0*)  (ARGM-TMP*         *      *      *         *     -
+bn/cts/02/cts_0220   0    2     到   VV           (VP*   -   01   2   -       *       (V*)           *         *      *      *         *     -
+bn/cts/02/cts_0220   0    3    台州   NR         (NP*)))  -    -   -   -    (GPE)   (ARG1*)           *)        *      *      *         *     -
+bn/cts/02/cts_0220   0    4    他们   PN           (NP*)  -    -   -   -       *         *       (ARG0*)        *      *      *         *    (1)
+bn/cts/02/cts_0220   0    5     在   VV           (VP*   -   01   2   -       *         *          (V*)        *      *      *         *     -
+bn/cts/02/cts_0220   0    6    后面   NN         (NP*)))  -    -   -   -       *         *       (ARG1*)        *      *      *         *     -
+bn/cts/02/cts_0220   0    7     ，   PU              *   -    -   -   -       *         *            *         *      *      *         *     -
+bn/cts/02/cts_0220   0    8     到   VV  (CP(IP(VP(VP*   -   01   1   -       *         *            *       (V*)     *      *         *     -
+bn/cts/02/cts_0220   0    9    这边   PN          (NP*))  -    -   -   -       *         *            *    (ARG1*)     *      *         *     -
+bn/cts/02/cts_0220   0   10     是   VC       (VP(VNV*   -   01   2   -       *         *            *         *    (V*)     *         *     -
+bn/cts/02/cts_0220   0   11     不   AD              *   -    -   -   -       *         *            *         *      *      *         *     -
+bn/cts/02/cts_0220   0   12     是   VC              *)  -   01   2   -       *         *            *         *      *    (V*)        *     -
+bn/cts/02/cts_0220   0   13     来   VV           (VP*   -   05   7   -       *         *            *         *      *      *       (V*)    -
+bn/cts/02/cts_0220   0   14    害人   VV       (VP*)))))  -    -   -   -       *         *            *         *      *      *    (ARG1*)    -
+bn/cts/02/cts_0220   0   15     的   SP              *)  -    -   -   -       *         *            *         *      *      *         *     -
+bn/cts/02/cts_0220   0   16     。   PU              *   -    -   -   -       *         *            *         *      *      *         *     -
+bn/cts/02/cts_0220   0   17     ”   PU             *))  -    -   -   -       *         *            *         *      *      *         *     -
+
+bn/cts/02/cts_0220   0    0     警方   NN     (TOP(IP(NP*)  -    -   -   -          *        *       (ARG0*)     *             *             *             *             *    (3)
+bn/cts/02/cts_0220   0    1     侦讯   VV  (VP(LCP(IP(VP*   -   01   -   -          *      (V*)  (ARGM-TMP*      *             *             *             *             *     -
+bn/cts/02/cts_0220   0    2     尊隆   NR         (NP(NP*   -    -   -   -       (ORG)  (ARG1*            *      *             *             *             *             *    (7
+bn/cts/02/cts_0220   0    3     客运   NN               *)  -    -   -   -          *        *            *      *             *             *             *             *     7)
+bn/cts/02/cts_0220   0    4     司机   NN            (NP*   -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0    5      和   CC               *   -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0    6    随车员   NN            *))))  -    -   -   -          *        *)           *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0    7      后   LC               *)  -    -   -   -          *        *            *)     *             *             *             *             *     -
+bn/cts/02/cts_0220   0    8     发现   VV            (VP*   -   01   -   -          *        *          (V*)     *             *             *             *             *     -
+bn/cts/02/cts_0220   0    9      ，   PU               *   -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0   10      吴   NR   (IP(NP(NP(NP*)  -    -   -   -    (PERSON)       *       (ARG1*      *        (ARG0*        (ARG0*        (ARG0*        (ARG0*     -
+bn/cts/02/cts_0220   0   11      姓   NN           (NP*))  -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0   12     女子   NN           (NP*))  -    -   -   -          *        *            *      *             *)            *)            *)            *)    -
+bn/cts/02/cts_0220   0   13      先   AD    (VP(VP(ADVP*)  -    -   1   -          *        *            *      *    (ARGM-ADV*)   (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0220   0   14      是   VC            (VP*   -   01   2   -          *        *            *    (V*)            *             *             *             *     -
+bn/cts/02/cts_0220   0   15      在    P         (VP(PP*   -    -   2   -          *        *            *      *    (ARGM-LOC*    (ARGM-LOC*             *             *     -
+bn/cts/02/cts_0220   0   16     高雄   NR           (NP*))  -    -   -   -       (GPE)       *            *      *             *)            *)            *             *     -
+bn/cts/02/cts_0220   0   17      买   VV         (VP(VP*   -   01   -   -          *        *            *      *           (V*)            *             *             *     -
+bn/cts/02/cts_0220   0   18      票   NN           (NP*))  -    -   -   -          *        *            *      *        (ARG1*)            *             *             *     -
+bn/cts/02/cts_0220   0   19     坐上   VV            (VP*   -   02   -   -          *        *            *      *             *           (V*)            *             *     -
+bn/cts/02/cts_0220   0   20     巴士   NN       (NP*))))))  -    -   -   -          *        *            *      *             *        (ARG1*)            *             *    (7)
+bn/cts/02/cts_0220   0   21      ，   PU               *   -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0   22     结果   AD       (VP(ADVP*)  -    -   -   -          *        *            *      *             *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0220   0   23     中途   NN            (NP*)  -    -   -   -          *        *            *      *             *             *    (ARGM-LOC*)   (ARGM-LOC*)    -
+bn/cts/02/cts_0220   0   24     借顾   VV     (VP(VP(VSB*   -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0   25     下车   VV              *))  -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0   26      ，   PU               *   -    -   -   -          *        *            *      *             *             *             *             *     -
+bn/cts/02/cts_0220   0   27      再   AD       (VP(ADVP*)  -    -   -   -          *        *            *      *             *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0220   0   28      和    P      (VP(VP(PP*   -    -   -   -          *        *            *      *             *             *        (ARG0*             *     -
+bn/cts/02/cts_0220   0   29    杨正发   NR           (NP*))  -    -   -   -    (PERSON)       *            *      *             *             *             *)            *     -
+bn/cts/02/cts_0220   0   30     会合   VV           (VP*))  -   01   -   -          *        *            *      *             *             *           (V*)            *     -
+bn/cts/02/cts_0220   0   31     搭上   VV            (VP*   -   01   -   -          *        *            *      *             *             *             *           (V*)    -
+bn/cts/02/cts_0220   0   32    计程车   NN   (NP*))))))))))  -    -   -   -          *        *            *)     *             *             *             *        (ARG1*)   (8)
+bn/cts/02/cts_0220   0   33      。   PU              *))  -    -   -   -          *        *            *      *             *             *             *             *     -
+
+bn/cts/02/cts_0220   0    0    警方    NN           (TOP(IP(NP*)  -    -   -   -   *    (ARG0*)        *        *            *    (3)
+bn/cts/02/cts_0220   0    1    怀疑    VV                  (VP*   -   01   -   -   *       (V*)        *        *            *     -
+bn/cts/02/cts_0220   0    2     这    PN               (IP(NP*)  -    -   -   -   *    (ARG1*    (ARG0*)       *            *     -
+bn/cts/02/cts_0220   0    3     是    VC                  (VP*   -   01   1   -   *         *       (V*)       *            *     -
+bn/cts/02/cts_0220   0    4     一    CD               (NP(QP*   -    -   -   -   *         *    (ARG1*        *            *     -
+bn/cts/02/cts_0220   0    5     起     M                (CLP*))  -    -   5   -   *         *         *        *            *     -
+bn/cts/02/cts_0220   0    6     人    NN  (CP(IP(VP(DVP(IP(NP*   -    -   -   -   *         *         *   (ARG1*   (ARGM-ADV*     -
+bn/cts/02/cts_0220   0    7     、    PU                     *   -    -   -   -   *         *         *        *            *     -
+bn/cts/02/cts_0220   0    8     枪    NN                     *)  -    -   -   -   *         *         *        *)           *     -
+bn/cts/02/cts_0220   0    9    分离    VV                 (VP*))  -   01   -   -   *         *         *      (V*)           *     -
+bn/cts/02/cts_0220   0   10     的   DEV                     *)  -    -   -   -   *         *         *        *            *)    -
+bn/cts/02/cts_0220   0   11     来   MSP                  (VP*   -    -   7   -   *         *         *        *            *     -
+bn/cts/02/cts_0220   0   12    运输    VV                  (VP*   -   01   -   -   *         *         *        *          (V*)    -
+bn/cts/02/cts_0220   0   13    黑枪    NN              (NP*)))))  -    -   -   -   *         *         *        *       (ARG1*)    -
+bn/cts/02/cts_0220   0   14     的   DEC                     *)  -    -   -   -   *         *         *        *            *     -
+bn/cts/02/cts_0220   0   15    案件    NN              (NP*)))))  -    -   -   -   *         *)        *)       *            *     -
+bn/cts/02/cts_0220   0   16     。    PU                    *))  -    -   -   -   *         *         *        *            *     -
+
+bn/cts/02/cts_0220   0    0    目前    NT   (TOP(IP(NP*)  -    -   -   -   *    (ARGM-TMP*)        *   -
+bn/cts/02/cts_0220   0    1     将    BA       (VP(VP*   -    -   -   -   *             *         *   -
+bn/cts/02/cts_0220   0    2    枪械    NN       (IP(NP*   -    -   -   -   *        (ARG1*         *   -
+bn/cts/02/cts_0220   0    3     跟    CC             *   -    -   4   -   *             *         *   -
+bn/cts/02/cts_0220   0    4    皮包    NN             *)  -    -   -   -   *             *)        *   -
+bn/cts/02/cts_0220   0    5    送交    VV          (VP*   -   01   -   -   *           (V*)        *   -
+bn/cts/02/cts_0220   0    6     县    NN          (NP*   -    -   -   -   *        (ARG2*         *   -
+bn/cts/02/cts_0220   0    7     市    NN             *)  -    -   -   -   *             *)        *   -
+bn/cts/02/cts_0220   0    8    比对    VV       (IP(VP*   -   01   -   -   *    (ARGM-ADV*       (V*)  -
+bn/cts/02/cts_0220   0    9    指纹    NN     (NP*))))))  -    -   -   -   *             *)   (ARG1*)  -
+bn/cts/02/cts_0220   0   10     以   MSP          (VP*   -    -   -   -   *             *         *   -
+bn/cts/02/cts_0220   0   11    理清    VV          (VP*   -    -   -   -   *             *         *   -
+bn/cts/02/cts_0220   0   12    案情    NN       (NP*))))  -    -   -   -   *             *         *   -
+bn/cts/02/cts_0220   0   13     。    PU            *))  -    -   -   -   *             *         *   -
+
+#end document

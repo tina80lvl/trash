@@ -1,0 +1,532 @@
+#begin document (bn/vom/01/vom_0172); part 000
+bn/vom/01/vom_0172   0   0    下面    NN   (TOP(IP(NP*)  -    -   -   -       *      *    (ARGM-ADV*)    -
+bn/vom/01/vom_0172   0   1    我们    PN          (NP*)  -    -   -   -       *      *        (ARG0*)    -
+bn/vom/01/vom_0172   0   2     去    VV          (VP*   -   01   4   -       *    (V*)            *     -
+bn/vom/01/vom_0172   0   3    看看    VV          (VP*   -   01   -   -       *      *           (V*)    -
+bn/vom/01/vom_0172   0   4    中东    NR   (NP(DNP(NP*)  -    -   -   -    (LOC)     *        (ARG1*    (3)
+bn/vom/01/vom_0172   0   5     的   DEG             *)  -    -   -   -       *      *             *     -
+bn/vom/01/vom_0172   0   6    局势    NN       (NP*))))  -    -   -   -       *      *             *)    -
+bn/vom/01/vom_0172   0   7     。    PU            *))  -    -   -   -       *      *             *     -
+
+bn/vom/01/vom_0172   0    0    以色列    NR     (TOP(IP(NP(NP(NP*)  -    -   -   -       (GPE)       (ARG0*        *         *         *             *        (ARG0*         *         *            *    (9|(10)
+bn/vom/01/vom_0172   0    1     总理    NN                 (NP*))  -    -   -   -          *             *        *         *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0    2    巴拉克    NR                 (NP*))  -    -   -   -    (PERSON)            *)       *         *         *             *             *)        *         *            *         9)
+bn/vom/01/vom_0172   0    3    星期二    NT            (VP(VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)       *         *         *             *             *         *         *            *        (0)
+bn/vom/01/vom_0172   0    4     宣布    VV                  (VP*   -   01   -   -          *           (V*)       *         *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0    5     同意    VV               (IP(VP*   -   01   1   -          *        (ARG1*      (V*)        *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0    6    反对党    NN   (NP(CP(CP(IP(NP(NP*)  -    -   -   -      (ORG*             *   (ARG1*    (ARG0*         *             *             *         *         *            *    (2|(11
+bn/vom/01/vom_0172   0    7    利库德    NR                  (NP*   -    -   -   -          *             *        *         *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0    8     集团    NN                    *))  -    -   -   -          *)            *        *         *)        *             *             *         *         *            *         2)
+bn/vom/01/vom_0172   0    9     提出    VV                 (VP*))  -   01   -   -          *             *        *       (V*)        *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0   10      的   DEC                    *))  -    -   -   -          *             *        *         *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0   11     解散    VV         (CP(IP(VP(VP*   -   01   -   -          *             *        *         *       (V*)            *             *         *         *            *         -
+bn/vom/01/vom_0172   0   12     议会    NN                 (NP*))  -    -   -   -          *             *        *         *    (ARG1*)            *             *         *         *            *       (19)
+bn/vom/01/vom_0172   0   13     提前    AD             (VP(ADVP*)  -    -   -   -          *             *        *         *         *    (ARGM-ADV*)            *         *         *            *         -
+bn/vom/01/vom_0172   0   14     举行    VV                  (VP*   -   01   -   -          *             *        *         *         *           (V*)            *         *         *            *         -
+bn/vom/01/vom_0172   0   15     大选    NN              (NP*)))))  -    -   -   -          *             *        *         *         *        (ARG1*)            *         *         *            *       (13)
+bn/vom/01/vom_0172   0   16      的   DEC                     *)  -    -   -   -          *             *        *         *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0   17     议案    NN             (NP*))))))  -    -   -   -          *             *)       *)   (ARG1*)        *             *             *         *         *            *        11)
+bn/vom/01/vom_0172   0   18      ，    PU                     *   -    -   -   -          *             *        *         *         *             *             *         *         *            *         -
+bn/vom/01/vom_0172   0   19     从而    AD             (VP(ADVP*)  -    -   -   -          *             *        *         *         *             *    (ARGM-ADV*)        *         *            *         -
+bn/vom/01/vom_0172   0   20      使    VV                  (VP*   -   01   -   -          *             *        *         *         *             *           (V*)        *         *            *         -
+bn/vom/01/vom_0172   0   21    巴拉克    NR               (NP(NP*)  -    -   -   -    (PERSON)            *        *         *         *             *        (ARG1*         *         *            *    (17|(9)
+bn/vom/01/vom_0172   0   22     政府    NN                 (NP*))  -    -   -   -          *             *        *         *         *             *             *)        *         *            *        17)
+bn/vom/01/vom_0172   0   23      有    VE            (IP(VP(VP*   -   03   3   -          *             *        *         *         *             *        (ARG2*       (V*)        *            *         -
+bn/vom/01/vom_0172   0   24     可能    NN                 (NP*))  -    -   -   -          *             *        *         *         *             *             *    (ARG1*)        *            *         -
+bn/vom/01/vom_0172   0   25      在     P               (VP(PP*   -    -   2   -          *             *        *         *         *             *             *         *         *   (ARGM-TMP*         -
+bn/vom/01/vom_0172   0   26     任期    NN           (LCP(IP(NP*)  -    -   -   -          *             *        *         *         *             *             *         *    (ARG1*)           *         -
+bn/vom/01/vom_0172   0   27     结束    VV                 (VP*))  -   01   -   -          *             *        *         *         *             *             *         *       (V*)           *         -
+bn/vom/01/vom_0172   0   28     之前    LC                    *))  -    -   -   -          *             *        *         *         *             *             *         *         *            *)        -
+bn/vom/01/vom_0172   0   29     夭折    VV            (VP*)))))))  -   01   -   -          *             *        *         *         *             *             *)        *         *          (V*)        -
+bn/vom/01/vom_0172   0   30      。    PU                    *))  -    -   -   -          *             *        *         *         *             *             *         *         *            *         -
+
+bn/vom/01/vom_0172   0   0    下面    NN                (TOP(IP(NP*)  -    -   -   -          *    (ARG0*)               -
+bn/vom/01/vom_0172   0   1     是    VC                       (VP*   -   01   1   -          *       (V*)               -
+bn/vom/01/vom_0172   0   2    美国    NR   (NP(DNP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*    (ARG1*    (1|(12|(15|(4)
+bn/vom/01/vom_0172   0   3     之   DEG                          *)  -    -   -   -          *         *                -
+bn/vom/01/vom_0172   0   4     音    NN                      (NP*))  -    -   -   -          *)        *               12)
+bn/vom/01/vom_0172   0   5    记者    NN                      (NP*))  -    -   -   -          *         *                -
+bn/vom/01/vom_0172   0   6    亚薇    NR                      (NP*))  -    -   -   -    (PERSON)        *               15)
+bn/vom/01/vom_0172   0   7     的   DEG                          *)  -    -   -   -          *         *                -
+bn/vom/01/vom_0172   0   8    报道    NN                     (NP*)))  -    -   -   -          *         *)               1)
+bn/vom/01/vom_0172   0   9     。    PU                         *))  -    -   -   -          *         *                -
+
+bn/vom/01/vom_0172   0    0      以色列    NR   (TOP(IP(IP(NP(NP(NP*)  -    -   -   -       (GPE)       (ARG0*         *         *             *             *        *             *            *            *      *             *    (9|(10)
+bn/vom/01/vom_0172   0    1       总理    NN                  (NP*))  -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0    2      巴拉克    NR                  (NP*))  -    -   -   -    (PERSON)            *)        *         *             *             *        *             *            *            *      *             *         9)
+bn/vom/01/vom_0172   0    3      星期二    NT                (VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)        *         *             *             *        *             *            *            *      *             *        (0)
+bn/vom/01/vom_0172   0    4       宣布    VV                   (VP*   -   01   -   -          *           (V*)        *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0    5        他    PN                (IP(NP*)  -    -   -   -          *        (ARG1*    (ARG0*)        *             *             *        *             *            *            *      *             *        (9)
+bn/vom/01/vom_0172   0    6       同意    VV                   (VP*   -   02   1   -          *             *       (V*)        *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0    7       解散    VV             (IP(VP(VP*   -   01   -   -          *             *    (ARG1*       (V*)            *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0    8       议会    NN                  (NP*))  -    -   -   -          *             *         *    (ARG1*)            *             *        *             *            *            *      *             *       (19)
+bn/vom/01/vom_0172   0    9        ，    PU                      *   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   10       提前    AD              (VP(ADVP*)  -    -   -   -          *             *         *         *    (ARGM-ADV*)            *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   11       举行    VV                   (VP*   -   01   -   -          *             *         *         *           (V*)            *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   12       大选    NN          (NP*))))))))))  -    -   -   -          *             *)        *)        *        (ARG1*)            *        *             *            *            *      *             *       (13)
+bn/vom/01/vom_0172   0   13        ，    PU                      *   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   14       但是    AD              (IP(ADVP*)  -    -   -   -          *             *         *         *             *    (ARGM-DIS*)       *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   15      巴拉克    NR                   (NP*)  -    -   -   -    (PERSON)            *         *         *             *        (ARG0*)       *             *            *            *      *             *        (9)
+bn/vom/01/vom_0172   0   16       指责    VV                   (VP*   -   02   1   -          *             *         *         *             *           (V*)       *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   17      反对党    NN             (IP(NP(NP*)  -    -   -   -      (ORG*             *         *         *             *        (ARG2*   (ARG0*             *            *            *      *             *        (2
+bn/vom/01/vom_0172   0   18      利库德    NR                   (NP*   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   19       集团    NN                     *))  -    -   -   -          *)            *         *         *             *             *        *)            *            *            *      *             *         2)
+bn/vom/01/vom_0172   0   20       试图    VV                   (VP*   -   01   -   -          *             *         *         *             *             *      (V*)            *            *            *      *             *         -
+bn/vom/01/vom_0172   0   21        在     P             (IP(VP(PP*   -    -   2   -          *             *         *         *             *             *   (ARG1*             *   (ARGM-TMP*   (ARGM-TMP*      *             *         -
+bn/vom/01/vom_0172   0   22      以色列    NR    (NP(CP(CP(IP(NP(NP*)  -    -   -   -       (GPE)            *         *         *             *             *        *        (ARG0*            *            *      *             *       (10)
+bn/vom/01/vom_0172   0   23        和    CC                      *   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   24    巴勒斯坦人    NN                  (NP*))  -    -   -   -      (NORP)            *         *         *             *             *        *             *)           *            *      *             *         -
+bn/vom/01/vom_0172   0   25       出现    VV                (VP(VP*   -   01   -   -          *             *         *         *             *             *        *           (V*)           *            *      *             *         -
+bn/vom/01/vom_0172   0   26       暴力    NN                   (NP*   -    -   -   -          *             *         *         *             *             *        *        (ARG1*            *            *      *             *         -
+bn/vom/01/vom_0172   0   27       危机    NN                   *))))  -    -   -   -          *             *         *         *             *             *        *             *)           *            *      *             *         -
+bn/vom/01/vom_0172   0   28        的   DEC                     *))  -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   29       时刻    NN                 (NP*)))  -    -   -   -          *             *         *         *             *             *        *    (ARGM-TMP*)           *)           *)     *             *         -
+bn/vom/01/vom_0172   0   30        ，    PU                      *   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   31       投票    VV                (VP(VP*)  -   01   -   -          *             *         *         *             *             *        *             *          (V*)           *      *             *         -
+bn/vom/01/vom_0172   0   32        把    BA                   (VP*   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   33       现任    JJ           (IP(NP(ADJP*)  -    -   -   -          *             *         *         *             *             *        *             *            *       (ARG1*      *             *       (17
+bn/vom/01/vom_0172   0   34       政府    NN                  (NP*))  -    -   -   -          *             *         *         *             *             *        *             *            *            *)     *             *        17)
+bn/vom/01/vom_0172   0   35        拉    VV               (VP(VRD*   -   01   -   -          *             *         *         *             *             *        *             *            *          (V*)     *             *         -
+bn/vom/01/vom_0172   0   36       下台    VV              *)))))))))  -   01   -   -          *             *         *         *             *             *)       *)            *            *            *    (V*)            *         -
+bn/vom/01/vom_0172   0   37        ，    PU                      *   -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   38        不    AD           (IP(VP(ADVP*)  -    -   -   -          *             *         *         *             *             *        *             *            *            *      *    (ARGM-ADV*)        -
+bn/vom/01/vom_0172   0   39        是    VC                   (VP*   -   01   1   -          *             *         *         *             *             *        *             *            *            *      *           (V*)        -
+bn/vom/01/vom_0172   0   40     爱国主义    NN            (NP(DNP(NP*)  -    -   -   -          *             *         *         *             *             *        *             *            *            *      *        (ARG1*         -
+bn/vom/01/vom_0172   0   41        的   DEG                      *)  -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+bn/vom/01/vom_0172   0   42       表现    NN             (NP*)))))))  -    -   4   -          *             *         *         *             *             *        *             *            *            *      *             *)        -
+bn/vom/01/vom_0172   0   43        。    PU                     *))  -    -   -   -          *             *         *         *             *             *        *             *            *            *      *             *         -
+
+bn/vom/01/vom_0172   0    0    巴拉克    NR         (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)            *             *         *     (9)
+bn/vom/01/vom_0172   0    1     表示    VV                (VP*   -   01   2   -          *       (V*)            *             *         *      -
+bn/vom/01/vom_0172   0    2      他    PN             (IP(NP*)  -    -   -   -          *    (ARG1*             *        (ARG0*)        *     (9)
+bn/vom/01/vom_0172   0    3     已经    AD           (VP(ADVP*)  -    -   -   -          *         *             *    (ARGM-ADV*)        *      -
+bn/vom/01/vom_0172   0    4      为     P                (PP*   -    -   5   -          *         *             *    (ARGM-PRP*         *      -
+bn/vom/01/vom_0172   0    5     提前    AD        (IP(VP(ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)            *         *      -
+bn/vom/01/vom_0172   0    6     举行    VV                (VP*   -   01   -   -          *         *           (V*)            *         *      -
+bn/vom/01/vom_0172   0    7     大选    NN            (NP*)))))  -    -   -   -          *         *        (ARG1*)            *)        *    (13)
+bn/vom/01/vom_0172   0    8     做好    VV                (VP*   -   01   -   -          *         *             *           (V*)        *      -
+bn/vom/01/vom_0172   0    9      了    AS                   *   -    -   -   -          *         *             *             *         *      -
+bn/vom/01/vom_0172   0   10     充分    VA   (NP(CP(CP(IP(VP*))  -   01   -   -          *         *             *        (ARG1*       (V*)     -
+bn/vom/01/vom_0172   0   11      的   DEC                  *))  -    -   -   -          *         *             *             *         *      -
+bn/vom/01/vom_0172   0   12     准备    NN           (NP*))))))  -    -   3   -          *         *)            *             *)   (ARG0*)     -
+bn/vom/01/vom_0172   0   13      。    PU                  *))  -    -   -   -          *         *             *             *         *      -
+
+bn/vom/01/vom_0172   0    0    巴拉克    NR   (TOP(IP(IP(NP(DNP(NP*)  -    -    -   -    (PERSON)       (ARG0*             *             *    (9)
+bn/vom/01/vom_0172   0    1      的   DEG                       *)  -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0    2     决定    NN                   (NP*))  -    -    -   -          *             *)            *             *     -
+bn/vom/01/vom_0172   0    3     不仅    AD               (VP(ADVP*)  -    -    -   -          *    (ARGM-DIS*)            *             *     -
+bn/vom/01/vom_0172   0    4     震惊    VV                    (VP*   -   01    -   -          *           (V*)            *             *     -
+bn/vom/01/vom_0172   0    5      了    AS                       *   -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0    6    以色列    NR                 (NP(NP*)  -    -    -   -       (GPE)       (ARG1*             *             *   (10
+bn/vom/01/vom_0172   0    7      全    DT                    (DP*)  -    -    2   -          *             *             *             *     -
+bn/vom/01/vom_0172   0    8      国    NN                (NP*)))))  -    -    -   -          *             *)            *             *    10)
+bn/vom/01/vom_0172   0    9      ，    PU                       *   -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   10      就    AD            (IP(NP(ADVP*)  -    -   12   -          *             *        (ARG0*             *     -
+bn/vom/01/vom_0172   0   11      连    AD                  (ADVP*)  -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   12    巴拉克    NR          (NP(DNP(NP(NP*)  -    -    -   -    (PERSON)            *             *             *    (9)
+bn/vom/01/vom_0172   0   13     手下    NN                   (NP*))  -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   14      的   DEG                       *)  -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   15     一些    CD                    (QP*)  -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   16     内阁    NN                    (NP*   -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   17     部长    NN                     *)))  -    -    -   -          *             *             *)            *     -
+bn/vom/01/vom_0172   0   18      ，    PU                       *   -    -    -   -          *             *             *             *     -
+bn/vom/01/vom_0172   0   19      也    AD               (VP(ADVP*)  -    -    -   -          *             *    (ARGM-ADV*)            *     -
+bn/vom/01/vom_0172   0   20     感到    VV                    (VP*   -   01    -   -          *             *           (V*)            *     -
+bn/vom/01/vom_0172   0   21     非常    AD            (IP(VP(ADVP*)  -    -    -   -          *             *        (ARG1*    (ARGM-ADV*)    -
+bn/vom/01/vom_0172   0   22     吃惊    VV               (VP*))))))  -   01    -   -          *             *             *)          (V*)    -
+bn/vom/01/vom_0172   0   23      。    PU                      *))  -    -    -   -          *             *             *             *     -
+
+bn/vom/01/vom_0172   0    0      巴拉克    NR   (TOP(IP(IP(NP(DNP(NP*)  -    -   -   -    (PERSON)     *        (ARG0*             *        *             *            *             *      *         *         *         *        (9)
+bn/vom/01/vom_0172   0    1        的   DEG                       *)  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    2       总理    NN                    (NP*   -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    3       任期    NN                      *))  -    -   -   -          *      *             *)            *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    4        本    AD               (VP(ADVP*)  -    -   4   -          *      *    (ARGM-ADV*)            *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    5        应    VV                    (VP*   -   02   1   -          *    (V*)            *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    6        到     P                 (VP(PP*   -    -   5   -          *      *    (ARGM-TMP*             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    7    ２００３年    NT                   (NP*))  -    -   -   -      (DATE)     *             *)            *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    8       届满    VV                (VP*)))))  -   01   -   -          *      *           (V*)            *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0    9        ，    PU                       *   -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   10       但是    AD               (IP(ADVP*)  -    -   -   -          *      *             *    (ARGM-DIS*)       *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   11        他    PN                    (NP*)  -    -   -   -          *      *             *        (ARG0*)       *             *            *             *      *         *         *         *        (9)
+bn/vom/01/vom_0172   0   12        却    AD               (VP(ADVP*)  -    -   -   -          *      *             *    (ARGM-DIS*)       *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   13       主动    AD                  (ADVP*)  -    -   -   -          *      *             *    (ARGM-ADV*)       *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   14       宣布    VV                    (VP*   -   01   -   -          *      *             *           (V*)       *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   15       同意    VV                 (IP(VP*   -   02   1   -          *      *             *        (ARG1*      (V*)            *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   16       提前    AD            (IP(VP(ADVP*)  -    -   -   -          *      *             *             *   (ARG1*    (ARGM-ADV*)           *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   17       举行    VV                    (VP*   -   01   -   -          *      *             *             *        *           (V*)           *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   18       大选    NN            (NP*)))))))))  -    -   -   -          *      *             *             *)       *)       (ARG1*)           *             *      *         *         *         *       (13)
+bn/vom/01/vom_0172   0   19        ，    PU                       *   -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   20        在     P                 (IP(PP*   -    -   2   -          *      *             *             *        *             *   (ARGM-TMP*             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   21        这    PN                (LCP(NP*)  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *        (0)
+bn/vom/01/vom_0172   0   22       之前    LC                      *))  -    -   -   -          *      *             *             *        *             *            *)            *      *         *         *         *         -
+bn/vom/01/vom_0172   0   23        ，    PU                       *   -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   24       人们    NN                    (NP*)  -    -   -   -          *      *             *             *        *             *       (ARG0*)            *      *         *         *         *         -
+bn/vom/01/vom_0172   0   25       预料    VV                    (VP*   -   01   -   -          *      *             *             *        *             *          (V*)            *      *         *         *         *         -
+bn/vom/01/vom_0172   0   26      巴拉克    NR                 (IP(NP*)  -    -   -   -    (PERSON)     *             *             *        *             *       (ARG1*        (ARG0*)     *         *         *         *        (9)
+bn/vom/01/vom_0172   0   27        将    AD               (VP(ADVP*)  -    -   -   -          *      *             *             *        *             *            *    (ARGM-ADV*)     *         *         *         *         -
+bn/vom/01/vom_0172   0   28       面临    VV                    (VP*   -   01   -   -          *      *             *             *        *             *            *           (V*)     *         *         *         *         -
+bn/vom/01/vom_0172   0   29       国会    NN          (NP(DNP(NP(NP*)  -    -   -   -       (ORG)     *             *             *        *             *            *        (ARG1*      *         *         *         *         -
+bn/vom/01/vom_0172   0   30      不信任    JJ                  (ADJP*)  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   31       议案    NN                   (NP*))  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   32        的   DEG                       *)  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   33      决定性    JJ                  (ADJP*)  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   34       投票    NN              (NP*)))))))  -    -   -   -          *      *             *             *        *             *            *)            *)     *         *         *         *         -
+bn/vom/01/vom_0172   0   35        ，    PU                       *   -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   36       投票    NN                 (IP(NP*   -    -   -   -          *      *             *             *        *             *            *             *      *    (ARG0*    (ARG0*         *         -
+bn/vom/01/vom_0172   0   37       结果    NN                       *)  -    -   -   -          *      *             *             *        *             *            *             *      *         *)        *)        *         -
+bn/vom/01/vom_0172   0   38       可能    VV                    (VP*   -   01   -   -          *      *             *             *        *             *            *             *    (V*)        *         *         *         -
+bn/vom/01/vom_0172   0   39        令    VV                 (VP(VP*   -   01   1   -          *      *             *             *        *             *            *             *      *       (V*)        *         *         -
+bn/vom/01/vom_0172   0   40        他    PN             (NP(DNP(NP*)  -    -   -   -          *      *             *             *        *             *            *             *      *    (ARG1*         *         *    (17|(9)
+bn/vom/01/vom_0172   0   41        的   DEG                       *)  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   42       政府    NN                   (NP*))  -    -   -   -          *      *             *             *        *             *            *             *      *         *)        *         *        17)
+bn/vom/01/vom_0172   0   43       倒台    VV               (IP(VP*)))  -    -   -   -          *      *             *             *        *             *            *             *      *    (ARG2*)        *         *         -
+bn/vom/01/vom_0172   0   44        ，    PU                       *   -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+bn/vom/01/vom_0172   0   45       迫使    VV                    (VP*   -   01   -   -          *      *             *             *        *             *            *             *      *         *       (V*)        *         -
+bn/vom/01/vom_0172   0   46        他    PN                    (NP*)  -    -   -   -          *      *             *             *        *             *            *             *      *         *    (ARG1*)        *        (9)
+bn/vom/01/vom_0172   0   47       举行    VV                 (IP(VP*   -   01   -   -          *      *             *             *        *             *            *             *      *         *    (ARG2*       (V*)        -
+bn/vom/01/vom_0172   0   48       选举    NN              (NP*)))))))  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *)   (ARG1*)        -
+bn/vom/01/vom_0172   0   49        。    PU                      *))  -    -   -   -          *      *             *             *        *             *            *             *      *         *         *         *         -
+
+bn/vom/01/vom_0172   0    0    巴拉克    NR   (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)            *             *     (9)
+bn/vom/01/vom_0172   0    1     表示    VV          (VP*   -   01   2   -          *       (V*)            *             *      -
+bn/vom/01/vom_0172   0    2      他    PN       (IP(NP*)  -    -   -   -          *    (ARG1*        (ARG0*)       (ARG0*)    (9)
+bn/vom/01/vom_0172   0    3      将    AD     (VP(ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bn/vom/01/vom_0172   0    4      在     P          (PP*   -    -   2   -          *         *    (ARGM-TMP*    (ARGM-TMP*      -
+bn/vom/01/vom_0172   0    5     今后    NT   (LCP(QP(NP*)  -    -   -   -     (DATE*         *             *             *      -
+bn/vom/01/vom_0172   0    6      几    CD          (QP*   -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0    7      天     M       (CLP*)))  -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0    8      内    LC            *))  -    -   -   -          *)        *             *)            *)     -
+bn/vom/01/vom_0172   0    9      ，    PU             *   -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0   10      同     P          (PP*   -    -   -   -          *         *        (ARG0*        (ARG0*      -
+bn/vom/01/vom_0172   0   11    反对党    NN       (NP(NP*)  -    -   -   -      (ORG*         *             *             *     (2
+bn/vom/01/vom_0172   0   12    利库德    NR          (NP*   -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0   13     集团    NN           *)))  -    -   -   -          *)        *             *)            *)     2)
+bn/vom/01/vom_0172   0   14     举行    VV       (VP(VP*   -   01   -   -          *         *           (V*)            *      -
+bn/vom/01/vom_0172   0   15     会谈    NN         (NP*))  -    -   -   -          *         *        (ARG1*)            *    (14)
+bn/vom/01/vom_0172   0   16      ，    PU             *   -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0   17     讨论    VV          (VP*   -   01   -   -          *         *             *           (V*)     -
+bn/vom/01/vom_0172   0   18     大选    NN   (NP(DNP(NP*   -    -   -   -          *         *             *        (ARG1*      -
+bn/vom/01/vom_0172   0   19     时期    NN             *)  -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0   20      的   DEG             *)  -    -   -   -          *         *             *             *      -
+bn/vom/01/vom_0172   0   21     问题    NN    (NP*)))))))  -    -   -   -          *         *)            *             *)     -
+bn/vom/01/vom_0172   0   22      。    PU            *))  -    -   -   -          *         *             *             *      -
+
+bn/vom/01/vom_0172   0    0    政治   NN      (TOP(IP(NP*   -    -   -   -        *   (ARG0*      *            *      -
+bn/vom/01/vom_0172   0    1    分析   NN                *   -    -   -   -        *        *      *            *      -
+bn/vom/01/vom_0172   0    2    人士   NN                *)  -    -   -   -        *        *)     *            *      -
+bn/vom/01/vom_0172   0    3    预计   VV             (VP*   -   01   -   -        *      (V*)     *            *      -
+bn/vom/01/vom_0172   0    4     ，   PU                *   -    -   -   -        *        *      *            *      -
+bn/vom/01/vom_0172   0    5    大选   NN          (IP(NP*)  -    -   -   -        *   (ARG1*      *       (ARG1*)   (13)
+bn/vom/01/vom_0172   0    6     最   AD   (VP(ADVP(ADVP*)  -    -   -   -        *        *      *   (ARGM-ADV*      -
+bn/vom/01/vom_0172   0    7     早   AD          (ADVP*))  -    -   -   -        *        *      *            *)     -
+bn/vom/01/vom_0172   0    8     可   VV             (VP*   -   01   1   -        *        *    (V*)           *      -
+bn/vom/01/vom_0172   0    9     在    P          (VP(PP*   -    -   2   -        *        *      *   (ARGM-TMP*      -
+bn/vom/01/vom_0172   0   10    明年   NT             (NP*   -    -   -   -   (DATE*        *      *            *      -
+bn/vom/01/vom_0172   0   11    春天   NT               *))  -    -   -   -        *)       *      *            *)     -
+bn/vom/01/vom_0172   0   12    举行   VV        (VP*))))))  -   01   -   -        *        *)     *          (V*)     -
+bn/vom/01/vom_0172   0   13     。   PU               *))  -    -   -   -        *        *      *            *      -
+
+bn/vom/01/vom_0172   0    0       分析    NN           (TOP(IP(NP*   -    -   -   -          *        (ARG0*         *            *             *     -
+bn/vom/01/vom_0172   0    1       人士    NN                     *)  -    -   -   -          *             *)        *            *             *     -
+bn/vom/01/vom_0172   0    2        还    AD             (VP(ADVP*)  -    -   -   -          *    (ARGM-DIS*)        *            *             *     -
+bn/vom/01/vom_0172   0    3        说    VV                  (VP*   -   01   7   -          *           (V*)        *            *             *     -
+bn/vom/01/vom_0172   0    4        ，    PU                     *   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0    5       如果    CS          (IP(CP(ADVP*)  -    -   -   -          *        (ARG1*         *            *             *     -
+bn/vom/01/vom_0172   0    6      巴拉克    NR            (CP(IP(NP*)  -    -   -   -    (PERSON)            *    (ARG1*)           *             *    (9)
+bn/vom/01/vom_0172   0    7        被    SB                  (VP*   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0    8       选为    VV                  (VP*   -   01   -   -          *             *       (V*)           *             *     -
+bn/vom/01/vom_0172   0    9       公党    NR               (NP(NP*)  -    -   -   -       (ORG)            *    (ARG2*            *             *     -
+bn/vom/01/vom_0172   0   10       总统    NN                  (NP*   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   11      候选人    NN                 *)))))  -    -   -   -          *             *         *)           *             *     -
+bn/vom/01/vom_0172   0   12       的话    SP                    *))  -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   13        ，    PU                     *   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   14        这    PN                  (NP*)  -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   15        就    AD             (VP(ADVP*)  -    -   2   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   16       意味    VV                  (VP*   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   17        着    AS                     *   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   18        他    PN               (IP(NP*)  -    -   -   -          *             *         *            *        (ARG0*)   (9)
+bn/vom/01/vom_0172   0   19        在     P               (VP(PP*   -    -   2   -          *             *         *            *    (ARGM-TMP*     -
+bn/vom/01/vom_0172   0   20        以     P  (LCP(QP(CP(IP(VP(PP*   -    -   -   -          *             *         *   (ARGM-MNR*             *     -
+bn/vom/01/vom_0172   0   21      压倒性    JJ             (NP(ADJP*)  -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   22       多数    NN                (NP*)))  -    -   -   -          *             *         *            *)            *     -
+bn/vom/01/vom_0172   0   23       战胜    VV                  (VP*   -   01   -   -          *             *         *          (V*)            *     -
+bn/vom/01/vom_0172   0   24        前    JJ          (NP(NP(ADJP*)  -    -   -   -          *             *         *       (ARG1*             *   (18
+bn/vom/01/vom_0172   0   25       总理    NN                 (NP*))  -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   26    内塔尼亚胡    NR              (NP*)))))  -    -   -   -    (PERSON)            *         *            *)            *    18)
+bn/vom/01/vom_0172   0   27        的   DEC                     *)  -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   28        两    CD                  (QP*   -    -   -   -     (DATE*             *         *            *             *     -
+bn/vom/01/vom_0172   0   29        年     M               (CLP*)))  -    -   -   -          *)            *         *            *             *     -
+bn/vom/01/vom_0172   0   30        后    LC                    *))  -    -   -   -          *             *         *            *             *)    -
+bn/vom/01/vom_0172   0   31        ，    PU                     *   -    -   -   -          *             *         *            *             *     -
+bn/vom/01/vom_0172   0   32        将    AD                (ADVP*)  -    -   -   -          *             *         *            *    (ARGM-ADV*)    -
+bn/vom/01/vom_0172   0   33       重新    AD                (ADVP*)  -    -   -   -          *             *         *            *    (ARGM-ADV*)    -
+bn/vom/01/vom_0172   0   34       进行    VV                  (VP*   -   01   3   -          *             *         *            *           (V*)    -
+bn/vom/01/vom_0172   0   35       竞选    NN                  (NP*   -    -   -   -          *             *         *            *        (ARG1*     -
+bn/vom/01/vom_0172   0   36       活动    NN             *)))))))))  -    -   2   -          *             *)        *            *             *)    -
+bn/vom/01/vom_0172   0   37        。    PU                    *))  -    -   -   -          *             *         *            *             *     -
+
+bn/vom/01/vom_0172   0    0       虽然    CS     (TOP(IP(CP(ADVP*)  -    -   -   -          *         *    (ARGM-DIS*)        *   (ARGM-ADV*         *         *      -
+bn/vom/01/vom_0172   0    1       来自    VV  (IP(NP(CP(CP(IP(VP*   -   01   -   -          *       (V*)       (ARG0*         *            *         *         *    (18
+bn/vom/01/vom_0172   0    2      利库德    NR                 (NP*   -    -   -   -      (ORG*    (ARG1*             *         *            *         *         *     (2
+bn/vom/01/vom_0172   0    3       集团    NN                  *)))  -    -   -   -          *)        *)            *         *            *         *         *      2)
+bn/vom/01/vom_0172   0    4        的   DEC                   *))  -    -   -   -          *         *             *         *            *         *         *      -
+bn/vom/01/vom_0172   0    5    内塔尼亚胡    NR                (NP*))  -    -   -   -    (PERSON)   (ARG0*)            *)        *            *         *         *     18)
+bn/vom/01/vom_0172   0    6        尚    AD            (VP(ADVP*)  -    -   -   -          *         *    (ARGM-DIS*)        *            *         *         *      -
+bn/vom/01/vom_0172   0    7        未    AD               (ADVP*)  -    -   1   -          *         *    (ARGM-ADV*)        *            *         *         *      -
+bn/vom/01/vom_0172   0    8       宣布    VV                 (VP*   -   01   -   -          *         *           (V*)        *            *         *         *      -
+bn/vom/01/vom_0172   0    9        他    PN              (IP(NP*)  -    -   -   -          *         *        (ARG1*    (ARG0*)           *         *         *    (18)
+bn/vom/01/vom_0172   0   10       是否    VV                 (VP*   -    -   -   -          *         *             *         *            *         *         *      -
+bn/vom/01/vom_0172   0   11       参加    VV                 (VP*   -   01   -   -          *         *             *       (V*)           *         *         *      -
+bn/vom/01/vom_0172   0   12       竞选    NN          (NP*))))))))  -    -   -   -          *         *             *)   (ARG1*)           *)        *         *    (13)
+bn/vom/01/vom_0172   0   13        ，    PU                    *   -    -   -   -          *         *             *         *            *         *         *      -
+bn/vom/01/vom_0172   0   14       许多    CD              (NP(QP*)  -    -   -   -          *         *             *         *       (ARG0*         *         *      -
+bn/vom/01/vom_0172   0   15        人    NN                (NP*))  -    -   -   -          *         *             *         *            *)        *         *      -
+bn/vom/01/vom_0172   0   16       预计    VV                 (VP*   -   01   -   -          *         *             *         *          (V*)        *         *      -
+bn/vom/01/vom_0172   0   17        ，    PU                    *   -    -   -   -          *         *             *         *            *         *         *      -
+bn/vom/01/vom_0172   0   18        他    PN              (IP(NP*)  -    -   -   -          *         *             *         *       (ARG1*         *    (ARG0*)   (18)
+bn/vom/01/vom_0172   0   19        有    VE              (VP(VP*   -   03   3   -          *         *             *         *            *       (V*)        *      -
+bn/vom/01/vom_0172   0   20       可能    NN                (NP*))  -    -   -   -          *         *             *         *            *    (ARG1*)        *      -
+bn/vom/01/vom_0172   0   21       重返    VV                 (VP*   -   01   -   -          *         *             *         *            *         *       (V*)     -
+bn/vom/01/vom_0172   0   22       政坛    NN             (NP*)))))  -    -   -   -          *         *             *         *            *)        *    (ARG1*)     -
+bn/vom/01/vom_0172   0   23        。    PU                   *))  -    -   -   -          *         *             *         *            *         *         *      -
+
+bn/vom/01/vom_0172   0    0     另外   AD   (TOP(IP(IP(ADVP*)  -    -   -   -          *    (ARGM-DIS*)            *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0    1    反对党   NN      (NP(NP(NP(NP*)  -    -   -   -      (ORG*        (ARG0*             *        *         *             *        *             *   (2|(8
+bn/vom/01/vom_0172   0    2    利库德   NR               (NP*   -    -   -   -          *             *             *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0    3     集团   NN                 *))  -    -   -   -          *)            *             *        *         *             *        *             *       2)
+bn/vom/01/vom_0172   0    4    领导人   NN              (NP*))  -    -   -   -          *             *             *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0    5     沙龙   NR              (NP*))  -    -   -   -    (PERSON)            *)            *        *         *             *        *             *       8)
+bn/vom/01/vom_0172   0    6     表示   VV               (VP*   -   01   2   -          *           (V*)            *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0    7      ，   PU                  *   -    -   -   -          *             *             *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0    8      他   PN            (IP(NP*)  -    -   -   -          *        (ARG1*        (ARG0*)       *         *             *        *             *      (8)
+bn/vom/01/vom_0172   0    9     仍然   AD          (VP(ADVP*)  -    -   -   -          *             *    (ARGM-ADV*)       *         *             *        *             *       -
+bn/vom/01/vom_0172   0   10     愿意   VV               (VP*   -   01   -   -          *             *           (V*)       *         *             *        *             *       -
+bn/vom/01/vom_0172   0   11      就    P         (IP(VP(PP*   -    -   1   -          *             *        (ARG1*        *         *             *        *             *       -
+bn/vom/01/vom_0172   0   12     举行   VV            (IP(VP*   -   01   -   -          *             *             *      (V*)        *             *        *             *       -
+bn/vom/01/vom_0172   0   13     联合   JJ       (NP(NP(ADJP*)  -    -   2   -          *             *             *   (ARG1*         *             *        *             *       -
+bn/vom/01/vom_0172   0   14     政府   NN              (NP*))  -    -   -   -          *             *             *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0   15     仪式   NN           (NP*)))))  -    -   -   -          *             *             *        *)        *             *        *             *       -
+bn/vom/01/vom_0172   0   16      与    P               (PP*   -    -   -   -          *             *             *        *    (ARG1*             *        *             *       -
+bn/vom/01/vom_0172   0   17    巴拉克   NR              (NP*))  -    -   -   -    (PERSON)            *             *        *         *)            *        *             *      (9)
+bn/vom/01/vom_0172   0   18     举行   VV               (VP*   -   01   -   -          *             *             *        *       (V*)            *        *             *       -
+bn/vom/01/vom_0172   0   19     会谈   NN       (NP*)))))))))  -    -   -   -          *             *)            *)       *    (ARG1*)            *        *             *     (14)
+bn/vom/01/vom_0172   0   20      ，   PU                  *   -    -   -   -          *             *             *        *         *             *        *             *       -
+bn/vom/01/vom_0172   0   21    巴拉克   NR            (IP(NP*)  -    -   -   -    (PERSON)            *             *        *         *        (ARG0*)       *        (ARG0*)     (9)
+bn/vom/01/vom_0172   0   22     曾经   AD       (VP(VP(ADVP*)  -    -   -   -          *             *             *        *         *    (ARGM-ADV*)       *             *       -
+bn/vom/01/vom_0172   0   23     希望   VV               (VP*   -   02   1   -          *             *             *        *         *           (V*)       *             *       -
+bn/vom/01/vom_0172   0   24      和    P         (IP(VP(PP*   -    -   -   -          *             *             *        *         *        (ARG1*   (ARG0*             *       -
+bn/vom/01/vom_0172   0   25     沙龙   NR              (NP*))  -    -   -   -    (PERSON)            *             *        *         *             *        *)            *      (8)
+bn/vom/01/vom_0172   0   26     合作   VV           (VP*)))))  -   01   -   -          *             *             *        *         *             *)     (V*)            *       -
+bn/vom/01/vom_0172   0   27     但是   AD          (VP(ADVP*)  -    -   -   -          *             *             *        *         *             *        *    (ARGM-DIS*)      -
+bn/vom/01/vom_0172   0   28     没有   AD             (ADVP*)  -    -   2   -          *             *             *        *         *             *        *    (ARGM-ADV*)      -
+bn/vom/01/vom_0172   0   29     取得   VV               (VP*   -   01   -   -          *             *             *        *         *             *        *           (V*)      -
+bn/vom/01/vom_0172   0   30     成功   NN           (NP*)))))  -    -   -   -          *             *             *        *         *             *        *        (ARG1*)      -
+bn/vom/01/vom_0172   0   31      。   PU                 *))  -    -   -   -          *             *             *        *         *             *        *             *       -
+
+bn/vom/01/vom_0172   0    0    巴拉克    NR         (TOP(IP(NP*)  -    -   -   -    (PERSON)           *        *        (ARG0*)        *     (9)
+bn/vom/01/vom_0172   0    1     自从     P             (VP(PP*   -    -   -   -          *            *        *    (ARGM-TMP*         *      -
+bn/vom/01/vom_0172   0    2     去年    NT      (LCP(IP(VP(NP*   -    -   -   -     (DATE*   (ARGM-TMP*        *             *         *      -
+bn/vom/01/vom_0172   0    3     五月    NT                   *)  -    -   -   -          *)           *)       *             *         *      -
+bn/vom/01/vom_0172   0    4     当选    VV                (VP*   -   01   -   -          *          (V*)       *             *         *      -
+bn/vom/01/vom_0172   0    5    以色列    NR             (NP(NP*)  -    -   -   -       (GPE)      (ARG1*        *             *         *    (10)
+bn/vom/01/vom_0172   0    6     总统    NN            (NP*)))))  -    -   -   -          *            *)       *             *         *      -
+bn/vom/01/vom_0172   0    7     以来    LC                  *))  -    -   -   -          *            *        *             *)        *      -
+bn/vom/01/vom_0172   0    8      ，    PU                   *   -    -   -   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0    9      在     P                (PP*   -    -   2   -          *            *        *    (ARGM-LOC*         *      -
+bn/vom/01/vom_0172   0   10     处理    VV         (LCP(IP(VP*   -   02   2   -          *            *      (V*)            *         *      -
+bn/vom/01/vom_0172   0   11     中东    NR       (NP(NP(NP(NP*)  -    -   -   -       (LOC)           *   (ARG1*             *         *     (3)
+bn/vom/01/vom_0172   0   12     和谈    NN               (NP*))  -    -   -   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0   13      和    CC                   *   -    -   -   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0   14      以    NR             (NP(NP*   -    -   -   -       (GPE)           *        *             *         *     (7
+bn/vom/01/vom_0172   0   15      巴    NR                   *)  -    -   -   -       (GPE)           *        *             *         *      7)
+bn/vom/01/vom_0172   0   16     暴力    NN                (NP*   -    -   -   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0   17     冲突    NN                  *))  -    -   -   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0   18      等   ETC                   *)  -    -   2   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0   19     问题    NN             (NP*))))  -    -   -   -          *            *        *)            *         *      -
+bn/vom/01/vom_0172   0   20      上    LC                  *))  -    -   3   -          *            *        *             *)        *      -
+bn/vom/01/vom_0172   0   21     不断    AD              (ADVP*)  -    -   -   -          *            *        *    (ARGM-ADV*)        *      -
+bn/vom/01/vom_0172   0   22     受到    VV                (VP*   -   01   1   -          *            *        *           (V*)        *      -
+bn/vom/01/vom_0172   0   23     猛烈    VA   (NP(CP(CP(IP(VP*))  -   01   -   -          *            *        *        (ARG1*       (V*)     -
+bn/vom/01/vom_0172   0   24      的   DEC                  *))  -    -   -   -          *            *        *             *         *      -
+bn/vom/01/vom_0172   0   25     抨击    NN             (NP*))))  -    -   -   -          *            *        *             *)   (ARG0*)     -
+bn/vom/01/vom_0172   0   26      。    PU                  *))  -    -   -   -          *            *        *             *         *      -
+
+bn/vom/01/vom_0172   0    0        《    PU                (TOP(IP(NP*   -    -    -   -          *   (ARG2*             *             *        *         *      *             *        *             *   (16
+bn/vom/01/vom_0172   0    1       纽约    NR                          *   -    -    -   -      (ORG*        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    2       时报    NN                          *   -    -    -   -          *)       *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    3        》    PU                          *)  -    -    -   -          *        *)            *             *        *         *      *             *        *             *    16)
+bn/vom/01/vom_0172   0    4        说    VV                       (VP*   -   01    8   -          *      (V*)            *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    5        ：    PU                          *   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    6        近    JJ        (IP(IP(LCP(NP(ADJP*)  -    -    -   -     (DATE*   (ARG1*    (ARGM-TMP*             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    7        几    CD                       (QP*   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    8        个     M                     (CLP*))  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0    9        月    NN                      (NP*))  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   10        来    LC                          *)  -    -   13   -          *)       *             *)            *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   11        ，    PU                          *   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   12      巴拉克    NR                    (NP(NP*)  -    -    -   -    (PERSON)       *        (ARG0*             *        *         *      *             *        *             *    (9)
+bn/vom/01/vom_0172   0   13        在     P                   (DNP(PP*   -    -    2   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   14      老百姓    NN                   (LCP(NP*)  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   15        中    LC                         *))  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   16        的   DEG                          *)  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   17       声望    NN                      (NP*))  -    -    -   -          *        *             *)            *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   18       急剧    AD                  (VP(ADVP*)  -    -    -   -          *        *    (ARGM-ADV*)            *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   19       下降    VV                     (VP*)))  -   01    1   -          *        *           (V*)            *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   20        ，    PU                          *   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   21      越来越    AD   (IP(NP(CP(CP(IP(VP(ADVP*)  -    -    -   -          *        *             *    (ARGM-ADV*)  (ARG0*         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   22        多    VA                     (VP*)))  -   03    -   -          *        *             *           (V*)       *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   23        的   DEC                         *))  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   24     以色列人    NN                      (NP*))  -    -    -   -      (NORP)       *             *        (ARG0*)       *)        *      *             *        *             *     -
+bn/vom/01/vom_0172   0   25       认为    VV                       (VP*   -   01    1   -          *        *             *             *      (V*)        *      *             *        *             *     -
+bn/vom/01/vom_0172   0   26        他    PN                    (IP(NP*)  -    -    -   -          *        *             *             *   (ARG1*    (ARG0*)     *             *        *             *    (9)
+bn/vom/01/vom_0172   0   27       缺乏    VV                       (VP*   -   01    -   -          *        *             *             *        *       (V*)     *             *        *             *     -
+bn/vom/01/vom_0172   0   28       效率    NN                    (NP*))))  -    -    -   -          *        *             *             *        *)   (ARG1*)     *             *        *             *     -
+bn/vom/01/vom_0172   0   29        ，    PU                          *   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   30       因为     P                       (PP*   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   31        他    PN                    (IP(NP*)  -    -    -   -          *        *             *             *        *         *      *        (ARG0*)       *        (ARG0*)   (9)
+bn/vom/01/vom_0172   0   32        不    AD               (VP(VP(ADVP*)  -    -    -   -          *        *             *             *        *         *      *    (ARGM-ADV*)       *             *     -
+bn/vom/01/vom_0172   0   33        能    VV                       (VP*   -   01    1   -          *        *             *             *        *         *    (V*)            *        *             *     -
+bn/vom/01/vom_0172   0   34       制止    VV                       (VP*   -   01    -   -          *        *             *             *        *         *      *           (V*)       *             *     -
+bn/vom/01/vom_0172   0   35        以    NR            (NP(DNP(LCP(NP*   -    -    -   -       (GPE)       *             *             *        *         *      *        (ARG1*        *             *    (7
+bn/vom/01/vom_0172   0   36        巴    NR                          *)  -    -    -   -       (GPE)       *             *             *        *         *      *             *        *             *     7)
+bn/vom/01/vom_0172   0   37       之间    LC                          *)  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   38        的   DEG                          *)  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   39       暴力    NN                       (NP*   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   40       冲突    NN                      *)))))  -    -    -   -          *        *             *             *        *         *      *             *)       *             *     -
+bn/vom/01/vom_0172   0   41        ，    PU                          *   -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+bn/vom/01/vom_0172   0   42       而且    AD                  (VP(ADVP*)  -    -    -   -          *        *             *             *        *         *      *             *        *    (ARGM-DIS*)    -
+bn/vom/01/vom_0172   0   43        在     P                       (PP*   -    -    2   -          *        *             *             *        *         *      *             *        *        (ARG2*     -
+bn/vom/01/vom_0172   0   44        与     P              (NP(IP(VP(PP*   -    -    -   -          *        *             *             *        *         *      *             *   (ARG0*             *     -
+bn/vom/01/vom_0172   0   45    巴勒斯坦人    NN                      (NP*))  -    -    -   -      (NORP)       *             *             *        *         *      *             *        *)            *     -
+bn/vom/01/vom_0172   0   46       达成    VV                       (VP*   -   01    -   -          *        *             *             *        *         *      *             *      (V*)            *     -
+bn/vom/01/vom_0172   0   47       和平    NN                       (NP*   -    -    1   -          *        *             *             *        *         *      *             *   (ARG1*             *    (6
+bn/vom/01/vom_0172   0   48       协议    NN                       *))))  -    -    -   -          *        *             *             *        *         *      *             *        *)            *     6)
+bn/vom/01/vom_0172   0   49       方面    NN                     (NP*)))  -    -    -   -          *        *             *             *        *         *      *             *        *             *)    -
+bn/vom/01/vom_0172   0   50        也    AD                     (ADVP*)  -    -    -   -          *        *             *             *        *         *      *             *        *    (ARGM-DIS*)    -
+bn/vom/01/vom_0172   0   51       没有    AD                     (ADVP*)  -    -    2   -          *        *             *             *        *         *      *             *        *    (ARGM-ADV*)    -
+bn/vom/01/vom_0172   0   52       取得    VV                       (VP*   -   01    -   -          *        *             *             *        *         *      *             *        *           (V*)    -
+bn/vom/01/vom_0172   0   53       进展    NN               (NP*)))))))))  -    -    -   -          *        *)            *             *        *         *      *             *        *        (ARG1*)    -
+bn/vom/01/vom_0172   0   54        。    PU                         *))  -    -    -   -          *        *             *             *        *         *      *             *        *             *     -
+
+bn/vom/01/vom_0172   0    0      《    PU           (TOP(IP(NP*   -    -   -   -          *   (ARG0*         *             *         *             *            *            *        (16
+bn/vom/01/vom_0172   0    1     纽约    NR                     *   -    -   -   -      (ORG*        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0    2     时报    NN                     *   -    -   -   -          *)       *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0    3      》    PU                     *)  -    -   -   -          *        *)        *             *         *             *            *            *         16)
+bn/vom/01/vom_0172   0    4     指出    VV                  (VP*   -   01   -   -          *      (V*)        *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0    5      ，    PU                     *   -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0    6      就    AD          (IP(PP(ADVP*)  -    -   8   -          *   (ARG1*         *    (ARGM-TMP*         *             *            *   (ARGM-TMP*          -
+bn/vom/01/vom_0172   0    7      在     P                  (PP*   -    -   2   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0    8    以色列    NR      (NP(CP(IP(NP(NP*)  -    -   -   -       (GPE)       *         *             *         *             *            *            *    (19|(10)
+bn/vom/01/vom_0172   0    9     议会    NN                 (NP*))  -    -   -   -          *        *         *             *         *             *            *            *         19)
+bn/vom/01/vom_0172   0   10      就     P               (VP(PP*   -    -   1   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   11    反对党    NN   (NP(CP(CP(IP(NP(NP*)  -    -   -   -      (ORG*        *    (ARG0*             *         *             *            *            *     (2|(11
+bn/vom/01/vom_0172   0   12    利库德    NR                  (NP*   -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   13     集团    NN                    *))  -    -   -   -          *)       *         *)            *         *             *            *            *          2)
+bn/vom/01/vom_0172   0   14     提出    VV                 (VP*))  -   01   -   -          *        *       (V*)            *         *             *            *            *          -
+bn/vom/01/vom_0172   0   15      的   DEC                    *))  -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   16     议案    NN                (NP*)))  -    -   -   -          *        *    (ARG1*)            *         *             *            *            *         11)
+bn/vom/01/vom_0172   0   17     进行    VV                  (VP*   -    -   3   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   18     辩论    NN              (NP*)))))  -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   19     时候    NN               (NP*))))  -    -   -   -          *        *         *             *)        *             *            *            *)         -
+bn/vom/01/vom_0172   0   20      ，    PU                     *   -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   21    巴拉克    NR                  (NP*)  -    -   -   -    (PERSON)       *         *        (ARG0*)        *             *            *       (ARG0*)        (9)
+bn/vom/01/vom_0172   0   22     突然    AD          (VP(VP(ADVP*)  -    -   -   -          *        *         *    (ARGM-ADV*)        *             *            *            *          -
+bn/vom/01/vom_0172   0   23     宣布    VV                  (VP*   -   01   -   -          *        *         *           (V*)        *             *            *            *          -
+bn/vom/01/vom_0172   0   24     解散    VV      (NP(CP(IP(VP(VP*   -   01   -   -          *        *         *        (ARG1*       (V*)            *            *            *         (5
+bn/vom/01/vom_0172   0   25     议会    NN                 (NP*))  -    -   -   -          *        *         *             *    (ARG1*)            *            *            *        (19)
+bn/vom/01/vom_0172   0   26     提前    AD             (VP(ADVP*)  -    -   -   -          *        *         *             *         *    (ARGM-ADV*)           *            *          -
+bn/vom/01/vom_0172   0   27     举行    VV                  (VP*   -   01   -   -          *        *         *             *         *           (V*)           *            *          -
+bn/vom/01/vom_0172   0   28     选举    NN              (NP*)))))  -    -   -   -          *        *         *             *         *        (ARG1*)           *            *          -
+bn/vom/01/vom_0172   0   29      的   DEC                     *)  -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   30     议案    NN               (NP*))))  -    -   -   -          *        *         *             *)        *             *            *            *          5)
+bn/vom/01/vom_0172   0   31      ，    PU                     *   -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   32      为     P               (VP(PP*   -    -   5   -          *        *         *             *         *             *            *       (ARG2*          -
+bn/vom/01/vom_0172   0   33    以色列    NR            (IP(NP(NP*)  -    -   -   -       (GPE)       *         *             *         *             *       (ARG0*            *    (19|(10)
+bn/vom/01/vom_0172   0   34     议会    NN                 (NP*))  -    -   -   -          *        *         *             *         *             *            *)           *         19)
+bn/vom/01/vom_0172   0   35      以     P               (VP(PP*   -    -   -   -          *        *         *             *         *             *   (ARGM-MNR*            *          -
+bn/vom/01/vom_0172   0   36    压倒性    JJ             (NP(ADJP*)  -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   37     多数    NN                (NP*)))  -    -   -   -          *        *         *             *         *             *            *)           *          -
+bn/vom/01/vom_0172   0   38     通过    VV                  (VP*   -   01   3   -          *        *         *             *         *             *          (V*)           *          -
+bn/vom/01/vom_0172   0   39     上述    JJ             (NP(ADJP*)  -    -   -   -          *        *         *             *         *             *       (ARG1*            *         (5
+bn/vom/01/vom_0172   0   40     议案    NN             (NP*))))))  -    -   -   -          *        *         *             *         *             *            *)           *)         5)
+bn/vom/01/vom_0172   0   41     铺平    VV                  (VP*   -   01   -   -          *        *         *             *         *             *            *          (V*)         -
+bn/vom/01/vom_0172   0   42      了    AS                     *   -    -   -   -          *        *         *             *         *             *            *            *          -
+bn/vom/01/vom_0172   0   43     道路    NN             (NP*))))))  -    -   -   -          *        *)        *             *         *             *            *       (ARG1*)         -
+bn/vom/01/vom_0172   0   44      。    PU                    *))  -    -   -   -          *        *         *             *         *             *            *            *          -
+
+bn/vom/01/vom_0172   0    0     但是    AD   (TOP(IP(ADVP*)  -    -   -   -            *        *        *      *    (ARGM-DIS*)     -
+bn/vom/01/vom_0172   0    1      据     P            (PP*   -    -   -   -            *        *        *      *    (ARGM-MNR*      -
+bn/vom/01/vom_0172   0    2    以色列    NR     (NP(DNP(NP*)  -    -   -   -         (GPE)       *        *      *             *    (10)
+bn/vom/01/vom_0172   0    3      的   DEG               *)  -    -   -   -            *        *        *      *             *      -
+bn/vom/01/vom_0172   0    4     法律    NN            (NP*   -    -   -   -            *        *        *      *             *      -
+bn/vom/01/vom_0172   0    5     规定    NN             *)))  -    -   -   -            *        *        *      *             *)     -
+bn/vom/01/vom_0172   0    6      ，    PU               *   -    -   -   -            *        *        *      *             *      -
+bn/vom/01/vom_0172   0    7     有关    JJ       (NP(ADJP*)  -    -   -   -            *        *        *      *        (ARG0*      -
+bn/vom/01/vom_0172   0    8     议案    NN           (NP*))  -    -   -   -            *        *        *      *             *)     -
+bn/vom/01/vom_0172   0    9      还    AD       (VP(ADVP*)  -    -   -   -            *        *        *      *    (ARGM-ADV*)     -
+bn/vom/01/vom_0172   0   10      要    VV     (LCP(IP(VP*   -    -   3   -            *        *        *      *    (ARGM-TMP*      -
+bn/vom/01/vom_0172   0   11     经过    VV            (VP*   -   01   -   -            *      (V*)       *      *             *      -
+bn/vom/01/vom_0172   0   12     议会    NN      (IP(NP(NP*)  -    -   -   -            *   (ARG1*   (ARG0*      *             *    (19)
+bn/vom/01/vom_0172   0   13      二    OD      (NP(NP(QP*)  -    -   -   -    (CARDINAL)       *        *      *             *      -
+bn/vom/01/vom_0172   0   14      读    NN           (NP*))  -    -   -   -            *        *        *      *             *      -
+bn/vom/01/vom_0172   0   15      、    PU               *   -    -   -   -            *        *        *      *             *      -
+bn/vom/01/vom_0172   0   16      三    OD         (NP(QP*)  -    -   -   -    (CARDINAL)       *        *      *             *      -
+bn/vom/01/vom_0172   0   17      读    NN         (NP*))))  -    -   -   -            *        *        *)     *             *      -
+bn/vom/01/vom_0172   0   18     通过    VV        (VP*)))))  -   01   3   -            *        *)     (V*)     *             *      -
+bn/vom/01/vom_0172   0   19      后    LC               *)  -    -   -   -            *        *        *      *             *)     -
+bn/vom/01/vom_0172   0   20      ，    PU               *   -    -   -   -            *        *        *      *             *      -
+bn/vom/01/vom_0172   0   21      方    AD          (ADVP*)  -    -   -   -            *        *        *      *    (ARGM-ADV*)     -
+bn/vom/01/vom_0172   0   22      能    VV            (VP*   -   01   1   -            *        *        *    (V*)            *      -
+bn/vom/01/vom_0172   0   23     成为    VV            (VP*   -   01   -   -            *        *        *      *           (V*)     -
+bn/vom/01/vom_0172   0   24     法律    NN         (NP*))))  -    -   -   -            *        *        *      *        (ARG1*)     -
+bn/vom/01/vom_0172   0   25      。    PU              *))  -    -   -   -            *        *        *      *             *      -
+
+bn/vom/01/vom_0172   0    0     巴拉克   NR   (TOP(IP(IP(NP*)  -    -    -   -    (PERSON)   (ARG0*)        *         *            *         *         *      *             *     (9)
+bn/vom/01/vom_0172   0    1      表示   VV             (VP*   -   01    2   -          *       (V*)        *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0    2       ，   PU                *   -    -    -   -          *         *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0    3       他   PN          (IP(NP*)  -    -    -   -          *    (ARG1*    (ARG0*)        *            *         *         *      *             *     (9)
+bn/vom/01/vom_0172   0    4      希望   VV             (VP*   -   02    1   -          *         *       (V*)        *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0    5       在    P       (IP(VP(PP*   -    -    2   -          *         *    (ARG1*         *   (ARGM-TMP*         *         *      *             *      -
+bn/vom/01/vom_0172   0    6     以色列   NR      (LCP(IP(NP*)  -    -    -   -       (GPE)        *         *    (ARG0*)           *         *         *      *             *    (10)
+bn/vom/01/vom_0172   0    7      举行   VV             (VP*   -   01    -   -          *         *         *       (V*)           *         *         *      *             *      -
+bn/vom/01/vom_0172   0    8      大选   NN           (NP*)))  -    -    -   -          *         *         *    (ARG1*)           *         *         *      *             *    (13)
+bn/vom/01/vom_0172   0    9      之前   LC               *))  -    -    -   -          *         *         *         *            *)        *         *      *             *      -
+bn/vom/01/vom_0172   0   10      能够   VV             (VP*   -    -    -   -          *         *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0   11       和    P          (VP(PP*   -    -    -   -          *         *         *         *       (ARG0*         *         *      *             *      -
+bn/vom/01/vom_0172   0   12    巴勒斯坦   NR          (NP(NP*)  -    -    -   -       (GPE)        *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0   13     领导人   NN           (NP*)))  -    -    -   -          *         *         *         *            *)        *         *      *             *      -
+bn/vom/01/vom_0172   0   14      达成   VV             (VP*   -   01    -   -          *         *         *         *          (V*)        *         *      *             *      -
+bn/vom/01/vom_0172   0   15      和平   NN             (NP*   -    -    1   -          *         *         *         *       (ARG1*         *         *      *             *     (6
+bn/vom/01/vom_0172   0   16      协议   NN       *))))))))))  -    -    -   -          *         *)        *)        *            *)        *         *      *             *      6)
+bn/vom/01/vom_0172   0   17       ，   PU                *   -    -    -   -          *         *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0   18      人们   NN          (IP(NP*)  -    -    -   -          *         *         *         *            *    (ARG0*)        *      *             *      -
+bn/vom/01/vom_0172   0   19      预计   VV             (VP*   -   01    -   -          *         *         *         *            *       (V*)        *      *             *      -
+bn/vom/01/vom_0172   0   20      如果   CS     (IP(CP(ADVP*)  -    -    -   -          *         *         *         *            *    (ARG1*         *      *             *      -
+bn/vom/01/vom_0172   0   21     巴拉克   NR          (IP(NP*)  -    -    -   -    (PERSON)        *         *         *            *         *    (ARG0*)     *             *     (9)
+bn/vom/01/vom_0172   0   22       做   VV         (VP(VPT*   -   03   10   -          *         *         *         *            *         *       (V*)     *             *      -
+bn/vom/01/vom_0172   0   23       不   AD                *   -    -    -   -          *         *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0   24       到   VV                *)  -   01    4   -          *         *         *         *            *         *         *    (V*)            *      -
+bn/vom/01/vom_0172   0   25       这   DT             (DP*   -    -    -   -          *         *         *         *            *         *    (ARG1*      *             *      -
+bn/vom/01/vom_0172   0   26       一   CD             (QP*   -    -    -   -          *         *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0   27       点    M       (CLP*))))))  -    -    -   -          *         *         *         *            *         *         *)     *             *      -
+bn/vom/01/vom_0172   0   28       ，   PU                *   -    -    -   -          *         *         *         *            *         *         *      *             *      -
+bn/vom/01/vom_0172   0   29       他   PN          (IP(NP*)  -    -    -   -          *         *         *         *            *         *         *      *        (ARG0*)    (9)
+bn/vom/01/vom_0172   0   30       在    P          (VP(PP*   -    -    2   -          *         *         *         *            *         *         *      *    (ARGM-LOC*      -
+bn/vom/01/vom_0172   0   31      大选   NN         (LCP(NP*)  -    -    -   -          *         *         *         *            *         *         *      *             *    (13)
+bn/vom/01/vom_0172   0   32       中   LC               *))  -    -    -   -          *         *         *         *            *         *         *      *             *)     -
+bn/vom/01/vom_0172   0   33       将   AD           (ADVP*)  -    -    -   -          *         *         *         *            *         *         *      *    (ARGM-ADV*)     -
+bn/vom/01/vom_0172   0   34      惨败   VV           (VP*)))  -   01    -   -          *         *         *         *            *         *         *      *           (V*)     -
+bn/vom/01/vom_0172   0   35      无疑   VV          (VP*))))  -    -    -   -          *         *         *         *            *         *)        *      *             *      -
+bn/vom/01/vom_0172   0   36       。   PU               *))  -    -    -   -          *         *         *         *            *         *         *      *             *      -
+
+bn/vom/01/vom_0172   0   0    以上    PN                (TOP(IP(NP*)  -    -   -   -          *    (ARG0*)               -
+bn/vom/01/vom_0172   0   1     是    VC                       (VP*   -   01   1   -          *       (V*)               -
+bn/vom/01/vom_0172   0   2    美国    NR   (NP(DNP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*    (ARG1*    (1|(12|(15|(4)
+bn/vom/01/vom_0172   0   3     之   DEG                          *)  -    -   -   -          *         *                -
+bn/vom/01/vom_0172   0   4     音    NN                      (NP*))  -    -   -   -          *)        *               12)
+bn/vom/01/vom_0172   0   5    记者    NN                      (NP*))  -    -   -   -          *         *                -
+bn/vom/01/vom_0172   0   6    亚薇    NR                      (NP*))  -    -   -   -    (PERSON)        *               15)
+bn/vom/01/vom_0172   0   7     的   DEG                          *)  -    -   -   -          *         *                -
+bn/vom/01/vom_0172   0   8    报道    NN                     (NP*)))  -    -   -   -          *         *)               1)
+bn/vom/01/vom_0172   0   9     。    PU                         *))  -    -   -   -          *         *                -
+
+#end document

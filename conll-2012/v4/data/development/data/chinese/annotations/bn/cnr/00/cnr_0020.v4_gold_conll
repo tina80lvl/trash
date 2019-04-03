@@ -1,0 +1,82 @@
+#begin document (bn/cnr/00/cnr_0020); part 000
+bn/cnr/00/cnr_0020   0    0    中央台    NR          (TOP(IP(NP(NP*)  -    -   -   -         (ORG)            *    (ARGM-TPC*    (ARGM-TPC*     -
+bn/cnr/00/cnr_0020   0    1     消息    NN                   (NP*))  -    -   -   -            *             *             *)            *)    -
+bn/cnr/00/cnr_0020   0    2      ，    PU                       *   -    -   -   -            *             *             *             *     -
+bn/cnr/00/cnr_0020   0    3      正    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)       (ARG0*        (ARG0*     -
+bn/cnr/00/cnr_0020   0    4      在     P                    (PP*   -    -   2   -            *        (ARG1*             *             *     -
+bn/cnr/00/cnr_0020   0    5     日本    NR                   (NP*))  -    -   -   -         (GPE)            *)            *             *    (3)
+bn/cnr/00/cnr_0020   0    6     访问    VV                  (VP*)))  -   01   -   -            *           (V*)            *             *     -
+bn/cnr/00/cnr_0020   0    7      的   DEC                      *))  -    -   -   -            *             *             *             *     -
+bn/cnr/00/cnr_0020   0    8    国务院    NN                    (NP*   -    -   -   -         (ORG)            *             *             *     -
+bn/cnr/00/cnr_0020   0    9     总理    NN                       *)  -    -   -   -            *             *             *             *     -
+bn/cnr/00/cnr_0020   0   10    朱容基    NR                   (NP*))  -    -   -   -      (PERSON)       (ARG0*)            *)            *)    -
+bn/cnr/00/cnr_0020   0   11     昨天    NT                 (VP(NP*)  -    -   -   -        (DATE)            *    (ARGM-TMP*)   (ARGM-TMP*)    -
+bn/cnr/00/cnr_0020   0   12     代表    VV                 (VP(VP*   -   01   -   -            *             *           (V*)            *     -
+bn/cnr/00/cnr_0020   0   13     中国    NR                 (NP(NP*)  -    -   -   -        (ORG*             *        (ARG1*             *    (2
+bn/cnr/00/cnr_0020   0   14     政府    NN                  (NP*)))  -    -   -   -            *)            *             *)            *     2)
+bn/cnr/00/cnr_0020   0   15      向     P                 (VP(PP*   -    -   -   -            *             *             *        (ARG2*     -
+bn/cnr/00/cnr_0020   0   16     日本    NR                   (NP*))  -    -   -   -         (GPE)            *             *             *)   (3)
+bn/cnr/00/cnr_0020   0   17     提供    VV                    (VP*   -   01   -   -            *             *             *           (V*)    -
+bn/cnr/00/cnr_0020   0   18      了    AS                       *   -    -   -   -            *             *             *             *     -
+bn/cnr/00/cnr_0020   0   19      一    CD                 (NP(QP*   -    -   -   -    (CARDINAL)            *             *        (ARG1*    (1
+bn/cnr/00/cnr_0020   0   20      只     M                  (CLP*))  -    -   -   -            *             *             *             *     -
+bn/cnr/00/cnr_0020   0   21     朱獾    NN               (NP*))))))  -    -   -   -            *             *             *             *)    1)
+bn/cnr/00/cnr_0020   0   22      。    PU                      *))  -    -   -   -            *             *             *             *     -
+
+bn/cnr/00/cnr_0020   0    0      江泽民   NR   (TOP(IP(IP(NP*   -    -   -   -      (PERSON)            *       (ARG0*             *     -
+bn/cnr/00/cnr_0020   0    1       主席   NN                *)  -    -   -   -            *             *            *)            *     -
+bn/cnr/00/cnr_0020   0    2        于    P          (VP(PP*   -    -   -   -            *             *   (ARGM-TMP*             *     -
+bn/cnr/00/cnr_0020   0    3    １９９８年   NT   (LCP(IP(VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)           *             *     -
+bn/cnr/00/cnr_0020   0    4       访问   VV             (VP*   -   01   -   -            *           (V*)           *             *     -
+bn/cnr/00/cnr_0020   0    5       日本   NR          (NP*))))  -    -   -   -         (GPE)       (ARG1*)           *             *    (3)
+bn/cnr/00/cnr_0020   0    6        时   LC               *))  -    -   -   -            *             *            *)            *     -
+bn/cnr/00/cnr_0020   0    7        ，   PU                *   -    -   -   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0    8        向    P             (PP*   -    -   -   -            *             *       (ARG2*             *     -
+bn/cnr/00/cnr_0020   0    9       日本   NR          (NP(NP*)  -    -   -   -       (NORP*             *            *             *    (3)
+bn/cnr/00/cnr_0020   0   10       人民   NN           (NP*)))  -    -   -   -            *)            *            *)            *     -
+bn/cnr/00/cnr_0020   0   11       赠送   VV             (VP*   -   01   -   -            *             *          (V*)            *     -
+bn/cnr/00/cnr_0020   0   12        了   AS                *   -    -   -   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0   13        一   CD          (NP(QP*   -    -   -   -    (CARDINAL)            *       (ARG1*             *    (0
+bn/cnr/00/cnr_0020   0   14        对    M           (CLP*))  -    -   4   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0   15       朱獾   NN         (NP*)))))  -    -   -   -            *             *            *)            *     0)
+bn/cnr/00/cnr_0020   0   16        ，   PU                *   -    -   -   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0   17       现在   NT          (IP(NP*)  -    -   -   -            *             *            *    (ARGM-TMP*)    -
+bn/cnr/00/cnr_0020   0   18        这   DT          (NP(DP*   -    -   -   -            *             *            *        (ARG0*    (0
+bn/cnr/00/cnr_0020   0   19        对    M           (CLP*))  -    -   4   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0   20       朱獾   NN            (NP*))  -    -   -   -            *             *            *             *)    0)
+bn/cnr/00/cnr_0020   0   21        已   AD        (VP(ADVP*)  -    -   2   -            *             *            *    (ARGM-ADV*)    -
+bn/cnr/00/cnr_0020   0   22       产下   VV             (VP*   -   01   -   -            *             *            *           (V*)    -
+bn/cnr/00/cnr_0020   0   23        三   CD          (NP(QP*   -    -   -   -    (CARDINAL)            *            *        (ARG1*     -
+bn/cnr/00/cnr_0020   0   24        只    M           (CLP*))  -    -   -   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0   25        小   JJ           (ADJP*)  -    -   -   -            *             *            *             *     -
+bn/cnr/00/cnr_0020   0   26       朱獾   NN         (NP*)))))  -    -   -   -            *             *            *             *)    -
+bn/cnr/00/cnr_0020   0   27        。   PU               *))  -    -   -   -            *             *            *             *     -
+
+bn/cnr/00/cnr_0020   0    0     为     P     (TOP(IP(PP*   -    -   5   -            *         *             *            *            *   (ARGM-PRP*             *     -
+bn/cnr/00/cnr_0020   0    1     使    VV         (IP(VP*   -   01   -   -            *       (V*)            *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0    2    朱獾    NN            (NP*)  -    -   -   -            *    (ARG1*)            *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0    3     在     P      (IP(VP(PP*   -    -   2   -            *    (ARG2*             *   (ARGM-LOC*       (ARG1*            *             *     -
+bn/cnr/00/cnr_0020   0    4    日本    NR           (NP*))  -    -   -   -         (GPE)        *             *            *)           *)           *             *    (3)
+bn/cnr/00/cnr_0020   0    5     更    AD   (DVP(VP(ADVP*)  -    -   -   -            *         *    (ARGM-ADV*)  (ARGM-ADV*   (ARGM-ADV*            *             *     -
+bn/cnr/00/cnr_0020   0    6     好    VA           (VP*))  -   01   1   -            *         *           (V*)           *            *            *             *     -
+bn/cnr/00/cnr_0020   0    7     的   DEV               *)  -    -   -   -            *         *             *            *)           *)           *             *     -
+bn/cnr/00/cnr_0020   0    8    繁衍    VV         (VP(VP*   -   01   -   -            *         *             *          (V*)           *            *             *     -
+bn/cnr/00/cnr_0020   0    9    后代    NN           (NP*))  -    -   -   -            *         *             *       (ARG1*)           *            *             *     -
+bn/cnr/00/cnr_0020   0   10     ，    PU               *   -    -   -   -            *         *             *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0   11    安家    VV        (VP(VCD*   -    -   -   -            *         *             *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0   12    落户    VV        *))))))))  -   01   -   -            *         *)            *            *          (V*)           *)            *     -
+bn/cnr/00/cnr_0020   0   13     ，    PU               *   -    -   -   -            *         *             *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0   14    中国    NR         (NP(NP*)  -    -   -   -        (GPE*         *             *            *            *       (ARG0*             *    (2
+bn/cnr/00/cnr_0020   0   15    政府    NN           (NP*))  -    -   -   -            *)        *             *            *            *            *)            *     2)
+bn/cnr/00/cnr_0020   0   16    决定    VV            (VP*   -   01   -   -            *         *             *            *            *          (V*)            *     -
+bn/cnr/00/cnr_0020   0   17     再    AD    (IP(VP(ADVP*)  -    -   -   -            *         *             *            *            *       (ARG1*    (ARGM-ADV*)    -
+bn/cnr/00/cnr_0020   0   18     向     P            (PP*   -    -   -   -            *         *             *            *            *            *        (ARG2*     -
+bn/cnr/00/cnr_0020   0   19    日方    NN           (NP*))  -    -   -   -         (GPE)        *             *            *            *            *             *)   (3)
+bn/cnr/00/cnr_0020   0   20    提供    VV            (VP*   -   01   -   -            *         *             *            *            *            *           (V*)    -
+bn/cnr/00/cnr_0020   0   21     一    CD         (NP(QP*   -    -   -   -    (CARDINAL)        *             *            *            *            *        (ARG1*    (1
+bn/cnr/00/cnr_0020   0   22     只     M          (CLP*))  -    -   -   -            *         *             *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0   23    雌性    JJ          (ADJP*)  -    -   -   -            *         *             *            *            *            *             *     -
+bn/cnr/00/cnr_0020   0   24    朱还    NN       (NP*))))))  -    -   -   -            *         *             *            *            *            *)            *)    1)
+bn/cnr/00/cnr_0020   0   25     。    PU              *))  -    -   -   -            *         *             *            *            *            *             *     -
+
+#end document

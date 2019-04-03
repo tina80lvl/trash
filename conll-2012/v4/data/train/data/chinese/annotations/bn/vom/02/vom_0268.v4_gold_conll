@@ -1,0 +1,468 @@
+#begin document (bn/vom/02/vom_0268); part 000
+bn/vom/02/vom_0268   0    0     中国    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -         (GPE)       (ARG0*        *            *        *    (11|(13)
+bn/vom/02/vom_0268   0    1     官方    JJ              (ADJP*)  -    -   -   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0    2     英文    NN                (NP*   -    -   -   -    (LANGUAGE)            *        *            *        *          -
+bn/vom/02/vom_0268   0    3     报纸    NN                  *))  -    -   -   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0    4      《    PU                (NP*   -    -   -   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0    5     中国    NR                   *   -    -   -   -        (ORG*             *        *            *        *          -
+bn/vom/02/vom_0268   0    6     日报    NN                   *   -    -   -   -            *)            *        *            *        *          -
+bn/vom/02/vom_0268   0    7      》    PU                  *))  -    -   -   -            *             *)       *            *        *         11)
+bn/vom/02/vom_0268   0    8    星期六    NT             (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)       *            *        *         (3)
+bn/vom/02/vom_0268   0    9     报道    VV                (VP*   -   01   -   -            *           (V*)       *            *        *          -
+bn/vom/02/vom_0268   0   10      ，    PU                   *   -    -   -   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0   11     中国    NR          (IP(NP(NP*)  -    -   -   -         (GPE)       (ARG1*        *       (ARG0*        *        (13)
+bn/vom/02/vom_0268   0   12    领导人    NN               (NP*))  -    -   -   -            *             *        *            *)       *          -
+bn/vom/02/vom_0268   0   13     为了     P             (VP(PP*   -    -   -   -            *             *        *   (ARGM-PRP*        *          -
+bn/vom/02/vom_0268   0   14     改善    VV             (IP(VP*   -   01   -   -            *             *      (V*)           *        *          -
+bn/vom/02/vom_0268   0   15      两    CD          (NP(NP(QP*)  -    -   -   -    (CARDINAL)            *   (ARG1*            *        *     (0|(16
+bn/vom/02/vom_0268   0   16      岸    NN               (NP*))  -    -   -   -            *             *        *            *        *         16)
+bn/vom/02/vom_0268   0   17     关系    NN            (NP*)))))  -    -   2   -            *             *        *)           *)       *          0)
+bn/vom/02/vom_0268   0   18      ，    PU                   *   -    -   -   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0   19     愿意    VV                (VP*   -   01   -   -            *             *        *          (V*)       *          -
+bn/vom/02/vom_0268   0   20     放松    VV             (IP(VP*   -   01   -   -            *             *        *       (ARG1*      (V*)         -
+bn/vom/02/vom_0268   0   21      在     P         (NP(DNP(PP*   -    -   2   -            *             *        *            *   (ARG1*          -
+bn/vom/02/vom_0268   0   22     三通    NN            (LCP(NP*   -    -   -   -    (CARDINAL)            *        *            *        *        (15
+bn/vom/02/vom_0268   0   23     问题    NN                   *)  -    -   -   -            *             *        *            *        *         15)
+bn/vom/02/vom_0268   0   24      上    LC                  *))  -    -   3   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0   25      的   DEG                   *)  -    -   -   -            *             *        *            *        *          -
+bn/vom/02/vom_0268   0   26     立场    NN        (NP*)))))))))  -    -   -   -            *             *)       *            *)       *)         -
+bn/vom/02/vom_0268   0   27      。    PU                  *))  -    -   -   -            *             *        *            *        *          -
+
+bn/vom/02/vom_0268   0    0    报道    NN             (TOP(IP(IP(NP*)  -    -   -   -            *    (ARG2*)            *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0    1     说    VV                       (VP*   -   01   8   -            *       (V*)            *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0    2     ，    PU                          *   -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0    3    只要    CS               (IP(CP(ADVP*)  -    -   -   -            *    (ARG1*    (ARGM-DIS*)       *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0    4    台湾    NR                    (IP(NP*)  -    -   -   -         (GPE)        *        (ARG0*)       *        *             *        *             *             *         (12)
+bn/vom/02/vom_0268   0    5    同意    VV                       (VP*   -   02   1   -            *         *           (V*)       *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0    6     将    BA                    (IP(VP*   -    -   -   -            *         *        (ARG1*        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0    7    三通    NN                    (IP(NP*   -    -   -   -    (CARDINAL)        *             *   (ARG1*   (ARG0*        (ARG0*        *             *             *         (15
+bn/vom/02/vom_0268   0    8    问题    NN                          *)  -    -   -   -            *         *             *        *)       *)            *)       *             *             *          15)
+bn/vom/02/vom_0268   0    9    看成    VV                (VP(VP(VCP*   -   01   -   -            *         *             *      (V*)       *             *        *             *             *           -
+bn/vom/02/vom_0268   0   10     是    VC                          *)  -   01   1   -            *         *             *        *      (V*)            *        *             *             *           -
+bn/vom/02/vom_0268   0   11    内部    NN                       (NP*   -    -   -   -            *         *             *   (ARG2*   (ARG1*             *        *             *             *           -
+bn/vom/02/vom_0268   0   12    事务    NN                         *))  -    -   -   -            *         *             *        *)       *)            *        *             *             *           -
+bn/vom/02/vom_0268   0   13     ，    PU                          *   -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   14     而    AD                  (VP(ADVP*)  -    -   -   -            *         *             *        *        *    (ARGM-DIS*)       *             *             *           -
+bn/vom/02/vom_0268   0   15     不    AD                     (ADVP*)  -    -   -   -            *         *             *        *        *    (ARGM-ADV*)       *             *             *           -
+bn/vom/02/vom_0268   0   16     是    VC                       (VP*   -   01   1   -            *         *             *        *        *           (V*)       *             *             *           -
+bn/vom/02/vom_0268   0   17     两    CD         (NP(DNP(LCP(NP(QP*   -    -   -   -    (CARDINAL)        *             *        *        *        (ARG1*        *             *             *           -
+bn/vom/02/vom_0268   0   18     个     M                     (CLP*))  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   19    主权    JJ                     (ADJP*)  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   20    国家    NN                      (NP*))  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   21    之间    LC                          *)  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   22     的   DEG                          *)  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   23    事情    NN             (NP*)))))))))))  -    -   -   -            *         *             *)       *        *             *)       *             *             *           -
+bn/vom/02/vom_0268   0   24     ，    PU                          *   -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   25    中国    NR                       (NP*)  -    -   -   -         (GPE)        *             *        *        *             *        *             *             *         (13)
+bn/vom/02/vom_0268   0   26     就    AD                  (VP(ADVP*)  -    -   2   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   27    愿意    VV                       (VP*   -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   28    商讨    VV                    (IP(VP*   -   01   -   -            *         *             *        *        *             *      (V*)            *             *           -
+bn/vom/02/vom_0268   0   29    三通    NN                       (NP*   -    -   -   -    (CARDINAL)        *             *        *        *             *   (ARG1*             *             *         (15
+bn/vom/02/vom_0268   0   30    问题    NN                   *))))))))  -    -   -   -            *         *)            *        *        *             *        *)            *             *          15)
+bn/vom/02/vom_0268   0   31     ，    PU                          *   -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   32    下面    NN                    (IP(NP*)  -    -   -   -            *         *             *        *        *             *        *    (ARGM-TMP*)   (ARGM-TMP*)          -
+bn/vom/02/vom_0268   0   33     请    VV                       (VP*   -   01   -   -            *         *             *        *        *             *        *           (V*)            *           -
+bn/vom/02/vom_0268   0   34     听    VV                       (VP*   -   01   -   -            *         *             *        *        *             *        *        (ARG2*           (V*)          -
+bn/vom/02/vom_0268   0   35    美国    NR   (NP(DNP(NP(NP(NP(DNP(NP*)  -    -   -   -        (ORG*         *             *        *        *             *        *             *        (ARG1*   (2|(4|(18
+bn/vom/02/vom_0268   0   36     之   DEG                          *)  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   37     音    NN                      (NP*))  -    -   -   -            *)        *             *        *        *             *        *             *             *           4)
+bn/vom/02/vom_0268   0   38    记者    NN                      (NP*))  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   39    海燕    NR                      (NP*))  -    -   -   -      (PERSON)        *             *        *        *             *        *             *             *           2)
+bn/vom/02/vom_0268   0   40     的   DEG                          *)  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   41    综合    JJ                     (ADJP*)  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+bn/vom/02/vom_0268   0   42    报道    NN                   (NP*)))))  -    -   -   -            *         *             *        *        *             *        *             *)            *)         18)
+bn/vom/02/vom_0268   0   43     。    PU                         *))  -    -   -   -            *         *             *        *        *             *        *             *             *           -
+
+bn/vom/02/vom_0268   0    0     中国    NR               (TOP(IP(NP*   -    -   -   -        (ORG*        (ARG2*      *      *      *             *         *    (11
+bn/vom/02/vom_0268   0    1     日报    NN                         *)  -    -   -   -            *)            *)     *      *      *             *         *     11)
+bn/vom/02/vom_0268   0    2    星期六    NT                   (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)     *      *      *             *         *     (3)
+bn/vom/02/vom_0268   0    3     原引    VV                   (VP(VP*   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0    4    国台办    NN            (NP(DNP(NP(NP*   -    -   -   -        (ORG*             *      *      *      *             *         *     (7
+bn/vom/02/vom_0268   0    5    经济局    NN                         *   -    -   -   -            *)            *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0    6     局长    NN                         *)  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0    7    何时中    NR                     (NP*))  -    -   -   -      (PERSON)            *      *      *      *             *         *      7)
+bn/vom/02/vom_0268   0    8      的   DEG                         *)  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0    9      话    NN                    (NP*)))  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   10      说    VV                      (VP*   -   01   8   -            *           (V*)     *      *      *             *         *      -
+bn/vom/02/vom_0268   0   11      ，    PU                         *   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   12      “    PU                      (IP*   -    -   -   -            *        (ARG1*      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   13     只要    CS                 (CP(ADVP*)  -    -   -   -            *             *      *      *      *    (ARGM-DIS*)        *      -
+bn/vom/02/vom_0268   0   14     三通    NN                   (IP(NP*)  -    -   -   -    (CARDINAL)            *      *      *      *        (ARG1*)        *     (6)
+bn/vom/02/vom_0268   0   15     本着     P                   (VP(PP*   -    -   -   -            *             *      *      *      *    (ARGM-MNR*         *      -
+bn/vom/02/vom_0268   0   16      一    CD         (NP(DNP(NP(NP(QP*)  -    -   -   -    (CARDINAL)            *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   17      国    NN                     (NP*))  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   18     内部    NN                      (NP*   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   19     事务    NN                        *))  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   20      的   DEG                         *)  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   21     原则    NN                    (NP*)))  -    -   -   -            *             *      *      *      *             *)        *      -
+bn/vom/02/vom_0268   0   22      ，    PU                         *   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   23      在     P                      (PP*   -    -   2   -            *             *      *      *      *    (ARGM-LOC*         *      -
+bn/vom/02/vom_0268   0   24     直接    VA  (LCP(NP(CP(IP(VP(VP(VCD*   -   01   -   -            *             *    (V*)     *      *             *         *      -
+bn/vom/02/vom_0268   0   25     双向    VA                        *))  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   26     以及    CC                         *   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   27     互惠    VV                  (VP(VCD*   -   01   -   -            *             *      *    (V*)     *             *         *      -
+bn/vom/02/vom_0268   0   28     互利    VV                      *))))  -   01   -   -            *             *      *      *    (V*)            *         *      -
+bn/vom/02/vom_0268   0   29      的   DEC                         *)  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   30     基础    NN                     (NP*))  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   31      上    LC                        *))  -    -   3   -            *             *      *      *      *             *)        *      -
+bn/vom/02/vom_0268   0   32     进行    VV                   (VP*))))  -   01   3   -            *             *      *      *      *           (V*)        *      -
+bn/vom/02/vom_0268   0   33      ，    PU                         *   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   34     大陆    NN                      (NP*)  -    -   -   -         (GPE)            *      *      *      *             *         *    (13)
+bn/vom/02/vom_0268   0   35      将    AD                 (VP(ADVP*)  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   36     采取    VV                      (VP*   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   37     务实    VA         (NP(CP(CP(IP(VP*))  -   01   -   -            *             *      *      *      *             *       (V*)     -
+bn/vom/02/vom_0268   0   38      的   DEC                        *))  -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   39     态度    NN               (NP*))))))))  -    -   -   -            *             *)     *      *      *             *    (ARG0*)     -
+bn/vom/02/vom_0268   0   40      。    PU                         *   -    -   -   -            *             *      *      *      *             *         *      -
+bn/vom/02/vom_0268   0   41      ”    PU                        *))  -    -   -   -            *             *      *      *      *             *         *      -
+
+bn/vom/02/vom_0268   0    0      《    PU             (TOP(IP(NP*   -    -   -   -            *   (ARG0*         *             *        *        *        *             *    (11
+bn/vom/02/vom_0268   0    1     中国    NR                       *   -    -   -   -        (ORG*        *         *             *        *        *        *             *      -
+bn/vom/02/vom_0268   0    2     日报    NN                       *   -    -   -   -            *)       *         *             *        *        *        *             *      -
+bn/vom/02/vom_0268   0    3      》    PU                       *)  -    -   -   -            *        *)        *             *        *        *        *             *     11)
+bn/vom/02/vom_0268   0    4     认为    VV                    (VP*   -   01   1   -            *      (V*)        *             *        *        *        *             *      -
+bn/vom/02/vom_0268   0    5      ，    PU                       *   -    -   -   -            *        *         *             *        *        *        *             *      -
+bn/vom/02/vom_0268   0    6      这    PN              (IP(IP(NP*)  -    -   -   -            *   (ARG1*    (ARG0*)            *        *        *        *             *    (17)
+bn/vom/02/vom_0268   0    7     显示    VV                    (VP*   -   01   1   -            *        *       (V*)            *        *        *        *             *      -
+bn/vom/02/vom_0268   0    8     大陆    NN                 (IP(NP*)  -    -   -   -         (GPE)       *    (ARG1*        (ARG0*)       *        *        *             *    (13)
+bn/vom/02/vom_0268   0    9      在     P                 (VP(PP*   -    -   2   -            *        *         *    (ARGM-LOC*        *        *        *             *      -
+bn/vom/02/vom_0268   0   10     三通    NN                (LCP(NP*   -    -   -   -    (CARDINAL)       *         *             *        *        *        *             *    (15
+bn/vom/02/vom_0268   0   11     问题    NN                       *)  -    -   -   -            *        *         *             *        *        *        *             *     15)
+bn/vom/02/vom_0268   0   12      上    LC                      *))  -    -   3   -            *        *         *             *)       *        *        *             *      -
+bn/vom/02/vom_0268   0   13     已经    AD                  (ADVP*)  -    -   -   -            *        *         *    (ARGM-ADV*)       *        *        *             *      -
+bn/vom/02/vom_0268   0   14      向     P                    (PP*   -    -   -   -            *        *         *    (ARGM-DIR*        *        *        *             *      -
+bn/vom/02/vom_0268   0   15     台湾    NR                   (NP*))  -    -   -   -         (GPE)       *         *             *)       *        *        *             *    (12)
+bn/vom/02/vom_0268   0   16     摆出    VV                    (VP*   -   01   -   -            *        *         *           (V*)       *        *        *             *      -
+bn/vom/02/vom_0268   0   17     友善    JJ               (NP(ADJP*)  -    -   -   -            *        *         *        (ARG1*        *        *        *             *      -
+bn/vom/02/vom_0268   0   18     姿态    NN              (NP*)))))))  -    -   -   -            *        *         *)            *)       *        *        *             *      -
+bn/vom/02/vom_0268   0   19      ，    PU                       *   -    -   -   -            *        *         *             *        *        *        *             *      -
+bn/vom/02/vom_0268   0   20     相信    VV                 (IP(VP*   -   01   -   -            *        *         *             *      (V*)       *        *             *      -
+bn/vom/02/vom_0268   0   21    有助于    VV                 (IP(VP*   -   01   -   -            *        *         *             *   (ARG1*      (V*)       *             *      -
+bn/vom/02/vom_0268   0   22      两    CD              (IP(NP(QP*)  -    -   -   -    (CARDINAL)       *         *             *        *   (ARG1*   (ARG0*             *    (16
+bn/vom/02/vom_0268   0   23      岸    NN                   (NP*))  -    -   -   -            *        *         *             *        *        *        *)            *     16)
+bn/vom/02/vom_0268   0   24     进行    VV                    (VP*   -   01   3   -            *        *         *             *        *        *      (V*)            *      -
+bn/vom/02/vom_0268   0   25      更    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *        *         *             *        *        *   (ARG1*    (ARGM-ADV*)     -
+bn/vom/02/vom_0268   0   26     直接    VA                  (VP*)))  -   01   -   -            *        *         *             *        *        *        *           (V*)     -
+bn/vom/02/vom_0268   0   27      的   DEC                      *))  -    -   -   -            *        *         *             *        *        *        *             *      -
+bn/vom/02/vom_0268   0   28     联系    NN           (NP*))))))))))  -    -   1   -            *        *)        *             *        *)       *)       *)       (ARG0*)     -
+bn/vom/02/vom_0268   0   29      。    PU                      *))  -    -   -   -            *        *         *             *        *        *        *             *      -
+
+bn/vom/02/vom_0268   0    0    由于     P    (TOP(IP(PP*   -    -   -   -            *             *         *             *        *             *    (ARGM-PRP*        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0    1    中国    NR     (IP(NP(NP*)  -    -   -   -        (GPE*        (ARG0*         *             *        *             *             *        *      *         *         *             *             *    (13
+bn/vom/02/vom_0268   0    2    大陆    NN          (NP*))  -    -   -   -            *)            *)        *             *        *             *             *        *      *         *         *             *             *     13)
+bn/vom/02/vom_0268   0    3    以前    NT        (VP(NP*)  -    -   -   -            *    (ARGM-TMP*)        *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0    4    一直    AD         (ADVP*)  -    -   -   -            *    (ARGM-ADV*)        *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0    5    坚持    VV           (VP*   -   01   -   -            *           (V*)        *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0    6     要    VV     (IP(VP(VP*   -   04   2   -            *        (ARG1*       (V*)            *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0    7    台湾    NR           (NP*)  -    -   -   -         (GPE)            *    (ARG1*)            *        *             *             *        *      *         *         *             *             *    (12)
+bn/vom/02/vom_0268   0    8    首先    AD   (IP(VP(ADVP*)  -    -   -   -            *             *    (ARG2*    (ARGM-ADV*)       *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0    9    宣布    VV           (VP*   -   01   -   -            *             *         *           (V*)       *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   10     是    VC        (IP(VP*   -   01   1   -            *             *         *        (ARG1*      (V*)            *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   11    中国    NR    (NP(DNP(NP*)  -    -   -   -         (GPE)            *         *             *   (ARG1*             *             *        *      *         *         *             *             *    (13)
+bn/vom/02/vom_0268   0   12     的   DEG              *)  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   13     一    CD           (QP*)  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   14    部分    NN    (NP*))))))))  -    -   -   -            *             *         *)            *)       *)            *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   15     ，    PU              *   -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   16    然后    AD      (VP(ADVP*)  -    -   -   -            *             *         *             *        *    (ARGM-ADV*)            *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   17     才    AD         (ADVP*)  -    -   -   -            *             *         *             *        *    (ARGM-ADV*)            *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   18    进行    VV           (VP*   -   01   3   -            *             *         *             *        *           (V*)            *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   19    三通    NN   (NP*)))))))))  -    -   -   -    (CARDINAL)            *)        *             *        *        (ARG1*)            *)       *      *         *         *             *             *     (6)
+bn/vom/02/vom_0268   0   20     ，    PU              *   -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   21    因此    AD         (ADVP*)  -    -   -   -            *             *         *             *        *             *    (ARGM-DIS*)       *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   22     有    VE           (VP*   -   05   4   -            *             *         *             *        *             *           (V*)       *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   23    分析    NN        (IP(NP*   -    -   -   -            *             *         *             *        *             *        (ARG1*   (ARG0*      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   24    人士    NN              *)  -    -   -   -            *             *         *             *        *             *             *        *)     *         *         *             *             *      -
+bn/vom/02/vom_0268   0   25    认为    VV           (VP*   -   01   1   -            *             *         *             *        *             *             *      (V*)     *         *         *             *             *      -
+bn/vom/02/vom_0268   0   26     这    PN        (IP(NP*)  -    -   -   -            *             *         *             *        *             *             *   (ARG1*      *    (ARG2*)        *             *             *    (17)
+bn/vom/02/vom_0268   0   27    可能    VV           (VP*   -   01   -   -            *             *         *             *        *             *             *        *    (V*)        *         *             *             *      -
+bn/vom/02/vom_0268   0   28    表明    VV           (VP*   -   01   -   -            *             *         *             *        *             *             *        *      *       (V*)        *             *             *      -
+bn/vom/02/vom_0268   0   29    大陆    NN     (IP(NP(NP*)  -    -   -   -         (GPE)            *         *             *        *             *             *        *      *    (ARG1*    (ARG0*        (ARG0*        (ARG0*    (13)
+bn/vom/02/vom_0268   0   30     在     P       (DNP(PP*   -    -   2   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   31    三通    NN       (LCP(NP*   -    -   -   -    (CARDINAL)            *         *             *        *             *             *        *      *         *         *             *             *    (15
+bn/vom/02/vom_0268   0   32    问题    NN              *)  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *     15)
+bn/vom/02/vom_0268   0   33     上    LC              *)  -    -   3   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   34     的   DEG             *))  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   35    立场    NN          (NP*))  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *)            *)            *)     -
+bn/vom/02/vom_0268   0   36    有所    VV        (VP(VP*   -   01   -   -            *             *         *             *        *             *             *        *      *         *       (V*)            *             *      -
+bn/vom/02/vom_0268   0   37    缓和    NN          (NP*))  -    -   -   -            *             *         *             *        *             *             *        *      *         *    (ARG1*)            *             *      -
+bn/vom/02/vom_0268   0   38     ，    PU              *   -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+bn/vom/02/vom_0268   0   39    更为    AD      (VP(ADVP*)  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bn/vom/02/vom_0268   0   40    灵活    VA       (VP(VCD*   -   01   -   -            *             *         *             *        *             *             *        *      *         *         *           (V*)            *      -
+bn/vom/02/vom_0268   0   41    务实    VA    *)))))))))))  -   01   -   -            *             *         *             *        *             *             *)       *)     *         *)        *             *           (V*)     -
+bn/vom/02/vom_0268   0   42     。    PU             *))  -    -   -   -            *             *         *             *        *             *             *        *      *         *         *             *             *      -
+
+bn/vom/02/vom_0268   0    0     不过    AD   (TOP(IP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)       *      *            *        -
+bn/vom/02/vom_0268   0    1      《    PU            (NP*   -    -   -   -            *        (ARG0*        *      *            *      (11
+bn/vom/02/vom_0268   0    2     中国    NR               *   -    -   -   -        (ORG*             *        *      *            *        -
+bn/vom/02/vom_0268   0    3     日报    NN               *   -    -   -   -            *)            *        *      *            *        -
+bn/vom/02/vom_0268   0    4      》    PU               *)  -    -   -   -            *             *)       *      *            *       11)
+bn/vom/02/vom_0268   0    5      还    AD       (VP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)       *      *            *        -
+bn/vom/02/vom_0268   0    6     引述    VV         (VP(VP*   -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0    7    何世中    NR     (NP(DNP(NP*)  -    -   -   -      (PERSON)            *        *      *            *       (7)
+bn/vom/02/vom_0268   0    8      的   DEG               *)  -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0    9      话    NN          (NP*)))  -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0   10     重申    VV            (VP*   -   01   -   -            *           (V*)       *      *            *        -
+bn/vom/02/vom_0268   0   11      ，    PU               *   -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0   12     台湾    NR         (IP(NP*)  -    -   -   -         (GPE)       (ARG1*        *      *       (ARG0*)     (12)
+bn/vom/02/vom_0268   0   13      在     P         (VP(PP*   -    -   2   -            *             *        *      *   (ARGM-LOC*        -
+bn/vom/02/vom_0268   0   14     发展    VV     (LCP(IP(VP*   -   01   1   -            *             *      (V*)     *            *        -
+bn/vom/02/vom_0268   0   15      两    CD      (NP(NP(QP*)  -    -   -   -    (CARDINAL)            *   (ARG1*      *            *   (0|(16
+bn/vom/02/vom_0268   0   16      岸    NN           (NP*))  -    -   -   -            *             *        *      *            *       16)
+bn/vom/02/vom_0268   0   17     关系    NN         (NP*))))  -    -   2   -            *             *        *)     *            *        0)
+bn/vom/02/vom_0268   0   18      上    LC              *))  -    -   3   -            *             *        *      *            *)       -
+bn/vom/02/vom_0268   0   19     必须    VV            (VP*   -   01   -   -            *             *        *    (V*)           *        -
+bn/vom/02/vom_0268   0   20     接受    VV            (VP*   -   01   -   -            *             *        *      *          (V*)       -
+bn/vom/02/vom_0268   0   21      ‘    PU            (NP*   -    -   -   -            *             *        *      *       (ARG1*        -
+bn/vom/02/vom_0268   0   22      一    CD     (DNP(NP(QP*   -    -   -   -    (CARDINAL)            *        *      *            *        -
+bn/vom/02/vom_0268   0   23      个     M          (CLP*))  -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0   24     中国    NR           (NP*))  -    -   -   -         (GPE)            *        *      *            *        -
+bn/vom/02/vom_0268   0   25      的   DEG               *)  -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0   26     原则    NN            (NP*)  -    -   -   -            *             *        *      *            *        -
+bn/vom/02/vom_0268   0   27      ’    PU        *))))))))  -    -   -   -            *             *)       *      *            *)       -
+bn/vom/02/vom_0268   0   28      。    PU              *))  -    -   -   -            *             *        *      *            *        -
+
+bn/vom/02/vom_0268   0    0      另    AD       (TOP(IP(PP(ADVP*)  -    -   -   -            *        *    (ARGM-MNR*        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0    1      据     P                   (PP*   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0    2     报道    NN                 (NP*)))  -    -   -   -            *        *             *)       *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0    3      ，    PU                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0    4     中国    NR             (NP(NP(NP*)  -    -   -   -        (ORG*        *        (ARG0*        *      *            *        *        *             *    (10|(13)
+bn/vom/02/vom_0268   0    5    交通部    NN                   (NP*   -    -   -   -            *)       *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0    6     部长    NN                     *))  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0    7    洪善祥    NR                  (NP*))  -    -   -   -      (PERSON)       *             *)       *      *            *        *        *             *         10)
+bn/vom/02/vom_0268   0    8    星期六    NT                (VP(NP*)  -    -   -   -        (DATE)       *    (ARGM-TMP*)       *      *            *        *        *             *         (3)
+bn/vom/02/vom_0268   0    9      在     P                   (PP*   -    -   2   -            *        *    (ARGM-TMP*        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   10     接见    VV            (LCP(IP(VP*   -   01   -   -            *      (V*)            *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   11     台湾    NR                (NP(NP*)  -    -   -   -        (ORG*   (ARG1*             *        *      *            *        *        *             *        (12)
+bn/vom/02/vom_0268   0   12    国民党    NR                   (NP*   -    -   -   -            *)       *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   13      和    CC                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   14     新党    NR                      *)  -    -   -   -         (ORG)       *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   15     立法    NN                   (NP*   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   16     委员    NN                      *)  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   17    访问团    NN                (NP*))))  -    -   -   -            *        *)            *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   18      时    LC                     *))  -    -   -   -            *        *             *)       *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   19     表示    VV                   (VP*   -   01   2   -            *        *           (V*)       *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   20      ，    PU                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   21      在     P                (IP(PP*   -    -   2   -            *        *        (ARG1*        *      *   (ARGM-TMP*        *        *    (ARGM-TMP*          -
+bn/vom/02/vom_0268   0   22      两    CD      (LCP(IP(NP(NP(QP*)  -    -   -   -    (CARDINAL)       *             *   (ARG1*      *            *        *        *             *     (8|(16
+bn/vom/02/vom_0268   0   23      岸    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *        *        *             *         16)
+bn/vom/02/vom_0268   0   24     直航    NN                  (NP*))  -    -   -   -            *        *             *        *)     *            *        *        *             *          8)
+bn/vom/02/vom_0268   0   25     开通    VV                  (VP*))  -   01   -   -            *        *             *      (V*)     *            *        *        *             *          -
+bn/vom/02/vom_0268   0   26     以后    LC                     *))  -    -   -   -            *        *             *        *      *            *)       *        *             *)         -
+bn/vom/02/vom_0268   0   27      ，    PU                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   28     北京    NR                   (NP*)  -    -   -   -         (GPE)       *             *        *      *       (ARG0*)       *        *        (ARG0*)       (13)
+bn/vom/02/vom_0268   0   29      会    VV                (VP(VP*   -   01   -   -            *        *             *        *    (V*)           *        *        *             *          -
+bn/vom/02/vom_0268   0   30      将    BA                   (VP*   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   31      两    CD          (IP(NP(NP(QP*)  -    -   -   -    (CARDINAL)       *             *        *      *       (ARG1*   (ARG0*        *             *     (8|(16
+bn/vom/02/vom_0268   0   32      岸    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *        *        *             *         16)
+bn/vom/02/vom_0268   0   33     直航    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *)       *)       *             *          8)
+bn/vom/02/vom_0268   0   34     看成    VV               (VP(VCP*   -   01   -   -            *        *             *        *      *          (V*)       *        *             *          -
+bn/vom/02/vom_0268   0   35      是    VC                      *)  -   01   1   -            *        *             *        *      *            *      (V*)       *             *          -
+bn/vom/02/vom_0268   0   36     特别    JJ   (NP(DNP(LCP(NP(ADJP*)  -    -   -   -            *        *             *        *      *       (ARG2*   (ARG1*        *             *          -
+bn/vom/02/vom_0268   0   37     管理    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   38      下    LC                      *)  -    -   1   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   39      的   DEG                      *)  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   40     国内    NN                   (NP*   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   41     航线    NN                 *))))))  -    -   -   -            *        *             *        *      *            *)       *)       *             *          -
+bn/vom/02/vom_0268   0   42      ，    PU                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   43      在     P                (VP(PP*   -    -   2   -            *        *             *        *      *            *        *        *    (ARGM-LOC*          -
+bn/vom/02/vom_0268   0   44     这个    DT            (LCP(NP(DP*)  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   45     原则    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   46      下    LC                     *))  -    -   1   -            *        *             *        *      *            *        *        *             *)         -
+bn/vom/02/vom_0268   0   47      ，    PU                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   48      在     P                   (PP*   -    -   2   -            *        *             *        *      *            *        *        *    (ARGM-TMP*          -
+bn/vom/02/vom_0268   0   49      两    CD         (LCP(IP(NP(QP*)  -    -   -   -    (CARDINAL)       *             *        *      *            *        *   (ARG0*             *        (16
+bn/vom/02/vom_0268   0   50      岸    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *        *        *)            *         16)
+bn/vom/02/vom_0268   0   51     加入    VV                   (VP*   -   01   1   -            *        *             *        *      *            *        *      (V*)            *          -
+bn/vom/02/vom_0268   0   52     世界    NN                   (NP*   -    -   -   -        (ORG*        *             *        *      *            *        *   (ARG1*             *          -
+bn/vom/02/vom_0268   0   53     贸易    NN                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   54     组织    NN                    *)))  -    -   3   -            *)       *             *        *      *            *        *        *)            *          -
+bn/vom/02/vom_0268   0   55     以后    LC                     *))  -    -   -   -            *        *             *        *      *            *        *        *             *)         -
+bn/vom/02/vom_0268   0   56      ，    PU                      *   -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   57      将    AD                 (ADVP*)  -    -   -   -            *        *             *        *      *            *        *        *    (ARGM-ADV*)         -
+bn/vom/02/vom_0268   0   58      为     P                   (PP*   -    -   5   -            *        *             *        *      *            *        *        *    (ARGM-BNF*          -
+bn/vom/02/vom_0268   0   59      两    CD         (NP(DNP(NP(QP*)  -    -   -   -    (CARDINAL)       *             *        *      *            *        *        *             *        (16
+bn/vom/02/vom_0268   0   60      岸    NN                  (NP*))  -    -   -   -            *        *             *        *      *            *        *        *             *         16)
+bn/vom/02/vom_0268   0   61      的   DEG                      *)  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+bn/vom/02/vom_0268   0   62     船只    NN                 (NP*)))  -    -   -   -            *        *             *        *      *            *        *        *             *)         -
+bn/vom/02/vom_0268   0   63     设立    VV                   (VP*   -   01   -   -            *        *             *        *      *            *        *        *           (V*)         -
+bn/vom/02/vom_0268   0   64     航线    NN             (NP*)))))))  -    -   -   -            *        *             *)       *      *            *        *        *        (ARG1*)         -
+bn/vom/02/vom_0268   0   65      。    PU                     *))  -    -   -   -            *        *             *        *      *            *        *        *             *          -
+
+bn/vom/02/vom_0268   0    0      在     P              (TOP(IP(PP*   -    -   2   -            *             *            *             *   (ARGM-TMP*         *         *      -
+bn/vom/02/vom_0268   0    1     中国    NR              (LCP(IP(NP*)  -    -   -   -         (GPE)            *       (ARG0*)            *            *         *         *    (13)
+bn/vom/02/vom_0268   0    2      不    AD         (VP(DVP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)  (ARGM-ADV*             *            *         *         *      -
+bn/vom/02/vom_0268   0    3     情愿    VA                    (VP*))  -   01   -   -            *           (V*)           *             *            *         *         *      -
+bn/vom/02/vom_0268   0    4      的   DEV                        *)  -    -   -   -            *             *            *)            *            *         *         *      -
+bn/vom/02/vom_0268   0    5     接受    VV                     (VP*   -   01   -   -            *             *          (V*)            *            *         *         *      -
+bn/vom/02/vom_0268   0    6     台湾    NR   (NP(CP(CP(IP(NP(NP(NP*)  -    -   -   -        (GPE*             *       (ARG1*        (ARG0*            *         *         *    (12)
+bn/vom/02/vom_0268   0    7     金门    NR                     (NP*   -    -   -   -            *)            *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0    8      和    CC                        *   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0    9     马祖    NR                       *))  -    -   -   -         (GPE)            *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   10      与    CC                        *   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   11     大陆    NN                  (NP(NP*)  -    -   -   -        (GPE*             *            *             *            *         *         *    (13)
+bn/vom/02/vom_0268   0   12     厦门    NR                     (NP*   -    -   -   -            *)            *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   13      和    CC                        *   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   14     福州    NR                      *)))  -    -   -   -         (GPE)            *            *             *)           *         *         *      -
+bn/vom/02/vom_0268   0   15     元旦    NT                  (VP(NP*)  -    -   -   -        (DATE)            *            *    (ARGM-TMP*)           *         *         *      -
+bn/vom/02/vom_0268   0   16     开始    VV                   (VP*)))  -   01   -   -            *             *            *           (V*)           *         *         *      -
+bn/vom/02/vom_0268   0   17      的   DEC                       *))  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   18      小    JJ                   (ADJP*)  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   19     三通    NN                 (NP*)))))  -    -   -   -    (CARDINAL)            *            *)       (ARG1*)           *         *         *      -
+bn/vom/02/vom_0268   0   20     以后    LC                       *))  -    -   -   -            *             *            *             *            *)        *         *      -
+bn/vom/02/vom_0268   0   21      ，    PU                        *   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   22    洪善祥    NR              (NP(DNP(NP*)  -    -   -   -      (PERSON)            *            *             *       (ARG1*         *         *    (10)
+bn/vom/02/vom_0268   0   23      的   DEG                        *)  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   24     讲话    NN                    (NP*))  -    -   -   -            *             *            *             *            *)        *         *      -
+bn/vom/02/vom_0268   0   25      被    LB                     (VP*   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   26     外界    NN                  (IP(NP*)  -    -   -   -            *             *            *             *       (ARG0*)   (ARG0*)        *      -
+bn/vom/02/vom_0268   0   27     看成    VV                 (VP(VCP*   -   01   -   -            *             *            *             *          (V*)        *         *      -
+bn/vom/02/vom_0268   0   28      是    VC                        *)  -   01   1   -            *             *            *             *            *       (V*)        *      -
+bn/vom/02/vom_0268   0   29     大陆    NN         (NP(CP(IP(NP(NP*)  -    -   -   -         (GPE)            *            *             *       (ARG2*    (ARG1*    (ARG0*    (13)
+bn/vom/02/vom_0268   0   30      在     P                 (DNP(PP*   -    -   2   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   31     三通    NN                 (LCP(NP*   -    -   -   -    (CARDINAL)            *            *             *            *         *         *    (15
+bn/vom/02/vom_0268   0   32     问题    NN                        *)  -    -   -   -            *             *            *             *            *         *         *     15)
+bn/vom/02/vom_0268   0   33      上    LC                       *))  -    -   3   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   34      的   DEG                        *)  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   35     立场    NN                    (NP*))  -    -   -   -            *             *            *             *            *         *         *)     -
+bn/vom/02/vom_0268   0   36      ，    PU                        *   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   37     有所    VV                     (VP*   -   01   -   -            *             *            *             *            *         *       (V*)     -
+bn/vom/02/vom_0268   0   38     松动    NN                   (NP*)))  -    -   -   -            *             *            *             *            *         *    (ARG1*)     -
+bn/vom/02/vom_0268   0   39      的   DEC                        *)  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   40      又    AD                (QP(ADVP*)  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   41      一    CD                     (QP*   -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   42      个     M                  (CLP*)))  -    -   -   -            *             *            *             *            *         *         *      -
+bn/vom/02/vom_0268   0   43     迹象    NN                 (NP*)))))  -    -   -   -            *             *            *             *            *)        *)        *      -
+bn/vom/02/vom_0268   0   44      。    PU                       *))  -    -   -   -            *             *            *             *            *         *         *      -
+
+bn/vom/02/vom_0268   0    0      另    AD         (TOP(IP(IP(PP(ADVP*)  -    -   -   -            *        (ARG2*             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    1      据     P                        (PP*   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    2     报道    NN                      (NP*)))  -    -   -   -            *             *)            *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    3      ，    PU                           *   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    4     美国    NR                  (NP(NP(NP*)  -    -   -   -        (ORG*        (ARG0*             *         *             *         *         *      *             *        *        *    (14|(5)
+bn/vom/02/vom_0268   0    5    国务院    NN                        (NP*   -    -   -   -            *)            *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    6    发言人    NN                          *))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    7     鲍策    NR                       (NP*))  -    -   -   -      (PERSON)            *)            *         *             *         *         *      *             *        *        *        14)
+bn/vom/02/vom_0268   0    8    星期五    NT                     (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)            *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0    9      在     P                        (PP*   -    -   2   -            *    (ARGM-LOC*             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   10     例行    JJ               (LCP(NP(ADJP*)  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   11     新闻    NN                        (NP*   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   12    发布会    NN                          *))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   13      上    LC                          *))  -    -   1   -            *             *)            *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   14      说    VV                        (VP*   -   01   7   -            *           (V*)            *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   15      ，    PU                           *   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   16     美国    NR                  (IP(NP(NP*)  -    -   -   -         (GPE)       (ARG1*             *    (ARG0*             *         *         *      *             *        *        *     (1|(5)
+bn/vom/02/vom_0268   0   17     政府    NN                       (NP*))  -    -   -   -            *             *             *         *)            *         *         *      *             *        *        *         1)
+bn/vom/02/vom_0268   0   18      对     P                     (VP(PP*   -    -   3   -            *             *             *    (ARG3*             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   19     中国    NR   (NP(CP(CP(IP(NP(NP(NP(NP*)  -    -   -   -         (GPE)            *        (ARG0*         *             *         *         *      *             *        *        *       (13)
+bn/vom/02/vom_0268   0   20    副总理    NN                       (NP*))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   21    钱其琛    NR                       (NP*))  -    -   -   -      (PERSON)            *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   22      和    CC                           *   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   23     台湾    NR                  (NP(NP(NP*)  -    -   -   -         (GPE)            *             *         *             *         *         *      *             *        *        *       (12)
+bn/vom/02/vom_0268   0   24     总统    NN                       (NP*))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   25    陈水扁    NR                      (NP*)))  -    -   -   -      (PERSON)            *             *)        *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   26     最近    NT                     (VP(NP*)  -    -   -   -            *             *    (ARGM-TMP*)        *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   27     发表    VV                      (VP*)))  -   01   -   -            *             *           (V*)        *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   28      的   DEC                          *))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   29     谈话    NN                      (NP*)))  -    -   -   -            *             *        (ARG1*)        *)            *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   30     表示    VV                        (VP*   -   01   1   -            *             *             *       (V*)            *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   31     肯定    NN                  (NP*)))))))  -    -   1   -            *             *)            *    (ARG1*)            *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   32      ，    PU                           *   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   33     但是    AD                   (IP(ADVP*)  -    -   -   -            *             *             *         *    (ARGM-DIS*)        *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   34      他    PN                        (NP*)  -    -   -   -            *             *             *         *        (ARG0*)        *         *      *             *        *        *       (14)
+bn/vom/02/vom_0268   0   35     同时    AD                   (VP(ADVP*)  -    -   -   -            *             *             *         *    (ARGM-ADV*)        *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   36     重申    VV                        (VP*   -   01   -   -            *             *             *         *           (V*)        *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   37      ，    PU                           *   -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   38     美国    NR                     (IP(NP*)  -    -   -   -         (GPE)            *             *         *        (ARG1*    (ARG0*)        *      *        (ARG0*)       *        *        (1)
+bn/vom/02/vom_0268   0   39     不便    VV                     (VP(VP*   -   01   -   -            *             *             *         *             *       (V*)        *      *             *        *        *         -
+bn/vom/02/vom_0268   0   40      为     P                  (IP(VP(PP*   -    -   5   -            *             *             *         *             *    (ARG0*    (ARG2*      *             *        *        *         -
+bn/vom/02/vom_0268   0   41      两    CD                  (NP(NP(QP*)  -    -   -   -    (CARDINAL)            *             *         *             *         *         *      *             *        *        *       (16
+bn/vom/02/vom_0268   0   42      岸    NN                       (NP*))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *        16)
+bn/vom/02/vom_0268   0   43     对话    NN                      (NP*)))  -    -   -   -            *             *             *         *             *         *         *)     *             *        *        *         -
+bn/vom/02/vom_0268   0   44     提供    VV                        (VP*   -   01   -   -            *             *             *         *             *         *       (V*)     *             *        *        *         -
+bn/vom/02/vom_0268   0   45     建议    NN                    (NP*)))))  -    -   -   -            *             *             *         *             *         *)   (ARG1*)     *             *        *        *         -
+bn/vom/02/vom_0268   0   46      ，    PU                           *)  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   47      仅    AD                   (VP(ADVP*)  -    -   -   -            *             *             *         *             *         *         *      *    (ARGM-DIS*)       *        *         -
+bn/vom/02/vom_0268   0   48      是    VC                        (VP*   -   01   2   -            *             *             *         *             *         *         *    (V*)            *        *        *         -
+bn/vom/02/vom_0268   0   49     鼓励    VV                        (VP*   -   02   2   -            *             *             *         *             *         *         *      *           (V*)       *        *         -
+bn/vom/02/vom_0268   0   50     双方    PN                        (NP*)  -    -   -   -            *             *             *         *             *         *         *      *        (ARG1*)       *        *       (16)
+bn/vom/02/vom_0268   0   51      尽    VV                  (IP(VP(VP*   -   01   3   -            *             *             *         *             *         *         *      *        (ARG2*      (V*)       *         -
+bn/vom/02/vom_0268   0   52     一切    DT                     (NP(DP*)  -    -   -   -            *             *             *         *             *         *         *      *             *   (ARG1*        *         -
+bn/vom/02/vom_0268   0   53     努力    NN                      (NP*)))  -    -   -   -            *             *             *         *             *         *         *      *             *        *)       *         -
+bn/vom/02/vom_0268   0   54     解决    VV                        (VP*   -   01   -   -            *             *             *         *             *         *         *      *             *        *      (V*)        -
+bn/vom/02/vom_0268   0   55     彼此    PN                 (NP(DNP(NP*)  -    -   -   -            *             *             *         *             *         *         *      *             *        *   (ARG1*         -
+bn/vom/02/vom_0268   0   56      的   DEG                           *)  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+bn/vom/02/vom_0268   0   57     分歧    NN             (NP*))))))))))))  -    -   -   -            *             *             *         *             *)        *         *      *             *)       *        *)        -
+bn/vom/02/vom_0268   0   58      。    PU                          *))  -    -   -   -            *             *             *         *             *         *         *      *             *        *        *         -
+
+bn/vom/02/vom_0268   0    0     另外    AD     (TOP(IP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)   (ARGM-DIS*)        *      -
+bn/vom/02/vom_0268   0    1      ，    PU                 *   -    -   -   -          *             *             *         *      -
+bn/vom/02/vom_0268   0    2     美国    NR     (NP(NP(NP(NP*)  -    -   -   -      (ORG*        (ARG0*        (ARG0*         *    (19
+bn/vom/02/vom_0268   0    3      在     P              (PP*   -    -   2   -          *             *             *         *      -
+bn/vom/02/vom_0268   0    4      台    NR             (NP*))  -    -   -   -          *             *             *         *      -
+bn/vom/02/vom_0268   0    5     协会    NN             (NP*))  -    -   -   -          *)            *             *         *      -
+bn/vom/02/vom_0268   0    6     理事    NN              (NP*   -    -   -   -          *             *             *         *      -
+bn/vom/02/vom_0268   0    7     主席    NN                *))  -    -   -   -          *             *             *         *      -
+bn/vom/02/vom_0268   0    8    普瑞哲    NR             (NP*))  -    -   -   -    (PERSON)            *)            *)        *     19)
+bn/vom/02/vom_0268   0    9    星期六    NT        (VP(VP(NP*   -    -   -   -     (TIME*    (ARGM-TMP*             *         *      -
+bn/vom/02/vom_0268   0   10     晚间    NT                 *)  -    -   -   -          *)            *)            *         *      -
+bn/vom/02/vom_0268   0   11     抵达    VV              (VP*   -   01   -   -          *           (V*)            *         *      -
+bn/vom/02/vom_0268   0   12     台北    NR            (NP*)))  -    -   -   -       (GPE)       (ARG1*)            *         *      -
+bn/vom/02/vom_0268   0   13      ，    PU                 *   -    -   -   -          *             *             *         *      -
+bn/vom/02/vom_0268   0   14      对     P           (VP(PP*   -    -   3   -          *             *             *         *      -
+bn/vom/02/vom_0268   0   15     台湾    NR             (NP*))  -    -   -   -       (GPE)            *             *         *    (12)
+bn/vom/02/vom_0268   0   16     进行    VV              (VP*   -   01   3   -          *             *           (V*)        *      -
+bn/vom/02/vom_0268   0   17     为期    VV  (NP(CP(CP(IP(VP*   -   01   -   -          *             *        (ARG1*       (V*)    (9
+bn/vom/02/vom_0268   0   18     １０    CD              (QP*   -    -   -   -     (DATE*             *             *    (ARG1*      -
+bn/vom/02/vom_0268   0   19      天     M          (CLP*))))  -    -   -   -          *)            *             *         *)     -
+bn/vom/02/vom_0268   0   20      的   DEC                *))  -    -   -   -          *             *             *         *      -
+bn/vom/02/vom_0268   0   21     访问    NN          (NP*)))))  -    -   -   -          *             *             *)   (ARG0*)     9)
+bn/vom/02/vom_0268   0   22      。    PU                *))  -    -   -   -          *             *             *         *      -
+
+bn/vom/02/vom_0268   0    0    普瑞哲    NR       (TOP(IP(IP(NP*)  -    -   -   -     (PERSON)   (ARG0*)        *         *             *    (19)
+bn/vom/02/vom_0268   0    1      是    VC                 (VP*   -   01   1   -           *       (V*)        *         *             *      -
+bn/vom/02/vom_0268   0    2     美国    NR       (NP(LCP(NP(NP*)  -    -   -   -        (GPE)   (ARG1*         *         *             *     (5)
+bn/vom/02/vom_0268   0    3     总统    NN                 (NP*   -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0    4     大选    NN                   *))  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0    5     以后    LC                    *)  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0    6     第一    OD                 (QP*   -    -   -   -    (ORDINAL)        *         *         *             *      -
+bn/vom/02/vom_0268   0    7      位     M               (CLP*))  -    -   2   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0    8     访问    VV        (CP(CP(IP(VP*   -   01   -   -           *         *       (V*)        *             *      -
+bn/vom/02/vom_0268   0    9     台湾    NR               (NP*)))  -    -   -   -        (GPE)        *    (ARG1*)        *             *    (12)
+bn/vom/02/vom_0268   0   10      的   DEC                   *))  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   11     美国    NR                 (NP*)  -    -   -   -        (GPE)        *         *         *             *     (5)
+bn/vom/02/vom_0268   0   12     特使    NN              (NP*))))  -    -   -   -           *         *)   (ARG0*)        *             *      -
+bn/vom/02/vom_0268   0   13      ，    PU                    *   -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   14     外界    NN              (IP(NP*)  -    -   -   -           *         *         *         *        (ARG0*)     -
+bn/vom/02/vom_0268   0   15      对     P              (VP(PP*   -    -   3   -           *         *         *         *        (ARG1*      -
+bn/vom/02/vom_0268   0   16      这    DT  (NP(CP(CP(IP(NP(DP*   -    -   -   -           *         *         *    (ARG0*             *     (9
+bn/vom/02/vom_0268   0   17      次     M               (CLP*))  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   18     访问    NN                (NP*))  -    -   -   -           *         *         *         *)            *      9)
+bn/vom/02/vom_0268   0   19      对     P              (VP(PP*   -    -   3   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   20     美国    NR    (NP(DNP(NP(NP(NP*)  -    -   -   -        (GPE)        *         *         *             *     (5)
+bn/vom/02/vom_0268   0   21     当选    JJ               (ADJP*)  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   22     总统    NN                (NP*))  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   23     布什    NR                (NP*))  -    -   -   -     (PERSON)        *         *         *             *      -
+bn/vom/02/vom_0268   0   24      的   DEG                    *)  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   25     中国    NR                 (NP*)  -    -   -   -        (GPE)        *         *         *             *    (13)
+bn/vom/02/vom_0268   0   26     政策    NN               (NP*)))  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   27     产生    VV               (VP*)))  -   01   1   -           *         *         *       (V*)            *      -
+bn/vom/02/vom_0268   0   28      的   DEC                   *))  -    -   -   -           *         *         *         *             *      -
+bn/vom/02/vom_0268   0   29     影响    NN               (NP*)))  -    -   -   -           *         *         *    (ARG1*)            *)     -
+bn/vom/02/vom_0268   0   30     极为    AD               (ADVP*)  -    -   -   -           *         *         *         *    (ARGM-ADV*)     -
+bn/vom/02/vom_0268   0   31     关注    VV               (VP*)))  -   01   -   -           *         *         *         *           (V*)     -
+bn/vom/02/vom_0268   0   32      。    PU                   *))  -    -   -   -           *         *         *         *             *      -
+
+bn/vom/02/vom_0268   0    0     以上    PN            (TOP(IP(NP*)  -    -   -   -          *    (ARG0*)          -
+bn/vom/02/vom_0268   0    1      是    VC                   (VP*   -   01   1   -          *       (V*)          -
+bn/vom/02/vom_0268   0    2     美国    NR   (NP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*    (ARG1*   (2|(4|(18
+bn/vom/02/vom_0268   0    3      之   DEG                      *)  -    -   -   -          *         *           -
+bn/vom/02/vom_0268   0    4      音    NN                  (NP*))  -    -   -   -          *)        *           4)
+bn/vom/02/vom_0268   0    5     记者    NN                  (NP*))  -    -   -   -          *         *           -
+bn/vom/02/vom_0268   0    6     海燕    NR                  (NP*))  -    -   -   -    (PERSON)        *           2)
+bn/vom/02/vom_0268   0    7      在     P               (DNP(PP*   -    -   2   -          *         *           -
+bn/vom/02/vom_0268   0    8    华盛顿    NR                  (NP*))  -    -   -   -       (GPE)        *           -
+bn/vom/02/vom_0268   0    9      的   DEG                      *)  -    -   -   -          *         *           -
+bn/vom/02/vom_0268   0   10     报道    NN                 (NP*)))  -    -   -   -          *         *)         18)
+bn/vom/02/vom_0268   0   11      。    PU                     *))  -    -   -   -          *         *           -
+
+#end document

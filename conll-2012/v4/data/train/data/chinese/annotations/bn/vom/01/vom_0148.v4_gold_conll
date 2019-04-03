@@ -1,0 +1,107 @@
+#begin document (bn/vom/01/vom_0148); part 000
+bn/vom/01/vom_0148   0    0    巴基斯坦   NR     (TOP(IP(NP*)  -    -   -   -    (GPE)   (ARG0*)            *         *         *      *             *    (3)
+bn/vom/01/vom_0148   0    1      表示   VV            (VP*   -   01   2   -       *       (V*)            *         *         *      *             *     -
+bn/vom/01/vom_0148   0    2      美国   NR   (CP(IP(IP(NP*)  -    -   -   -    (GPE)   (ARG1*             *    (ARG0*)   (ARG0*)     *        (ARG0*    (2)
+bn/vom/01/vom_0148   0    3       以    P      (VP(VP(PP*   -    -   -   -       *         *             *    (ARG2*         *      *             *     -
+bn/vom/01/vom_0148   0    4      据称   AD       (IP(ADVP*)  -    -   -   -       *         *    (ARGM-MNR*)        *         *      *             *     -
+bn/vom/01/vom_0148   0    5      中国   NR            (NP*)  -    -   -   -    (GPE)        *        (ARG0*)        *         *      *             *    (4)
+bn/vom/01/vom_0148   0    6       向    P         (VP(PP*   -    -   -   -       *         *        (ARG2*         *         *      *             *     -
+bn/vom/01/vom_0148   0    7    巴基斯坦   NR           (NP*))  -    -   -   -    (GPE)        *             *)        *         *      *             *    (3)
+bn/vom/01/vom_0148   0    8      转让   VV            (VP*   -   01   -   -       *         *           (V*)        *         *      *             *     -
+bn/vom/01/vom_0148   0    9      导弹   NN            (NP*   -    -   -   -       *         *        (ARG1*         *         *      *             *     -
+bn/vom/01/vom_0148   0   10      技术   NN           *)))))  -    -   -   -       *         *             *)        *)        *      *             *     -
+bn/vom/01/vom_0148   0   11       为   VC            (VP*   -   02   2   -       *         *             *       (V*)        *      *             *     -
+bn/vom/01/vom_0148   0   12      理由   NN          (NP*)))  -    -   -   -       *         *             *    (ARG1*)        *      *             *     -
+bn/vom/01/vom_0148   0   13       ，   PU               *   -    -   -   -       *         *             *         *         *      *             *     -
+bn/vom/01/vom_0148   0   14      制裁   VV            (VP*   -   01   -   -       *         *             *         *       (V*)     *             *     -
+bn/vom/01/vom_0148   0   15    巴基斯坦   NR         (NP*))))  -    -   -   -    (GPE)        *             *         *    (ARG1*)     *             *)   (3)
+bn/vom/01/vom_0148   0   16       是   VC            (VP*   -   01   1   -       *         *             *         *         *    (V*)            *     -
+bn/vom/01/vom_0148   0   17       不   AD       (VP(ADVP*)  -    -   -   -       *         *             *         *         *      *    (ARGM-ADV*)    -
+bn/vom/01/vom_0148   0   18      公平   VA         (VP*))))  -   01   -   -       *         *             *         *         *      *           (V*)    -
+bn/vom/01/vom_0148   0   19       的   SP              *))  -    -   -   -       *         *)            *         *         *      *             *     -
+bn/vom/01/vom_0148   0   20       。   PU              *))  -    -   -   -       *         *             *         *         *      *             *     -
+
+bn/vom/01/vom_0148   0    0    巴基斯坦    NR           (TOP(IP(NP(NP*)  -    -   -   -    (ORG*        (ARG0*         *      *         *             *             *    (0|(3)
+bn/vom/01/vom_0148   0    1     外交部    NN                     (NP*   -    -   -   -        *)            *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0    2     发言人    NN                       *))  -    -   -   -        *             *)        *      *         *             *             *        0)
+bn/vom/01/vom_0148   0    3     星期三    NT                  (VP(NP*)  -    -   -   -    (DATE)   (ARGM-TMP*)        *      *         *             *             *        -
+bn/vom/01/vom_0148   0    4       在     P                     (PP*   -    -   2   -        *    (ARGM-LOC*         *      *         *             *             *        -
+bn/vom/01/vom_0148   0    5    伊斯兰堡    NR                    (NP*))  -    -   -   -     (GPE)            *)        *      *         *             *             *        -
+bn/vom/01/vom_0148   0    6       对     P                     (PP*   -    -   3   -        *    (ARGM-DIR*         *      *         *             *             *        -
+bn/vom/01/vom_0148   0    7      记者    NN                    (NP*))  -    -   -   -        *             *)        *      *         *             *             *        -
+bn/vom/01/vom_0148   0    8       说    VV                     (VP*   -   01   7   -        *           (V*)        *      *         *             *             *        -
+bn/vom/01/vom_0148   0    9       ：    PU                        *   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   10       “    PU                     (IP*   -    -   -   -        *        (ARG1*         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   11      美国    NR   (CP(IP(NP(CP(CP(IP(NP*)  -    -   -   -     (GPE)            *    (ARG0*)     *    (ARG1*        (ARG0*             *       (2)
+bn/vom/01/vom_0148   0   12      采取    VV                    (VP*))  -   01   -   -        *             *       (V*)     *         *             *             *        -
+bn/vom/01/vom_0148   0   13       的   DEC                       *))  -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   14      行动    NN                    (NP*))  -    -   -   -        *             *    (ARG1*)     *         *)            *)            *        -
+bn/vom/01/vom_0148   0   15       是    VC                     (VP*   -   01   1   -        *             *         *    (V*)        *             *             *        -
+bn/vom/01/vom_0148   0   16      没有    VE                  (VP(VP*   -   01   1   -        *             *         *      *       (V*)            *             *        -
+bn/vom/01/vom_0148   0   17      道理    NN                    (NP*))  -    -   -   -        *             *         *      *    (ARG0*)            *             *        -
+bn/vom/01/vom_0148   0   18       和    CC                        *   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   19       不    AD                (VP(ADVP*)  -    -   -   -        *             *         *      *         *    (ARGM-ADV*)            *        -
+bn/vom/01/vom_0148   0   20      公平    VA                 (VP*)))))  -   01   -   -        *             *         *      *         *           (V*)            *        -
+bn/vom/01/vom_0148   0   21       的    SP                        *)  -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   22       ，    PU                        *   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   23      因为     P                     (PP*   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   24      中国    NR              (IP(LCP(NP*   -    -   -   -     (GPE)            *         *      *         *             *        (ARG1*       (1
+bn/vom/01/vom_0148   0   25       和    CC                        *   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   26    巴基斯坦    NR                        *)  -    -   -   -     (GPE)            *         *      *         *             *             *        1)
+bn/vom/01/vom_0148   0   27      之间    LC                        *)  -    -   -   -        *             *         *      *         *             *             *)       -
+bn/vom/01/vom_0148   0   28       并    AD                (VP(ADVP*)  -    -   -   -        *             *         *      *         *             *    (ARGM-ADV*)       -
+bn/vom/01/vom_0148   0   29      没有    VE                     (VP*   -   01   1   -        *             *         *      *         *             *           (V*)       -
+bn/vom/01/vom_0148   0   30      导弹    NN                     (NP*   -    -   -   -        *             *         *      *         *             *        (ARG0*        -
+bn/vom/01/vom_0148   0   31      技术    NN                        *   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   32      转让    NN                 *))))))))  -    -   -   -        *             *)        *      *         *             *             *)       -
+bn/vom/01/vom_0148   0   33       。    PU                        *   -    -   -   -        *             *         *      *         *             *             *        -
+bn/vom/01/vom_0148   0   34       ”    PU                       *))  -    -   -   -        *             *         *      *         *             *             *        -
+
+bn/vom/01/vom_0148   0    0     发言人   NN   (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)           *            *             *    (0)
+bn/vom/01/vom_0148   0    1       说   VV          (VP*   -   01   7   -       *       (V*)           *            *             *     -
+bn/vom/01/vom_0148   0    2       ：   PU             *   -    -   -   -       *         *            *            *             *     -
+bn/vom/01/vom_0148   0    3       “   PU          (IP*   -    -   -   -       *    (ARG1*            *            *             *     -
+bn/vom/01/vom_0148   0    4    巴基斯坦   NR          (NP*   -    -   -   -    (GPE)        *       (ARG0*       (ARG0*             *    (1
+bn/vom/01/vom_0148   0    5       和   CC             *   -    -   -   -       *         *            *            *             *     -
+bn/vom/01/vom_0148   0    6      中国   NR             *)  -    -   -   -    (GPE)        *            *)           *)            *     1)
+bn/vom/01/vom_0148   0    7       多   CD       (VP(QP*   -    -   -   -       *         *   (ARGM-ADV*   (ARGM-ADV*             *     -
+bn/vom/01/vom_0148   0    8       次    M        (CLP*))  -    -   -   -       *         *            *)           *)            *     -
+bn/vom/01/vom_0148   0    9      重申   VV       (VP(VP*)  -   01   -   -       *         *          (V*)           *             *     -
+bn/vom/01/vom_0148   0   10       和   CC             *   -    -   -   -       *         *            *            *             *     -
+bn/vom/01/vom_0148   0   11      强调   VV          (VP*   -   01   -   -       *         *            *          (V*)            *     -
+bn/vom/01/vom_0148   0   12       ，   PU             *   -    -   -   -       *         *            *            *             *     -
+bn/vom/01/vom_0148   0   13      中国   NR       (IP(NP*)  -    -   -   -    (GPE)        *            *            *        (ARG0*)   (4)
+bn/vom/01/vom_0148   0   14      没有   AD     (VP(ADVP*)  -    -   2   -       *         *            *            *    (ARGM-ADV*)    -
+bn/vom/01/vom_0148   0   15       向    P          (PP*   -    -   -   -       *         *            *            *        (ARG2*     -
+bn/vom/01/vom_0148   0   16    巴基斯坦   NR         (NP*))  -    -   -   -    (GPE)        *            *            *             *)   (3)
+bn/vom/01/vom_0148   0   17      输出   VV          (VP*   -   01   -   -       *         *            *            *           (V*)    -
+bn/vom/01/vom_0148   0   18      任何   DT       (NP(DP*)  -    -   -   -       *         *            *            *        (ARG1*     -
+bn/vom/01/vom_0148   0   19      导弹   NN          (NP*   -    -   -   -       *         *            *            *             *     -
+bn/vom/01/vom_0148   0   20      技术   NN    *))))))))))  -    -   -   -       *         *)           *            *             *)    -
+bn/vom/01/vom_0148   0   21       。   PU            *))  -    -   -   -       *         *            *            *             *     -
+
+bn/vom/01/vom_0148   0    0     ”    PU             (TOP(IP*   -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0    1    因为     P                 (PP*   -    -   -   -       *             *        *   (ARGM-PRP*   -
+bn/vom/01/vom_0148   0    2    这样    AD      (IP(IP(VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)  (ARG0*            *   -
+bn/vom/01/vom_0148   0    3     做    VV               (VP*)))  -   01   9   -       *           (V*)       *)           *   -
+bn/vom/01/vom_0148   0    4    违反    VV                 (VP*   -   01   -   -       *             *      (V*)           *   -
+bn/vom/01/vom_0148   0    5     《    PU          (NP(DNP(NP*   -    -   -   -       *             *   (ARG1*            *   -
+bn/vom/01/vom_0148   0    6    导弹    NN                    *   -    -   -   -   (LAW*             *        *            *   -
+bn/vom/01/vom_0148   0    7    技术    NN                    *   -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0    8    控制    NN                    *   -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0    9    制度    NN                    *   -    -   -   -       *)            *        *            *   -
+bn/vom/01/vom_0148   0   10     》    PU                    *)  -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0   11     的   DEG                    *)  -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0   12    准则    NN             (NP*)))))  -    -   -   -       *             *        *)           *)  -
+bn/vom/01/vom_0148   0   13     ，    PU                    *   -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0   14    以上    PN                 (NP*)  -    -   -   -       *             *        *       (ARG0*)  -
+bn/vom/01/vom_0148   0   15     是    VC                 (VP*   -   01   1   -       *             *        *          (V*)  -
+bn/vom/01/vom_0148   0   16    美国    NR   (NP(DNP(NP(DNP(NP*)  -    -   -   -   (ORG*             *        *       (ARG1*   -
+bn/vom/01/vom_0148   0   17     之   DEG                    *)  -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0   18     音    NN                (NP*))  -    -   -   -       *)            *        *            *   -
+bn/vom/01/vom_0148   0   19     的   DEG                    *)  -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0   20    简要    JJ               (ADJP*)  -    -   -   -       *             *        *            *   -
+bn/vom/01/vom_0148   0   21    新闻    NN               (NP*)))  -    -   -   -       *             *        *            *)  -
+bn/vom/01/vom_0148   0   22     。    PU                   *))  -    -   -   -       *             *        *            *   -
+
+#end document

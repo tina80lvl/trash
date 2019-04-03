@@ -1,0 +1,130 @@
+#begin document (bn/cbs/00/cbs_0040); part 000
+bn/cbs/00/cbs_0040   0    0       国际    NN             (TOP(IP(NP*   -    -   -   -        (ORG*       (ARG0*        *             *        -
+bn/cbs/00/cbs_0040   0    1      传真社    NN                       *)  -    -   -   -            *)           *)       *             *        -
+bn/cbs/00/cbs_0040   0    2        在     P                 (VP(PP*   -    -   2   -            *   (ARGM-TMP*        *             *        -
+bn/cbs/00/cbs_0040   0    3      ３０号    NT                   (NP*))  -    -   -   -        (DATE)           *)       *             *        -
+bn/cbs/00/cbs_0040   0    4       引述    VV                 (VP(VP*   -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0    5      俄罗斯    NR       (NP(DNP(NP(NP(NP*)  -    -   -   -         (GPE)           *        *             *       (4)
+bn/cbs/00/cbs_0040   0    6       北方    NN                    (NP*   -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0    7       舰队    NN                       *)  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0    8      发言人    NN                   (NP*))  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0    9    那弗洛斯基    NR                   (NP*))  -    -   -   -      (PERSON)           *        *             *        -
+bn/cbs/00/cbs_0040   0   10        的   DEG                       *)  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   11        话    NN                  (NP*)))  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   12       指出    VV                    (VP*   -   01   -   -            *          (V*)       *             *        -
+bn/cbs/00/cbs_0040   0   13        ，    PU                       *   -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   14      俄罗斯    NR              (IP(NP(NP*)  -    -   -   -        (NORP)      (ARG1*        *        (ARG0*    (0|(4)
+bn/cbs/00/cbs_0040   0   15      潜水夫    NN                   (NP*))  -    -   -   -            *            *        *             *)       0)
+bn/cbs/00/cbs_0040   0   16       已经    AD               (VP(ADVP*)  -    -   -   -            *            *        *    (ARGM-ADV*)       -
+bn/cbs/00/cbs_0040   0   17        从     P                    (PP*   -    -   -   -            *            *        *    (ARGM-LOC*        -
+bn/cbs/00/cbs_0040   0   18       沉没    VV   (LCP(NP(CP(CP(IP(VP*))  -   01   -   -            *            *      (V*)            *       (3
+bn/cbs/00/cbs_0040   0   19        的   DEC                       *   -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   20        “    PU                      *))  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   21    库尔斯克号    NR                    (NP*   -    -   -   -            *            *        *             *       (3
+bn/cbs/00/cbs_0040   0   22        ”    PU                       *)  -    -   -   -            *            *        *             *        3)
+bn/cbs/00/cbs_0040   0   23       核子    NN                    (NP*   -    -   -   -            *            *   (ARG0*             *        -
+bn/cbs/00/cbs_0040   0   24      潜水艇    NN                      *))  -    -   -   -            *            *        *)            *        3)
+bn/cbs/00/cbs_0040   0   25        内    LC                      *))  -    -   -   -            *            *        *             *)       -
+bn/cbs/00/cbs_0040   0   26       找到    VV                    (VP*   -   01   -   -            *            *        *           (V*)       -
+bn/cbs/00/cbs_0040   0   27       １２    CD                 (NP(QP*   -    -   -   -   (QUANTITY*            *        *        (ARG1*        -
+bn/cbs/00/cbs_0040   0   28        具     M                  (CLP*))  -    -   2   -            *)           *        *             *        -
+bn/cbs/00/cbs_0040   0   29      罹难者    NN                (DNP(NP*)  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   30        的   DEG                       *)  -    -   -   -            *            *        *             *        -
+bn/cbs/00/cbs_0040   0   31       尸体    NN             (NP*))))))))  -    -   -   -            *            *)       *             *)       -
+bn/cbs/00/cbs_0040   0   32        。    PU                      *))  -    -   -   -            *            *        *             *        -
+
+bn/cbs/00/cbs_0040   0    0       报导    NN          (TOP(IP(LCP(NP*)  -    -   -   -            *   (ARG0*             *        -
+bn/cbs/00/cbs_0040   0    1        中    LC                        *)  -    -   -   -            *        *)            *        -
+bn/cbs/00/cbs_0040   0    2        说    VV                     (VP*   -   01   8   -            *      (V*)            *        -
+bn/cbs/00/cbs_0040   0    3        ，    PU                        *   -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0    4      ２５号    NT   (IP(NP(CP(CP(IP(VP(NP*)  -    -   -   -        (DATE)  (ARG1*        (ARG0*    (0|(1)
+bn/cbs/00/cbs_0040   0    5        从     P                     (PP*   -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0    6        “    PU                        *   -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0    7    库尔斯克号    NR                     (NP*)  -    -   -   -            *        *             *       (3)
+bn/cbs/00/cbs_0040   0    8        ”    PU                        *   -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0    9        ９    CD                  (NP(QP*)  -    -   -   -    (CARDINAL)       *             *        -
+bn/cbs/00/cbs_0040   0   10        号    NN                    (NP*))  -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   11       船舱    NN                    (NP*))  -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   12       寻到    VV                     (VP*   -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   13        ４    CD                  (NP(QP*   -    -   -   -   (QUANTITY*        *             *        -
+bn/cbs/00/cbs_0040   0   14        具     M                   (CLP*))  -    -   2   -            *)       *             *        -
+bn/cbs/00/cbs_0040   0   15       尸体    NN                 (NP*)))))  -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   16        的   DEC                       *))  -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   17      潜水夫    NN                    (NP*))  -    -   -   -            *        *             *)       0)
+bn/cbs/00/cbs_0040   0   18      ２９号    NT                  (VP(NP*)  -    -   -   -        (DATE)       *    (ARGM-TMP*)       -
+bn/cbs/00/cbs_0040   0   19        在     P                     (PP*   -    -   2   -            *        *    (ARGM-LOC*        -
+bn/cbs/00/cbs_0040   0   20        同    DT              (LCP(NP(DP*   -    -   -   -            *        *             *       (2
+bn/cbs/00/cbs_0040   0   21        一    CD                     (QP*   -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   22        个     M                  (CLP*)))  -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   23       船舱    NN                    (NP*))  -    -   -   -            *        *             *        2)
+bn/cbs/00/cbs_0040   0   24        中    LC                       *))  -    -   -   -            *        *             *)       -
+bn/cbs/00/cbs_0040   0   25       找到    VV                     (VP*   -   01   -   -            *        *           (V*)       -
+bn/cbs/00/cbs_0040   0   26        更    AD         (NP(DNP(QP(ADVP*)  -    -   -   -            *        *        (ARG1*        -
+bn/cbs/00/cbs_0040   0   27        多    CD                    (QP*))  -    -   3   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   28        的   DEG                        *)  -    -   -   -            *        *             *        -
+bn/cbs/00/cbs_0040   0   29      罹难者    NN                (NP*))))))  -    -   -   -            *        *)            *)       -
+bn/cbs/00/cbs_0040   0   30        。    PU                       *))  -    -   -   -            *        *             *        -
+
+bn/cbs/00/cbs_0040   0    0       根据     P          (TOP(IP(PP*   -    -   -   -            *         *        *         *    (ARGM-MNR*      *             *     -
+bn/cbs/00/cbs_0040   0    1        在     P  (IP(NP(CP(IP(VP(PP*   -    -   2   -            *         *   (ARG0*         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    2      ２５号    NT                (NP*))  -    -   -   -        (DATE)        *        *         *             *      *             *    (1)
+bn/cbs/00/cbs_0040   0    3       寻获    VV              (VP*))))  -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    4       罹难    JJ   (CP(CP(IP(NP(ADJP*)  -    -   -   -            *    (ARG0*        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    5       官兵    NN                (NP*))  -    -   -   -            *         *)       *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    6        所   MSP                 (VP*   -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    7       留下    VV               (VP*)))  -   01   -   -            *       (V*)       *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    8        的   DEC                   *))  -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0    9       纸条    NN                (NP*))  -    -   -   -            *    (ARG1*)       *)        *             *      *             *     -
+bn/cbs/00/cbs_0040   0   10       显示    VV               (VP*)))  -   01   1   -            *         *      (V*)        *             *)     *             *     -
+bn/cbs/00/cbs_0040   0   11        ，    PU                    *   -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   12        “    PU                    *   -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   13    库尔斯克号    NR      (LCP(NP(LCP(NP*)  -    -   -   -            *         *        *         *        (ARG0*      *             *    (3)
+bn/cbs/00/cbs_0040   0   14        ”    PU                    *   -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   15        上    LC                    *)  -    -   1   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   16      １１８    CD                 (QP*   -    -   -   -   (QUANTITY*         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   17        名     M               (CLP*))  -    -   -   -            *)        *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   18       罹难    VV       (CP(CP(IP(VP*))  -   01   -   -            *         *        *       (V*)            *      *             *     -
+bn/cbs/00/cbs_0040   0   19        的   DEC                   *))  -    -   -   -            *         *        *         *             *      *             *     -
+bn/cbs/00/cbs_0040   0   20       官兵    NN                (NP*))  -    -   -   -            *         *        *    (ARG0*)            *      *             *     -
+bn/cbs/00/cbs_0040   0   21        中    LC                    *)  -    -   -   -            *         *        *         *             *)     *             *     -
+bn/cbs/00/cbs_0040   0   22       至少    AD            (VP(ADVP*)  -    -   -   -            *         *        *         *    (ARGM-ADV*)     *             *     -
+bn/cbs/00/cbs_0040   0   23        有    VE                 (VP*   -   05   4   -            *         *        *         *           (V*)     *             *     -
+bn/cbs/00/cbs_0040   0   24       ２３    CD           (IP(NP(QP*)  -    -   -   -   (QUANTITY*         *        *         *        (ARG1*      *        (ARG1*     -
+bn/cbs/00/cbs_0040   0   25        人    NN                (NP*))  -    -   -   -            *)        *        *         *             *      *             *)    -
+bn/cbs/00/cbs_0040   0   26        不    AD            (VP(ADVP*)  -    -   -   -            *         *        *         *             *      *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0040   0   27        是    VC                 (VP*   -   01   1   -            *         *        *         *             *    (V*)            *     -
+bn/cbs/00/cbs_0040   0   28       立即    AD            (VP(ADVP*)  -    -   -   -            *         *        *         *             *      *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0040   0   29       死亡    VV           (VP*)))))))  -   01   -   -            *         *        *         *             *)     *           (V*)    -
+bn/cbs/00/cbs_0040   0   30        。    PU                   *))  -    -   -   -            *         *        *         *             *      *             *     -
+
+bn/cbs/00/cbs_0040   0    0       ８月    NT    (TOP(IP(IP(NP*   -    -   -   -       (DATE*      *    (ARGM-TMP*             *     -
+bn/cbs/00/cbs_0040   0    1      １２号    NT                 *)  -    -   -   -            *)     *             *)            *     -
+bn/cbs/00/cbs_0040   0    2        “    PU                 *   -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0    3    库尔斯克号    NR              (NP*)  -    -   -   -            *      *        (ARG1*)            *    (3)
+bn/cbs/00/cbs_0040   0    4        ”    PU                 *   -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0    5        在     P           (VP(PP*   -    -   2   -            *      *    (ARGM-TMP*             *     -
+bn/cbs/00/cbs_0040   0    6       沉没    VV      (LCP(IP(VP*))  -   01   -   -            *    (V*)            *             *     -
+bn/cbs/00/cbs_0040   0    7       之前    LC                *))  -    -   -   -            *      *             *)            *     -
+bn/cbs/00/cbs_0040   0    8       曾经    AD            (ADVP*)  -    -   -   -            *      *    (ARGM-ADV*)            *     -
+bn/cbs/00/cbs_0040   0    9       发生    VV              (VP*   -   01   1   -            *      *           (V*)            *     -
+bn/cbs/00/cbs_0040   0   10        两    CD           (NP(QP*   -    -   -   -   (QUANTITY*      *        (ARG0*             *     -
+bn/cbs/00/cbs_0040   0   11        次     M            (CLP*))  -    -   -   -            *)     *             *             *     -
+bn/cbs/00/cbs_0040   0   12       强烈    JJ            (ADJP*)  -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0   13       爆炸    NN          (NP*)))))  -    -   -   -            *      *             *)            *     -
+bn/cbs/00/cbs_0040   0   14        ，    PU                 *   -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0   15       不过    AD         (IP(ADVP*)  -    -   -   -            *      *             *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0040   0   16       逃往    VV  (NP(CP(CP(IP(VP*   -    -   -   -            *      *             *        (ARG0*     -
+bn/cbs/00/cbs_0040   0   17       第９    CD        (NP(NP(QP*)  -    -   -   -    (CARDINAL)     *             *             *    (2
+bn/cbs/00/cbs_0040   0   18        号    NN             (NP*))  -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0   19       船舱    NN           (NP*))))  -    -   -   -            *      *             *             *     2)
+bn/cbs/00/cbs_0040   0   20        的   DEC                *))  -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0   21       船员    NN             (NP*))  -    -   -   -            *      *             *             *)    -
+bn/cbs/00/cbs_0040   0   22       至少    AD         (VP(ADVP*)  -    -   -   -            *      *             *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0040   0   23       存活    VV              (VP*   -   01   -   -            *      *             *           (V*)    -
+bn/cbs/00/cbs_0040   0   24        了    AS                 *   -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0   25        几    CD           (NP(QP*   -    -   -   -       (TIME*      *             *    (ARGM-EXT*     -
+bn/cbs/00/cbs_0040   0   26        个     M            (CLP*))  -    -   -   -            *      *             *             *     -
+bn/cbs/00/cbs_0040   0   27       小时    NN          (NP*)))))  -    -   -   -            *)     *             *             *)    -
+bn/cbs/00/cbs_0040   0   28        。    PU                *))  -    -   -   -            *      *             *             *     -
+
+#end document

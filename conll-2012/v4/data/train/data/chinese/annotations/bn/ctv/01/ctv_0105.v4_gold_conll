@@ -1,0 +1,189 @@
+#begin document (bn/ctv/01/ctv_0105); part 000
+bn/ctv/01/ctv_0105   0    0        据     P      (TOP(IP(IP(PP*   -    -   -   -            *             *    (ARGM-MNR*         *             *           -
+bn/ctv/01/ctv_0105   0    1       秘鲁    NR          (IP(NP(NP*)  -    -   -   -         (GPE)       (ARG0*             *         *             *          (3)
+bn/ctv/01/ctv_0105   0    2       新闻    NN                (NP*   -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0    3       媒体    NN                  *))  -    -   -   -            *             *)            *         *             *           -
+bn/ctv/01/ctv_0105   0    4       ４号    NT             (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)            *         *             *           -
+bn/ctv/01/ctv_0105   0    5       报道    VV             (VP*))))  -   01   -   -            *           (V*)            *)        *             *           -
+bn/ctv/01/ctv_0105   0    6        ，    PU                   *   -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0    7       秘鲁    NR          (NP(NP(NP*)  -    -   -   -         (GPE)            *        (ARG0*         *             *       (2|(3)
+bn/ctv/01/ctv_0105   0    8        前    JJ              (ADJP*)  -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0    9       总统    NN               (NP*))  -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   10       藤森    NR               (NP*))  -    -   -   -      (PERSON)            *             *)        *             *           2)
+bn/ctv/01/ctv_0105   0   11       目前    NT             (VP(NP*)  -    -   -   -            *             *    (ARGM-TMP*)        *             *          (4)
+bn/ctv/01/ctv_0105   0   12       受到    VV                (VP*   -   01   1   -            *             *           (V*)        *             *           -
+bn/ctv/01/ctv_0105   0   13        了    AS                   *   -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   14        两    CD             (NP(QP*   -    -   -   -    (CARDINAL)            *        (ARG1*         *             *           -
+bn/ctv/01/ctv_0105   0   15        项     M              (CLP*))  -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   16       有关     P            (DNP(PP*   -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   17       违反    VV             (IP(VP*   -   01   -   -            *             *             *       (V*)            *           -
+bn/ctv/01/ctv_0105   0   18       宪法    NN             (NP*))))  -    -   -   -            *             *             *    (ARG1*)            *           -
+bn/ctv/01/ctv_0105   0   19        的   DEG                   *)  -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   20       指控    NN            (NP*)))))  -    -   -   -            *             *             *)        *             *           -
+bn/ctv/01/ctv_0105   0   21        ，    PU                   *   -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   22       秘鲁    NR   (IP(NP(DNP(NP(NP*)  -    -   -   -        (ORG*             *             *         *        (ARG0*    (1|(8|(3)
+bn/ctv/01/ctv_0105   0   23       国会    NN               (NP*))  -    -   -   -            *)            *             *         *             *           8)
+bn/ctv/01/ctv_0105   0   24        的   DEG                   *)  -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   25        “    PU                (NP*   -    -   -   -            *             *             *         *             *          (5
+bn/ctv/01/ctv_0105   0   26    蒙特西诺斯    NR                (NP*)  -    -   -   -      (EVENT*             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   27       案件    NN                (NP*)  -    -   -   -            *)            *             *         *             *           -
+bn/ctv/01/ctv_0105   0   28        ”    PU                   *)  -    -   -   -            *             *             *         *             *           5)
+bn/ctv/01/ctv_0105   0   29       调查    NN                (NP*   -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   30      委员会    NN                  *))  -    -   -   -            *             *             *         *             *)          1)
+bn/ctv/01/ctv_0105   0   31        将    AD           (VP(ADVP*)  -    -   -   -            *             *             *         *    (ARGM-ADV*)          -
+bn/ctv/01/ctv_0105   0   32        于     P                (PP*   -    -   -   -            *             *             *         *    (ARGM-TMP*           -
+bn/ctv/01/ctv_0105   0   33        本    DT          (NP(NP(DP*)  -    -   2   -       (DATE*             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   34        月    NN               (NP*))  -    -   -   -            *             *             *         *             *           -
+bn/ctv/01/ctv_0105   0   35       ７号    NT              (NP*)))  -    -   -   -            *)            *             *         *             *)          -
+bn/ctv/01/ctv_0105   0   36       传讯    VV                (VP*   -   01   -   -            *             *             *         *           (V*)          -
+bn/ctv/01/ctv_0105   0   37       藤森    NR             (NP*))))  -    -   -   -      (PERSON)            *             *         *        (ARG1*)         (2)
+bn/ctv/01/ctv_0105   0   38        。    PU                  *))  -    -   -   -            *             *             *         *             *           -
+
+bn/ctv/01/ctv_0105   0    0     对     P  (TOP(IP(IP(NP(DNP(PP*   -    -   3   -          *   (ARG0*         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    1    藤森    NR                  (NP*))  -    -   -   -    (PERSON)       *         *         *         *         *      *             *         *             *         *    (2)
+bn/ctv/01/ctv_0105   0    2     的   DEG                      *)  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    3     一    CD                   (QP*   -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    4     项     M                 (CLP*))  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    5    指控    NN                  (NP*))  -    -   -   -          *        *)        *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    6     是    VC                   (VP*   -   01   1   -          *      (V*)        *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    7     “    PU                      *   -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0    8    藤森    NR                (IP(NP*)  -    -   -   -    (PERSON)  (ARG1*    (ARG0*)        *         *         *      *             *    (ARG0*)       (ARG0*)        *    (2)
+bn/ctv/01/ctv_0105   0    9    利用    VV                (VP(VP*   -   01   -   -          *        *       (V*)        *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   10    国会    NN       (NP(CP(CP(IP(NP*)  -    -   -   -          *        *    (ARG1*    (ARG0*)        *         *      *             *         *             *         *    (8)
+bn/ctv/01/ctv_0105   0   11    公布    VV                  (VP*))  -   01   -   -          *        *         *       (V*)        *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   12     的   DEC                     *))  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   13    允许    VV             (CP(IP(VP*   -   01   -   -          *        *         *         *       (V*)        *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   14    总统    NN                   (NP*)  -    -   -   -          *        *         *         *    (ARG1*)        *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   15     为     P             (IP(VP(PP*   -    -   5   -          *        *         *         *    (ARG2*         *      *    (ARGM-PRP*         *             *         *     -
+bn/ctv/01/ctv_0105   0   16    履行    VV                (IP(VP*   -   01   -   -          *        *         *         *         *       (V*)     *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   17    职责    NN                (NP*))))  -    -   -   -          *        *         *         *         *    (ARG1*)     *             *)        *             *         *     -
+bn/ctv/01/ctv_0105   0   18    可以    VV                   (VP*   -   01   1   -          *        *         *         *         *         *    (V*)            *         *             *         *     -
+bn/ctv/01/ctv_0105   0   19     不    AD              (VP(ADVP*)  -    -   -   -          *        *         *         *         *         *      *    (ARGM-ADV*)        *             *         *     -
+bn/ctv/01/ctv_0105   0   20     在    VV                   (VP*   -   01   2   -          *        *         *         *         *         *      *           (V*)        *             *         *     -
+bn/ctv/01/ctv_0105   0   21    本土    NN            (NP*))))))))  -    -   -   -          *        *         *         *         *)        *      *        (ARG1*)        *             *         *     -
+bn/ctv/01/ctv_0105   0   22     的   DEC                      *)  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   23    司法    NN                   (NP*   -    -   -   -          *        *         *    (ARG1*         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   24    决议    NN                    *)))  -    -   -   -          *        *         *)        *)        *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   25     ，    PU                      *   -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   26    滞留    VV                (VP(VP*   -   01   -   -          *        *         *         *         *         *      *             *       (V*)            *         *     -
+bn/ctv/01/ctv_0105   0   27     在     P                   (PP*   -    -   2   -          *        *         *         *         *         *      *             *    (ARG1*             *         *     -
+bn/ctv/01/ctv_0105   0   28    日本    NR                 (NP*)))  -    -   -   -       (GPE)       *         *         *         *         *      *             *         *)            *         *    (0)
+bn/ctv/01/ctv_0105   0   29     不    AD              (VP(ADVP*)  -    -   -   -          *        *         *         *         *         *      *             *         *    (ARGM-ADV*)        *     -
+bn/ctv/01/ctv_0105   0   30     归    VV             (VP*)))))))  -   02   -   -          *        *)        *         *         *         *      *             *         *           (V*)        *     -
+bn/ctv/01/ctv_0105   0   31     ，    PU                      *   -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   32     这    PN                (IP(NP*)  -    -   -   -          *        *         *         *         *         *      *             *         *             *    (ARG0*)    -
+bn/ctv/01/ctv_0105   0   33    违反    VV                   (VP*   -   01   -   -          *        *         *         *         *         *      *             *         *             *       (V*)    -
+bn/ctv/01/ctv_0105   0   34     了    AS                      *   -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   35    秘鲁    NR         (NP(DNP(NP(NP*)  -    -   -   -      (LAW*        *         *         *         *         *      *             *         *             *    (ARG1*    (3)
+bn/ctv/01/ctv_0105   0   36    宪法    NN                  (NP*))  -    -   -   -          *)       *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   37     的   DEG                      *)  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   38    有关    JJ                 (ADJP*)  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+bn/ctv/01/ctv_0105   0   39    条文    NN                (NP*))))  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *)    -
+bn/ctv/01/ctv_0105   0   40     。    PU                     *))  -    -   -   -          *        *         *         *         *         *      *             *         *             *         *     -
+
+bn/ctv/01/ctv_0105   0    0      对     P                     (TOP(IP(NP(DNP(PP*   -    -   3   -          *   (ARG0*         *        *         *     -
+bn/ctv/01/ctv_0105   0    1     藤森    NR                                  (NP*))  -    -   -   -    (PERSON)       *         *        *         *    (2)
+bn/ctv/01/ctv_0105   0    2      的   DEG                                      *)  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0    3      另    DT                                   (DP*   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0    4      一    CD                                   (QP*   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0    5      项     M                                (CLP*)))  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0    6     指控    NN                                  (NP*))  -    -   -   -          *        *)        *        *         *     -
+bn/ctv/01/ctv_0105   0    7      是    VC                                   (VP*   -   01   1   -          *      (V*)        *        *         *     -
+bn/ctv/01/ctv_0105   0    8      ：    PU                                      *   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0    9     藤森    NR                                (IP(NP*)  -    -   -   -    (PERSON)  (ARG1*         *        *    (ARG0*)   (2)
+bn/ctv/01/ctv_0105   0   10      将    BA                                   (VP*   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   11    联合国    NR   (IP(NP(DNP(LCP(NP(IP(NP(CP(CP(IP(NP*)  -    -   -   -       (ORG)       *    (ARG0*)  (ARG0*    (ARG1*     -
+bn/ctv/01/ctv_0105   0   12     租用    VV                                  (VP*))  -   01   -   -          *        *       (V*)       *         *     -
+bn/ctv/01/ctv_0105   0   13      的   DEC                                     *))  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   14     秘鲁    NR                                   (NP*)  -    -   -   -       (GPE)       *         *        *         *    (3)
+bn/ctv/01/ctv_0105   0   15    直升机    NN                                  (NP*))  -    -   -   -          *        *    (ARG1*)       *)        *     -
+bn/ctv/01/ctv_0105   0   16     进行    VV                                   (VP*   -   01   3   -          *        *         *      (V*)        *     -
+bn/ctv/01/ctv_0105   0   17     维和    NN                                   (NP*   -    -   -   -          *        *         *   (ARG1*         *     -
+bn/ctv/01/ctv_0105   0   18     任务    NN                                    *)))  -    -   -   -          *        *         *        *)        *     -
+bn/ctv/01/ctv_0105   0   19     租金    NN                                  (NP*))  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   20      中    LC                                      *)  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   21      的   DEG                                      *)  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   22     多半    CD                                   (QP*)  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   23     部分    NN                                  (NP*))  -    -   -   -          *        *         *        *         *)    -
+bn/ctv/01/ctv_0105   0   24      ，    PU                                      *   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   25     存入    VV                                   (VP*   -   01   -   -          *        *         *        *       (V*)    -
+bn/ctv/01/ctv_0105   0   26      了    AS                                      *   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   27      在     P                            (NP(DNP(PP*   -    -   2   -          *        *         *        *    (ARG2*     -
+bn/ctv/01/ctv_0105   0   28     瑞士    NR                                  (NP*))  -    -   -   -       (GPE)       *         *        *         *     -
+bn/ctv/01/ctv_0105   0   29      的   DEG                                      *)  -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   30     银行    NN                                   (NP*   -    -   -   -          *        *         *        *         *     -
+bn/ctv/01/ctv_0105   0   31     帐户    NN                                *)))))))  -    -   -   -          *        *)        *        *         *)    -
+bn/ctv/01/ctv_0105   0   32      。    PU                                     *))  -    -   -   -          *        *         *        *         *     -
+
+bn/ctv/01/ctv_0105   0    0        “    PU  (TOP(IP(NP(DNP(NP(NP*   -    -   -   -         *   (ARG0*             *             *            *         *      *    (1|(5
+bn/ctv/01/ctv_0105   0    1    蒙特西诺斯    NR                   (NP*)  -    -   -   -   (EVENT*        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0    2       案件    NN                   (NP*)  -    -   -   -         *)       *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0    3        ”    PU                      *)  -    -   -   -         *        *             *             *            *         *      *        5)
+bn/ctv/01/ctv_0105   0    4       调查    NN                   (NP*   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0    5      委员会    NN                     *))  -    -   -   -         *        *             *             *            *         *      *        1)
+bn/ctv/01/ctv_0105   0    6        的   DEG                      *)  -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0    7      负责人    NN                  (NP*))  -    -   -   -         *        *)            *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0    8       指出    VV                   (VP*   -   01   -   -         *      (V*)            *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0    9        ，    PU                      *   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   10       目前    NT             (IP(IP(NP*)  -    -   -   -         *   (ARG1*    (ARGM-TMP*)            *            *         *      *       (4)
+bn/ctv/01/ctv_0105   0   11       关键    JJ          (NP(DNP(ADJP*)  -    -   -   -         *        *        (ARG0*             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   12        的   DEG                      *)  -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   13       合作    NN                   (NP*   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   14       对象    NN                     *))  -    -   -   -         *        *             *)            *            *         *      *        -
+bn/ctv/01/ctv_0105   0   15        是    VC                   (VP*   -   01   1   -         *        *           (V*)            *            *         *      *        -
+bn/ctv/01/ctv_0105   0   16       日本    NR                (NP(NP*)  -    -   -   -     (NORP)       *        (ARG1*             *            *         *      *    (7|(9)
+bn/ctv/01/ctv_0105   0   17       政府    NN                (NP*))))  -    -   -   -         *        *             *)            *            *         *      *        7)
+bn/ctv/01/ctv_0105   0   18        ，    PU                      *   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   19       日本    NR             (IP(NP(NP*)  -    -   -   -     (NORP)       *             *             *       (ARG0*         *      *    (7|(9)
+bn/ctv/01/ctv_0105   0   20       政府    NN                  (NP*))  -    -   -   -         *        *             *             *            *)        *      *        7)
+bn/ctv/01/ctv_0105   0   21       应该    VV                   (VP*   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   22       十分    AD       (VP(DVP(VP(ADVP*)  -    -   -   -         *        *             *    (ARGM-ADV*)  (ARGM-ADV*         *      *        -
+bn/ctv/01/ctv_0105   0   23       谨慎    VA                  (VP*))  -   01   -   -         *        *             *           (V*)           *         *      *        -
+bn/ctv/01/ctv_0105   0   24        的   DEV                      *)  -    -   -   -         *        *             *             *            *)        *      *        -
+bn/ctv/01/ctv_0105   0   25       做出    VV                   (VP*   -   01   -   -         *        *             *             *          (V*)        *      *        -
+bn/ctv/01/ctv_0105   0   26       自己    PN            (NP(DNP(NP*)  -    -   -   -         *        *             *             *       (ARG1*         *      *    (6|(7)
+bn/ctv/01/ctv_0105   0   27        的   DEG                      *)  -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   28       选择    NN              (NP*))))))  -    -   -   -         *        *             *             *            *)        *      *        6)
+bn/ctv/01/ctv_0105   0   29        ，    PU                      *   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   30        这    PN                (IP(NP*)  -    -   -   -         *        *             *             *            *    (ARG0*)     *       (6)
+bn/ctv/01/ctv_0105   0   31       关系    VV               (VP(VRD*   -   01   1   -         *        *             *             *            *       (V*)     *        -
+bn/ctv/01/ctv_0105   0   32        到    VV                      *)  -   01   4   -         *        *             *             *            *         *    (V*)       -
+bn/ctv/01/ctv_0105   0   33       有关    JJ              (NP(ADJP*)  -    -   -   -         *        *             *             *            *    (ARG1*      *        -
+bn/ctv/01/ctv_0105   0   34       国际    NN                   (NP*   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   35       道德    NN                      *   -    -   -   -         *        *             *             *            *         *      *        -
+bn/ctv/01/ctv_0105   0   36       承诺    NN                 *))))))  -    -   1   -         *        *)            *             *            *         *)     *        -
+bn/ctv/01/ctv_0105   0   37        。    PU                     *))  -    -   -   -         *        *             *             *            *         *      *        -
+
+bn/ctv/01/ctv_0105   0    0    藤森   NR    (TOP(IP(NP*)  -    -   -   -    (PERSON)       (ARG0*)            *      *         *    (2)
+bn/ctv/01/ctv_0105   0    1    日前   NT        (VP(NP*)  -    -   -   -          *    (ARGM-TMP*)            *      *         *     -
+bn/ctv/01/ctv_0105   0    2    表示   VV           (VP*   -   01   2   -          *           (V*)            *      *         *     -
+bn/ctv/01/ctv_0105   0    3     ，   PU              *   -    -   -   -          *             *             *      *         *     -
+bn/ctv/01/ctv_0105   0    4     他   PN        (IP(NP*)  -    -   -   -          *        (ARG1*        (ARG0*)     *         *    (2)
+bn/ctv/01/ctv_0105   0    5     不   AD      (VP(ADVP*)  -    -   -   -          *             *    (ARGM-ADV*)     *         *     -
+bn/ctv/01/ctv_0105   0    6    准备   VV           (VP*   -   02   2   -          *             *           (V*)     *         *     -
+bn/ctv/01/ctv_0105   0    7    回国   VV     (IP(VP(VP*)  -   01   -   -          *             *        (ARG1*    (V*)        *     -
+bn/ctv/01/ctv_0105   0    8    接受   VV           (VP*   -   01   -   -          *             *             *      *       (V*)    -
+bn/ctv/01/ctv_0105   0    9    调查   NN   (NP*)))))))))  -    -   -   -          *             *)            *)     *    (ARG1*)    -
+bn/ctv/01/ctv_0105   0   10     。   PU             *))  -    -   -   -          *             *             *      *         *     -
+
+bn/ctv/01/ctv_0105   0    0     但是    AD     (TOP(IP(ADVP*)  -    -   -   -       *      *         *    (ARGM-DIS*)          -
+bn/ctv/01/ctv_0105   0    1      会    VV              (VP*   -   01   -   -       *    (V*)        *             *           -
+bn/ctv/01/ctv_0105   0    2      向     P           (VP(PP*   -    -   -   -       *      *         *             *           -
+bn/ctv/01/ctv_0105   0    3     前来    VV  (NP(CP(CP(IP(VP*   -   01   -   -       *      *       (V*)            *           -
+bn/ctv/01/ctv_0105   0    4     日本    NR            (NP*)))  -    -   -   -    (GPE)     *    (ARG1*)            *          (0)
+bn/ctv/01/ctv_0105   0    5      的   DEC                *))  -    -   -   -       *      *         *             *           -
+bn/ctv/01/ctv_0105   0    6     秘鲁    NR        (NP(NP(NP*)  -    -   -   -   (ORG*      *         *             *    (1|(8|(3)
+bn/ctv/01/ctv_0105   0    7     国会    NN             (NP*))  -    -   -   -       *      *         *             *           8)
+bn/ctv/01/ctv_0105   0    8     调查    NN              (NP*   -    -   -   -       *      *         *             *           -
+bn/ctv/01/ctv_0105   0    9    委员会    NN                *))  -    -   -   -       *)     *         *             *           1)
+bn/ctv/01/ctv_0105   0   10     成员    NN            (NP*)))  -    -   -   -       *      *    (ARG0*)            *           -
+bn/ctv/01/ctv_0105   0   11     进行    VV              (VP*   -   01   3   -       *      *         *           (V*)          -
+bn/ctv/01/ctv_0105   0   12     汇报    NN           (NP*))))  -    -   -   -       *      *         *        (ARG1*)          -
+bn/ctv/01/ctv_0105   0   13      。    PU                *))  -    -   -   -       *      *         *             *           -
+
+bn/ctv/01/ctv_0105   0   0    中央台   NR   (TOP(IP(NP*)  -    -   -   -    (ORG)   (ARG0*)  -
+bn/ctv/01/ctv_0105   0   1     编译   VV      (VP(VSB*   -    -   -   -       *         *   -
+bn/ctv/01/ctv_0105   0   2     报道   VV            *))  -   01   -   -       *       (V*)  -
+bn/ctv/01/ctv_0105   0   3      。   PU            *))  -    -   -   -       *         *   -
+
+#end document

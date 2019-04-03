@@ -1,0 +1,421 @@
+#begin document (bn/vom/01/vom_0107); part 000
+bn/vom/01/vom_0107   0    0    各位    DT       (TOP(IP(NP(DP*)  -    -   -   -       *   (ARGM-DIS*        *        *    (9
+bn/vom/01/vom_0107   0    1    听众    NN                (NP*))  -    -   -   -       *            *)       *        *     9)
+bn/vom/01/vom_0107   0    2    欢迎    VV                 (VP*   -   01   -   -       *          (V*)       *        *     -
+bn/vom/01/vom_0107   0    3     您    PN                 (NP*)  -    -   -   -       *       (ARG1*)       *        *    (9)
+bn/vom/01/vom_0107   0    4    继续    VV              (IP(VP*   -   01   -   -       *       (ARG2*      (V*)       *     -
+bn/vom/01/vom_0107   0    5    收听    VV                 (VP*   -   01   -   -       *            *   (ARG1*      (V*)    -
+bn/vom/01/vom_0107   0    6    美国    NR   (NP(DNP(NP(DNP(NP*)  -    -   -   -   (ORG*            *        *   (ARG1*    (4
+bn/vom/01/vom_0107   0    7     之   DEG                    *)  -    -   -   -       *            *        *        *     -
+bn/vom/01/vom_0107   0    8     音    NN                (NP*))  -    -   -   -       *)           *        *        *     4)
+bn/vom/01/vom_0107   0    9     的   DEG                    *)  -    -   -   -       *            *        *        *     -
+bn/vom/01/vom_0107   0   10    中国    NR           (NP(NP(NP*)  -    -   -   -    (GPE)           *        *        *     -
+bn/vom/01/vom_0107   0   11    新闻    NN                (NP*))  -    -   -   -       *            *        *        *     -
+bn/vom/01/vom_0107   0   12     和    CC                    *   -    -   -   -       *            *        *        *     -
+bn/vom/01/vom_0107   0   13    世界    NN                 (NP*   -    -   -   -       *            *        *        *     -
+bn/vom/01/vom_0107   0   14    报道    NN              *)))))))  -    -   -   -       *            *)       *)       *)    -
+bn/vom/01/vom_0107   0   15     。    PU                   *))  -    -   -   -       *            *        *        *     -
+
+bn/vom/01/vom_0107   0    0      俄罗斯    NR   (TOP(IP(NP(DNP(NP*)  -    -   -   -         (GPE)     *            *        (ARG0*      *    (8|(1)
+bn/vom/01/vom_0107   0    1        的   DEG                    *)  -    -   -   -            *      *            *             *      *        -
+bn/vom/01/vom_0107   0    2    库尔斯克号    NR                 (NP*   -    -   -   -            *      *            *             *      *        -
+bn/vom/01/vom_0107   0    3      核潜艇    NN                   *))  -    -   -   -            *      *            *             *)     *        8)
+bn/vom/01/vom_0107   0    4       今年    NT    (VP(LCP(IP(VP(NP*   -    -   -   -       (DATE*      *   (ARGM-TMP*    (ARGM-TMP*      *        -
+bn/vom/01/vom_0107   0    5       八月    NT                    *)  -    -   -   -            *)     *            *)            *      *        -
+bn/vom/01/vom_0107   0    6        在     P                 (PP*   -    -   2   -            *      *   (ARGM-LOC*             *      *        -
+bn/vom/01/vom_0107   0    7     巴伦之海    NR                (NP*))  -    -   -   -         (LOC)     *            *)            *      *        -
+bn/vom/01/vom_0107   0    8       爆炸    VV             (VP(VSB*   -   01   -   -            *    (V*)           *             *      *        -
+bn/vom/01/vom_0107   0    9       沉没    VV                 *))))  -   01   -   -            *      *          (V*)            *      *        -
+bn/vom/01/vom_0107   0   10       以后    LC                    *)  -    -   -   -            *      *            *             *)     *        -
+bn/vom/01/vom_0107   0   11        ，    PU                    *   -    -   -   -            *      *            *             *      *        -
+bn/vom/01/vom_0107   0   12       目前    NT                 (NP*)  -    -   -   -            *      *            *    (ARGM-TMP*)     *        -
+bn/vom/01/vom_0107   0   13       已经    AD               (ADVP*)  -    -   -   -            *      *            *    (ARGM-ADV*)     *        -
+bn/vom/01/vom_0107   0   14        有    VE                 (VP*   -   05   4   -            *      *            *           (V*)     *        -
+bn/vom/01/vom_0107   0   15        四    CD           (IP(NP(QP*   -    -   -   -    (CARDINAL)     *            *        (ARG1*      *      (11
+bn/vom/01/vom_0107   0   16        具     M               (CLP*))  -    -   2   -            *      *            *             *      *        -
+bn/vom/01/vom_0107   0   17       尸体    NN                (NP*))  -    -   -   -            *      *            *             *      *       11)
+bn/vom/01/vom_0107   0   18        被    SB                 (VP*   -    -   -   -            *      *            *             *      *        -
+bn/vom/01/vom_0107   0   19       打捞    VV             (VP(VRD*   -    -   -   -            *      *            *             *      *        -
+bn/vom/01/vom_0107   0   20       起来    VV               *))))))  -   01   -   -            *      *            *             *)   (V*)       -
+bn/vom/01/vom_0107   0   21        。    PU                   *))  -    -   -   -            *      *            *             *      *        -
+
+bn/vom/01/vom_0107   0    0     打捞    NN                  (TOP(IP(IP(NP*   -    -   -   -            *       (ARG0*        *         *             *         *        *        *            *        (7
+bn/vom/01/vom_0107   0    1     人员    NN                               *)  -    -   -   -            *            *)       *         *             *         *        *        *            *         7)
+bn/vom/01/vom_0107   0    2      在     P                         (VP(PP*   -    -   2   -            *   (ARGM-LOC*        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0    3     其中    NN                     (LCP(NP(NP*)  -    -   -   -            *            *        *         *             *         *        *        *            *    (6|(11)
+bn/vom/01/vom_0107   0    4      一    CD                            (QP*   -    -   -   -    (CARDINAL)           *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0    5      具     M                          (CLP*))  -    -   2   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0    6     尸体    NN                           (NP*))  -    -   -   -            *            *        *         *             *         *        *        *            *         6)
+bn/vom/01/vom_0107   0    7      上    LC                              *))  -    -   1   -            *            *)       *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0    8     发现    VV                            (VP*   -   01   -   -            *          (V*)       *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0    9      了    AS                               *   -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   10      一    CD                         (NP(QP*   -    -   -   -            *       (ARG1*        *         *             *         *        *        *            *        (3
+bn/vom/01/vom_0107   0   11      张     M                          (CLP*))  -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   12     字条    NN                        (NP*)))))  -    -   -   -            *            *)       *         *             *         *        *        *            *         3)
+bn/vom/01/vom_0107   0   13      ，    PU                               *   -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   14     证明    VV                         (IP(VP*   -   01   -   -            *            *      (V*)        *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   15      这    DT               (IP(LCP(IP(NP(DP*   -    -   -   -            *            *   (ARG1*    (ARG1*    (ARGM-TMP*         *        *        *            *        (8
+bn/vom/01/vom_0107   0   16      艘     M                          (CLP*))  -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   17     潜艇    NN                           (NP*))  -    -   -   -            *            *        *         *)            *         *        *        *            *         8)
+bn/vom/01/vom_0107   0   18     发生    VV                            (VP*   -   01   1   -            *            *        *       (V*)            *         *        *        *            *         -
+bn/vom/01/vom_0107   0   19     爆炸    NN                          (NP*)))  -    -   -   -            *            *        *    (ARG0*)            *         *        *        *            *         -
+bn/vom/01/vom_0107   0   20     以后    LC                               *)  -    -   -   -            *            *        *         *             *)        *        *        *            *         -
+bn/vom/01/vom_0107   0   21     艇上    NN                            (NP*)  -    -   -   -            *            *        *         *        (ARG0*)        *        *        *            *         -
+bn/vom/01/vom_0107   0   22     仍然    AD                       (VP(ADVP*)  -    -   -   -            *            *        *         *    (ARGM-ADV*)        *        *        *            *         -
+bn/vom/01/vom_0107   0   23      有    VE                            (VP*   -   05   4   -            *            *        *         *           (V*)        *        *        *            *         -
+bn/vom/01/vom_0107   0   24      人    NN                         (IP(NP*)  -    -   -   -            *            *        *         *        (ARG1*    (ARG0*)       *        *            *         -
+bn/vom/01/vom_0107   0   25     存活    VV                      (VP*)))))))  -   01   -   -            *            *        *)        *             *)      (V*)       *        *            *         -
+bn/vom/01/vom_0107   0   26      ，    PU                               *   -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   27      请    VV                         (IP(VP*   -   01   -   -            *            *        *         *             *         *      (V*)       *            *         -
+bn/vom/01/vom_0107   0   28      听    VV                            (VP*   -   01   -   -            *            *        *         *             *         *   (ARG2*      (V*)           *         -
+bn/vom/01/vom_0107   0   29     美国    NR   (NP(CP(CP(IP(NP(NP(NP(DNP(NP*)  -    -   -   -        (ORG*            *        *         *             *         *        *   (ARG1*       (ARG0*        (4
+bn/vom/01/vom_0107   0   30      之   DEG                               *)  -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   31      音    NN                           (NP*))  -    -   -   -            *)           *        *         *             *         *        *        *            *         4)
+bn/vom/01/vom_0107   0   32     记者    NN                           (NP*))  -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   33    詹姆斯    NR                           (NP*))  -    -   -   -      (PERSON)           *        *         *             *         *        *        *            *)        -
+bn/vom/01/vom_0107   0   34      从     P                         (VP(PP*   -    -   -   -            *            *        *         *             *         *        *        *   (ARGM-DIR*         -
+bn/vom/01/vom_0107   0   35    莫斯科    NR                          (NP*)))  -    -   -   -         (GPE)           *        *         *             *         *        *        *            *)        -
+bn/vom/01/vom_0107   0   36     发来    VV                           (VP*))  -   01   -   -            *            *        *         *             *         *        *        *          (V*)        -
+bn/vom/01/vom_0107   0   37      的   DEC                              *))  -    -   -   -            *            *        *         *             *         *        *        *            *         -
+bn/vom/01/vom_0107   0   38     报道    NN                        (NP*)))))  -    -   -   -            *            *        *         *             *         *        *)       *)      (ARG1*)        -
+bn/vom/01/vom_0107   0   39      。    PU                              *))  -    -   -   -            *            *        *         *             *         *        *        *            *         -
+
+bn/vom/01/vom_0107   0    0        打捞    NN      (TOP(IP(NP*   -    -   -   -          *       (ARG0*   (7
+bn/vom/01/vom_0107   0    1        人员    NN                *)  -    -   -   -          *            *)   7)
+bn/vom/01/vom_0107   0    2         在     P          (VP(PP*   -    -   2   -          *   (ARGM-LOC*    -
+bn/vom/01/vom_0107   0    3    克利斯尼科夫    NR  (LCP(NP(DNP(NP*   -    -   -   -    (PERSON)           *   (6
+bn/vom/01/vom_0107   0    4        中校    NN                *)  -    -   -   -          *            *    6)
+bn/vom/01/vom_0107   0    5         的   DEG                *)  -    -   -   -          *            *    -
+bn/vom/01/vom_0107   0    6        口袋    NN            (NP*))  -    -   -   -          *            *    -
+bn/vom/01/vom_0107   0    7         里    LC               *))  -    -   -   -          *            *)   -
+bn/vom/01/vom_0107   0    8        发现    VV             (VP*   -   01   -   -          *          (V*)   -
+bn/vom/01/vom_0107   0    9         了    AS                *   -    -   -   -          *            *    -
+bn/vom/01/vom_0107   0   10         这    DT          (NP(DP*   -    -   -   -          *       (ARG1*   (3
+bn/vom/01/vom_0107   0   11         张     M           (CLP*))  -    -   -   -          *            *    -
+bn/vom/01/vom_0107   0   12        字条    NN          (NP*))))  -    -   -   -          *            *)   3)
+bn/vom/01/vom_0107   0   13         。    PU               *))  -    -   -   -          *            *    -
+
+bn/vom/01/vom_0107   0    0     他    PN        (TOP(IP(NP*)  -    -   -   -            *       (ARG0*)            *             *      *        (6)
+bn/vom/01/vom_0107   0    1     在     P            (VP(PP*   -    -   2   -            *   (ARGM-LOC*             *             *      *         -
+bn/vom/01/vom_0107   0    2     这    DT        (LCP(NP(DP*   -    -   -   -            *            *             *             *      *        (3
+bn/vom/01/vom_0107   0    3     张     M             (CLP*))  -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0    4    纸条    NN              (NP*))  -    -   -   -            *            *             *             *      *         3)
+bn/vom/01/vom_0107   0    5     上    LC                 *))  -    -   1   -            *            *)            *             *      *         -
+bn/vom/01/vom_0107   0    6    写到    VV               (VP*   -   01   -   -            *          (V*)            *             *      *         -
+bn/vom/01/vom_0107   0    7     ，    PU                  *   -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0    8     他    PN         (IP(NP(NP*)  -    -   -   -            *       (ARG1*             *             *      *    (12|(6)
+bn/vom/01/vom_0107   0    9     和    CC                  *   -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   10    其他    DT            (NP(DP*)  -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   11    ２２    CD               (QP*   -    -   -   -    (CARDINAL)           *             *             *      *         -
+bn/vom/01/vom_0107   0   12     名     M             (CLP*))  -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   13    船员    NN             (NP*)))  -    -   -   -            *            *             *             *      *        12)
+bn/vom/01/vom_0107   0   14    当时    NT            (VP(NP*)  -    -   1   -            *            *    (ARGM-TMP*)   (ARGM-TMP*)     *         -
+bn/vom/01/vom_0107   0   15    没有    AD       (VP(VP(ADVP*)  -    -   2   -            *            *    (ARGM-ADV*)            *      *         -
+bn/vom/01/vom_0107   0   16     被    SB               (VP*   -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   17    炸死    VV             (VP*)))  -   01   -   -            *            *           (V*)            *      *         -
+bn/vom/01/vom_0107   0   18     ，    PU                  *   -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   19    并且    AD          (VP(ADVP*)  -    -   -   -            *            *             *    (ARGM-ADV*)     *         -
+bn/vom/01/vom_0107   0   20     都    AD          (VP(ADVP*)  -    -   -   -            *            *             *    (ARGM-ADV*)     *         -
+bn/vom/01/vom_0107   0   21    集中    VV           (VP(VRD*   -   02   2   -            *            *             *           (V*)     *         -
+bn/vom/01/vom_0107   0   22     到    VV                  *)  -   01   2   -            *            *             *             *    (V*)        -
+bn/vom/01/vom_0107   0   23     了    AS                  *   -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   24    紧急    JJ   (NP(DNP(NP(ADJP*)  -    -   -   -            *            *             *        (ARG1*      *         -
+bn/vom/01/vom_0107   0   25    逃难    NN               (NP*   -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   26    舱门    NN                 *))  -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   27     的   DEG                  *)  -    -   -   -            *            *             *             *      *         -
+bn/vom/01/vom_0107   0   28    旁边    NN      (NP*))))))))))  -    -   -   -            *            *)            *             *)     *         -
+bn/vom/01/vom_0107   0   29     。    PU                 *))  -    -   -   -            *            *             *             *      *         -
+
+bn/vom/01/vom_0107   0   0    纸条    NN   (TOP(IP(NP(CP(CP(IP(VP(NP*)  -    -   -   -   *    (ARG2*)       (ARG0*    (3)
+bn/vom/01/vom_0107   0   1     写    VV                       (VP*)))  -   01   -   -   *       (V*)            *     -
+bn/vom/01/vom_0107   0   2     的   DEC                          *)))  -    -   -   -   *         *             *)    -
+bn/vom/01/vom_0107   0   3    多半    AD                    (VP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)    -
+bn/vom/01/vom_0107   0   4     是    VC                         (VP*   -   01   1   -   *         *           (V*)    -
+bn/vom/01/vom_0107   0   5    个人    NN                  (NP(DNP(NP*)  -    -   -   -   *         *        (ARG1*    (6)
+bn/vom/01/vom_0107   0   6     的   DEG                            *)  -    -   -   -   *         *             *     -
+bn/vom/01/vom_0107   0   7    私事    NN                      (NP*))))  -    -   -   -   *         *             *)    -
+bn/vom/01/vom_0107   0   8     。    PU                           *))  -    -   -   -   *         *             *     -
+
+bn/vom/01/vom_0107   0    0     俄罗斯    NR   (TOP(IP(IP(NP(NP*)  -    -   -   -   (ORG*   (ARG0*             *             *        *         *             *      *    (5|(1)
+bn/vom/01/vom_0107   0    1      海军    NN               (NP*))  -    -   -   -       *)       *)            *             *        *         *             *      *        5)
+bn/vom/01/vom_0107   0    2       说    VV                (VP*   -   01   7   -       *      (V*)            *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0    3       ，    PU                   *   -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0    4      他们    PN             (IP(NP*)  -    -   -   -       *   (ARG1*        (ARG0*)            *        *         *             *      *       (5)
+bn/vom/01/vom_0107   0    5       将    AD           (VP(ADVP*)  -    -   -   -       *        *    (ARGM-ADV*)            *        *         *             *      *        -
+bn/vom/01/vom_0107   0    6       给     P                (PP*   -    -   -   -       *        *    (ARGM-BNF*             *        *         *             *      *        -
+bn/vom/01/vom_0107   0    7       这    DT             (NP(DP*   -    -   -   -       *        *             *             *        *         *             *      *       (6
+bn/vom/01/vom_0107   0    8       位     M              (CLP*))  -    -   2   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0    9      中校    NN              (NP*)))  -    -   -   -       *        *             *)            *        *         *             *      *        6)
+bn/vom/01/vom_0107   0   10      进行    VV                (VP*   -   01   3   -       *        *           (V*)            *        *         *             *      *        -
+bn/vom/01/vom_0107   0   11      保密    NN           (NP*))))))  -    -   -   -       *        *)       (ARG1*)            *        *         *             *      *        -
+bn/vom/01/vom_0107   0   12       ，    PU                   *   -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   13      可是    AD           (IP(ADVP*)  -    -   -   -       *        *             *    (ARGM-DIS*)       *         *             *      *        -
+bn/vom/01/vom_0107   0   14      海军    NN                (NP*)  -    -   -   -    (ORG)       *             *        (ARG0*)       *         *             *      *       (5)
+bn/vom/01/vom_0107   0   15      发表    VV                (VP*   -   01   -   -       *        *             *           (V*)       *         *             *      *        -
+bn/vom/01/vom_0107   0   16       了    AS                   *   -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   17      字条    NN         (NP(LCP(NP*)  -    -   -   -       *        *             *        (ARG1*        *         *             *      *       (3)
+bn/vom/01/vom_0107   0   18       中    LC                   *)  -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   19     一部分    CD                (QP*)  -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   20      内容    NN             (NP*))))  -    -   -   -       *        *             *             *)       *         *             *      *        -
+bn/vom/01/vom_0107   0   21       ，    PU                   *   -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   22      诉说    VV             (IP(VP*   -   01   -   -       *        *             *             *      (V*)        *             *      *        -
+bn/vom/01/vom_0107   0   23      他们    PN             (NP(NP*)  -    -   -   -       *        *             *             *   (ARG1*         *             *      *      (12)
+bn/vom/01/vom_0107   0   24       在     P            (DNP(PP*   -    -   2   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   25       这    DT         (LCP(NP(DP*   -    -   -   -       *        *             *             *        *         *             *      *       (8
+bn/vom/01/vom_0107   0   26       艘     M              (CLP*))  -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   27      沉默    VA      (CP(CP(IP(VP*))  -   01   -   -       *        *             *             *        *       (V*)            *      *        -
+bn/vom/01/vom_0107   0   28       的   DEC                  *))  -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   29      潜艇    NN               (NP*))  -    -   -   -       *        *             *             *        *    (ARG0*)            *      *        8)
+bn/vom/01/vom_0107   0   30       中    LC                  *))  -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   31       的   DEG                   *)  -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   32      情况    NN             (NP*))))  -    -   -   -       *        *             *             *        *)        *             *      *        -
+bn/vom/01/vom_0107   0   33       ，    PU                   *   -    -   -   -       *        *             *             *        *         *             *      *        -
+bn/vom/01/vom_0107   0   34      听来    AD        (IP(VP(ADVP*)  -    -   -   -       *        *             *             *        *         *    (ARGM-ADV*)     *        -
+bn/vom/01/vom_0107   0   35       令    VV                (VP*   -   01   1   -       *        *             *             *        *         *           (V*)     *        -
+bn/vom/01/vom_0107   0   36       人    NN                (NP*)  -    -   -   -       *        *             *             *        *         *        (ARG1*)     *        -
+bn/vom/01/vom_0107   0   37    毛骨悚然    VV         (IP(VP*)))))  -   01   -   -       *        *             *             *        *         *        (ARG2*)   (V*)       -
+bn/vom/01/vom_0107   0   38       。    PU                  *))  -    -   -   -       *        *             *             *        *         *             *      *        -
+
+bn/vom/01/vom_0107   0    0    克利斯尼科夫    NR             (TOP(IP(NP*   -    -    -   -      (PERSON)  (ARG0*         *             *             *             *      *         *             *             *             *     (6
+bn/vom/01/vom_0107   0    1        中校    NN                       *)  -    -    -   -            *        *)        *             *             *             *      *         *             *             *             *      6)
+bn/vom/01/vom_0107   0    2        写到    VV                    (VP*   -   01    -   -            *      (V*)        *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    3         ，    PU                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    4         在    VV  (IP(IP(NP(CP(CP(IP(VP*   -   01    2   -            *   (ARG1*       (V*)       (ARG0*        (ARG0*             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    5        第六    OD              (NP(NP(QP*   -    -    -   -     (ORDINAL)       *    (ARG1*             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    6         、    PU                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    7         七    OD                       *   -    -    -   -    (CARDINAL)       *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    8         、    PU                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0    9         八    OD                       *)  -    -    -   -    (CARDINAL)       *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   10         号    NN                   (NP*))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   11         舱    NN                 (NP*))))  -    -    -   -            *        *         *)            *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   12         的   DEC                      *))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   13        船员    NN                   (NP*))  -    -    -   -            *        *    (ARG0*)            *)            *)            *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   14         都    AD               (VP(ADVP*)  -    -    -   -            *        *         *    (ARGM-ADV*)   (ARGM-ADV*)            *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   15        跑到    VV                 (VP(VP*   -   01    -   -            *        *         *           (V*)            *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   16        第九    OD              (NP(NP(QP*)  -    -    -   -     (ORDINAL)       *         *        (ARG1*             *             *      *         *             *             *             *     (0
+bn/vom/01/vom_0107   0   17         号    NN                   (NP*))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   18         舱    NN                  (NP*)))  -    -    -   -            *        *         *             *)            *             *      *         *             *             *             *      0)
+bn/vom/01/vom_0107   0   19         来    VV                    (VP*   -   01   10   -            *        *         *             *           (V*)            *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   20         了    AS                    *))))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   21         ，    PU                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   22        第九    OD       (IP(LCP(NP(NP(QP*)  -    -    -   -     (ORDINAL)       *         *             *             *        (ARG0*      *         *             *             *             *     (0
+bn/vom/01/vom_0107   0   23         号    NN                   (NP*))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   24         舱    NN                   (NP*))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      0)
+bn/vom/01/vom_0107   0   25         内    LC                       *)  -    -    -   -            *        *         *             *             *             *)     *         *             *             *             *      -
+bn/vom/01/vom_0107   0   26         共    AD               (VP(ADVP*)  -    -    2   -            *        *         *             *             *    (ARGM-ADV*)     *         *             *             *             *      -
+bn/vom/01/vom_0107   0   27         有    VE                    (VP*   -   03    2   -            *        *         *             *             *           (V*)     *         *             *             *             *      -
+bn/vom/01/vom_0107   0   28        ２３    CD                 (NP(QP*   -    -    -   -    (CARDINAL)       *         *             *             *        (ARG1*      *         *             *             *             *    (12
+bn/vom/01/vom_0107   0   29         个     M                  (CLP*))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   30         人    NN                (NP*)))))  -    -    -   -            *        *         *             *             *             *)     *         *             *             *             *     12)
+bn/vom/01/vom_0107   0   31         ，    PU                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   32        我们    PN                 (IP(NP*)  -    -    -   -            *        *         *             *             *             *      *         *        (ARG0*)            *             *    (12)
+bn/vom/01/vom_0107   0   33         是    VC                    (VP*   -   01    2   -            *        *         *             *             *             *    (V*)        *             *             *             *      -
+bn/vom/01/vom_0107   0   34        因为     P                 (VP(PP*   -    -    -   -            *        *         *             *             *             *      *         *    (ARGM-PRP*             *             *      -
+bn/vom/01/vom_0107   0   35        潜艇    NN                 (IP(NP*)  -    -    -   -            *        *         *             *             *             *      *    (ARG1*)            *             *             *     (8)
+bn/vom/01/vom_0107   0   36        发生    VV                    (VP*   -   01    1   -            *        *         *             *             *             *      *       (V*)            *             *             *      -
+bn/vom/01/vom_0107   0   37         了    AS                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   38        事故    NN                 (NP*))))  -    -    -   -            *        *         *             *             *             *      *    (ARG0*)            *)            *             *      -
+bn/vom/01/vom_0107   0   39         还    AD                  (ADVP*)  -    -    -   -            *        *         *             *             *             *      *         *    (ARGM-DIS*)            *             *      -
+bn/vom/01/vom_0107   0   40         才    AD                  (ADVP*)  -    -    -   -            *        *         *             *             *             *      *         *    (ARGM-ADV*)            *             *      -
+bn/vom/01/vom_0107   0   41        作出    VV                    (VP*   -   01    -   -            *        *         *             *             *             *      *         *           (V*)            *             *      -
+bn/vom/01/vom_0107   0   42         这    DT                 (NP(DP*   -    -    -   -            *        *         *             *             *             *      *         *        (ARG1*             *             *      -
+bn/vom/01/vom_0107   0   43         一    CD                   (QP*))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   44        决定    NN               (NP*))))))  -    -    -   -            *        *         *             *             *             *      *         *             *)            *             *      -
+bn/vom/01/vom_0107   0   45         ，    PU                       *   -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+bn/vom/01/vom_0107   0   46        可是    AD               (IP(ADVP*)  -    -    -   -            *        *         *             *             *             *      *         *             *    (ARGM-DIS*)   (ARGM-DIS*)     -
+bn/vom/01/vom_0107   0   47        我们    PN                    (NP*)  -    -    -   -            *        *         *             *             *             *      *         *             *        (ARG0*)       (ARG0*)   (12)
+bn/vom/01/vom_0107   0   48         全    AD               (VP(ADVP*)  -    -    3   -            *        *         *             *             *             *      *         *             *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bn/vom/01/vom_0107   0   49         都    AD                  (ADVP*)  -    -    -   -            *        *         *             *             *             *      *         *             *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bn/vom/01/vom_0107   0   50        没有    VE                 (VP(VP*   -   02    1   -            *        *         *             *             *             *      *         *             *           (V*)            *      -
+bn/vom/01/vom_0107   0   51        办法    NN                   (NP*))  -    -    -   -            *        *         *             *             *             *      *         *             *        (ARG1*)            *      -
+bn/vom/01/vom_0107   0   52        浮出    VV                    (VP*   -   01    -   -            *        *         *             *             *             *      *         *             *             *           (V*)     -
+bn/vom/01/vom_0107   0   53        水面    NN              (NP*)))))))  -    -    -   -            *        *)        *             *             *             *      *         *             *             *        (ARG1*)     -
+bn/vom/01/vom_0107   0   54         。    PU                      *))  -    -    -   -            *        *         *             *             *             *      *         *             *             *             *      -
+
+bn/vom/01/vom_0107   0    0     这    DT    (TOP(IP(IP(LCP(NP(DP*   -    -   -   -   *        (ARG2*      *         *         *             *     (3
+bn/vom/01/vom_0107   0    1     张     M                   (CLP*))  -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0    2    纸条    NN                    (NP*))  -    -   -   -   *             *      *         *         *             *      3)
+bn/vom/01/vom_0107   0    3     上    LC                        *)  -    -   1   -   *             *)     *         *         *             *      -
+bn/vom/01/vom_0107   0    4     还    AD                (VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)     *         *         *             *      -
+bn/vom/01/vom_0107   0    5     说    VV                     (VP*   -   01   8   -   *           (V*)     *         *         *             *      -
+bn/vom/01/vom_0107   0    6     ，    PU                        *   -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0    7     我    PN               (CP(IP(NP*)  -    -   -   -   *        (ARG1*      *    (ARG0*)        *             *     (6)
+bn/vom/01/vom_0107   0    8     是    VC                     (VP*   -   01   2   -   *             *    (V*)        *         *             *      -
+bn/vom/01/vom_0107   0    9     瞎    VV                  (VP(VP*   -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   10     着    AS                        *   -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   11    眼睛    NN                    (NP*))  -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   12     写    VV                  (VP*))))  -   01   -   -   *             *      *       (V*)        *             *      -
+bn/vom/01/vom_0107   0   13     的    SP                     *))))  -    -   -   -   *             *)     *         *         *             *      -
+bn/vom/01/vom_0107   0   14     ，    PU                        *   -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   15    意思    NN                  (IP(NP*)  -    -   -   -   *             *      *         *    (ARG0*)            *      -
+bn/vom/01/vom_0107   0   16     是    VC                     (VP*   -   01   1   -   *             *      *         *       (V*)            *      -
+bn/vom/01/vom_0107   0   17    船员    NN                  (IP(NP*)  -    -   -   -   *             *      *         *    (ARG1*        (ARG0*)   (12)
+bn/vom/01/vom_0107   0   18     都    AD                (VP(ADVP*)  -    -   -   -   *             *      *         *         *    (ARGM-ADV*)     -
+bn/vom/01/vom_0107   0   19    处于    VV                     (VP*   -   01   -   -   *             *      *         *         *           (V*)     -
+bn/vom/01/vom_0107   0   20    完全    AD   (LCP(NP(CP(IP(VP(ADVP*)  -    -   -   -   *             *      *         *         *        (ARG1*      -
+bn/vom/01/vom_0107   0   21    黑暗    VA                   (VP*)))  -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   22     的   DEC                        *)  -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   23    情况    NN                    (NP*))  -    -   -   -   *             *      *         *         *             *      -
+bn/vom/01/vom_0107   0   24     下    LC                   *))))))  -    -   1   -   *             *      *         *         *)            *)     -
+bn/vom/01/vom_0107   0   25     。    PU                       *))  -    -   -   -   *             *      *         *         *             *      -
+
+bn/vom/01/vom_0107   0    0      这   DT  (TOP(IP(NP(DP*   -    -   -   -           *       (ARG0*      *             *    (3
+bn/vom/01/vom_0107   0    1      张    M          (CLP*))  -    -   -   -           *            *      *             *     -
+bn/vom/01/vom_0107   0    2     纸条   NN           (NP*))  -    -   -   -           *            *)     *             *     3)
+bn/vom/01/vom_0107   0    3     第一   OD         (VP(QP*   -    -   -   -    (ORDINAL)  (ARGM-ADV*      *             *     -
+bn/vom/01/vom_0107   0    4      次    M          (CLP*))  -    -   -   -           *            *)     *             *     -
+bn/vom/01/vom_0107   0    5     证实   VV            (VP*   -   01   -   -           *          (V*)     *             *     -
+bn/vom/01/vom_0107   0    6      ，   PU               *   -    -   -   -           *            *      *             *     -
+bn/vom/01/vom_0107   0    7      这   DT      (IP(NP(DP*   -    -   -   -           *       (ARG1*      *        (ARG0*    (8
+bn/vom/01/vom_0107   0    8      艘    M          (CLP*))  -    -   -   -           *            *      *             *     -
+bn/vom/01/vom_0107   0    9     潜艇   NN           (NP*))  -    -   -   -           *            *      *             *)    8)
+bn/vom/01/vom_0107   0   10      在    P         (VP(PP*   -    -   2   -           *            *      *    (ARGM-TMP*     -
+bn/vom/01/vom_0107   0   11     沉没   VV    (LCP(IP(VP*))  -   01   -   -           *            *    (V*)            *     -
+bn/vom/01/vom_0107   0   12      时   LC              *))  -    -   -   -           *            *      *             *)    -
+bn/vom/01/vom_0107   0   13     的确   AD          (ADVP*)  -    -   -   -           *            *      *    (ARGM-ADV*)    -
+bn/vom/01/vom_0107   0   14      还   AD          (ADVP*)  -    -   -   -           *            *      *    (ARGM-ADV*)    -
+bn/vom/01/vom_0107   0   15      有   VE            (VP*   -   03   3   -           *            *      *           (V*)    -
+bn/vom/01/vom_0107   0   16     一些   CD         (NP(QP*)  -    -   -   -           *            *      *        (ARG1*   (12
+bn/vom/01/vom_0107   0   17    存活者   NN      (NP*)))))))  -    -   -   -           *            *)     *             *)   12)
+bn/vom/01/vom_0107   0   18      。   PU              *))  -    -   -   -           *            *      *             *     -
+
+bn/vom/01/vom_0107   0    0        在     P             (TOP(IP(PP*   -    -   2   -   *        *    (ARGM-TMP*         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    1    库尔斯克号    NR             (LCP(IP(NP*   -    -   -   -   *   (ARG0*             *         *        *      *            *             *        *         *        *         *            *    (8
+bn/vom/01/vom_0107   0    2      核潜艇    NN                       *)  -    -   -   -   *        *)            *         *        *      *            *             *        *         *        *         *            *     8)
+bn/vom/01/vom_0107   0    3       沉没    VV                   (VP*))  -   01   -   -   *      (V*)            *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    4        后    LC                      *))  -    -   -   -   *        *             *)        *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    5       不久    AD                  (ADVP*)  -    -   -   -   *        *    (ARGM-TMP*)        *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    6        ，    PU                       *   -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    7        有    VE                    (VP*   -   05   4   -   *        *           (V*)        *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    8        人    NN                 (IP(NP*)  -    -   -   -   *        *        (ARG1*    (ARG0*)       *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0    9       猜测    VV                    (VP*   -   01   -   -   *        *             *       (V*)       *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   10       当初    NT   (IP(LCP(IP(NP(DNP(NP*)  -    -   -   -   *        *             *    (ARG1*   (ARG0*      *   (ARGM-TMP*             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   11        的   DEG                       *)  -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   12       爆炸    NN                   (NP*))  -    -   -   -   *        *             *         *        *)     *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   13       发生    VV                   (VP*))  -   01   1   -   *        *             *         *      (V*)     *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   14       以后    LC                       *)  -    -   -   -   *        *             *         *        *      *            *)            *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   15        ，    PU                       *   -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   16       船上    NN                    (NP*)  -    -   -   -   *        *             *         *        *      *       (ARG0*)            *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   17       可能    VV                    (VP*   -   01   -   -   *        *             *         *        *    (V*)           *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   18        有    VE                    (VP*   -   05   4   -   *        *             *         *        *      *          (V*)            *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   19        人    NN                 (IP(NP*)  -    -   -   -   *        *             *         *        *      *       (ARG1*        (ARG1*)       *         *        *         *            *     -
+bn/vom/01/vom_0107   0   20       没有    AD               (VP(ADVP*)  -    -   2   -   *        *             *         *        *      *            *    (ARGM-ADV*)       *         *        *         *            *     -
+bn/vom/01/vom_0107   0   21       死亡    VV            (VP*)))))))))  -   01   -   -   *        *             *)        *)       *      *            *)          (V*)       *         *        *         *            *     -
+bn/vom/01/vom_0107   0   22        ，    PU                       *   -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   23       因为     P                    (PP*   -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   24        有    VE                 (IP(VP*   -   05   4   -   *        *             *         *        *      *            *             *      (V*)        *        *         *            *     -
+bn/vom/01/vom_0107   0   25       报告    NN                 (IP(NP*)  -    -   -   -   *        *             *         *        *      *            *             *   (ARG1*    (ARG2*)       *         *            *     -
+bn/vom/01/vom_0107   0   26        说    VV                    (VP*   -   01   7   -   *        *             *         *        *      *            *             *        *       (V*)       *         *            *     -
+bn/vom/01/vom_0107   0   27        有    VE                 (IP(VP*   -   05   4   -   *        *             *         *        *      *            *             *        *    (ARG1*      (V*)        *            *     -
+bn/vom/01/vom_0107   0   28        人    NN                 (IP(NP*)  -    -   -   -   *        *             *         *        *      *            *             *        *         *   (ARG1*    (ARG0*)           *     -
+bn/vom/01/vom_0107   0   29       听到    VV                    (VP*   -   01   -   -   *        *             *         *        *      *            *             *        *         *        *       (V*)           *     -
+bn/vom/01/vom_0107   0   30        从     P     (NP(CP(CP(IP(VP(PP*   -    -   -   -   *        *             *         *        *      *            *             *        *         *        *    (ARG1*   (ARGM-DIR*    (2
+bn/vom/01/vom_0107   0   31        船    NN                (LCP(NP*)  -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *    (8)
+bn/vom/01/vom_0107   0   32        内    LC                      *))  -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *)    -
+bn/vom/01/vom_0107   0   33       发出    VV                  (VP*)))  -   02   2   -   *        *             *         *        *      *            *             *        *         *        *         *          (V*)    -
+bn/vom/01/vom_0107   0   34        的   DEC                      *))  -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+bn/vom/01/vom_0107   0   35      打击声    NN          (NP*)))))))))))  -    -   -   -   *        *             *         *        *      *            *             *        *)        *)       *)        *)      (ARG1*)    2)
+bn/vom/01/vom_0107   0   36        。    PU                      *))  -    -   -   -   *        *             *         *        *      *            *             *        *         *        *         *            *     -
+
+bn/vom/01/vom_0107   0    0    可是    AD           (TOP(IP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)        *      *         *        *         *        *     -
+bn/vom/01/vom_0107   0    1     也    AD               (VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)        *      *         *        *         *        *     -
+bn/vom/01/vom_0107   0    2     有    VE                    (VP*   -   05   4   -   *           (V*)        *      *         *        *         *        *     -
+bn/vom/01/vom_0107   0    3     人    NN                 (IP(NP*)  -    -   -   -   *        (ARG1*    (ARG0*)     *         *        *         *        *     -
+bn/vom/01/vom_0107   0    4    认为    VV                    (VP*   -   01   1   -   *             *       (V*)     *         *        *         *        *     -
+bn/vom/01/vom_0107   0    5     那    PN                 (IP(NP*)  -    -   -   -   *             *    (ARG1*      *    (ARG0*)       *         *        *    (2)
+bn/vom/01/vom_0107   0    6    可能    VV                    (VP*   -   01   -   -   *             *         *    (V*)        *        *         *        *     -
+bn/vom/01/vom_0107   0    7     是    VC                    (VP*   -   01   1   -   *             *         *      *       (V*)       *         *        *     -
+bn/vom/01/vom_0107   0    8    潜艇    NN  (NP(CP(CP(IP(IP(IP(NP*   -    -   -   -   *             *         *      *    (ARG1*   (ARG0*         *   (ARG0*     -
+bn/vom/01/vom_0107   0    9    内部    NN                       *   -    -   -   -   *             *         *      *         *        *         *        *     -
+bn/vom/01/vom_0107   0   10    材料    NN                       *)  -    -   -   -   *             *         *      *         *        *)        *        *     -
+bn/vom/01/vom_0107   0   11    断裂    VV                   (VP*))  -   01   -   -   *             *         *      *         *      (V*)        *        *     -
+bn/vom/01/vom_0107   0   12     或    CC                       *   -    -   -   -   *             *         *      *         *        *         *        *     -
+bn/vom/01/vom_0107   0   13    船底    NN                 (IP(NP*)  -    -   -   -   *             *         *      *         *        *    (ARG0*)       *     -
+bn/vom/01/vom_0107   0   14    撞击    VV                    (VP*   -   01   -   -   *             *         *      *         *        *       (V*)       *     -
+bn/vom/01/vom_0107   0   15    海底    NN                 (NP*))))  -    -   -   -   *             *         *      *         *        *    (ARG1*)       *)    -
+bn/vom/01/vom_0107   0   16    发出    VV                   (VP*))  -   02   2   -   *             *         *      *         *        *         *      (V*)    -
+bn/vom/01/vom_0107   0   17     的   DEC                      *))  -    -   -   -   *             *         *      *         *        *         *        *     -
+bn/vom/01/vom_0107   0   18    声音    NN            (NP*)))))))))  -    -   -   -   *             *)        *)     *         *)       *         *        *     -
+bn/vom/01/vom_0107   0   19     。    PU                      *))  -    -   -   -   *             *         *      *         *        *         *        *     -
+
+bn/vom/01/vom_0107   0    0       后来    AD            (TOP(IP(IP(ADVP*)  -    -    -   -            *    (ARGM-TMP*)       *    (ARGM-TMP*)            *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    1      俄罗斯    NR                        (NP*)  -    -    -   -         (GPE)       (ARG0*)       *        (ARG0*)            *             *             *        *             *            *             *      *        *      *            *     (1)
+bn/vom/01/vom_0107   0    2       设法    VV                     (VP(VP*   -   01    -   -            *           (V*)       *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    3       打开    VV                     (IP(VP*   -   01    -   -            *        (ARG1*      (V*)            *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    4        一    CD                     (NP(QP*   -    -    -   -            *             *   (ARG1*             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    5        个     M                      (CLP*))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    6       舱门    NN                    (NP*)))))  -    -    -   -            *             *)       *)            *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    7       可是    AD                   (VP(ADVP*)  -    -    -   -            *             *        *    (ARGM-DIS*)            *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    8       没有    AD                      (ADVP*)  -    -    2   -            *             *        *    (ARGM-ADV*)            *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0    9       成功    VV                     (VP*))))  -   01    -   -            *             *        *           (V*)            *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   10        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   11       整整    AD            (IP(LCP(NP(ADVP*)  -    -    -   -       (DATE*             *        *             *    (ARGM-TMP*             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   12        一    CD                     (NP(QP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   13        个     M                      (CLP*))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   14       星期    NN                      (NP*)))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   15       以后    LC                           *)  -    -    -   -            *)            *        *             *             *)            *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   16        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   17       挪威    NR                 (NP(DNP(NP*)  -    -    -   -         (GPE)            *        *             *        (ARG0*             *             *        *             *            *             *      *        *      *            *    (10
+bn/vom/01/vom_0107   0   18        的   DEG                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   19       潜水    NN                        (NP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   20       人员    NN                          *))  -    -    -   -            *             *        *             *             *)            *             *        *             *            *             *      *        *      *            *     10)
+bn/vom/01/vom_0107   0   21        才    AD                   (VP(ADVP*)  -    -    -   -            *             *        *             *    (ARGM-ADV*)            *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   22       取得    VV                        (VP*   -   01    -   -            *             *        *             *           (V*)            *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   23        了    AS                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   24       成功    NN                     (NP*))))  -    -    -   -            *             *        *             *        (ARG1*)            *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   25        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   26       可是    AD                   (IP(ADVP*)  -    -    -   -            *             *        *             *             *    (ARGM-DIS*)            *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   27       他们    PN                        (NP*)  -    -    -   -            *             *        *             *             *        (ARG0*)            *        *             *            *             *      *        *      *            *    (10)
+bn/vom/01/vom_0107   0   28        说    VV                        (VP*   -   01    7   -            *             *        *             *             *           (V*)            *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   29       潜艇    NN                     (IP(NP*   -    -    -   -            *             *        *             *             *        (ARG1*             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   30       内部    NN                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   31       已经    AD                (VP(VP(ADVP*)  -    -    -   -            *             *        *             *             *             *    (ARGM-ADV*)       *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   32       完全    AD                      (ADVP*)  -    -    -   -            *             *        *             *             *             *    (ARGM-ADV*)       *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   33        被    LB                        (VP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   34       海水    NN                     (IP(NP*)  -    -    -   -            *             *        *             *             *             *        (ARG0*)       *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   35       淹没    VV                        (VP*   -   01    -   -            *             *        *             *             *             *           (V*)       *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   36        了    AS                        *))))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   37        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   38       没有    VE                        (VP*   -   01    1   -            *             *        *             *             *             *             *      (V*)            *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   39       任何    DT                  (IP(NP(DP*)  -    -    -   -            *             *        *             *             *             *             *   (ARG0*        (ARG0*            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   40        人    NN                       (NP*))  -    -    -   -            *             *        *             *             *             *             *        *             *)           *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   41        还    AD                   (VP(ADVP*)  -    -    -   -            *             *        *             *             *             *             *        *    (ARGM-ADV*)           *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   42        活    VV                        (VP*   -   01    1   -            *             *        *             *             *             *             *        *           (V*)           *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   43        着    AS                    *))))))))  -    -    -   -            *             *        *             *             *             *)            *        *)            *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   44        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   45        在     P  (IP(LCP(NP(CP(CP(IP(VP(PP*   -    -    2   -            *             *        *             *             *             *             *        *             *   (ARGM-LOC*        (ARG0*      *        *      *            *      -
+bn/vom/01/vom_0107   0   46    库尔斯克号    NR                    (LCP(NP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *     (8
+bn/vom/01/vom_0107   0   47      核潜艇    NN                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      8)
+bn/vom/01/vom_0107   0   48        上    LC                          *))  -    -    1   -            *             *        *             *             *             *             *        *             *            *)            *      *        *      *            *      -
+bn/vom/01/vom_0107   0   49       死亡    VV                      (VP*)))  -   01    -   -            *             *        *             *             *             *             *        *             *          (V*)            *      *        *      *            *      -
+bn/vom/01/vom_0107   0   50        的   DEC                          *))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   51      １１８    CD                        (QP*   -    -    -   -    (CARDINAL)            *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   52        名     M                      (CLP*))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   53       船员    NN                       (NP*))  -    -    -   -            *             *        *             *             *             *             *        *             *       (ARG1*)            *      *        *      *            *      -
+bn/vom/01/vom_0107   0   54        中    LC                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *)     *        *      *            *      -
+bn/vom/01/vom_0107   0   55        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   56       至今    AD                   (VP(ADVP*)  -    -    -   -            *             *        *             *             *             *             *        *             *            *    (ARGM-TMP*)     *        *      *            *      -
+bn/vom/01/vom_0107   0   57        只    AD                      (ADVP*)  -    -    -   -            *             *        *             *             *             *             *        *             *            *    (ARGM-ADV*)     *        *      *            *      -
+bn/vom/01/vom_0107   0   58        有    VE                        (VP*   -   05   10   -            *             *        *             *             *             *             *        *             *            *           (V*)     *        *      *            *      -
+bn/vom/01/vom_0107   0   59        ４    CD                  (IP(NP(QP*   -    -    -   -    (CARDINAL)            *        *             *             *             *             *        *             *            *        (ARG1*      *        *      *            *    (11
+bn/vom/01/vom_0107   0   60        具     M                      (CLP*))  -    -    2   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   61       尸体    NN                       (NP*))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *     11)
+bn/vom/01/vom_0107   0   62        被    SB                        (VP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   63       打捞    VV                     (VP(VP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   64        了    AS                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   65       起来    VV                  (VP*)))))))  -   01    -   -            *             *        *             *             *             *             *        *             *            *             *)   (V*)       *      *            *      -
+bn/vom/01/vom_0107   0   66        ，    PU                           *   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   67      进一步    JJ            (IP(NP(DNP(ADJP*)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *       (ARG1*      -
+bn/vom/01/vom_0107   0   68        的   DEG                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   69       打捞    NN                        (NP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   70       行动    NN                          *))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *)     -
+bn/vom/01/vom_0107   0   71       因为     P                     (VP(PP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *   (ARGM-PRP*      -
+bn/vom/01/vom_0107   0   72       当地    NN                     (IP(NP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *   (ARG0*      *            *      -
+bn/vom/01/vom_0107   0   73       气候    NN                           *)  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *)     *            *      -
+bn/vom/01/vom_0107   0   74       恶劣    VA                      (VP*)))  -   01    -   -            *             *        *             *             *             *             *        *             *            *             *      *      (V*)     *            *)     -
+bn/vom/01/vom_0107   0   75        而   MSP                        (VP*   -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+bn/vom/01/vom_0107   0   76       奉命    VV                    (VP(VSB*   -   01    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *    (V*)           *      -
+bn/vom/01/vom_0107   0   77       停止    VV                       *)))))  -   01    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *          (V*)     -
+bn/vom/01/vom_0107   0   78        。    PU                          *))  -    -    -   -            *             *        *             *             *             *             *        *             *            *             *      *        *      *            *      -
+
+#end document

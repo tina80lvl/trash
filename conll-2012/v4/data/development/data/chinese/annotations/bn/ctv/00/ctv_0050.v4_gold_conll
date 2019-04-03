@@ -1,0 +1,179 @@
+#begin document (bn/ctv/00/ctv_0050); part 000
+bn/ctv/00/ctv_0050   0    0      朝鲜    NR  (TOP(IP(IP(NP(CP(CP(IP(NP*   -    -   -   -        (GPE)  (ARG0*        (ARG1*             *   (1|(2
+bn/ctv/00/ctv_0050   0    1       同    CC                           *   -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0    2      美国    NR                           *)  -    -   -   -        (GPE)       *)            *             *       1)
+bn/ctv/00/ctv_0050   0    3       就     P                     (VP(PP*   -    -   1   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0    4      导弹    NN                        (NP*   -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0    5      问题    NN                          *))  -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0    6      举行    VV                      (VP*)))  -   01   -   -           *      (V*)            *             *       -
+bn/ctv/00/ctv_0050   0    7       的   DEC                          *))  -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0    8      第二    OD                        (QP*   -    -   -   -    (ORDINAL)       *             *             *       -
+bn/ctv/00/ctv_0050   0    9       次     M                      (CLP*))  -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0   10      会谈    NN                       (NP*))  -    -   -   -           *        *             *)            *       2)
+bn/ctv/00/ctv_0050   0   11      ３号    NT                     (VP(NP*)  -    -   -   -       (DATE)       *    (ARGM-TMP*)            *       -
+bn/ctv/00/ctv_0050   0   12       在     P                        (PP*   -    -   2   -           *        *    (ARGM-LOC*             *       -
+bn/ctv/00/ctv_0050   0   13    马来西亚    NR                  (NP(NP(NP*)  -    -   -   -        (GPE)       *             *             *      (4
+bn/ctv/00/ctv_0050   0   14      首都    NN                       (NP*))  -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0   15     吉隆坡    NR                      (NP*)))  -    -   -   -        (GPE)       *             *)            *       4)
+bn/ctv/00/ctv_0050   0   16      结束    VV                      (VP*)))  -   01   -   -           *        *           (V*)            *       -
+bn/ctv/00/ctv_0050   0   17       ，    PU                           *   -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0   18      双方    PN                     (IP(NP*)  -    -   -   -           *        *             *        (ARG0*)     (1)
+bn/ctv/00/ctv_0050   0   19       在     P                     (VP(PP*   -    -   2   -           *        *             *    (ARGM-LOC*       -
+bn/ctv/00/ctv_0050   0   20      主要    JJ               (LCP(NP(ADJP*)  -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0   21      问题    NN                       (NP*))  -    -   -   -           *        *             *             *       -
+bn/ctv/00/ctv_0050   0   22       上    LC                          *))  -    -   3   -           *        *             *             *)      -
+bn/ctv/00/ctv_0050   0   23      没有    AD                      (ADVP*)  -    -   2   -           *        *             *    (ARGM-ADV*)      -
+bn/ctv/00/ctv_0050   0   24      达成    VV                        (VP*   -   01   -   -           *        *             *           (V*)      -
+bn/ctv/00/ctv_0050   0   25      协议    NN                     (NP*))))  -    -   -   -           *        *             *        (ARG1*)      -
+bn/ctv/00/ctv_0050   0   26       。    PU                          *))  -    -   -   -           *        *             *             *       -
+
+bn/ctv/00/ctv_0050   0    0      美国   NR       (TOP(IP(NP*)  -    -   -   -    (GPE)      (ARG0*)        *        *        *        *        *    (0)
+bn/ctv/00/ctv_0050   0    1       在    P           (VP(PP*   -    -   2   -       *   (ARGM-LOC*         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0    2      会谈   NN          (LCP(NP*)  -    -   -   -       *            *         *        *        *        *        *    (2)
+bn/ctv/00/ctv_0050   0    3       中   LC                *))  -    -   -   -       *            *)        *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0    4      希望   VV              (VP*   -   02   1   -       *          (V*)        *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0    5      朝鲜   NR           (IP(NP*)  -    -   -   -    (GPE)      (ARG1*    (ARG0*)       *        *        *        *    (3)
+bn/ctv/00/ctv_0050   0    6      承诺   VV              (VP*   -   01   -   -       *            *       (V*)       *        *        *        *     -
+bn/ctv/00/ctv_0050   0    7       ，   PU                 *   -    -   -   -       *            *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0    8      停止   VV        (IP(VP(VP*   -   01   -   -       *            *    (ARG1*      (V*)       *        *        *     -
+bn/ctv/00/ctv_0050   0    9      试射   VV           (IP(VP*   -   01   -   -       *            *         *   (ARG1*      (V*)       *        *     -
+bn/ctv/00/ctv_0050   0   10      远程   JJ         (NP(ADJP*)  -    -   -   -       *            *         *        *   (ARG1*        *        *     -
+bn/ctv/00/ctv_0050   0   11      导弹   NN          (NP*)))))  -    -   -   -       *            *         *        *)       *)       *        *     -
+bn/ctv/00/ctv_0050   0   12       ，   PU                 *   -    -   -   -       *            *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   13      限制   VV              (VP*   -   02   2   -       *            *         *        *        *      (V*)       *     -
+bn/ctv/00/ctv_0050   0   14       向    P        (IP(VP(PP*   -    -   -   -       *            *         *        *        *   (ARG2*   (ARG2*     -
+bn/ctv/00/ctv_0050   0   15    巴基斯坦   NR           (NP(NP*)  -    -   -   -    (GPE)           *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   16       和   CC                 *   -    -   -   -       *            *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   17      一些   CD           (NP(QP*)  -    -   -   -       *            *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   18      中东   NR              (NP*)  -    -   -   -    (LOC)           *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   19      国家   NN           (NP*))))  -    -   -   -       *            *         *        *        *        *        *)    -
+bn/ctv/00/ctv_0050   0   20      出口   VV              (VP*   -   01   1   -       *            *         *        *        *        *      (V*)    -
+bn/ctv/00/ctv_0050   0   21       中   JJ         (NP(ADJP*)  -    -   -   -       *            *         *        *        *        *   (ARG1*     -
+bn/ctv/00/ctv_0050   0   22       、   PU                 *   -    -   -   -       *            *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   23      短程   JJ            (ADJP*)  -    -   -   -       *            *         *        *        *        *        *     -
+bn/ctv/00/ctv_0050   0   24      导弹   NN   (NP*))))))))))))  -    -   -   -       *            *)        *)       *        *        *)       *)    -
+bn/ctv/00/ctv_0050   0   25       。   PU                *))  -    -   -   -       *            *         *        *        *        *        *     -
+
+bn/ctv/00/ctv_0050   0    0     美    NR       (TOP(IP(NP(NP*   -    -   -   -    (GPE)       (ARG0*        *        (ARG0*         *         *            *         *    (1
+bn/ctv/00/ctv_0050   0    1     朝    NR                    *)  -    -   -   -    (GPE)            *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    2    双方    PN                (NP*))  -    -   -   -       *             *)       *             *)        *         *            *         *     1)
+bn/ctv/00/ctv_0050   0    3     还    AD         (VP(VP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)       *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    4    讨论    VV                 (VP*   -   01   -   -       *           (V*)       *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    5     了    AS                    *   -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    6     由     P  (NP(CP(CP(IP(VP(PP*   -    -   -   -       *        (ARG1*   (ARG0*             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    7     此    PN                (NP*))  -    -   -   -       *             *        *)            *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    8    产生    VV               (VP*)))  -   01   1   -       *             *      (V*)            *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0    9     的   DEC                   *))  -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   10     对     P             (DNP(PP*   -    -   3   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   11    朝鲜    NR                (NP*))  -    -   -   -    (GPE)            *        *             *         *         *            *         *    (3)
+bn/ctv/00/ctv_0050   0   12     的   DEG                    *)  -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   13    赔偿    NN                 (NP*   -    -   -   -       *             *   (ARG1*             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   14    问题    NN                 *))))  -    -   -   -       *             *)       *)            *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   15     ，    PU                    *   -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   16     并    AD            (VP(ADVP*)  -    -   -   -       *             *        *    (ARGM-DIS*)        *         *            *         *     -
+bn/ctv/00/ctv_0050   0   17    深入    AD               (ADVP*)  -    -   -   -       *             *        *    (ARGM-ADV*)        *         *            *         *     -
+bn/ctv/00/ctv_0050   0   18    探讨    VV                 (VP*   -   01   -   -       *             *        *           (V*)        *         *            *         *     -
+bn/ctv/00/ctv_0050   0   19     了    AS                    *   -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   20     用     P           (IP(VP(PP*   -    -   5   -       *             *        *        (ARG1*         *         *   (ARGM-MNR*         *     -
+bn/ctv/00/ctv_0050   0   21    帮助    VV              (IP(VP*   -   02   1   -       *             *        *             *       (V*)        *            *         *     -
+bn/ctv/00/ctv_0050   0   22    朝鲜    NR                 (NP*)  -    -   -   -    (GPE)            *        *             *    (ARG1*)        *            *         *    (3)
+bn/ctv/00/ctv_0050   0   23    发射    VV              (IP(VP*   -   01   -   -       *             *        *             *    (ARG2*       (V*)           *         *     -
+bn/ctv/00/ctv_0050   0   24    卫星    NN            (NP*))))))  -    -   -   -       *             *        *             *         *)   (ARG1*)           *)        *     -
+bn/ctv/00/ctv_0050   0   25    作为    VV                 (VP*   -   01   -   -       *             *        *             *         *         *          (V*)        *     -
+bn/ctv/00/ctv_0050   0   26    朝鲜    NR        (NP(CP(IP(NP*)  -    -   -   -    (GPE)            *        *             *         *         *       (ARG2*    (ARG0*)   (3)
+bn/ctv/00/ctv_0050   0   27    限制    VV                 (VP*   -   01   2   -       *             *        *             *         *         *            *       (V*)    -
+bn/ctv/00/ctv_0050   0   28     其    PN              (NP(NP*)  -    -   -   -       *             *        *             *         *         *            *    (ARG1*    (3)
+bn/ctv/00/ctv_0050   0   29    导弹    NN                 (NP*   -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   30    发展    NN                 *))))  -    -   6   -       *             *        *             *         *         *            *         *)    -
+bn/ctv/00/ctv_0050   0   31     的   DEC                    *)  -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   32    交换    NN                 (NP*   -    -   -   -       *             *        *             *         *         *            *         *     -
+bn/ctv/00/ctv_0050   0   33    条件    NN             *))))))))  -    -   -   -       *             *        *             *)        *         *            *)        *     -
+bn/ctv/00/ctv_0050   0   34     。    PU                   *))  -    -   -   -       *             *        *             *         *         *            *         *     -
+
+bn/ctv/00/ctv_0050   0    0      美国    NR             (TOP(IP(NP(NP(NP(NP*)  -    -   -   -         (GPE)        *            *       (ARG0*         *             *    (0)
+bn/ctv/00/ctv_0050   0    1     代表团    NN                            (NP*))  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0    2      团长    NN                            (NP*))  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0    3    爱因霍恩    NR                            (NP*))  -    -   -   -      (PERSON)        *            *            *)        *             *     -
+bn/ctv/00/ctv_0050   0    4       在     P                          (VP(PP*   -    -   2   -            *         *            *   (ARGM-LOC*         *             *     -
+bn/ctv/00/ctv_0050   0    5      会谈    NN   (LCP(NP(CP(CP(IP(VP(LCP(IP(NP*)  -    -   -   -            *    (ARG1*)  (ARGM-TMP*            *         *             *    (2)
+bn/ctv/00/ctv_0050   0    6      结束    VV                            (VP*))  -   01   -   -            *       (V*)           *            *         *             *     -
+bn/ctv/00/ctv_0050   0    7       后    LC                                *)  -    -   -   -            *         *            *)           *         *             *     -
+bn/ctv/00/ctv_0050   0    8      发表    VV                           (VP*)))  -   01   -   -            *         *          (V*)           *         *             *     -
+bn/ctv/00/ctv_0050   0    9       的   DEC                               *))  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   10       一    CD                             (QP*   -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   11       份     M                           (CLP*))  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   12      声明    NN                            (NP*))  -    -   -   -            *         *       (ARG1*)           *         *             *     -
+bn/ctv/00/ctv_0050   0   13       中    LC                               *))  -    -   -   -            *         *            *            *)        *             *     -
+bn/ctv/00/ctv_0050   0   14       说    VV                             (VP*   -   01   8   -            *         *            *          (V*)        *             *     -
+bn/ctv/00/ctv_0050   0   15       ，    PU                                *   -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   16      会谈    NN                          (IP(NP*)  -    -   -   -            *         *            *       (ARG1*    (ARG0*)            *    (2)
+bn/ctv/00/ctv_0050   0   17      涉及    VV                             (VP*   -   01   -   -            *         *            *            *       (V*)            *     -
+bn/ctv/00/ctv_0050   0   18       了    AS                                *   -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   19       朝    NR              (NP(CP(CP(IP(NP(NP*   -    -   -   -         (GPE)        *            *            *    (ARG1*        (ARG0*    (1
+bn/ctv/00/ctv_0050   0   20       美    NR                                *)  -    -   -   -         (GPE)        *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   21       两    CD                             (QP*)  -    -   -   -    (CARDINAL)        *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   22       国    NN                            (NP*))  -    -   -   -            *         *            *            *         *             *)    1)
+bn/ctv/00/ctv_0050   0   23      共同    AD                        (VP(ADVP*)  -    -   -   -            *         *            *            *         *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0050   0   24      考虑    VV                           (VP*)))  -   01   -   -            *         *            *            *         *           (V*)    -
+bn/ctv/00/ctv_0050   0   25       的   DEC                               *))  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   26      关于     P                         (DNP(PP*   -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   27      导弹    NN                            (NP*))  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   28       的   DEG                                *)  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   29      全部    DT                             (DP*)  -    -   -   -            *         *            *            *         *             *     -
+bn/ctv/00/ctv_0050   0   30      内容    NN                        (NP*))))))  -    -   -   -            *         *            *            *)        *)       (ARG1*)    -
+bn/ctv/00/ctv_0050   0   31       。    PU                               *))  -    -   -   -            *         *            *            *         *             *     -
+
+bn/ctv/00/ctv_0050   0    0     双方    PN          (TOP(IP(IP(NP*)  -    -   -   -   *        (ARG0*)       (ARG1*)       (ARG0*)            *             *    (1)
+bn/ctv/00/ctv_0050   0    1    进一步    AD            (VP(VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *             *             *             *     -
+bn/ctv/00/ctv_0050   0    2     澄清    VV                    (VP*   -   01   -   -   *           (V*)            *             *             *             *     -
+bn/ctv/00/ctv_0050   0    3      了    AS                       *   -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0    4     各自    PN                 (NP(NP*)  -    -   -   -   *        (ARG1*             *             *             *             *     -
+bn/ctv/00/ctv_0050   0    5      对     P                (DNP(PP*   -    -   3   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0    6     导弹    NN                    (NP*   -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0    7     问题    NN                      *))  -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0    8      的   DEG                       *)  -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0    9     立场    NN                 (NP*))))  -    -   -   -   *             *)            *             *             *             *     -
+bn/ctv/00/ctv_0050   0   10      ，    PU                       *   -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0   11      并    AD               (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)   (ARGM-ADV*)            *             *     -
+bn/ctv/00/ctv_0050   0   12      将    AD                  (ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)   (ARGM-ADV*)            *             *     -
+bn/ctv/00/ctv_0050   0   13     继续    VV                    (VP*   -   01   -   -   *             *           (V*)            *             *             *     -
+bn/ctv/00/ctv_0050   0   14     扩展    VV                    (VP*   -   01   -   -   *             *        (ARG1*           (V*)            *             *     -
+bn/ctv/00/ctv_0050   0   15     共同    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -   *             *             *        (ARG1*    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0050   0   16     关心    VV                  (VP*)))  -   01   -   -   *             *             *             *           (V*)            *     -
+bn/ctv/00/ctv_0050   0   17      的   DEC                      *))  -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0   18     领域    NN              (NP*)))))))  -    -   -   -   *             *             *)            *)       (ARG1*)            *     -
+bn/ctv/00/ctv_0050   0   19      ，    PU                       *   -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0   20      但    AD               (IP(ADVP*)  -    -   -   -   *             *             *             *             *    (ARGM-DIS*)    -
+bn/ctv/00/ctv_0050   0   21     主要    JJ               (NP(ADJP*)  -    -   -   -   *             *             *             *             *        (ARG0*     -
+bn/ctv/00/ctv_0050   0   22     课题    NN                   (NP*))  -    -   -   -   *             *             *             *             *             *)    -
+bn/ctv/00/ctv_0050   0   23      还    AD               (VP(ADVP*)  -    -   -   -   *             *             *             *             *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0050   0   24     有待    VV                    (VP*   -   01   -   -   *             *             *             *             *           (V*)    -
+bn/ctv/00/ctv_0050   0   25    进一步    JJ           (NP(DNP(ADJP*)  -    -   -   -   *             *             *             *             *        (ARG1*     -
+bn/ctv/00/ctv_0050   0   26      的   DEG                       *)  -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0   27     讨论    NN                    (NP*   -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0   28      和    CC                       *   -    -   -   -   *             *             *             *             *             *     -
+bn/ctv/00/ctv_0050   0   29     解决    NN                   *)))))  -    -   -   -   *             *             *             *             *             *)    -
+bn/ctv/00/ctv_0050   0   30      。    PU                      *))  -    -   -   -   *             *             *             *             *             *     -
+
+bn/ctv/00/ctv_0050   0    0      朝   NR  (TOP(IP(NP*   -    -   -   -        (GPE)       (ARG0*    (1
+bn/ctv/00/ctv_0050   0    1      美   NR            *)  -    -   -   -        (GPE)            *)    1)
+bn/ctv/00/ctv_0050   0    2      曾   AD    (VP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0050   0    3      于    P         (PP*   -    -   -   -           *    (ARGM-TMP*     -
+bn/ctv/00/ctv_0050   0    4     今年   NT         (NP*   -    -   -   -      (DATE*             *     -
+bn/ctv/00/ctv_0050   0    5     ７月   NT           *))  -    -   -   -           *)            *)    -
+bn/ctv/00/ctv_0050   0    6      在    P         (PP*   -    -   2   -           *    (ARGM-LOC*     -
+bn/ctv/00/ctv_0050   0    7    吉隆坡   NR        (NP*))  -    -   -   -        (GPE)            *)   (4)
+bn/ctv/00/ctv_0050   0    8     举行   VV         (VP*   -   01   -   -           *           (V*)    -
+bn/ctv/00/ctv_0050   0    9      的   AS            *   -    -   -   -           *             *     -
+bn/ctv/00/ctv_0050   0   10     第一   OD      (NP(QP*   -    -   -   -    (ORDINAL)       (ARG1*     -
+bn/ctv/00/ctv_0050   0   11      次    M       (CLP*))  -    -   -   -           *             *     -
+bn/ctv/00/ctv_0050   0   12     导弹   NN         (NP*   -    -   -   -           *             *     -
+bn/ctv/00/ctv_0050   0   13     会谈   NN         *))))  -    -   -   -           *             *)    -
+bn/ctv/00/ctv_0050   0   14      。   PU           *))  -    -   -   -           *             *     -
+
+bn/ctv/00/ctv_0050   0   0    中央台   NR   (TOP(IP(NP*)  -    -   -   -    (ORG)   (ARG0*)  -
+bn/ctv/00/ctv_0050   0   1     编译   VV      (VP(VSB*   -    -   -   -       *         *   -
+bn/ctv/00/ctv_0050   0   2     报道   VV            *))  -   01   -   -       *       (V*)  -
+bn/ctv/00/ctv_0050   0   3      。   PU            *))  -    -   -   -       *         *   -
+
+#end document

@@ -1,0 +1,56 @@
+#begin document (bn/cnr/00/cnr_0038); part 000
+bn/cnr/00/cnr_0038   0    0       南联盟   NR   (TOP(IP(NP(NP(NP(NP*)  -    -   -   -      (GPE*        (ARG0*    (0|(2
+bn/cnr/00/cnr_0038   0    1      塞尔维亚   NR                   (NP*   -    -   -   -          *             *       (0
+bn/cnr/00/cnr_0038   0    2       共和国   NN                      *)  -    -   -   -          *)            *        0)
+bn/cnr/00/cnr_0038   0    3        政府   NN                  (NP*))  -    -   -   -          *             *        0)
+bn/cnr/00/cnr_0038   0    4        总理   NN                  (NP*))  -    -   -   -          *             *        -
+bn/cnr/00/cnr_0038   0    5    马里亚诺维奇   NR                  (NP*))  -    -   -   -    (PERSON)            *)       2)
+bn/cnr/00/cnr_0038   0    6        日前   NT                (VP(NP*)  -    -   -   -          *    (ARGM-TMP*)       -
+bn/cnr/00/cnr_0038   0    7         已   AD                 (ADVP*)  -    -   2   -          *    (ARGM-ADV*)       -
+bn/cnr/00/cnr_0038   0    8         向    P                   (PP*   -    -   -   -          *        (ARG2*        -
+bn/cnr/00/cnr_0038   0    9      塞尔维亚   NR                (NP(NP*)  -    -   -   -      (ORG*             *    (1|(0)
+bn/cnr/00/cnr_0038   0   10        议会   NN                 (NP*)))  -    -   -   -          *)            *)       1)
+bn/cnr/00/cnr_0038   0   11        递交   VV                   (VP*   -   01   -   -          *           (V*)       -
+bn/cnr/00/cnr_0038   0   12         了   AS                      *   -    -   -   -          *             *        -
+bn/cnr/00/cnr_0038   0   13        辞呈   NN                 (NP*)))  -    -   -   -          *        (ARG1*)      (3)
+bn/cnr/00/cnr_0038   0   14         。   PU                     *))  -    -   -   -          *             *        -
+
+bn/cnr/00/cnr_0038   0    0       他    PN     (TOP(IP(NP*)  -    -   -   -       *       (ARG0*)            *             *            *         *             *       (2)
+bn/cnr/00/cnr_0038   0    1       在     P         (VP(PP*   -    -   2   -       *   (ARGM-LOC*             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0    2      辞呈    NN        (LCP(NP*)  -    -   -   -       *            *             *             *            *         *             *       (3)
+bn/cnr/00/cnr_0038   0    3       中    LC              *))  -    -   -   -       *            *)            *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0    4       说    VV            (VP*   -   01   8   -       *          (V*)            *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0    5       ：    PU               *   -    -   -   -       *            *             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0    6      鉴于     P         (IP(PP*   -    -   -   -       *       (ARG1*             *             *   (ARGM-PRP*         *    (ARGM-PRP*        -
+bn/cnr/00/cnr_0038   0    7       各    DT      (IP(NP(DP*)  -    -   -   -       *            *             *        (ARG0*            *         *             *        -
+bn/cnr/00/cnr_0038   0    8      党派    NN           (NP*))  -    -   -   -       *            *             *             *)           *         *             *        -
+bn/cnr/00/cnr_0038   0    9       已    AD       (VP(ADVP*)  -    -   2   -       *            *             *    (ARGM-ADV*)           *         *             *        -
+bn/cnr/00/cnr_0038   0   10       就     P            (PP*   -    -   1   -       *            *             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0   11      提前    AD    (IP(VP(ADVP*)  -    -   -   -       *            *    (ARGM-ADV*)            *            *         *             *        -
+bn/cnr/00/cnr_0038   0   12      举行    VV            (VP*   -   01   -   -       *            *           (V*)            *            *         *             *        -
+bn/cnr/00/cnr_0038   0   13    塞尔维亚    NR      (NP(NP(NP*)  -    -   -   -   (ORG*            *        (ARG1*             *            *         *             *    (1|(0)
+bn/cnr/00/cnr_0038   0   14      议会    NN           (NP*))  -    -   -   -       *)           *             *             *            *         *             *        1)
+bn/cnr/00/cnr_0038   0   15      选举    NN       (NP*))))))  -    -   -   -       *            *             *)            *            *         *             *        -
+bn/cnr/00/cnr_0038   0   16      达成    VV            (VP*   -   01   -   -       *            *             *           (V*)           *         *             *        -
+bn/cnr/00/cnr_0038   0   17      协议    NN        (NP*)))))  -    -   -   -       *            *             *        (ARG1*)           *)        *             *)      (4)
+bn/cnr/00/cnr_0038   0   18       ，    PU               *   -    -   -   -       *            *             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0   19       他    PN            (NP*)  -    -   -   -       *            *             *             *       (ARG0*)        *        (ARG0*)      (2)
+bn/cnr/00/cnr_0038   0   20      决定    VV         (VP(VP*   -   01   -   -       *            *             *             *          (V*)        *             *        -
+bn/cnr/00/cnr_0038   0   21       向     P      (IP(VP(PP*   -    -   -   -       *            *             *             *       (ARG1*    (ARG2*             *        -
+bn/cnr/00/cnr_0038   0   22       塞    NR         (NP(NP*)  -    -   -   -   (ORG*            *             *             *            *         *             *    (1|(0)
+bn/cnr/00/cnr_0038   0   23      议会    NN          (NP*)))  -    -   -   -       *)           *             *             *            *         *)            *        1)
+bn/cnr/00/cnr_0038   0   24      递交    VV            (VP*   -   01   -   -       *            *             *             *            *       (V*)            *        -
+bn/cnr/00/cnr_0038   0   25      辞呈    NN        (NP*)))))  -    -   -   -       *            *             *             *            *)   (ARG1*)            *       (3)
+bn/cnr/00/cnr_0038   0   26       ，    PU               *   -    -   -   -       *            *             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0   27      以便    AD       (VP(ADVP*)  -    -   -   -       *            *             *             *            *         *    (ARGM-DIS*)       -
+bn/cnr/00/cnr_0038   0   28       为     P            (PP*   -    -   4   -       *            *             *             *            *         *    (ARGM-PRP*        -
+bn/cnr/00/cnr_0038   0   29       这    DT  (NP(DNP(NP(DP*   -    -   -   -       *            *             *             *            *         *             *       (4
+bn/cnr/00/cnr_0038   0   30       一    CD           (QP*))  -    -   -   -       *            *             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0   31      协议    NN           (NP*))  -    -   -   -       *            *             *             *            *         *             *        4)
+bn/cnr/00/cnr_0038   0   32       的   DEG               *)  -    -   -   -       *            *             *             *            *         *             *        -
+bn/cnr/00/cnr_0038   0   33      实施    NN          (NP*)))  -    -   -   -       *            *             *             *            *         *             *)       -
+bn/cnr/00/cnr_0038   0   34      创造    VV            (VP*   -   01   -   -       *            *             *             *            *         *           (V*)       -
+bn/cnr/00/cnr_0038   0   35      条件    NN      (NP*)))))))  -    -   -   -       *            *)            *             *            *         *        (ARG1*)       -
+bn/cnr/00/cnr_0038   0   36       。    PU              *))  -    -   -   -       *            *             *             *            *         *             *        -
+
+#end document

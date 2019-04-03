@@ -1,0 +1,126 @@
+#begin document (bn/cbs/01/cbs_0140); part 000
+bn/cbs/01/cbs_0140   0    0       第一    OD     (TOP(IP(NP(NP(QP*   -    -   -   -        (ORDINAL)       (ARG0*        *    (0
+bn/cbs/01/cbs_0140   0    1        位     M                (CLP*))  -    -   2   -               *             *        *     -
+bn/cbs/01/cbs_0140   0    2       华人    NN                  (NP*)  -    -   -   -           (NORP)            *        *     -
+bn/cbs/01/cbs_0140   0    3        “    PU                     *   -    -   -   -               *             *        *     -
+bn/cbs/01/cbs_0140   0    4      诺贝尔    NR                  (NP*)  -    -   -   -   (WORK_OF_ART*             *        *    (1)
+bn/cbs/01/cbs_0140   0    5       文学    NN                  (NP*   -    -   -   -               *             *        *    (3
+bn/cbs/01/cbs_0140   0    6        奖    NN                     *)  -    -   -   -               *)            *        *     3)
+bn/cbs/01/cbs_0140   0    7        ”    PU                     *   -    -   -   -               *             *        *     -
+bn/cbs/01/cbs_0140   0    8       得主    NN                 (NP*))  -    -   -   -               *             *        *     -
+bn/cbs/01/cbs_0140   0    9      高行健    NR                 (NP*))  -    -   -   -         (PERSON)            *)       *     0)
+bn/cbs/01/cbs_0140   0   10      １０号    NT               (VP(NP*)  -    -   -   -           (DATE)   (ARGM-TMP*)       *     -
+bn/cbs/01/cbs_0140   0   11        在     P                  (PP*   -    -   2   -               *    (ARGM-LOC*        *     -
+bn/cbs/01/cbs_0140   0   12       瑞典    NR            (NP(NP(NP*)  -    -   -   -            (GPE)            *        *    (2)
+bn/cbs/01/cbs_0140   0   13       首都    NN                 (NP*))  -    -   -   -               *             *        *     -
+bn/cbs/01/cbs_0140   0   14    斯德哥尔摩    NR                (NP*)))  -    -   -   -            (GPE)            *)       *     -
+bn/cbs/01/cbs_0140   0   15       接受    VV                  (VP*   -   01   -   -               *           (V*)       *     -
+bn/cbs/01/cbs_0140   0   16       瑞典    NR   (NP(CP(CP(IP(NP(NP*)  -    -   -   -            (GPE)       (ARG1*   (ARG0*    (2)
+bn/cbs/01/cbs_0140   0   17       国王    NN                 (NP*))  -    -   -   -               *             *        *)    -
+bn/cbs/01/cbs_0140   0   18       颁发    VV                 (VP*))  -   01   -   -               *             *      (V*)    -
+bn/cbs/01/cbs_0140   0   19        的   DEC                    *))  -    -   -   -               *             *        *     -
+bn/cbs/01/cbs_0140   0   20      诺贝尔    NR                  (NP*)  -    -   -   -   (WORK_OF_ART*             *        *    (1)
+bn/cbs/01/cbs_0140   0   21       文学    NN                  (NP*   -    -   -   -               *             *        *    (3
+bn/cbs/01/cbs_0140   0   22        奖    NN                     *)  -    -   -   -               *)            *        *     3)
+bn/cbs/01/cbs_0140   0   23       奖章    NN                  (NP*   -    -   -   -               *             *   (ARG1*     -
+bn/cbs/01/cbs_0140   0   24        和    CC                     *   -    -   -   -               *             *        *     -
+bn/cbs/01/cbs_0140   0   25       奖金    NN                  *))))  -    -   -   -               *             *)       *)    -
+bn/cbs/01/cbs_0140   0   26        。    PU                    *))  -    -   -   -               *             *        *     -
+
+bn/cbs/01/cbs_0140   0    0    高行健   NR   (TOP(IP(NP*)  -    -   -   -    (PERSON)      (ARG0*)           *    (0)
+bn/cbs/01/cbs_0140   0    1      在    P       (VP(PP*   -    -   2   -          *   (ARGM-LOC*            *     -
+bn/cbs/01/cbs_0140   0    2     得奖   NN      (LCP(NP*   -    -   -   -          *            *            *     -
+bn/cbs/01/cbs_0140   0    3     感言   NN             *)  -    -   -   -          *            *            *     -
+bn/cbs/01/cbs_0140   0    4     当中   LC            *))  -    -   -   -          *            *)           *     -
+bn/cbs/01/cbs_0140   0    5     抨击   VV          (VP*   -   01   -   -          *          (V*)           *     -
+bn/cbs/01/cbs_0140   0    6     中共   NR    (IP(NP(NP*)  -    -   -   -       (ORG)      (ARG1*       (ARG0*     -
+bn/cbs/01/cbs_0140   0    7     政权   NN         (NP*))  -    -   -   -          *            *            *)    -
+bn/cbs/01/cbs_0140   0    8      “   PU             *   -    -   -   -          *            *            *     -
+bn/cbs/01/cbs_0140   0    9      以    P       (VP(PP*   -    -   -   -          *            *   (ARGM-MNR*     -
+bn/cbs/01/cbs_0140   0   10     政治   NN         (NP*))  -    -   -   -          *            *            *)    -
+bn/cbs/01/cbs_0140   0   11     主宰   VV          (VP*   -   01   -   -          *            *          (V*)    -
+bn/cbs/01/cbs_0140   0   12     文学   NN     (NP*))))))  -    -   -   -          *            *)      (ARG1*)    -
+bn/cbs/01/cbs_0140   0   13      ”   PU             *   -    -   -   -          *            *            *     -
+bn/cbs/01/cbs_0140   0   14      。   PU            *))  -    -   -   -          *            *            *     -
+
+bn/cbs/01/cbs_0140   0    0      他    PN   (TOP(IP(IP(NP*)  -    -   -   -       *    (ARG0*)     *        *      *      *         *         *             *      *    (0)
+bn/cbs/01/cbs_0140   0    1      说    VV             (VP*   -   01   7   -       *       (V*)     *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    2     大陆    NN          (IP(NP*   -    -   -   -    (GPE)   (ARG1*      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    3     作家    NN                *)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    4     如果    CS     (VP(CP(ADVP*)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    5     想要    VV          (IP(VP*   -   01   -   -       *         *    (V*)       *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    6     赢得    VV          (IP(VP*   -   01   -   -       *         *      *      (V*)     *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    7     思想    NN      (NP(DNP(NP*)  -    -   -   -       *         *      *   (ARG1*      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    8      的   DEG                *)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0    9     自由    NN       (NP*)))))))  -    -   -   -       *         *      *        *)     *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   10      ，    PU                *   -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   11     除了     P             (PP*   -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   12     沉默    VV        (IP(VP*)))  -   01   -   -       *         *      *        *    (V*)     *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   13      便    AD           (ADVP*)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   14      是    VC             (VP*   -   01   2   -       *         *      *        *      *    (V*)        *         *             *      *     -
+bn/cbs/01/cbs_0140   0   15     逃亡    VV        (VP*))))))  -    -   -   -       *         *)     *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   16      ，    PU                *   -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   17      他    PN          (IP(NP*)  -    -   -   -       *         *      *        *      *      *    (ARG0*)        *             *      *    (0)
+bn/cbs/01/cbs_0140   0   18     指出    VV             (VP*   -   01   -   -       *         *      *        *      *      *       (V*)        *             *      *     -
+bn/cbs/01/cbs_0140   0   19     逃亡    NN       (IP(IP(NP*)  -    -   -   -       *         *      *        *      *      *    (ARG1*    (ARG0*)            *      *     -
+bn/cbs/01/cbs_0140   0   20     能够    VV             (VP*   -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   21      在     P          (VP(PP*   -    -   2   -       *         *      *        *      *      *         *    (ARG1*             *      *     -
+bn/cbs/01/cbs_0140   0   22     海外    NN            (NP*))  -    -   -   -       *         *      *        *      *      *         *         *)            *      *     -
+bn/cbs/01/cbs_0140   0   23     发生    VV          (VP*))))  -   01   1   -       *         *      *        *      *      *         *       (V*)            *      *     -
+bn/cbs/01/cbs_0140   0   24      ，    PU                *   -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   25     不过    AD        (IP(ADVP*)  -    -   -   -       *         *      *        *      *      *         *         *    (ARGM-ADV*)     *     -
+bn/cbs/01/cbs_0140   0   26    大部分    CD      (NP(DNP(QP*)  -    -   -   -       *         *      *        *      *      *         *         *    (ARGM-TPC*      *     -
+bn/cbs/01/cbs_0140   0   27      的   DEG                *)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   28      人    NN            (NP*))  -    -   -   -       *         *      *        *      *      *         *         *             *)     *     -
+bn/cbs/01/cbs_0140   0   29      连    AD        (NP(ADVP*)  -    -   -   -       *         *      *        *      *      *         *         *        (ARG0*      *     -
+bn/cbs/01/cbs_0140   0   30     逃亡    NN      (NP(DNP(NP*)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   31      的   DEG                *)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   32     能力    NN           (NP*)))  -    -   -   -       *         *      *        *      *      *         *         *             *)     *     -
+bn/cbs/01/cbs_0140   0   33      都    AD        (VP(ADVP*)  -    -   -   -       *         *      *        *      *      *         *         *    (ARGM-ADV*)     *     -
+bn/cbs/01/cbs_0140   0   34     没有    VE           (VP*)))  -   02   1   -       *         *      *        *      *      *         *         *           (V*)     *     -
+bn/cbs/01/cbs_0140   0   35     只好    AD     (IP(VP(ADVP*)  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+bn/cbs/01/cbs_0140   0   36     沉默    VV         (VP(VSB*   -   01   -   -       *         *      *        *      *      *         *         *             *    (V*)    -
+bn/cbs/01/cbs_0140   0   37     认命    VV          *)))))))  -    -   -   -       *         *      *        *      *      *         *)        *             *      *     -
+bn/cbs/01/cbs_0140   0   38      。    PU               *))  -    -   -   -       *         *      *        *      *      *         *         *             *      *     -
+
+bn/cbs/01/cbs_0140   0    0      而    AD    (TOP(IP(ADVP*)  -    -   -   -               *         *        *    (ARGM-DIS*)    -
+bn/cbs/01/cbs_0140   0    1     另外    DT       (NP(NP(DP*   -    -   -   -               *         *        *        (ARG0*     -
+bn/cbs/01/cbs_0140   0    2      一    CD             (QP*   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0    3      名     M          (CLP*)))  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0    4     得奖    VV   (CP(CP(IP(VP*))  -   01   -   -               *       (V*)       *             *     -
+bn/cbs/01/cbs_0140   0    5      的   DEC               *))  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0    6    亚洲人    NN            (NP*))  -    -   -   -            (LOC)   (ARG0*)       *             *     -
+bn/cbs/01/cbs_0140   0    7     南韩    NR          (NP(NP*)  -    -   -   -            (GPE)        *        *             *     -
+bn/cbs/01/cbs_0140   0    8     总统    NN            (NP*))  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0    9    金大中    NR            (NP*))  -    -   -   -         (PERSON)        *        *             *)    -
+bn/cbs/01/cbs_0140   0   10      则    AD     (VP(VP(ADVP*)  -    -   -   -               *         *        *    (ARGM-DIS*)    -
+bn/cbs/01/cbs_0140   0   11      以     P             (PP*   -    -   -   -               *         *        *    (ARGM-MNR*     -
+bn/cbs/01/cbs_0140   0   12     推动    VV          (IP(VP*   -   02   1   -               *         *      (V*)            *     -
+bn/cbs/01/cbs_0140   0   13      南    NN       (NP(NP(NP*   -    -   -   -           (GPE*         *   (ARG1*             *     -
+bn/cbs/01/cbs_0140   0   14      北    NN                *)  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   15      韩    NR            (NP*))  -    -   -   -               *)        *        *             *     -
+bn/cbs/01/cbs_0140   0   16     和解    NN         (NP*)))))  -    -   -   -               *         *        *)            *)    -
+bn/cbs/01/cbs_0140   0   17      而   MSP             (VP*   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   18     获颁    VV             (VP*   -   01   -   -               *         *        *           (V*)    -
+bn/cbs/01/cbs_0140   0   19     今年    NT      (NP(DNP(NP*)  -    -   -   -           (DATE)        *        *        (ARG1*     -
+bn/cbs/01/cbs_0140   0   20      的   DEG                *)  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   21      “    PU                *   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   22    诺贝尔    NR             (NP*)  -    -   -   -   (WORK_OF_ART*         *        *             *    (1)
+bn/cbs/01/cbs_0140   0   23     和平    NN             (NP*   -    -   1   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   24      奖    NN            *)))))  -    -   -   -               *)        *        *             *)    -
+bn/cbs/01/cbs_0140   0   25      ”    PU                *   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   26      ，    PU                *   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   27     并且    AD        (VP(ADVP*)  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   28      于     P             (PP*   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   29      这    DT             (DP*   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   30      一    CD             (QP*   -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   31      次     M         (CLP*))))  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   32      在     P             (PP*   -    -   2   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   33     挪威    NR   (NP(NP(DNP(NP*)  -    -   -   -            (GPE)        *        *             *     -
+bn/cbs/01/cbs_0140   0   34      的   DEG                *)  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   35     首都    NN            (NP*))  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   36    奥斯陆    NR           (NP*)))  -    -   -   -            (GPE)        *        *             *     -
+bn/cbs/01/cbs_0140   0   37     授奖    VV           (VP*)))  -    -   -   -               *         *        *             *     -
+bn/cbs/01/cbs_0140   0   38      。    PU               *))  -    -   -   -               *         *        *             *     -
+
+#end document

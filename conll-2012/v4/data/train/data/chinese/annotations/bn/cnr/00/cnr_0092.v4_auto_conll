@@ -1,0 +1,62 @@
+#begin document (bn/cnr/00/cnr_0092); part 000
+bn/cnr/00/cnr_0092   0    0      天津    NR     (TOP(IP(NP(NP*)   -   -   -   -   *        (ARG0*   -
+bn/cnr/00/cnr_0092   0    1      汽车    NN               (NP*    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0    2      集团    NN                  *    -   -   1   -   *             *   -
+bn/cnr/00/cnr_0092   0    3      公司    NN                 *))   -   -   1   -   *             *)  -
+bn/cnr/00/cnr_0092   0    4      引进    VV            (VP(VP*    -   -   1   -   *             *   -
+bn/cnr/00/cnr_0092   0    5      日本    NR         (NP(NP(NP*)   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0    6      丰田    NR               (NP*    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0    7      汽车    NN                  *    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0    8      公司    NN                  *)   -   -   1   -   *             *   -
+bn/cnr/00/cnr_0092   0    9      最新    JJ             (ADJP*)   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   10      车型    NN              (NP*))   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   11       和    CC                  *    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   12      先进    JJ   (NP(DNP(NP(ADJP*)   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   13      生产    NN               (NP*    -   -   3   -   *             *   -
+bn/cnr/00/cnr_0092   0   14      技术    NN                 *))   -   -   1   -   *             *   -
+bn/cnr/00/cnr_0092   0   15       的   DEG                  *)   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   16       “    PU                  *    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   17      夏利    NR               (NP*)   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   18    ２０００    CD               (QP*)   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   19       ”    PU                  *    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   20       新    JJ          (NP(ADJP*)   -   -   1   -   *             *   -
+bn/cnr/00/cnr_0092   0   21       款    NN              (NP*))   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   22      轿车    NN            (NP*))))   -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   23       ，    PU                  *    -   -   -   -   *             *   -
+bn/cnr/00/cnr_0092   0   24      昨天    NT            (VP(NP*)   -   -   1   -   *    (ARGM-TMP*)  -
+bn/cnr/00/cnr_0092   0   25      正式    AD             (ADVP*)   -   -   -   -   *    (ARGM-ADV*)  -
+bn/cnr/00/cnr_0092   0   26      下线    VV             (VP*)))   下线  -   -   -   *           (V*)  -
+bn/cnr/00/cnr_0092   0   27       。    PU                 *))   -   -   -   -   *             *   -
+
+bn/cnr/00/cnr_0092   0    0       作为     P      (TOP(IP(IP(PP*    -   -   1   -   *   (ARGM-MNR*   (ARGM-MNR*   -
+bn/cnr/00/cnr_0092   0    1       小型    JJ           (NP(ADJP*)   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0    2       高档    JJ              (ADJP*)   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0    3       轿车    NN              (NP*)))   -   -   -   -   *            *)           *)  -
+bn/cnr/00/cnr_0092   0    4        其    PN             (NP(NP*)   -   -   -   -   *       (ARG0*       (ARG0*   -
+bn/cnr/00/cnr_0092   0    5       动力    NN                (NP*    -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0    6       性能    NN                  *))   -   -   -   -   *            *)           *)  -
+bn/cnr/00/cnr_0092   0    7       居于    VV             (VP(VP*    居于  -   -   -   *          (V*)           *   -
+bn/cnr/00/cnr_0092   0    8        同    DT   (NP(DNP(NP(NP(DP*)   -   -   -   -   *       (ARG1*            *   -
+bn/cnr/00/cnr_0092   0    9       类型    NN               (NP*))   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   10        车    NN               (NP*))   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   11        的   DEG                   *)   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   12       领先    NN                (NP*    -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   13       地位    NN                 *)))   -   -   -   -   *            *)           *   -
+bn/cnr/00/cnr_0092   0   14        ，    PU                   *    -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   15       代表    VV                (VP*    代表  -   1   -   *            *          (V*)  -
+bn/cnr/00/cnr_0092   0   16        了    AS                   *    -   -   -   -   *            *       (ARG1*)  -
+bn/cnr/00/cnr_0092   0   17       当代    NT             (NP(NP*)   -   -   -   -   *            *       (ARG1*   -
+bn/cnr/00/cnr_0092   0   18       汽车    NN                (NP*    -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   19       技术    NN                   *    -   -   1   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   20       国际    NN                   *)   -   -   1   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   21       先进    JJ              (ADJP*)   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   22       水平    NN            (NP*)))))   -   -   1   -   *            *            *)  -
+bn/cnr/00/cnr_0092   0   23        ，    PU                   *    -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   24       售价    NN             (IP(NP*)   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   25    １２．２万    CD         (VP(LCP(QP*    -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   26        到    CC                   *    -   -   7   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   27    １２．３万    CD                   *)   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   28       之间    LC                 *)))   -   -   -   -   *            *            *   -
+bn/cnr/00/cnr_0092   0   29        。    PU                  *))   -   -   -   -   *            *            *   -
+
+#end document

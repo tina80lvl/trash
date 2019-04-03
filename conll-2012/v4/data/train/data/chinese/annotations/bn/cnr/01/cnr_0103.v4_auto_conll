@@ -1,0 +1,341 @@
+#begin document (bn/cnr/01/cnr_0103); part 000
+bn/cnr/01/cnr_0103   0   0    现在    NT      (TOP(IP(VP(NP*)  -   -   -   -   *    -
+bn/cnr/01/cnr_0103   0   1    介绍    VV                (VP*   -   -   1   -   *    -
+bn/cnr/01/cnr_0103   0   2     全    DT   (NP(DNP(NP(NP(DP*)  -   -   2   -   *   (1
+bn/cnr/01/cnr_0103   0   3     国    NN               (NP*))  -   -   1   -   *    1)
+bn/cnr/01/cnr_0103   0   4    媒体    NN               (NP*))  -   -   1   -   *    -
+bn/cnr/01/cnr_0103   0   5     的   DEG                   *)  -   -   -   -   *    -
+bn/cnr/01/cnr_0103   0   6    部分    CD                (QP*)  -   -   -   -   *    -
+bn/cnr/01/cnr_0103   0   7    内容    NN             (NP*))))  -   -   -   -   *    -
+bn/cnr/01/cnr_0103   0   8     。    PU                  *))  -   -   -   -   *    -
+
+bn/cnr/01/cnr_0103   0    0     今天    NT   (TOP(IP(NP(CP(IP(VP(NP*)   -   -   -   -   *    (ARGM-TMP*)       (ARG0*        (ARG0*        (ARG0*        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    1     出版    VV                    (VP*)))   出版  -   -   -   *           (V*)            *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    2      的   DEC                         *)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    3      《    PU                      (NP*    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    4     人民    NN                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    5     日报    NN                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    6      》    PU                        *))   -   -   -   -   *             *             *)            *)            *)       *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    7      ，    PU                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    8      就    AD                 (VP(ADVP*)   -   -   8   -   *             *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)       *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0    9      在     P                      (PP*    -   -   2   -   *             *    (ARGM-LOC*    (ARGM-LOC*    (ARGM-LOC*        *        *      *    (ARGM-LOC*      *   (ARGM-LOC*      *             *     -
+bn/cnr/01/cnr_0103   0   10     农村    NN                     (NP*))   -   -   -   -   *             *             *)            *)            *)       *        *      *             *)     *            *)     *             *     -
+bn/cnr/01/cnr_0103   0   11     开展    VV                   (VP(VP*    开展  -   -   -   *             *           (V*)            *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   12      “    PU                   (NP(NP*    -   -   -   -   *             *        (ARG1*             *             *        *        *      *             *      *            *      *             *    (4
+bn/cnr/01/cnr_0103   0   13      三    CD                      (QP*    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   14      个     M                    (CLP*))   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   15     代表    NN                      (NP*)   -   -   1   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   16      ”    PU                         *)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   17     重要    JJ                    (ADJP*)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   18     思想    NN                      (NP*    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   19     学习    NN                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   20     教育    NN                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   21     活动    NN                       *)))   -   -   2   -   *             *             *)            *             *        *        *      *             *      *            *      *             *     4)
+bn/cnr/01/cnr_0103   0   22     发表    VV                   (VP(VP*    发表  -   -   -   *             *             *           (V*)            *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   23     评论    NN                     (NP*))   -   -   -   -   *             *             *        (ARG1*)            *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   24     指出    VV                      (VP*    指出  -   -   -   *             *             *             *           (V*)       *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   25      ：    PU                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   26     今冬    NT                (IP(IP(NP*    -   -   -   -   *             *             *             *        (ARG1*   (ARG0*        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   27     明春    NT                         *)   -   -   -   -   *             *             *             *             *        *)       *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   28      是    VC                      (VP*     是  -   1   -   *             *             *             *             *      (V*)       *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   29     开展    VV             (NP(CP(IP(VP*    开展  -   -   -   *             *             *             *             *   (ARG1*      (V*)     *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   30     学习    NN                      (NP*    -   -   -   -   *             *             *             *             *        *   (ARG1*      *             *      *            *      *             *    (4
+bn/cnr/01/cnr_0103   0   31     教育    NN                       *)))   -   -   -   -   *             *             *             *             *        *        *)     *             *      *            *      *             *     4)
+bn/cnr/01/cnr_0103   0   32      的   DEC                         *)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   33     关键    NN                      (NP*    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   34     时期    NN                      *))))   -   -   -   -   *             *             *             *             *        *)       *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   35      ，    PU                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   36      要    VV                   (IP(VP*     要  -   3   -   *             *             *             *             *        *        *    (V*)        (REL*)     *            *      *             *     -
+bn/cnr/01/cnr_0103   0   37      开    VV               (VP(VP(VRD*     开  -   4   -   *             *             *             *             *        *        *      *           (V*)     *            *      *             *     -
+bn/cnr/01/cnr_0103   0   38      好    VA                         *)    好  -   8   -   *             *             *             *             *        *        *      *    (ARGM-ADV*)   (V*)           *      *             *     -
+bn/cnr/01/cnr_0103   0   39      局    NN                     (NP*))   -   -   -   -   *             *             *             *             *        *        *      *        (ARG1*)     *            *      *             *     -
+bn/cnr/01/cnr_0103   0   40      ，    PU                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   41      起    VV                  (VP(VRD*     起  -   2   -   *             *             *             *             *        *        *      *             *      *          (V*)     *             *     -
+bn/cnr/01/cnr_0103   0   42      好    VA                         *)    好  -   1   -   *             *             *             *             *        *        *      *             *      *       (ARG1*)   (V*)            *     -
+bn/cnr/01/cnr_0103   0   43      步    NN                     (NP*))   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   44      ，    PU                         *    -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   45     牢牢    AD                 (VP(ADVP*)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *    (ARGM-ADV*)    -
+bn/cnr/01/cnr_0103   0   46     把握    VV                      (VP*    把握  -   -   -   *             *             *             *             *        *        *      *             *      *            *      *           (V*)    -
+bn/cnr/01/cnr_0103   0   47     工作    NN               (NP(DNP(NP*)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *        (ARG1*    (4)
+bn/cnr/01/cnr_0103   0   48      的   DEG                         *)   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+bn/cnr/01/cnr_0103   0   49    主动权    NN           (NP*))))))))))))   -   -   -   -   *             *             *             *             *)       *        *      *             *      *            *      *             *)    -
+bn/cnr/01/cnr_0103   0   50      。    PU                        *))   -   -   -   -   *             *             *             *             *        *        *      *             *      *            *      *             *     -
+
+bn/cnr/01/cnr_0103   0    0    年终    NT     (TOP(IP(NP*    -   -   -   -   *   (ARGM-TMP*         *             *    (ARGM-TMP*    -
+bn/cnr/01/cnr_0103   0    1    岁尾    NT               *)   -   -   -   -   *            *)        *             *             *)   -
+bn/cnr/01/cnr_0103   0    2     ，    PU               *    -   -   -   -   *            *         *             *             *    -
+bn/cnr/01/cnr_0103   0    3    农民    NN     (NP(DNP(NP*    -   -   -   -   *       (ARG0*         *        (ARG0*        (ARG0*   (5
+bn/cnr/01/cnr_0103   0    4    收入    NN               *)   -   -   -   -   *            *         *             *             *    -
+bn/cnr/01/cnr_0103   0    5     的   DEG               *)   -   -   -   -   *            *         *             *             *    -
+bn/cnr/01/cnr_0103   0    6    统计    NN            (NP*    -   -   -   -   *            *         *             *             *    -
+bn/cnr/01/cnr_0103   0    7    数字    NN              *))   -   -   -   -   *            *)        *             *)            *)   -
+bn/cnr/01/cnr_0103   0    8    应该    VV            (VP*    应该  -   -   -   *          (V*)        *             *             *    -
+bn/cnr/01/cnr_0103   0    9     由     P         (VP(PP*    -   -   1   -   *            *         *        (ARG0*)       (ARG0*    -
+bn/cnr/01/cnr_0103   0   10     谁    PN   (NP(CP(IP(NP*)   -   -   -   -   *            *    (ARG0*)       (ARG0*)            *    -
+bn/cnr/01/cnr_0103   0   11     说    VV        (VP(VNV*     说  -   7   -   *            *       (V*)        (REL*)            *    -
+bn/cnr/01/cnr_0103   0   12     了    AS               *    -   -   -   -   *            *         *    (ARGM-ADV*)            *    -
+bn/cnr/01/cnr_0103   0   13     算    VV             *)))    算  -   2   -   *            *         *           (V*)            *    -
+bn/cnr/01/cnr_0103   0   14     的   DEC               *)   -   -   -   -   *            *         *             *             *    -
+bn/cnr/01/cnr_0103   0   15    话题    NN          (NP*)))   -   -   -   -   *            *         *             *             *)   5)
+bn/cnr/01/cnr_0103   0   16    再次    AD          (ADVP*)   -   -   -   -   *            *         *             *    (ARGM-ADV*)   -
+bn/cnr/01/cnr_0103   0   17    引起    VV            (VP*    引起  -   -   -   *            *         *        (ARG1*           (V*)   -
+bn/cnr/01/cnr_0103   0   18    人们    NN     (NP(DNP(NP*)   -   -   -   -   *            *         *             *        (ARG1*    -
+bn/cnr/01/cnr_0103   0   19     的   DEG               *)   -   -   -   -   *            *         *             *             *    -
+bn/cnr/01/cnr_0103   0   20    关注    NN        (NP*)))))   -   -   -   -   *            *         *             *)            *)   -
+bn/cnr/01/cnr_0103   0   21     。    PU              *))   -   -   -   -   *            *         *             *             *    -
+
+bn/cnr/01/cnr_0103   0    0       《   PU  (TOP(IP(NP*      -   -   -   -   *      *       (ARG0*      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    1      农民   NN            *      -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    2      日报   NN            *      -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    3       》   PU            *)     -   -   -   -   *      *            *)     *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    4       为    P      (VP(PP*      -   -   5   -   *      *   (ARGM-PRP*      *    (ARGM-PRP*      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    5       此   PN        (NP*))     -   -   -   -   *      *            *)     *             *)     *      *             *             *    (5)
+bn/cnr/01/cnr_0103   0    6      撰文   VV     (VP(VSB*      撰文  -   -   -   *    (V*)      (ARG0*)     *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    7      指出   VV            *)     指出  -   -   -   *      *          (V*)     *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    8       ：   PU            *      -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0    9      乡镇   NN      (IP(NP*      -   -   -   -   *      *       (ARG1*      *        (ARG0*      *      *        (ARG0*             *     -
+bn/cnr/01/cnr_0103   0   10      领导   NN            *)     -   -   -   -   *      *            *      *             *)     *      *             *)            *     -
+bn/cnr/01/cnr_0103   0   11       要   VV      (VP(VP*       要  -   3   -   *      *            *    (V*)            *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   12      尽快   AD    (VP(ADVP*)     -   -   -   -   *      *            *      *    (ARGM-ADV*)     *      *             *             *     -
+bn/cnr/01/cnr_0103   0   13       把   BA         (VP*      -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   14       这   DT   (IP(NP(DP*      -   -   -   -   *      *            *      *        (ARG1*      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   15       一   CD        (QP*))     -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   16      权力   NN        (NP*))     -   -   -   -   *      *            *      *             *)     *      *             *             *     -
+bn/cnr/01/cnr_0103   0   17      交还   VV     (VP(VRD*      交还  -   -   -   *      *            *      *           (V*)     *      *             *             *     -
+bn/cnr/01/cnr_0103   0   18       给   VV            *)      给  -   -   -   *      *            *      *        (ARG2*)   (V*)     *             *             *     -
+bn/cnr/01/cnr_0103   0   19     统计员   NN    (NP*))))))     -   -   -   -   *      *            *      *        (ARG2*)     *      *             *             *     -
+bn/cnr/01/cnr_0103   0   20       ，   PU            *      -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   21      千万   AD    (VP(ADVP*)     -   -   -   -   *      *            *      *             *      *      *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0103   0   22       不   AD       (ADVP*)     -   -   -   -   *      *            *      *             *      *      *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0103   0   23       要   VV         (VP*       要  -   3   -   *      *            *      *             *      *    (V*)            *             *     -
+bn/cnr/01/cnr_0103   0   24       再   AD    (VP(ADVP*)     -   -   1   -   *      *            *      *             *      *      *    (ARGM-ADV*)   (ARGM-DIS*)    -
+bn/cnr/01/cnr_0103   0   25       让   VV         (VP*       让  -   2   -   *      *            *      *             *      *      *           (V*)            *     -
+bn/cnr/01/cnr_0103   0   26     拍脑袋   NN      (NP(NP*      -   -   -   -   *      *            *      *             *      *      *        (ARG1*             *     -
+bn/cnr/01/cnr_0103   0   27      数字   NN            *)     -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   28       ，   PU            *      -   -   -   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   29      研究   NN         (NP*      -   -   4   -   *      *            *      *             *      *      *             *             *     -
+bn/cnr/01/cnr_0103   0   30      数字   NN           *))     -   -   -   -   *      *            *      *             *      *      *             *)            *     -
+bn/cnr/01/cnr_0103   0   31    泛滥成灾   VV      (IP(VP*    泛滥成灾  -   -   -   *      *            *      *             *      *      *        (ARG2*           (V*)    -
+bn/cnr/01/cnr_0103   0   32       了   AS   *))))))))))     -   -   -   -   *      *            *)     *             *      *      *             *)       (ARG1*)    -
+bn/cnr/01/cnr_0103   0   33       。   PU           *))     -   -   -   -   *      *            *      *             *      *      *             *             *     -
+
+bn/cnr/01/cnr_0103   0   0      假   JJ   (TOP(CP(IP(NP(ADJP*)  -   -   -   -   *        (ARG1*        (ARG1*   -
+bn/cnr/01/cnr_0103   0   1      药   NN                 (NP*))  -   -   -   -   *             *)            *)  -
+bn/cnr/01/cnr_0103   0   2    为什么   AD             (VP(ADVP*)  -   -   -   -   *    (ARGM-ADV*)            *   -
+bn/cnr/01/cnr_0103   0   3      屡   AD                (ADVP*)  -   -   -   -   *    (ARGM-ADV*)            *   -
+bn/cnr/01/cnr_0103   0   4      禁   VV                  (VP*    禁  -   1   -   *           (V*)            *   -
+bn/cnr/01/cnr_0103   0   5      不   AD          (IP(VP(ADVP*)  -   -   -   -   *        (ARG1*    (ARGM-ADV*)  -
+bn/cnr/01/cnr_0103   0   6      止   VV             (VP*))))))   止  -   1   -   *             *)          (V*)  -
+bn/cnr/01/cnr_0103   0   7      呢   SP                     *   -   -   -   -   *             *             *   -
+bn/cnr/01/cnr_0103   0   8      ？   PU                    *))  -   -   -   -   *             *             *   -
+
+bn/cnr/01/cnr_0103   0   0    造假者   NN   (TOP(CP(IP(NP*)  -   -   -   -   *        (ARG0*)            *   -
+bn/cnr/01/cnr_0103   0   1      又   AD        (VP(ADVP*)  -   -   -   -   *    (ARGM-ADV*)            *   -
+bn/cnr/01/cnr_0103   0   2    为什么   AD           (ADVP*)  -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)  -
+bn/cnr/01/cnr_0103   0   3      屡   AD           (ADVP*)  -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)  -
+bn/cnr/01/cnr_0103   0   4      试   VV         (VP(VPT*    试  -   1   -   *           (V*)   (ARGM-ADV*)  -
+bn/cnr/01/cnr_0103   0   5      不   AD                *   -   -   -   -   *        (ARG1*)   (ARGM-ADV*)  -
+bn/cnr/01/cnr_0103   0   6      少   VA             *))))   少  -   2   -   *    (ARGM-ADV*)          (V*)  -
+bn/cnr/01/cnr_0103   0   7      呢   SP                *   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)  -
+bn/cnr/01/cnr_0103   0   8      ？   PU               *))  -   -   -   -   *             *             *   -
+
+bn/cnr/01/cnr_0103   0    0       《    PU          (TOP(IP(NP*      -   -   -   -   *             *        *       (ARG0*         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    1      中国    NR                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    2     医药报    NN                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    3       》    PU                    *)     -   -   -   -   *             *        *            *)        *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    4       在     P              (VP(PP*      -   -   2   -   *             *        *   (ARGM-TMP*         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    5      深入    AD     (LCP(IP(VP(ADVP*)     -   -   -   -   *    (ARGM-ADV*)       *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    6      剖析    VV                 (VP*      剖析  -   -   -   *           (V*)       *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    7      震惊    VV        (NP(CP(IP(VP*      震惊  -   -   -   *        (ARG1*      (V*)           *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0    8       全    DT              (NP(DP*)     -   -   2   -   *             *   (ARG1*            *         *        *        *      *      *         *         *            *   (1
+bn/cnr/01/cnr_0103   0    9       国    NN              (NP*))))     -   -   1   -   *             *        *)           *         *        *        *      *      *         *         *            *    1)
+bn/cnr/01/cnr_0103   0   10       的   DEC                    *)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   11      四川    NR                 (NP*      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   12      南冲    NR                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   13     假药案    NN                *)))))     -   -   -   -   *             *)       *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   14      之后    LC                   *))     -   -   -   -   *             *        *            *)        *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   15      指出    VV                 (VP*      指出  -   -   -   *             *        *          (V*)        *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   16       ：    PU                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   17      贪官    NN           (IP(IP(NP*)     -   -   -   -   *             *        *       (ARG1*    (ARG0*)       *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   18       与     P              (VP(PP*      -   -   -   -   *             *        *            *    (ARG1*        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   19      奸商    NN          (NP(DNP(NP*)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   20       的   DEG                    *)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   21      狼狈    NN               (NP*)))     -   -   -   -   *             *        *            *         *)       *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   22      勾结    VV               (VP*)))     勾结  -   -   -   *             *        *            *       (V*)       *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   23       ，    PU                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   24      造假    NN       (IP(NP(DNP(NP*      -   -   -   -   *             *        *            *         *   (ARG0*        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   25       与    CC                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   26      售假    NN                    *)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   27       的   DEG                    *)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   28    沆瀣一气    NN                (NP*))     -   -   -   -   *             *        *            *         *        *)       *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   29      成为    VV                 (VP*      成为  -   -   -   *             *        *            *         *      (V*)       *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   30       假    JJ   (NP(CP(IP(NP(ADJP*)     -   -   -   -   *             *        *            *         *   (ARG1*   (ARG0*      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   31       药    NN                (NP*))     -   -   -   -   *             *        *            *         *        *        *)     *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   32      泛滥    VV                (VP*))     泛滥  -   -   -   *             *        *            *         *        *      (V*)     *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   33       的   DEC                    *)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   34      原凶    NN              (NP*))))     -   -   -   -   *             *        *            *         *        *)       *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   35       ，    PU                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   36      打假    VV          (IP(IP(VP*))     打假  -   -   -   *             *        *            *         *        *        *    (V*)     *    (ARG0*)   (ARG0*)           *    -
+bn/cnr/01/cnr_0103   0   37      必须    VV                 (VP*      必须  -   -   -   *             *        *            *         *        *        *      *    (V*)        *         *            *    -
+bn/cnr/01/cnr_0103   0   38    正本清源    VV              (VP(VP*)   正本清源  -   -   -   *             *        *            *         *        *        *      *      *       (V*)        *            *    -
+bn/cnr/01/cnr_0103   0   39       ，    PU                    *      -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   40      挖出    VV                 (VP*      挖出  -   -   -   *             *        *            *         *        *        *      *      *         *       (V*)           *    -
+bn/cnr/01/cnr_0103   0   41       为     P     (NP(CP(IP(VP(PP*      -   -   4   -   *             *        *            *         *        *        *      *      *         *    (ARG1*   (ARGM-BNF*   (0
+bn/cnr/01/cnr_0103   0   42     造假者    NN                (NP*))     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *)   -
+bn/cnr/01/cnr_0103   0   43      撑腰    VV               (VP*)))     撑腰  -   -   -   *             *        *            *         *        *        *      *      *         *         *          (V*)   -
+bn/cnr/01/cnr_0103   0   44       的   DEC                    *)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   45       更    AD          (ADJP(ADVP*)     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   46       大    JJ              (ADJP*))     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+bn/cnr/01/cnr_0103   0   47      蛀虫    NN         (NP*)))))))))     -   -   -   -   *             *        *            *)        *        *        *      *      *         *         *)           *    0)
+bn/cnr/01/cnr_0103   0   48       。    PU                   *))     -   -   -   -   *             *        *            *         *        *        *      *      *         *         *            *    -
+
+bn/cnr/01/cnr_0103   0    0     蛀虫    NR            (TOP(IP(IP(NP*     -   -   -   -   *    (ARGM-TPC*      *        *        *            *             *    (0)
+bn/cnr/01/cnr_0103   0    1     难防    NN                         *)    -   -   -   -   *             *)     *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0    2      ，    PU                         *     -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0    3    粮耗子    NN                      (NP*)    -   -   -   -   *        (ARG0*)     *        *        *            *             *    (6)
+bn/cnr/01/cnr_0103   0    4     同样    AD                 (VP(ADVP*)    -   -   -   -   *    (ARGM-ADV*)     *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0    5      让    VV                      (VP*      让  -   2   -   *           (V*)     *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0    6      人    NN                      (NP*)    -   -   1   -   *        (ARG1*)     *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0    7     头痛    VA               (IP(VP*)))))    头痛  -   -   -   *        (ARG2*)   (V*)       *        *            *             *     -
+bn/cnr/01/cnr_0103   0    8      ，    PU                         *     -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0    9     河南    NR         (IP(NP(DNP(NP(NP*)    -   -   -   -   *             *      *   (ARG0*        *            *             *     -
+bn/cnr/01/cnr_0103   0   10     电台    NN                     (NP*))    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   11      的   DEG                         *)    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   12     消息    NN                     (NP*))    -   -   -   -   *             *      *        *)       *            *             *     -
+bn/cnr/01/cnr_0103   0   13      说    VV                      (VP*      说  -   7   -   *             *      *      (V*)       *            *             *     -
+bn/cnr/01/cnr_0103   0   14      ：    PU                         *     -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   15      在     P       (IP(NP(CP(IP(VP(PP*     -   -   2   -   *             *      *   (ARG1*        *   (ARGM-LOC*             *     -
+bn/cnr/01/cnr_0103   0   16     我们    PN   (NP(CP(IP(NP(DNP(NP(NP*)    -   -   -   -   *             *      *        *   (ARG0*            *             *     -
+bn/cnr/01/cnr_0103   0   17     县委    NN                      (NP*     -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   18     书记    NN                        *))    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   19      的   DEG                         *)    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   20     榜样    NN                     (NP*))    -   -   -   -   *             *      *        *        *)           *             *     -
+bn/cnr/01/cnr_0103   0   21    焦裕禄    VV                     (VP*))   焦裕禄  -   -   -   *             *      *        *      (V*)           *             *     -
+bn/cnr/01/cnr_0103   0   22      的   DEC                         *)    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   23     故乡    NN                    (NP*)))    -   -   -   -   *             *      *        *        *            *)            *     -
+bn/cnr/01/cnr_0103   0   24    兰考县    VV                      (VP*    兰考县  -   -   -   *             *      *        *        *          (V*)            *     -
+bn/cnr/01/cnr_0103   0   25      一    CD                   (NP(QP*     -   -   -   -   *             *      *        *        *       (ARG1*             *     -
+bn/cnr/01/cnr_0103   0   26      个     M                    (CLP*))    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   27      镇    NN                  (NP*)))))    -   -   -   -   *             *      *        *        *            *)            *     -
+bn/cnr/01/cnr_0103   0   28      的   DEC                         *)    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   29    粮管所    NN                     (NP*))    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   30     几乎    AD                 (VP(ADVP*)    -   -   -   -   *             *      *        *        *            *    (ARGM-ADV*)    -
+bn/cnr/01/cnr_0103   0   31      快    AD                    (ADVP*)    -   -   5   -   *             *      *        *        *            *    (ARGM-ADV*)    -
+bn/cnr/01/cnr_0103   0   32      被    LB                      (VP*     -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   33      一    CD                (IP(NP(QP*     -   -   -   -   *             *      *        *        *            *        (ARG0*    (6
+bn/cnr/01/cnr_0103   0   34      群     M                    (CLP*))    -   -   -   -   *             *      *        *        *            *             *     -
+bn/cnr/01/cnr_0103   0   35    粮耗子    NN                     (NP*))    -   -   -   -   *             *      *        *        *            *             *)    6)
+bn/cnr/01/cnr_0103   0   36     掏空    VV                      (VP*     掏空  -   -   -   *             *      *        *        *            *           (V*)    -
+bn/cnr/01/cnr_0103   0   37      了    AS                         *     -   -   -   -   *             *      *        *        *            *        (ARG1*)    -
+bn/cnr/01/cnr_0103   0   38     家底    NN               (NP*))))))))    -   -   -   -   *             *      *        *)       *            *        (ARG1*)    -
+bn/cnr/01/cnr_0103   0   39      。    PU                        *))    -   -   -   -   *             *      *        *        *            *             *     -
+
+bn/cnr/01/cnr_0103   0    0      １０多    CD  (TOP(IP(NP(QP*    -   -   -   -   *   (ARG0*      *   (ARG0*   (ARG0*   (6
+bn/cnr/01/cnr_0103   0    1        名     M          (CLP*))   -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0    2       粮所    JJ          (ADJP*)   -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0    3       职工    NN           (NP*))   -   -   -   -   *        *)     *        *)       *)   6)
+bn/cnr/01/cnr_0103   0    4       利用    VV      (VP(VP(VP*    利用  -   1   -   *      (V*)     *        *        *    -
+bn/cnr/01/cnr_0103   0    5        压    JJ       (NP(ADJP*)   -   -   -   -   *   (ARG1*      *        *        *    -
+bn/cnr/01/cnr_0103   0    6        秤    NN            (NP*    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0    7        坑    NN               *    -   -   2   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0    8        农    NN               *    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0    9        、    PU               *    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0   10        虚    NN             *)))   -   -   -   -   *        *)     *        *        *    -
+bn/cnr/01/cnr_0103   0   11        开    VV            (VP*     开  -   1   -   *        *    (V*)       *        *    -
+bn/cnr/01/cnr_0103   0   12       收购    VV            (VP*    收购  -   -   -   *        *      *      (V*)       *    -
+bn/cnr/01/cnr_0103   0   13       发票    NN         (NP(NP*    -   -   -   -   *        *      *   (ARG1*        *    -
+bn/cnr/01/cnr_0103   0   14        和    CC               *    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0   15      磅码单    NN               *    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0   16        等   ETC               *)   -   -   2   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0   17       手段    NN        (NP*)))))   -   -   -   -   *        *      *        *)       *    -
+bn/cnr/01/cnr_0103   0   18        ，    PU               *    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0   19       造成    VV            (VP*    造成  -   -   -   *        *      *        *      (V*)   -
+bn/cnr/01/cnr_0103   0   20       粮库    NN            (NP*    -   -   -   -   *        *      *        *   (ARG1*    -
+bn/cnr/01/cnr_0103   0   21       亏库    NN               *    -   -   -   -   *        *      *        *        *    -
+bn/cnr/01/cnr_0103   0   22       小麦    NN               *)   -   -   -   -   *        *      *        *        *)   -
+bn/cnr/01/cnr_0103   0   23    ２０００多    CD            (QP*    -   -   -   -   *        *      *        *   (ARG1*    -
+bn/cnr/01/cnr_0103   0   24        吨     M        (CLP*))))   -   -   -   -   *        *      *        *        *)   -
+bn/cnr/01/cnr_0103   0   25        。    PU              *))   -   -   -   -   *        *      *        *        *    -
+
+bn/cnr/01/cnr_0103   0    0     我国    NN       (TOP(IP(IP(NP*)   -   -   -   -   *    (ARG0*)       *             *      *             *             *    (1)
+bn/cnr/01/cnr_0103   0    1      是    VC                 (VP*     是  -   1   -   *       (V*)       *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    2     家电    NN          (NP(DNP(NP*    -   -   -   -   *    (ARG1*        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    3     生产    NN                    *    -   -   3   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    4     消费    NN                    *)   -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    5      的   DEG                    *)   -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    6      大    JJ               (ADJP*)   -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    7      国    NN              (NP*))))   -   -   1   -   *         *)       *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    8      ，    PU                    *    -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0    9     面对     P              (IP(PP*    -   -   -   -   *         *        *    (ARGM-ADV*)     *    (ARGM-MNR*             *     -
+bn/cnr/01/cnr_0103   0   10     使用    VV              (IP(VP*    使用  -   -   -   *         *      (V*)            *      *             *             *    (3
+bn/cnr/01/cnr_0103   0   11      多    CD     (NP(CP(IP(VP(QP*    -   -   3   -   *         *   (ARG1*    (ARGM-TMP*      *             *             *     -
+bn/cnr/01/cnr_0103   0   12      年     M               (CLP*))   -   -   -   -   *         *        *             *)     *             *             *     -
+bn/cnr/01/cnr_0103   0   13     已经    AD            (VP(ADVP*)   -   -   -   -   *         *        *    (ARGM-ADV*)     *             *             *     -
+bn/cnr/01/cnr_0103   0   14     报废    VV             (VP(VRD*    报废  -   -   -   *         *        *           (V*)     *             *             *     -
+bn/cnr/01/cnr_0103   0   15      掉    VV                *)))))    掉  -   1   -   *         *        *        (ARG2*)   (V*)            *             *     -
+bn/cnr/01/cnr_0103   0   16      的   DEC                    *)   -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   17     冰箱    NN                 (NP*    -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   18      、    PU                    *    -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   19    洗衣机    NN                    *    -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   20      、    PU                    *    -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   21    电视机    NN                *)))))   -   -   -   -   *         *        *)            *      *             *)            *     3)
+bn/cnr/01/cnr_0103   0   22      ，    PU                    *    -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   23     我们    PN                 (NP*)   -   -   -   -   *         *        *             *      *        (ARG0*)            *     -
+bn/cnr/01/cnr_0103   0   24     至今    AD            (VP(ADVP*)   -   -   -   -   *         *        *             *      *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0103   0   25      还    AD               (ADVP*)   -   -   -   -   *         *        *             *      *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0103   0   26     没有    AD               (ADVP*)   -   -   2   -   *         *        *             *      *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0103   0   27     找到    VV                 (VP*    找到  -   1   -   *         *        *             *      *           (V*)            *     -
+bn/cnr/01/cnr_0103   0   28     妥善    AD   (NP(CP(IP(VP(ADVP*)   -   -   -   -   *         *        *             *      *        (ARG1*    (ARGM-ADV*)    -
+bn/cnr/01/cnr_0103   0   29     处理    VV               (VP*)))   处理  -   2   -   *         *        *             *      *             *           (V*)    -
+bn/cnr/01/cnr_0103   0   30      的   DEC                    *)   -   -   -   -   *         *        *             *      *             *             *     -
+bn/cnr/01/cnr_0103   0   31     方法    NN             (NP*)))))   -   -   -   -   *         *        *             *      *             *)            *     -
+bn/cnr/01/cnr_0103   0   32      。    PU                   *))   -   -   -   -   *         *        *             *      *             *             *     -
+
+bn/cnr/01/cnr_0103   0    0      家电    NN  (TOP(IP(IP(NP(CP(IP(LCP(NP*      -   -   -   -   *    (ARG0*        (ARG0*        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    1      材料    NN                            *)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    2       中    LC                            *)     -   -   -   -   *         *)            *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    3      含有    VV                        (VP*))     含有  -   -   -   *       (V*)            *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    4       的   DEC                            *)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    5       各    DT                         (DP*      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    6       种     M                       (CLP*))     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    7      有害    JJ                       (ADJP*)     -   -   -   -   *    (ARG1*)            *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    8      化学    NN                         (NP*      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0    9      物质    NN                           *))     -   -   -   -   *         *             *)       *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   10       正    AD                    (VP(ADVP*)     -   -   -   -   *         *    (ARGM-ADV*)       *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   11      威胁    VV                         (VP*      威胁  -   -   -   *         *           (V*)       *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   12       着    AS                            *      -   -   -   -   *         *        (ARG2*)       *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   13      我们    PN                  (NP(DNP(NP*)     -   -   -   -   *         *        (ARG1*        *        *      *             *      *             *      *      *             *        *    (2)
+bn/cnr/01/cnr_0103   0   14       的   DEG                            *)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   15      生存    NN                         (NP*      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   16      环境    NN                        *)))))     -   -   1   -   *         *             *)       *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   17       ，    PU                            *      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   18       《    PU                      (IP(NP*      -   -   -   -   *         *             *   (ARG0*   (ARG0*      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   19      中国    NR                            *      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   20     电子报    NN                            *      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   21       》    PU                            *)     -   -   -   -   *         *             *        *)       *)     *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   22      载文    VV                      (VP(VP*)     载文  -   -   -   *         *             *      (V*)       *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   23      呼吁    VV                         (VP*      呼吁  -   1   -   *         *             *        *      (V*)     *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   24       不    AD                 (IP(VP(ADVP*)     -   -   -   -   *         *             *        *   (ARG1*      *    (ARGM-ADV*)     *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   25       要    VV                         (VP*       要  -   3   -   *         *             *        *        *    (V*)            *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   26       对     P                      (VP(PP*      -   -   3   -   *         *             *        *        *      *        (ARG1*      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   27       此    PN                        (NP*))     -   -   -   -   *         *             *        *        *      *             *)     *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   28    等闲视之    VV                  (VP*))))))))   等闲视之  -   -   -   *         *             *        *        *)     *           (V*)     *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   29       ，    PU                            *      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   30       要    VV                      (IP(VP*       要  -   3   -   *         *             *        *        *      *             *    (V*)            *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   31      积极    AD                    (VP(ADVP*)     -   -   -   -   *         *             *        *        *      *             *      *    (ARGM-ADV*)     *      *             *        *     -
+bn/cnr/01/cnr_0103   0   32      行动    VV                     (VP(VRD*      行动  -   1   -   *         *             *        *        *      *             *      *           (V*)     *      *             *        *     -
+bn/cnr/01/cnr_0103   0   33      起来    VV                        *)))))     起来  -   -   -   *         *             *        *        *      *             *      *             *    (V*)     *             *        *     -
+bn/cnr/01/cnr_0103   0   34       ，    PU                            *      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   35       不    AD                 (IP(VP(ADVP*)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *    (ARGM-ADV*)       *     -
+bn/cnr/01/cnr_0103   0   36       要    VV                         (VP*       要  -   3   -   *         *             *        *        *      *             *      *             *      *    (V*)            *        *     -
+bn/cnr/01/cnr_0103   0   37       让    VV                         (VP*       让  -   2   -   *         *             *        *        *      *             *      *             *      *      *           (V*)       *     -
+bn/cnr/01/cnr_0103   0   38       废    NR                         (NP*      -   -   1   -   *         *             *        *        *      *             *      *             *      *      *        (ARG1*        *    (3
+bn/cnr/01/cnr_0103   0   39      电器    NN                            *)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *)       *     3)
+bn/cnr/01/cnr_0103   0   40       毁    VV                      (IP(VP*       毁  -   1   -   *         *             *        *        *      *             *      *             *      *      *        (ARG2*      (V*)    -
+bn/cnr/01/cnr_0103   0   41       了    AS                            *      -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   42      我们    PN                  (NP(DNP(NP*)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *   (ARG1*    (2)
+bn/cnr/01/cnr_0103   0   43       的   DEG                            *)     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+bn/cnr/01/cnr_0103   0   44      明天    NN                  (NP*))))))))     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *)       *)    -
+bn/cnr/01/cnr_0103   0   45       。    PU                           *))     -   -   -   -   *         *             *        *        *      *             *      *             *      *      *             *        *     -
+
+#end document

@@ -1,0 +1,655 @@
+#begin document (bn/vom/02/vom_0210); part 000
+bn/vom/02/vom_0210   0    0     美国    NR      (TOP(IP(NP(NP(NP*)  -    -   -   -      (ORG*        (ARG0*         *             *             *        (20|(6)
+bn/vom/02/vom_0210   0    1     第七    OD                (NP(QP*)  -    -   -   -          *             *         *             *             *           (12
+bn/vom/02/vom_0210   0    2     舰队    NN                  (NP*))  -    -   -   -          *)            *         *             *             *            12)
+bn/vom/02/vom_0210   0    3     司令    NN                  (NP*))  -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0    4     梅策    NR                   (NP*   -    -   -   -    (PERSON)            *         *             *             *             -
+bn/vom/02/vom_0210   0    5     中将    NN                     *))  -    -   -   -          *             *)        *             *             *            20)
+bn/vom/02/vom_0210   0    6    星期五    NT                (VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)        *             *             *           (14)
+bn/vom/02/vom_0210   0    7      说    VV                   (VP*   -   01   7   -          *           (V*)        *             *             *             -
+bn/vom/02/vom_0210   0    8      ，    PU                      *   -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0    9     由于     P                (IP(PP*   -    -   -   -          *        (ARG1*         *             *    (ARGM-PRP*             -
+bn/vom/02/vom_0210   0   10     中国    NR   (IP(NP(DNP(NP(NP(NP*)  -    -   -   -      (GPE*             *         *        (ARG1*             *   (10|(17|(19
+bn/vom/02/vom_0210   0   11     大陆    NN                  (NP*))  -    -   -   -          *)            *         *             *             *            10)
+bn/vom/02/vom_0210   0   12      与    CC                      *   -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   13     台湾    NR                  (NP*))  -    -   -   -       (GPE)            *         *             *             *            19)
+bn/vom/02/vom_0210   0   14      的   DEG                      *)  -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   15     关系    NN                  (NP*))  -    -   2   -          *             *         *             *)            *            17)
+bn/vom/02/vom_0210   0   16      正    AD              (VP(ADVP*)  -    -   -   -          *             *         *    (ARGM-ADV*)            *             -
+bn/vom/02/vom_0210   0   17     延着     P                   (PP*   -    -   -   -          *             *         *    (ARGM-MNR*             *             -
+bn/vom/02/vom_0210   0   18     积极    VA      (NP(CP(CP(IP(VP*))  -   01   -   -          *             *       (V*)            *             *             -
+bn/vom/02/vom_0210   0   19      的   DEC                     *))  -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   20     方向    NN                 (NP*)))  -    -   -   -          *             *    (ARG0*)            *)            *             -
+bn/vom/02/vom_0210   0   21     发展    VV                (VP*))))  -   01   4   -          *             *         *           (V*)            *)            -
+bn/vom/02/vom_0210   0   22      ，    PU                      *   -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   23     美国    NR                   (NP*)  -    -   -   -       (GPE)            *         *             *        (ARG0*)           (6)
+bn/vom/02/vom_0210   0   24     因此    AD              (VP(ADVP*)  -    -   -   -          *             *         *             *    (ARGM-DIS*)            -
+bn/vom/02/vom_0210   0   25     能够    VV                   (VP*   -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   26     放松    VV                   (VP*   -   01   -   -          *             *         *             *           (V*)            -
+bn/vom/02/vom_0210   0   27     美国    NR             (NP(NP(NP*)  -    -   -   -      (ORG*             *         *             *        (ARG1*        (21|(6)
+bn/vom/02/vom_0210   0   28     海军    NN                  (NP*))  -    -   -   -          *)            *         *             *             *            21)
+bn/vom/02/vom_0210   0   29      在     P               (DNP(PP*   -    -   2   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   30     东亚    NR                  (NP*))  -    -   -   -       (LOC)            *         *             *             *            (7)
+bn/vom/02/vom_0210   0   31      的   DEG                      *)  -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   32     战备    NN                   (NP*   -    -   -   -          *             *         *             *             *             -
+bn/vom/02/vom_0210   0   33     状态    NN               *))))))))  -    -   -   -          *             *)        *             *             *)            -
+bn/vom/02/vom_0210   0   34      。    PU                     *))  -    -   -   -          *             *         *             *             *             -
+
+bn/vom/02/vom_0210   0    0    下面    NN                (TOP(IP(NP*)  -    -   -   -          *    (ARGM-TMP*)   (ARGM-TMP*)           -
+bn/vom/02/vom_0210   0    1     请    VV                       (VP*   -   01   -   -          *           (V*)            *            -
+bn/vom/02/vom_0210   0    2     听    VV                       (VP*   -   01   -   -          *        (ARG2*           (V*)           -
+bn/vom/02/vom_0210   0    3    美国    NR   (NP(DNP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*             *        (ARG1*   (0|(11|(18
+bn/vom/02/vom_0210   0    4     之   DEG                          *)  -    -   -   -          *             *             *            -
+bn/vom/02/vom_0210   0    5     音    NN                      (NP*))  -    -   -   -          *)            *             *           11)
+bn/vom/02/vom_0210   0    6    记者    NN                      (NP*))  -    -   -   -          *             *             *            -
+bn/vom/02/vom_0210   0    7    江臣    NR                      (NP*))  -    -   -   -    (PERSON)            *             *            0)
+bn/vom/02/vom_0210   0    8     的   DEG                          *)  -    -   -   -          *             *             *            -
+bn/vom/02/vom_0210   0    9    综合    JJ                     (ADJP*)  -    -   -   -          *             *             *            -
+bn/vom/02/vom_0210   0   10    报道    NN                    (NP*))))  -    -   -   -          *             *)            *)          18)
+bn/vom/02/vom_0210   0   11     。    PU                         *))  -    -   -   -          *             *             *            -
+
+bn/vom/02/vom_0210   0    0      据     P              (TOP(IP(PP*   -    -   -   -          *        *         *    (ARGM-MNR*        (ARG2*         *             *             *          -
+bn/vom/02/vom_0210   0    1    法新社    NR               (IP(NP(NP*)  -    -   -   -       (ORG)  (ARG0*         *             *             *         *             *             *    (16|(23)
+bn/vom/02/vom_0210   0    2      和    CC                        *   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0    3      《    PU                     (NP*   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0    4     台北    NR                        *   -    -   -   -      (ORG*        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0    5     时报    NN                        *   -    -   -   -          *)       *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0    6      》    PU                       *))  -    -   -   -          *        *)        *             *             *         *             *             *         16)
+bn/vom/02/vom_0210   0    7     报道    VV                   (VP*)))  -   01   -   -          *      (V*)        *             *)            *)        *             *             *          -
+bn/vom/02/vom_0210   0    8      ：    PU                        *   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0    9     基地    NN   (NP(NP(NP(CP(CP(IP(NP*)  -    -   -   -          *        *    (ARG1*)       (ARG0*        (ARG0*         *             *             *    (12|(20
+bn/vom/02/vom_0210   0   10      设    VV                     (VP*   -   01   -   -          *        *       (V*)            *             *         *             *             *          -
+bn/vom/02/vom_0210   0   11      在     P                     (PP*   -    -   2   -          *        *    (ARG3*             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   12      西    NN                  (NP(NP*)  -    -   -   -      (LOC*        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   13    太平洋    NR                 (NP*)))))  -    -   -   -          *)       *         *)            *             *         *             *             *          -
+bn/vom/02/vom_0210   0   14      的   DEC                       *))  -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   15     美国    NR                     (NP*)  -    -   -   -      (ORG*        *         *             *             *         *             *             *         (6)
+bn/vom/02/vom_0210   0   16     第七    OD                     (QP*)  -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   17     舰队    NN                    (NP*))  -    -   -   -          *)       *    (ARG1*)            *             *         *             *             *         12)
+bn/vom/02/vom_0210   0   18     司令    NN                    (NP*))  -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   19     梅策    NR                     (NP*   -    -   -   -    (PERSON)       *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   20     中将    NN                       *))  -    -   -   -          *        *         *             *)            *)        *             *             *         20)
+bn/vom/02/vom_0210   0   21    星期五    NT                  (VP(NP*)  -    -   -   -      (DATE)       *         *    (ARGM-TMP*)   (ARGM-TMP*)        *             *             *        (14)
+bn/vom/02/vom_0210   0   22     发表    VV                  (VP(VP*   -   01   -   -          *        *         *           (V*)            *         *             *             *          -
+bn/vom/02/vom_0210   0   23     讲话    NN                    (NP*))  -    -   -   -          *        *         *        (ARG1*)            *         *             *             *          -
+bn/vom/02/vom_0210   0   24      说    VV                     (VP*   -   01   7   -          *        *         *             *           (V*)        *             *             *          -
+bn/vom/02/vom_0210   0   25      ，    PU                        *   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   26     由于     P                  (IP(PP*   -    -   -   -          *        *         *             *        (ARG1*         *             *    (ARGM-PRP*          -
+bn/vom/02/vom_0210   0   27     中国    NR           (IP(NP(DNP(NP*   -    -   -   -       (GPE)       *         *             *             *         *        (ARG1*             *    (17|(19
+bn/vom/02/vom_0210   0   28      与    CC                        *   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   29     台湾    NR                        *)  -    -   -   -       (GPE)       *         *             *             *         *             *             *         19)
+bn/vom/02/vom_0210   0   30      的   DEG                        *)  -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   31     关系    NN                    (NP*))  -    -   2   -          *        *         *             *             *         *             *)            *         17)
+bn/vom/02/vom_0210   0   32      正    AD                (VP(ADVP*)  -    -   -   -          *        *         *             *             *         *    (ARGM-ADV*)            *          -
+bn/vom/02/vom_0210   0   33     延着     P                     (PP*   -    -   -   -          *        *         *             *             *         *    (ARGM-MNR*             *          -
+bn/vom/02/vom_0210   0   34     积极    VA        (NP(CP(CP(IP(VP*))  -   01   -   -          *        *         *             *             *       (V*)            *             *          -
+bn/vom/02/vom_0210   0   35      的   DEC                       *))  -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   36     方向    NN                   (NP*)))  -    -   -   -          *        *         *             *             *    (ARG0*)            *)            *          -
+bn/vom/02/vom_0210   0   37     发展    VV                  (VP*))))  -   01   4   -          *        *         *             *             *         *           (V*)            *)         -
+bn/vom/02/vom_0210   0   38      ，    PU                        *   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   39     美国    NR                     (NP*)  -    -   -   -       (GPE)       *         *             *             *         *             *        (ARG0*)        (6)
+bn/vom/02/vom_0210   0   40     因此    AD                (VP(ADVP*)  -    -   -   -          *        *         *             *             *         *             *    (ARGM-DIS*)         -
+bn/vom/02/vom_0210   0   41     能够    VV                     (VP*   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   42     放松    VV                     (VP*   -   01   -   -          *        *         *             *             *         *             *           (V*)         -
+bn/vom/02/vom_0210   0   43     美国    NR               (NP(NP(NP*)  -    -   -   -      (ORG*        *         *             *             *         *             *        (ARG1*     (21|(6)
+bn/vom/02/vom_0210   0   44     海军    NN                    (NP*))  -    -   -   -          *)       *         *             *             *         *             *             *         21)
+bn/vom/02/vom_0210   0   45      在     P                 (DNP(PP*   -    -   2   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   46     东亚    NR                    (NP*))  -    -   -   -       (LOC)       *         *             *             *         *             *             *         (7)
+bn/vom/02/vom_0210   0   47      的   DEG                        *)  -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   48     战备    NN                     (NP*   -    -   -   -          *        *         *             *             *         *             *             *          -
+bn/vom/02/vom_0210   0   49     状态    NN                *)))))))))  -    -   -   -          *        *         *             *             *)        *             *             *)         -
+bn/vom/02/vom_0210   0   50      。    PU                       *))  -    -   -   -          *        *         *             *             *         *             *             *          -
+
+bn/vom/02/vom_0210   0    0     这    DT      (TOP(IP(NP(DP*   -    -   -   -            *   (ARG0*             *             *         *       (16
+bn/vom/02/vom_0210   0    1     两    CD                (QP*   -    -   -   -    (CARDINAL)       *             *             *         *         -
+bn/vom/02/vom_0210   0    2     家     M             (CLP*)))  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0    3    媒体    NN               (NP*))  -    -   -   -            *        *)            *             *         *        16)
+bn/vom/02/vom_0210   0    4    原引    VV             (VP(VP*   -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0    5    梅策    NR         (NP(DNP(NP*)  -    -   -   -      (PERSON)       *             *             *         *    (4|(20)
+bn/vom/02/vom_0210   0    6     的   DEG                   *)  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0    7     话    NN              (NP*)))  -    -   -   -            *        *             *             *         *         4)
+bn/vom/02/vom_0210   0    8     说    VV                (VP*   -   01   8   -            *      (V*)            *             *         *         -
+bn/vom/02/vom_0210   0    9     ：    PU                   *   -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   10     “    PU                (IP*   -    -   -   -            *   (ARG1*             *             *         *         -
+bn/vom/02/vom_0210   0   11    尽管    CS           (CP(ADVP*)  -    -   -   -            *        *    (ARGM-DIS*)   (ARGM-ADV*         *         -
+bn/vom/02/vom_0210   0   12    台湾    NR  (IP(NP(DNP(LCP(NP*   -    -   -   -         (GPE)       *        (ARG1*             *         *       (19
+bn/vom/02/vom_0210   0   13     和    CC                   *   -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   14    中国    NR                   *)  -    -   -   -         (GPE)       *             *             *         *        19)
+bn/vom/02/vom_0210   0   15    之间    LC                   *)  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   16     的   DEG                   *)  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   17    紧张    JJ              (ADJP*)  -    -   1   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   18    关系    NN               (NP*))  -    -   2   -            *        *             *)            *         *         -
+bn/vom/02/vom_0210   0   19    持续    AD           (VP(ADVP*)  -    -   3   -            *        *    (ARGM-ADV*)            *         *         -
+bn/vom/02/vom_0210   0   20    存在    VV             (VP*))))  -   01   -   -            *        *           (V*)            *)        *         -
+bn/vom/02/vom_0210   0   21     ，    PU                   *   -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   22    但是    AD              (ADVP*)  -    -   -   -            *        *             *    (ARGM-DIS*)        *         -
+bn/vom/02/vom_0210   0   23     这    DT             (NP(DP*   -    -   -   -            *        *             *        (ARG0*         *       (19
+bn/vom/02/vom_0210   0   24     两    CD               (QP*))  -    -   -   -    (CARDINAL)       *             *             *         *         -
+bn/vom/02/vom_0210   0   25     大    JJ              (ADJP*)  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   26    敌对    JJ              (ADJP*)  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   27    双方    PN               (NP*))  -    -   -   -            *        *             *             *)        *        19)
+bn/vom/02/vom_0210   0   28    正在    AD           (VP(ADVP*)  -    -   -   -            *        *             *    (ARGM-ADV*)        *         -
+bn/vom/02/vom_0210   0   29    进入    VV                (VP*   -   01   -   -            *        *             *           (V*)        *         -
+bn/vom/02/vom_0210   0   30     有    VE    (NP(CP(CP(IP(VP*   -   03   3   -            *        *             *        (ARG1*       (V*)        -
+bn/vom/02/vom_0210   0   31    意义    NN              (NP*)))  -    -   -   -            *        *             *             *    (ARG1*)        -
+bn/vom/02/vom_0210   0   32     的   DEC                  *))  -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   33    对话    NN          (NP*)))))))  -    -   -   -            *        *)            *             *)   (ARG0*)        -
+bn/vom/02/vom_0210   0   34     。    PU                   *   -    -   -   -            *        *             *             *         *         -
+bn/vom/02/vom_0210   0   35     ”    PU                  *))  -    -   -   -            *        *             *             *         *         -
+
+bn/vom/02/vom_0210   0    0      据     P  (TOP(CP(IP(PP*   -    -   -   -          *      *   (ARGM-MNR*     -
+bn/vom/02/vom_0210   0    1     报道    NN           (NP*))  -    -   -   -          *      *            *)    -
+bn/vom/02/vom_0210   0    2      ：    PU               *   -    -   -   -          *      *            *     -
+bn/vom/02/vom_0210   0    3     梅策    NR            (NP*   -    -   -   -    (PERSON)     *       (ARG0*   (20
+bn/vom/02/vom_0210   0    4     中将    NN               *)  -    -   -   -          *      *            *)   20)
+bn/vom/02/vom_0210   0    5      是    VC            (VP*   -   01   2   -          *    (V*)           *     -
+bn/vom/02/vom_0210   0    6      在     P         (VP(PP*   -    -   2   -          *      *   (ARGM-LOC*     -
+bn/vom/02/vom_0210   0    7     香港    NR     (NP(DNP(NP*)  -    -   -   -       (GPE)     *            *     -
+bn/vom/02/vom_0210   0    8      的   DEG               *)  -    -   -   -          *      *            *     -
+bn/vom/02/vom_0210   0    9     外国    NN            (NP*   -    -   -   -      (FAC*      *            *     -
+bn/vom/02/vom_0210   0   10     记者    NN               *   -    -   -   -          *      *            *     -
+bn/vom/02/vom_0210   0   11    俱乐部    NN             *)))  -    -   -   -          *)     *            *)    -
+bn/vom/02/vom_0210   0   12      讲    VV            (VP*   -   01   2   -          *      *          (V*)    -
+bn/vom/02/vom_0210   0   13      这    DT         (NP(DP*   -    -   -   -          *      *       (ARG1*    (4
+bn/vom/02/vom_0210   0   14      番     M          (CLP*))  -    -   -   -          *      *            *     -
+bn/vom/02/vom_0210   0   15      话    NN       (NP*))))))  -    -   -   -          *      *            *)    4)
+bn/vom/02/vom_0210   0   16      的    SP               *   -    -   -   -          *      *            *     -
+bn/vom/02/vom_0210   0   17      。    PU              *))  -    -   -   -          *      *            *     -
+
+bn/vom/02/vom_0210   0    0      他    PN       (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)            *      *             *         *       (20)
+bn/vom/02/vom_0210   0    1      说    VV              (VP*   -   01   7   -       *       (V*)            *      *             *         *         -
+bn/vom/02/vom_0210   0    2      ：    PU                 *   -    -   -   -       *         *             *      *             *         *         -
+bn/vom/02/vom_0210   0    3      “    PU              (IP*   -    -   -   -       *    (ARG1*             *      *             *         *         -
+bn/vom/02/vom_0210   0    4      在     P              (PP*   -    -   2   -       *         *    (ARGM-ADV*      *             *         *         -
+bn/vom/02/vom_0210   0    5     美国    NR       (LCP(NP(NP*)  -    -   -   -   (ORG*         *             *      *             *         *    (21|(6)
+bn/vom/02/vom_0210   0    6     海军    NN             (NP*))  -    -   -   -       *)        *             *      *             *         *        21)
+bn/vom/02/vom_0210   0    7     看来    LC                *))  -    -   -   -       *         *             *)     *             *         *         -
+bn/vom/02/vom_0210   0    8      ，    PU                 *   -    -   -   -       *         *             *      *             *         *         -
+bn/vom/02/vom_0210   0    9      台    NR           (NP(NP*   -    -   -   -    (GPE)        *        (ARG0*      *             *         *   (17|(19
+bn/vom/02/vom_0210   0   10      、    PU                 *   -    -   -   -       *         *             *      *             *         *         -
+bn/vom/02/vom_0210   0   11      海    NR                 *)  -    -   -   -    (GPE)        *             *      *             *         *        19)
+bn/vom/02/vom_0210   0   12     关系    NN             (NP*))  -    -   2   -       *         *             *)     *             *         *        17)
+bn/vom/02/vom_0210   0   13     已经    AD         (VP(ADVP*)  -    -   -   -       *         *    (ARGM-ADV*)     *             *         *         -
+bn/vom/02/vom_0210   0   14     出现    VV           (VP(VP*   -   01   -   -       *         *           (V*)     *             *         *         -
+bn/vom/02/vom_0210   0   15     缓和    NN             (NP*))  -    -   -   -       *         *        (ARG1*)     *             *         *         -
+bn/vom/02/vom_0210   0   16      ，    PU                 *   -    -   -   -       *         *             *      *             *         *         -
+bn/vom/02/vom_0210   0   17    以至于    VV              (VP*   -    -   -   -       *         *             *      *             *         *         -
+bn/vom/02/vom_0210   0   18     美国    NR        (IP(NP(NP*)  -    -   -   -   (ORG*         *             *      *        (ARG0*         *    (21|(6)
+bn/vom/02/vom_0210   0   19     海军    NN             (NP*))  -    -   -   -       *)        *             *      *             *)        *        21)
+bn/vom/02/vom_0210   0   20     可以    VV              (VP*   -   01   1   -       *         *             *    (V*)            *         *         -
+bn/vom/02/vom_0210   0   21      不    AD         (VP(ADVP*)  -    -   -   -       *         *             *      *    (ARGM-ADV*)        *         -
+bn/vom/02/vom_0210   0   22      再    AD            (ADVP*)  -    -   -   -       *         *             *      *    (ARGM-ADV*)        *         -
+bn/vom/02/vom_0210   0   23      是    VC              (VP*   -   01   1   -       *         *             *      *           (V*)        *         -
+bn/vom/02/vom_0210   0   24     对付    VV  (NP(CP(CP(IP(VP*   -   01   -   -       *         *             *      *        (ARG1*       (V*)        -
+bn/vom/02/vom_0210   0   25     紧急    JJ         (NP(ADJP*)  -    -   -   -       *         *             *      *             *    (ARG1*         -
+bn/vom/02/vom_0210   0   26     情况    NN           (NP*))))  -    -   -   -       *         *             *      *             *         *)        -
+bn/vom/02/vom_0210   0   27      的   DEC                *))  -    -   -   -       *         *             *      *             *         *         -
+bn/vom/02/vom_0210   0   28     力量    NN    (NP*)))))))))))  -    -   -   -       *         *)            *      *             *)   (ARG0*)        -
+bn/vom/02/vom_0210   0   29      。    PU                *))  -    -   -   -       *         *             *      *             *         *         -
+
+bn/vom/02/vom_0210   0    0     ”   PU         (TOP(IP*   -    -   -   -       *         *         *             *             *             *         *      -
+bn/vom/02/vom_0210   0    1     他   PN             (NP*)  -    -   -   -       *    (ARG0*)        *             *             *             *         *    (20)
+bn/vom/02/vom_0210   0    2     说   VV             (VP*   -   01   7   -       *       (V*)        *             *             *             *         *      -
+bn/vom/02/vom_0210   0    3     ，   PU                *   -    -   -   -       *         *         *             *             *             *         *      -
+bn/vom/02/vom_0210   0    4     他   PN          (IP(NP*)  -    -   -   -       *    (ARG1*    (ARG0*)            *             *             *         *    (20)
+bn/vom/02/vom_0210   0    5    预见   VV             (VP*   -   01   -   -       *         *       (V*)            *             *             *         *      -
+bn/vom/02/vom_0210   0    6    美国   NR          (IP(NP*)  -    -   -   -    (GPE)        *    (ARG1*        (ARG0*)       (ARG0*)       (ARG0*)        *     (6)
+bn/vom/02/vom_0210   0    7     将   AD        (VP(ADVP*)  -    -   -   -       *         *         *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)        *      -
+bn/vom/02/vom_0210   0    8    继续   VV          (VP(VP*   -   01   -   -       *         *         *           (V*)            *             *         *      -
+bn/vom/02/vom_0210   0    9    发挥   VV             (VP*   -   01   1   -       *         *         *        (ARG1*           (V*)            *         *      -
+bn/vom/02/vom_0210   0   10    作用   NN           (NP*)))  -    -   -   -       *         *         *             *)       (ARG1*)            *         *      -
+bn/vom/02/vom_0210   0   11     ，   PU                *   -    -   -   -       *         *         *             *             *             *         *      -
+bn/vom/02/vom_0210   0   12     使   VV             (VP*   -   01   -   -       *         *         *             *             *           (V*)        *      -
+bn/vom/02/vom_0210   0   13    双方   PN             (NP*)  -    -   -   -       *         *         *             *             *        (ARG1*)        *    (19)
+bn/vom/02/vom_0210   0   14    能够   VV          (IP(VP*   -    -   -   -       *         *         *             *             *        (ARG2*         *      -
+bn/vom/02/vom_0210   0   15    实现   VV             (VP*   -   01   -   -       *         *         *             *             *             *       (V*)     -
+bn/vom/02/vom_0210   0   16    对话   NN   (NP*)))))))))))  -    -   -   -       *         *)        *)            *             *             *)   (ARG1*)     -
+bn/vom/02/vom_0210   0   17     。   PU               *))  -    -   -   -       *         *         *             *             *             *         *      -
+
+bn/vom/02/vom_0210   0    0     但是    AD   (TOP(IP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)            *      *             *         -
+bn/vom/02/vom_0210   0    1      《    PU            (NP*   -    -   -   -            *        (ARG2*             *      *             *        (1
+bn/vom/02/vom_0210   0    2     台北    NR               *   -    -   -   -        (ORG*             *             *      *             *         -
+bn/vom/02/vom_0210   0    3     时报    NN               *   -    -   -   -            *)            *             *      *             *         -
+bn/vom/02/vom_0210   0    4      》    PU               *)  -    -   -   -            *             *)            *      *             *         1)
+bn/vom/02/vom_0210   0    5      说    VV            (VP*   -   01   8   -            *           (V*)            *      *             *         -
+bn/vom/02/vom_0210   0    6      ：    PU               *   -    -   -   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0    7     中国    NR         (IP(NP*)  -    -   -   -         (GPE)       (ARG1*        (ARG0*)     *        (ARG0*)      (10)
+bn/vom/02/vom_0210   0    8      对     P      (VP(VP(PP*   -    -   3   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0    9      两    CD      (NP(NP(QP*)  -    -   -   -    (CARDINAL)            *             *      *             *   (17|(19
+bn/vom/02/vom_0210   0   10      岸    NN           (NP*))  -    -   -   -            *             *             *      *             *        19)
+bn/vom/02/vom_0210   0   11     关系    NN          (NP*)))  -    -   2   -            *             *             *      *             *        17)
+bn/vom/02/vom_0210   0   12     并不    AD          (ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)     *             *         -
+bn/vom/02/vom_0210   0   13      抱    VV            (VP*   -   01   1   -            *             *           (V*)     *             *         -
+bn/vom/02/vom_0210   0   14     同样    JJ   (NP(DNP(ADJP*)  -    -   -   -            *             *        (ARG1*      *             *         -
+bn/vom/02/vom_0210   0   15      的   DEG               *)  -    -   -   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0   16     乐观    JJ          (ADJP*)  -    -   -   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0   17     态度    NN         (NP*))))  -    -   -   -            *             *             *)     *             *         -
+bn/vom/02/vom_0210   0   18      ，    PU               *   -    -   -   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0   19      而    AD       (VP(ADVP*)  -    -   -   -            *             *             *      *    (ARGM-DIS*)        -
+bn/vom/02/vom_0210   0   20      是    VC            (VP*   -   01   2   -            *             *             *    (V*)            *         -
+bn/vom/02/vom_0210   0   21     一直    AD       (VP(ADVP*)  -    -   -   -            *             *             *      *    (ARGM-ADV*)        -
+bn/vom/02/vom_0210   0   22      在    AD          (ADVP*)  -    -   5   -            *             *             *      *    (ARGM-ADV*)        -
+bn/vom/02/vom_0210   0   23     批评    VV            (VP*   -   01   1   -            *             *             *      *           (V*)        -
+bn/vom/02/vom_0210   0   24     台湾    NR      (NP(NP(NP*)  -    -   -   -         (GPE)            *             *      *        (ARG1*    (13|(3)
+bn/vom/02/vom_0210   0   25     当选    JJ          (ADJP*)  -    -   -   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0   26     总统    NN           (NP*))  -    -   -   -            *             *             *      *             *         -
+bn/vom/02/vom_0210   0   27    陈水扁    NR    (NP*)))))))))  -    -   -   -      (PERSON)            *)            *      *             *)       13)
+bn/vom/02/vom_0210   0   28      。    PU              *))  -    -   -   -            *             *             *      *             *         -
+
+bn/vom/02/vom_0210   0    0      《    PU     (TOP(IP(NP*   -    -   -   -          *   (ARG0*        *         *      *             *      *             *        (1
+bn/vom/02/vom_0210   0    1     台北    NR               *   -    -   -   -      (ORG*        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0    2     时报    NN               *   -    -   -   -          *)       *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0    3      》    PU               *)  -    -   -   -          *        *)       *         *      *             *      *             *         1)
+bn/vom/02/vom_0210   0    4     指出    VV            (VP*   -   01   -   -          *      (V*)       *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0    5      ，    PU               *   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0    6     中国    NR   (IP(NP(NP(NP*)  -    -   -   -      (ORG*   (ARG1*   (ARG0*         *      *             *      *             *       (10)
+bn/vom/02/vom_0210   0    7    国台办    NN            (NP*)  -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0    8     新闻    NN            (NP*   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0    9     局长    NN              *))  -    -   -   -          *)       *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   10    张宁清    NR           (NP*))  -    -   -   -    (PERSON)       *        *)        *      *             *      *             *         -
+bn/vom/02/vom_0210   0   11     指责    VV            (VP*   -   02   1   -          *        *      (V*)        *      *             *      *             *         -
+bn/vom/02/vom_0210   0   12    陈水扁    NR   (NP(CP(IP(NP*)  -    -   -   -    (PERSON)       *   (ARG1*    (ARG0*)     *             *      *             *       (13)
+bn/vom/02/vom_0210   0   13      所   MSP            (VP*   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   14      说    VV         (VP*))))  -   01   7   -          *        *        *       (V*)     *             *      *             *         -
+bn/vom/02/vom_0210   0   15      ，    PU               *   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   16      “    PU            (CP*   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   17      台    NR      (IP(NP(NP*   -    -   -   -       (GPE)       *        *         *      *        (ARG0*      *             *   (17|(19
+bn/vom/02/vom_0210   0   18      、    PU               *   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   19      海    NR               *)  -    -   -   -       (GPE)       *        *         *      *             *      *             *        19)
+bn/vom/02/vom_0210   0   20     关系    NN           (NP*))  -    -   2   -          *        *        *         *      *             *)     *             *        17)
+bn/vom/02/vom_0210   0   21     明年    NT         (VP(NP*)  -    -   -   -      (DATE)       *        *         *      *    (ARGM-TMP*)     *             *         -
+bn/vom/02/vom_0210   0   22      不    AD          (ADVP*)  -    -   -   -          *        *        *         *      *    (ARGM-ADV*)     *             *         -
+bn/vom/02/vom_0210   0   23      会    VV            (VP*   -   01   -   -          *        *        *         *    (V*)            *      *             *         -
+bn/vom/02/vom_0210   0   24     恶化    VV         (VP*))))  -   01   -   -          *        *        *         *      *           (V*)     *             *         -
+bn/vom/02/vom_0210   0   25      ”    PU               *   -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   26      的   DEC               *)  -    -   -   -          *        *        *         *      *             *      *             *         -
+bn/vom/02/vom_0210   0   27      话    NN           (NP*))  -    -   -   -          *        *        *)   (ARG1*)     *             *      *             *         -
+bn/vom/02/vom_0210   0   28      是    VC         (IP(VP*   -   01   2   -          *        *   (ARG2*         *      *             *    (V*)            *         -
+bn/vom/02/vom_0210   0   29     过于    AD       (VP(ADVP*)  -    -   -   -          *        *        *         *      *             *      *    (ARGM-ADV*)        -
+bn/vom/02/vom_0210   0   30     乐观    VA      (VP*)))))))  -   01   -   -          *        *)       *)        *      *             *      *           (V*)        -
+bn/vom/02/vom_0210   0   31      。    PU              *))  -    -   -   -          *        *        *         *      *             *      *             *         -
+
+bn/vom/02/vom_0210   0    0    法新社    NR   (TOP(IP(NP(NP*)  -    -   -   -       (ORG)  (ARG0*        *      *             *    (16|(23)
+bn/vom/02/vom_0210   0    1      和    CC                *   -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0    2      《    PU             (NP*   -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0    3     台北    NR                *   -    -   -   -      (ORG*        *        *      *             *          -
+bn/vom/02/vom_0210   0    4     时报    NN                *   -    -   -   -          *)       *        *      *             *          -
+bn/vom/02/vom_0210   0    5      》    PU               *))  -    -   -   -          *        *)       *      *             *         16)
+bn/vom/02/vom_0210   0    6     报道    VV             (VP*   -   01   -   -          *      (V*)       *      *             *          -
+bn/vom/02/vom_0210   0    7      ：    PU                *   -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0    8     美国    NR    (IP(NP(NP(NP*)  -    -   -   -      (ORG*   (ARG1*   (ARG0*      *             *     (20|(6)
+bn/vom/02/vom_0210   0    9     海军    NN             (NP*   -    -   -   -          *)       *        *      *             *          -
+bn/vom/02/vom_0210   0   10     中将    NN               *))  -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   11     梅策    NR            (NP*))  -    -   -   -    (PERSON)       *        *)     *             *         20)
+bn/vom/02/vom_0210   0   12      说    VV             (VP*   -   01   7   -          *        *      (V*)     *             *          -
+bn/vom/02/vom_0210   0   13      ，    PU                *   -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   14      这    DT       (IP(NP(DP*   -    -   -   -          *        *   (ARG1*      *        (ARG0*          -
+bn/vom/02/vom_0210   0   15      种     M           (CLP*))  -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   16      对     P         (DNP(PP*   -    -   3   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   17     台湾    NR            (NP*))  -    -   -   -       (GPE)       *        *      *             *         (3)
+bn/vom/02/vom_0210   0   18      的   DEG                *)  -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   19     好战    JJ           (ADJP*)  -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   20     态度    NN            (NP*))  -    -   -   -          *        *        *      *             *)         -
+bn/vom/02/vom_0210   0   21      ，    PU                *   -    -   -   -          *        *        *      *             *          -
+bn/vom/02/vom_0210   0   22      将    AD        (VP(ADVP*)  -    -   -   -          *        *        *      *    (ARGM-ADV*)         -
+bn/vom/02/vom_0210   0   23      不    AD           (ADVP*)  -    -   -   -          *        *        *      *    (ARGM-ADV*)         -
+bn/vom/02/vom_0210   0   24      会    VV             (VP*   -   01   -   -          *        *        *    (V*)            *          -
+bn/vom/02/vom_0210   0   25     得到    VV             (VP*   -   01   -   -          *        *        *      *           (V*)         -
+bn/vom/02/vom_0210   0   26     容忍    NN      (NP*))))))))  -    -   -   -          *        *)       *)     *        (ARG1*)         -
+bn/vom/02/vom_0210   0   27      。    PU               *))  -    -   -   -          *        *        *      *             *          -
+
+bn/vom/02/vom_0210   0    0      另外    AD      (TOP(IP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)        *         *             *      -
+bn/vom/02/vom_0210   0    1       这    DT            (NP(DP*   -    -   -   -            *        (ARG0*         *         *             *    (16
+bn/vom/02/vom_0210   0    2       两    CD               (QP*   -    -   -   -    (CARDINAL)            *         *         *             *      -
+bn/vom/02/vom_0210   0    3       家     M            (CLP*)))  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0    4      媒体    NN              (NP*))  -    -   -   -            *             *)        *         *             *     16)
+bn/vom/02/vom_0210   0    5      报道    VV               (VP*   -   01   -   -            *           (V*)        *         *             *      -
+bn/vom/02/vom_0210   0    6       ，    PU                  *   -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0    7      梅策    NR            (IP(NP*)  -    -   -   -      (PERSON)       (ARG1*         *    (ARG0*)       (ARG0*)   (20)
+bn/vom/02/vom_0210   0    8       对     P         (VP(VP(PP*   -    -   3   -            *             *         *    (ARG1*             *      -
+bn/vom/02/vom_0210   0    9      中国    NR   (NP(CP(CP(IP(NP*)  -    -   -   -         (GPE)            *    (ARG0*)        *             *    (10)
+bn/vom/02/vom_0210   0   10       对     P            (VP(PP*   -    -   3   -            *             *    (ARG1*         *             *      -
+bn/vom/02/vom_0210   0   11      美国    NR         (NP(NP(NP*)  -    -   -   -         (GPE)            *         *         *             *     (6)
+bn/vom/02/vom_0210   0   12      舰队    NN              (NP*))  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   13       在     P           (DNP(PP*   -    -   2   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   14      亚太    NR            (NP(NP*)  -    -   -   -        (LOC*             *         *         *             *      -
+bn/vom/02/vom_0210   0   15      地区    NN             (NP*)))  -    -   -   -            *)            *         *         *             *      -
+bn/vom/02/vom_0210   0   16       的   DEG                  *)  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   17      存在    NN             (NP*)))  -    -   -   -            *             *         *)        *             *      -
+bn/vom/02/vom_0210   0   18       所   MSP               (VP*   -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   19       持    VV            (VP*))))  -   01   -   -            *             *       (V*)        *             *      -
+bn/vom/02/vom_0210   0   20       的   DEC                 *))  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   21      否定    JJ             (ADJP*)  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   22      态度    NN             (NP*)))  -    -   -   -            *             *    (ARG1*)        *)            *      -
+bn/vom/02/vom_0210   0   23    不以为然    VV              (VP*))  -   01   -   -            *             *         *       (V*)            *      -
+bn/vom/02/vom_0210   0   24       ，    PU                  *   -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   25       而    AD          (VP(ADVP*)  -    -   -   -            *             *         *         *    (ARGM-DIS*)     -
+bn/vom/02/vom_0210   0   26       对     P               (PP*   -    -   3   -            *             *         *         *        (ARG3*      -
+bn/vom/02/vom_0210   0   27       美    NR     (NP(DNP(NP(NP*   -    -   -   -         (GPE)            *         *         *             *     (5
+bn/vom/02/vom_0210   0   28       、    PU                  *   -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   29       中    NR                  *)  -    -   -   -         (GPE)            *         *         *             *      5)
+bn/vom/02/vom_0210   0   30      海军    NN              (NP*))  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   31       的   DEG                  *)  -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   32      合作    NN               (NP*   -    -   -   -            *             *         *         *             *      -
+bn/vom/02/vom_0210   0   33      前景    NN                *)))  -    -   -   -            *             *         *         *             *)     -
+bn/vom/02/vom_0210   0   34      表示    VV               (VP*   -   01   1   -            *             *         *         *           (V*)     -
+bn/vom/02/vom_0210   0   35      乐观    NN          (NP*))))))  -    -   -   -            *             *)        *         *        (ARG1*)     -
+bn/vom/02/vom_0210   0   36       。    PU                 *))  -    -   -   -            *             *         *         *             *      -
+
+bn/vom/02/vom_0210   0    0        美国   NR   (TOP(IP(NP(NP(NP*)  -    -   -   -    (ORG*       (ARG0*    (21|(6)
+bn/vom/02/vom_0210   0    1        海军   NN               (NP*))  -    -   -   -        *)           *        21)
+bn/vom/02/vom_0210   0    2         “   PU                (NP*   -    -   -   -        *            *         -
+bn/vom/02/vom_0210   0    3    钱瑟勒维尔号   NR                   *   -    -   -   -        *            *         -
+bn/vom/02/vom_0210   0    4         ”   PU                   *)  -    -   -   -        *            *         -
+bn/vom/02/vom_0210   0    5        军舰   NN               (NP*))  -    -   -   -        *            *)        -
+bn/vom/02/vom_0210   0    6         ，   PU                   *   -    -   -   -        *            *         -
+bn/vom/02/vom_0210   0    7        今年   NT             (VP(NP*   -    -   -   -   (DATE*   (ARGM-TMP*         -
+bn/vom/02/vom_0210   0    8       ８月份   NT                   *)  -    -   -   -        *)           *)        -
+bn/vom/02/vom_0210   0    9         首   OD                (QP*   -    -   -   -        *   (ARGM-ADV*         -
+bn/vom/02/vom_0210   0   10         次    M              (CLP*))  -    -   -   -        *            *)        -
+bn/vom/02/vom_0210   0   11        访问   VV                (VP*   -   01   -   -        *          (V*)        -
+bn/vom/02/vom_0210   0   12        中国   NR             (NP(NP*)  -    -   -   -     (GPE)      (ARG1*       (10)
+bn/vom/02/vom_0210   0   13       青岛港   NR             (NP*))))  -    -   -   -     (FAC)           *)        -
+bn/vom/02/vom_0210   0   14         。   PU                  *))  -    -   -   -        *            *         -
+
+bn/vom/02/vom_0210   0    0    梅策    NR   (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)            *             *    (20)
+bn/vom/02/vom_0210   0    1     说    VV          (VP*   -   01   7   -          *       (V*)            *             *      -
+bn/vom/02/vom_0210   0    2     ：    PU             *   -    -   -   -          *         *             *             *      -
+bn/vom/02/vom_0210   0    3     “    PU          (IP*   -    -   -   -          *    (ARG1*             *             *      -
+bn/vom/02/vom_0210   0    4    这样    PN   (NP(DNP(NP*)  -    -   -   -          *         *        (ARG0*        (ARG1*      -
+bn/vom/02/vom_0210   0    5     的   DEG             *)  -    -   -   -          *         *             *             *      -
+bn/vom/02/vom_0210   0    6    访问    NN         (NP*))  -    -   -   -          *         *             *)            *)     -
+bn/vom/02/vom_0210   0    7    今后    NT       (VP(NP*)  -    -   -   -          *         *    (ARGM-TMP*)   (ARGM-TMP*)     -
+bn/vom/02/vom_0210   0    8     还    AD        (ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)   (ARGM-ADV*)     -
+bn/vom/02/vom_0210   0    9     要    VV          (VP*   -   03   4   -          *         *           (V*)            *      -
+bn/vom/02/vom_0210   0   10    进行    VV      (VP*)))))  -   01   3   -          *         *)       (ARG0*)          (V*)     -
+bn/vom/02/vom_0210   0   11     。    PU             *   -    -   -   -          *         *             *             *      -
+bn/vom/02/vom_0210   0   12     ”    PU            *))  -    -   -   -          *         *             *             *      -
+
+bn/vom/02/vom_0210   0    0      在     P             (TOP(IP(PP*   -    -   2   -          *             *    (ARGM-TMP*        *      -
+bn/vom/02/vom_0210   0    1     梅策    NR             (LCP(NP(NP*)  -    -   -   -    (PERSON)            *             *        *    (20)
+bn/vom/02/vom_0210   0    2      这    DT                    (DP*   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0    3      番     M                  (CLP*))  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0    4     讲话    NN                   (NP*))  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0    5     之前    LC                      *))  -    -   -   -          *             *             *)       *      -
+bn/vom/02/vom_0210   0    6      ，    PU                       *   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0    7      前    JJ            (NP(NP(ADJP*)  -    -   -   -          *             *        (ARG0*        *     (8
+bn/vom/02/vom_0210   0    8     美国    NR                    (NP*)  -    -   -   -      (ORG*             *             *        *     (6)
+bn/vom/02/vom_0210   0    9     国家    NN                    (NP*   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   10     安全    NN                       *   -    -   2   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   11     会议    NN                       *)  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   12     亚洲    NR                 (NP(NP*)  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   13     事务    NN                   (NP*))  -    -   -   -          *)            *             *        *      -
+bn/vom/02/vom_0210   0   14     资深    JJ                  (ADJP*)  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   15     主任    NN                   (NP*))  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   16    李坎如    NR                   (NP*))  -    -   -   -    (PERSON)            *             *)       *      8)
+bn/vom/02/vom_0210   0   17      ，    PU                       *   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   18    星期四    NT                 (VP(NP*)  -    -   -   -      (DATE)            *    (ARGM-TMP*)       *      -
+bn/vom/02/vom_0210   0   19      在     P                    (PP*   -    -   2   -          *             *    (ARGM-TMP*        *      -
+bn/vom/02/vom_0210   0   20      对     P     (NP(CP(CP(IP(VP(PP*   -    -   3   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   21     台湾    NR                   (NP*))  -    -   -   -       (GPE)            *             *        *     (3)
+bn/vom/02/vom_0210   0   22     进行    VV                    (VP*   -   01   3   -          *           (V*)            *        *      -
+bn/vom/02/vom_0210   0   23     访问    NN                 (NP*))))  -    -   -   -          *        (ARG1*)            *        *      -
+bn/vom/02/vom_0210   0   24      的   DEC                      *))  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   25     时候    NN                  (NP*)))  -    -   -   -          *    (ARGM-TMP*)            *)       *      -
+bn/vom/02/vom_0210   0   26     强调    VV                    (VP*   -   01   -   -          *             *           (V*)       *      -
+bn/vom/02/vom_0210   0   27      ，    PU                       *   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   28      要    VV                 (IP(VP*   -    -   4   -          *             *        (ARG1*        *      -
+bn/vom/02/vom_0210   0   29     降低    VV                    (VP*   -   01   -   -          *             *             *      (V*)     -
+bn/vom/02/vom_0210   0   30     中国    NR  (NP(DNP(NP(DNP(LCP(NP*   -    -   -   -       (GPE)            *             *   (ARG1*    (19
+bn/vom/02/vom_0210   0   31      与    CC                       *   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   32     台湾    NR                       *)  -    -   -   -       (GPE)            *             *        *     19)
+bn/vom/02/vom_0210   0   33     之间    LC                       *)  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   34      的   DEG                       *)  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   35     军事    NN                    (NP*   -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   36     对抗    NN                      *))  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   37      的   DEG                       *)  -    -   -   -          *             *             *        *      -
+bn/vom/02/vom_0210   0   38    可能性    NN              (NP*)))))))  -    -   -   -          *             *             *)       *)     -
+bn/vom/02/vom_0210   0   39      。    PU                      *))  -    -   -   -          *             *             *        *      -
+
+bn/vom/02/vom_0210   0    0      《    PU                (TOP(IP(NP*   -    -   -   -          *   (ARG2*      *      *             *         *            *        *         *        *         *             *     (1
+bn/vom/02/vom_0210   0    1     台北    NR                          *   -    -   -   -      (ORG*        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    2     时报    NN                          *   -    -   -   -          *)       *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    3      》    PU                          *)  -    -   -   -          *        *)     *      *             *         *            *        *         *        *         *             *      1)
+bn/vom/02/vom_0210   0    4     原引    VV                    (VP(VP*   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    5      一    CD             (NP(DNP(NP(QP*   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    6      位     M                     (CLP*))  -    -   2   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    7     观察    NN                       (NP*   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    8     人士    NN                         *))  -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0    9      的   DEG                          *)  -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   10      话    NN                     (NP*)))  -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   11      说    VV                       (VP*   -   01   7   -          *      (V*)     *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   12      ：    PU                          *   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   13      “    PU                       (IP*   -    -   -   -          *   (ARG1*      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   14    李坎如    NR                       (NP*)  -    -   -   -    (PERSON)       *      *      *        (ARG0*)        *            *        *         *        *         *             *     (8)
+bn/vom/02/vom_0210   0   15     可能    VV                       (VP*   -   01   -   -          *        *    (V*)     *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   16      是    VC                       (VP*   -   01   2   -          *        *      *    (V*)            *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   17      在    AD                  (VP(ADVP*)  -    -   5   -          *        *      *      *    (ARGM-ADV*)        *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   18     建议    VV                       (VP*   -   01   -   -          *        *      *      *           (V*)        *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   19      ，    PU                          *   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   20      让    VV                    (IP(VP*   -   02   2   -          *        *      *      *        (ARG1*       (V*)           *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   21     美国    NR                       (NP*)  -    -   -   -       (GPE)       *      *      *             *    (ARG1*)           *        *         *        *         *             *     (6)
+bn/vom/02/vom_0210   0   22      把    BA                 (IP(VP(VP*   -    -   -   -          *        *      *      *             *    (ARG2*            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   23     台湾    NR                    (IP(NP*)  -    -   -   -       (GPE)       *      *      *             *         *       (ARG1*)       *         *        *         *             *     (3)
+bn/vom/02/vom_0210   0   24     排除    VV                       (VP*   -   01   -   -          *        *      *      *             *         *          (V*)       *         *        *         *             *      -
+bn/vom/02/vom_0210   0   25      在     P                       (PP*   -    -   2   -          *        *      *      *             *         *   (ARGM-LOC*        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   26     战区    NN                (LCP(NP(NP*   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *     (9
+bn/vom/02/vom_0210   0   27     导弹    NN                          *   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   28     防御    NN                          *   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   29     系统    NN                          *)  -    -   1   -          *        *      *      *             *         *            *        *         *        *         *             *      9)
+bn/vom/02/vom_0210   0   30    保护伞    NN                      (NP*))  -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   31     之外    LC                      *)))))  -    -   -   -          *        *      *      *             *         *            *)       *         *        *         *             *      -
+bn/vom/02/vom_0210   0   32      ，    PU                          *   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   33      以     P                    (VP(PP*   -    -   -   -          *        *      *      *             *         *            *   (ARG3*         *        *         *             *      -
+bn/vom/02/vom_0210   0   34      此    PN                      (NP*))  -    -   -   -          *        *      *      *             *         *            *        *)        *        *         *             *      -
+bn/vom/02/vom_0210   0   35     换取    VV                       (VP*   -   01   -   -          *        *      *      *             *         *            *      (V*)        *        *         *             *      -
+bn/vom/02/vom_0210   0   36      让    VV                    (IP(VP*   -   02   2   -          *        *      *      *             *         *            *   (ARG1*       (V*)       *         *             *      -
+bn/vom/02/vom_0210   0   37     中国    NR                       (NP*)  -    -   -   -       (GPE)       *      *      *             *         *            *        *    (ARG1*)       *         *             *    (10)
+bn/vom/02/vom_0210   0   38     减少    VV                    (IP(VP*   -   01   -   -          *        *      *      *             *         *            *        *    (ARG2*      (V*)        *             *      -
+bn/vom/02/vom_0210   0   39     布署    VV                    (IP(VP*   -    -   -   -          *        *      *      *             *         *            *        *         *   (ARG1*         *             *      -
+bn/vom/02/vom_0210   0   40      用    VV           (NP(CP(CP(IP(VP*   -   01   1   -          *        *      *      *             *         *            *        *         *        *       (V*)            *      -
+bn/vom/02/vom_0210   0   41      来   MSP                       (VP*   -    -   7   -          *        *      *      *             *         *            *        *         *        *    (ARG2*             *      -
+bn/vom/02/vom_0210   0   42     进攻    VV                       (VP*   -   01   -   -          *        *      *      *             *         *            *        *         *        *         *           (V*)     -
+bn/vom/02/vom_0210   0   43     台湾    NR                   (NP*)))))  -    -   -   -       (GPE)       *      *      *             *         *            *        *         *        *         *)       (ARG1*)    (3)
+bn/vom/02/vom_0210   0   44      的   DEC                         *))  -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   45     导弹    NN   (NP*)))))))))))))))))))))  -    -   -   -          *        *)     *      *             *)        *)           *        *)        *)       *)   (ARG1*)   (ARGM-MNR*)     -
+bn/vom/02/vom_0210   0   46      。    PU                          *   -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+bn/vom/02/vom_0210   0   47      ”    PU                         *))  -    -   -   -          *        *      *      *             *         *            *        *         *        *         *             *      -
+
+bn/vom/02/vom_0210   0    0     《    PU        (TOP(IP(NP*   -    -   -   -       *   (ARG2*             *      *      *         *             *         *        (1
+bn/vom/02/vom_0210   0    1    台北    NR                  *   -    -   -   -   (ORG*        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0    2    时报    NN                  *   -    -   -   -       *)       *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0    3     》    PU                  *)  -    -   -   -       *        *)            *      *      *         *             *         *         1)
+bn/vom/02/vom_0210   0    4    原引    VV            (VP(VP*   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0    5     《    PU     (NP(DNP(NP(NP*   -    -   -   -       *        *             *      *      *         *             *         *   (15|(22
+bn/vom/02/vom_0210   0    6    中国    NR                  *   -    -   -   -   (ORG*        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0    7    时报    NN                  *   -    -   -   -       *)       *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0    8     》    PU                  *)  -    -   -   -       *        *             *      *      *         *             *         *        15)
+bn/vom/02/vom_0210   0    9    主编    NN              (NP*))  -    -   -   -       *        *             *      *      *         *             *         *        22)
+bn/vom/02/vom_0210   0   10     的   DEG                  *)  -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   11     话    NN             (NP*)))  -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   12     说    VV               (VP*   -   01   8   -       *      (V*)            *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   13     ：    PU                  *   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   14     “    PU               (IP*   -    -   -   -       *   (ARG1*             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   15    如果    CS       (IP(CP(ADVP*)  -    -   -   -       *        *    (ARGM-DIS*)     *      *         *             *         *         -
+bn/vom/02/vom_0210   0   16    中国    NR         (CP(IP(NP*   -    -   -   -    (GPE)       *        (ARG0*      *      *         *             *         *        (5
+bn/vom/02/vom_0210   0   17     与    CC                  *   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   18    美国    NR                  *)  -    -   -   -    (GPE)       *             *)     *      *         *             *         *         5)
+bn/vom/02/vom_0210   0   19    达成    VV               (VP*   -   01   -   -       *        *           (V*)     *      *         *             *         *         -
+bn/vom/02/vom_0210   0   20    军事    NN               (NP*   -    -   -   -       *        *        (ARG1*      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   21    协议    NN                *)))  -    -   -   -       *        *             *)     *      *         *             *         *         -
+bn/vom/02/vom_0210   0   22    的话    SP                 *))  -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   23     ，    PU                  *   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   24    中国    NR               (NP*)  -    -   -   -    (GPE)       *             *      *      *         *             *         *       (10)
+bn/vom/02/vom_0210   0   25    将来    NT            (VP(NP*)  -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   26    可能    VV               (VP*   -   01   -   -       *        *             *    (V*)     *         *             *         *         -
+bn/vom/02/vom_0210   0   27     会    VV               (VP*   -   01   -   -       *        *             *      *    (V*)        *             *         *         -
+bn/vom/02/vom_0210   0   28     有    VE            (VP(VP*   -    -   3   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   29     权    NN              (NP*))  -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   30    禁止    VV               (VP*   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   31    美国    NR               (NP*)  -    -   -   -    (GPE)       *             *      *      *         *             *         *        (6)
+bn/vom/02/vom_0210   0   32     向     P         (IP(VP(PP*   -    -   -   -       *        *             *      *      *    (ARG2*             *         *         -
+bn/vom/02/vom_0210   0   33    台湾    NR              (NP*))  -    -   -   -    (GPE)       *             *      *      *         *)            *         *        (3)
+bn/vom/02/vom_0210   0   34    出售    VV               (VP*   -   01   -   -       *        *             *      *      *       (V*)            *         *         -
+bn/vom/02/vom_0210   0   35    军备    NN      (NP*))))))))))  -    -   -   -       *        *             *      *      *    (ARG1*)            *         *         -
+bn/vom/02/vom_0210   0   36     ，    PU                  *   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   37     而    AD          (IP(ADVP*)  -    -   -   -       *        *             *      *      *         *    (ARGM-DIS*)        *         -
+bn/vom/02/vom_0210   0   38     这    PN               (NP*)  -    -   -   -       *        *             *      *      *         *        (ARG0*)        *         -
+bn/vom/02/vom_0210   0   39     是    VC               (VP*   -   01   1   -       *        *             *      *      *         *           (V*)        *         -
+bn/vom/02/vom_0210   0   40    台湾    NR   (NP(CP(CP(IP(NP*)  -    -   -   -    (GPE)       *             *      *      *         *        (ARG1*    (ARG0*)       (3)
+bn/vom/02/vom_0210   0   41     所   MSP               (VP*   -    -   -   -       *        *             *      *      *         *             *         *         -
+bn/vom/02/vom_0210   0   42    担心    VV             (VP*)))  -   01   -   -       *        *             *      *      *         *             *       (V*)        -
+bn/vom/02/vom_0210   0   43     的   DEC           *))))))))  -    -   -   -       *        *)            *      *      *         *             *)        *         -
+bn/vom/02/vom_0210   0   44     。    PU                 *))  -    -   -   -       *        *             *      *      *         *             *         *         -
+
+bn/vom/02/vom_0210   0    0       ”    PU            (TOP(IP*   -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0    1       《    PU                (NP*   -    -   -   -          *      *   (ARG2*             *         *         *         *         *            (1
+bn/vom/02/vom_0210   0    2      台北    NR                   *   -    -   -   -      (ORG*      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0    3      时报    NN                   *   -    -   -   -          *)     *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0    4       》    PU                   *)  -    -   -   -          *      *        *)            *         *         *         *         *             1)
+bn/vom/02/vom_0210   0    5      报道    VV            (VP(VSB*   -   01   -   -          *    (V*)       *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0    6       说    VV                   *)  -   01   8   -          *      *      (V*)            *         *         *         *         *             -
+bn/vom/02/vom_0210   0    7       ：    PU                   *   -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0    8     民进党    NR    (IP(IP(NP(NP(NP*)  -    -   -   -      (NORP)     *   (ARG1*        (ARG0*         *         *         *         *            (2
+bn/vom/02/vom_0210   0    9      立法    NN                (NP*   -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   10      委员    NN                  *))  -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   11     张绪成    NR               (NP*))  -    -   -   -    (PERSON)     *        *             *)        *         *         *         *             2)
+bn/vom/02/vom_0210   0   12       不    AD           (VP(ADVP*)  -    -   -   -          *      *        *    (ARGM-ADV*)        *         *         *         *             -
+bn/vom/02/vom_0210   0   13      赞同    VV                (VP*   -   01   -   -          *      *        *           (V*)        *         *         *         *             -
+bn/vom/02/vom_0210   0   14       《    PU      (NP(DNP(NP(NP*   -    -   -   -          *      *        *        (ARG1*         *         *         *         *   (15|(22|(24
+bn/vom/02/vom_0210   0   15      中国    NR                   *   -    -   -   -      (ORG*      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   16      时报    NN                   *   -    -   -   -          *)     *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   17       》    PU                   *)  -    -   -   -          *      *        *             *         *         *         *         *            15)
+bn/vom/02/vom_0210   0   18      主编    NN               (NP*))  -    -   -   -          *      *        *             *         *         *         *         *            22)
+bn/vom/02/vom_0210   0   19       的   DEG                   *)  -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   20      观点    NN            (NP*)))))  -    -   -   -          *      *        *             *)        *         *         *         *            24)
+bn/vom/02/vom_0210   0   21       ，    PU                   *   -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   22       他    PN             (IP(NP*)  -    -   -   -          *      *        *             *    (ARG0*)        *         *         *            (2)
+bn/vom/02/vom_0210   0   23       说    VV                (VP*   -   01   7   -          *      *        *             *       (V*)        *         *         *             -
+bn/vom/02/vom_0210   0   24       他    PN             (IP(NP*)  -    -   -   -          *      *        *             *    (ARG1*    (ARG0*)        *         *            (2)
+bn/vom/02/vom_0210   0   25      认为    VV                (VP*   -   01   1   -          *      *        *             *         *       (V*)        *         *             -
+bn/vom/02/vom_0210   0   26       这    PN             (IP(NP*)  -    -   -   -          *      *        *             *         *    (ARG1*    (ARG0*)        *           (24)
+bn/vom/02/vom_0210   0   27       是    VC                (VP*   -   01   1   -          *      *        *             *         *         *       (V*)        *             -
+bn/vom/02/vom_0210   0   28    不切实际    VV   (NP(CP(CP(IP(VP*))  -   01   -   -          *      *        *             *         *         *    (ARG1*       (V*)            -
+bn/vom/02/vom_0210   0   29       的   DEC                  *))  -    -   -   -          *      *        *             *         *         *         *         *             -
+bn/vom/02/vom_0210   0   30      想法    NN       (NP*))))))))))  -    -   -   -          *      *        *)            *         *)        *)        *)   (ARG0*)            -
+bn/vom/02/vom_0210   0   31       。    PU                  *))  -    -   -   -          *      *        *             *         *         *         *         *             -
+
+bn/vom/02/vom_0210   0    0      他    PN   (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)     *             *     (2)
+bn/vom/02/vom_0210   0    1     认为    VV          (VP*   -   01   1   -       *       (V*)     *             *      -
+bn/vom/02/vom_0210   0    2     中国    NR    (IP(NP(NP*)  -    -   -   -    (GPE)   (ARG1*      *        (ARG0*    (10)
+bn/vom/02/vom_0210   0    3      和    CC             *   -    -   -   -       *         *      *             *      -
+bn/vom/02/vom_0210   0    4     美国    NR       (NP(NP*)  -    -   -   -    (GPE)        *      *             *     (6)
+bn/vom/02/vom_0210   0    5    共和党    NR        (NP*)))  -    -   -   -    (ORG)        *      *             *)     -
+bn/vom/02/vom_0210   0    6      都    AD     (VP(ADVP*)  -    -   -   -       *         *      *    (ARGM-ADV*)     -
+bn/vom/02/vom_0210   0    7      不    AD        (ADVP*)  -    -   -   -       *         *      *    (ARGM-ADV*)     -
+bn/vom/02/vom_0210   0    8      会    VV          (VP*   -   01   -   -       *         *    (V*)            *      -
+bn/vom/02/vom_0210   0    9     接受    VV          (VP*   -   01   -   -       *         *      *           (V*)     -
+bn/vom/02/vom_0210   0   10     这样    PN   (NP(DNP(NP*)  -    -   -   -       *         *      *        (ARG1*      -
+bn/vom/02/vom_0210   0   11      的   DEG             *)  -    -   -   -       *         *      *             *      -
+bn/vom/02/vom_0210   0   12     建议    NN    (NP*)))))))  -    -   -   -       *         *)     *             *)     -
+bn/vom/02/vom_0210   0   13      。    PU            *))  -    -   -   -       *         *      *             *      -
+
+bn/vom/02/vom_0210   0    0     他    PN    (TOP(IP(NP*)  -    -   -   -       *      *        (ARG0*)            *        *             *    (2)
+bn/vom/02/vom_0210   0    1     还    AD      (VP(ADVP*)  -    -   -   -       *      *    (ARGM-DIS*)            *        *             *     -
+bn/vom/02/vom_0210   0    2    补充    VV       (VP(VSB*   -   01   -   -       *    (V*)            *             *        *             *     -
+bn/vom/02/vom_0210   0    3     说    VV              *)  -   01   7   -       *      *           (V*)            *        *             *     -
+bn/vom/02/vom_0210   0    4     ，    PU              *   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0    5    台湾    NR        (IP(NP*)  -    -   -   -    (GPE)     *        (ARG1*        (ARG0*)       *        (ARG0*)   (3)
+bn/vom/02/vom_0210   0    6     将    AD      (VP(ADVP*)  -    -   -   -       *      *             *    (ARGM-ADV*)       *    (ARGM-ADV*)    -
+bn/vom/02/vom_0210   0    7    努力    AD   (VP(VP(ADVP*)  -    -   -   -       *      *             *    (ARGM-ADV*)       *             *     -
+bn/vom/02/vom_0210   0    8    争取    VV           (VP*   -   02   2   -       *      *             *           (V*)       *             *     -
+bn/vom/02/vom_0210   0    9    加入    VV        (IP(VP*   -   01   1   -       *      *             *        (ARG1*      (V*)            *     -
+bn/vom/02/vom_0210   0   10    战区    NN           (NP*   -    -   -   -       *      *             *             *   (ARG1*             *    (9
+bn/vom/02/vom_0210   0   11    导弹    NN              *   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   12    防御    NN              *   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   13    系统    NN          *)))))  -    -   1   -       *      *             *             *)       *)            *     9)
+bn/vom/02/vom_0210   0   14     ，    PU              *   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   15    或者    CC              *   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   16    努力    AD      (VP(ADVP*)  -    -   -   -       *      *             *             *        *    (ARGM-ADV*)    -
+bn/vom/02/vom_0210   0   17    提高    VV           (VP*   -   01   -   -       *      *             *             *        *           (V*)    -
+bn/vom/02/vom_0210   0   18     他    PN    (NP(DNP(NP*   -    -   -   -       *      *             *             *        *        (ARG1*    (3
+bn/vom/02/vom_0210   0   19    自己    PN              *)  -    -   -   -       *      *             *             *        *             *     3)
+bn/vom/02/vom_0210   0   20     的   DEG              *)  -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   21    导弹    NN           (NP*   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   22    防卫    NN              *   -    -   -   -       *      *             *             *        *             *     -
+bn/vom/02/vom_0210   0   23    能力    NN      *)))))))))  -    -   -   -       *      *             *)            *        *             *)    -
+bn/vom/02/vom_0210   0   24     。    PU             *))  -    -   -   -       *      *             *             *        *             *     -
+
+bn/vom/02/vom_0210   0    0      《    PU  (TOP(IP(NP*   -    -   -   -          *      *   (ARG2*         *         *        *    (1
+bn/vom/02/vom_0210   0    1     台北    NR            *   -    -   -   -      (ORG*      *        *         *         *        *     -
+bn/vom/02/vom_0210   0    2     时报    NN            *   -    -   -   -          *)     *        *         *         *        *     -
+bn/vom/02/vom_0210   0    3      》    PU            *)  -    -   -   -          *      *        *)        *         *        *     1)
+bn/vom/02/vom_0210   0    4     报道    VV     (VP(VSB*   -   01   -   -          *    (V*)       *         *         *        *     -
+bn/vom/02/vom_0210   0    5      说    VV            *)  -   01   8   -          *      *      (V*)        *         *        *     -
+bn/vom/02/vom_0210   0    6      ：    PU            *   -    -   -   -          *      *        *         *         *        *     -
+bn/vom/02/vom_0210   0    7    李坎如    NR      (IP(NP*)  -    -   -   -    (PERSON)     *   (ARG1*    (ARG0*)        *        *    (8)
+bn/vom/02/vom_0210   0    8     否认    VV         (VP*   -   01   -   -          *      *        *       (V*)        *        *     -
+bn/vom/02/vom_0210   0    9      了    AS            *   -    -   -   -          *      *        *         *         *        *     -
+bn/vom/02/vom_0210   0   10     媒体    NN      (NP(NP*)  -    -   -   -          *      *        *    (ARG1*         *        *     -
+bn/vom/02/vom_0210   0   11      对     P     (DNP(PP*   -    -   3   -          *      *        *         *         *        *     -
+bn/vom/02/vom_0210   0   12      他    PN      (IP(NP*)  -    -   -   -          *      *        *         *    (ARG0*)       *    (8)
+bn/vom/02/vom_0210   0   13     提议    VV         (VP*   -   01   -   -          *      *        *         *       (V*)       *     -
+bn/vom/02/vom_0210   0   14     中国    NR      (IP(NP*   -    -   -   -       (GPE)     *        *         *    (ARG1*   (ARG0*   (19
+bn/vom/02/vom_0210   0   15      与    CC            *   -    -   -   -          *      *        *         *         *        *     -
+bn/vom/02/vom_0210   0   16     台湾    NR            *)  -    -   -   -       (GPE)     *        *         *         *        *)   19)
+bn/vom/02/vom_0210   0   17     达成    VV         (VP*   -   01   -   -          *      *        *         *         *      (V*)    -
+bn/vom/02/vom_0210   0   18     军备    NN         (NP*   -    -   -   -          *      *        *         *         *   (ARG1*     -
+bn/vom/02/vom_0210   0   19     控制    NN            *   -    -   -   -          *      *        *         *         *        *     -
+bn/vom/02/vom_0210   0   20     协议    NN       *))))))  -    -   -   -          *      *        *         *         *)       *)    -
+bn/vom/02/vom_0210   0   21      的   DEG            *)  -    -   -   -          *      *        *         *         *        *     -
+bn/vom/02/vom_0210   0   22     报道    NN     (NP*)))))  -    -   -   -          *      *        *)        *)        *        *     -
+bn/vom/02/vom_0210   0   23      。    PU           *))  -    -   -   -          *      *        *         *         *        *     -
+
+bn/vom/02/vom_0210   0    0     《    PU      (TOP(IP(NP*   -    -   -   -        *        (ARG2*             *      *         *         *      *             *     (1
+bn/vom/02/vom_0210   0    1    台湾    NR                *   -    -   -   -    (ORG*             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0    2    时报    NN                *   -    -   -   -        *)            *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0    3     》    PU                *)  -    -   -   -        *             *)            *      *         *         *      *             *      1)
+bn/vom/02/vom_0210   0    4     还    AD        (VP(ADVP*)  -    -   -   -        *    (ARGM-DIS*)            *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0    5     说    VV             (VP*   -   01   8   -        *           (V*)            *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0    6     ：    PU                *   -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0    7    其他    DT       (IP(NP(DP*)  -    -   -   -        *        (ARG1*        (ARG0*      *         *         *      *             *      -
+bn/vom/02/vom_0210   0    8    中国    NR             (NP*)  -    -   -   -    (NORP)            *             *      *         *         *      *             *    (10)
+bn/vom/02/vom_0210   0    9    学者    NN            (NP*))  -    -   -   -        *             *             *)     *         *         *      *             *      -
+bn/vom/02/vom_0210   0   10     也    AD        (VP(ADVP*)  -    -   -   -        *             *    (ARGM-ADV*)     *         *         *      *             *      -
+bn/vom/02/vom_0210   0   11    怀疑    VV             (VP*   -   01   -   -        *             *           (V*)     *         *         *      *             *      -
+bn/vom/02/vom_0210   0   12    中国    NR          (IP(NP*)  -    -   -   -     (GPE)            *        (ARG1*      *    (ARG0*)        *      *             *    (10)
+bn/vom/02/vom_0210   0   13     会    VV             (VP*   -   01   -   -        *             *             *    (V*)        *         *      *             *      -
+bn/vom/02/vom_0210   0   14     与     P          (VP(PP*   -    -   -   -        *             *             *      *    (ARG0*         *      *             *      -
+bn/vom/02/vom_0210   0   15    台湾    NR            (NP*))  -    -   -   -     (GPE)            *             *      *         *)        *      *             *     (3)
+bn/vom/02/vom_0210   0   16    签署    VV             (VP*   -   01   -   -        *             *             *      *       (V*)        *      *             *      -
+bn/vom/02/vom_0210   0   17    任何    DT          (NP(DP*)  -    -   -   -        *             *             *      *    (ARG1*         *      *             *      -
+bn/vom/02/vom_0210   0   18    军备    NN             (NP*   -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   19    控制    NN                *   -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   20    协议    NN         *))))))))  -    -   -   -        *             *             *)     *         *)        *      *             *      -
+bn/vom/02/vom_0210   0   21     ，    PU                *   -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   22    因为     P             (PP*   -    -   -   -        *             *    (ARGM-PRP*      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   23     这    PN          (IP(NP*)  -    -   -   -        *             *             *      *         *    (ARG0*)     *             *      -
+bn/vom/02/vom_0210   0   24    意味    VV             (VP*   -   01   -   -        *             *             *      *         *       (V*)     *             *      -
+bn/vom/02/vom_0210   0   25     着    AS                *   -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   26    北京    NR       (IP(NP(NP*)  -    -   -   -     (GPE)            *             *      *         *    (ARG1*      *        (ARG0*      -
+bn/vom/02/vom_0210   0   27    目前    NT         (DNP(NP*)  -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   28     的   DEG                *)  -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   29    军事    NN         (DNP(NP*   -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   30    优势    NN                *)  -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   31     的   DEG                *)  -    -   -   -        *             *             *      *         *         *      *             *      -
+bn/vom/02/vom_0210   0   32    建立    NN            (NP*))  -    -   -   -        *             *             *      *         *         *      *             *)     -
+bn/vom/02/vom_0210   0   33     将    AD        (VP(ADVP*)  -    -   -   -        *             *             *      *         *         *      *    (ARGM-ADV*)     -
+bn/vom/02/vom_0210   0   34     会    VV             (VP*   -   01   -   -        *             *             *      *         *         *    (V*)            *      -
+bn/vom/02/vom_0210   0   35    受到    VV             (VP*   -   01   1   -        *             *             *      *         *         *      *           (V*)     -
+bn/vom/02/vom_0210   0   36    限制    NN   (NP*)))))))))))  -    -   2   -        *             *)            *)     *         *         *)     *        (ARG1*)     -
+bn/vom/02/vom_0210   0   37     。    PU               *))  -    -   -   -        *             *             *      *         *         *      *             *      -
+
+bn/vom/02/vom_0210   0    0    以上    PN                (TOP(IP(NP*)  -    -   -   -          *    (ARG0*)           -
+bn/vom/02/vom_0210   0    1     是    VC                       (VP*   -   01   1   -          *       (V*)           -
+bn/vom/02/vom_0210   0    2    美国    NR   (NP(DNP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*    (ARG1*   (0|(11|(18
+bn/vom/02/vom_0210   0    3     之   DEG                          *)  -    -   -   -          *         *            -
+bn/vom/02/vom_0210   0    4     音    NN                      (NP*))  -    -   -   -          *)        *           11)
+bn/vom/02/vom_0210   0    5    记者    NN                      (NP*))  -    -   -   -          *         *            -
+bn/vom/02/vom_0210   0    6    江臣    NR                      (NP*))  -    -   -   -    (PERSON)        *            0)
+bn/vom/02/vom_0210   0    7     的   DEG                          *)  -    -   -   -          *         *            -
+bn/vom/02/vom_0210   0    8    综合    JJ                     (ADJP*)  -    -   -   -          *         *            -
+bn/vom/02/vom_0210   0    9    报道    NN                     (NP*)))  -    -   -   -          *         *)          18)
+bn/vom/02/vom_0210   0   10     。    PU                         *))  -    -   -   -          *         *            -
+
+#end document

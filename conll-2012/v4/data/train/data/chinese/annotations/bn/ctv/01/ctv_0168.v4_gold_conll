@@ -1,0 +1,251 @@
+#begin document (bn/ctv/01/ctv_0168); part 000
+bn/ctv/01/ctv_0168   0    0     记者    NN           (TOP(IP(NP*)  -    -   -   -            *        (ARG0*)     *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0    1    １３号    NT               (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)     *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0    2      从     P                  (PP*   -    -   -   -            *        (ARG2*      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0    3     北京    NR                  (NP*   -    -   -   -        (ORG*             *      *            *         *             *             *   (2
+bn/ctv/01/ctv_0168   0    4     航天    NN                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0    5     控制    NN                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0    6     中心    NN                    *))  -    -   -   -            *)            *)     *            *         *             *             *    2)
+bn/ctv/01/ctv_0168   0    7     了解    VV              (VP(VRD*   -   03   1   -            *           (V*)     *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0    8      到    VV                     *)  -   01   4   -            *             *    (V*)           *         *             *             *    -
+bn/ctv/01/ctv_0168   0    9      ，    PU                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   10     中国    NR   (IP(NP(CP(CP(IP(NP*)  -    -   -   -         (GPE)       (ARG1*      *       (ARG0*)        *        (ARG0*    (ARGM-TPC*   (1
+bn/ctv/01/ctv_0168   0   11     １月    NT               (VP(NP*   -    -   -   -       (DATE*             *      *   (ARGM-TMP*         *             *             *    -
+bn/ctv/01/ctv_0168   0   12    １０号    NT                     *)  -    -   -   -            *)            *      *            *)        *             *             *    -
+bn/ctv/01/ctv_0168   0   13      从     P                  (PP*   -    -   -   -            *             *      *       (ARG2*         *             *             *    -
+bn/ctv/01/ctv_0168   0   14     酒泉    NR                  (NP*   -    -   -   -        (FAC*             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   15     卫星    NN                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   16     发射    NN                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   17     中心    NN                    *))  -    -   -   -            *)            *      *            *)        *             *             *    -
+bn/ctv/01/ctv_0168   0   18     发射    VV                (VP*)))  -   01   -   -            *             *      *          (V*)        *             *             *    -
+bn/ctv/01/ctv_0168   0   19      的   DEC                    *))  -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   20      “    PU                  (NP*   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   21     神州    NR                  (NP*)  -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   22      ２    OD                  (QP*)  -    -   -   -    (CARDINAL)            *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   23      号    NN                  (NP*)  -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   24      ”    PU                     *)  -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   25      无    VE            (CP(IP(VP*   -   01   1   -            *             *      *            *       (V*)            *             *    -
+bn/ctv/01/ctv_0168   0   26      人    NN               (NP*))))  -    -   -   -            *             *      *            *    (ARG1*)            *             *    -
+bn/ctv/01/ctv_0168   0   27     飞船    NN                 (NP*))  -    -   -   -            *             *      *       (ARG1*)   (ARG0*)            *)            *)   1)
+bn/ctv/01/ctv_0168   0   28     目前    NT                  (NP*)  -    -   -   -            *             *      *            *         *    (ARGM-TMP*)   (ARGM-TMP*)   -
+bn/ctv/01/ctv_0168   0   29     飞行    NN            (IP(IP(NP*   -    -   -   -            *             *      *            *         *        (ARG0*             *    -
+bn/ctv/01/ctv_0168   0   30     状况    NN                     *)  -    -   -   -            *             *      *            *         *             *)            *    -
+bn/ctv/01/ctv_0168   0   31     正常    VA                 (VP*))  -   01   -   -            *             *      *            *         *           (V*)            *    -
+bn/ctv/01/ctv_0168   0   32      ，    PU                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   33     空间    NN               (IP(NP*   -    -   -   -            *             *      *            *         *             *        (ARG0*    -
+bn/ctv/01/ctv_0168   0   34     飞行    NN                     *   -    -   -   -            *             *      *            *         *             *             *    -
+bn/ctv/01/ctv_0168   0   35     实验    NN                     *)  -    -   -   -            *             *      *            *         *             *             *)   -
+bn/ctv/01/ctv_0168   0   36     顺利    VA             (VP*))))))  -   01   -   -            *             *)     *            *         *             *           (V*)   -
+bn/ctv/01/ctv_0168   0   37      。    PU                    *))  -    -   -   -            *             *      *            *         *             *             *    -
+
+bn/ctv/01/ctv_0168   0    0     据     P     (TOP(IP(PP*   -    -   -   -            *             *             *   (ARGM-MNR*     -
+bn/ctv/01/ctv_0168   0    1    了解    NN           (NP*))  -    -   1   -            *             *             *            *)    -
+bn/ctv/01/ctv_0168   0    2     ，    PU               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0    3     “    PU  (LCP(IP(NP(NP*   -    -   -   -            *             *             *   (ARGM-TMP*    (1
+bn/ctv/01/ctv_0168   0    4    神州    NR            (NP*)  -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0    5     ２    OD            (QP*)  -    -   -   -    (CARDINAL)            *             *            *     -
+bn/ctv/01/ctv_0168   0    6     号    NN            (NP*)  -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0    7     ”    PU               *)  -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0    8    飞船    NN           (NP*))  -    -   -   -            *             *             *            *     1)
+bn/ctv/01/ctv_0168   0    9    入轨    VV           (VP*))  -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   10     后    LC               *)  -    -   -   -            *             *             *            *)    -
+bn/ctv/01/ctv_0168   0   11     在     P     (NP(DNP(PP*   -    -   2   -            *             *             *       (ARG0*     -
+bn/ctv/01/ctv_0168   0   12    北京    NR     (LCP(IP(NP*   -    -   -   -        (ORG*        (ARG0*        (ARG0*            *    (2
+bn/ctv/01/ctv_0168   0   13    航天    NN               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   14    控制    NN               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   15    中心    NN               *)  -    -   -   -            *)            *)            *)           *     2)
+bn/ctv/01/ctv_0168   0   16    统一    AD       (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)   (ARGM-ADV*)           *     -
+bn/ctv/01/ctv_0168   0   17    调度    VV            (VP*   -   01   -   -            *           (V*)            *            *     -
+bn/ctv/01/ctv_0168   0   18     和    CC               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   19    指挥    VV             *)))  -   01   -   -            *             *           (V*)           *     -
+bn/ctv/01/ctv_0168   0   20     下    LC              *))  -    -   1   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   21     的   DEG               *)  -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   22    海陆    NN            (NP*   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   23    机测    NN               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   24    控网    NN              *))  -    -   -   -            *             *             *            *)    -
+bn/ctv/01/ctv_0168   0   25     ，    PU               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   26     对     P         (VP(PP*   -    -   3   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   27    飞船    NN           (NP*))  -    -   -   -            *             *             *            *    (1)
+bn/ctv/01/ctv_0168   0   28    进行    VV            (VP*   -   01   3   -            *             *             *          (V*)    -
+bn/ctv/01/ctv_0168   0   29     了    AS               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   30    持续    JJ       (NP(ADJP*)  -    -   3   -            *             *             *       (ARG1*     -
+bn/ctv/01/ctv_0168   0   31    跟踪    NN            (NP*   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   32    测量    NN               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   33     与    CC               *   -    -   -   -            *             *             *            *     -
+bn/ctv/01/ctv_0168   0   34    控制    NN            *))))  -    -   -   -            *             *             *            *)    -
+bn/ctv/01/ctv_0168   0   35     。    PU              *))  -    -   -   -            *             *             *            *     -
+
+bn/ctv/01/ctv_0168   0    0     北京    NR    (TOP(IP(NP*   -    -   -   -        (ORG*   (ARG0*    (ARG0*      *            *        *         *    (2
+bn/ctv/01/ctv_0168   0    1     指控    NN              *   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0    2     中心    NN              *)  -    -   -   -            *)       *)        *)     *            *        *         *     2)
+bn/ctv/01/ctv_0168   0    3      向     P     (VP(VP(PP*   -    -   -   -            *   (ARG2*         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0    4     飞船    NN          (NP*))  -    -   -   -            *        *)        *      *            *        *         *    (1)
+bn/ctv/01/ctv_0168   0    5     发出    VV           (VP*   -   01   1   -            *      (V*)        *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0    6      了    AS              *   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0    7    一系列    CD        (NP(QP*)  -    -   -   -            *   (ARG1*         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0    8     遥控    JJ         (ADJP*)  -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0    9     指令    NN           (NP*   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   10      和    CC              *   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   11     数据    NN           *))))  -    -   -   -            *        *)        *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   12      ，    PU              *   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   13      使    VV           (VP*   -   01   -   -            *        *       (V*)     *            *        *         *     -
+bn/ctv/01/ctv_0168   0   14     飞船    NN           (NP*)  -    -   -   -            *        *    (ARG1*)     *            *        *         *    (1)
+bn/ctv/01/ctv_0168   0   15      在     P     (IP(VP(PP*   -    -   2   -            *        *    (ARG2*      *   (ARGM-LOC*        *         *     -
+bn/ctv/01/ctv_0168   0   16     太空    NN          (NP*))  -    -   -   -            *        *         *      *            *)       *         *     -
+bn/ctv/01/ctv_0168   0   17     顺利    VA       (DVP(VP*)  -   01   -   -            *        *         *    (V*)  (ARGM-ADV*        *         *     -
+bn/ctv/01/ctv_0168   0   18      的   DEV              *)  -    -   -   -            *        *         *      *            *)       *         *     -
+bn/ctv/01/ctv_0168   0   19     完成    VV           (VP*   -   01   -   -            *        *         *      *          (V*)       *         *     -
+bn/ctv/01/ctv_0168   0   20      了    AS              *   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   21    太阳能    NN  (NP(IP(IP(NP*   -    -   -   -            *        *         *      *       (ARG1*   (ARG1*         *     -
+bn/ctv/01/ctv_0168   0   22     翻板    NN              *)  -    -   -   -            *        *         *      *            *        *)        *     -
+bn/ctv/01/ctv_0168   0   23     展开    VV          (VP*))  -   01   -   -            *        *         *      *            *      (V*)        *     -
+bn/ctv/01/ctv_0168   0   24      、    PU              *   -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   25     姿态    NN        (IP(NP*)  -    -   -   -            *        *         *      *            *        *    (ARG1*)    -
+bn/ctv/01/ctv_0168   0   26     确定    VV         (VP*)))  -   01   -   -            *        *         *      *            *        *       (V*)    -
+bn/ctv/01/ctv_0168   0   27     数百    CD           (QP*   -    -   -   -    (CARDINAL)       *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   28      个     M         (CLP*))  -    -   -   -            *        *         *      *            *        *         *     -
+bn/ctv/01/ctv_0168   0   29     动作    NN     (NP*)))))))  -    -   -   -            *        *         *)     *            *)       *         *     -
+bn/ctv/01/ctv_0168   0   30      。    PU             *))  -    -   -   -            *        *         *      *            *        *         *     -
+
+bn/ctv/01/ctv_0168   0    0      当     P  (TOP(IP(IP(PP*   -    -   4   -           *            *      *   (ARGM-TMP*         *            *     -
+bn/ctv/01/ctv_0168   0    1     飞船    NN     (LCP(IP(NP*)  -    -   -   -           *       (ARG0*)     *            *         *            *    (1)
+bn/ctv/01/ctv_0168   0    2      绕     P         (VP(PP*   -    -   1   -           *   (ARGM-ADV*      *            *         *            *     -
+bn/ctv/01/ctv_0168   0    3     地球    NN           (NP*))  -    -   -   -           *            *)     *            *         *            *     -
+bn/ctv/01/ctv_0168   0    4     飞行    VV            (VP*   -   01   -   -           *          (V*)     *            *         *            *     -
+bn/ctv/01/ctv_0168   0    5    第１４    OD         (NP(QP*)  -    -   -   -    (ORDINAL)  (ARGM-ADV*      *            *         *            *     -
+bn/ctv/01/ctv_0168   0    6      圈    NN        (NP*)))))  -    -   -   -           *            *)     *            *         *            *     -
+bn/ctv/01/ctv_0168   0    7      时    LC              *))  -    -   -   -           *            *      *            *)        *            *     -
+bn/ctv/01/ctv_0168   0    8      ，    PU               *   -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0    9     飞船    NN            (NP*)  -    -   -   -           *            *      *       (ARG0*)        *            *    (1)
+bn/ctv/01/ctv_0168   0   10     成功    VA     (VP(DVP(VP*)  -   01   -   -           *            *    (V*)  (ARGM-ADV*         *            *     -
+bn/ctv/01/ctv_0168   0   11      的   DEV               *)  -    -   -   -           *            *      *            *)        *            *     -
+bn/ctv/01/ctv_0168   0   12     进行    VV            (VP*   -   01   3   -           *            *      *          (V*)        *            *     -
+bn/ctv/01/ctv_0168   0   13      了    AS               *   -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   14     变轨    NN         (NP*))))  -    -   -   -           *            *      *       (ARG1*)        *            *     -
+bn/ctv/01/ctv_0168   0   15      ，    PU               *   -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   16      船    NN     (IP(LCP(NP*)  -    -   -   -           *            *      *            *         *            *    (1)
+bn/ctv/01/ctv_0168   0   17      上    LC               *)  -    -   1   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   18    发动机    NN            (NP*)  -    -   -   -           *            *      *            *         *            *    (0)
+bn/ctv/01/ctv_0168   0   19     点火    VV           (VP*))  -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   20      ，    PU               *   -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   21      使    VV         (IP(VP*   -   01   -   -           *            *      *            *       (V*)           *     -
+bn/ctv/01/ctv_0168   0   22     飞船    NN            (NP*)  -    -   -   -           *            *      *            *    (ARG1*)           *    (1)
+bn/ctv/01/ctv_0168   0   23      按     P      (IP(VP(PP*   -    -   -   -           *            *      *            *    (ARG2*   (ARGM-MNR*     -
+bn/ctv/01/ctv_0168   0   24     预订    JJ       (NP(ADJP*)  -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   25     计划    NN          (NP*)))  -    -   -   -           *            *      *            *         *            *)    -
+bn/ctv/01/ctv_0168   0   26      由     P            (PP*   -    -   -   -           *            *      *            *         *   (ARGM-DIR*     -
+bn/ctv/01/ctv_0168   0   27     椭圆    NN            (NP*   -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   28     轨道    NN              *))  -    -   -   -           *            *      *            *         *            *)    -
+bn/ctv/01/ctv_0168   0   29     进入    VV            (VP*   -   01   -   -           *            *      *            *         *          (V*)    -
+bn/ctv/01/ctv_0168   0   30      了    AS               *   -    -   -   -           *            *      *            *         *            *     -
+bn/ctv/01/ctv_0168   0   31      圆    NN            (NP*   -    -   -   -           *            *      *            *         *       (ARG1*     -
+bn/ctv/01/ctv_0168   0   32     轨道    NN          *))))))  -    -   -   -           *            *      *            *         *)           *)    -
+bn/ctv/01/ctv_0168   0   33      。    PU              *))  -    -   -   -           *            *      *            *         *            *     -
+
+bn/ctv/01/ctv_0168   0    0    １２号    NT    (TOP(IP(NP*   -    -   -   -      (TIME*      *    (ARGM-TMP*    (ARGM-TMP*             *   (ARGM-TMP*     -
+bn/ctv/01/ctv_0168   0    1      晚    NT              *)  -    -   2   -           *)     *             *)            *)            *            *)    -
+bn/ctv/01/ctv_0168   0    2      又    AD   (VP(VP(ADVP*)  -    -   -   -           *      *    (ARGM-ADV*)   (ARGM-ADV*)            *            *     -
+bn/ctv/01/ctv_0168   0    3     成功    VA       (DVP(VP*)  -   01   -   -           *    (V*)   (ARGM-ADV*    (ARGM-ADV*             *            *     -
+bn/ctv/01/ctv_0168   0    4      的   DEV              *)  -    -   -   -           *      *             *)            *)            *            *     -
+bn/ctv/01/ctv_0168   0    5      对     P           (PP*   -    -   3   -           *      *        (ARG1*             *             *            *     -
+bn/ctv/01/ctv_0168   0    6     飞船    NN          (NP*))  -    -   -   -           *      *             *)            *             *            *    (1)
+bn/ctv/01/ctv_0168   0    7     实施    VV        (VP(VP*   -   01   -   -           *      *           (V*)            *             *            *     -
+bn/ctv/01/ctv_0168   0    8      了    AS              *   -    -   -   -           *      *             *             *             *            *     -
+bn/ctv/01/ctv_0168   0    9    发动机    NN        (NP(NP*)  -    -   -   -           *      *        (ARG1*             *             *            *    (0)
+bn/ctv/01/ctv_0168   0   10     第二    OD           (QP*   -    -   -   -    (ORDINAL)     *             *             *             *            *     -
+bn/ctv/01/ctv_0168   0   11      次     M         (CLP*))  -    -   -   -           *      *             *             *             *            *     -
+bn/ctv/01/ctv_0168   0   12     点火    NN         (NP*)))  -    -   -   -           *      *             *)            *             *            *     -
+bn/ctv/01/ctv_0168   0   13      ，    PU              *   -    -   -   -           *      *             *             *             *            *     -
+bn/ctv/01/ctv_0168   0   14     进行    VV           (VP*   -   01   3   -           *      *             *           (V*)            *            *     -
+bn/ctv/01/ctv_0168   0   15     轨道    NN           (NP*   -    -   -   -           *      *             *        (ARG1*             *            *     -
+bn/ctv/01/ctv_0168   0   16     维持    NN           *))))  -    -   -   -           *      *             *             *)            *            *     -
+bn/ctv/01/ctv_0168   0   17      ，    PU              *   -    -   -   -           *      *             *             *             *            *     -
+bn/ctv/01/ctv_0168   0   18      为     P        (VP(PP*   -    -   4   -           *      *             *             *             *   (ARGM-PRP*     -
+bn/ctv/01/ctv_0168   0   19     飞船    NN        (IP(NP*)  -    -   -   -           *      *             *             *        (ARG0*)           *    (1)
+bn/ctv/01/ctv_0168   0   20     顺利    AD      (VP(ADVP*)  -    -   -   -           *      *             *             *    (ARGM-ADV*)           *     -
+bn/ctv/01/ctv_0168   0   21     返回    VV        (VP*))))  -   01   -   -           *      *             *             *           (V*)           *)    -
+bn/ctv/01/ctv_0168   0   22     创造    VV           (VP*   -   01   -   -           *      *             *             *             *          (V*)    -
+bn/ctv/01/ctv_0168   0   23      了    AS              *   -    -   -   -           *      *             *             *             *            *     -
+bn/ctv/01/ctv_0168   0   24     条件    NN        (NP*))))  -    -   -   -           *      *             *             *             *       (ARG1*)    -
+bn/ctv/01/ctv_0168   0   25      。    PU             *))  -    -   -   -           *      *             *             *             *            *     -
+
+bn/ctv/01/ctv_0168   0    0    飞船    NN   (TOP(IP(NP(CP(IP(NP*)  -    -   -   -   *        (ARG0*)     *    (ARGM-TMP*        *    (1)
+bn/ctv/01/ctv_0168   0    1    在轨    AD              (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)     *             *        *     -
+bn/ctv/01/ctv_0168   0    2    飞行    VV                (VP*))))  -   01   -   -   *           (V*)     *             *        *     -
+bn/ctv/01/ctv_0168   0    3    期间    NN                  (NP*))  -    -   -   -   *    (ARGM-TMP*)     *             *)       *     -
+bn/ctv/01/ctv_0168   0    4     ，    PU                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0    5     还    AD              (VP(ADVP*)  -    -   -   -   *             *      *    (ARGM-ADV*)       *     -
+bn/ctv/01/ctv_0168   0    6    组织    VV               (VP(VSB*   -   01   1   -   *             *    (V*)            *        *     -
+bn/ctv/01/ctv_0168   0    7    实施    VV                      *)  -   01   -   -   *             *      *           (V*)       *     -
+bn/ctv/01/ctv_0168   0    8     了    AS                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0    9    飞船    NN     (NP(NP(DNP(LCP(NP*)  -    -   -   -   *             *      *        (ARG1*        *    (1)
+bn/ctv/01/ctv_0168   0   10     上    LC                      *)  -    -   1   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   11     的   DEG                      *)  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   12     各    DT                   (DP*   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   13     种     M                 (CLP*))  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   14    科学    NN                   (NP*   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   15    实验    NN                     *))  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   16     ，    PU                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   17    包括    VV               (PRN(VP*   -   01   -   -   *             *      *             *      (V*)    -
+bn/ctv/01/ctv_0168   0   18    生命    NN                (NP(NP*   -    -   -   -   *             *      *             *   (ARG1*     -
+bn/ctv/01/ctv_0168   0   19    空间    NN                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   20    环境    NN                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   21    实验    NN                      *)  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   22     、    PU                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   23    空间    NN                   (NP*   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   24    天文    NN                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   25    物理    NN                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   26    实验    NN                      *)  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   27    以及    CC                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   28    天地    NN        (NP(DNP(LCP(NP*)  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   29    之间    LC                      *)  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   30     的   DEG                      *)  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   31    图像    NN                   (NP*   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   32    话音    NN                      *   -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   33    传输    NN                     *))  -    -   -   -   *             *      *             *        *     -
+bn/ctv/01/ctv_0168   0   34     等   ETC                 *))))))  -    -   2   -   *             *      *             *)       *)    -
+bn/ctv/01/ctv_0168   0   35     。    PU                     *))  -    -   -   -   *             *      *             *        *     -
+
+bn/ctv/01/ctv_0168   0    0    今后    NT   (TOP(IP(LCP(QP(NP*)  -    -   -   -   (DATE*    (ARGM-TMP*    (ARGM-TMP*             *    (ARGM-TMP*     -
+bn/ctv/01/ctv_0168   0    1     几    CD                 (QP*   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0    2     天     M              (CLP*)))  -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0    3     内    LC                    *)  -    -   -   -        *)            *)            *)            *             *)    -
+bn/ctv/01/ctv_0168   0    4     ，    PU                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0    5    北京    NR                 (NP*   -    -   -   -    (ORG*        (ARG0*        (ARG0*             *        (ARG0*    (2
+bn/ctv/01/ctv_0168   0    6    航天    NN                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0    7    指挥    NN                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0    8    控制    NN                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0    9    中心    NN                    *)  -    -   -   -        *)            *)            *)            *             *)    2)
+bn/ctv/01/ctv_0168   0   10     将    AD            (VP(ADVP*)  -    -   -   -        *    (ARGM-ADV*)   (ARGM-ADV*)            *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0168   0   11    密切    AD         (VP(VP(ADVP*)  -    -   3   -        *    (ARGM-ADV*)            *             *             *     -
+bn/ctv/01/ctv_0168   0   12    监视    VV                 (VP*   -   01   -   -        *           (V*)            *             *             *     -
+bn/ctv/01/ctv_0168   0   13    飞船    NN          (NP(DNP(NP*)  -    -   -   -        *        (ARG1*             *             *             *    (1)
+bn/ctv/01/ctv_0168   0   14     的   DEG                    *)  -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   15     各    DT                 (DP*   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   16     种     M               (CLP*))  -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   17    飞行    NN                 (NP*   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   18    状况    NN                 *))))  -    -   -   -        *             *)            *             *             *     -
+bn/ctv/01/ctv_0168   0   19     ，    PU                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   20    适时    AD            (VP(ADVP*)  -    -   -   -        *             *    (ARGM-ADV*)            *             *     -
+bn/ctv/01/ctv_0168   0   21    变轨    VV              (VP(VP*)  -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   22     ，    PU                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   23    进行    VV                 (VP*   -   01   3   -        *             *           (V*)            *             *     -
+bn/ctv/01/ctv_0168   0   24    轨道    NN                 (NP*   -    -   -   -        *             *        (ARG1*             *             *     -
+bn/ctv/01/ctv_0168   0   25    维持    NN                 *))))  -    -   -   -        *             *             *)            *             *     -
+bn/ctv/01/ctv_0168   0   26     ，    PU                    *   -    -   -   -        *             *             *             *             *     -
+bn/ctv/01/ctv_0168   0   27     为     P              (VP(PP*   -    -   5   -        *             *             *             *    (ARGM-PRP*     -
+bn/ctv/01/ctv_0168   0   28    飞船    NN              (IP(NP*)  -    -   -   -        *             *             *        (ARG0*)            *    (1)
+bn/ctv/01/ctv_0168   0   29    顺利    AD            (VP(ADVP*)  -    -   -   -        *             *             *    (ARGM-ADV*)            *     -
+bn/ctv/01/ctv_0168   0   30    返回    VV              (VP*))))  -   01   -   -        *             *             *           (V*)            *)    -
+bn/ctv/01/ctv_0168   0   31     作    VV                 (VP*   -   01   3   -        *             *             *             *           (V*)    -
+bn/ctv/01/ctv_0168   0   32    准备    NN             (NP*)))))  -    -   3   -        *             *             *             *        (ARG1*)    -
+bn/ctv/01/ctv_0168   0   33     。    PU                   *))  -    -   -   -        *             *             *             *             *     -
+
+bn/ctv/01/ctv_0168   0   0      这    PN        (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)        *   -
+bn/ctv/01/ctv_0168   0   1      是    VC               (VP*   -   01   1   -       *       (V*)        *   -
+bn/ctv/01/ctv_0168   0   2    中央台    NR   (NP(CP(CP(IP(NP*)  -    -   -   -    (ORG)   (ARG1*    (ARG0*)  -
+bn/ctv/01/ctv_0168   0   3     报道    VV              (VP*))  -   01   -   -       *         *       (V*)  -
+bn/ctv/01/ctv_0168   0   4      的   DEC               *))))  -    -   -   -       *         *)        *   -
+bn/ctv/01/ctv_0168   0   5      。    PU                 *))  -    -   -   -       *         *         *   -
+
+#end document

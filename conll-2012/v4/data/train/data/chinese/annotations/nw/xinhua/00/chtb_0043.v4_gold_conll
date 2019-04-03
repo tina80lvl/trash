@@ -1,0 +1,604 @@
+#begin document (nw/xinhua/00/chtb_0043); part 000
+nw/xinhua/00/chtb_0043   0    0    上海   NR    (TOP(IP(NP*)  -    -   -   -      (GPE)   (ARG0*)           *             *        (61)
+nw/xinhua/00/chtb_0043   0    1    计划   VV           (VP*   -   01   -   -         *       (V*)           *             *          -
+nw/xinhua/00/chtb_0043   0    2     到    P     (IP(VP(PP*   -    -   5   -         *    (ARG1*   (ARGM-TMP*             *          -
+nw/xinhua/00/chtb_0043   0    3     本   DT    (LCP(NP(DP*)  -    -   2   -         *         *            *             *        (10
+nw/xinhua/00/chtb_0043   0    4    世纪   NN          (NP*))  -    -   -   -         *         *            *             *    (10)|10)
+nw/xinhua/00/chtb_0043   0    5     末   LC             *))  -    -   -   -         *         *            *)            *          -
+nw/xinhua/00/chtb_0043   0    6    实现   VV           (VP*   -   01   -   -         *         *          (V*)            *          -
+nw/xinhua/00/chtb_0043   0    7    人均   JJ      (NP(ADJP*)  -    -   -   -         *         *       (ARG1*             *        (43
+nw/xinhua/00/chtb_0043   0    8    国内   NN           (NP*   -    -   -   -         *         *            *    (ARGM-LOC*)       (43
+nw/xinhua/00/chtb_0043   0    9    生产   NN              *   -   01   3   -         *         *            *           (V*)         -
+nw/xinhua/00/chtb_0043   0   10    总值   NN             *))  -    -   -   -         *         *            *)            *     43)|43)
+nw/xinhua/00/chtb_0043   0   11    五千   CD           (QP*   -    -   -   -   (MONEY*         *       (ARG1*             *          -
+nw/xinhua/00/chtb_0043   0   12    美元    M   (CLP*))))))))  -    -   -   -         *)        *)           *)            *          -
+
+nw/xinhua/00/chtb_0043   0   0    新华社   NN  (TOP(FRAG*   -   -   -   -       (ORG)  -
+nw/xinhua/00/chtb_0043   0   1     上海   NR           *   -   -   -   -       (GPE)  -
+nw/xinhua/00/chtb_0043   0   2    十二月   NT           *   -   -   -   -     (DATE*   -
+nw/xinhua/00/chtb_0043   0   3     九日   NT           *   -   -   -   -          *)  -
+nw/xinhua/00/chtb_0043   0   4      电   NN           *   -   -   -   -          *   -
+nw/xinhua/00/chtb_0043   0   5      （   PU           *   -   -   -   -          *   -
+nw/xinhua/00/chtb_0043   0   6     记者   NN           *   -   -   -   -          *   -
+nw/xinhua/00/chtb_0043   0   7    周解蓉   NR           *   -   -   -   -    (PERSON)  -
+nw/xinhua/00/chtb_0043   0   8     陆斌   NR          *))  -   -   -   -    (PERSON)  -
+
+nw/xinhua/00/chtb_0043   0    0       中国    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -      (GPE)  (ARG0*        *            *             *    (61|(32)
+nw/xinhua/00/chtb_0043   0    1       最大    JJ              (ADJP*)  -    -   -   -         *        *        *            *             *          -
+nw/xinhua/00/chtb_0043   0    2       城市    NN               (NP*))  -    -   1   -         *        *        *            *             *        (61)
+nw/xinhua/00/chtb_0043   0    3       上海    NR               (NP*))  -    -   -   -      (GPE)       *)       *            *             *         61)
+nw/xinhua/00/chtb_0043   0    4       决心    VV                (VP*   -   01   -   -         *      (V*)       *            *             *          -
+nw/xinhua/00/chtb_0043   0    5       抓住    VV          (IP(VP(VP*   -   01   -   -         *   (ARG1*      (V*)           *             *          -
+nw/xinhua/00/chtb_0043   0    6        本    DT   (NP(DNP(QP(NP(DP*)  -    -   2   -         *        *   (ARG1*            *             *    (10|(38
+nw/xinhua/00/chtb_0043   0    7       世纪    NN               (NP*))  -    -   -   -         *        *        *            *             *    (10)|10)
+nw/xinhua/00/chtb_0043   0    8       最后    JJ              (ADJP*)  -    -   -   -    (DATE*        *        *            *             *          -
+nw/xinhua/00/chtb_0043   0    9        三    CD                (QP*   -    -   -   -         *        *        *            *             *          -
+nw/xinhua/00/chtb_0043   0   10        年     M             (CLP*)))  -    -   -   -         *)       *        *            *             *          -
+nw/xinhua/00/chtb_0043   0   11        的   DEG                   *)  -    -   -   -         *        *        *            *             *          -
+nw/xinhua/00/chtb_0043   0   12       发展    NN                (NP*   -    -   3   -         *        *        *            *             *        (38
+nw/xinhua/00/chtb_0043   0   13       时机    NN                 *)))  -    -   -   -         *        *        *)           *             *     38)|38)
+nw/xinhua/00/chtb_0043   0   14        ，    PU                   *   -    -   -   -         *        *        *            *             *          -
+nw/xinhua/00/chtb_0043   0   15        到     P             (VP(PP*   -    -   5   -         *        *        *   (ARGM-TMP*             *          -
+nw/xinhua/00/chtb_0043   0   16    二０００年    NT               (NP*))  -    -   -   -     (DATE)       *        *            *)            *        (19)
+nw/xinhua/00/chtb_0043   0   17       实现    VV                (VP*   -   01   -   -         *        *        *          (V*)            *          -
+nw/xinhua/00/chtb_0043   0   18       人均    JJ           (NP(ADJP*)  -    -   -   -         *        *        *       (ARG1*             *        (43
+nw/xinhua/00/chtb_0043   0   19       国内    NN                (NP*   -    -   -   -         *        *        *            *    (ARGM-LOC*)       (43
+nw/xinhua/00/chtb_0043   0   20       生产    NN                   *   -   01   3   -         *        *        *            *           (V*)         -
+nw/xinhua/00/chtb_0043   0   21       总值    NN                  *))  -    -   -   -         *        *        *            *)            *     43)|43)
+nw/xinhua/00/chtb_0043   0   22       五千    CD                (QP*   -    -   -   -   (MONEY*        *        *       (ARG1*             *          -
+nw/xinhua/00/chtb_0043   0   23       美元     M         (CLP*)))))))  -    -   -   -         *)       *)       *            *)            *          -
+nw/xinhua/00/chtb_0043   0   24        。    PU                  *))  -    -   -   -         *        *        *            *             *          -
+
+nw/xinhua/00/chtb_0043   0    0    经过     P            (TOP(IP(PP*   -    -    -   -         *             *             *    (ARGM-ADV*          -
+nw/xinhua/00/chtb_0043   0    1     近    AD   (NP(DNP(LCP(QP(ADVP*)  -    -    -   -    (DATE*    (ARGM-TMP*             *             *         (2
+nw/xinhua/00/chtb_0043   0    2     几    CD                   (QP*   -    -    -   -         *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    3     年     M                (CLP*)))  -    -    -   -         *)            *             *             *          -
+nw/xinhua/00/chtb_0043   0    4     来    LC                      *)  -    -   13   -         *             *)            *             *          -
+nw/xinhua/00/chtb_0043   0    5     的   DEG                      *)  -    -    -   -         *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    6    快速    JJ                 (ADJP*)  -    -    -   -         *    (ARGM-MNR*)            *             *          -
+nw/xinhua/00/chtb_0043   0    7    增长    NN                 (NP*)))  -   01    2   -         *           (V*)            *             *)     (2)|2)
+nw/xinhua/00/chtb_0043   0    8     ，    PU                      *   -    -    -   -         *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    9    上海    NR                (NP(NP*)  -    -    -   -      (GPE)       (ARG0*             *        (ARG0*    (43|(61)
+nw/xinhua/00/chtb_0043   0   10    人均    JJ                 (ADJP*)  -    -    -   -         *             *             *             *          -
+nw/xinhua/00/chtb_0043   0   11    国内    NN                   (NP*   -    -    -   -         *             *    (ARGM-LOC*)            *        (43
+nw/xinhua/00/chtb_0043   0   12    生产    NN                      *   -   01    3   -         *             *           (V*)            *          -
+nw/xinhua/00/chtb_0043   0   13    总值    NN                     *))  -    -    -   -         *             *)            *             *)    43)|43)
+nw/xinhua/00/chtb_0043   0   14    今年    NT                (VP(NP*)  -    -    -   -     (DATE)            *             *    (ARGM-TMP*)       (64)
+nw/xinhua/00/chtb_0043   0   15     将    AD                 (ADVP*)  -    -    -   -         *             *             *    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   16    突破    VV                   (VP*   -   02    2   -         *             *             *           (V*)         -
+nw/xinhua/00/chtb_0043   0   17    三千    CD                   (QP*   -    -    -   -   (MONEY*             *             *        (ARG1*          -
+nw/xinhua/00/chtb_0043   0   18    美元     M               (CLP*))))  -    -    -   -         *)            *             *             *)         -
+nw/xinhua/00/chtb_0043   0   19     。    PU                     *))  -    -    -   -         *             *             *             *          -
+
+nw/xinhua/00/chtb_0043   0    0        而   AD   (TOP(IP(ADVP*)  -    -   -   -         *    (ARGM-DIS*)         -
+nw/xinhua/00/chtb_0043   0    1        在    P            (PP*   -    -   2   -         *    (ARGM-TMP*          -
+nw/xinhua/00/chtb_0043   0    2    一九九二年   NT           (NP*))  -    -   -   -     (DATE)            *)         -
+nw/xinhua/00/chtb_0043   0    3        ，   PU               *   -    -   -   -         *             *          -
+nw/xinhua/00/chtb_0043   0    4        这   DT         (NP(DP*   -    -   -   -         *        (ARG0*        (43
+nw/xinhua/00/chtb_0043   0    5        项    M          (CLP*))  -    -   -   -         *             *          -
+nw/xinhua/00/chtb_0043   0    6       数字   NN           (NP*))  -    -   -   -         *             *)   (43)|43)
+nw/xinhua/00/chtb_0043   0    7        仅   AD       (VP(ADVP*)  -    -   -   -         *    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0    8        为   VC            (VP*   -   01   1   -         *           (V*)         -
+nw/xinhua/00/chtb_0043   0    9     一千五百   CD            (QP*   -    -   -   -   (MONEY*        (ARG1*          -
+nw/xinhua/00/chtb_0043   0   10       美元    M        (CLP*))))  -    -   -   -         *)            *)         -
+nw/xinhua/00/chtb_0043   0   11        。   PU              *))  -    -   -   -         *             *          -
+
+nw/xinhua/00/chtb_0043   0    0        据     P          (TOP(IP(PP*   -    -   -   -           *        *        *      *            *             *             *           *      *   (ARGM-MNR*          -
+nw/xinhua/00/chtb_0043   0    1      上海市    NR           (IP(NP(NP*)  -    -   -   -       (ORG*   (ARG0*   (ARG0*      *            *             *             *           *      *            *    (16|(61)
+nw/xinhua/00/chtb_0043   0    2       计委    NN                 (NP*   -    -   -   -           *)       *        *      *            *             *             *           *      *            *        (16
+nw/xinhua/00/chtb_0043   0    3       专家    NN                   *))  -    -   -   -           *        *)       *)     *            *             *             *           *      *            *     16)|16)
+nw/xinhua/00/chtb_0043   0    4       分析    VV             (VP(VCD*   -   01   -   -           *      (V*)       *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0    5       测算    VV                 *))))  -   01   -   -           *        *      (V*)     *            *             *             *           *      *            *)         -
+nw/xinhua/00/chtb_0043   0    6        ，    PU                    *   -    -   -   -           *        *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0    7        要    VV              (IP(VP*   -   03   1   -           *        *        *    (V*)           *             *             *           *      *   (ARGM-PRP*          -
+nw/xinhua/00/chtb_0043   0    8        在     P              (VP(PP*   -    -   2   -           *        *        *      *   (ARGM-TMP*             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0    9    二０００年    NT                (NP*))  -    -   -   -       (DATE)       *        *      *            *)            *             *           *      *            *        (19)
+nw/xinhua/00/chtb_0043   0   10       实现    VV                 (VP*   -   01   -   -           *        *        *      *          (V*)            *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   11       人均    JJ   (NP(CP(IP(NP(ADJP*)  -    -   -   -           *        *        *      *       (ARG1*             *             *           *      *            *     (8|(43
+nw/xinhua/00/chtb_0043   0   12       国内    NN                 (NP*   -    -   -   -           *        *        *      *            *    (ARGM-LOC*)            *           *      *            *        (43
+nw/xinhua/00/chtb_0043   0   13       生产    NN                    *   -   01   3   -           *        *        *      *            *           (V*)            *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   14       总值    NN                   *))  -    -   -   -           *        *        *      *            *             *             *           *      *            *     43)|43)
+nw/xinhua/00/chtb_0043   0   15       五千    CD              (VP(QP*   -    -   -   -     (MONEY*        *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   16       美元     M             (CLP*))))  -    -   -   -           *)       *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   17        的   DEC                    *)  -    -   -   -           *        *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   18       目标    NN            (NP*))))))  -    -   -   -           *        *        *      *            *)            *             *           *      *            *)     (8)|8)
+nw/xinhua/00/chtb_0043   0   19        ，    PU                    *   -    -   -   -           *        *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   20       今后    NT              (QP(NP*)  -    -   -   -      (DATE*        *        *      *            *             *             *           *      *   (ARGM-TMP*        (49)
+nw/xinhua/00/chtb_0043   0   21        三    CD                 (QP*   -    -   -   -           *        *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   22        年     M              (CLP*)))  -    -   -   -           *)       *        *      *            *             *             *           *      *            *)         -
+nw/xinhua/00/chtb_0043   0   23       上海    NR              (NP(NP*)  -    -   -   -        (GPE)       *        *      *            *             *             *      (ARG1*)     *       (ARG0*    (17|(61)
+nw/xinhua/00/chtb_0043   0   24       国内    NN                 (NP*   -    -   -   -           *        *        *      *            *             *    (ARGM-LOC*)   (C-ARG1*)     *            *        (17
+nw/xinhua/00/chtb_0043   0   25       生产    NN                    *   -   01   3   -           *        *        *      *            *             *           (V*)   (C-ARG1*)     *            *          -
+nw/xinhua/00/chtb_0043   0   26       总值    NN                    *   -    -   -   -           *        *        *      *            *             *             *    (C-ARG1*)     *            *          -
+nw/xinhua/00/chtb_0043   0   27       平均    NN                    *   -   01   -   -           *        *        *      *            *             *             *         (V*)     *            *          -
+nw/xinhua/00/chtb_0043   0   28      年增幅    NN                   *))  -    -   -   -           *        *        *      *            *             *             *    (C-ARG1*)     *            *)    17)|17)
+nw/xinhua/00/chtb_0043   0   29        要    VV                 (VP*   -   03   3   -           *        *        *      *            *             *             *           *    (V*)           *          -
+nw/xinhua/00/chtb_0043   0   30       达到    VV                 (VP*   -   01   -   -           *        *        *      *            *             *             *           *      *          (V*)         -
+nw/xinhua/00/chtb_0043   0   31     百分之十    CD                 (QP*   -    -   -   -    (PERCENT)       *        *      *            *             *             *           *      *       (ARG1*          -
+nw/xinhua/00/chtb_0043   0   32        至    CC                    *   -    -   -   -           *        *        *      *            *             *             *           *      *            *          -
+nw/xinhua/00/chtb_0043   0   33    百分之十一    CD                  *)))  -    -   -   -    (PERCENT)       *        *      *            *             *             *           *      *            *)         -
+nw/xinhua/00/chtb_0043   0   34        。    PU                   *))  -    -   -   -           *        *        *      *            *             *             *           *      *            *          -
+
+nw/xinhua/00/chtb_0043   0    0     上海市    NR       (TOP(IP(NP(NP(NP*)  -    -   -   -       (GPE)     *       (ARG0*             *         *        *            *      *             *    (22|(61)
+nw/xinhua/00/chtb_0043   0    1      市长    NN                   (NP*))  -    -   -   -          *      *            *             *         *        *            *      *             *        (22)
+nw/xinhua/00/chtb_0043   0    2     徐匡迪    NR                   (NP*))  -    -   -   -    (PERSON)     *            *)            *         *        *            *      *             *         22)
+nw/xinhua/00/chtb_0043   0    3      乐观    VA             (VP(DVP(VP*)  -   01   -   -          *    (V*)  (ARGM-ADV*             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0    4       地   DEV                       *)  -    -   -   -          *      *            *)            *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0    5      表示    VV                    (VP*   -   01   2   -          *      *          (V*)            *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0    6       ，    PU                       *   -    -   -   -          *      *            *             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0    7      对于     P           (IP(IP(VP(PP*   -    -   -   -          *      *       (ARG1*             *         *   (ARG1*   (ARGM-ADV*      *             *          -
+nw/xinhua/00/chtb_0043   0    8       正    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -          *      *            *    (ARGM-ADV*)        *        *            *      *             *        (61
+nw/xinhua/00/chtb_0043   0    9      处在    VV                    (VP*   -   01   -   -          *      *            *           (V*)        *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   10    有史以来    AD      (LCP(NP(ADJP(ADVP*)  -    -   -   -          *      *            *        (ARG1*         *        *            *      *             *        (51
+nw/xinhua/00/chtb_0043   0   11      最好    JJ                 (ADJP*))  -    -   -   -          *      *            *             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   12      经济    NN                    (NP*   -    -   2   -          *      *            *             *    (ARG1*)       *            *      *             *        (51
+nw/xinhua/00/chtb_0043   0   13      发展    NN                       *   -   01   1   -          *      *            *             *       (V*)       *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   14      环境    NN                      *))  -    -   -   -          *      *            *             *         *        *            *      *             *     51)|51)
+nw/xinhua/00/chtb_0043   0   15       中    LC                    *))))  -    -   -   -          *      *            *             *)        *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   16       的   DEC                      *))  -    -   -   -          *      *            *             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   17      上海    NR                  (NP*)))  -    -   -   -       (GPE)     *            *        (ARG0*)        *        *)           *      *             *    (61)|61)
+nw/xinhua/00/chtb_0043   0   18       来   MSP                    (VP*   -    -   7   -          *      *            *             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   19       说    VV                 (VP*))))  -   02   6   -          *      *            *             *         *      (V*)           *)     *             *          -
+nw/xinhua/00/chtb_0043   0   20       ，    PU                       *   -    -   -   -          *      *            *             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   21       这    DT                 (NP(DP*   -    -   -   -          *      *            *             *         *        *       (ARG0*      *             *        (54
+nw/xinhua/00/chtb_0043   0   22       个     M                  (CLP*))  -    -   -   -          *      *            *             *         *        *            *      *             *          -
+nw/xinhua/00/chtb_0043   0   23      发展    NN                    (NP*   -    -   1   -          *      *            *             *         *        *            *      *             *        (54
+nw/xinhua/00/chtb_0043   0   24      速度    NN                      *))  -    -   -   -          *      *            *             *         *        *            *)     *             *     54)|54)
+nw/xinhua/00/chtb_0043   0   25       是    VC                    (VP*   -   01   1   -          *      *            *             *         *        *          (V*)     *             *          -
+nw/xinhua/00/chtb_0043   0   26      完全    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -          *      *            *             *         *        *       (ARG1*      *    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   27      可能    VV                    (VP*   -   01   -   -          *      *            *             *         *        *            *    (V*)            *          -
+nw/xinhua/00/chtb_0043   0   28      达到    VV                 (VP*))))  -   01   -   -          *      *            *             *         *        *            *      *           (V*)         -
+nw/xinhua/00/chtb_0043   0   29       的   DEC                 *)))))))  -    -   -   -          *      *            *)            *         *        *            *)     *             *          -
+nw/xinhua/00/chtb_0043   0   30       。    PU                      *))  -    -   -   -          *      *            *             *         *        *            *      *             *          -
+
+nw/xinhua/00/chtb_0043   0    0         上海    NR  (TOP(IP(NP(CP(CP(IP(NP*   -    -   -   -       (ORG*    (ARG0*   (ARG0*             *             *             *             *        (27
+nw/xinhua/00/chtb_0043   0    1        统计局    NN                        *)  -    -   -   -           *)        *)       *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    2         公布    VV                    (VP*))  -   01   -   -           *       (V*)       *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    3          的   DEC                       *))  -    -   -   -           *         *        *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    4         数字    NN                    (NP*))  -    -   -   -           *    (ARG1*)       *)            *             *             *             *    (27)|27)
+nw/xinhua/00/chtb_0043   0    5         显示    VV                     (VP*   -   01   1   -           *         *      (V*)            *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    6          ，    PU                        *   -    -   -   -           *         *        *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    7      一九九二年    NT               (IP(IP(NP*   -    -   -   -      (DATE*         *   (ARG1*             *    (ARGM-TMP*             *             *          -
+nw/xinhua/00/chtb_0043   0    8          至    CC                        *   -    -   -   -           *         *        *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0    9      一九九六年    NT                        *)  -    -   -   -           *)        *        *             *             *)            *             *          -
+nw/xinhua/00/chtb_0043   0   10         上海    NR                  (NP(NP*)  -    -   -   -        (GPE)        *        *             *        (ARG0*             *             *    (43|(61)
+nw/xinhua/00/chtb_0043   0   11         国内    NN                     (NP*   -    -   -   -           *         *        *    (ARGM-LOC*)            *             *             *        (43
+nw/xinhua/00/chtb_0043   0   12         生产    NN                        *   -   01   3   -           *         *        *           (V*)            *             *             *          -
+nw/xinhua/00/chtb_0043   0   13         总值    NN                       *))  -    -   -   -           *         *        *             *             *)            *             *     43)|43)
+nw/xinhua/00/chtb_0043   0   14         年均    AD                (VP(ADVP*)  -    -   -   -           *         *        *             *    (ARGM-ADV*)            *             *          -
+nw/xinhua/00/chtb_0043   0   15         增长    VV                     (VP*   -   01   1   -           *         *        *             *           (V*)            *             *          -
+nw/xinhua/00/chtb_0043   0   16    百分之十四点二    CD                  (QP*))))  -    -   -   -    (PERCENT)        *        *             *        (ARG1*)            *             *          -
+nw/xinhua/00/chtb_0043   0   17          ，    PU                        *   -    -   -   -           *         *        *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0   18         今年    NT           (IP(NP(DNP(NP*)  -    -   -   -       (DATE)        *        *             *             *    (ARGM-TMP*)       (ARG0*    (39|(64)
+nw/xinhua/00/chtb_0043   0   19          的   DEG                        *)  -    -   -   -           *         *        *             *             *             *             *          -
+nw/xinhua/00/chtb_0043   0   20         增长    NN                     (NP*   -   01   2   -           *         *        *             *             *           (V*)            *        (39
+nw/xinhua/00/chtb_0043   0   21         速度    NN                       *))  -    -   -   -           *         *        *             *             *             *             *)    39)|39)
+nw/xinhua/00/chtb_0043   0   22          也    AD                (VP(ADVP*)  -    -   -   -           *         *        *             *             *             *    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   23          将    AD                   (ADVP*)  -    -   -   -           *         *        *             *             *             *    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   24         达到    VV                     (VP*   -   01   -   -           *         *        *             *             *             *           (V*)         -
+nw/xinhua/00/chtb_0043   0   25      百分之十三    CD                 (LCP(QP*)  -    -   -   -   (PERCENT*         *        *             *             *             *        (ARG1*          -
+nw/xinhua/00/chtb_0043   0   26         以上    LC                   *))))))  -    -   -   -           *)        *        *)            *             *             *             *)         -
+nw/xinhua/00/chtb_0043   0   27          。    PU                       *))  -    -   -   -           *         *        *             *             *             *             *          -
+
+nw/xinhua/00/chtb_0043   0    0    上海市    NR  (TOP(IP(NP(NP(NP*   -    -    -   -      (ORG*         *   (ARG0*           *             *             *        *             *             *            (44
+nw/xinhua/00/chtb_0043   0    1     政府    NN                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0    2     发展    NN                  *   -    -    1   -          *    (ARG1*)       *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0    3     研究    NN                  *   -   01    4   -          *       (V*)       *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0    4     中心    NN                  *)  -    -    -   -          *)   (ARG0*)       *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0    5     主任    NN              (NP*))  -    -    -   -          *         *        *           *             *             *        *             *             *            (44)
+nw/xinhua/00/chtb_0043   0    6     王战    NR              (NP*))  -    -    -   -    (PERSON)        *        *)          *             *             *        *             *             *             44)
+nw/xinhua/00/chtb_0043   0    7     认为    VV               (VP*   -   01    1   -          *         *      (V*)          *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0    8      ，    PU                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0    9     今后    NT      (IP(IP(QP(NP*)  -    -    -   -     (DATE*         *   (ARG1*           *             *    (ARGM-TMP*        *             *             *            (49)
+nw/xinhua/00/chtb_0043   0   10      三    CD               (QP*   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   11      年     M            (CLP*)))  -    -    -   -          *)        *        *           *             *             *)       *             *             *              -
+nw/xinhua/00/chtb_0043   0   12     世界    NN     (NP(NP(DNP(NP*   -    -    -   -          *         *        *      (ARG1*)            *        (ARG0*        *             *             *            (30
+nw/xinhua/00/chtb_0043   0   13     经济    NN                  *   -    -    2   -          *         *        *    (C-ARG1*)            *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   14     发展    NN                  *)  -   01    1   -          *         *        *         (V*)            *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   15      的   DEG                  *)  -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   16     趋势    NN              (NP*))  -    -    -   -          *         *        *           *             *             *        *             *             *        (30)|30)
+nw/xinhua/00/chtb_0043   0   17      和    CC                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   18     国家    NN     (NP(DNP(NP(NP*)  -    -    -   -          *         *        *           *        (ARG0*)            *        *             *             *    (23|(47|(32)
+nw/xinhua/00/chtb_0043   0   19     宏观    JJ             (ADJP*)  -    -    -   -          *         *        *           *    (ARGM-MNR*)            *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   20     调控    NN              (NP*))  -   01    -   -          *         *        *           *           (V*)            *        *             *             *        (47)|47)
+nw/xinhua/00/chtb_0043   0   21      的   DEG                  *)  -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   22     政策    NN               (NP*   -    -    -   -          *         *        *           *             *             *        *             *             *            (23
+nw/xinhua/00/chtb_0043   0   23     取向    NN                *)))  -    -    -   -          *         *        *           *             *             *)       *             *             *         23)|23)
+nw/xinhua/00/chtb_0043   0   24      ，    PU                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   25     总体    NN        (VP(LCP(NP*)  -    -    -   -          *         *        *           *             *    (ARGM-ADV*        *             *             *              -
+nw/xinhua/00/chtb_0043   0   26      上    LC                  *)  -    -    3   -          *         *        *           *             *             *)       *             *             *              -
+nw/xinhua/00/chtb_0043   0   27      将    AD             (ADVP*)  -    -    -   -          *         *        *           *             *    (ARGM-ADV*)       *             *             *              -
+nw/xinhua/00/chtb_0043   0   28     有利    VV               (VP*   -   01    -   -          *         *        *           *             *           (V*)       *             *             *              -
+nw/xinhua/00/chtb_0043   0   29      于     P               (PP*   -    -    -   -          *         *        *           *             *        (ARG1*        *             *             *              -
+nw/xinhua/00/chtb_0043   0   30     上海    NR     (NP(DNP(NP(NP*)  -    -    -   -       (GPE)        *        *           *             *             *   (ARG1*             *             *    (14|(40|(61)
+nw/xinhua/00/chtb_0043   0   31     经济    NN              (NP*))  -    -    2   -          *         *        *           *             *             *        *)            *             *        (40)|40)
+nw/xinhua/00/chtb_0043   0   32      的   DEG                  *)  -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   33     发展    NN          (NP*))))))  -   01    1   -          *         *        *           *             *             *)     (V*)            *             *        (14)|14)
+nw/xinhua/00/chtb_0043   0   34      ，    PU                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   35      而    CC                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   36      近    AD   (IP(LCP(QP(ADVP*)  -    -    -   -     (DATE*         *        *           *             *             *        *             *    (ARGM-TMP*              -
+nw/xinhua/00/chtb_0043   0   37      六    CD               (QP*   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   38      年     M            (CLP*)))  -    -    -   -          *)        *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   39      来    LC                  *)  -    -   13   -          *         *        *           *             *             *        *             *             *)             -
+nw/xinhua/00/chtb_0043   0   40     上海    NR     (NP(DNP(NP(NP*)  -    -    -   -       (GPE)        *        *           *             *             *        *        (ARG0*        (ARG0*    (21|(40|(61)
+nw/xinhua/00/chtb_0043   0   41     经济    NN              (NP*))  -    -    2   -          *         *        *           *             *             *        *             *)            *        (40)|40)
+nw/xinhua/00/chtb_0043   0   42      的   DEG                  *)  -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   43     快速    JJ             (ADJP*)  -    -    -   -          *         *        *           *             *             *        *    (ARGM-MNR*)            *              -
+nw/xinhua/00/chtb_0043   0   44     增长    NN              (NP*))  -   01    2   -          *         *        *           *             *             *        *           (V*)            *)       (21)|21)
+nw/xinhua/00/chtb_0043   0   45      又    AD          (VP(ADVP*)  -    -    -   -          *         *        *           *             *             *        *             *    (ARGM-ADV*)             -
+nw/xinhua/00/chtb_0043   0   46      为     P               (PP*   -    -    5   -          *         *        *           *             *             *        *             *    (ARGM-BNF*              -
+nw/xinhua/00/chtb_0043   0   47      后    DT        (NP(DNP(DP*   -    -    -   -          *         *        *           *             *             *        *             *             *            (25
+nw/xinhua/00/chtb_0043   0   48      三    CD               (QP*   -    -    -   -     (DATE*         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   49      年     M            (CLP*)))  -    -    -   -          *)        *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   50      的   DEG                  *)  -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   51     发展    NN             (NP*)))  -    -    1   -          *         *        *           *             *             *        *             *             *)       (25)|25)
+nw/xinhua/00/chtb_0043   0   52     奠定    VV               (VP*   -   01    -   -          *         *        *           *             *             *        *             *           (V*)             -
+nw/xinhua/00/chtb_0043   0   53      了    AS                  *   -    -    -   -          *         *        *           *             *             *        *             *             *              -
+nw/xinhua/00/chtb_0043   0   54     良好    JJ          (NP(ADJP*)  -    -    -   -          *         *        *           *             *             *        *             *        (ARG1*            (42
+nw/xinhua/00/chtb_0043   0   55     基础    NN         (NP*)))))))  -    -    -   -          *         *        *)          *             *             *        *             *             *)       (42)|42)
+nw/xinhua/00/chtb_0043   0   56      。    PU                 *))  -    -    -   -          *         *        *           *             *             *        *             *             *              -
+
+nw/xinhua/00/chtb_0043   0    0    上海    NR   (TOP(IP(NP(DNP(NP(NP*)  -    -   -   -        (GPE)  (ARG0*             *             *             *             *    (4|(9|(61)
+nw/xinhua/00/chtb_0043   0    1    金融    NN                    (NP*   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    2     、    PU                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    3    商业    NN                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    4     、    PU                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    5    贸易    NN                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    6     、    PU                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    7    航运    NN                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    8     等   ETC                       *)  -    -   2   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0    9    行业    NN                   (NP*))  -    -   -   -           *        *             *             *             *             *        (9)|9)
+nw/xinhua/00/chtb_0043   0   10     的   DEG                       *)  -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0   11    专家    NN                   (NP*))  -    -   -   -           *        *)            *             *             *             *        (4)|4)
+nw/xinhua/00/chtb_0043   0   12    认为    VV                    (VP*   -   01   1   -           *      (V*)            *             *             *             *            -
+nw/xinhua/00/chtb_0043   0   13     ，    PU                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0   14    今后    NT          (IP(LCP(QP(NP*)  -    -   -   -      (DATE*   (ARG1*             *    (ARGM-TMP*             *    (ARGM-TMP*          (49)
+nw/xinhua/00/chtb_0043   0   15     三    CD                    (QP*   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0   16     年     M                 (CLP*)))  -    -   -   -           *)       *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0   17     里    LC                       *)  -    -   -   -           *        *             *             *)            *             *)           -
+nw/xinhua/00/chtb_0043   0   18     ，    PU                       *   -    -   -   -           *        *             *             *             *             *            -
+nw/xinhua/00/chtb_0043   0   19    第三    OD                 (NP(QP*)  -    -   -   -    (ORDINAL)       *             *        (ARG0*             *        (ARG0*          (28
+nw/xinhua/00/chtb_0043   0   20    产业    NN                   (NP*))  -    -   2   -           *        *             *             *)            *             *)     (28)|28)
+nw/xinhua/00/chtb_0043   0   21     将    AD               (VP(ADVP*)  -    -   -   -           *        *             *    (ARGM-ADV*)            *    (ARGM-ADV*)           -
+nw/xinhua/00/chtb_0043   0   22     对     P                    (PP*   -    -   3   -           *        *             *             *             *        (ARG2*            -
+nw/xinhua/00/chtb_0043   0   23    上海    NR                 (NP(NP*)  -    -   -   -        (GPE)       *             *             *             *             *      (43|(61)
+nw/xinhua/00/chtb_0043   0   24    国内    NN                    (NP*   -    -   -   -           *        *    (ARGM-LOC*)            *             *             *          (43
+nw/xinhua/00/chtb_0043   0   25    生产    NN                       *   -   01   3   -           *        *           (V*)            *             *             *            -
+nw/xinhua/00/chtb_0043   0   26    总值    NN                     *)))  -    -   -   -           *        *             *             *             *             *)      43)|43)
+nw/xinhua/00/chtb_0043   0   27    作出    VV                    (VP*   -   01   -   -           *        *             *           (V*)            *     (rel-Sup*)           -
+nw/xinhua/00/chtb_0043   0   28     更    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -           *        *             *        (ARG1*    (ARGM-ADV*)   (ARGM-ADV*          (34
+nw/xinhua/00/chtb_0043   0   29     大    VA                  (VP*)))  -   01   -   -           *        *             *             *           (V*)            *            -
+nw/xinhua/00/chtb_0043   0   30     的   DEC                      *))  -    -   -   -           *        *             *             *             *             *)           -
+nw/xinhua/00/chtb_0043   0   31    贡献    NN               (NP*))))))  -   01   -   -           *        *)            *             *)       (ARG0*)          (V*)     (34)|34)
+nw/xinhua/00/chtb_0043   0   32     。    PU                      *))  -    -   -   -           *        *             *             *             *             *            -
+
+nw/xinhua/00/chtb_0043   0    0         在     P           (TOP(IP(IP(PP*   -    -   2   -           *         *        *   (ARGM-ADV*             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0    1        资本    NN    (LCP(NP(DNP(NP(NP(NP*   -    -   -   -           *         *   (ARG0*            *             *         *             *             *      *     (0|(53
+nw/xinhua/00/chtb_0043   0    2        市场    NN                        *)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0    3         、    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0    4       保险业    NN                     (NP*)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0    5         、    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0    6        连锁    JJ                (NP(ADJP*)  -    -   -   -           *         *        *            *             *         *             *             *      *        (31
+nw/xinhua/00/chtb_0043   0    7        商业    NN                    (NP*))  -    -   -   -           *         *        *            *             *         *             *             *      *    (31)|31)
+nw/xinhua/00/chtb_0043   0    8         、    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0    9        批发    NN                     (NP*   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   10        销售    NN                        *)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   11         、    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   12       集装箱    NN                     (NP*   -    -   -   -           *    (ARG1*)       *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   13        运输    NN                        *)  -   01   -   -           *       (V*)       *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   14         、    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   15       房地产    NN                     (NP*)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   16         、    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   17        信息    NN                     (NP*   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   18        服务    NN                        *)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   19         等   ETC                        *)  -    -   2   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   20        经济    NN                     (NP*   -    -   2   -           *         *        *            *             *         *             *             *      *         (0
+nw/xinhua/00/chtb_0043   0   21       增长点    NN                       *))  -    -   -   -           *         *        *)           *             *         *             *             *      *       0)|0)
+nw/xinhua/00/chtb_0043   0   22         的   DEG                        *)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   23        带动    NN                    (NP*))  -   01   -   -           *         *      (V*)           *             *         *             *             *      *    (53)|53)
+nw/xinhua/00/chtb_0043   0   24         下    LC                       *))  -    -   1   -           *         *        *            *)            *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   25         ，    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   26        第三    OD               (NP(NP(QP*)  -    -   -   -    (ORDINAL)        *   (ARG1*       (ARG1*             *         *             *             *      *    (28|(58
+nw/xinhua/00/chtb_0043   0   27        产业    NN                    (NP*))  -    -   2   -           *         *        *            *             *         *             *             *      *    (28)|28)
+nw/xinhua/00/chtb_0043   0   28       增加值    NN                    (NP*))  -    -   -   -           *         *        *)           *)            *         *             *             *      *    (58)|58)
+nw/xinhua/00/chtb_0043   0   29        预计    VV                     (VP*   -   01   -   -           *         *        *          (V*)            *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   30        年均    AD             (IP(VP(ADVP*)  -    -   -   -           *         *        *       (ARG1*    (ARGM-ADV*)        *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   31        增长    VV                     (VP*   -   01   1   -           *         *        *            *           (V*)        *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   32     百分之十一    CD                     (QP*   -    -   -   -   (PERCENT*         *        *            *        (ARG1*         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   33         至    CC                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   34        十二    CD                   *))))))  -    -   -   -           *)        *        *            *)            *)        *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   35         ，    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   36        第三    OD   (IP(NP(CP(CP(IP(NP(QP*)  -    -   -   -    (ORDINAL)        *        *            *             *    (ARG0*             *        (ARG0*      *    (28|(62
+nw/xinhua/00/chtb_0043   0   37        产业    NN                    (NP*))  -    -   -   -           *         *        *            *             *         *)            *             *      *    (28)|28)
+nw/xinhua/00/chtb_0043   0   38         占    VV                     (VP*   -   01   1   -           *         *        *            *             *       (V*)            *             *      *          -
+nw/xinhua/00/chtb_0043   0   39        国内    NN                     (NP*   -    -   -   -           *         *        *            *             *    (ARG2*    (ARGM-LOC*)            *      *        (55
+nw/xinhua/00/chtb_0043   0   40        生产    NN                        *   -   01   3   -           *         *        *            *             *         *           (V*)            *      *          -
+nw/xinhua/00/chtb_0043   0   41        总值    NN                      *)))  -    -   -   -           *         *        *            *             *         *)            *             *      *         55)
+nw/xinhua/00/chtb_0043   0   42         的   DEC                       *))  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   43        比重    NN                    (NP*))  -    -   -   -           *         *        *            *             *    (ARG1*)            *             *)     *    (62)|62)
+nw/xinhua/00/chtb_0043   0   44         也    AD                (VP(ADVP*)  -    -   -   -           *         *        *            *             *         *             *    (ARGM-ADV*)     *          -
+nw/xinhua/00/chtb_0043   0   45         将    AD                   (ADVP*)  -    -   -   -           *         *        *            *             *         *             *    (ARGM-ADV*)     *          -
+nw/xinhua/00/chtb_0043   0   46         由     P                     (PP*   -    -   -   -           *         *        *            *             *         *             *        (ARG2*      *          -
+nw/xinhua/00/chtb_0043   0   47     一九九六年    NT              (QP(DNP(NP*)  -    -   -   -       (DATE)        *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   48         的   DEG                        *)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   49    百分之四十三    CD                   (QP*)))  -    -   -   -    (PERCENT)        *        *            *             *         *             *             *)     *          -
+nw/xinhua/00/chtb_0043   0   50         ，    PU                        *   -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   51        上升    VV                 (VP(VRD*   -   02   1   -           *         *        *            *             *         *             *           (V*)     *          -
+nw/xinhua/00/chtb_0043   0   52         到    VV                        *)  -   01   3   -           *         *        *            *             *         *             *             *    (V*)         -
+nw/xinhua/00/chtb_0043   0   53     二０００年    NT              (QP(DNP(NP*)  -    -   -   -       (DATE)        *        *            *             *         *             *        (ARG1*      *        (19)
+nw/xinhua/00/chtb_0043   0   54         的   DEG                        *)  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+nw/xinhua/00/chtb_0043   0   55    百分之四十八    CD                 (QP*)))))  -    -   -   -    (PERCENT)        *        *            *             *         *             *             *)     *          -
+nw/xinhua/00/chtb_0043   0   56         。    PU                       *))  -    -   -   -           *         *        *            *             *         *             *             *      *          -
+
+nw/xinhua/00/chtb_0043   0    0       上海市    NR      (TOP(IP(NP(DNP(NP*   -    -   -   -        (ORG*         *         *       (ARG0*             *             *             *             *         *             *      *             *             *        (33
+nw/xinhua/00/chtb_0043   0    1        经委    NN                       *)  -    -   -   -            *)        *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0    2         的   DEG                       *)  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0    3        研究    NN                    (NP*   -   01   4   -            *       (V*)        *            *             *             *             *             *         *             *      *             *             *        (33
+nw/xinhua/00/chtb_0043   0    4        人员    NN                      *))  -    -   -   -            *    (ARG0*)        *            *)            *             *             *             *         *             *      *             *             *     33)|33)
+nw/xinhua/00/chtb_0043   0    5         在     P                 (VP(PP*   -    -   2   -            *         *         *   (ARGM-LOC*             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0    6        提交    VV   (LCP(NP(CP(CP(IP(VP*))  -   01   -   -            *         *       (V*)           *             *             *             *             *         *             *      *             *             *         (1
+nw/xinhua/00/chtb_0043   0    7         的   DEC                      *))  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0    8        报告    NN                   (NP*))  -    -   -   -            *         *    (ARG1*)           *             *             *             *             *         *             *      *             *             *      (1)|1)
+nw/xinhua/00/chtb_0043   0    9         中    LC                      *))  -    -   -   -            *         *         *            *)            *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   10        指出    VV                    (VP*   -   01   -   -            *         *         *          (V*)            *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   11         ，    PU                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   12        经过     P              (IP(IP(PP*   -    -   -   -            *         *         *       (ARG1*             *             *             *    (ARGM-MNR*         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   13        大量    CD              (NP(NP(QP*)  -    -   -   -            *         *         *            *    (ARGM-MNR*)            *             *             *         *             *      *             *             *        (13
+nw/xinhua/00/chtb_0043   0   14        投入    NN                   (NP*))  -   01   2   -            *         *         *            *           (V*)            *             *             *         *             *      *             *             *    (13)|13)
+nw/xinhua/00/chtb_0043   0   15         和    CC                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   16        积极    JJ               (NP(ADJP*)  -    -   -   -            *         *         *            *             *    (ARGM-MNR*)            *             *         *             *      *             *             *        (63
+nw/xinhua/00/chtb_0043   0   17        培育    NN                 (NP*))))  -   01   2   -            *         *         *            *             *           (V*)            *             *)        *             *      *             *             *    (63)|63)
+nw/xinhua/00/chtb_0043   0   18         ，    PU                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   19        汽车    NN                 (NP(NP*   -    -   -   -            *         *         *            *        (ARG2*        (ARG1*             *        (ARG0*         *             *      *             *             *        (36
+nw/xinhua/00/chtb_0043   0   20         、    PU                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   21        电子    NN                       *   -    -   -   -            *         *         *            *             *             *    (ARGM-MNR*)            *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   22        通信    NN                       *   -   01   -   -            *         *         *            *             *             *           (V*)            *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   23        设备    NN                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   24         等   ETC                       *)  -    -   2   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   25         六    CD                    (QP*)  -    -   -   -    (CARDINAL)        *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   26         大    JJ                  (ADJP*)  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   27        支柱    NN                    (NP*   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *        (36
+nw/xinhua/00/chtb_0043   0   28        产业    NN                      *))  -    -   -   -            *         *         *            *             *)            *)            *             *)        *             *      *             *             *     36)|36)
+nw/xinhua/00/chtb_0043   0   29         在     P                 (VP(PP*   -    -   2   -            *         *         *            *             *             *             *    (ARGM-TMP*         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   30        未来    NT             (LCP(QP(NP*)  -    -   -   -       (DATE*         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   31         三    CD                    (QP*   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   32         年     M                 (CLP*)))  -    -   -   -            *)        *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   33         内    LC                      *))  -    -   -   -            *         *         *            *             *             *             *             *)        *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   34         仍    AD                  (ADVP*)  -    -   -   -            *         *         *            *             *             *             *    (ARGM-ADV*)        *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   35         将    AD                  (ADVP*)  -    -   -   -            *         *         *            *             *             *             *    (ARGM-ADV*)        *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   36        保持    VV                    (VP*   -   01   1   -            *         *         *            *             *             *             *           (V*)        *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   37        良好    JJ               (NP(ADJP*)  -    -   -   -            *         *         *            *             *             *             *        (ARG1*         *             *      *             *             *        (52
+nw/xinhua/00/chtb_0043   0   38        增长    NN                    (NP*   -    -   2   -            *         *         *            *             *             *             *             *         *             *      *             *             *        (52
+nw/xinhua/00/chtb_0043   0   39        势头    NN                   *)))))  -    -   -   -            *         *         *            *             *             *             *             *)        *             *      *             *             *     52)|52)
+nw/xinhua/00/chtb_0043   0   40         ，    PU                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   41         占    VV     (IP(NP(CP(CP(IP(VP*   -   01   1   -            *         *         *            *             *             *             *             *       (V*)       (ARG0*      *             *             *        (35
+nw/xinhua/00/chtb_0043   0   42         全    DT              (NP(NP(DP*)  -    -   2   -            *         *         *            *             *             *             *             *    (ARG2*             *      *             *             *     (7|(61
+nw/xinhua/00/chtb_0043   0   43         市    NN                   (NP*))  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *    (61)|61)
+nw/xinhua/00/chtb_0043   0   44        工业    NN                 (NP*))))  -    -   -   -            *         *         *            *             *             *             *             *         *)            *      *             *             *      (7)|7)
+nw/xinhua/00/chtb_0043   0   45         的   DEC                      *))  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   46        比重    NN                   (NP*))  -    -   -   -            *         *         *            *             *             *             *             *    (ARG1*)            *)     *             *             *    (35)|35)
+nw/xinhua/00/chtb_0043   0   47         将    AD               (VP(ADVP*)  -    -   -   -            *         *         *            *             *             *             *             *         *    (ARGM-ADV*)     *             *             *          -
+nw/xinhua/00/chtb_0043   0   48        上升    VV                (VP(VRD*   -   02   1   -            *         *         *            *             *             *             *             *         *           (V*)     *             *             *          -
+nw/xinhua/00/chtb_0043   0   49         到    VV                       *)  -   01   3   -            *         *         *            *             *             *             *             *         *             *    (V*)            *             *          -
+nw/xinhua/00/chtb_0043   0   50    百分之五十五    CD                (LCP(QP*)  -    -   -   -    (PERCENT*         *         *            *             *             *             *             *         *        (ARG1*      *             *             *          -
+nw/xinhua/00/chtb_0043   0   51        左右    LC                    *))))  -    -   -   -            *)        *         *            *             *             *             *             *         *             *)     *             *             *          -
+nw/xinhua/00/chtb_0043   0   52         ，    PU                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   53         并    AD            (IP(VP(ADVP*)  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *    (ARGM-DIS*)            *          -
+nw/xinhua/00/chtb_0043   0   54        推动    VV                    (VP*   -   01   2   -            *         *         *            *             *             *             *             *         *             *      *           (V*)            *          -
+nw/xinhua/00/chtb_0043   0   55        上海    NR                 (NP(NP*)  -    -   -   -         (GPE)        *         *            *             *             *             *             *         *             *      *        (ARG1*             *    (48|(61)
+nw/xinhua/00/chtb_0043   0   56        第二    OD                 (NP(QP*)  -    -   -   -     (ORDINAL)        *         *            *             *             *             *             *         *             *      *             *             *        (65
+nw/xinhua/00/chtb_0043   0   57        产业    NN                   (NP*))  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *    (65)|65)
+nw/xinhua/00/chtb_0043   0   58       增加值    NN                   (NP*))  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *)            *    (48)|48)
+nw/xinhua/00/chtb_0043   0   59        年均    AD            (IP(VP(ADVP*)  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *        (ARG2*    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   60        增长    VV                    (VP*   -   01   1   -            *         *         *            *             *             *             *             *         *             *      *             *           (V*)         -
+nw/xinhua/00/chtb_0043   0   61      百分之九    CD                    (QP*   -    -   -   -    (PERCENT*         *         *            *             *             *             *             *         *             *      *             *        (ARG1*          -
+nw/xinhua/00/chtb_0043   0   62         至    CC                       *   -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+nw/xinhua/00/chtb_0043   0   63      百分之十    CD              *))))))))))  -    -   -   -            *)        *         *            *)            *             *             *             *         *             *      *             *)            *)         -
+nw/xinhua/00/chtb_0043   0   64         。    PU                      *))  -    -   -   -            *         *         *            *             *             *             *             *         *             *      *             *             *          -
+
+nw/xinhua/00/chtb_0043   0    0     与     P     (TOP(IP(NP(PP*   -    -   -   -   *             *      *    (ARGM-TMP*    (ARGM-TMP*                (50
+nw/xinhua/00/chtb_0043   0    1     此    PN              (NP*))  -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0    2    同时    NN              (NP*))  -    -   -   -   *             *      *             *)            *)           (50)|50)
+nw/xinhua/00/chtb_0043   0    3     ，    PU                  *   -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0    4    风头    NN   (NP(CP(CP(IP(NP*)  -    -   -   -   *        (ARG0*)     *        (ARG1*        (ARG0*                (24
+nw/xinhua/00/chtb_0043   0    5     正    AD          (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)     *             *             *                  -
+nw/xinhua/00/chtb_0043   0    6     健    VA             (VP*)))  -   01   1   -   *           (V*)     *             *             *                  -
+nw/xinhua/00/chtb_0043   0    7     的   DEC                 *))  -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0    8     “    PU       (NP(NP(ADJP*   -    -   -   -   *        (ARG0*      *             *             *            (24|(66
+nw/xinhua/00/chtb_0043   0    9    三资    JJ                  *   -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0   10     ”    PU                  *)  -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0   11    企业    NN              (NP*))  -    -   -   -   *             *      *             *             *            (66)|66)
+nw/xinhua/00/chtb_0043   0   12     、    PU                  *   -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0   13    民营    JJ          (NP(ADJP*   -    -   -   -   *             *      *             *             *                (37
+nw/xinhua/00/chtb_0043   0   14     和    CC                  *   -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0   15    私营    JJ                  *)  -    -   -   -   *             *      *             *             *                  -
+nw/xinhua/00/chtb_0043   0   16    经济    NN            (NP*))))  -    -   2   -   *             *)     *             *)            *)   (37)|37)|24)|24)
+nw/xinhua/00/chtb_0043   0   17     也    AD          (VP(ADVP*)  -    -   -   -   *             *      *    (ARGM-ADV*)   (ARGM-DIS*)                 -
+nw/xinhua/00/chtb_0043   0   18     会    VV               (VP*   -   01   -   -   *             *    (V*)            *             *                  -
+nw/xinhua/00/chtb_0043   0   19    保持    VV               (VP*   -   01   1   -   *             *      *           (V*)    (rel-Sup*)                 -
+nw/xinhua/00/chtb_0043   0   20    快速    JJ          (NP(ADJP*)  -    -   -   -   *             *      *        (ARG2*    (ARGM-MNR*)                (6
+nw/xinhua/00/chtb_0043   0   21    增长    NN           (NP*)))))  -   01   2   -   *             *      *             *)          (V*)             (6)|6)
+nw/xinhua/00/chtb_0043   0   22     。    PU                 *))  -    -   -   -   *             *      *             *             *                  -
+
+nw/xinhua/00/chtb_0043   0    0     上海市    NR   (TOP(IP(NP(NP(NP*   -    -   -   -       (ORG*   (ARG0*             *             *      *             *             *             *               (18
+nw/xinhua/00/chtb_0043   0    1      计委    NN                   *)  -    -   -   -           *)       *             *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0    2      主任    NN               (NP*))  -    -   -   -           *        *             *             *      *             *             *             *               (18)
+nw/xinhua/00/chtb_0043   0    3      韩正    NR               (NP*))  -    -   -   -     (PERSON)       *)            *             *      *             *             *             *                18)
+nw/xinhua/00/chtb_0043   0    4       说    VV                (VP*   -   01   7   -           *      (V*)            *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0    5       ，    PU                   *   -    -   -   -           *        *             *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0    6      今后    NT          (IP(QP(NP*)  -    -   -   -      (DATE*   (ARG1*             *             *      *    (ARGM-TMP*             *             *               (49)
+nw/xinhua/00/chtb_0043   0    7       三    CD                (QP*   -    -   -   -           *        *             *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0    8       年     M             (CLP*)))  -    -   -   -           *)       *             *             *      *             *)            *             *                 -
+nw/xinhua/00/chtb_0043   0    9      上海    NR   (NP(DNP(NP(NP(NP*)  -    -   -   -        (GPE)       *        (ARG0*        (ARG0*      *        (ARG0*             *             *    (5|(56|(59|(61)
+nw/xinhua/00/chtb_0043   0   10      社会    NN               (NP*))  -    -   -   -           *        *             *)            *      *             *             *             *             (5)|5)
+nw/xinhua/00/chtb_0043   0   11       总    JJ              (ADJP*)  -    -   -   -           *        *    (ARGM-ADV*)            *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0   12      需求    NN               (NP*))  -   01   -   -           *        *           (V*)            *)     *             *             *             *           (59)|59)
+nw/xinhua/00/chtb_0043   0   13       的   DEG                   *)  -    -   -   -           *        *             *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0   14      适度    JJ              (ADJP*)  -    -   -   -           *        *             *    (ARGM-MNR*)     *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0   15      增长    NN               (NP*))  -   01   2   -           *        *             *           (V*)     *             *)            *             *           (56)|56)
+nw/xinhua/00/chtb_0043   0   16       ，    PU                   *   -    -   -   -           *        *             *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0   17       也    AD           (VP(ADVP*)  -    -   -   -           *        *             *             *      *    (ARGM-ADV*)            *             *                 -
+nw/xinhua/00/chtb_0043   0   18      可以    VV                (VP*   -   01   1   -           *        *             *             *    (V*)            *             *             *                 -
+nw/xinhua/00/chtb_0043   0   19      支撑    VV                (VP*   -   01   -   -           *        *             *             *      *           (V*)            *             *                 -
+nw/xinhua/00/chtb_0043   0   20      国内    NN                (NP*   -    -   -   -           *        *             *             *      *        (ARG1*    (ARGM-LOC*)            *               (55
+nw/xinhua/00/chtb_0043   0   21      生产    NN                   *   -   01   3   -           *        *             *             *      *             *           (V*)            *                 -
+nw/xinhua/00/chtb_0043   0   22      总值    NN                   *)  -    -   -   -           *        *             *             *      *             *)            *             *                55)
+nw/xinhua/00/chtb_0043   0   23      年均    AD        (IP(VP(ADVP*)  -    -   -   -           *        *             *             *      *        (ARG1*             *    (ARGM-ADV*)                -
+nw/xinhua/00/chtb_0043   0   24      增长    VV                (VP*   -   01   1   -           *        *             *             *      *             *             *           (V*)                -
+nw/xinhua/00/chtb_0043   0   25    百分之十    CD                (QP*   -    -   -   -   (PERCENT*        *             *             *      *             *             *        (ARG1*                 -
+nw/xinhua/00/chtb_0043   0   26       至    CC                   *   -    -   -   -           *        *             *             *      *             *             *             *                 -
+nw/xinhua/00/chtb_0043   0   27      十一    CD           *)))))))))  -    -   -   -           *)       *)            *             *      *             *)            *             *)                -
+nw/xinhua/00/chtb_0043   0   28       。    PU                  *))  -    -   -   -           *        *             *             *      *             *             *             *                 -
+
+nw/xinhua/00/chtb_0043   0    0        经     P             (TOP(IP(PP*   -    -   -   -           *         *         *   (ARGM-MNR*        *   (ARGM-MNR*             *   (ARGM-MNR*             *             *             *   (ARGM-MNR*             *          -
+nw/xinhua/00/chtb_0043   0    1       专家    NN                 (IP(NP*)  -    -   -   -           *    (ARG0*)        *            *        *            *             *            *             *             *             *            *             *         (4)
+nw/xinhua/00/chtb_0043   0    2       测算    VV                  (VP*)))  -   01   -   -           *       (V*)        *            *)       *            *)            *            *)            *             *             *            *)            *          -
+nw/xinhua/00/chtb_0043   0    3        ，    PU                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0    4       今后    NT           (IP(IP(QP(NP*)  -    -   -   -      (DATE*         *         *   (ARGM-TMP*        *            *             *            *             *             *             *            *             *        (49)
+nw/xinhua/00/chtb_0043   0    5        三    CD                    (QP*   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0    6        年     M                 (CLP*)))  -    -   -   -           *)        *         *            *)       *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0    7       上海    NR                 (NP(NP*)  -    -   -   -        (GPE)        *    (ARG0*)      (ARG1*        *            *             *            *             *             *             *            *             *    (15|(61)
+nw/xinhua/00/chtb_0043   0    8       固定    JJ               (NP(ADJP*)  -    -   -   -           *         *    (ARG1*            *        *            *             *            *             *             *             *            *             *        (45
+nw/xinhua/00/chtb_0043   0    9       资产    NN                   (NP*))  -    -   -   -           *         *         *)           *        *            *             *            *             *             *             *            *             *    (45)|45)
+nw/xinhua/00/chtb_0043   0   10       投资    NN                    (NP*   -   01   1   -           *         *       (V*)           *        *            *             *            *             *             *             *            *             *        (15
+nw/xinhua/00/chtb_0043   0   11       总额    NN                      *))  -    -   -   -           *         *    (ARG2*)           *)       *            *             *            *             *             *             *            *             *     15)|15)
+nw/xinhua/00/chtb_0043   0   12       预计    VV                    (VP*   -   01   -   -           *         *         *          (V*)       *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   13        为    VC                 (IP(VP*   -   01   1   -           *         *         *       (ARG1*      (V*)           *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   14      六千亿    CD                 (QP(QP*   -    -   -   -     (MONEY*         *         *            *   (ARG1*            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   15        元     M                  (CLP*))  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   16        至    CC                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   17      七千亿    CD                    (QP*   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   18        元     M             (CLP*)))))))  -    -   -   -           *)        *         *            *)       *)           *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   19        ，    PU                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   20       社会    NN                 (IP(NP*   -    -   -   -           *         *         *            *        *       (ARG1*             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   21      消费品    NN                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   22       零售    NN                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   23       总额    NN                       *)  -    -   -   -           *         *         *            *        *            *)            *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   24       预计    VV                    (VP*   -   01   -   -           *         *         *            *        *          (V*)            *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   25       年均    AD            (IP(VP(ADVP*)  -    -   -   -           *         *         *            *        *       (ARG1*    (ARGM-ADV*)           *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   26       增长    VV                    (VP*   -   01   1   -           *         *         *            *        *            *           (V*)           *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   27    百分之十三    CD                    (QP*   -    -   -   -   (PERCENT*         *         *            *        *            *        (ARG1*            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   28        至    CC                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   29       十四    CD                  *))))))  -    -   -   -           *)        *         *            *        *            *)            *)           *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   30        ，    PU                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   31       外贸    NN                 (IP(NP*   -    -   -   -           *         *         *            *        *            *             *       (ARG1*             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   32       出口    NN                       *)  -    -   1   -           *         *         *            *        *            *             *            *)            *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   33       预计    VV                    (VP*   -   01   -   -           *         *         *            *        *            *             *          (V*)            *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   34       年均    AD            (IP(VP(ADVP*)  -    -   -   -           *         *         *            *        *            *             *       (ARG1*    (ARGM-ADV*)            *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   35       增长    VV                    (VP*   -   01   1   -           *         *         *            *        *            *             *            *           (V*)            *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   36     百分之十    CD                    (QP*   -    -   -   -   (PERCENT*         *         *            *        *            *             *            *        (ARG1*             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   37        至    CC                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   38       十二    CD                  *))))))  -    -   -   -           *)        *         *            *        *            *             *            *)            *)            *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   39        ，    PU                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   40       这些    DT              (IP(NP(DP*)  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *       (ARG0*             *         (3
+nw/xinhua/00/chtb_0043   0   41       规模    NN                   (NP*))  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *)            *      (3)|3)
+nw/xinhua/00/chtb_0043   0   42        与     P                 (VP(PP*   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *       (ARG0*             *          -
+nw/xinhua/00/chtb_0043   0   43       国内    NN                 (IP(NP*   -    -   -   -           *         *         *            *        *            *             *            *             *    (ARGM-LOC*)       (ARG0*            *             *        (55
+nw/xinhua/00/chtb_0043   0   44       生产    NN                       *   -   01   3   -           *         *         *            *        *            *             *            *             *           (V*)            *            *             *          -
+nw/xinhua/00/chtb_0043   0   45       总值    NN                       *)  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *)           *             *         55)
+nw/xinhua/00/chtb_0043   0   46       年均    AD               (VP(ADVP*)  -    -   -   -           *         *         *            *        *            *             *            *             *             *    (ARGM-ADV*)           *             *          -
+nw/xinhua/00/chtb_0043   0   47       增长    VV                    (VP*   -   01   1   -           *         *         *            *        *            *             *            *             *             *           (V*)           *             *          -
+nw/xinhua/00/chtb_0043   0   48     百分之十    CD                    (QP*   -    -   -   -   (PERCENT*         *         *            *        *            *             *            *             *             *        (ARG1*            *             *          -
+nw/xinhua/00/chtb_0043   0   49        至    CC                       *   -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+nw/xinhua/00/chtb_0043   0   50       十一    CD                   *)))))  -    -   -   -           *)        *         *            *        *            *             *            *             *             *             *)           *)            *          -
+nw/xinhua/00/chtb_0043   0   51        是    VC                    (VP*   -   01   1   -           *         *         *            *        *            *             *            *             *             *             *          (V*)            *          -
+nw/xinhua/00/chtb_0043   0   52        相    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *       (ARG1*    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   53       适应    VV                  (VP*)))  -   01   -   -           *         *         *            *        *            *             *            *             *             *             *            *           (V*)         -
+nw/xinhua/00/chtb_0043   0   54        的   DEC                 *)))))))  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *)            *          -
+nw/xinhua/00/chtb_0043   0   55        。    PU                      *))  -    -   -   -           *         *         *            *        *            *             *            *             *             *             *            *             *          -
+
+nw/xinhua/00/chtb_0043   0    0     上海    NR      (TOP(IP(NP(NP(NP*)  -    -   -   -       (GPE)  (ARG0*            *             *        *         *         *             *             *        *             *    (22|(61)
+nw/xinhua/00/chtb_0043   0    1     市长    NN                  (NP*))  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *        (22)
+nw/xinhua/00/chtb_0043   0    2    徐匡迪    NR                  (NP*))  -    -   -   -    (PERSON)       *)           *             *        *         *         *             *             *        *             *         22)
+nw/xinhua/00/chtb_0043   0    3     强调    VV                   (VP*   -   01   -   -          *      (V*)           *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0    4      ，    PU                      *   -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0    5      本    DT   (IP(IP(IP(LCP(NP(DP*)  -    -   2   -          *   (ARG1*   (ARGM-TMP*             *   (ARG0*         *         *             *             *        *             *        (10
+nw/xinhua/00/chtb_0043   0    6     世纪    NN                  (NP*))  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *    (10)|10)
+nw/xinhua/00/chtb_0043   0    7      末    LC                      *)  -    -   -   -          *        *            *)            *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0    8     上海    NR                   (NP*)  -    -   -   -       (GPE)       *       (ARG0*)            *        *         *         *             *             *        *             *        (61)
+nw/xinhua/00/chtb_0043   0    9     实现    VV                   (VP*   -   01   -   -          *        *          (V*)            *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   10     人均    JJ              (NP(ADJP*)  -    -   -   -          *        *       (ARG1*             *        *         *         *             *             *        *             *        (43
+nw/xinhua/00/chtb_0043   0   11     国内    NN                   (NP*   -    -   -   -          *        *            *    (ARGM-LOC*)       *         *         *             *             *        *             *        (43
+nw/xinhua/00/chtb_0043   0   12     生产    NN                      *   -   01   3   -          *        *            *           (V*)       *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   13     总值    NN                     *))  -    -   -   -          *        *            *)            *        *         *         *             *             *        *             *     43)|43)
+nw/xinhua/00/chtb_0043   0   14     五千    CD                   (QP*   -    -   -   -    (MONEY*        *       (ARG1*             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   15     美元     M               (CLP*))))  -    -   -   -          *)       *            *)            *        *)        *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   16      是    VC                   (VP*   -   01   1   -          *        *            *             *      (V*)        *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   17      有    VE    (NP(CP(CP(CP(IP(VP*   -   03   3   -          *        *            *             *   (ARG1*       (V*)        *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   18     基础    NN                 (NP*)))  -    -   -   -          *        *            *             *        *    (ARG1*)        *             *             *        *             *        (42)
+nw/xinhua/00/chtb_0043   0   19      的   DEC                      *)  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   20      ，    PU                      *   -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   21      有    VE             (CP(IP(VP*   -   03   5   -          *        *            *             *        *         *       (V*)            *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   22     可能    NN                 (NP*)))  -    -   -   -          *        *            *             *        *         *    (ARG1*)            *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   23      的   DEC                 *))))))  -    -   -   -          *        *            *             *        *)        *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   24      ，    PU                      *   -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   25      但    AD              (IP(ADVP*)  -    -   -   -          *        *            *             *        *         *         *    (ARGM-ADV*)            *        *    (ARGM-DIS*)         -
+nw/xinhua/00/chtb_0043   0   26     上海    NR                   (NP*)  -    -   -   -       (GPE)       *            *             *        *         *         *        (ARG0*)            *        *        (ARG1*)       (61)
+nw/xinhua/00/chtb_0043   0   27      也    AD              (VP(ADVP*)  -    -   -   -          *        *            *             *        *         *         *    (ARGM-ADV*)            *        *    (ARGM-DIS*)         -
+nw/xinhua/00/chtb_0043   0   28     面临    VV                   (VP*   -   01   -   -          *        *            *             *        *         *         *           (V*)            *        *     (rel-Sup*)         -
+nw/xinhua/00/chtb_0043   0   29      着    AS                      *   -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   30     市场    NN       (NP(NP(CP(IP(NP*   -    -   -   -          *        *            *             *        *         *         *        (ARG1*    (ARGM-MNR*)  (ARG1*             *        (12
+nw/xinhua/00/chtb_0043   0   31     竞争    NN                      *)  -   01   -   -          *        *            *             *        *         *         *             *           (V*)       *)            *          -
+nw/xinhua/00/chtb_0043   0   32     加剧    VV                  (VP*))  -   01   -   -          *        *            *             *        *         *         *             *             *      (V*)            *          -
+nw/xinhua/00/chtb_0043   0   33      的   DEC                      *)  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   34     压力    NN                  (NP*))  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *    (12)|12)
+nw/xinhua/00/chtb_0043   0   35      ，    PU                      *   -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   36     以及    CC                      *   -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   37     经济    NN     (NP(DNP(NP(LCP(NP*   -    -   2   -          *        *            *             *        *         *         *             *             *        *        (ARG0*    (46|(57
+nw/xinhua/00/chtb_0043   0   38     生活    NN                      *)  -    -   1   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   39      中    LC                      *)  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   40     一些    CD                   (QP*)  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   41     突出    JJ                 (ADJP*)  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   42     矛盾    NN                  (NP*))  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *)   (46)|46)
+nw/xinhua/00/chtb_0043   0   43      的   DEG                      *)  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+nw/xinhua/00/chtb_0043   0   44     困扰    NN            (NP*))))))))  -   01   -   -          *        *)           *             *        *         *         *             *)            *        *           (V*)   (57)|57)
+nw/xinhua/00/chtb_0043   0   45      。    PU                     *))  -    -   -   -          *        *            *             *        *         *         *             *             *        *             *          -
+
+nw/xinhua/00/chtb_0043   0    0     他   PN    (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)        *         *             *           *             *             *             *         *            *             *        (22)
+nw/xinhua/00/chtb_0043   0    1     说   VV           (VP*   -   01   7   -       *       (V*)        *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0    2     ，   PU              *   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0    3     为    P        (IP(PP*   -    -   5   -       *    (ARG1*         *         *    (ARGM-PRP*           *    (ARGM-PRP*    (ARGM-PRP*    (ARGM-PRP*         *   (ARGM-PRP*             *          -
+nw/xinhua/00/chtb_0043   0    4    迎接   VV     (IP(VP(VP*   -   01   -   -       *         *       (V*)        *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0    5    挑战   NN          (NP*))  -    -   -   -       *         *    (ARG1*)        *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0    6     ，   PU              *   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0    7    实现   VV           (VP*   -   01   -   -       *         *         *       (V*)            *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0    8    目标   NN       (NP*)))))  -    -   -   -       *         *         *    (ARG1*)            *)          *             *)            *)            *)        *            *)            *          -
+nw/xinhua/00/chtb_0043   0    9     ，   PU              *   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   10    上海   NR           (NP*)  -    -   -   -    (GPE)        *         *         *        (ARG0*)          *        (ARG0*)       (ARG0*)       (ARG0*)        *       (ARG0*)            *        (61)
+nw/xinhua/00/chtb_0043   0   11     将   AD   (VP(VP(ADVP*)  -    -   -   -       *         *         *         *    (ARGM-ADV*)          *    (ARGM-ADV*)   (ARGM-TMP*)   (ARGM-ADV*)        *            *             *          -
+nw/xinhua/00/chtb_0043   0   12    推动   VV        (VP(VP*   -   01   1   -       *         *         *         *           (V*)          *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   13     新   JJ   (NP(QP(ADJP*)  -    -   -   -       *         *         *         *        (ARG1*           *             *             *             *         *            *             *        (26
+nw/xinhua/00/chtb_0043   0   14     一   CD           (QP*   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   15     轮    M        (CLP*)))  -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   16    产业   NN           (NP*   -    -   -   -       *         *         *         *             *      (ARG1*)            *             *             *         *            *             *        (26
+nw/xinhua/00/chtb_0043   0   17    结构   NN              *   -    -   -   -       *         *         *         *             *    (C-ARG1*)            *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   18    调整   NN            *)))  -   01   -   -       *         *         *         *             *)        (V*)            *             *             *         *            *             *     26)|26)
+nw/xinhua/00/chtb_0043   0   19     ，   PU              *   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   20    大胆   AD      (VP(ADVP*)  -    -   -   -       *         *         *         *             *           *    (ARGM-ADV*)   (ARGM-MNR*)            *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   21    进行   VV           (VP*   -   01   3   -       *         *         *         *             *           *           (V*)    (rel-Sup*)            *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   22    国有   JJ   (NP(NP(ADJP*)  -    -   -   -       *         *         *         *             *           *        (ARG1*        (ARG1*             *         *            *             *    (11|(41
+nw/xinhua/00/chtb_0043   0   23    企业   NN          (NP*))  -    -   -   -       *         *         *         *             *           *             *             *)            *         *            *             *    (11)|11)
+nw/xinhua/00/chtb_0043   0   24    改革   NN        (NP*))))  -   01   -   -       *         *         *         *             *           *             *)          (V*)            *         *            *             *    (41)|41)
+nw/xinhua/00/chtb_0043   0   25     ，   PU              *   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   26    积极   AD      (VP(ADVP*)  -    -   -   -       *         *         *         *             *           *             *             *    (ARGM-ADV*)        *            *             *          -
+nw/xinhua/00/chtb_0043   0   27    开拓   VV           (VP*   -   01   -   -       *         *         *         *             *           *             *             *           (V*)        *            *             *          -
+nw/xinhua/00/chtb_0043   0   28     对    P     (NP(NP(PP*   -    -   3   -       *         *         *         *             *           *             *             *        (ARG1*    (ARG2*            *             *    (20|(29
+nw/xinhua/00/chtb_0043   0   29     外   NN          (NP*))  -    -   -   -       *         *         *         *             *           *             *             *             *         *)           *             *          -
+nw/xinhua/00/chtb_0043   0   30    开放   NN          (NP*))  -   01   4   -       *         *         *         *             *           *             *             *             *       (V*)           *             *    (20)|20)
+nw/xinhua/00/chtb_0043   0   31     新   JJ         (ADJP*)  -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   32    领域   NN      (NP*))))))  -    -   -   -       *         *         *         *             *           *             *             *             *)   (ARG1*)           *             *    (29)|29)
+nw/xinhua/00/chtb_0043   0   33     ，   PU              *   -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+nw/xinhua/00/chtb_0043   0   34     使   VV           (VP*   -   01   -   -       *         *         *         *             *           *             *             *             *         *          (V*)            *          -
+nw/xinhua/00/chtb_0043   0   35    上海   NR        (NP(NP*)  -    -   -   -    (GPE)        *         *         *             *           *             *             *             *         *       (ARG1*             *    (40|(61)
+nw/xinhua/00/chtb_0043   0   36    经济   NN          (NP*))  -    -   2   -       *         *         *         *             *           *             *             *             *         *            *)            *    (40)|40)
+nw/xinhua/00/chtb_0043   0   37     再   AD   (IP(VP(ADVP*)  -    -   -   -       *         *         *         *             *           *             *             *             *         *       (ARG2*    (ARGM-ADV*)         -
+nw/xinhua/00/chtb_0043   0   38     上   VV           (VP*   -   03   8   -       *         *         *         *             *           *             *             *             *         *            *           (V*)         -
+nw/xinhua/00/chtb_0043   0   39     新   JJ      (NP(ADJP*)  -    -   -   -       *         *         *         *             *           *             *             *             *         *            *        (ARG1*        (60
+nw/xinhua/00/chtb_0043   0   40    台阶   NN   (NP*)))))))))  -    -   -   -       *         *)        *         *             *           *             *             *             *         *            *)            *)   (60)|60)
+nw/xinhua/00/chtb_0043   0   41     。   PU             *))  -    -   -   -       *         *         *         *             *           *             *             *             *         *            *             *          -
+
+nw/xinhua/00/chtb_0043   0   0    （   PU  (TOP(FRAG*   -    -   -   -   *      *   -
+nw/xinhua/00/chtb_0043   0   1    完   VV           *   -   01   2   -   *    (V*)  -
+nw/xinhua/00/chtb_0043   0   2    ）   PU          *))  -    -   -   -   *      *   -
+
+#end document

@@ -1,0 +1,214 @@
+#begin document (bn/cts/01/cts_0156); part 000
+bn/cts/01/cts_0156   0    0    台北市   NR   (TOP(IP(IP(NP(NP*)   -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    1     松山   NR                (NP*    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    2    火车站   NN                   *)   -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    3     附近   NN               (NP*))   -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    4     今天   NT             (VP(NP*    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    5     凌晨   NT                   *)   -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    6     传出   VV                (VP*    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    7      了   AS                   *    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0    8     枪声   NN             (NP*))))   -   -   -   -   *             *             *             *      (4)
+bn/cts/01/cts_0156   0    9      ，   PU                   *    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0   10     歹徒   NN             (IP(NP*)   -   -   -   -   *        (ARG0*)            *             *      (2)
+bn/cts/01/cts_0156   0   11      在    P             (VP(PP*    -   -   2   -   *    (ARGM-LOC*             *             *       -
+bn/cts/01/cts_0156   0   12      一   CD             (NP(QP*    -   -   -   -   *             *             *             *   (0|(5
+bn/cts/01/cts_0156   0   13      家    M              (CLP*))   -   -   1   -   *             *             *             *       -
+bn/cts/01/cts_0156   0   14    服饰店   NN                (NP*    -   -   -   -   *             *             *             *       0)
+bn/cts/01/cts_0156   0   15    大门口   NN                 *)))   -   -   -   -   *             *)            *             *       5)
+bn/cts/01/cts_0156   0   16     连连   AD              (ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *             *       -
+bn/cts/01/cts_0156   0   17     开枪   VV              (VP*)))   开枪  -   -   -   *           (V*)            *             *       -
+bn/cts/01/cts_0156   0   18      ，   PU                   *    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0   19     不过   AD           (IP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)   (ARGM-DIS*)      -
+bn/cts/01/cts_0156   0   20     子弹   NN                (NP*)   -   -   -   -   *             *        (ARG0*)       (ARG0*)      -
+bn/cts/01/cts_0156   0   21    并没有   AD        (VP(VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *       -
+bn/cts/01/cts_0156   0   22     贯穿   VV                (VP*    贯穿  -   -   -   *             *           (V*)            *       -
+bn/cts/01/cts_0156   0   23     铁门   NN              (NP*)))   -   -   -   -   *             *        (ARG1*)            *      (6)
+bn/cts/01/cts_0156   0   24      ，   PU                   *    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0   25      只   AD           (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-ADV*)      -
+bn/cts/01/cts_0156   0   26     留下   VV                (VP*    留下  -   -   -   *             *             *           (V*)      -
+bn/cts/01/cts_0156   0   27      了   AS                   *    -   -   -   -   *             *             *        (ARG1*)      -
+bn/cts/01/cts_0156   0   28     弹头   NN                (NP*    -   -   -   -   *             *             *        (ARG1*      (1
+bn/cts/01/cts_0156   0   29      和   CC                   *    -   -   -   -   *             *             *             *       -
+bn/cts/01/cts_0156   0   30     弹壳   NN               *)))))   -   -   -   -   *             *             *             *)      1)
+bn/cts/01/cts_0156   0   31      。   PU                  *))   -   -   -   -   *             *             *             *       -
+
+bn/cts/01/cts_0156   0    0    店家   NN   (TOP(IP(IP(NP*)   -   -   -   -   *    (ARG0*)       (ARG0*)        *      *        *        *            *    (7)
+bn/cts/01/cts_0156   0    1     说   VV             (VP*     说  -   7   -   *       (V*)            *         *      *        *        *            *     -
+bn/cts/01/cts_0156   0    2    他们   PN          (IP(NP*)   -   -   -   -   *    (ARG1*        (ARG0*)        *      *        *        *            *    (7)
+bn/cts/01/cts_0156   0    3    没有   AD        (VP(ADVP*)   -   -   2   -   *         *    (ARGM-ADV*)        *      *        *        *            *     -
+bn/cts/01/cts_0156   0    4     和    P             (PP*    -   -   -   -   *         *        (ARG0*         *      *        *        *            *     -
+bn/cts/01/cts_0156   0    5    任何   DT          (NP(DP*)   -   -   -   -   *         *             *         *      *        *        *            *     -
+bn/cts/01/cts_0156   0    6     人   NN           (NP*)))   -   -   1   -   *         *             *)        *      *        *        *            *     -
+bn/cts/01/cts_0156   0    7    结冤   VV         (VP*)))))   结冤  -   -   -   *         *)          (V*)        *      *        *        *            *     -
+bn/cts/01/cts_0156   0    8     ，   PU                *    -   -   -   -   *         *             *         *      *        *        *            *     -
+bn/cts/01/cts_0156   0    9    警方   NN          (IP(NP*)   -   -   -   -   *         *             *    (ARG0*)     *        *        *            *    (8)
+bn/cts/01/cts_0156   0   10    怀疑   VV             (VP*    怀疑  -   -   -   *         *             *       (V*)     *        *        *            *     -
+bn/cts/01/cts_0156   0   11    可能   VV          (IP(VP*    可能  -   -   -   *         *             *    (ARG1*    (V*)       *        *            *     -
+bn/cts/01/cts_0156   0   12     是   VC             (VP*     是  -   1   -   *         *             *         *      *      (V*)       *            *     -
+bn/cts/01/cts_0156   0   13    一些   CD       (IP(NP(QP*)   -   -   -   -   *         *             *         *      *   (ARG1*   (ARG0*            *    (2
+bn/cts/01/cts_0156   0   14    歹徒   NN            (NP*))   -   -   -   -   *         *             *         *      *        *        *)           *     2)
+bn/cts/01/cts_0156   0   15    选择   VV             (VP*    选择  -   -   -   *         *             *         *      *        *      (V*)           *     -
+bn/cts/01/cts_0156   0   16     在    P       (IP(VP(PP*    -   -   2   -   *         *             *         *      *        *   (ARG1*   (ARGM-LOC*     -
+bn/cts/01/cts_0156   0   17    这里   PN            (NP*))   -   -   -   -   *         *             *         *      *        *        *            *)   (5)
+bn/cts/01/cts_0156   0   18     练   VV             (VP*     练  -   -   -   *         *             *         *      *        *        *          (V*)    -
+bn/cts/01/cts_0156   0   19    枪法   NN   (NP*)))))))))))   -   -   -   -   *         *             *         *)     *        *)       *)      (ARG1*)    -
+bn/cts/01/cts_0156   0   20     。   PU               *))   -   -   -   -   *         *             *         *      *        *        *            *     -
+
+bn/cts/01/cts_0156   0    0     枪击    NN         (TOP(IP(NP*   -   -   -   -   *        (ARG0*   (5
+bn/cts/01/cts_0156   0    1     地点    NN                   *)  -   -   -   -   *             *)   5)
+bn/cts/01/cts_0156   0    2      就    AD           (VP(ADVP*)  -   -   8   -   *    (ARGM-ADV*)   -
+bn/cts/01/cts_0156   0    3      在    VV                (VP*    在  -   2   -   *           (V*)   -
+bn/cts/01/cts_0156   0    4     松山    NR  (LCP(NP(DNP(NP(NP*   -   -   -   -   *        (ARG1*    -
+bn/cts/01/cts_0156   0    5    火车站    NN                   *)  -   -   -   -   *             *    -
+bn/cts/01/cts_0156   0    6     对面    NN               (NP*))  -   -   -   -   *             *    -
+bn/cts/01/cts_0156   0    7      的   DEG                   *)  -   -   -   -   *             *    -
+bn/cts/01/cts_0156   0    8     这个    DT                (DP*)  -   -   -   -   *             *    -
+bn/cts/01/cts_0156   0    9     巷子    NN               (NP*))  -   -   -   -   *             *    -
+bn/cts/01/cts_0156   0   10      里    LC                 *)))  -   -   -   -   *             *)   -
+bn/cts/01/cts_0156   0   11      。    PU                  *))  -   -   -   -   *             *    -
+
+bn/cts/01/cts_0156   0    0     凌晨   NN  (TOP(IP*   -   -    -   -   *        -
+bn/cts/01/cts_0156   0    1    ２点多   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0    2      ，   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0    3      在   NN         *   -   -    2   -   *       (0
+bn/cts/01/cts_0156   0    4     巷角   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0    5      这   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0    6      家   NN         *   -   -    1   -   *        -
+bn/cts/01/cts_0156   0    7    装饰店   NN         *   -   -    -   -   *        0)
+bn/cts/01/cts_0156   0    8     突然   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0    9      被   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   10      人   NN         *   -   -    1   -   *       (2)
+bn/cts/01/cts_0156   0   11      开   NN         *   -   -   16   -   *        -
+bn/cts/01/cts_0156   0   12     好几   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   13      枪   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   14      ，   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   15     警方   NN         *   -   -    -   -   *       (8)
+bn/cts/01/cts_0156   0   16     接到   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   17     报案   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   18     赶来   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   19     现场   NN         *   -   -    -   -   *       (5)
+bn/cts/01/cts_0156   0   20     发现   NN         *   -   -    1   -   *        -
+bn/cts/01/cts_0156   0   21    装饰店   NN         *   -   -    -   -   *    (6|(0)
+bn/cts/01/cts_0156   0   22      的   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   23     铁门   NN         *   -   -    -   -   *        6)
+bn/cts/01/cts_0156   0   24      上   NN         *   -   -    6   -   *        -
+bn/cts/01/cts_0156   0   25      有   NN         *   -   -    3   -   *        -
+bn/cts/01/cts_0156   0   26      ６   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   27      个   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   28     明显   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   29     弹痕   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   30      ，   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   31     铝制   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   32      的   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   33     弹头   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   34      还   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   35      卡   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   36      在   NN         *   -   -    2   -   *        -
+bn/cts/01/cts_0156   0   37     凹槽   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   38      里   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   39      ，   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   40     不过   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   41     没有   NN         *   -   -    1   -   *        -
+bn/cts/01/cts_0156   0   42     贯穿   NN         *   -   -    -   -   *        -
+bn/cts/01/cts_0156   0   43      。   NN        *))  -   -    -   -   *        -
+
+bn/cts/01/cts_0156   0    0     附近   NN  (TOP(IP(IP(NP*    -   -   -   -   *   (ARG0*      *    (ARG0*             *    (3
+bn/cts/01/cts_0156   0    1     邻居   NN               *)   -   -   -   -   *        *)     *         *)            *     3)
+bn/cts/01/cts_0156   0    2      说   VV            (VP*     说  -   7   -   *      (V*)     *         *             *     -
+bn/cts/01/cts_0156   0    3     他们   PN         (IP(NP*)   -   -   -   -   *   (ARG1*      *    (ARG0*)            *    (3)
+bn/cts/01/cts_0156   0    4      是   VC            (VP*     是  -   2   -   *        *    (V*)        *             *     -
+bn/cts/01/cts_0156   0    5     听到   VV            (VP*    听到  -   -   -   *        *      *       (V*)            *     -
+bn/cts/01/cts_0156   0    6    一连串   CD         (NP(QP*)   -   -   -   -   *        *      *    (ARG1*             *    (4
+bn/cts/01/cts_0156   0    7     枪声   NN      (NP*)))))))   -   -   -   -   *        *)     *         *)            *     4)
+bn/cts/01/cts_0156   0    8      ，   PU               *    -   -   -   -   *        *      *         *             *     -
+bn/cts/01/cts_0156   0    9     但是   AD       (IP(ADVP*)   -   -   -   -   *        *      *         *    (ARGM-DIS*)    -
+bn/cts/01/cts_0156   0   10     没有   AD       (VP(ADVP*)   -   -   2   -   *        *      *         *    (ARGM-ADV*)    -
+bn/cts/01/cts_0156   0   11     看到   VV            (VP*    看到  -   -   -   *        *      *         *           (V*)    -
+bn/cts/01/cts_0156   0   12     人影   NN         (NP*))))   -   -   -   -   *        *      *         *        (ARG1*)    -
+bn/cts/01/cts_0156   0   13      。   PU              *))   -   -   -   -   *        *      *         *             *     -
+
+bn/cts/01/cts_0156   0    0     “   PU        (TOP(IP*    -   -   -   -   *         *            *             *             *     -
+bn/cts/01/cts_0156   0    1     我   PN         (IP(NP*)   -   -   -   -   *         *            *        (ARG0*)            *     -
+bn/cts/01/cts_0156   0    2    听到   VV  (VP(LCP(IP(VP*    听到  -   -   -   *       (V*)  (ARGM-TMP*    (ARGM-TMP*             *     -
+bn/cts/01/cts_0156   0    3    声音   NN          (NP*)))   -   -   -   -   *    (ARG1*)           *             *             *    (4)
+bn/cts/01/cts_0156   0    4     后   LC               *)   -   -   -   -   *         *            *)            *)            *     -
+bn/cts/01/cts_0156   0    5     就   AD          (ADVP*)   -   -   2   -   *         *            *    (ARGM-ADV*)            *     -
+bn/cts/01/cts_0156   0    6    下来   VV            (VP*    下来  -   3   -   *         *          (V*)            *             *     -
+bn/cts/01/cts_0156   0    7     看   VV         (VP*))))    看  -   2   -   *         *            *           (V*)            *     -
+bn/cts/01/cts_0156   0    8     ，   PU               *    -   -   -   -   *         *            *             *             *     -
+bn/cts/01/cts_0156   0    9    可是   AD       (IP(ADVP*)   -   -   -   -   *         *            *             *    (ARGM-DIS*)    -
+bn/cts/01/cts_0156   0   10     没   AD       (VP(ADVP*)   -   -   2   -   *         *            *             *    (ARGM-ADV*)    -
+bn/cts/01/cts_0156   0   11    看到   VV            (VP*    看到  -   -   -   *         *            *             *           (V*)    -
+bn/cts/01/cts_0156   0   12     人   NN         (NP*))))   -   -   1   -   *         *            *             *        (ARG1*)   (2)
+bn/cts/01/cts_0156   0   13     。   PU               *    -   -   -   -   *         *            *             *             *     -
+bn/cts/01/cts_0156   0   14     ”   PU              *))   -   -   -   -   *         *            *             *             *     -
+
+bn/cts/01/cts_0156   0    0    警员   NN   (TOP(IP(IP(NP*)   -   -   -   -   *       (ARG0*)       *     -
+bn/cts/01/cts_0156   0    1     在    P          (VP(PP*    -   -   2   -   *   (ARGM-LOC*        *     -
+bn/cts/01/cts_0156   0    2    现场   NN            (NP*))   -   -   -   -   *            *)       *    (5)
+bn/cts/01/cts_0156   0    3    找到   VV             (VP*    找到  -   1   -   *          (V*)       *     -
+bn/cts/01/cts_0156   0    4     ３   CD          (NP(QP*    -   -   -   -   *       (ARG1*        *    (1
+bn/cts/01/cts_0156   0    5     个    M           (CLP*))   -   -   -   -   *            *        *     -
+bn/cts/01/cts_0156   0    6    弹壳   NN         (NP*)))))   -   -   -   -   *            *)       *     -
+bn/cts/01/cts_0156   0    7     ，   PU                *    -   -   -   -   *            *        *     -
+bn/cts/01/cts_0156   0    8     ５   CD          (IP(QP*    -   -   -   -   *            *   (ARG0*     -
+bn/cts/01/cts_0156   0    9     个    M           (CLP*))   -   -   -   -   *            *        *)    -
+bn/cts/01/cts_0156   0   10    弹头   VV            (VP*))   弹头  -   -   -   *            *      (V*)    1)
+bn/cts/01/cts_0156   0   11     。   PU               *))   -   -   -   -   *            *        *     -
+
+bn/cts/01/cts_0156   0    0    不过   AD   (TOP(IP(ADVP*)   -   -    -   -   *    (ARGM-DIS*)     *    (ARGM-DIS*)     *      *         *   -
+bn/cts/01/cts_0156   0    1     连   AD       (NP(ADVP*)   -   -    1   -   *        (ARG1*      *        (ARG0*      *      *         *   -
+bn/cts/01/cts_0156   0    2    铁门   NN           (NP*))   -   -    -   -   *             *)     *             *)     *      *         *   -
+bn/cts/01/cts_0156   0    3     都   AD    (VP(VP(ADVP*)   -   -    -   -   *    (ARGM-ADV*)     *             *      *      *         *   -
+bn/cts/01/cts_0156   0    4     打   VV        (VP(VPT*     打  -   20   -   *           (V*)     *             *      *      *         *   -
+bn/cts/01/cts_0156   0    5     不   AD               *    -   -    -   -   *    (ARGM-ADV*)     *             *      *      *         *   -
+bn/cts/01/cts_0156   0    6     穿   VV             *)))    穿  -    1   -   *        (ARG2*)   (V*)            *      *      *         *   -
+bn/cts/01/cts_0156   0    7     ，   PU               *    -   -    -   -   *             *      *             *      *      *         *   -
+bn/cts/01/cts_0156   0    8    研判   VV            (VP*    研判  -    -   -   *             *      *           (V*)     *      *         *   -
+bn/cts/01/cts_0156   0    9    可能   VV         (IP(VP*    可能  -    -   -   *             *      *        (ARG1*    (V*)     *         *   -
+bn/cts/01/cts_0156   0   10     是   VC            (VP*     是  -    2   -   *             *      *             *      *    (V*)        *   -
+bn/cts/01/cts_0156   0   11    改造   VV            (VP*    改造  -    -   -   *             *      *             *      *      *       (V*)  -
+bn/cts/01/cts_0156   0   12     枪   NN      (NP*)))))))   -   -    -   -   *             *      *             *)     *      *    (ARG1*)  -
+bn/cts/01/cts_0156   0   13     。   PU              *))   -   -    -   -   *             *      *             *      *      *         *   -
+
+bn/cts/01/cts_0156   0    0    服饰店   NN     (TOP(IP(NP*    -   -   -   -   *   (ARG0*        (ARG0*             *   (ARG0*         *    (7
+bn/cts/01/cts_0156   0    1     老板   NN               *)   -   -   -   -   *        *)            *)            *        *)        *     7)
+bn/cts/01/cts_0156   0    2      说   VV            (VP*     说  -   7   -   *      (V*)            *             *        *         *     -
+bn/cts/01/cts_0156   0    3     他们   PN         (IP(NP*)   -   -   -   -   *   (ARG1*        (ARG0*)       (ARG0*)       *         *    (7)
+bn/cts/01/cts_0156   0    4     没有   AD    (VP(VP(ADVP*)   -   -   2   -   *        *    (ARGM-ADV*)            *        *         *     -
+bn/cts/01/cts_0156   0    5      和    P            (PP*    -   -   -   -   *        *        (ARG0*             *        *         *     -
+bn/cts/01/cts_0156   0    6      人   NN           (NP*))   -   -   1   -   *        *             *)            *        *         *     -
+bn/cts/01/cts_0156   0    7     结冤   VV           (VP*))   结冤  -   -   -   *        *           (V*)            *        *         *     -
+bn/cts/01/cts_0156   0    8      ，   PU               *    -   -   -   -   *        *             *             *        *         *     -
+bn/cts/01/cts_0156   0    9      不   AD       (VP(ADVP*)   -   -   -   -   *        *             *    (ARGM-ADV*)       *         *     -
+bn/cts/01/cts_0156   0   10     知道   VV            (VP*    知道  -   -   -   *        *             *           (V*)       *         *     -
+bn/cts/01/cts_0156   0   11      是   VC         (IP(VP*     是  -   1   -   *        *             *        (ARG1*      (V*)        *     -
+bn/cts/01/cts_0156   0   12      谁   PN         (IP(NP*)   -   -   -   -   *        *             *             *   (ARG1*    (ARG0*)    -
+bn/cts/01/cts_0156   0   13      找   VV            (VP*     找  -   -   -   *        *             *             *        *       (V*)    -
+bn/cts/01/cts_0156   0   14     麻烦   NN   (NP*))))))))))   -   -   -   -   *        *)            *             *)       *)   (ARG1*)    -
+bn/cts/01/cts_0156   0   15      。   PU              *))   -   -   -   -   *        *             *             *        *         *     -
+
+bn/cts/01/cts_0156   0    0      警方   NN   (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)     *        *    (ARG0*)       (ARG0*)   (8)
+bn/cts/01/cts_0156   0    1      怀疑   VV       (VP(VP*    怀疑  -   -   -   *       (V*)     *        *         *             *     -
+bn/cts/01/cts_0156   0    2      可能   VV       (IP(VP*    可能  -   -   -   *    (ARG1*    (V*)       *         *             *     -
+bn/cts/01/cts_0156   0    3       是   VC          (VP*     是  -   1   -   *         *      *      (V*)        *             *     -
+bn/cts/01/cts_0156   0    4      歹徒   NN       (QP(NP*)   -   -   -   -   *         *      *   (ARG1*         *             *    (2)
+bn/cts/01/cts_0156   0    5    一时性起   CD     (QP*))))))   -   -   -   -   *         *)     *        *)        *             *     -
+bn/cts/01/cts_0156   0    6       ，   PU             *    -   -   -   -   *         *      *        *         *             *     -
+bn/cts/01/cts_0156   0    7       把   BA          (VP*    -   -   -   -   *         *      *        *         *             *     -
+bn/cts/01/cts_0156   0    8      铁门   NN       (IP(NP*)   -   -   -   -   *         *      *        *    (ARG1*)            *    (6)
+bn/cts/01/cts_0156   0    9       当   VV          (VP*     当  -   1   -   *         *      *        *       (V*)            *     -
+bn/cts/01/cts_0156   0   10      标杷   NN          (NP*    -   -   -   -   *         *      *        *    (ARG1*             *     -
+bn/cts/01/cts_0156   0   11      练枪   NN          *))))   -   -   -   -   *         *      *        *         *)            *     -
+bn/cts/01/cts_0156   0   12       ，   PU             *    -   -   -   -   *         *      *        *         *             *     -
+bn/cts/01/cts_0156   0   13      目前   NT       (VP(NP*)   -   -   -   -   *         *      *        *         *    (ARGM-TMP*)    -
+bn/cts/01/cts_0156   0   14       将   BA          (VP*    -   -   -   -   *         *      *        *         *             *     -
+bn/cts/01/cts_0156   0   15      弹头   NN       (IP(NP*    -   -   -   -   *         *      *        *         *        (ARG1*    (1
+bn/cts/01/cts_0156   0   16       、   PU             *    -   -   -   -   *         *      *        *         *             *     -
+bn/cts/01/cts_0156   0   17      弹壳   NN             *)   -   -   -   -   *         *      *        *         *             *)    1)
+bn/cts/01/cts_0156   0   18      送到   VV          (VP*    送到  -   -   -   *         *      *        *         *           (V*)    -
+bn/cts/01/cts_0156   0   19     刑事局   NN          (NP*    -   -   -   -   *         *      *        *         *        (ARG2*     -
+bn/cts/01/cts_0156   0   20      鉴定   NN        *))))))   -   -   1   -   *         *      *        *         *             *)    -
+bn/cts/01/cts_0156   0   21       。   PU            *))   -   -   -   -   *         *      *        *         *             *     -
+
+#end document

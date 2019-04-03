@@ -1,0 +1,281 @@
+#begin document (bn/cbs/01/cbs_0115); part 000
+bn/cbs/01/cbs_0115   0    0      广东    NR    (TOP(IP(NP*   -    -   -   -         (GPE)       *        *        (ARG0*             *         *      (7
+bn/cbs/01/cbs_0115   0    1     东莞市    NR              *)  -    -   -   -         (GPE)       *        *             *)            *         *       7)
+bn/cbs/01/cbs_0115   0    2      昨天    NT        (VP(NP*)  -    -   -   -        (DATE)       *        *    (ARGM-TMP*)            *         *       -
+bn/cbs/01/cbs_0115   0    3       因     P           (PP*   -    -   -   -            *        *        *    (ARGM-PRP*             *         *       -
+bn/cbs/01/cbs_0115   0    4      发生    VV        (IP(VP*   -   01   1   -            *      (V*)       *             *             *         *       -
+bn/cbs/01/cbs_0115   0    5     商业街    NN  (NP(CP(IP(NP*   -    -   -   -            *   (ARG0*   (ARG0*             *             *         *   (3|(4
+bn/cbs/01/cbs_0115   0    6      大楼    NN              *)  -    -   -   -            *        *        *)            *             *         *       4)
+bn/cbs/01/cbs_0115   0    7      倒塌    VV          (VP*))  -   01   -   -            *        *      (V*)            *             *         *       -
+bn/cbs/01/cbs_0115   0    8       的   DEC              *)  -    -   -   -            *        *        *             *             *         *       -
+bn/cbs/01/cbs_0115   0    9      事件    NN       (NP*)))))  -    -   -   -            *        *)       *             *)            *         *       3)
+bn/cbs/01/cbs_0115   0   10       ，    PU              *   -    -   -   -            *        *        *             *             *         *       -
+bn/cbs/01/cbs_0115   0   11      估计    VV           (VP*   -   01   -   -            *        *        *           (V*)            *         *       -
+bn/cbs/01/cbs_0115   0   12      至少    AD   (IP(VP(ADVP*)  -    -   -   -            *        *        *        (ARG1*    (ARGM-ADV*)        *       -
+bn/cbs/01/cbs_0115   0   13       还    AD         (ADVP*)  -    -   -   -            *        *        *             *    (ARGM-ADV*)        *       -
+bn/cbs/01/cbs_0115   0   14       有    VE           (VP*   -   05   4   -            *        *        *             *           (V*)        *       -
+bn/cbs/01/cbs_0115   0   15    ２００多    CD     (IP(NP(QP*)  -    -   -   -    (CARDINAL)       *        *             *    (ARGM-ADV*    (ARG0*      (6
+bn/cbs/01/cbs_0115   0   16       人    NN          (NP*))  -    -   -   -            *        *        *             *             *         *)      6)
+bn/cbs/01/cbs_0115   0   17      遭到    VV           (VP*   -   01   -   -            *        *        *             *             *       (V*)      -
+bn/cbs/01/cbs_0115   0   18      活埋    NN    (NP*))))))))  -    -   -   -            *        *        *             *)            *)   (ARG1*)     (0)
+bn/cbs/01/cbs_0115   0   19       。    PU             *))  -    -   -   -            *        *        *             *             *         *       -
+
+bn/cbs/01/cbs_0115   0    0    当局    NN         (TOP(IP(NP*)  -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0    1    初步    AD           (VP(ADVP*)  -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0    2    断定    VV                (VP*   -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0    3    事件    NN          (IP(IP(NP*)  -    -   -   -   *      *         *             *             *    (3)
+bn/cbs/01/cbs_0115   0    4     是    VC                (VP*   -   01   2   -   *    (V*)        *             *             *     -
+bn/cbs/01/cbs_0115   0    5    出于    VV                (VP*   -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0    6    楼层    NN          (IP(IP(NP*)  -    -   -   -   *      *    (ARG0*             *             *    (2)
+bn/cbs/01/cbs_0115   0    7    违建    VV            (VP(VSB*   -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0    8    加盖    VV                 *)))  -    -   -   -   *      *         *)            *             *     -
+bn/cbs/01/cbs_0115   0    9    导致    VV                (VP*   -   01   -   -   *      *       (V*)            *             *     -
+bn/cbs/01/cbs_0115   0   10    坍塌    NN           (NP*))))))  -    -   -   -   *      *    (ARG1*)            *             *    (9)
+bn/cbs/01/cbs_0115   0   11     ，    PU                   *   -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0   12     而    AD           (IP(ADVP*)  -    -   -   -   *      *         *    (ARGM-DIS*)            *     -
+bn/cbs/01/cbs_0115   0   13    加盖    VV   (NP(CP(CP(IP(VP*))  -    -   -   -   *      *         *        (ARG0*             *    (2
+bn/cbs/01/cbs_0115   0   14     的   DEC                  *))  -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0   15    楼层    NN               (NP*))  -    -   -   -   *      *         *             *)            *     2)
+bn/cbs/01/cbs_0115   0   16     是    VC                (VP*   -   01   1   -   *      *         *           (V*)            *     -
+bn/cbs/01/cbs_0115   0   17    当地    NN    (NP(CP(IP(NP(NP*)  -    -   -   -   *      *         *        (ARG1*        (ARG0*    (7)
+bn/cbs/01/cbs_0115   0   18     几    CD                (QP*   -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0   19     名     M              (CLP*))  -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0   20     村    NN                (NP*   -    -   -   -   *      *         *             *             *     -
+bn/cbs/01/cbs_0115   0   21    干部    NN                  *))  -    -   -   -   *      *         *             *             *)    -
+bn/cbs/01/cbs_0115   0   22     所   MSP                (VP*   -    -   -   -   *      *         *             *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0115   0   23     有    VE       (VP*))))))))))  -   01   1   -   *      *         *             *)          (V*)    -
+bn/cbs/01/cbs_0115   0   24     。    PU                  *))  -    -   -   -   *      *         *             *             *     -
+
+bn/cbs/01/cbs_0115   0    0     目前    NT   (TOP(IP(NP*)  -    -   -   -          *    (ARGM-TMP*)   (5)
+bn/cbs/01/cbs_0115   0    1    施工队    NN       (NP(NP*)  -    -   -   -          *        (ARG0*    (1)
+bn/cbs/01/cbs_0115   0    2      黄    NR          (NP*   -    -   -   -    (PERSON)            *     -
+bn/cbs/01/cbs_0115   0    3      姓    NN             *)  -    -   -   -          *             *     -
+bn/cbs/01/cbs_0115   0    4     老板    NN         (NP*))  -    -   -   -          *             *)    -
+bn/cbs/01/cbs_0115   0    5     已经    AD     (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0115   0    6     遭到    VV          (VP*   -   01   -   -          *           (V*)    -
+bn/cbs/01/cbs_0115   0    7     警方    NN   (NP(DNP(NP*)  -    -   -   -          *        (ARG1*     -
+bn/cbs/01/cbs_0115   0    8      的   DEG             *)  -    -   -   -          *             *     -
+bn/cbs/01/cbs_0115   0    9     拘押    NN       (NP*))))  -    -   -   -          *             *)    -
+bn/cbs/01/cbs_0115   0   10      。    PU            *))  -    -   -   -          *             *     -
+
+bn/cbs/01/cbs_0115   0    0      这    DT  (TOP(IP(IP(NP(DP*   -    -   -   -            *         *   (ARG0*        *             *    (3
+bn/cbs/01/cbs_0115   0    1      起     M             (CLP*))  -    -   5   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0    2     大楼    NN            (IP(NP*)  -    -   -   -            *    (ARG0*)       *        *             *    (4)
+bn/cbs/01/cbs_0115   0    3     倒塌    VV              (VP*))  -   01   -   -            *       (V*)       *        *             *     -
+bn/cbs/01/cbs_0115   0    4     事件    NN              (NP*))  -    -   -   -            *         *        *)       *             *     3)
+bn/cbs/01/cbs_0115   0    5     发生    VV               (VP*   -   01   1   -            *         *      (V*)       *             *     -
+bn/cbs/01/cbs_0115   0    6      在     P               (PP*   -    -   2   -            *         *   (ARG1*        *             *     -
+bn/cbs/01/cbs_0115   0    7    东莞市    NR        (NP(DNP(NP*   -    -   -   -         (GPE)        *        *        *             *     -
+bn/cbs/01/cbs_0115   0    8    后街镇    NR                  *   -    -   -   -         (GPE)        *        *        *             *     -
+bn/cbs/01/cbs_0115   0    9     赤岭    NR                  *   -    -   -   -        (FAC*         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   10    工业区    NN                  *)  -    -   -   -            *)        *        *        *             *     -
+bn/cbs/01/cbs_0115   0   11      的   DEG                  *)  -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   12      一    CD               (QP*   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   13      条     M             (CLP*))  -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   14      百    CD               (QP*   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   15      米     M             (CLP*))  -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   16     商业    NN               (NP*   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   17     大街    NN              *)))))  -    -   -   -            *         *        *)       *             *     -
+bn/cbs/01/cbs_0115   0   18      ，    PU                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   19     包括    VV         (IP(VP(VP*   -   01   -   -            *         *        *      (V*)            *     -
+bn/cbs/01/cbs_0115   0   20      了    AS                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   21     饭店    NN            (NP(NP*   -    -   -   -            *         *        *   (ARG1*             *     -
+bn/cbs/01/cbs_0115   0   22      、    PU                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   23     服装    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   24      店    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   25      、    PU                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   26    五金店    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   27      、    PU                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   28     通讯    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   29     器材    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   30      店    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   31      和    CC                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   32    电话亭    NN                  *   -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   33      等   ETC                  *)  -    -   2   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   34    ２０多    CD           (DNP(QP*   -    -   -   -    (CARDINAL)        *        *        *             *     -
+bn/cbs/01/cbs_0115   0   35      间     M             (CLP*))  -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   36      的   DEG                  *)  -    -   -   -            *         *        *        *             *     -
+bn/cbs/01/cbs_0115   0   37     房舍    NN             (NP*)))  -    -   -   -            *         *        *        *)            *     -
+bn/cbs/01/cbs_0115   0   38     瞬间    NN          (VP(ADVP*)  -    -   -   -            *         *        *        *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0115   0   39     倒塌    VV            (VP*))))  -   01   -   -            *         *        *        *           (V*)    -
+bn/cbs/01/cbs_0115   0   40      。    PU                 *))  -    -   -   -            *         *        *        *             *     -
+
+bn/cbs/01/cbs_0115   0    0     爆炸声    NN   (TOP(IP(IP(NP*)  -    -   -   -            *    (ARG0*)       *        *         *     -
+bn/cbs/01/cbs_0115   0    1      吓坏    VV             (VP*   -   01   -   -            *       (V*)       *        *         *     -
+bn/cbs/01/cbs_0115   0    2       了    AS                *   -    -   -   -            *         *        *        *         *     -
+bn/cbs/01/cbs_0115   0    3      附近    NN      (NP(DNP(NP*)  -    -   -   -            *    (ARG1*        *        *         *     -
+bn/cbs/01/cbs_0115   0    4       的   DEG                *)  -    -   -   -            *         *        *        *         *     -
+bn/cbs/01/cbs_0115   0    5      民众    NN          (NP*))))  -    -   -   -            *         *)       *        *         *     -
+bn/cbs/01/cbs_0115   0    6       ，    PU                *   -    -   -   -            *         *        *        *         *     -
+bn/cbs/01/cbs_0115   0    7      估计    VV          (IP(VP*   -   01   -   -            *         *      (V*)       *         *     -
+bn/cbs/01/cbs_0115   0    8       有    VE          (IP(VP*   -   05   4   -            *         *   (ARG1*      (V*)        *     -
+bn/cbs/01/cbs_0115   0    9    ２００多    CD       (IP(NP(QP*)  -    -   -   -    (CARDINAL)        *        *   (ARG1*    (ARG0*    (6
+bn/cbs/01/cbs_0115   0   10       人    NN            (NP*))  -    -   -   -            *         *        *        *         *)    6)
+bn/cbs/01/cbs_0115   0   11      遭到    VV             (VP*   -   01   -   -            *         *        *        *       (V*)    -
+bn/cbs/01/cbs_0115   0   12      活埋    NN       (NP*)))))))  -    -   -   -            *         *        *)       *)   (ARG1*)   (0)
+bn/cbs/01/cbs_0115   0   13       。    PU               *))  -    -   -   -            *         *        *        *         *     -
+
+bn/cbs/01/cbs_0115   0    0     救援    NN    (TOP(IP(NP*   -    -   -   -            *        (ARG0*        (ARG0*        (ARG0*   -
+bn/cbs/01/cbs_0115   0    1     人员    NN              *)  -    -   -   -            *             *)            *)            *)  -
+bn/cbs/01/cbs_0115   0    2     至少    AD   (VP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *             *   -
+bn/cbs/01/cbs_0115   0    3     挖出    VV           (VP*   -   01   -   -            *           (V*)            *             *   -
+bn/cbs/01/cbs_0115   0    4    １０多    CD    (NP(DNP(QP*   -    -   -   -    (CARDINAL)       (ARG1*             *             *   -
+bn/cbs/01/cbs_0115   0    5      具     M         (CLP*))  -    -   2   -            *             *             *             *   -
+bn/cbs/01/cbs_0115   0    6      的   DEG              *)  -    -   -   -            *             *             *             *   -
+bn/cbs/01/cbs_0115   0    7     尸体    NN        (NP*))))  -    -   -   -            *             *)            *             *   -
+bn/cbs/01/cbs_0115   0    8      ，    PU              *   -    -   -   -            *             *             *             *   -
+bn/cbs/01/cbs_0115   0    9     另外    AD      (VP(ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)   (ARGM-DIS*)  -
+bn/cbs/01/cbs_0115   0   10      也    AD         (ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)   (ARGM-ADV*)  -
+bn/cbs/01/cbs_0115   0   11     使用    VV        (VP(VP*   -   01   -   -            *             *           (V*)            *   -
+bn/cbs/01/cbs_0115   0   12     生命    NN           (NP*   -    -   -   -            *             *        (ARG1*             *   -
+bn/cbs/01/cbs_0115   0   13    探测器    NN             *))  -    -   -   -            *             *             *)            *   -
+bn/cbs/01/cbs_0115   0   14     进行    VV           (VP*   -   01   3   -            *             *             *           (V*)  -
+bn/cbs/01/cbs_0115   0   15     抢救    NN       (NP*)))))  -    -   -   -            *             *             *        (ARG1*)  -
+bn/cbs/01/cbs_0115   0   16      。    PU             *))  -    -   -   -            *             *             *             *   -
+
+bn/cbs/01/cbs_0115   0    0      到    P  (TOP(IP(IP(VP(PP*   -    -   5   -            *             *      *     -
+bn/cbs/01/cbs_0115   0    1     现在   NT              (NP*))  -    -   -   -            *             *      *    (5)
+bn/cbs/01/cbs_0115   0    2     已经   AD             (ADVP*)  -    -   -   -            *             *      *     -
+bn/cbs/01/cbs_0115   0    3     救出   VV               (VP*   -    -   -   -            *             *      *     -
+bn/cbs/01/cbs_0115   0    4    ５０多   CD            (NP(QP*)  -    -   -   -    (CARDINAL)            *      *     -
+bn/cbs/01/cbs_0115   0    5      人   NN           (NP*)))))  -    -   -   -            *             *      *     -
+bn/cbs/01/cbs_0115   0    6      ，   PU                  *   -    -   -   -            *             *      *     -
+bn/cbs/01/cbs_0115   0    7     目前   NT            (IP(NP*)  -    -   -   -            *    (ARGM-TMP*)     *    (5)
+bn/cbs/01/cbs_0115   0    8     救援   NN               (NP*   -    -   -   -            *        (ARG0*      *     -
+bn/cbs/01/cbs_0115   0    9     行动   NN                  *)  -    -   -   -            *             *)     *     -
+bn/cbs/01/cbs_0115   0   10      还   AD          (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)     *     -
+bn/cbs/01/cbs_0115   0   11      在   VV               (VP*   -   01   2   -            *           (V*)     *     -
+bn/cbs/01/cbs_0115   0   12     持续   VV       (LCP(IP(VP*))  -   01   1   -            *        (ARG1*    (V*)    -
+bn/cbs/01/cbs_0115   0   13     当中   LC               *))))  -    -   -   -            *             *)     *     -
+bn/cbs/01/cbs_0115   0   14      。   PU                 *))  -    -   -   -            *             *      *     -
+
+bn/cbs/01/cbs_0115   0    0     根据     P  (TOP(IP(IP(PP*   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    1     报道    NN           (NP*))  -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    2     倒塌    NN            (NP*)  -    -   -   -            *            *         *            *            *             *             *             *    (9)
+bn/cbs/01/cbs_0115   0    3     起于    VV            (VP*   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    4      一    CD      (IP(NP(QP*   -    -   -   -            *       (ARG0*    (ARG0*            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    5      层     M          (CLP*))  -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    6     平房    NN            (NP*   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    7     商铺    NN              *))  -    -   -   -            *            *)        *)           *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    8     加盖    VV         (VP(VP*   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0    9      三    CD            (QP*   -    -   -   -    (CARDINAL)           *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   10      层     M         (CLP*)))  -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   11      ，    PU               *   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   12     因为     P         (VP(PP*   -    -   -   -            *   (ARGM-PRP*         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   13     重量    NN         (IP(NP*)  -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   14     过重    VV          (VP*)))  -    -   -   -            *            *)        *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   15     影响    VV            (VP*   -   01   -   -            *          (V*)        *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   16     结构    NN          (NP*)))  -    -   -   -            *       (ARG1*)        *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   17      而   MSP            (VP*   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   18     导致    VV            (VP*   -   01   -   -            *            *       (V*)           *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   19     意外    NN      (NP*)))))))  -    -   -   -            *            *    (ARG1*)           *            *             *             *             *    (3)
+bn/cbs/01/cbs_0115   0   20      ，    PU               *   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   21      当     P   (IP(VP(VP(PP*   -    -   4   -            *            *         *            *   (ARGM-TMP*             *             *             *     -
+bn/cbs/01/cbs_0115   0   22    施工队    NN     (LCP(IP(NP*)  -    -   -   -            *            *         *       (ARG1*)           *             *             *             *    (1)
+bn/cbs/01/cbs_0115   0   23     进行    VV            (VP*   -   01   3   -            *            *         *          (V*)           *             *             *             *     -
+bn/cbs/01/cbs_0115   0   24     加盖    VV         (IP(VP*   -    -   -   -            *            *         *   (ARGM-ADV*            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   25     第三    OD         (NP(QP*   -    -   -   -     (ORDINAL)           *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   26      层     M          (CLP*))  -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   27      楼    NN       (NP*))))))  -    -   -   -            *            *         *            *)           *             *             *             *     -
+bn/cbs/01/cbs_0115   0   28      时    LC              *))  -    -   -   -            *            *         *            *            *)            *             *             *     -
+bn/cbs/01/cbs_0115   0   29     发现    VV            (VP*   -   01   -   -            *            *         *            *          (V*)            *             *             *     -
+bn/cbs/01/cbs_0115   0   30      该    DT      (IP(NP(DP*   -    -   1   -            *            *         *            *       (ARG1*        (ARG0*             *             *    (4
+bn/cbs/01/cbs_0115   0   31      栋     M          (CLP*))  -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   32     楼房    NN           (NP*))  -    -   -   -            *            *         *            *            *             *)            *             *     4)
+bn/cbs/01/cbs_0115   0   33     地基    NN            (NP*)  -    -   -   -            *            *         *            *            *        (ARG0*)            *             *     -
+bn/cbs/01/cbs_0115   0   34      不    AD       (VP(ADVP*)  -    -   -   -            *            *         *            *            *    (ARGM-ADV*)            *             *     -
+bn/cbs/01/cbs_0115   0   35      稳    VA        (VP*)))))  -   01   -   -            *            *         *            *            *)          (V*)            *             *     -
+bn/cbs/01/cbs_0115   0   36      曾    AD       (VP(ADVP*)  -    -   -   -            *            *         *            *            *             *    (ARGM-ADV*)            *     -
+bn/cbs/01/cbs_0115   0   37      向     P            (PP*   -    -   -   -            *            *         *            *            *             *        (ARG2*             *     -
+bn/cbs/01/cbs_0115   0   38     施工    NN            (NP*   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   39     队长    NN              *))  -    -   -   -            *            *         *            *            *             *             *)            *     -
+bn/cbs/01/cbs_0115   0   40     反映    VV         (VP*))))  -   01   1   -            *            *         *            *            *             *           (V*)            *     -
+bn/cbs/01/cbs_0115   0   41      ，    PU               *   -    -   -   -            *            *         *            *            *             *             *             *     -
+bn/cbs/01/cbs_0115   0   42     但是    AD    (IP(VP(ADVP*)  -    -   -   -            *            *         *            *            *             *             *    (ARGM-DIS*)    -
+bn/cbs/01/cbs_0115   0   43      并    AD          (ADVP*)  -    -   -   -            *            *         *            *            *             *             *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0115   0   44     没有    VE            (VP*   -   01   1   -            *            *         *            *            *             *             *           (V*)    -
+bn/cbs/01/cbs_0115   0   45     下文    NN         (NP*))))  -    -   -   -            *            *         *            *            *             *             *        (ARG1*)    -
+bn/cbs/01/cbs_0115   0   46      。    PU              *))  -    -   -   -            *            *         *            *            *             *             *             *     -
+
+bn/cbs/01/cbs_0115   0    0    事发    VV   (TOP(IP(NP(CP(IP(VP(VP*))))  -    -   -   -          *   (ARGM-TMP*         *    (ARGM-TMP*    (ARGM-TMP*         *      *     -
+bn/cbs/01/cbs_0115   0    1    当天    NT                         (NP*   -    -   -   -          *            *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0    2    上午    NT                           *))  -    -   -   -      (TIME)           *)        *             *)            *)        *      *     -
+bn/cbs/01/cbs_0115   0    3     ，    PU                            *   -    -   -   -          *            *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0    4     一    CD                      (NP(QP*   -    -   -   -          *       (ARG0*         *        (ARG0*        (ARG0*         *      *     -
+bn/cbs/01/cbs_0115   0    5     名     M                       (CLP*))  -    -   -   -          *            *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0    6     陈    NR                         (NP*   -    -   -   -    (PERSON)           *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0    7     姓    NN                            *)  -    -   -   -          *            *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0    8    住户    NN                        (NP*))  -    -   -   -          *            *)        *             *)            *)        *      *     -
+bn/cbs/01/cbs_0115   0    9    发现    VV                      (VP(VP*   -   01   -   -          *          (V*)        *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0   10     墙    NN                  (IP(LCP(NP*)  -    -   -   -          *       (ARG1*    (ARG0*             *             *         *      *     -
+bn/cbs/01/cbs_0115   0   11     上    LC                            *)  -    -   1   -          *            *         *)            *             *         *      *     -
+bn/cbs/01/cbs_0115   0   12     有    VE                         (VP*   -   03   3   -          *            *       (V*)            *             *         *      *     -
+bn/cbs/01/cbs_0115   0   13    裂缝    NN                      (NP*))))  -    -   -   -          *            *)   (ARG1*)            *             *         *      *     -
+bn/cbs/01/cbs_0115   0   14     ，    PU                            *   -    -   -   -          *            *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0   15    于是    AD                    (VP(ADVP*)  -    -   -   -          *            *         *    (ARGM-ADV*)   (ARGM-DIS*)        *      *     -
+bn/cbs/01/cbs_0115   0   16     打    VV                      (VP(VP*   -   01   2   -          *            *         *           (V*)            *         *      *     -
+bn/cbs/01/cbs_0115   0   17    电话    NN                        (NP*))  -    -   -   -          *            *         *        (ARG1*)            *         *      *     -
+bn/cbs/01/cbs_0115   0   18     请    VV                         (VP*   -   01   -   -          *            *         *             *           (V*)        *      *     -
+bn/cbs/01/cbs_0115   0   19    加盖    VV             (NP(CP(CP(IP(VP*   -    -   -   -          *            *         *             *        (ARG1*         *      *    (8
+bn/cbs/01/cbs_0115   0   20    楼层    NN                       (NP*)))  -    -   -   -          *            *         *             *             *         *      *    (2)
+bn/cbs/01/cbs_0115   0   21     的   DEC                           *))  -    -   -   -          *            *         *             *             *         *      *     -
+bn/cbs/01/cbs_0115   0   22     叶    NR                         (NP*   -    -   -   -    (PERSON)           *         *             *             *         *      *   (10
+bn/cbs/01/cbs_0115   0   23     姓    NN                            *)  -    -   -   -          *            *         *             *             *         *      *    10)
+bn/cbs/01/cbs_0115   0   24    屋主    NN                        (NP*))  -    -   -   -          *            *         *             *             *)        *      *     8)
+bn/cbs/01/cbs_0115   0   25     来    VV                      (IP(VP*   -   01   7   -          *            *         *             *        (ARG2*       (V*)     *     -
+bn/cbs/01/cbs_0115   0   26     看    VV                   (VP*)))))))  -   02   2   -          *            *         *             *             *)   (ARG1*)   (V*)    -
+bn/cbs/01/cbs_0115   0   27     。    PU                           *))  -    -   -   -          *            *         *             *             *         *      *     -
+
+bn/cbs/01/cbs_0115   0    0      叶    NR      (TOP(IP(NP(NP*   -    -   -   -    (PERSON)  (ARG0*         *        *         *      *        (ARG0*             *         *   (8|(10
+bn/cbs/01/cbs_0115   0    1      姓    NN                   *)  -    -   -   -          *        *         *        *         *      *             *             *         *       10)
+bn/cbs/01/cbs_0115   0    2     屋主    NN               (NP*))  -    -   -   -          *        *)        *        *         *      *             *)            *         *        8)
+bn/cbs/01/cbs_0115   0    3     认为    VV             (VP(VP*   -   01   1   -          *      (V*)        *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0    4     事态    NN             (IP(NP*)  -    -   -   -          *   (ARG1*    (ARG0*)       *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0    5     严重    VA              (VP*)))  -   01   1   -          *        *)      (V*)       *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0    6      于     P             (VP(PP*   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0    7     下午    NT               (NP*))  -    -   -   -      (TIME)       *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0    8     邀集    VV                (VP*   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0    9    赤岭村    NR          (NP(NP(NP*)  -    -   -   -       (GPE)       *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   10     干部    NN               (NP*))  -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   11      和    CC                   *   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   12     施工    VV   (NP(CP(CP(IP(VP*))  -   01   -   -          *        *         *      (V*)        *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   13      的   DEC                  *))  -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   14     工头    NN                (NP*   -    -   -   -          *        *         *   (ARG0*         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   15      和    CC                   *   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   16     技术    NN                   *   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   17     人员    NN                 *)))  -    -   -   -          *        *         *        *)        *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   18      赴    VV          (IP(VP(VP*   -   01   -   -          *        *         *        *       (V*)     *             *             *         *        -
+bn/cbs/01/cbs_0115   0   19     现场    NN               (NP*))  -    -   -   -          *        *         *        *    (ARG1*)     *             *             *         *        -
+bn/cbs/01/cbs_0115   0   20     查看    VV            (VP*)))))  -   01   -   -          *        *         *        *         *    (V*)            *             *         *        -
+bn/cbs/01/cbs_0115   0   21      ，    PU                   *   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   22      却    AD           (VP(ADVP*)  -    -   -   -          *        *         *        *         *      *    (ARGM-DIS*)            *         *        -
+bn/cbs/01/cbs_0115   0   23     得到    VV                (VP*   -   01   -   -          *        *         *        *         *      *           (V*)            *         *        -
+bn/cbs/01/cbs_0115   0   24      “    PU                   *   -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   25     肯定    VV    (NP(CP(IP(IP(VP*   -   03   1   -          *        *         *        *         *      *        (ARG1*           (V*)        *        -
+bn/cbs/01/cbs_0115   0   26     没事    VV              (VP*)))  -    -   -   -          *        *         *        *         *      *             *    (ARGM-ADV*)        *        -
+bn/cbs/01/cbs_0115   0   27     你们    PN          (CP(IP(NP*)  -    -   -   -          *        *         *        *         *      *             *             *    (ARG0*)       -
+bn/cbs/01/cbs_0115   0   28     放心    VV               (VP*))  -   01   -   -          *        *         *        *         *      *             *             *       (V*)       -
+bn/cbs/01/cbs_0115   0   29      吧    SP                   *)  -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   30      ”    PU                   *)  -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   31      的   DEC                   *)  -    -   -   -          *        *         *        *         *      *             *             *         *        -
+bn/cbs/01/cbs_0115   0   32     答案    NN            (NP*)))))  -    -   -   -          *        *         *        *         *      *             *)            *         *        -
+bn/cbs/01/cbs_0115   0   33      。    PU                  *))  -    -   -   -          *        *         *        *         *      *             *             *         *        -
+
+bn/cbs/01/cbs_0115   0    0     人   NN   (TOP(IP(VP(IP(VP(LCP(IP(NP*)  -    -   -   -        *    (ARG0*)   (ARGM-TMP*    (ARGM-TMP*    -
+bn/cbs/01/cbs_0115   0    1     走   VV                         (VP*))  -   02   3   -        *       (V*)            *             *    -
+bn/cbs/01/cbs_0115   0    2    之后   LC                             *)  -    -   -   -        *         *             *)            *    -
+bn/cbs/01/cbs_0115   0    3     不   AD                        (ADVP*)  -    -   -   -        *         *    (ARGM-ADV*)            *    -
+bn/cbs/01/cbs_0115   0    4     到   VV                          (VP*   -   01   3   -        *         *           (V*)            *    -
+bn/cbs/01/cbs_0115   0    5     １   CD                       (NP(QP*   -    -   -   -   (TIME*         *        (ARG1*             *    -
+bn/cbs/01/cbs_0115   0    6     个    M                        (CLP*))  -    -   -   -        *         *             *             *    -
+bn/cbs/01/cbs_0115   0    7    小时   NN                      (NP*)))))  -    -   -   -        *)        *             *)            *)   -
+bn/cbs/01/cbs_0115   0    8     就   AD                        (ADVP*)  -    -   2   -        *         *             *    (ARGM-ADV*)   -
+bn/cbs/01/cbs_0115   0    9    发生   VV                          (VP*   -   01   1   -        *         *             *           (V*)   -
+bn/cbs/01/cbs_0115   0   10     了   AS                             *   -    -   -   -        *         *             *             *    -
+bn/cbs/01/cbs_0115   0   11     这   DT                       (NP(DP*   -    -   -   -        *         *             *        (ARG0*   (3
+bn/cbs/01/cbs_0115   0   12     一   CD                          (QP*   -    -   -   -        *         *             *             *    -
+bn/cbs/01/cbs_0115   0   13     项    M                       (CLP*)))  -    -   -   -        *         *             *             *    -
+bn/cbs/01/cbs_0115   0   14    惨剧   NN                       (NP*))))  -    -   -   -        *         *             *             *)   3)
+bn/cbs/01/cbs_0115   0   15     。   PU                            *))  -    -   -   -        *         *             *             *    -
+
+#end document

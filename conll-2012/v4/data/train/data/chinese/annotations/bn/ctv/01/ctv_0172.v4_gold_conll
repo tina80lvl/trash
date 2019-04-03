@@ -1,0 +1,256 @@
+#begin document (bn/ctv/01/ctv_0172); part 000
+bn/ctv/01/ctv_0172   0    0        国家    NN       (TOP(IP(NP(NP(NP*   -    -   -   -       (ORG*        (ARG0*             *         *      *             *         *        *        *        *             *   (2|(4
+bn/ctv/01/ctv_0172   0    1        开发    NN                       *   -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0    2        银行    NN                       *)  -    -   -   -           *)            *             *         *      *             *         *        *        *        *             *       4)
+bn/ctv/01/ctv_0172   0    3        行长    NN                   (NP*))  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0    4        陈源    NR                   (NP*))  -    -   -   -     (PERSON)            *)            *         *      *             *         *        *        *        *             *       2)
+bn/ctv/01/ctv_0172   0    5       １６号    NT                 (VP(NP*)  -    -   -   -       (DATE)   (ARGM-TMP*)            *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0    6        表示    VV                    (VP*   -   01   2   -           *           (V*)            *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0    7         ：    PU                       *   -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0    8        国家    NN              (IP(IP(NP*   -    -   -   -       (ORG*        (ARG1*        (ARG0*         *      *             *         *        *        *        *             *      (4
+bn/ctv/01/ctv_0172   0    9        开发    NN                       *   -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   10        银行    NN                       *)  -    -   -   -           *)            *             *)        *      *             *         *        *        *        *             *       4)
+bn/ctv/01/ctv_0172   0   11        今年    NT                 (VP(NP*)  -    -   -   -       (DATE)            *    (ARGM-TMP*)        *      *             *         *        *        *        *             *      (1)
+bn/ctv/01/ctv_0172   0   12        预计    VV                    (VP*   -   01   -   -           *             *           (V*)        *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   13        新增    VV                 (IP(VP*   -   01   -   -           *             *        (ARG1*       (V*)     *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   14        贷款    NN                    (NP*)  -    -   -   -           *             *             *    (ARG1*)     *             *         *        *        *        *             *      (0)
+bn/ctv/01/ctv_0172   0   15    １５００多亿    CD                    (QP*   -    -   -   -     (MONEY*             *             *    (ARG1*      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   16         元     M             (CLP*)))))))  -    -   -   -           *)            *             *)        *)     *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   17         ，    PU                       *   -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   18        其中    NN              (IP(QP(NP*)  -    -   -   -           *             *             *         *      *        (ARG1*    (ARG0*        *        *        *             *      (0)
+bn/ctv/01/ctv_0172   0   19       ８０％    CD                    (QP*   -    -   -   -    (PERCENT)            *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   20         到    CC                       *   -    -   7   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   21       ９０％    CD                      *))  -    -   -   -    (PERCENT)            *             *         *      *             *)        *)       *        *        *             *       -
+bn/ctv/01/ctv_0172   0   22         将    AD            (VP(VP(ADVP*)  -    -   -   -           *             *             *         *      *    (ARGM-ADV*)   (ARG0*        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   23         会    VV                    (VP*   -   01   -   -           *             *             *         *    (V*)            *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   24        投向    VV                    (VP*   -   01   -   -           *             *             *         *      *           (V*)        *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   25        国家    NN       (NP(NP(DNP(NP(NP*)  -    -   -   -           *             *             *         *      *        (ARG2*         *        *        *        *             *      (3)
+bn/ctv/01/ctv_0172   0   26        重点    JJ                  (ADJP*)  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   27        项目    NN                   (NP*))  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   28         的   DEG                       *)  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   29        建设    NN                   (NP*))  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   30         和    CC                       *   -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   31        西部    NN                 (NP(NP*)  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   32         大    JJ                  (ADJP*)  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   33        开发    NN               (NP*))))))  -    -   -   -           *             *             *         *      *             *)        *)       *        *        *             *       -
+bn/ctv/01/ctv_0172   0   34         ，    PU                       *   -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   35         使    VV                    (VP*   -   01   -   -           *             *             *         *      *             *       (V*)       *        *        *             *       -
+bn/ctv/01/ctv_0172   0   36        国家    NN                    (NP*)  -    -   -   -           *             *             *         *      *             *    (ARG1*)       *        *        *             *      (3)
+bn/ctv/01/ctv_0172   0   37        实施    VV              (IP(VP(VP*   -   01   -   -           *             *             *         *      *             *    (ARG2*      (V*)       *        *             *       -
+bn/ctv/01/ctv_0172   0   38        积极    VA       (NP(CP(CP(IP(VP*))  -   01   -   -           *             *             *         *      *             *         *   (ARG1*      (V*)       *             *       -
+bn/ctv/01/ctv_0172   0   39         的   DEC                      *))  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   40        财政    NN                    (NP*   -    -   -   -           *             *             *         *      *             *         *        *   (ARG0*        *             *       -
+bn/ctv/01/ctv_0172   0   41        政策    NN                     *)))  -    -   -   -           *             *             *         *      *             *         *        *)       *)       *             *       -
+bn/ctv/01/ctv_0172   0   42        取得    VV                    (VP*   -   01   -   -           *             *             *         *      *             *         *        *        *      (V*)            *       -
+bn/ctv/01/ctv_0172   0   43         更    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -           *             *             *         *      *             *         *        *        *   (ARG1*    (ARGM-ADV*)      -
+bn/ctv/01/ctv_0172   0   44         好    VA                  (VP*)))  -   01   1   -           *             *             *         *      *             *         *        *        *        *           (V*)      -
+bn/ctv/01/ctv_0172   0   45         的   DEC                      *))  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+bn/ctv/01/ctv_0172   0   46        效果    NN          (NP*)))))))))))  -    -   -   -           *             *)            *         *      *             *         *)       *        *        *)       (ARG0*)      -
+bn/ctv/01/ctv_0172   0   47         。    PU                      *))  -    -   -   -           *             *             *         *      *             *         *        *        *        *             *       -
+
+bn/ctv/01/ctv_0172   0    0     陈源    NR         (TOP(IP(NP*)  -    -   -   -      (PERSON)   (ARG0*)       *             *             *             *             *             *        *    (2)
+bn/ctv/01/ctv_0172   0    1      说    VV                (VP*   -   01   7   -            *       (V*)       *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0    2      ：    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0    3     今年    NT          (IP(IP(NP*)  -    -   -   -        (DATE)   (ARG1*        *    (ARGM-TMP*)   (ARGM-TMP*)            *             *             *        *    (1)
+bn/ctv/01/ctv_0172   0    4     国家    NN         (NP(DNP(NP*   -    -   -   -        (ORG*         *        *        (ARG0*        (ARG1*             *             *             *        *    (4
+bn/ctv/01/ctv_0172   0    5     开发    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0    6     银行    NN                   *)  -    -   -   -            *)        *        *             *             *             *             *             *        *     4)
+bn/ctv/01/ctv_0172   0    7      的   DEG                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0    8     贷款    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0    9     导向    NN                  *))  -    -   -   -            *         *        *             *)            *)            *             *             *        *     -
+bn/ctv/01/ctv_0172   0   10      仍    AD           (VP(ADVP*)  -    -   -   -            *         *        *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *        *     -
+bn/ctv/01/ctv_0172   0   11      将    AD              (ADVP*)  -    -   -   -            *         *        *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *        *     -
+bn/ctv/01/ctv_0172   0   12     围绕     P          (VP(VP(PP*   -    -   -   -            *         *        *    (ARGM-ADV*             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   13     积极    VA   (NP(CP(CP(IP(VP*))  -   01   -   -            *         *      (V*)            *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   14      的   DEC                  *))  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   15     财政    NN                (NP*   -    -   -   -            *         *   (ARG0*             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   16     政策    NN                 *)))  -    -   -   -            *         *        *)            *)            *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   17      ，    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   18      向     P                (PP*   -    -   -   -            *         *        *        (ARG2*             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   19     国债    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   20     项目    NN                  *))  -    -   -   -            *         *        *             *)            *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   21     提供    VV                (VP*   -   01   -   -            *         *        *           (V*)            *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   22     配套    JJ           (NP(ADJP*)  -    -   -   -            *         *        *        (ARG1*             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   23     贷款    NN             (NP*))))  -    -   -   -            *         *        *             *)            *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   24      来   MSP                (VP*   -    -   7   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   25     展开    VV            (VP*)))))  -   01   -   -            *         *        *             *           (V*)            *             *             *        *     -
+bn/ctv/01/ctv_0172   0   26      ，    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   27      将    AD        (IP(VP(ADVP*)  -    -   -   -            *         *        *             *             *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)       *     -
+bn/ctv/01/ctv_0172   0   28     重点    AD        (VP(VP(ADVP*)  -    -   -   -            *         *        *             *             *    (ARGM-ADV*)            *             *        *     -
+bn/ctv/01/ctv_0172   0   29     优先    AD              (ADVP*)  -    -   -   -            *         *        *             *             *    (ARGM-ADV*)            *             *        *     -
+bn/ctv/01/ctv_0172   0   30     支持    VV                (VP*   -   01   -   -            *         *        *             *             *           (V*)            *             *        *     -
+bn/ctv/01/ctv_0172   0   31     经济    NN             (NP(NP*   -    -   2   -            *         *        *             *             *        (ARG1*             *             *        *     -
+bn/ctv/01/ctv_0172   0   32     结构    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   33     调整    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   34      和    CC                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   35     产业    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   36     升级    NN                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   37     项目    NN             (NP*))))  -    -   -   -            *         *        *             *             *             *)            *             *        *     -
+bn/ctv/01/ctv_0172   0   38      ，    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   39     继续    VV                (VP*   -   01   -   -            *         *        *             *             *             *           (V*)            *        *     -
+bn/ctv/01/ctv_0172   0   40     支持    VV                (VP*   -   01   -   -            *         *        *             *             *             *        (ARG1*           (V*)       *     -
+bn/ctv/01/ctv_0172   0   41     国家    NN          (NP(NP(NP*   -    -   -   -            *         *        *             *             *             *             *        (ARG1*        *     -
+bn/ctv/01/ctv_0172   0   42     基础    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   43     设施    NN                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   44      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   45     基础    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   46     产业    NN                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   47      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   48     支柱    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   49     产业    NN                   *)  -    -   2   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   50     以及    CC                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   51     重大    JJ           (NP(ADJP*)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   52     技术    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   53     改造    NN                  *))  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   54      和    CC                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   55     高新    JJ           (NP(ADJP*)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   56     技术    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   57     产业    NN                 *)))  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   58     项目    NN          (NP*)))))))  -    -   -   -            *         *        *             *             *             *             *)            *)       *     -
+bn/ctv/01/ctv_0172   0   59      ，    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   60     电力    NN   (IP(NP(DNP(NP(NP*   -    -   -   -            *         *        *             *             *             *             *             *   (ARG1*     -
+bn/ctv/01/ctv_0172   0   61      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   62     公路    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   63      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   64     铁路    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   65      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   66     城建    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   67      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   68     石油    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   69     石化    NN                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   70      、    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   71     电信    NN                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   72      ，    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   73      六    CD                (QP*)  -    -   -   -    (CARDINAL)        *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   74      大    JJ              (ADJP*)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   75     行业    NN               (NP*))  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   76      的   DEG                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   77     贷款    NN               (NP*))  -    -   -   -            *         *        *             *             *             *             *             *        *)    -
+bn/ctv/01/ctv_0172   0   78      ，    PU                   *   -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   79     资产    NN                (NP*   -    -   -   -            *         *        *             *             *             *             *             *   (ARG1*     -
+bn/ctv/01/ctv_0172   0   80     总量    NN                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *)    -
+bn/ctv/01/ctv_0172   0   81      要    VV                (VP*   -    -   3   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   82     保持    VV                (VP*   -   01   2   -            *         *        *             *             *             *             *             *      (V*)    -
+bn/ctv/01/ctv_0172   0   83    ８０％    CD         (NP(DNP(QP*)  -    -   -   -     (PERCENT)        *        *             *             *             *             *             *   (ARG2*     -
+bn/ctv/01/ctv_0172   0   84      的   DEG                   *)  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+bn/ctv/01/ctv_0172   0   85     份额    NN          (NP*)))))))  -    -   -   -            *         *)       *             *             *             *             *             *        *)    -
+bn/ctv/01/ctv_0172   0   86      。    PU                  *))  -    -   -   -            *         *        *             *             *             *             *             *        *     -
+
+bn/ctv/01/ctv_0172   0    0      “    PU                   (TOP(IP*   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0    1     西部    NN                    (NP(NP*   -    -   -   -           *      *       (ARG0*      *       (5
+bn/ctv/01/ctv_0172   0    2     开发    NN                          *)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0    3      和    CC                          *   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0    4     国家    NN                    (NP(NP*)  -    -   -   -           *      *            *      *       (3)
+bn/ctv/01/ctv_0172   0    5     重点    JJ                  (NP(ADJP*)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0    6     项目    NN                      (NP*))  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0    7     建设    NN                     (NP*)))  -    -   -   -           *      *            *)     *        5)
+bn/ctv/01/ctv_0172   0    8      ，    PU                          *   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0    9     这个    PN                       (NP*)  -    -   -   -           *      *     (C-ARG0*)     *       (5)
+bn/ctv/01/ctv_0172   0   10     作为     P                    (VP(PP*   -    -   -   -           *      *   (ARGM-ADV*      *        -
+bn/ctv/01/ctv_0172   0   11     我们    PN                    (NP(NP*)  -    -   -   -           *      *            *      *       (4)
+bn/ctv/01/ctv_0172   0   12      新    JJ   (DNP(NP(DNP(DNP(NP(ADJP*)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   13     时期    NN                      (NP*))  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   14      的   DEG                          *)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   15      、    PU                          *   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   16      新    JJ              (DNP(NP(ADJP*)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   17     世纪    NN                      (NP*))  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   18      的   DEG                         *))  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   19     第一    OD                       (QP*   -    -   -   -      (DATE*      *            *      *        -
+bn/ctv/01/ctv_0172   0   20      年     M                    (CLP*)))  -    -   -   -           *)     *            *      *        -
+bn/ctv/01/ctv_0172   0   21      的   DEG                          *)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   22     重点    NN                     (NP*)))  -    -   -   -           *      *            *)     *        -
+bn/ctv/01/ctv_0172   0   23      ，    PU                          *   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   24      是    VC                       (VP*   -   01   1   -           *    (V*)           *      *        -
+bn/ctv/01/ctv_0172   0   25      要    VV                       (VP*   -    -   4   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   26     占据    VV                   (VP(VRD*   -   01   -   -           *      *          (V*)     *        -
+bn/ctv/01/ctv_0172   0   27      到    VV                          *)  -   01   3   -           *      *            *    (V*)       -
+bn/ctv/01/ctv_0172   0   28     我们    PN             (QP(DNP(NP(NP*)  -    -   -   -           *      *       (ARG1*      *    (0|(4)
+bn/ctv/01/ctv_0172   0   29     整个    DT                       (DP*)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   30     新增    JJ                     (ADJP*)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   31     贷款    NN                      (NP*))  -    -   -   -           *      *            *      *        0)
+bn/ctv/01/ctv_0172   0   32      的   DEG                          *)  -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   33    ８０％    CD                       (QP*   -    -   -   -    (PERCENT)     *            *      *        -
+bn/ctv/01/ctv_0172   0   34      —    PU                          *   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   35    ９０％    CD                     *))))))  -    -   -   -    (PERCENT)     *            *)     *        -
+bn/ctv/01/ctv_0172   0   36      。    PU                          *   -    -   -   -           *      *            *      *        -
+bn/ctv/01/ctv_0172   0   37      ”    PU                         *))  -    -   -   -           *      *            *      *        -
+
+bn/ctv/01/ctv_0172   0    0     陈源    NR     (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)            *        *            *             *    (2)
+bn/ctv/01/ctv_0172   0    1     表示    VV            (VP*   -   01   2   -          *       (V*)            *        *            *             *     -
+bn/ctv/01/ctv_0172   0    2      ：    PU               *   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0    3     国家    NN         (IP(NP*   -    -   -   -      (ORG*    (ARG1*        (ARG0*        *            *             *    (4
+bn/ctv/01/ctv_0172   0    4     开发    NN               *   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0    5     银行    NN               *)  -    -   -   -          *)        *             *)       *            *             *     4)
+bn/ctv/01/ctv_0172   0    6     目前    NT         (VP(NP*)  -    -   -   -          *         *    (ARGM-TMP*)       *            *             *     -
+bn/ctv/01/ctv_0172   0    7     正在    AD          (ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)       *            *             *     -
+bn/ctv/01/ctv_0172   0    8     积极    AD          (ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)       *            *             *     -
+bn/ctv/01/ctv_0172   0    9     探索    VV            (VP*   -   01   -   -          *         *           (V*)       *            *             *     -
+bn/ctv/01/ctv_0172   0   10     信贷    NN   (IP(IP(NP(NP*   -    -   -   -          *         *        (ARG1*   (ARG1*            *             *     -
+bn/ctv/01/ctv_0172   0   11     业务    NN               *)  -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   12      和    CC               *   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   13     资本    NN            (NP*   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   14     市场    NN              *))  -    -   -   -          *         *             *        *)           *             *     -
+bn/ctv/01/ctv_0172   0   15     结合    VV           (VP*))  -   02   1   -          *         *             *      (V*)           *             *     -
+bn/ctv/01/ctv_0172   0   16      ，    PU               *   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   17     通过     P      (IP(VP(PP*   -    -   4   -          *         *             *        *   (ARGM-MNR*    (ARGM-MNR*     -
+bn/ctv/01/ctv_0172   0   18     证券    NN            (NP*   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   19     融资    NN              *))  -    -   -   -          *         *             *        *            *)            *)    -
+bn/ctv/01/ctv_0172   0   20      来   MSP            (VP*   -    -   7   -          *         *             *        *            *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0172   0   21     增强    VV         (VP(VP*   -   01   -   -          *         *             *        *          (V*)            *     -
+bn/ctv/01/ctv_0172   0   22     开发    NN     (NP(DNP(NP*   -    -   -   -          *         *             *        *       (ARG1*             *    (4
+bn/ctv/01/ctv_0172   0   23     银行    NN               *)  -    -   -   -          *         *             *        *            *             *     4)
+bn/ctv/01/ctv_0172   0   24      的   DEG               *)  -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   25     实力    NN          (NP*)))  -    -   -   -          *         *             *        *            *)            *     -
+bn/ctv/01/ctv_0172   0   26      ，    PU               *   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   27     充分    AD       (VP(ADVP*)  -    -   -   -          *         *             *        *            *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0172   0   28     发挥    VV            (VP*   -   01   1   -          *         *             *        *            *           (V*)    -
+bn/ctv/01/ctv_0172   0   29     国家    NN      (NP(NP(NP*)  -    -   -   -          *         *             *        *            *        (ARG1*    (3)
+bn/ctv/01/ctv_0172   0   30    政策性    JJ          (ADJP*)  -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   31     银行    NN           (NP*))  -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   32      在     P        (DNP(PP*   -    -   2   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   33     经济    NN        (LCP(NP*   -    -   2   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   34     发展    NN               *)  -    -   1   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   35      中    LC              *))  -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   36      的   DEG               *)  -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   37     金融    NN            (NP*   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   38     支持    NN               *   -    -   -   -          *         *             *        *            *             *     -
+bn/ctv/01/ctv_0172   0   39     作用    NN   *)))))))))))))  -    -   -   -          *         *)            *)       *            *             *)    -
+bn/ctv/01/ctv_0172   0   40      。    PU              *))  -    -   -   -          *         *             *        *            *             *     -
+
+bn/ctv/01/ctv_0172   0    0        据     P          (TOP(IP(IP(PP*   -    -   -   -           *    (ARGM-MNR*    (ARGM-MNR*         *        *    -
+bn/ctv/01/ctv_0172   0    1       了解    NN                   (NP*))  -    -   1   -           *             *)            *)        *        *    -
+bn/ctv/01/ctv_0172   0    2        ，    PU                       *   -    -   -   -           *             *             *         *        *    -
+bn/ctv/01/ctv_0172   0    3       去年    NT                    (NP*)  -    -   -   -       (DATE)   (ARGM-TMP*)   (ARGM-TMP*)        *        *    -
+bn/ctv/01/ctv_0172   0    4       国家    NN                    (NP*   -    -   -   -       (ORG*        (ARG0*        (ARG0*         *        *   (4
+bn/ctv/01/ctv_0172   0    5       开发    NN                       *   -    -   -   -           *             *             *         *        *    -
+bn/ctv/01/ctv_0172   0    6       银行    NN                       *)  -    -   -   -           *)            *)            *)        *        *    4)
+bn/ctv/01/ctv_0172   0    7        共    AD               (VP(ADVP*)  -    -   2   -           *    (ARGM-ADV*)   (ARGM-ADV*)        *        *    -
+bn/ctv/01/ctv_0172   0    8       发放    VV                 (VP(VP*   -   01   -   -           *           (V*)            *         *        *    -
+bn/ctv/01/ctv_0172   0    9       贷款    NN                    (NP*)  -    -   -   -           *        (ARG1*)            *         *        *    -
+bn/ctv/01/ctv_0172   0   10    １７９６亿    CD                    (QP*   -    -   -   -     (MONEY*        (ARG1*             *         *        *    -
+bn/ctv/01/ctv_0172   0   11        元     M                 (CLP*)))  -    -   -   -           *)            *)            *         *        *    -
+bn/ctv/01/ctv_0172   0   12        ，    PU                       *   -    -   -   -           *             *             *         *        *    -
+bn/ctv/01/ctv_0172   0   13        为     P                 (VP(PP*   -    -   4   -           *             *        (ARG1*         *        *    -
+bn/ctv/01/ctv_0172   0   14       国债    NN                    (NP*   -    -   -   -           *             *             *         *        *    -
+bn/ctv/01/ctv_0172   0   15       项目    NN                      *))  -    -   -   -           *             *             *)        *        *    -
+bn/ctv/01/ctv_0172   0   16       配套    VV                    (VP*   -   01   -   -           *             *           (V*)        *        *    -
+bn/ctv/01/ctv_0172   0   17       贷款    NN                    (NP*)  -    -   -   -           *             *        (ARG2*)        *        *    -
+bn/ctv/01/ctv_0172   0   18     ４８６亿    CD                    (QP*   -    -   -   -     (MONEY*             *        (ARG2*         *        *    -
+bn/ctv/01/ctv_0172   0   19        元     M             (CLP*)))))))  -    -   -   -           *)            *             *)        *        *    -
+bn/ctv/01/ctv_0172   0   20        ，    PU                       *   -    -   -   -           *             *             *         *        *    -
+bn/ctv/01/ctv_0172   0   21        向     P  (IP(NP(CP(CP(IP(VP(PP*   -    -   -   -           *             *             *    (ARG2*   (ARG0*    -
+bn/ctv/01/ctv_0172   0   22      中西部    NN                   (NP*))  -    -   -   -           *             *             *         *)       *    -
+bn/ctv/01/ctv_0172   0   23       提供    VV                  (VP*)))  -   01   -   -           *             *             *       (V*)       *    -
+bn/ctv/01/ctv_0172   0   24        的   DEC                      *))  -    -   -   -           *             *             *         *        *    -
+bn/ctv/01/ctv_0172   0   25       贷款    NN                   (NP*))  -    -   -   -           *             *             *    (ARG1*)       *)   -
+bn/ctv/01/ctv_0172   0   26        占    VV                    (VP*   -   01   1   -           *             *             *         *      (V*)   -
+bn/ctv/01/ctv_0172   0   27      ６０％    CD                (LCP(QP*)  -    -   -   -   (PERCENT*             *             *         *   (ARG1*    -
+bn/ctv/01/ctv_0172   0   28       左右    LC                     *)))  -    -   -   -           *)            *             *         *        *)   -
+bn/ctv/01/ctv_0172   0   29        。    PU                      *))  -    -   -   -           *             *             *         *        *    -
+
+bn/ctv/01/ctv_0172   0   0    中央台   NR   (TOP(IP(NP(NP*)  -    -   -   -    (ORG)  (ARG0*   -
+bn/ctv/01/ctv_0172   0   1     记者   NN            (NP*))  -    -   -   -       *        *)  -
+bn/ctv/01/ctv_0172   0   2     报道   VV             (VP*)  -   01   -   -       *      (V*)  -
+bn/ctv/01/ctv_0172   0   3      。   PU               *))  -    -   -   -       *        *   -
+
+#end document

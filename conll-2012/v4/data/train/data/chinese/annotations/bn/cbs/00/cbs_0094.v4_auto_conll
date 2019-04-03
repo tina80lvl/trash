@@ -1,0 +1,167 @@
+#begin document (bn/cbs/00/cbs_0094); part 000
+bn/cbs/00/cbs_0094   0    0      菲律宾    NR   (TOP(IP(IP(NP(NP*)   -   -   -   -   *        *      *            *            *    (2|(1)
+bn/cbs/00/cbs_0094   0    1       国会    NN                (NP*    -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0    2      众议院    NN                  *))   -   -   -   -   *        *      *            *            *        2)
+bn/cbs/00/cbs_0094   0    3        在     P             (VP(PP*    -   -   2   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0    4      １３号    NT               (NP*))   -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0    5       通过    VV                (VP*    -   -   3   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0    6       弹劾    VV       (NP(CP(IP(VP*    弹劾  -   -   -   *      (V*)     *            *            *       (3
+bn/cbs/00/cbs_0094   0    7       总统    NN             (NP(NP*)   -   -   -   -   *   (ARG1*      *            *            *       (4
+bn/cbs/00/cbs_0094   0    8    埃斯特拉达    NR             (NP*))))   -   -   -   -   *        *)     *            *            *        4)
+bn/cbs/00/cbs_0094   0    9        的   DEC                   *)   -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0   10      动议案    NN            (NP*)))))   -   -   -   -   *        *      *            *            *        3)
+bn/cbs/00/cbs_0094   0   11        ，    PU                   *    -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0   12        这    DT   (IP(NP(DNP(NP(DP*    -   -   -   -   *        *      *       (ARG0*       (ARG0*       (3
+bn/cbs/00/cbs_0094   0   13        次     M              (CLP*))   -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0   14       弹劾    NN               (NP*))   -   -   -   -   *        *      *            *            *        3)
+bn/cbs/00/cbs_0094   0   15        的   DEG                   *)   -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0   16       主要    JJ              (ADJP*)   -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0   17       重点    NN               (NP*))   -   -   -   -   *        *      *            *)           *)       -
+bn/cbs/00/cbs_0094   0   18        是    VC                (VP*     是  -   1   -   *        *    (V*)           *            *        -
+bn/cbs/00/cbs_0094   0   19        在     P             (VP(PP*    -   -   2   -   *        *      *   (ARGM-LOC*   (ARGM-LOC*        -
+bn/cbs/00/cbs_0094   0   20    埃斯特拉达    NR               (NP*))   -   -   -   -   *        *      *            *)           *)      (4)
+bn/cbs/00/cbs_0094   0   21       收受    VV             (VP(VP*    收受  -   -   -   *        *      *          (V*)           *        -
+bn/cbs/00/cbs_0094   0   22       贿赂    NN               (NP*))   -   -   -   -   *        *      *       (ARG1*)           *        -
+bn/cbs/00/cbs_0094   0   23        和    CC                   *    -   -   -   -   *        *      *            *            *        -
+bn/cbs/00/cbs_0094   0   24       贪污    VV                (VP*    贪污  -   -   -   *        *      *            *          (V*)       -
+bn/cbs/00/cbs_0094   0   25       腐败    NN           (NP*))))))   -   -   -   -   *        *      *            *       (ARG1*)       -
+bn/cbs/00/cbs_0094   0   26        。    PU                  *))   -   -   -   -   *        *      *            *            *        -
+
+bn/cbs/00/cbs_0094   0    0     目前   NT   (TOP(IP(IP(NP*)   -   -   -   -   *    (ARGM-TMP*)            *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0    1     弹劾   NN             (NP*    -   -   -   -   *        (ARG0*             *            *      *      *            *      *             *             *    (3
+bn/cbs/00/cbs_0094   0    2     动议   NN                *)   -   -   -   -   *             *)            *            *      *      *            *      *             *             *     3)
+bn/cbs/00/cbs_0094   0    3     已经   AD        (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0    4     移交   VV             (VP*    移交  -   -   -   *           (V*)            *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0    5    参议院   NN          (NP*))))   -   -   -   -   *        (ARG2*)            *            *      *      *            *      *             *             *    (0)
+bn/cbs/00/cbs_0094   0    6      ，   PU                *    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0    7    参议院   NN          (IP(NP*)   -   -   -   -   *             *        (ARG0*)      (ARG0*)     *      *            *      *             *             *    (0)
+bn/cbs/00/cbs_0094   0    8      也   AD        (VP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)           *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0    9     已经   AD           (ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)           *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   10     决定   VV             (VP*    决定  -   -   -   *             *           (V*)           *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   11      从    P       (IP(VP(PP*    -   -   -   -   *             *        (ARG1*   (ARGM-TMP*      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   12    １２月   NT         (LCP(NP*    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   13     ７号   NT                *)   -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   14     开始   LC               *))   -   -   -   -   *             *             *            *)     *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   15     审查   VV        (VP*))))))   审查  -   -   -   *             *             *)         (V*)     *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   16      ，   PU                *    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   17     可能   VV          (IP(VP*    可能  -   -   -   *             *             *            *    (V*)     *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   18      是   VC             (VP*     是  -   2   -   *             *             *            *      *    (V*)           *      *             *             *     -
+bn/cbs/00/cbs_0094   0   19      在    P          (VP(PP*    -   -   2   -   *             *             *            *      *      *   (ARGM-TMP*      *             *             *     -
+bn/cbs/00/cbs_0094   0   20    １２月   NT         (LCP(NP*)   -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   21      底   LC               *))   -   -   -   -   *             *             *            *      *      *            *)     *             *             *     -
+bn/cbs/00/cbs_0094   0   22     作成   VV             (VP*    作成  -   -   -   *             *             *            *      *      *          (V*)     *             *             *     -
+bn/cbs/00/cbs_0094   0   23     裁决   NN        (NP*))))))   -   -   -   -   *             *             *            *      *      *       (ARG1*)     *             *             *     -
+bn/cbs/00/cbs_0094   0   24      ，   PU                *    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   25     不过   AD        (IP(ADVP*)   -   -   -   -   *             *             *            *      *      *            *      *    (ARGM-DIS*)            *     -
+bn/cbs/00/cbs_0094   0   26     整个   DT          (NP(DP*)   -   -   -   -   *             *             *            *      *      *            *      *        (ARG0*             *     -
+bn/cbs/00/cbs_0094   0   27     过程   NN            (NP*))   -   -   -   -   *             *             *            *      *      *            *      *             *)            *     -
+bn/cbs/00/cbs_0094   0   28      也   AD        (VP(ADVP*)   -   -   -   -   *             *             *            *      *      *            *      *    (ARGM-DIS*)            *     -
+bn/cbs/00/cbs_0094   0   29     需要   VV             (VP*    需要  -   1   -   *             *             *            *      *      *            *    (V*)            *             *     -
+bn/cbs/00/cbs_0094   0   30     耗费   VV             (VP*    耗费  -   -   -   *             *             *            *      *      *            *      *           (V*)            *     -
+bn/cbs/00/cbs_0094   0   31      好   AD     (NP(QP(ADVP*)   -   -   4   -   *             *             *            *      *      *            *      *        (ARG1*             *     -
+bn/cbs/00/cbs_0094   0   32      几   CD             (QP*    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   33      个    M          (CLP*)))   -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   34     星期   NN        (NP*))))))   -   -   -   -   *             *             *            *      *      *            *      *             *)            *     -
+bn/cbs/00/cbs_0094   0   35      ，   PU                *    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   36     甚至   AD     (IP(VP(ADVP*)   -   -   -   -   *             *             *            *      *      *            *      *             *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0094   0   37      是   VC             (VP*     是  -   1   -   *             *             *            *      *      *            *      *             *           (V*)    -
+bn/cbs/00/cbs_0094   0   38      好   AD     (NP(QP(ADVP*)   -   -   4   -   *             *             *            *      *      *            *      *             *        (ARG1*     -
+bn/cbs/00/cbs_0094   0   39      几   CD             (QP*    -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   40      个    M          (CLP*)))   -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+bn/cbs/00/cbs_0094   0   41      月   NN         (NP*)))))   -   -   -   -   *             *             *            *      *      *            *      *             *             *)    -
+bn/cbs/00/cbs_0094   0   42      。   PU               *))   -   -   -   -   *             *             *            *      *      *            *      *             *             *     -
+
+bn/cbs/00/cbs_0094   0    0    埃斯特拉达    NR       (TOP(IP(IP(NP*)   -   -   -   -   *    (ARG0*)            *             *         *             *             *             *             *    (4)
+bn/cbs/00/cbs_0094   0    1        是    VC                 (VP*     是  -   1   -   *       (V*)            *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    2      菲律宾    NR        (NP(CP(IP(NP*)   -   -   -   -   *    (ARG1*        (ARG0*)            *         *             *             *             *             *    (1)
+bn/cbs/00/cbs_0094   0    3     有史以来    AD            (VP(ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)            *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    4       第四    OD                 (QP*    -   -   -   -   *         *    (ARGM-ADV*             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    5        位     M               (CLP*))   -   -   2   -   *         *             *)            *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    6       面对    VV                 (VP*    面对  -   -   -   *         *           (V*)            *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    7       弹劾    NN              (NP*))))   -   -   -   -   *         *        (ARG1*)            *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    8        的   DEC                    *)   -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0    9       总统    NN              (NP*))))   -   -   -   -   *         *)            *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   10        ，    PU                    *    -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   11        前    DT  (IP(NP(CP(IP(NP(DP*    -   -   -   -   *         *             *        (ARG0*         *        (ARG0*        (ARG0*             *             *     -
+bn/cbs/00/cbs_0094   0   12        三    CD                 (QP*    -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   13        位     M              (CLP*)))   -   -   2   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   14       总统    NN                (NP*))   -   -   -   -   *         *             *             *)        *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   15        所   MSP                 (VP*    -   -   -   -   *         *             *    (ARGM-ADV*)        *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   16       面临    VV               (VP*)))   面临  -   -   -   *         *             *           (V*)        *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   17        的   DEC                    *)   -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   18      弹劾案    NN                (NP*))   -   -   -   -   *         *             *             *         *             *)            *)            *             *     -
+bn/cbs/00/cbs_0094   0   19        都    AD            (VP(ADVP*)   -   -   -   -   *         *             *             *         *    (ARGM-ADV*)   (ARGM-ADV*)            *             *     -
+bn/cbs/00/cbs_0094   0   20        在     P                 (PP*    -   -   2   -   *         *             *             *         *    (ARGM-TMP*    (ARGM-TMP*             *             *     -
+bn/cbs/00/cbs_0094   0   21       移送    VV          (LCP(IP(VP*    移送  -   -   -   *         *             *             *       (V*)            *             *             *             *     -
+bn/cbs/00/cbs_0094   0   22      参议院    NN               (NP*)))   -   -   -   -   *         *             *             *    (ARG1*)            *             *             *             *    (0)
+bn/cbs/00/cbs_0094   0   23       之前    LC                   *))   -   -   -   -   *         *             *             *         *             *)            *)            *             *     -
+bn/cbs/00/cbs_0094   0   24        就    AD               (ADVP*)   -   -   2   -   *         *             *             *         *    (ARGM-ADV*)   (ARGM-ADV*)            *             *     -
+bn/cbs/00/cbs_0094   0   25       开始    VV                 (VP*    开始  -   -   -   *         *             *             *         *           (V*)        (REL*)            *             *     -
+bn/cbs/00/cbs_0094   0   26       复终    VV              (VP*))))   复终  -   -   -   *         *             *             *         *        (ARG1*)          (V*)            *             *     -
+bn/cbs/00/cbs_0094   0   27        ，    PU                    *    -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   28       因此    AD            (IP(ADVP*)   -   -   -   -   *         *             *             *         *             *             *    (ARGM-DIS*)            *     -
+bn/cbs/00/cbs_0094   0   29        这    DT                 (DP*    -   -   -   -   *         *             *             *         *             *             *        (ARG0*             *     -
+bn/cbs/00/cbs_0094   0   30        一    CD                 (QP*    -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   31        次     M              (CLP*)))   -   -   -   -   *         *             *             *         *             *             *             *)            *     -
+bn/cbs/00/cbs_0094   0   32        是    VC                 (VP*     是  -   1   -   *         *             *             *         *             *             *           (V*)            *     -
+bn/cbs/00/cbs_0094   0   33      众议院    NN              (IP(NP*)   -   -   -   -   *         *             *             *         *             *             *        (ARG1*        (ARG0*)   (2)
+bn/cbs/00/cbs_0094   0   34       首度    AD            (VP(ADVP*)   -   -   -   -   *         *             *             *         *             *             *             *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0094   0   35       通过    VV                 (VP*    通过  -   3   -   *         *             *             *         *             *             *             *           (V*)    -
+bn/cbs/00/cbs_0094   0   36        对     P          (NP(DNP(PP*    -   -   3   -   *         *             *             *         *             *             *             *        (ARG1*    (3
+bn/cbs/00/cbs_0094   0   37       总统    NN                (NP*))   -   -   -   -   *         *             *             *         *             *             *             *             *    (4)
+bn/cbs/00/cbs_0094   0   38        的   DEG                    *)   -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   39       弹劾    NN                 (NP*    -   -   -   -   *         *             *             *         *             *             *             *             *     -
+bn/cbs/00/cbs_0094   0   40       动议    NN              *)))))))   -   -   -   -   *         *             *             *         *             *             *             *)            *)    3)
+bn/cbs/00/cbs_0094   0   41        。    PU                   *))   -   -   -   -   *         *             *             *         *             *             *             *             *     -
+
+bn/cbs/00/cbs_0094   0    0      弹劾案    NN     (TOP(IP(IP(NP*)   -   -   -   -   *         *        (ARG0*)            *         *         *             *             *    (3)
+bn/cbs/00/cbs_0094   0    1       移送    VV     (VP(LCP(IP(VP*    移送  -   -   -   *       (V*)   (ARGM-TMP*             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    2      参议院    NN             (NP*)))   -   -   -   -   *    (ARG1*)            *             *         *         *             *             *    (0)
+bn/cbs/00/cbs_0094   0    3       之后    LC                  *)   -   -   -   -   *         *             *)            *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    4        将    AD             (ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)            *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    5        由     P               (PP*    -   -   1   -   *         *        (ARG0*             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    6       ２２    CD        (NP(DNP(QP*    -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    7        席     M             (CLP*))   -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    8        的   DEG                  *)   -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0    9      参议员    NN             (NP*)))   -   -   -   -   *         *             *)            *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   10       进行    VV               (VP*    进行  -   3   -   *         *           (V*)            *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   11       类似    JJ   (NP(DNP(NP(ADJP*)   -   -   -   -   *         *        (ARG1*             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   12       审判    NN              (NP*))   -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   13        的   DEG                  *)   -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   14       审议    NN               (NP*    -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   15       程序    NN              *)))))   -   -   -   -   *         *             *)            *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   16        ，    PU                  *    -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   17       如果    CS       (IP(CP(ADVP*)   -   -   -   -   *         *             *    (ARGM-DIS*)        *         *             *             *     -
+bn/cbs/00/cbs_0094   0   18        有    VE            (IP(VP*     有  -   4   -   *         *             *           (V*)        *         *             *             *     -
+bn/cbs/00/cbs_0094   0   19       超过    VV   (IP(NP(CP(IP(VP*    超过  -   -   -   *         *             *        (ARG1*       (V*)   (ARG0*             *             *     -
+bn/cbs/00/cbs_0094   0   20      ２／３    CD             (QP*)))   -   -   -   -   *         *             *             *    (ARG1*)        *             *             *     -
+bn/cbs/00/cbs_0094   0   21        的   DEC                  *)   -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   22       １５    CD               (QP*    -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   23        位     M             (CLP*))   -   -   2   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   24      参议员    NN              (NP*))   -   -   -   -   *         *             *             *         *         *)            *             *     -
+bn/cbs/00/cbs_0094   0   25       赞成    VV               (VP*    赞成  -   -   -   *         *             *             *         *       (V*)            *             *     -
+bn/cbs/00/cbs_0094   0   26      弹劾案    NN          (NP*))))))   -   -   -   -   *         *             *             *)        *    (ARG1*)            *             *    (3)
+bn/cbs/00/cbs_0094   0   27        ，    PU                  *    -   -   -   -   *         *             *             *         *         *             *             *     -
+bn/cbs/00/cbs_0094   0   28    埃斯特拉达    NR               (NP*)   -   -   -   -   *         *             *             *         *         *             *        (ARG0*)   (4)
+bn/cbs/00/cbs_0094   0   29        就    AD          (VP(ADVP*)   -   -   2   -   *         *             *             *         *         *    (ARGM-ADV*)   (ARGM-DIS*)    -
+bn/cbs/00/cbs_0094   0   30       必须    VV               (VP*    必须  -   -   -   *         *             *             *         *         *           (V*)            *     -
+bn/cbs/00/cbs_0094   0   31       下台    VV            (VP*))))   下台  -   -   -   *         *             *             *         *         *             *           (V*)    -
+bn/cbs/00/cbs_0094   0   32        。    PU                 *))   -   -   -   -   *         *             *             *         *         *             *             *     -
+
+bn/cbs/00/cbs_0094   0    0       果真    AD   (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *             *     -
+bn/cbs/00/cbs_0094   0    1       如此    AD          (ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *             *     -
+bn/cbs/00/cbs_0094   0    2    埃斯特拉达    NR            (NP*)   -   -   -   -   *        (ARG0*)            *             *    (4)
+bn/cbs/00/cbs_0094   0    3        就    AD       (VP(ADVP*)   -   -   4   -   *    (ARGM-ADV*)            *             *     -
+bn/cbs/00/cbs_0094   0    4        将    AD          (ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *             *     -
+bn/cbs/00/cbs_0094   0    5       成为    VV            (VP*    成为  -   -   -   *           (V*)            *             *     -
+bn/cbs/00/cbs_0094   0    6      菲律宾    NR         (NP(NP*)   -   -   -   -   *        (ARG1*        (ARG0*)       (ARG0*)   (1)
+bn/cbs/00/cbs_0094   0    7       第一    OD            (QP*    -   -   -   -   *             *             *             *     -
+bn/cbs/00/cbs_0094   0    8        位     M          (CLP*))   -   -   2   -   *             *             *             *     -
+bn/cbs/00/cbs_0094   0    9        被    SB      (CP(IP(VP*    -   -   -   -   *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cbs/00/cbs_0094   0   10       弹劾    VV         (VP(VP*)   弹劾  -   -   -   *             *           (V*)            *     -
+bn/cbs/00/cbs_0094   0   11       去职    VV         (VP*))))   去职  -   -   -   *             *             *           (V*)    -
+bn/cbs/00/cbs_0094   0   12        的   DEC               *)   -   -   -   -   *             *             *             *     -
+bn/cbs/00/cbs_0094   0   13       总统    NN         (NP*))))   -   -   -   -   *             *)            *             *     -
+bn/cbs/00/cbs_0094   0   14        。    PU              *))   -   -   -   -   *             *             *             *     -
+
+#end document

@@ -1,0 +1,220 @@
+#begin document (bn/cts/01/cts_0145); part 000
+bn/cts/01/cts_0145   0    0      最近    NT     (TOP(IP(IP(NP*)  -    -   -   -         *    (ARGM-TMP*)            *             *        -
+bn/cts/01/cts_0145   0    1      国内    NN               (NP*   -    -   -   -         *        (ARG1*             *             *        -
+bn/cts/01/cts_0145   0    2      企业    NN                  *)  -    -   -   -         *             *)            *             *        -
+bn/cts/01/cts_0145   0    3       又    AD          (VP(ADVP*)  -    -   -   -         *    (ARGM-ADV*)            *             *        -
+bn/cts/01/cts_0145   0    4      吹起    VV               (VP*   -   01   -   -         *           (V*)            *             *        -
+bn/cts/01/cts_0145   0    5       了    AS                  *   -    -   -   -         *             *             *             *        -
+bn/cts/01/cts_0145   0    6      购并    NN               (NP*   -    -   -   -         *        (ARG0*             *             *        -
+bn/cts/01/cts_0145   0    7      风潮    NN               *))))  -    -   -   -         *             *)            *             *        -
+bn/cts/01/cts_0145   0    8       ，    PU                  *   -    -   -   -         *             *             *             *        -
+bn/cts/01/cts_0145   0    9      外传    VV            (IP(VP*   -    -   -   -         *             *             *             *        -
+bn/cts/01/cts_0145   0   10      远传    NR            (IP(NP*)  -    -   -   -      (ORG)            *             *        (ARG0*)      (6)
+bn/cts/01/cts_0145   0   11       将    AD          (VP(ADVP*)  -    -   -   -         *             *             *    (ARGM-ADV*)       -
+bn/cts/01/cts_0145   0   12       以     P               (PP*   -    -   -   -         *             *             *    (ARGM-MNR*        -
+bn/cts/01/cts_0145   0   13      总额    NN   (NP(CP(CP(IP(NP*)  -    -   -   -         *             *        (ARG0*)            *    (4|(0)
+bn/cts/01/cts_0145   0   14       高    AD          (VP(ADVP*)  -    -   1   -         *             *    (ARGM-ADV*)            *        -
+bn/cts/01/cts_0145   0   15       达    VV               (VP*   -   01   1   -         *             *           (V*)            *        -
+bn/cts/01/cts_0145   0   16    ２１０亿    CD               (QP*   -    -   -   -   (MONEY*             *        (ARG1*             *        -
+bn/cts/01/cts_0145   0   17       元     M          (CLP*)))))  -    -   -   -         *)            *             *)            *        -
+bn/cts/01/cts_0145   0   18       的   DEC                 *))  -    -   -   -         *             *             *             *        -
+bn/cts/01/cts_0145   0   19      代价    NN             (NP*)))  -    -   -   -         *             *        (ARG0*)            *)       4)
+bn/cts/01/cts_0145   0   20      购并    VV               (VP*   -   01   -   -         *             *             *           (V*)       -
+bn/cts/01/cts_0145   0   21      泛亚    NR               (NP*   -    -   -   -     (ORG*             *             *        (ARG1*       (8
+bn/cts/01/cts_0145   0   22      电信    NN             *))))))  -    -   -   -         *)            *             *             *)       8)
+bn/cts/01/cts_0145   0   23       。    PU                 *))  -    -   -   -         *             *             *             *        -
+
+bn/cts/01/cts_0145   0    0     人家    NN         (TOP(IP(IP(NP*)  -    -    -   -        *        (ARG0*)           *            *             *      *             *             *    (6)
+bn/cts/01/cts_0145   0    1     上午    NT                (VP(NP*)  -    -    -   -    (TIME)   (ARGM-TMP*)           *            *             *      *             *             *    (2)
+bn/cts/01/cts_0145   0    2     没有    AD                 (ADVP*)  -    -    2   -        *    (ARGM-ADV*)           *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0    3     证实    VV                   (VP*   -   01    -   -        *           (V*)           *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0    4      这    DT                (NP(DP*   -    -    -   -        *        (ARG1*            *            *             *      *             *             *    (7
+bn/cts/01/cts_0145   0    5      项     M                 (CLP*))  -    -    -   -        *             *            *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0    6     消息    NN               (NP*)))))  -    -    -   -        *             *)           *            *             *      *             *             *     7)
+bn/cts/01/cts_0145   0    7      ，    PU                      *   -    -    -   -        *             *            *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0    8     不过    AD              (IP(ADVP*)  -    -    -   -        *             *            *            *             *      *             *    (ARGM-DIS*)    -
+bn/cts/01/cts_0145   0    9      据     P                   (PP*   -    -    -   -        *             *            *            *             *      *             *    (ARGM-MNR*     -
+bn/cts/01/cts_0145   0   10     了解    NN                  (NP*))  -    -    1   -        *             *            *            *             *      *             *             *)    -
+bn/cts/01/cts_0145   0   11      ，    PU                      *   -    -    -   -        *             *            *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0   12     这个    DT                (NP(DP*)  -    -    -   -        *             *            *            *             *      *        (ARG1*        (ARG1*    (7
+bn/cts/01/cts_0145   0   13     历年    NT   (CP(CP(IP(VP(LCP(NP*)  -    -    -   -        *             *   (ARGM-TMP*   (ARGM-TMP*             *      *             *             *     -
+bn/cts/01/cts_0145   0   14      来    LC                      *)  -    -   13   -        *             *            *)           *)            *      *             *             *     -
+bn/cts/01/cts_0145   0   15     可以    VV                   (VP*   -   01    1   -        *             *          (V*)           *             *      *             *             *     -
+bn/cts/01/cts_0145   0   16     算是    VV                   (VP*   -   01    -   -        *             *   (ARGM-ADV*          (V*)            *      *             *             *     -
+bn/cts/01/cts_0145   0   17     国内    NN             (IP(VP(NP*   -    -    -   -        *             *            *       (ARG1*    (ARGM-LOC*      *             *             *     -
+bn/cts/01/cts_0145   0   18     企业    NN                      *)  -    -    -   -        *             *            *            *             *)     *             *             *     -
+bn/cts/01/cts_0145   0   19      最    AD                 (ADVP*)  -    -    -   -        *             *            *            *    (ARGM-ADV*)     *             *             *     -
+bn/cts/01/cts_0145   0   20      大    VA             (VP*)))))))  -   01    -   -        *             *            *)           *)          (V*)     *             *             *     -
+bn/cts/01/cts_0145   0   21      的   DEC                     *))  -    -    -   -        *             *            *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0   22    购并案    NN                  (NP*))  -    -    -   -        *             *            *       (ARG0*)            *      *             *)            *)    7)
+bn/cts/01/cts_0145   0   23      很    AD              (VP(ADVP*)  -    -    -   -        *             *            *            *             *      *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/01/cts_0145   0   24     可能    VV                   (VP*   -   01    -   -        *             *            *            *             *    (V*)            *             *     -
+bn/cts/01/cts_0145   0   25      在     P         (VP(LCP(IP(PP*   -    -    2   -        *             *            *            *             *      *    (ARGM-TMP*    (ARGM-TMP*     -
+bn/cts/01/cts_0145   0   26     近期    NT                  (NP*))  -    -    -   -        *             *            *            *             *      *             *)            *     -
+bn/cts/01/cts_0145   0   27     内部    NN                   (NP*   -    -    -   -        *             *            *            *             *      *        (ARG0*             *    (1
+bn/cts/01/cts_0145   0   28     双方    PN                      *   -    -    -   -        *             *            *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0   29    董事会    NN                      *)  -    -    -   -        *             *            *            *             *      *             *)            *     1)
+bn/cts/01/cts_0145   0   30     通过    VV                  (VP*))  -   01    3   -        *             *            *            *             *      *           (V*)            *     -
+bn/cts/01/cts_0145   0   31     之后    LC                      *)  -    -    -   -        *             *            *            *             *      *             *             *)    -
+bn/cts/01/cts_0145   0   32      ，    PU                      *   -    -    -   -        *             *            *            *             *      *             *             *     -
+bn/cts/01/cts_0145   0   33     正式    AD             (DVP(ADVP*)  -    -    -   -        *             *            *            *             *      *             *    (ARGM-ADV*     -
+bn/cts/01/cts_0145   0   34      的   DEV                      *)  -    -    -   -        *             *            *            *             *      *             *             *)    -
+bn/cts/01/cts_0145   0   35     宣布    VV               (VP*)))))  -   01    -   -        *             *            *            *             *      *             *           (V*)    -
+bn/cts/01/cts_0145   0   36      。    PU                     *))  -    -    -   -        *             *            *            *             *      *             *             *     -
+
+bn/cts/01/cts_0145   0    0      半   CD  (TOP(IP(IP(LCP(QP*   -    -    -   -   (ORG*         *    (ARGM-TMP*             *        *    -
+bn/cts/01/cts_0145   0    1      年    M              (CLP*))  -    -    -   -       *)        *             *             *        *    -
+bn/cts/01/cts_0145   0    2      来   LC                   *)  -    -   13   -       *         *             *)            *        *    -
+bn/cts/01/cts_0145   0    3     泛亚   NR                (NP*   -    -    -   -   (ORG*         *        (ARG0*             *        *   (8
+bn/cts/01/cts_0145   0    4     电信   NN                   *)  -    -    -   -       *)        *             *)            *        *    8)
+bn/cts/01/cts_0145   0    5      为    P             (VP(PP*   -    -    5   -       *         *    (ARGM-PRP*             *        *    -
+bn/cts/01/cts_0145   0    6      让   VV             (IP(VP*   -   03    3   -       *       (V*)            *             *        *    -
+bn/cts/01/cts_0145   0    7     股权   NN             (NP*))))  -    -    -   -       *    (ARG1*)            *)            *        *    -
+bn/cts/01/cts_0145   0    8     分别   AD              (ADVP*)  -    -    -   -       *         *    (ARGM-ADV*)            *        *    -
+bn/cts/01/cts_0145   0    9      向    P                (PP*   -    -    -   -       *         *        (ARG0*             *        *    -
+bn/cts/01/cts_0145   0   10      多   CD             (NP(QP*   -    -    -   -       *         *             *             *        *    -
+bn/cts/01/cts_0145   0   11      家    M              (CLP*))  -    -    -   -       *         *             *             *        *    -
+bn/cts/01/cts_0145   0   12     民营   JJ              (ADJP*)  -    -    -   -       *         *             *             *        *    -
+bn/cts/01/cts_0145   0   13    大哥大   NN                (NP*   -    -    -   -       *         *             *             *        *    -
+bn/cts/01/cts_0145   0   14     业主   NN                 *)))  -    -    -   -       *         *             *)            *        *    -
+bn/cts/01/cts_0145   0   15     接触   VV              (VP*)))  -   01    -   -       *         *           (V*)            *        *    -
+bn/cts/01/cts_0145   0   16      ，   PU                   *   -    -    -   -       *         *             *             *        *    -
+bn/cts/01/cts_0145   0   17     最后   AD        (IP(VP(ADVP*)  -    -    -   -       *         *             *    (ARGM-ADV*)       *    -
+bn/cts/01/cts_0145   0   18     终于   AD              (ADVP*)  -    -    -   -       *         *             *    (ARGM-ADV*)       *    -
+bn/cts/01/cts_0145   0   19      有   VE                (VP*   -   05    4   -       *         *             *           (V*)       *    -
+bn/cts/01/cts_0145   0   20     远传   NR             (IP(NP*   -    -    -   -   (LAW*         *             *        (ARG1*   (ARG1*   (6
+bn/cts/01/cts_0145   0   21     电信   NN                   *)  -    -    -   -       *)        *             *             *        *)   6)
+bn/cts/01/cts_0145   0   22     出现   VV            (VP*)))))  -   01    -   -       *         *             *             *)     (V*)   -
+bn/cts/01/cts_0145   0   23      。   PU                  *))  -    -    -   -       *         *             *             *        *    -
+
+bn/cts/01/cts_0145   0    0      外传    VV             (TOP(IP(VP*   -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0    1      远传    NR                 (IP(NP*)  -    -   -   -        (LAW)   (ARG0*)     *            *       (ARG0*)       (ARG0*)            *      (6)
+bn/cts/01/cts_0145   0    2      购并    VV                 (VP(VP*   -   01   -   -           *       (V*)     *            *            *             *             *       -
+bn/cts/01/cts_0145   0    3      泛亚    NR                   (NP*))  -    -   -   -           *    (ARG1*)     *            *            *             *             *      (8)
+bn/cts/01/cts_0145   0    4       是    VC                    (VP*   -   01   2   -           *         *    (V*)           *            *             *             *       -
+bn/cts/01/cts_0145   0    5       以     P                 (VP(PP*   -    -   -   -           *         *      *            *   (ARGM-MNR*             *             *       -
+bn/cts/01/cts_0145   0    6       每    DT  (NP(NP(CP(CP(IP(VP(DP*   -    -   -   -           *         *      *   (ARGM-ADV*            *             *             *   (4|(5
+bn/cts/01/cts_0145   0    7       股     M                  (CLP*))  -    -   -   -           *         *      *            *)           *             *             *       -
+bn/cts/01/cts_0145   0    8      接近    VV                    (VP*   -   01   1   -           *         *      *          (V*)           *             *             *       -
+bn/cts/01/cts_0145   0    9      ６３    CD                    (QP*   -    -   -   -     (MONEY*         *      *       (ARG1*            *             *             *       -
+bn/cts/01/cts_0145   0   10       元     M               (CLP*)))))  -    -   -   -           *)        *      *            *)           *             *             *       -
+bn/cts/01/cts_0145   0   11       的   DEC                      *))  -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   12      价位    NN                   (NP*))  -    -   -   -           *         *      *       (ARG0*)           *             *             *       5)
+bn/cts/01/cts_0145   0   13       ，    PU                       *   -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   14       总    JJ           (PRN(NP(ADJP*)  -    -   -   -           *         *      *            *            *             *             *      (0
+bn/cts/01/cts_0145   0   15      金额    NN                   (NP*))  -    -   -   -           *         *      *            *            *             *             *       0)
+bn/cts/01/cts_0145   0   16      大约    AD            (VP(QP(ADVP*)  -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   17    ２１０亿    CD                    (QP*   -    -   -   -     (MONEY*         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   18       元     M             (CLP*)))))))  -    -   -   -           *)        *      *            *            *)            *             *       4)
+bn/cts/01/cts_0145   0   19      取得    VV                    (VP*   -   01   -   -           *         *      *            *          (V*)            *             *       -
+bn/cts/01/cts_0145   0   20      泛亚    NR                 (NP(NP*   -    -   -   -       (ORG*         *      *            *       (ARG1*             *             *   (3|(8
+bn/cts/01/cts_0145   0   21      电信    NN                       *)  -    -   -   -           *)        *      *            *            *             *             *       8)
+bn/cts/01/cts_0145   0   22     ９７％    CD            (DNP(LCP(QP*)  -    -   -   -    (PERCENT)        *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   23      以上    LC                       *)  -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   24       的   DEG                       *)  -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   25      股权    NN                (NP*)))))  -    -   -   -           *         *      *            *            *)            *             *       3)
+bn/cts/01/cts_0145   0   26       ，    PU                       *   -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   27      而且    AD               (VP(ADVP*)  -    -   -   -           *         *      *            *            *    (ARGM-DIS*)            *       -
+bn/cts/01/cts_0145   0   28       在     P                    (PP*   -    -   2   -           *         *      *            *            *    (ARGM-TMP*             *       -
+bn/cts/01/cts_0145   0   29       上    DT                 (NP(DP*)  -    -   2   -      (DATE*         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   30      周五    NT                  (NP*)))  -    -   -   -           *)        *      *            *            *             *)            *       -
+bn/cts/01/cts_0145   0   31       就    AD                  (ADVP*)  -    -   6   -           *         *      *            *            *    (ARGM-ADV*)            *       -
+bn/cts/01/cts_0145   0   32      已经    AD                  (ADVP*)  -    -   -   -           *         *      *            *            *    (ARGM-ADV*)            *       -
+bn/cts/01/cts_0145   0   33      完成    VV                    (VP*   -   01   -   -           *         *      *            *            *           (V*)            *       -
+bn/cts/01/cts_0145   0   34       了    AS                       *   -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   35      初步    AD      (NP(CP(IP(VP(ADVP*)  -    -   -   -           *         *      *            *            *        (ARG1*    (ARGM-ADV*)      -
+bn/cts/01/cts_0145   0   36      签约    VV                  (VP*)))  -   01   -   -           *         *      *            *            *             *           (V*)      -
+bn/cts/01/cts_0145   0   37       的   DEC                       *)  -    -   -   -           *         *      *            *            *             *             *       -
+bn/cts/01/cts_0145   0   38      工作    NN              (NP*)))))))  -    -   -   -           *         *      *            *            *             *)            *       -
+bn/cts/01/cts_0145   0   39       。    PU                      *))  -    -   -   -           *         *      *            *            *             *             *       -
+
+bn/cts/01/cts_0145   0    0      这    DT       (TOP(IP(IP(DP*   -    -    -   -            *   (ARG0*             *             *             *     -
+bn/cts/01/cts_0145   0    1      一    CD                 (QP*   -    -    -   -    (CARDINAL)       *             *             *             *     -
+bn/cts/01/cts_0145   0    2      次     M              (CLP*)))  -    -    -   -            *        *)            *             *             *     -
+bn/cts/01/cts_0145   0    3      是    VC                 (VP*   -   01    1   -            *      (V*)            *             *             *     -
+bn/cts/01/cts_0145   0    4     国内    NN              (NP(NP*   -    -    -   -            *   (ARG1*             *             *             *    (7
+bn/cts/01/cts_0145   0    5     企业    NN                    *)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0    6     历年    NT             (LCP(NP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0    7      来    LC                    *)  -    -   13   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0    8      最    AD   (DNP(NP(ADJP(ADVP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0    9      大    JJ              (ADJP*))  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   10     规模    NN                (NP*))  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   11      的   DEG                    *)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   12    购并案    NN              (NP*))))  -    -    -   -            *        *)            *             *             *     7)
+bn/cts/01/cts_0145   0   13      ，    PU                    *   -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   14     远传    NR              (IP(NP*)  -    -    -   -         (ORG)       *        (ARG0*)       (ARG0*)       (ARG0*)   (6)
+bn/cts/01/cts_0145   0   15     上午    NT           (VP(VP(NP*)  -    -    -   -        (TIME)       *    (ARGM-TMP*)   (ARGM-TMP*)            *    (2)
+bn/cts/01/cts_0145   0   16      不    AD               (ADVP*)  -    -    -   -            *        *    (ARGM-ADV*)   (ARGM-ADV*)            *     -
+bn/cts/01/cts_0145   0   17      愿    VV                 (VP*   -   01    1   -            *        *           (V*)            *             *     -
+bn/cts/01/cts_0145   0   18     证实    VV               (VP*)))  -   01    -   -            *        *        (ARG1*)          (V*)            *     -
+bn/cts/01/cts_0145   0   19      ，    PU                    *   -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   20      只    AD            (VP(ADVP*)  -    -    -   -            *        *             *             *    (ARGM-ADV*)    -
+bn/cts/01/cts_0145   0   21     表示    VV                 (VP*   -   01    2   -            *        *             *             *           (V*)    -
+bn/cts/01/cts_0145   0   22     签约    NN              (IP(NP*   -    -    -   -            *        *             *             *        (ARG1*     -
+bn/cts/01/cts_0145   0   23     内容    NN                    *)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   24     限制    VV                 (VP*   -    -    2   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   25      ８    CD              (NP(QP*)  -    -    -   -    (CARDINAL)       *             *             *             *     -
+bn/cts/01/cts_0145   0   26      人    NN          (NP*))))))))  -    -    -   -            *        *             *             *             *)    -
+bn/cts/01/cts_0145   0   27      ，    PU                    *   -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   28     其实    AD            (IP(ADVP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   29      这    PN                 (NP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   30     等于    VV                 (VP*   -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   31     间接    AD         (IP(VP(ADVP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   32     承认    VV                 (VP*   -    -    1   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   33     购并    NN          (NP(DNP(NP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   34      的   DEG                    *)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   35     事实    NN           (NP*)))))))  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   36      ，    PU                    *   -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   37     只是    AD            (IP(ADVP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   38     价位    NN                 (NP*)  -    -    -   -            *        *             *             *             *    (5)
+bn/cts/01/cts_0145   0   39      还    AD            (VP(ADVP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   40     有待    VV                 (VP*   -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   41     双方    PN              (IP(NP*   -    -    -   -            *        *             *             *             *    (1
+bn/cts/01/cts_0145   0   42    董事会    NN                    *)  -    -    -   -            *        *             *             *             *     1)
+bn/cts/01/cts_0145   0   43      作    VV                 (VP*   -    -    3   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   44     最后    JJ            (NP(ADJP*)  -    -    -   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   45     确认    NN           (NP*)))))))  -    -    3   -            *        *             *             *             *     -
+bn/cts/01/cts_0145   0   46      。    PU                   *))  -    -    -   -            *        *             *             *             *     -
+
+bn/cts/01/cts_0145   0    0      泛亚    NR   (TOP(IP(IP(NP*)  -    -   -   -         (ORG)   (ARG0*)       *             *      *             *             *       (8)
+bn/cts/01/cts_0145   0    1       是    VC             (VP*   -   01   1   -            *       (V*)       *             *      *             *             *        -
+bn/cts/01/cts_0145   0    2      国内    NN          (NP(NP*   -    -   -   -            *    (ARG1*        *             *      *             *             *        -
+bn/cts/01/cts_0145   0    3      行动    NN                *   -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0    4      电话    NN                *)  -    -   1   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0    5       最    AD      (ADJP(ADVP*)  -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0    6       大    JJ          (ADJP*))  -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0    7      业主    NN          (NP*))))  -    -   -   -            *         *)       *             *      *             *             *        -
+bn/cts/01/cts_0145   0    8       ，    PU                *   -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0    9       而    AD        (IP(ADVP*)  -    -   -   -            *         *        *    (ARGM-DIS*)     *    (ARGM-DIS*)   (ARGM-DIS*)       -
+bn/cts/01/cts_0145   0   10       在     P             (PP*   -    -   2   -            *         *        *    (ARGM-TMP*      *    (ARGM-TMP*    (ARGM-TMP*        -
+bn/cts/01/cts_0145   0   11      取得    VV      (LCP(IP(VP*   -   01   -   -            *         *      (V*)            *      *             *             *        -
+bn/cts/01/cts_0145   0   12      泛亚    NR          (NP(NP*)  -    -   -   -         (ORG)        *   (ARG1*             *      *             *             *    (3|(8)
+bn/cts/01/cts_0145   0   13      股权    NN          (NP*))))  -    -   -   -            *         *        *)            *      *             *             *        3)
+bn/cts/01/cts_0145   0   14      之后    LC               *))  -    -   -   -            *         *        *             *)     *             *)            *)       -
+bn/cts/01/cts_0145   0   15       ，    PU                *   -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   16      远传    NR      (NP(DNP(NP*   -    -   -   -        (ORG*         *        *        (ARG1*      *        (ARG1*        (ARG0*       (6
+bn/cts/01/cts_0145   0   17      电信    NN                *)  -    -   -   -            *)        *        *             *      *             *             *        6)
+bn/cts/01/cts_0145   0   18       的   DEG                *)  -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   19      用户    NN            (NP*))  -    -   -   -            *         *        *             *)     *             *)            *)       -
+bn/cts/01/cts_0145   0   20      可望    AD        (VP(ADVP*)  -    -   -   -            *         *        *    (ARGM-ADV*)     *    (ARGM-ADV*)   (ARGM-ADV*)       -
+bn/cts/01/cts_0145   0   21      增加    VV      (VP(VP(VRD*   -   02   1   -            *         *        *           (V*)     *             *             *        -
+bn/cts/01/cts_0145   0   22       为    VC                *)  -   01   3   -            *         *        *             *    (V*)            *             *        -
+bn/cts/01/cts_0145   0   23    ３７０万    CD          (NP(QP*   -    -   -   -    (CARDINAL)        *        *        (ARG2*      *             *             *        -
+bn/cts/01/cts_0145   0   24       户     M         (CLP*))))  -    -   -   -            *         *        *             *)     *             *             *        -
+bn/cts/01/cts_0145   0   25       ，    PU                *   -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   26      拉近    VV             (VP*   -   01   -   -            *         *        *             *      *           (V*)            *        -
+bn/cts/01/cts_0145   0   27       与     P      (NP(DNP(PP*   -    -   -   -            *         *        *             *      *        (ARG1*             *        -
+bn/cts/01/cts_0145   0   28      台湾    NR          (NP(NP*   -    -   -   -         (GPE)        *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   29     大哥大    NN                *)  -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   30    ４８０万    CD             (QP*)  -    -   -   -    (CARDINAL)        *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   31      用户    NN           (NP*)))  -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   32       的   DEG                *)  -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   33      差距    NN           (NP*)))  -    -   -   -            *         *        *             *      *             *)            *        -
+bn/cts/01/cts_0145   0   34       ，    PU                *   -    -   -   -            *         *        *             *      *             *             *        -
+bn/cts/01/cts_0145   0   35      大幅    AD        (VP(ADVP*)  -    -   -   -            *         *        *             *      *             *    (ARGM-ADV*)       -
+bn/cts/01/cts_0145   0   36      扩充    VV             (VP*   -   01   -   -            *         *        *             *      *             *           (V*)       -
+bn/cts/01/cts_0145   0   37      事业    NN             (NP*   -    -   -   -            *         *        *             *      *             *        (ARG1*        -
+bn/cts/01/cts_0145   0   38      版图    NN           *))))))  -    -   -   -            *         *        *             *      *             *             *)       -
+bn/cts/01/cts_0145   0   39       。    PU               *))  -    -   -   -            *         *        *             *      *             *             *        -
+
+#end document

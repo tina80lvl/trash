@@ -1,0 +1,530 @@
+#begin document (wb/cmn/00/cmn_0035); part 000
+wb/cmn/00/cmn_0035   0   0     我   PN   (TOP(IP(NP*)  -    -   -   -       *    (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0   1    感谢   VV          (VP*   -   01   -   -       *       (V*)    -
+wb/cmn/00/cmn_0035   0   2    科大   NR       (NP*))))  -    -   -   -    (ORG)   (ARG1*)   (4)
+
+wb/cmn/00/cmn_0035   0   0    huff   NR   (TOP(FRAG*))  -   -   -   -    (PERSON)   (7)
+
+wb/cmn/00/cmn_0035   0   0         发信人   NN   (TOP(IP(IP(NP*)  -   -   -    _huff_         *    -
+wb/cmn/00/cmn_0035   0   1           ：   PU                *   -   -   -    _huff_         *    -
+wb/cmn/00/cmn_0035   0   2        huff   NR          (VP(NP*   -   -   -    _huff_   (PERSON)  (7
+wb/cmn/00/cmn_0035   0   3           （   PU                *   -   -   -    _huff_         *    -
+wb/cmn/00/cmn_0035   0   4         大队长   NR                *   -   -   -    _huff_   (PERSON)   -
+wb/cmn/00/cmn_0035   0   5           ）   PU              *)))  -   -   -    _huff_         *    7)
+wb/cmn/00/cmn_0035   0   6           ，   PU                *   -   -   -    _huff_         *    -
+wb/cmn/00/cmn_0035   0   7          信区   NN          (IP(NP*)  -   -   -    _huff_         *    -
+wb/cmn/00/cmn_0035   0   8           ：   PU                *   -   -   -    _huff_         *    -
+wb/cmn/00/cmn_0035   0   9    Overseas   NR      (VP(NP*)))))  -   -   -    _huff_         *    -
+
+wb/cmn/00/cmn_0035   0   0    标题   NN   (TOP(IP(NP*)  -    -   -    _huff_  *         *     -
+wb/cmn/00/cmn_0035   0   1     ：   PU             *   -    -   -    _huff_  *         *     -
+wb/cmn/00/cmn_0035   0   2     我   PN    (VP(IP(NP*)  -    -   -    _huff_  *    (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0   3    感谢   VV          (VP*   -   01   -    _huff_  *       (V*)    -
+wb/cmn/00/cmn_0035   0   4    科大   NR     (NP*))))))  -    -   -    _huff_  *    (ARG1*)   (4)
+
+wb/cmn/00/cmn_0035   0    0         发信站   NN    (TOP(IP(NP*)  -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0    1           ：   PU              *   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0    2         BBS   NR  (VP(NP(NP(NP*   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0    3          未名   NR              *   -   -   -    _huff_   (ORG*   -
+wb/cmn/00/cmn_0035   0    4         空间站   NR              *)  -   -   -    _huff_       *)  -
+wb/cmn/00/cmn_0035   0    5           （   PU          (PRN*   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0    6         Tue   NT           (NP*   -   -   -    _huff_  (TIME*   -
+wb/cmn/00/cmn_0035   0    7         Jan   NT              *   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0    8          2    NT              *   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0    9   12：18：26    NT              *   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0   10       2007    NT              *)  -   -   -    _huff_       *)  -
+wb/cmn/00/cmn_0035   0   11           ）   PU             *))  -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0   12           ，   PU              *   -   -   -    _huff_       *   -
+wb/cmn/00/cmn_0035   0   13          转信   NN       (NP*)))))  -   -   -    _huff_       *   -
+
+wb/cmn/00/cmn_0035   0    0      每    DT    (TOP(IP(IP(NP(DP*   -    -   -    _huff_      *        (ARG0*             *        *             *         *            *             *            *    (1
+wb/cmn/00/cmn_0035   0    1      个     M               (CLP*))  -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0    2      人    NN                (NP*))  -    -   -    _huff_      *             *)            *        *             *         *            *             *            *     1)
+wb/cmn/00/cmn_0035   0    3      都    AD            (VP(ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)            *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0    4      有    VE                 (VP*   -   01   -    _huff_      *           (V*)            *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0    5     选择    VV  (NP(CP(CP(IP(VP(VP*   -   01   -    _huff_      *        (ARG1*           (V*)       *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0    6     自己    PN                 (NP*   -    -   -    _huff_      *             *        (ARG1*        *             *         *            *             *            *    (1)
+wb/cmn/00/cmn_0035   0    7     大学    NN                 *))))  -    -   -    _huff_      *             *             *)       *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0    8      的   DEC                   *))  -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0    9     原因    NN             (NP*)))))  -    -   -    _huff_      *             *)   (ARGM-PRP*)       *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   10      ，    PU                    *   -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   11     因为     P              (IP(PP*   -    -   -    _huff_      *             *             *        *             *         *            *             *   (ARGM-PRP*     -
+wb/cmn/00/cmn_0035   0   12     合肥    NR    (IP(IP(NP(DNP(NP*)  -    -   -    _huff_   (GPE)            *             *   (ARG0*             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   13      的   DEG                    *)  -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   14    生活费    NN                (NP*))  -    -   -    _huff_      *             *             *        *)            *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   15     便宜    VA                (VP*))  -   01   -    _huff_      *             *             *      (V*)            *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   16      ，    PU                    *   -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   17      不    AD         (IP(VP(ADVP*)  -    -   -    _huff_      *             *             *        *    (ARGM-ADV*)        *            *             *            *     -
+wb/cmn/00/cmn_0035   0   18     愿意    VV                 (VP*   -   01   -    _huff_      *             *             *        *           (V*)        *            *             *            *     -
+wb/cmn/00/cmn_0035   0   19      让    VV              (IP(VP*   -   02   -    _huff_      *             *             *        *        (ARG1*       (V*)           *             *            *     -
+wb/cmn/00/cmn_0035   0   20     父母    NN                 (NP*)  -    -   -    _huff_      *             *             *        *             *    (ARG1*)           *             *            *     -
+wb/cmn/00/cmn_0035   0   21     受累    VV              (IP(VP*   -   01   -    _huff_      *             *             *        *             *    (ARG2*          (V*)            *            *     -
+wb/cmn/00/cmn_0035   0   22      太    AD            (VP(ADVP*)  -    -   -    _huff_      *             *             *        *             *         *   (ARGM-EXT*    (ARGM-ADV*)           *     -
+wb/cmn/00/cmn_0035   0   23      多    VA       (VP*)))))))))))  -   03   -    _huff_      *             *             *        *             *)        *)           *)          (V*)           *)    -
+wb/cmn/00/cmn_0035   0   24      ，    PU                    *   -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   25      我    PN                 (NP*)  -    -   -    _huff_      *             *             *        *             *         *            *             *       (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0   26     选择    VV                 (VP*   -   01   -    _huff_      *             *             *        *             *         *            *             *          (V*)    -
+wb/cmn/00/cmn_0035   0   27      了    AS                    *   -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+wb/cmn/00/cmn_0035   0   28     科大    NR               (NP*)))  -    -   -    _huff_   (ORG)            *             *        *             *         *            *             *       (ARG1*)   (4)
+wb/cmn/00/cmn_0035   0   29      。    PU                   *))  -    -   -    _huff_      *             *             *        *             *         *            *             *            *     -
+
+wb/cmn/00/cmn_0035   0    0     多   CD  (TOP(IP(IP(LCP(QP*   -    -   -    _huff_  *   (ARGM-TMP*             *     -
+wb/cmn/00/cmn_0035   0    1     年    M              (CLP*))  -    -   -    _huff_  *            *             *     -
+wb/cmn/00/cmn_0035   0    2     后   LC                   *)  -    -   -    _huff_  *            *)            *     -
+wb/cmn/00/cmn_0035   0    3    回头   VV            (VP(VSB*   -    -   -    _huff_  *            *             *     -
+wb/cmn/00/cmn_0035   0    4    看看   VV                   *)  -   01   -    _huff_  *          (V*)            *     -
+wb/cmn/00/cmn_0035   0    5    这个   DT             (NP(DP*)  -    -   -    _huff_  *       (ARG1*             *     -
+wb/cmn/00/cmn_0035   0    6    选择   NN             (NP*))))  -    -   -    _huff_  *            *)            *     -
+wb/cmn/00/cmn_0035   0    7     ，   PU                   *   -    -   -    _huff_  *            *             *     -
+wb/cmn/00/cmn_0035   0    8     我   PN             (IP(NP*)  -    -   -    _huff_  *            *        (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0    9     并   AD           (VP(ADVP*)  -    -   -    _huff_  *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0   10     不   AD              (ADVP*)  -    -   -    _huff_  *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0   11    因此   AD              (ADVP*)  -    -   -    _huff_  *            *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0035   0   12    后悔   VV              (VP*)))  -   01   -    _huff_  *            *           (V*)    -
+wb/cmn/00/cmn_0035   0   13     。   PU                  *))  -    -   -    _huff_  *            *             *     -
+
+wb/cmn/00/cmn_0035   0    0    也许    AD   (TOP(IP(ADVP*)  -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0    1    如果    CS       (CP(ADVP*)  -    -   -    _huff_           *    (ARGM-DIS*)     *             *         *     -
+wb/cmn/00/cmn_0035   0    2     去    VV         (IP(VP*   -   01   -    _huff_           *           (V*)     *             *         *     -
+wb/cmn/00/cmn_0035   0    3     了    AS               *   -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0    4    北京    NR     (NP(DNP(NP*)  -    -   -    _huff_        (GPE)       (ARG1*      *             *         *     -
+wb/cmn/00/cmn_0035   0    5     的   DEG               *)  -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0    6     两    CD            (QP*   -    -   -    _huff_   (CARDINAL)            *      *             *         *     -
+wb/cmn/00/cmn_0035   0    7     所     M          (CLP*))  -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0    8    学校    NN        (NP*)))))  -    -   -    _huff_           *             *)     *             *         *     -
+wb/cmn/00/cmn_0035   0    9     ，    PU               *   -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0   10     不    AD       (VP(ADVP*)  -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0   11     会    VV            (VP*   -   02   -    _huff_           *             *    (V*)            *         *     -
+wb/cmn/00/cmn_0035   0   12     有    VE            (VP*   -    -   -    _huff_           *             *      *             *         *     -
+wb/cmn/00/cmn_0035   0   13    今天    NT         (IP(NP*)  -    -   -    _huff_       (DATE)            *      *    (ARGM-TMP*)        *     -
+wb/cmn/00/cmn_0035   0   14     在     P         (VP(PP*   -    -   -    _huff_           *             *      *    (ARGM-LOC*         *     -
+wb/cmn/00/cmn_0035   0   15    这里    PN           (NP*))  -    -   -    _huff_           *             *      *             *)        *     -
+wb/cmn/00/cmn_0035   0   16     和     P            (PP*   -    -   -    _huff_           *             *      *    (ARGM-ADV*         *     -
+wb/cmn/00/cmn_0035   0   17     人    NN           (NP*))  -    -   -    _huff_           *             *      *             *)        *     -
+wb/cmn/00/cmn_0035   0   18     说    VV            (VP*   -   01   -    _huff_           *             *      *           (V*)        *     -
+wb/cmn/00/cmn_0035   0   19    科大    NR         (IP(NP*)  -    -   -    _huff_        (ORG)            *      *        (ARG1*    (ARG0*)   (4)
+wb/cmn/00/cmn_0035   0   20    如何    VA     (VP*))))))))  -   01   -    _huff_           *             *      *             *)      (V*)    -
+wb/cmn/00/cmn_0035   0   21     ，    PU              *))  -    -   -    _huff_           *             *      *             *         *     -
+
+wb/cmn/00/cmn_0035   0    0     但是    AD     (TOP(IP(IP(ADVP*)  -    -   -    _huff_      *    (ARGM-DIS*)            *         *     -
+wb/cmn/00/cmn_0035   0    1     科大    NR                 (NP*)  -    -   -    _huff_   (ORG)       (ARG0*)            *         *    (4)
+wb/cmn/00/cmn_0035   0    2     本来    AD         (VP(VP(ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)            *         *     -
+wb/cmn/00/cmn_0035   0    3      就    AD               (ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)            *         *     -
+wb/cmn/00/cmn_0035   0    4      是    VC                 (VP*   -   01   -    _huff_      *           (V*)            *         *     -
+wb/cmn/00/cmn_0035   0    5     弱势    NN               (NP*)))  -    -   -    _huff_      *        (ARG1*)            *         *     -
+wb/cmn/00/cmn_0035   0    6      ，    PU                    *   -    -   -    _huff_      *             *             *         *     -
+wb/cmn/00/cmn_0035   0    7    无论是    AD            (NP(ADVP*)  -    -   -    _huff_      *    (ARGM-LOC*             *         *     -
+wb/cmn/00/cmn_0035   0    8     地理    NN                 (NP*   -    -   -    _huff_      *             *             *         *     -
+wb/cmn/00/cmn_0035   0    9     经费    NN                    *   -    -   -    _huff_      *             *             *         *     -
+wb/cmn/00/cmn_0035   0   10     宣传    NN                    *   -    -   -    _huff_      *             *             *         *     -
+wb/cmn/00/cmn_0035   0   11     人脉    NN                 *))))  -    -   -    _huff_      *             *)            *         *     -
+wb/cmn/00/cmn_0035   0   12      ，    PU                    *   -    -   -    _huff_      *             *             *         *     -
+wb/cmn/00/cmn_0035   0   13     科大    NR           (IP(NP(NP*)  -    -   -    _huff_   (ORG)            *             *    (ARG0*    (4)
+wb/cmn/00/cmn_0035   0   14      最    AD   (CP(CP(IP(VP(ADVP*)  -    -   -    _huff_      *             *    (ARGM-ADV*)        *     -
+wb/cmn/00/cmn_0035   0   15      大    VA               (VP*)))  -   01   -    _huff_      *             *           (V*)        *     -
+wb/cmn/00/cmn_0035   0   16      的   DEC                   *))  -    -   -    _huff_      *             *             *         *     -
+wb/cmn/00/cmn_0035   0   17     财富    NN                (NP*))  -    -   -    _huff_      *             *        (ARG0*)        *)    -
+wb/cmn/00/cmn_0035   0   18      是    VC                 (VP*   -   01   -    _huff_      *             *             *       (V*)    -
+wb/cmn/00/cmn_0035   0   19     学生    NN               (NP*)))  -    -   -    _huff_      *             *             *    (ARG1*)    -
+wb/cmn/00/cmn_0035   0   20      。    PU                   *))  -    -   -    _huff_      *             *             *         *     -
+
+wb/cmn/00/cmn_0035   0    0    我们   PN   (TOP(IP(IP(NP*)  -    -   -    _huff_      *        (ARG0*)       (ARG0*)            *     -
+wb/cmn/00/cmn_0035   0    1     不   AD        (VP(ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)   (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0035   0    2    出来   VV          (VP(VP*)  -   01   -    _huff_      *           (V*)            *             *     -
+wb/cmn/00/cmn_0035   0    3     为    P          (VP(PP*   -    -   -    _huff_      *             *    (ARGM-BNF*             *     -
+wb/cmn/00/cmn_0035   0    4    科大   NR            (NP*))  -    -   -    _huff_   (ORG)            *             *)            *    (4)
+wb/cmn/00/cmn_0035   0    5     做   VV             (VP*   -   01   -    _huff_      *             *           (V*)            *     -
+wb/cmn/00/cmn_0035   0    6    什么   PN        (NP*))))))  -    -   -    _huff_      *             *        (ARG1*)            *     -
+wb/cmn/00/cmn_0035   0    7     ，   PU                *   -    -   -    _huff_      *             *             *             *     -
+wb/cmn/00/cmn_0035   0    8    科大   NR       (CP(IP(NP*)  -    -   -    _huff_   (ORG)            *             *        (ARG0*)   (4)
+wb/cmn/00/cmn_0035   0    9     就   AD        (VP(ADVP*)  -    -   -    _huff_      *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0   10     完   VV           (VP*)))  -   01   -    _huff_      *             *             *           (V*)    -
+wb/cmn/00/cmn_0035   0   11     了   SP                *)  -    -   -    _huff_      *             *             *             *     -
+wb/cmn/00/cmn_0035   0   12     。   PU               *))  -    -   -    _huff_      *             *             *             *     -
+
+wb/cmn/00/cmn_0035   0    0      这    PN        (TOP(IP(NP*)  -    -   -    _huff_       *        (ARG0*)            *     -
+wb/cmn/00/cmn_0035   0    1      也    AD          (VP(ADVP*)  -    -   -    _huff_       *    (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0035   0    2      是    VC               (VP*   -   01   -    _huff_       *           (V*)            *     -
+wb/cmn/00/cmn_0035   0    3     科大    NR   (NP(CP(IP(NP(NP*)  -    -   -    _huff_   (NORP)       (ARG1*        (ARG0*    (4)
+wb/cmn/00/cmn_0035   0    4     学生    NN              (NP*))  -    -   -    _huff_       *             *             *)    -
+wb/cmn/00/cmn_0035   0    5    为什么    AD          (VP(ADVP*)  -    -   -    _huff_       *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0    6     抱团    VV             (VP*)))  -   01   -    _huff_       *             *           (V*)    -
+wb/cmn/00/cmn_0035   0    7      的   DEC                  *)  -    -   -    _huff_       *             *             *     -
+wb/cmn/00/cmn_0035   0    8     最大    JJ             (ADJP*)  -    -   -    _huff_       *             *             *     -
+wb/cmn/00/cmn_0035   0    9     原因    NN            (NP*))))  -    -   -    _huff_       *             *)            *     -
+wb/cmn/00/cmn_0035   0   10      。    PU                 *))  -    -   -    _huff_       *             *             *     -
+
+wb/cmn/00/cmn_0035   0    0     因为     P               (TOP(IP(PP*   -    -   -    _huff_      *         *         *    (ARGM-PRP*           *    (ARGM-PRP*         *         *      *     -
+wb/cmn/00/cmn_0035   0    1     选择    VV                   (IP(VP*   -   01   -    _huff_      *       (V*)        *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0    2     科研    NN                      (NP*)  -    -   -    _huff_      *    (ARG1*)        *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0    3     做为    VV                   (IP(VP*   -   01   -    _huff_      *    (ARG2*       (V*)            *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0    4     职业    NN                 (NP*))))))  -    -   -    _huff_      *         *)   (ARG2*)            *)          *             *)        *         *      *     -
+wb/cmn/00/cmn_0035   0    5      ，    PU                         *   -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0    6      我    PN                      (NP*)  -    -   -    _huff_      *         *         *        (ARG0*)          *        (ARG0*)        *         *      *    (7)
+wb/cmn/00/cmn_0035   0    7     因此    AD                 (VP(ADVP*)  -    -   -    _huff_      *         *         *    (ARGM-DIS*)          *    (ARGM-DIS*)        *         *      *     -
+wb/cmn/00/cmn_0035   0    8     感谢    VV                   (VP(VP*   -   01   -    _huff_      *         *         *           (V*)          *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0    9     科大    NR          (NP(CP(CP(IP(NP*)  -    -   -    _huff_   (ORG)        *         *        (ARG1*      (ARG0*)            *         *         *      *    (4)
+wb/cmn/00/cmn_0035   0   10     教给    VV                      (VP*   -   01   -    _huff_      *         *         *             *         (V*)            *         *         *      *     -
+wb/cmn/00/cmn_0035   0   11      我    PN                    (NP*)))  -    -   -    _huff_      *         *         *             *      (ARG1*)            *         *         *      *    (7)
+wb/cmn/00/cmn_0035   0   12      的   DEC                        *))  -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0   13     很多    CD                      (QP*)  -    -   -    _huff_      *         *         *             *      (ARG2*)            *         *         *      *     -
+wb/cmn/00/cmn_0035   0   14     东西    NN                    (NP*)))  -    -   -    _huff_      *         *         *             *)   (C-ARG2*)            *         *         *      *     -
+wb/cmn/00/cmn_0035   0   15      ，    PU                         *   -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0   16      也    AD                 (VP(ADVP*)  -    -   -    _huff_      *         *         *             *           *    (ARGM-DIS*)        *         *      *     -
+wb/cmn/00/cmn_0035   0   17     感谢    VV                      (VP*   -   01   -    _huff_      *         *         *             *           *           (V*)        *         *      *     -
+wb/cmn/00/cmn_0035   0   18     以前    NT   (NP(CP(CP(IP(NP(DNP(NP*)  -    -   -    _huff_      *         *         *             *           *        (ARG1*    (ARG0*         *      *     -
+wb/cmn/00/cmn_0035   0   19      的   DEG                         *)  -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0   20    学长们    NN                     (NP*))  -    -   -    _huff_      *         *         *             *           *             *         *)        *      *     -
+wb/cmn/00/cmn_0035   0   21     创下    VV                     (VP*))  -   01   -    _huff_      *         *         *             *           *             *       (V*)        *      *     -
+wb/cmn/00/cmn_0035   0   22      的   DEC                        *))  -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0   23     声誉    NN                     (NP*))  -    -   -    _huff_      *         *         *             *           *             *)   (ARG1*)        *      *     -
+wb/cmn/00/cmn_0035   0   24      ，    PU                         *   -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+wb/cmn/00/cmn_0035   0   25      让    VV                   (IP(VP*   -   02   -    _huff_      *         *         *             *           *    (ARGM-ADV*         *       (V*)     *     -
+wb/cmn/00/cmn_0035   0   26    后来者    NN                      (NP*)  -    -   -    _huff_      *         *         *             *           *             *         *    (ARG1*)     *     -
+wb/cmn/00/cmn_0035   0   27     受益    VV            (IP(VP*))))))))  -   01   -    _huff_      *         *         *             *           *             *)        *    (ARG2*)   (V*)    -
+wb/cmn/00/cmn_0035   0   28      。    PU                        *))  -    -   -    _huff_      *         *         *             *           *             *         *         *      *     -
+
+wb/cmn/00/cmn_0035   0    0     正    AD   (TOP(IP(PP(ADVP*)  -    -   -    _huff_      *             *   (ARGM-PRP*         *             *             *     -
+wb/cmn/00/cmn_0035   0    1    因为     P               (PP*   -    -   -    _huff_      *             *            *         *             *             *     -
+wb/cmn/00/cmn_0035   0    2     常    AD       (IP(VP(ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)           *         *             *             *     -
+wb/cmn/00/cmn_0035   0    3     怀    VV               (VP*   -   01   -    _huff_      *           (V*)           *         *             *             *     -
+wb/cmn/00/cmn_0035   0    4    感激    NN        (NP(DNP(NP*)  -    -   -    _huff_      *        (ARG1*            *         *             *             *     -
+wb/cmn/00/cmn_0035   0    5     之   DEG                  *)  -    -   -    _huff_      *             *            *         *             *             *     -
+wb/cmn/00/cmn_0035   0    6     心    NN         (NP*)))))))  -    -   -    _huff_      *             *)           *)        *             *             *     -
+wb/cmn/00/cmn_0035   0    7     ，    PU                  *   -    -   -    _huff_      *             *            *         *             *             *     -
+wb/cmn/00/cmn_0035   0    8     我    PN               (NP*)  -    -   -    _huff_      *             *       (ARG0*)        *             *             *    (7)
+wb/cmn/00/cmn_0035   0    9    愿意    VV               (VP*   -   01   -    _huff_      *             *          (V*)        *             *             *     -
+wb/cmn/00/cmn_0035   0   10    回报    VV         (IP(VP(VP*   -   01   -    _huff_      *             *       (ARG1*       (V*)            *             *     -
+wb/cmn/00/cmn_0035   0   11    科大    NR              (NP*))  -    -   -    _huff_   (ORG)            *            *    (ARG1*)            *             *    (4)
+wb/cmn/00/cmn_0035   0   12     。    PU                  *   -    -   -    _huff_      *             *            *         *             *             *     -
+wb/cmn/00/cmn_0035   0   13    平时    AD          (VP(ADVP*)  -    -   -    _huff_      *             *            *         *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0035   0   14    做好    VV               (VP*   -   01   -    _huff_      *             *            *         *           (V*)            *     -
+wb/cmn/00/cmn_0035   0   15    本职    NN               (NP*   -    -   -    _huff_      *             *            *         *        (ARG1*             *     -
+wb/cmn/00/cmn_0035   0   16    工作    NN                *)))  -    -   -    _huff_      *             *            *         *             *)            *     -
+wb/cmn/00/cmn_0035   0   17     ，    PU                  *   -    -   -    _huff_      *             *            *         *             *             *     -
+wb/cmn/00/cmn_0035   0   18     不    AD          (VP(ADVP*)  -    -   -    _huff_      *             *            *         *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0   19     为     P               (PP*   -    -   -    _huff_      *             *            *         *             *        (ARG1*     -
+wb/cmn/00/cmn_0035   0   20    科大    NR              (NP*))  -    -   -    _huff_   (ORG)            *            *         *             *             *)   (4)
+wb/cmn/00/cmn_0035   0   21    丢脸    VV           (VP*)))))  -   01   -    _huff_      *             *            *)        *             *           (V*)    -
+wb/cmn/00/cmn_0035   0   22     。    PU                 *))  -    -   -    _huff_      *             *            *         *             *             *     -
+
+wb/cmn/00/cmn_0035   0    0      我    PN    (TOP(IP(NP*)  -    -   -    _huff_           *    (ARG0*)           *        *    (7)
+wb/cmn/00/cmn_0035   0    1     愿意    VV           (VP*   -   01   -    _huff_           *       (V*)           *        *     -
+wb/cmn/00/cmn_0035   0    2      从     P  (IP(VP(VP(PP*   -    -   -    _huff_           *    (ARG1*   (ARGM-LOC*        *     -
+wb/cmn/00/cmn_0035   0    3      我    PN    (LCP(NP(NP*)  -    -   -    _huff_           *         *            *        *    (7)
+wb/cmn/00/cmn_0035   0    4     微薄    JJ     (DNP(ADJP*)  -    -   -    _huff_           *         *            *        *     -
+wb/cmn/00/cmn_0035   0    5      的   DEG              *)  -    -   -    _huff_           *         *            *        *     -
+wb/cmn/00/cmn_0035   0    6    奖学金    NN          (NP*))  -    -   -    _huff_           *         *            *        *     -
+wb/cmn/00/cmn_0035   0    7      中    LC             *))  -    -   -    _huff_           *         *            *)       *     -
+wb/cmn/00/cmn_0035   0    8     省钱    VV          (VP*))  -   01   -    _huff_           *         *          (V*)       *     -
+wb/cmn/00/cmn_0035   0    9     捐助    VV           (VP*   -   01   -    _huff_           *         *            *      (V*)    -
+wb/cmn/00/cmn_0035   0   10      一    CD        (NP(QP*   -    -   -    _huff_   (CARDINAL)        *            *   (ARG2*     -
+wb/cmn/00/cmn_0035   0   11      个     M         (CLP*))  -    -   -    _huff_           *         *            *        *     -
+wb/cmn/00/cmn_0035   0   12     贫困    JJ         (ADJP*)  -    -   -    _huff_           *         *            *        *     -
+wb/cmn/00/cmn_0035   0   13    大学生    NN          (NP*))  -    -   -    _huff_           *         *            *        *)    -
+wb/cmn/00/cmn_0035   0   14     4     CD    (NP(DNP(QP*   -    -   -    _huff_      (DATE*         *            *   (ARG1*     -
+wb/cmn/00/cmn_0035   0   15      年     M         (CLP*))  -    -   -    _huff_           *)        *            *        *     -
+wb/cmn/00/cmn_0035   0   16      的   DEG              *)  -    -   -    _huff_           *         *            *        *     -
+wb/cmn/00/cmn_0035   0   17    生活费    NN      (NP*))))))  -    -   -    _huff_           *         *)           *        *)    -
+wb/cmn/00/cmn_0035   0   18      ，    PU             *))  -    -   -    _huff_           *         *            *        *     -
+
+wb/cmn/00/cmn_0035   0    0      我    PN   (TOP(IP(IP(NP*)  -    -   -    _huff_  *    (ARG0*)     *             *        *    (7)
+wb/cmn/00/cmn_0035   0    1     愿意    VV             (VP*   -   01   -    _huff_  *       (V*)     *             *        *     -
+wb/cmn/00/cmn_0035   0    2     回国    VV      (IP(VP(VSB*   -    -   -    _huff_  *    (ARG1*      *             *        *     -
+wb/cmn/00/cmn_0035   0    3     效力    VV            *)))))  -   01   -    _huff_  *         *)   (V*)            *        *     -
+wb/cmn/00/cmn_0035   0    4      ，    PU                *   -    -   -    _huff_  *         *      *             *        *     -
+wb/cmn/00/cmn_0035   0    5      我    PN          (IP(NP*)  -    -   -    _huff_  *         *      *        (ARG0*)       *    (7)
+wb/cmn/00/cmn_0035   0    6      也    AD        (VP(ADVP*)  -    -   -    _huff_  *         *      *    (ARGM-DIS*)       *     -
+wb/cmn/00/cmn_0035   0    7     愿意    VV             (VP*   -   01   -    _huff_  *         *      *           (V*)       *     -
+wb/cmn/00/cmn_0035   0    8      为     P       (IP(VP(PP*   -    -   -    _huff_  *         *      *        (ARG1*   (ARG2*     -
+wb/cmn/00/cmn_0035   0    9     后来    JJ    (NP(DNP(ADJP*)  -    -   -    _huff_  *         *      *             *        *     -
+wb/cmn/00/cmn_0035   0   10      的   DEG                *)  -    -   -    _huff_  *         *      *             *        *     -
+wb/cmn/00/cmn_0035   0   11     师弟    NN             (NP*   -    -   -    _huff_  *         *      *             *        *     -
+wb/cmn/00/cmn_0035   0   12    师妹们    NN              *)))  -    -   -    _huff_  *         *      *             *        *)    -
+wb/cmn/00/cmn_0035   0   13     提供    VV             (VP*   -   01   -    _huff_  *         *      *             *      (V*)    -
+wb/cmn/00/cmn_0035   0   14     必要    JJ    (NP(DNP(ADJP*)  -    -   -    _huff_  *         *      *             *   (ARG1*     -
+wb/cmn/00/cmn_0035   0   15      的   DEC                *)  -    -   -    _huff_  *         *      *             *        *     -
+wb/cmn/00/cmn_0035   0   16     帮助    NN      (NP*))))))))  -    -   -    _huff_  *         *      *             *)       *)    -
+wb/cmn/00/cmn_0035   0   17      。    PU               *))  -    -   -    _huff_  *         *      *             *        *     -
+
+wb/cmn/00/cmn_0035   0    0     看见    VV  (TOP(IP(NP(CP(CP(IP(VP(VP*   -   01   -    _huff_      *           (V*)        *    (ARGM-TMP*         *      *             *     -
+wb/cmn/00/cmn_0035   0    1     科大    NR                     (IP(NP*)  -    -   -    _huff_   (ORG)       (ARG1*         *             *         *      *             *    (4)
+wb/cmn/00/cmn_0035   0    2      被    LB                        (VP*   -    -   -    _huff_      *             *         *             *         *      *             *     -
+wb/cmn/00/cmn_0035   0    3      人    NN                     (IP(NP*)  -    -   -    _huff_      *             *    (ARG0*)            *         *      *             *     -
+wb/cmn/00/cmn_0035   0    4     攻击    VV                  (VP*)))))))  -   01   -    _huff_      *             *)      (V*)            *         *      *             *     -
+wb/cmn/00/cmn_0035   0    5      的   DEC                          *))  -    -   -    _huff_      *             *         *             *         *      *             *     -
+wb/cmn/00/cmn_0035   0    6     时候    NN                       (NP*))  -    -   -    _huff_      *    (ARGM-TMP*)        *             *)        *      *             *     -
+wb/cmn/00/cmn_0035   0    7      ，    PU                           *   -    -   -    _huff_      *             *         *             *         *      *             *     -
+wb/cmn/00/cmn_0035   0    8      我    PN                        (NP*)  -    -   -    _huff_      *             *         *        (ARG0*)        *      *             *    (7)
+wb/cmn/00/cmn_0035   0    9    有时候    AD                   (VP(ADVP*)  -    -   -    _huff_      *             *         *    (ARGM-ADV*)        *      *             *     -
+wb/cmn/00/cmn_0035   0   10     愿意    VV                        (VP*   -   01   -    _huff_      *             *         *           (V*)        *      *             *     -
+wb/cmn/00/cmn_0035   0   11      花    VV                  (IP(VP(VP*   -   01   -    _huff_      *             *         *        (ARG1*       (V*)     *             *     -
+wb/cmn/00/cmn_0035   0   12     时间    NN                       (NP*))  -    -   -    _huff_      *             *         *             *    (ARG1*)     *             *     -
+wb/cmn/00/cmn_0035   0   13     辩护    VV                    (VP*)))))  -   01   -    _huff_      *             *         *             *)        *    (V*)            *     -
+wb/cmn/00/cmn_0035   0   14      ，    PU                           *   -    -   -    _huff_      *             *         *             *         *      *             *     -
+wb/cmn/00/cmn_0035   0   15     虽然    CS                   (CP(ADVP*)  -    -   -    _huff_      *             *         *    (ARGM-ADV*         *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0035   0   16     这个    PN                     (IP(NP*)  -    -   -    _huff_      *             *         *             *         *      *        (ARG0*)    -
+wb/cmn/00/cmn_0035   0   17     没有    VE                        (VP*   -   02   -    _huff_      *             *         *             *         *      *           (V*)    -
+wb/cmn/00/cmn_0035   0   18     什么    DT                     (NP(DP*)  -    -   -    _huff_      *             *         *             *         *      *        (ARG1*     -
+wb/cmn/00/cmn_0035   0   19      用    NN                    (NP*)))))  -    -   -    _huff_      *             *         *             *)        *      *             *)    -
+wb/cmn/00/cmn_0035   0   20      。    PU                          *))  -    -   -    _huff_      *             *         *             *         *      *             *     -
+
+wb/cmn/00/cmn_0035   0    0        那些    DT   (TOP(IP(IP(NP(DP*)  -    -   -    _huff_      *        (ARG0*             *    (3
+wb/cmn/00/cmn_0035   0    1        科大    NR                (NP*)  -    -   -    _huff_   (ORG)            *             *    (4)
+wb/cmn/00/cmn_0035   0    2    hater们    NN               (NP*))  -    -   -    _huff_      *             *)            *     3)
+wb/cmn/00/cmn_0035   0    3         也    AD           (VP(ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0035   0    4         有    VE                (VP*   -   01   -    _huff_      *           (V*)            *     -
+wb/cmn/00/cmn_0035   0    5         各    DT         (NP(DNP(DP*   -    -   -    _huff_      *        (ARG1*             *     -
+wb/cmn/00/cmn_0035   0    6         样     M              (CLP*))  -    -   -    _huff_      *             *             *     -
+wb/cmn/00/cmn_0035   0    7         的   DEG                   *)  -    -   -    _huff_      *             *             *     -
+wb/cmn/00/cmn_0035   0    8        理由    NN            (NP*)))))  -    -   -    _huff_      *             *)            *     -
+wb/cmn/00/cmn_0035   0    9         ，    PU                   *   -    -   -    _huff_      *             *             *     -
+wb/cmn/00/cmn_0035   0   10         我    PN             (IP(NP*)  -    -   -    _huff_      *             *        (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0   11        无意    AD           (VP(ADVP*)  -    -   -    _huff_      *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0   12        改变    VV                (VP*   -   01   -    _huff_      *             *           (V*)    -
+wb/cmn/00/cmn_0035   0   13        他们    PN         (NP(DNP(NP*)  -    -   -    _huff_      *             *        (ARG1*    (3)
+wb/cmn/00/cmn_0035   0   14         的   DEG                   *)  -    -   -    _huff_      *             *             *     -
+wb/cmn/00/cmn_0035   0   15        想法    NN            (NP*)))))  -    -   -    _huff_      *             *             *)    -
+wb/cmn/00/cmn_0035   0   16         。    PU                  *))  -    -   -    _huff_      *             *             *     -
+
+wb/cmn/00/cmn_0035   0    0     但是    AD          (TOP(IP(ADVP*)  -    -   -    _huff_      *             *      *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0035   0    1      在     P                   (PP*   -    -   -    _huff_      *             *      *      *    (ARGM-LOC*     -
+wb/cmn/00/cmn_0035   0    2     中国    NR   (LCP(NP(CP(IP(NP(NP*)  -    -   -    _huff_   (GPE)       (ARG0*      *      *             *    (0)
+wb/cmn/00/cmn_0035   0    3    大学们    NN                  (NP*))  -    -   -    _huff_      *             *)     *      *             *     -
+wb/cmn/00/cmn_0035   0    4     远远    AD              (VP(ADVP*)  -    -   -    _huff_      *    (ARGM-ADV*)     *      *             *     -
+wb/cmn/00/cmn_0035   0    5     落后    VV                 (VP*)))  -   01   -    _huff_      *           (V*)     *      *             *     -
+wb/cmn/00/cmn_0035   0    6      的   DEC                      *)  -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0    7     情况    NN                  (NP*))  -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0    8      下    LC                     *))  -    -   -    _huff_      *             *      *      *             *)    -
+wb/cmn/00/cmn_0035   0    9      ，    PU                      *   -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0   10     这些    DT                (NP(DP*)  -    -   -    _huff_      *             *      *      *        (ARG0*    (6
+wb/cmn/00/cmn_0035   0   11    谩骂者    NN                  (NP*))  -    -   -    _huff_      *             *      *      *             *)    6)
+wb/cmn/00/cmn_0035   0   12      有    VE               (VP(VNV*   -   04   -    _huff_      *             *    (V*)     *             *     -
+wb/cmn/00/cmn_0035   0   13      没    AD                      *   -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0   14      有    VE                      *)  -   04   -    _huff_      *             *      *    (V*)            *     -
+wb/cmn/00/cmn_0035   0   15     真的    AD              (VP(ADVP*)  -    -   -    _huff_      *             *      *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0035   0   16      为     P                   (PP*   -    -   -    _huff_      *             *      *      *    (ARGM-BNF*     -
+wb/cmn/00/cmn_0035   0   17     自己    PN            (NP(DNP(NP*)  -    -   -    _huff_      *             *      *      *             *    (6)
+wb/cmn/00/cmn_0035   0   18      的   DEG                      *)  -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0   19     母校    NN                   (NP*   -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0   20      和    CC                      *   -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0   21     国家    NN                    *)))  -    -   -    _huff_      *             *      *      *             *)   (0)
+wb/cmn/00/cmn_0035   0   22      做    VV                   (VP*   -   01   -    _huff_      *             *      *      *           (V*)    -
+wb/cmn/00/cmn_0035   0   23      过    AS                      *   -    -   -    _huff_      *             *      *      *             *     -
+wb/cmn/00/cmn_0035   0   24     什么    DT                (NP(DP*)  -    -   -    _huff_      *             *      *      *        (ARG1*     -
+wb/cmn/00/cmn_0035   0   25     贡献    NN               (NP*)))))  -    -   -    _huff_      *             *      *      *             *)    -
+wb/cmn/00/cmn_0035   0   26      。    PU                     *))  -    -   -    _huff_      *             *      *      *             *     -
+
+wb/cmn/00/cmn_0035   0    0       比如    AD   (TOP(IP(IP(ADVP*)  -    -   -    _huff_         *    (ARGM-DIS*)            *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    1    gaddy    NR               (NP*)  -    -   -    _huff_   (PERSON)       (ARG0*)            *         *         *        *             *      *            *         *    (2)
+wb/cmn/00/cmn_0035   0    2        ，    PU                  *   -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    3        先    AD          (VP(ADVP*)  -    -   -    _huff_         *    (ARGM-DIS*)            *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    4       大骂    VV               (VP*   -   01   -    _huff_         *           (V*)            *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    5       科大    NR         (IP(NP(NP*)  -    -   -    _huff_      (ORG)       (ARG1*        (ARG0*         *         *        *             *      *            *         *    (4)
+wb/cmn/00/cmn_0035   0    6       学生    NN              (NP*))  -    -   -    _huff_         *             *             *)        *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    7        不    AD          (VP(ADVP*)  -    -   -    _huff_         *             *    (ARGM-ADV*)        *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    8       愿意    VV               (VP*   -   01   -    _huff_         *             *           (V*)        *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0    9        捐    VV            (IP(VP*   -   01   -    _huff_         *             *        (ARG1*       (V*)        *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   10        钱    NN       (NP*)))))))))  -    -   -    _huff_         *             *)            *)   (ARG1*)        *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   11        ，    PU                  *   -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   12       自己    PN            (IP(NP*)  -    -   -    _huff_         *             *             *         *    (ARG0*)       *        (ARG0*)     *            *         *    (2)
+wb/cmn/00/cmn_0035   0   13       号称    VV            (VP(VP*   -   01   -    _huff_         *             *             *         *       (V*)       *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   14        有    VE            (IP(VP*   -   01   -    _huff_         *             *             *         *    (ARG1*      (V*)            *      *            *         *     -
+wb/cmn/00/cmn_0035   0   15        点    CD       (NP(QP(CLP*))  -    -   -    _huff_         *             *             *         *         *   (ARG1*             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   16        钱    NN           (NP*)))))  -    -   -    _huff_         *             *             *         *         *)       *)            *      *            *         *     -
+wb/cmn/00/cmn_0035   0   17        却    AD          (VP(ADVP*)  -    -   -    _huff_         *             *             *         *         *        *    (ARGM-DIS*)     *            *         *     -
+wb/cmn/00/cmn_0035   0   18        想    VV               (VP*   -   02   -    _huff_         *             *             *         *         *        *           (V*)     *            *         *     -
+wb/cmn/00/cmn_0035   0   19        来    VV            (IP(VP*   -   06   -    _huff_         *             *             *         *         *        *        (ARG1*    (V*)           *         *     -
+wb/cmn/00/cmn_0035   0   20        为     P         (VP(VP(PP*   -    -   -    _huff_         *             *             *         *         *        *             *      *   (ARGM-PRP*         *     -
+wb/cmn/00/cmn_0035   0   21      bbs    NR            (NP(NP*)  -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   22       一点    CD               (QP*)  -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   23       意气    NN           (DNP(NP*)  -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   24        之   DEG                  *)  -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+wb/cmn/00/cmn_0035   0   25        争    NN             (NP*)))  -    -   -    _huff_         *             *             *         *         *        *             *      *            *)        *     -
+wb/cmn/00/cmn_0035   0   26        花    VV               (VP*   -   01   -    _huff_         *             *             *         *         *        *             *      *          (V*)        *     -
+wb/cmn/00/cmn_0035   0   27        钱    NN             (NP*)))  -    -   -    _huff_         *             *             *         *         *        *             *      *       (ARG1*)        *     -
+wb/cmn/00/cmn_0035   0   28        打    VV               (VP*   -   03   -    _huff_         *             *             *         *         *        *             *      *            *       (V*)    -
+wb/cmn/00/cmn_0035   0   29       官司    NN       (NP*)))))))))  -    -   -    _huff_         *             *             *         *         *        *             *)     *            *    (ARG1*)    -
+wb/cmn/00/cmn_0035   0   30        。    PU                 *))  -    -   -    _huff_         *             *             *         *         *        *             *      *            *         *     -
+
+wb/cmn/00/cmn_0035   0   0        这   DT  (TOP(IP(NP(DP*   -    -   -    _huff_  *        (ARG0*         *    (5
+wb/cmn/00/cmn_0035   0   1        种    M          (CLP*))  -    -   -    _huff_  *             *         *     -
+wb/cmn/00/cmn_0035   0   2    hater   NN           (NP*))  -    -   -    _huff_  *             *)        *     5)
+wb/cmn/00/cmn_0035   0   3       实在   AD       (VP(ADVP*)  -    -   -    _huff_  *    (ARGM-ADV*)        *     -
+wb/cmn/00/cmn_0035   0   4        是   VC            (VP*   -   01   -    _huff_  *           (V*)        *     -
+wb/cmn/00/cmn_0035   0   5       自己   PN         (IP(NP*)  -    -   -    _huff_  *        (ARG1*    (ARG0*)   (5)
+wb/cmn/00/cmn_0035   0   6        有   VE            (VP*   -   01   -    _huff_  *             *       (V*)    -
+wb/cmn/00/cmn_0035   0   7       问题   NN        (NP*)))))  -    -   -    _huff_  *             *)   (ARG1*)    -
+wb/cmn/00/cmn_0035   0   8        。   PU              *))  -    -   -    _huff_  *             *         *     -
+
+wb/cmn/00/cmn_0035   0    0      我   PN    (TOP(IP(IP(NP*)  -    -   -    _huff_      *      *      *            *             *            *            *    (7)
+wb/cmn/00/cmn_0035   0    1     学成   VV   (VP(LCP(IP(VP*))  -   01   -    _huff_      *    (V*)     *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0    2      后   LC                 *)  -    -   -    _huff_      *      *      *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0    3     一定   AD            (ADVP*)  -    -   -    _huff_      *      *      *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0    4      会   VV              (VP*   -   02   -    _huff_      *      *    (V*)           *             *            *            *     -
+wb/cmn/00/cmn_0035   0    5     回去   VV           (VP*))))  -    -   -    _huff_      *      *      *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0    6      ，   PU                 *   -    -   -    _huff_      *      *      *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0    7     不管   CS      (IP(CP(ADVP*)  -    -   -    _huff_      *      *      *            *    (ARGM-ADV*   (ARGM-ADV*   (ARGM-ADV*     -
+wb/cmn/00/cmn_0035   0    8      在    P        (IP(VP(PP*   -    -   -    _huff_      *      *      *   (ARGM-LOC*             *            *            *     -
+wb/cmn/00/cmn_0035   0    9     那里   PN             (NP*))  -    -   -    _huff_      *      *      *            *)            *            *            *     -
+wb/cmn/00/cmn_0035   0   10     工作   VV           (VP*))))  -   01   -    _huff_      *      *      *          (V*)            *)           *)           *)    -
+wb/cmn/00/cmn_0035   0   11      ，   PU                 *   -    -   -    _huff_      *      *      *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0   12      我   PN              (NP*)  -    -   -    _huff_      *      *      *            *        (ARG0*)      (ARG0*)      (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0   13      都   AD      (VP(VP(ADVP*)  -    -   -    _huff_      *      *      *            *    (ARGM-ADV*)           *            *     -
+wb/cmn/00/cmn_0035   0   14      是   VC              (VP*   -   01   -    _huff_      *      *      *            *           (V*)           *            *     -
+wb/cmn/00/cmn_0035   0   15     科大   NR           (NP(NP*)  -    -   -    _huff_   (ORG)     *      *            *        (ARG1*            *            *    (4)
+wb/cmn/00/cmn_0035   0   16     学生   NN           (NP*))))  -    -   -    _huff_      *      *      *            *             *)           *            *     -
+wb/cmn/00/cmn_0035   0   17      ，   PU                 *   -    -   -    _huff_      *      *      *            *             *            *            *     -
+wb/cmn/00/cmn_0035   0   18    无愧于   VV           (VP(VP*   -   01   -    _huff_      *      *      *            *             *          (V*)           *     -
+wb/cmn/00/cmn_0035   0   19     科大   NR             (NP*))  -    -   -    _huff_   (ORG)     *      *            *             *       (ARG1*)           *    (4)
+wb/cmn/00/cmn_0035   0   20    无愧于   VV              (VP*   -   01   -    _huff_      *      *      *            *             *            *          (V*)    -
+wb/cmn/00/cmn_0035   0   21     国家   NN          (NP*)))))  -    -   -    _huff_      *      *      *            *             *            *       (ARG1*)   (0)
+wb/cmn/00/cmn_0035   0   22      。   PU                *))  -    -   -    _huff_      *      *      *            *             *            *            *     -
+
+wb/cmn/00/cmn_0035   0   0    －－   PU   (TOP*)  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0035   0    0             ※    PU    (TOP(IP*   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    1            来源    NN        (NP*)  -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    2             ：    PU           *   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    3           99     CD  (VP(NP(NP*   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    4           BBS    NR           *   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    5            未名    NR           *   -   -   -    _huff_  (ORG*   -
+wb/cmn/00/cmn_0035   0    6           空间站    NR           *)  -   -   -    _huff_      *)  -
+wb/cmn/00/cmn_0035   0    7    mitbbs．com   URL       (PRN*   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    8           99     CD           *   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0    9             ［    PU           *   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0   10          FROM     P        (PP*   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0   11             ：    PU           *   -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0   12       74．139．   URL        *))))  -   -   -    _huff_      *   -
+wb/cmn/00/cmn_0035   0   13             ］    PU          *))  -   -   -    _huff_      *   -
+
+wb/cmn/00/cmn_0035   0   0     hrf   NR  (TOP(NP*   -   -   -   -   (PERSON*   (8
+wb/cmn/00/cmn_0035   0   1    rank   NR        *))  -   -   -   -          *)   8)
+
+wb/cmn/00/cmn_0035   0   0           发信人   NN   (TOP(IP(IP(NP*)  -   -   -    _hrfrank_         *    -
+wb/cmn/00/cmn_0035   0   1             ：   PU                *   -   -   -    _hrfrank_         *    -
+wb/cmn/00/cmn_0035   0   2       hrfrank   NR          (VP(NP*   -   -   -    _hrfrank_   (PERSON)  (8
+wb/cmn/00/cmn_0035   0   3             （   PU                *   -   -   -    _hrfrank_         *    -
+wb/cmn/00/cmn_0035   0   4    crazyfrank   NR                *   -   -   -    _hrfrank_   (PERSON)   -
+wb/cmn/00/cmn_0035   0   5             ）   PU              *)))  -   -   -    _hrfrank_         *    8)
+wb/cmn/00/cmn_0035   0   6             ，   PU                *   -   -   -    _hrfrank_         *    -
+wb/cmn/00/cmn_0035   0   7            信区   NN          (IP(NP*)  -   -   -    _hrfrank_         *    -
+wb/cmn/00/cmn_0035   0   8             ：   PU                *   -   -   -    _hrfrank_         *    -
+wb/cmn/00/cmn_0035   0   9      Overseas   NR      (VP(NP*)))))  -   -   -    _hrfrank_         *    -
+
+wb/cmn/00/cmn_0035   0   0    标题   NN   (TOP(IP(NP*)  -    -   -    _hrfrank_      *         *     -
+wb/cmn/00/cmn_0035   0   1     ：   PU             *   -    -   -    _hrfrank_      *         *     -
+wb/cmn/00/cmn_0035   0   2    Re   NN    (VP(IP(NP*)  -    -   -    _hrfrank_      *         *     -
+wb/cmn/00/cmn_0035   0   3     ：   PU             *   -    -   -    _hrfrank_      *         *     -
+wb/cmn/00/cmn_0035   0   4     我   PN       (IP(NP*)  -    -   -    _hrfrank_      *    (ARG0*)   (7)
+wb/cmn/00/cmn_0035   0   5    感谢   VV          (VP*   -   01   -    _hrfrank_      *       (V*)    -
+wb/cmn/00/cmn_0035   0   6    科大   NR    (NP*)))))))  -    -   -    _hrfrank_   (ORG)   (ARG1*)   (4)
+
+wb/cmn/00/cmn_0035   0    0         发信站   NN   (TOP(IP(NP*)  -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0    1           ：   PU             *   -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0    2         BBS   NR    (VP(NP(NP*   -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0    3          未名   NR             *   -   -   -    _hrfrank_   (ORG*   -
+wb/cmn/00/cmn_0035   0    4         空间站   NR             *)  -   -   -    _hrfrank_       *)  -
+wb/cmn/00/cmn_0035   0    5           （   PU             *   -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0    6         Tue   NT      (PRN(NP*   -   -   -    _hrfrank_  (TIME*   -
+wb/cmn/00/cmn_0035   0    7         Jan   NT             *   -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0    8          2    NT             *   -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0    9   19：23：41    NT             *   -   -   -    _hrfrank_       *   -
+wb/cmn/00/cmn_0035   0   10       2007    NT          *))))  -   -   -    _hrfrank_       *)  -
+wb/cmn/00/cmn_0035   0   11           ）   PU            *))  -   -   -    _hrfrank_       *   -
+
+wb/cmn/00/cmn_0035   0    0       我    PN      (TOP(IP(IP(NP*)  -    -   -    _hrfrank_      *        (ARG0*)            *         *         *         *      *    (8)
+wb/cmn/00/cmn_0035   0    1       也    AD           (VP(ADVP*)  -    -   -    _hrfrank_      *    (ARGM-DIS*)            *         *         *         *      *     -
+wb/cmn/00/cmn_0035   0    2       是    VC                (VP*   -   01   -    _hrfrank_      *           (V*)            *         *         *         *      *     -
+wb/cmn/00/cmn_0035   0    3      科大    NR         (NP(DNP(NP*)  -    -   -    _hrfrank_   (ORG)       (ARG1*             *         *         *         *      *    (4)
+wb/cmn/00/cmn_0035   0    4       的   DEG               *)))))  -    -   -    _hrfrank_      *             *)            *         *         *         *      *     -
+wb/cmn/00/cmn_0035   0    5       ，    PU                   *   -    -   -    _hrfrank_      *             *             *         *         *         *      *     -
+wb/cmn/00/cmn_0035   0    6      不过    AD           (IP(ADVP*)  -    -   -    _hrfrank_      *             *    (ARGM-DIS*)        *         *         *      *     -
+wb/cmn/00/cmn_0035   0    7      大家    PN                (NP*)  -    -   -    _hrfrank_      *             *        (ARG0*)        *         *         *      *     -
+wb/cmn/00/cmn_0035   0    8       都    AD           (VP(ADVP*)  -    -   -    _hrfrank_      *             *    (ARGM-ADV*)        *         *         *      *     -
+wb/cmn/00/cmn_0035   0    9       是    VC                (VP*   -   01   -    _hrfrank_      *             *           (V*)        *         *         *      *     -
+wb/cmn/00/cmn_0035   0   10      留洋    VV   (NP(CP(CP(IP(VP*))  -   01   -    _hrfrank_      *             *        (ARG1*       (V*)        *         *      *     -
+wb/cmn/00/cmn_0035   0   11       的   DEC                  *))  -    -   -    _hrfrank_      *             *             *         *         *         *      *     -
+wb/cmn/00/cmn_0035   0   12      学生    NN             (NP*))))  -    -   -    _hrfrank_      *             *             *)   (ARG0*)        *         *      *     -
+wb/cmn/00/cmn_0035   0   13       ，    PU                   *)  -    -   -    _hrfrank_      *             *             *         *         *         *      *     -
+wb/cmn/00/cmn_0035   0   14       没    VE       (CP(IP(VP(VP*   -   02   -    _hrfrank_      *             *             *         *       (V*)        *      *     -
+wb/cmn/00/cmn_0035   0   15      必要    NN               (NP*))  -    -   -    _hrfrank_      *             *             *         *    (ARG1*)        *      *     -
+wb/cmn/00/cmn_0035   0   16      划分    VV             (VP(VP*   -   01   -    _hrfrank_      *             *             *         *         *       (V*)     *     -
+wb/cmn/00/cmn_0035   0   17     小团体    NN               (NP*))  -    -   -    _hrfrank_      *             *             *         *         *    (ARG2*)     *     -
+wb/cmn/00/cmn_0035   0   18    斗来斗去    VV             (VP*))))  -   01   -    _hrfrank_      *             *             *         *         *         *    (V*)    -
+wb/cmn/00/cmn_0035   0   19       的    SP                 *)))  -    -   -    _hrfrank_      *             *             *         *         *         *      *     -
+
+wb/cmn/00/cmn_0035   0   0    中国人   NN   (TOP(IP(NP*)  -    -   -    _hrfrank_   (NORP)       (ARG0*)        *   -
+wb/cmn/00/cmn_0035   0   1      就   AD     (VP(ADVP*)  -    -   -    _hrfrank_       *    (ARGM-ADV*)        *   -
+wb/cmn/00/cmn_0035   0   2      爱   VV          (VP*   -   01   -    _hrfrank_       *           (V*)        *   -
+wb/cmn/00/cmn_0035   0   3      打   VV       (IP(VP*   -   02   -    _hrfrank_       *        (ARG1*       (V*)  -
+wb/cmn/00/cmn_0035   0   4    中国人   NN    (NP*)))))))  -    -   -    _hrfrank_   (NORP)            *)   (ARG1*)  -
+
+wb/cmn/00/cmn_0035   0   0     我   PN   (TOP(IP(IP(NP*)  -    -   -    _hrfrank_      *    (ARG0*)            *    (8)
+wb/cmn/00/cmn_0035   0   1     爱   VV             (VP*   -   01   -    _hrfrank_      *       (V*)            *     -
+wb/cmn/00/cmn_0035   0   2    科大   NR           (NP*)))  -    -   -    _hrfrank_   (ORG)   (ARG1*)            *    (4)
+wb/cmn/00/cmn_0035   0   3     ，   PU                *   -    -   -    _hrfrank_      *         *             *     -
+wb/cmn/00/cmn_0035   0   4     我   PN          (IP(NP*)  -    -   -    _hrfrank_      *         *        (ARG0*)   (8)
+wb/cmn/00/cmn_0035   0   5     也   AD        (VP(ADVP*)  -    -   -    _hrfrank_      *         *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0035   0   6    爱国   VV         (VP*)))))  -   01   -    _hrfrank_      *         *           (V*)   (0)
+
+wb/cmn/00/cmn_0035   0    0    没有    VE  (TOP(IP(IP(IP(VP*   -   02   -    _hrfrank_      *       (V*)       *     -
+wb/cmn/00/cmn_0035   0    1    祖国    NN             (NP*)))  -    -   -    _hrfrank_      *    (ARG1*)       *    (0)
+wb/cmn/00/cmn_0035   0    2     就    AD          (VP(ADVP*)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0    3    没有    VE               (VP*   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0    4    科大    NR            (NP(NP*)  -    -   -    _hrfrank_   (ORG)        *        *    (4)
+wb/cmn/00/cmn_0035   0    5     （    PU                  *   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0    6    or    CC                  *   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0    7     你    PN        (NP(DNP(NP*)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0    8     的   DEG                  *)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0    9    大学    NN              (NP*))  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   10     ）    PU               *))))  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   11     ，    PU                  *   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   12    没有    VE         (IP(IP(VP*   -   02   -    _hrfrank_      *         *      (V*)    -
+wb/cmn/00/cmn_0035   0   13    科大    NR            (NP(NP*)  -    -   -    _hrfrank_   (ORG)        *   (ARG1*    (4)
+wb/cmn/00/cmn_0035   0   14     （    PU                  *   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   15    or    CC                  *   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   16     你    PN        (NP(DNP(NP*)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   17     的   DEG                  *)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   18    大学    NN              (NP*))  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   19     ）    PU                *)))  -    -   -    _hrfrank_      *         *        *)    -
+wb/cmn/00/cmn_0035   0   20     就    AD          (VP(ADVP*)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   21    没有    VE               (VP*   -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   22    现在    NT        (NP(DNP(NP*)  -    -   -    _hrfrank_      *         *        *    (8
+wb/cmn/00/cmn_0035   0   23     的   DEG                  *)  -    -   -    _hrfrank_      *         *        *     -
+wb/cmn/00/cmn_0035   0   24     我    PN         (NP*)))))))  -    -   -    _hrfrank_      *         *        *     8)
+
+wb/cmn/00/cmn_0035   0    0       大家   PN    (TOP(IP(IP(NP*)  -    -   -    _hrfrank_  *        (ARG0*)     *             *      *   -
+wb/cmn/00/cmn_0035   0    1        都   AD         (VP(ADVP*)  -    -   -    _hrfrank_  *    (ARGM-ADV*)     *             *      *   -
+wb/cmn/00/cmn_0035   0    2        是   VC              (VP*   -   01   -    _hrfrank_  *           (V*)     *             *      *   -
+wb/cmn/00/cmn_0035   0    3     XDJM   NN           (NP*))))  -    -   -    _hrfrank_  *        (ARG1*)     *             *      *   -
+wb/cmn/00/cmn_0035   0    4        ，   PU                 *   -    -   -    _hrfrank_  *             *      *             *      *   -
+wb/cmn/00/cmn_0035   0    5        就   AD   (CP(IP(VP(ADVP*)  -    -   -    _hrfrank_  *             *      *    (ARGM-DIS*)     *   -
+wb/cmn/00/cmn_0035   0    6        不   AD            (ADVP*)  -    -   -    _hrfrank_  *             *      *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0035   0    7        要   VV              (VP*   -   03   -    _hrfrank_  *             *    (V*)            *      *   -
+wb/cmn/00/cmn_0035   0    8        再   AD         (VP(ADVP*)  -    -   -    _hrfrank_  *             *      *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0035   0    9    煮豆燃豆箕   VV              *))))  -   01   -    _hrfrank_  *             *      *           (V*)     *   -
+wb/cmn/00/cmn_0035   0   10        了   SP                 *)  -    -   -    _hrfrank_  *             *      *             *      *   -
+wb/cmn/00/cmn_0035   0   11        好   VA       (IP(VP(VNV*   -    -   -    _hrfrank_  *             *      *             *      *   -
+wb/cmn/00/cmn_0035   0   12        不   AD                 *   -    -   -    _hrfrank_  *             *      *             *      *   -
+wb/cmn/00/cmn_0035   0   13        好   VA               *)))  -   01   -    _hrfrank_  *             *      *             *    (V*)  -
+wb/cmn/00/cmn_0035   0   14        ？   PU                *))  -    -   -    _hrfrank_  *             *      *             *      *   -
+
+wb/cmn/00/cmn_0035   0   0    －－   PU   (TOP*)  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0035   0    0                    ※    PU    (TOP(IP*   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    1                   来源    NN        (NP*)  -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    2                    ：    PU           *   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    3                  99     CD  (VP(NP(NP*   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    4                  BBS    NR           *   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    5                   未名    NR           *   -   -   -    _hrfrank_  (ORG*   -
+wb/cmn/00/cmn_0035   0    6                  空间站    NR           *)  -   -   -    _hrfrank_      *)  -
+wb/cmn/00/cmn_0035   0    7    http：／／mitbbs．com   URL       (PRN*   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    8                  99     CD           *   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0    9                    ［    PU           *   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0   10                 FROM     P        (PP*   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0   11                    ：    PU           *   -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0   12               74．71．   URL        *))))  -   -   -    _hrfrank_      *   -
+wb/cmn/00/cmn_0035   0   13                    ］    PU          *))  -   -   -    _hrfrank_      *   -
+
+#end document

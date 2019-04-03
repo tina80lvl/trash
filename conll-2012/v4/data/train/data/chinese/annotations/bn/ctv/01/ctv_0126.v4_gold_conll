@@ -1,0 +1,141 @@
+#begin document (bn/ctv/01/ctv_0126); part 000
+bn/ctv/01/ctv_0126   0    0    ９号    NT      (TOP(IP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)        *        *    (1)
+bn/ctv/01/ctv_0126   0    1    大约    AD        (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)        *        *     -
+bn/ctv/01/ctv_0126   0    2     有    VE             (VP*   -   05   4   -            *           (V*)        *        *     -
+bn/ctv/01/ctv_0126   0    3    ２万    CD       (IP(NP(QP*   -    -   -   -    (CARDINAL)       (ARG1*    (ARG0*   (ARG0*    (3
+bn/ctv/01/ctv_0126   0    4     名     M           (CLP*))  -    -   -   -            *             *         *        *     -
+bn/ctv/01/ctv_0126   0    5    德国    NR             (NP*)  -    -   -   -        (NORP)            *         *        *    (2)
+bn/ctv/01/ctv_0126   0    6    民众    NN            (NP*))  -    -   -   -            *             *         *)       *)    3)
+bn/ctv/01/ctv_0126   0    7    走上    VV          (VP(VP*   -   01   -   -            *             *       (V*)       *     -
+bn/ctv/01/ctv_0126   0    8    街头    NN            (NP*))  -    -   -   -            *             *    (ARG1*)       *     -
+bn/ctv/01/ctv_0126   0    9     ，    PU                *   -    -   -   -            *             *         *        *     -
+bn/ctv/01/ctv_0126   0   10    抗议    VV             (VP*   -   01   -   -            *             *         *      (V*)    -
+bn/ctv/01/ctv_0126   0   11    右翼    NN   (NP(DNP(NP(NP*)  -    -   -   -            *             *         *   (ARG1*     -
+bn/ctv/01/ctv_0126   0   12    极端    JJ           (ADJP*)  -    -   -   -            *             *         *        *     -
+bn/ctv/01/ctv_0126   0   13    分子    NN            (NP*))  -    -   -   -            *             *         *        *     -
+bn/ctv/01/ctv_0126   0   14     的   DEG                *)  -    -   -   -            *             *         *        *     -
+bn/ctv/01/ctv_0126   0   15    偏激    JJ           (ADJP*)  -    -   -   -            *             *         *        *     -
+bn/ctv/01/ctv_0126   0   16    行为    NN       (NP*)))))))  -    -   -   -            *             *)        *        *)    -
+bn/ctv/01/ctv_0126   0   17     。    PU               *))  -    -   -   -            *             *         *        *     -
+
+bn/ctv/01/ctv_0126   0   0     来   VV  (TOP(IP(VP*   -   05   7   -   *      (V*)        *   -
+bn/ctv/01/ctv_0126   0   1     看   VV         (VP*   -   02   2   -   *   (ARG1*       (V*)  -
+bn/ctv/01/ctv_0126   0   2    报道   NN       (NP*)))  -    -   -   -   *        *)   (ARG1*)  -
+bn/ctv/01/ctv_0126   0   3     。   PU           *))  -    -   -   -   *        *         *   -
+
+bn/ctv/01/ctv_0126   0    0     这些    DT   (TOP(IP(NP(DNP(NP(DP*)  -    -   -   -        *   (ARG0*            *             *   (0|(3
+bn/ctv/01/ctv_0126   0    1     民众    NN                   (NP*))  -    -   -   -        *        *            *             *       3)
+bn/ctv/01/ctv_0126   0    2      的   DEG                       *)  -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0    3     游行    NN                    (NP*   -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0    4     示威    NN                       *   -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0    5     活动    NN                      *))  -    -   2   -        *        *)           *             *       0)
+bn/ctv/01/ctv_0126   0    6      是    VC                    (VP*   -   01   1   -        *      (V*)           *             *       -
+bn/ctv/01/ctv_0126   0    7     针对     P             (NP(DNP(PP*   -    -   -   -        *   (ARG1*            *             *       -
+bn/ctv/01/ctv_0126   0    8     当天    NT                 (IP(NP*)  -    -   -   -    (DATE)       *            *    (ARGM-TMP*)     (1)
+bn/ctv/01/ctv_0126   0    9      的   DEG                   (FLR*)  -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0   10     右翼    NN                 (NP(NP*)  -    -   -   -        *        *       (ARG0*        (ARG0*       -
+bn/ctv/01/ctv_0126   0   11     极端    JJ                  (ADJP*)  -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0   12     分子    NN                   (NP*))  -    -   -   -        *        *            *)            *)      -
+bn/ctv/01/ctv_0126   0   13      在     P                 (VP(PP*   -    -   2   -        *        *   (ARGM-LOC*    (ARGM-LOC*       -
+bn/ctv/01/ctv_0126   0   14     科隆    NR                   (NP*))  -    -   -   -     (GPE)       *            *)            *)     (4)
+bn/ctv/01/ctv_0126   0   15     游行    VV                (VP(VCD*   -   01   -   -        *        *          (V*)            *       -
+bn/ctv/01/ctv_0126   0   16     示威    VV                   *)))))  -   01   -   -        *        *            *           (V*)      -
+bn/ctv/01/ctv_0126   0   17      的   DEG                       *)  -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0   18    反示威    JJ                  (ADJP*)  -    -   -   -        *        *            *             *       -
+bn/ctv/01/ctv_0126   0   19     活动    NN                  (NP*)))  -    -   2   -        *        *)           *             *       -
+bn/ctv/01/ctv_0126   0   20      。    PU                      *))  -    -   -   -        *        *            *             *       -
+
+bn/ctv/01/ctv_0126   0    0    反示威    JJ   (TOP(IP(NP(DNP(NP(ADJP*)  -    -   -   -   *      *        *             *             *   (0
+bn/ctv/01/ctv_0126   0    1     活动    NN                     (NP*))  -    -   2   -   *      *        *             *             *    0)
+bn/ctv/01/ctv_0126   0    2      的   DEG                         *)  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0    3    组织者    NN                     (NP*))  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0    4      称    VV                      (VP*   -    -   3   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0    5      ，    PU                         *   -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0    6    反示威    VV   (CP(IP(NP(CP(CP(IP(VP*))  -    -   -   -   *      *   (ARG0*        (ARG0*        (ARG0*    -
+bn/ctv/01/ctv_0126   0    7      的   DEC                        *))  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0    8     群众    NN                     (NP*))  -    -   -   -   *      *        *)            *)            *)   -
+bn/ctv/01/ctv_0126   0    9      是    VC                      (VP*   -   01   1   -   *    (V*)       *             *             *    -
+bn/ctv/01/ctv_0126   0   10     响应    VV                   (VP(VP*   -   01   -   -   *      *      (V*)            *             *    -
+bn/ctv/01/ctv_0126   0   11     政治    NN            (NP(DNP(NP(NP*   -    -   -   -   *      *   (ARG1*             *             *    -
+bn/ctv/01/ctv_0126   0   12     党派    NN                         *)  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   13      、    PU                         *   -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   14     教堂    NN                      (NP*)  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   15      和    CC                         *   -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   16     其他    DT                   (NP(DP*   -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   17     一些    CD                     (QP*))  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   18     团体    NN                    (NP*)))  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   19      的   DEG                         *)  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   20     号召    NN                    (NP*)))  -    -   -   -   *      *        *)            *             *    -
+bn/ctv/01/ctv_0126   0   21      才    AD                 (VP(ADVP*)  -    -   -   -   *      *        *    (ARGM-ADV*)   (ARGM-DIS*)   -
+bn/ctv/01/ctv_0126   0   22      来    VV                      (VP*   -   05   7   -   *      *        *           (V*)            *    -
+bn/ctv/01/ctv_0126   0   23     参加    VV                      (VP*   -   01   -   -   *      *        *        (ARG1*           (V*)   -
+bn/ctv/01/ctv_0126   0   24     游行    NN                (NP*)))))))  -    -   -   -   *      *        *             *)       (ARG1*)   -
+bn/ctv/01/ctv_0126   0   25      的    SP                        *))  -    -   -   -   *      *        *             *             *    -
+bn/ctv/01/ctv_0126   0   26      。    PU                        *))  -    -   -   -   *      *        *             *             *    -
+
+bn/ctv/01/ctv_0126   0    0    ３０００    CD      (TOP(IP(IP(NP(QP*   -    -   -   -    (CARDINAL)  (ARG1*   (ARG0*         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    1       名     M                 (CLP*))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    2      警察    NN                  (NP*))  -    -   -   -            *        *)       *)        *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    3      出动    VV               (VP(VCD*   -   01   -   -            *      (V*)       *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    4      维持    VV                      *)  -   01   -   -            *        *      (V*)        *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    5      科隆    NR             (NP(NP(NP*)  -    -   -   -         (GPE)       *   (ARG1*         *         *            *            *         *    (4)
+bn/ctv/01/ctv_0126   0    6     市中心    NN                  (NP*))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    7      混乱    VA         (CP(CP(IP(VP*))  -   01   -   -            *        *        *       (V*)        *            *            *         *     -
+bn/ctv/01/ctv_0126   0    8       的   DEC                     *))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0    9      秩序    NN                (NP*))))  -    -   -   -            *        *        *)   (ARG0*)        *            *            *         *     -
+bn/ctv/01/ctv_0126   0   10       ，    PU                      *   -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   11       在     P                (IP(PP*   -    -   2   -            *        *        *         *         *   (ARGM-LOC*   (ARGM-LOC*         *     -
+bn/ctv/01/ctv_0126   0   12      示威    NN   (LCP(NP(CP(CP(IP(NP*)  -    -   -   -            *        *        *         *    (ARG0*)           *            *         *     -
+bn/ctv/01/ctv_0126   0   13      引起    VV                  (VP*))  -   01   -   -            *        *        *         *       (V*)           *            *         *     -
+bn/ctv/01/ctv_0126   0   14       的   DEC                     *))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   15       小    JJ              (NP(ADJP*)  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   16      规模    NN                  (NP*))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   17      冲突    NN                  (NP*))  -    -   -   -            *        *        *         *    (ARG1*)           *            *         *     -
+bn/ctv/01/ctv_0126   0   18       中    LC                     *))  -    -   -   -            *        *        *         *         *            *)           *)        *     -
+bn/ctv/01/ctv_0126   0   19       ，    PU                      *   -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   20       一    CD                (NP(QP*   -    -   -   -    (CARDINAL)       *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   21       名     M                 (CLP*))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   22      警察    NN                  (NP*))  -    -   -   -            *        *        *         *         *            *            *         *     -
+bn/ctv/01/ctv_0126   0   23       被    LB                (VP(VP*   -    -   -   -            *        *        *         *         *            *       (ARG0*         *     -
+bn/ctv/01/ctv_0126   0   24      石块    NN                (IP(NP*)  -    -   -   -            *        *        *         *         *       (ARG2*)           *         *     -
+bn/ctv/01/ctv_0126   0   25      击中    VV                 (VP*)))  -   01   -   -            *        *        *         *         *          (V*)           *)        *     -
+bn/ctv/01/ctv_0126   0   26      造成    VV                   (VP*   -   01   -   -            *        *        *         *         *            *          (V*)        *     -
+bn/ctv/01/ctv_0126   0   27      头部    NN                (IP(NP*)  -    -   -   -            *        *        *         *         *            *       (ARG1*    (ARG0*)    -
+bn/ctv/01/ctv_0126   0   28       受    VV                   (VP*   -   01   2   -            *        *        *         *         *            *            *       (V*)    -
+bn/ctv/01/ctv_0126   0   29      轻伤    NN              (NP*))))))  -    -   -   -            *        *        *         *         *            *            *)   (ARG1*)    -
+bn/ctv/01/ctv_0126   0   30       。    PU                     *))  -    -   -   -            *        *        *         *         *            *            *         *     -
+
+bn/ctv/01/ctv_0126   0    0       近来    AD     (TOP(IP(IP(ADVP*)  -    -   -   -            *    (ARGM-TMP*)            *        *        *     -
+bn/ctv/01/ctv_0126   0    1        ，    PU                    *   -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0    2       德国    NR              (NP(NP*)  -    -   -   -        (NORP)       (ARG0*             *        *        *    (2)
+bn/ctv/01/ctv_0126   0    3    民族主义者    NN                (NP*))  -    -   -   -            *             *)            *        *        *     -
+bn/ctv/01/ctv_0126   0    4       频繁    AD            (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *        *        *     -
+bn/ctv/01/ctv_0126   0    5       攻击    VV                 (VP*   -   01   -   -            *           (V*)            *        *        *     -
+bn/ctv/01/ctv_0126   0    6      犹太人    NN                 (NP*   -    -   -   -        (NORP)       (ARG1*             *        *        *     -
+bn/ctv/01/ctv_0126   0    7       财产    NN                 *))))  -    -   -   -            *             *)            *        *        *     -
+bn/ctv/01/ctv_0126   0    8        ，    PU                    *   -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0    9       德国    NR           (IP(NP(NP*)  -    -   -   -        (NORP)            *        (ARG0*        *        *    (2)
+bn/ctv/01/ctv_0126   0   10       政府    NN                (NP*))  -    -   -   -            *             *             *)       *        *     -
+bn/ctv/01/ctv_0126   0   11       迫于    VV              (VP(VP*   -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   12       压力    NN                (NP*))  -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   13       正在    AD            (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)       *        *     -
+bn/ctv/01/ctv_0126   0   14       考虑    VV                 (VP*   -   01   -   -            *             *           (V*)       *        *     -
+bn/ctv/01/ctv_0126   0   15       禁止    VV              (IP(VP*   -   01   -   -            *             *        (ARG1*      (V*)       *     -
+bn/ctv/01/ctv_0126   0   16        由     P  (NP(CP(CP(IP(VP(PP*   -    -   -   -            *             *             *   (ARG1*   (ARG1*     -
+bn/ctv/01/ctv_0126   0   17        约    AD         (NP(QP(ADVP*)  -    -   -   -   (CARDINAL*             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   18     ６０００    CD                 (QP*   -    -   -   -            *)            *             *        *        *     -
+bn/ctv/01/ctv_0126   0   19        名     M              (CLP*)))  -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   20       右翼    NN                 (NP*   -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   21       分子    NN                  *)))  -    -   -   -            *             *             *        *        *)    -
+bn/ctv/01/ctv_0126   0   22       组成    VV               (VP*)))  -   01   -   -            *             *             *        *      (V*)    -
+bn/ctv/01/ctv_0126   0   23        的   DEC                   *))  -    -   -   -            *             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   24       国家    NN                 (NP*   -    -   -   -        (ORG*             *             *        *        *     -
+bn/ctv/01/ctv_0126   0   25      民主党    NN             *))))))))  -    -   -   -            *)            *             *)       *)       *     -
+bn/ctv/01/ctv_0126   0   26        。    PU                   *))  -    -   -   -            *             *             *        *        *     -
+
+bn/ctv/01/ctv_0126   0   0    中央台   NR   (TOP(IP(NP*)  -    -   -   -    (ORG)   (ARG0*)  -
+bn/ctv/01/ctv_0126   0   1     编译   VV      (VP(VSB*   -    -   -   -       *         *   -
+bn/ctv/01/ctv_0126   0   2     报道   VV            *))  -   01   -   -       *       (V*)  -
+bn/ctv/01/ctv_0126   0   3      。   PU            *))  -    -   -   -       *         *   -
+
+#end document

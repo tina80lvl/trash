@@ -1,0 +1,458 @@
+#begin document (bn/ctv/01/ctv_0102); part 000
+bn/ctv/01/ctv_0102   0    0    １２月   NT  (TOP(IP(NP*   -    -   -   -       (DATE*   (ARGM-TMP*   (ARGM-TMP*        -
+bn/ctv/01/ctv_0102   0    1     ３号   NT            *)  -    -   -   -            *)           *)           *)       -
+bn/ctv/01/ctv_0102   0    2     台湾   NR   (NP(NP(NP*)  -    -   -   -        (NORP)      (ARG0*       (ARG0*    (6|(3)
+bn/ctv/01/ctv_0102   0    3     退役   JJ       (ADJP*)  -    -   -   -            *            *            *        -
+bn/ctv/01/ctv_0102   0    4      老   JJ       (ADJP*)  -    -   -   -            *            *            *        -
+bn/ctv/01/ctv_0102   0    5     将军   NN        (NP*))  -    -   -   -            *            *            *        -
+bn/ctv/01/ctv_0102   0    6     一行   NN         (NP*)  -    -   -   -            *            *            *        -
+bn/ctv/01/ctv_0102   0    7     １６   CD         (QP*)  -    -   -   -    (CARDINAL)           *            *        -
+bn/ctv/01/ctv_0102   0    8      人   NN        (NP*))  -    -   -   -            *            *)           *)       6)
+bn/ctv/01/ctv_0102   0    9     来到   VV      (VP(VP*   -   01   -   -            *          (V*)           *        -
+bn/ctv/01/ctv_0102   0   10     广州   NR        (NP*))  -    -   -   -         (GPE)      (ARG1*)           *       (5)
+bn/ctv/01/ctv_0102   0   11     参观   VV        (VP*))  -   01   -   -            *            *          (V*)       -
+bn/ctv/01/ctv_0102   0   12      。   PU           *))  -    -   -   -            *            *            *        -
+
+bn/ctv/01/ctv_0102   0    0      在     P  (TOP(IP(PP*   -    -   2   -          *   (ARGM-LOC*    (ARGM-LOC*             *         -
+bn/ctv/01/ctv_0102   0    1     黄浦    NR      (NP(NP*   -    -   -   -      (FAC*            *             *             *    (0|(10
+bn/ctv/01/ctv_0102   0    2     军校    NN            *)  -    -   -   -          *)           *             *             *         0)
+bn/ctv/01/ctv_0102   0    3     旧址    NN       (NP*)))  -    -   -   -          *            *)            *)            *        10)
+bn/ctv/01/ctv_0102   0    4      、    PU            *   -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0    5      在     P         (PP*   -    -   2   -          *   (ARGM-LOC*    (ARGM-LOC*             *         -
+bn/ctv/01/ctv_0102   0    6    孙中山    NR  (NP(DNP(NP*   -    -   -   -    (PERSON)           *             *             *   (11|(16
+bn/ctv/01/ctv_0102   0    7     先生    NN            *)  -    -   -   -          *            *             *             *        11)
+bn/ctv/01/ctv_0102   0    8      的   DEG            *)  -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0    9     故居    NN       (NP*)))  -    -   -   -          *            *)            *)            *        16)
+bn/ctv/01/ctv_0102   0   10      ，    PU            *   -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0   11    将军们    NN         (NP*)  -    -   -   -          *       (ARG0*)       (ARG0*)            *        (6)
+bn/ctv/01/ctv_0102   0   12     缅怀    VV      (VP(VP*   -   01   -   -          *          (V*)            *             *         -
+bn/ctv/01/ctv_0102   0   13     先辈    NN        (NP*))  -    -   -   -          *       (ARG1*)            *             *         -
+bn/ctv/01/ctv_0102   0   14      ，    PU            *   -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0   15     追溯    VV         (VP*   -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0   16     往事    NN        (NP*))  -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0   17      ，    PU            *   -    -   -   -          *            *             *             *         -
+bn/ctv/01/ctv_0102   0   18      共    AD    (VP(ADVP*)  -    -   3   -          *            *    (ARGM-ADV*)            *         -
+bn/ctv/01/ctv_0102   0   19      话    VV         (VP*   -   01   -   -          *            *           (V*)            *         -
+bn/ctv/01/ctv_0102   0   20     祖国    NN      (IP(NP*)  -    -   -   -          *            *        (ARG1*        (ARG1*)        -
+bn/ctv/01/ctv_0102   0   21     和平    AD    (VP(ADVP*)  -    -   1   -          *            *             *    (ARGM-ADV*)        -
+bn/ctv/01/ctv_0102   0   22     统一    VV    (VP*))))))  -   01   -   -          *            *             *)          (V*)        -
+bn/ctv/01/ctv_0102   0   23      。    PU           *))  -    -   -   -          *            *             *             *         -
+
+bn/ctv/01/ctv_0102   0    0    １２月    NT             (TOP(IP(IP(NP*   -    -   -   -       (TIME*   (ARGM-TMP*         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0    1     ３号    NT                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0    2    一大早    NT                          *)  -    -   -   -            *)           *)        *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0    3      ，    PU                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0    4     广州    NR                    (NP(NP*)  -    -   -   -         (GPE)      (ARG0*         *         *         *         *             *             *    (10|(5)
+bn/ctv/01/ctv_0102   0    5     黄浦    NR                       (NP*   -    -   -   -        (FAC*            *         *         *         *         *             *             *        (0
+bn/ctv/01/ctv_0102   0    6     军校    NN                          *)  -    -   -   -            *)           *         *         *         *         *             *             *         0)
+bn/ctv/01/ctv_0102   0    7     旧址    NN                      (NP*))  -    -   -   -            *            *)        *         *         *         *             *             *        10)
+bn/ctv/01/ctv_0102   0    8     迎来    VV                       (VP*   -   01   -   -            *          (V*)        *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0    9      了    AS                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   10      一    CD                    (NP(QP*   -    -   -   -            *       (ARG1*         *         *         *         *             *             *        (6
+bn/ctv/01/ctv_0102   0   11      批     M                     (CLP*))  -    -   2   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   12     特殊    VA             (CP(CP(IP(VP*))  -   01   -   -            *            *       (V*)        *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   13      的   DEC                         *))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   14    参观者    NN                    (NP*))))  -    -   -   -            *            *)   (ARG0*)        *         *         *             *             *         6)
+bn/ctv/01/ctv_0102   0   15      ，    PU                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   16     他们    PN                    (IP(NP*)  -    -   -   -            *            *         *    (ARG0*)        *         *             *             *        (6)
+bn/ctv/01/ctv_0102   0   17      是    VC                       (VP*   -   01   1   -            *            *         *       (V*)        *         *             *             *         -
+bn/ctv/01/ctv_0102   0   18     台湾    NR             (NP(DNP(NP(NP*)  -    -   -   -            *            *         *    (ARG1*         *         *             *             *        (3)
+bn/ctv/01/ctv_0102   0   19      反    VV              (NP(CP(IP(VP*   -   01   1   -        (ORG*            *         *         *       (V*)        *             *             *         -
+bn/ctv/01/ctv_0102   0   20     台独    NN                    (NP*))))  -    -   -   -            *            *         *         *    (ARG1*)        *             *             *         -
+bn/ctv/01/ctv_0102   0   21    副主席    NN                       (NP*)  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   22      老    JJ                     (ADJP*)  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   23     将军    NN                      (NP*))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   24    参观团    NN                      (NP*))  -    -   -   -            *)           *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   25      的   DEG                          *)  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   26     成员    NN                    (NP*))))  -    -   -   -            *            *         *         *)        *         *             *             *         -
+bn/ctv/01/ctv_0102   0   27      ，    PU                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   28     其中    NN                    (IP(NP*)  -    -   -   -            *            *         *         *         *    (ARG0*)            *             *        (6)
+bn/ctv/01/ctv_0102   0   29      有    VE                       (VP*   -   03   8   -            *            *         *         *         *       (V*)            *             *         -
+bn/ctv/01/ctv_0102   0   30      一    CD                 (NP(NP(QP*   -    -   -   -    (CARDINAL)           *         *         *         *    (ARG1*             *             *         -
+bn/ctv/01/ctv_0102   0   31      名     M                     (CLP*))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   32     上将    NN                      (NP*))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   33      ，    PU                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   34      两    CD                    (NP(QP*   -    -   -   -    (CARDINAL)           *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   35      名     M                     (CLP*))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   36     中将    NN                   (NP*)))))  -    -   -   -            *            *         *         *         *         *)            *             *         -
+bn/ctv/01/ctv_0102   0   37      ，    PU                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   38      最    AD   (IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *            *         *         *         *         *    (ARGM-ADV*)            *         -
+bn/ctv/01/ctv_0102   0   39      大    VA                     (VP*)))  -   01   -   -            *            *         *         *         *         *           (V*)            *         -
+bn/ctv/01/ctv_0102   0   40      的   DEC                        *)))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   41     ７７    CD                    (VP(QP*   -    -   -   -       (DATE*            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   42      岁     M                   (CLP*))))  -    -   -   -            *)           *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   43      ，    PU                          *   -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   44      最    AD   (IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *            *         *         *         *         *             *    (ARGM-ADV*)        -
+bn/ctv/01/ctv_0102   0   45      小    VA                     (VP*)))  -   01   -   -            *            *         *         *         *         *             *           (V*)        -
+bn/ctv/01/ctv_0102   0   46      的   DEC                        *)))  -    -   -   -            *            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   47     ５９    CD                    (VP(QP*   -    -   -   -       (DATE*            *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   48      岁     M                   (CLP*))))  -    -   -   -            *)           *         *         *         *         *             *             *         -
+bn/ctv/01/ctv_0102   0   49      。    PU                         *))  -    -   -   -            *            *         *         *         *         *             *             *         -
+
+bn/ctv/01/ctv_0102   0    0     在     P  (TOP(IP(IP(PP*   -    -   2   -       *   (ARGM-LOC*             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0    1    军校    NN        (LCP(NP*   -    -   -   -       *            *             *      *             *      *             *   (10
+bn/ctv/01/ctv_0102   0    2    旧址    NN               *)  -    -   -   -       *            *             *      *             *      *             *    10)
+bn/ctv/01/ctv_0102   0    3     前    LC              *))  -    -   -   -       *            *)            *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0    4     ，    PU               *   -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0    5     老    JJ       (NP(ADJP*)  -    -   -   -       *       (ARG0*             *      *             *      *             *    (6
+bn/ctv/01/ctv_0102   0    6    将军    NN           (NP*))  -    -   -   -       *            *)            *      *             *      *             *     6)
+bn/ctv/01/ctv_0102   0    7    巧遇    VV            (VP*   -   01   -   -       *          (V*)            *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0    8    中国    NR     (NP(DNP(NP*   -    -   -   -    (GPE)      (ARG1*             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0    9    边防    NN               *   -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   10    总队    NN               *)  -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   11     的   DEG               *)  -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   12     一    CD            (QP*   -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   13     批     M          (CLP*))  -    -   2   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   14    官兵    NN         (NP*))))  -    -   -   -       *            *)            *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   15     ，    PU               *   -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   16    大家    PN         (IP(NP*)  -    -   -   -       *            *        (ARG0*)     *             *      *             *     -
+bn/ctv/01/ctv_0102   0   17     都    AD       (VP(ADVP*)  -    -   -   -       *            *    (ARGM-ADV*)     *             *      *             *     -
+bn/ctv/01/ctv_0102   0   18     快    AD          (ADVP*)  -    -   2   -       *            *    (ARGM-ADV*)     *             *      *             *     -
+bn/ctv/01/ctv_0102   0   19     就    AD          (ADVP*)  -    -   5   -       *            *    (ARGM-ADV*)     *             *      *             *     -
+bn/ctv/01/ctv_0102   0   20    彼此    AD          (ADVP*)  -    -   -   -       *            *    (ARGM-ADV*)     *             *      *             *     -
+bn/ctv/01/ctv_0102   0   21    攀谈    VV        (VP(VRD*   -   01   -   -       *            *           (V*)     *             *      *             *     -
+bn/ctv/01/ctv_0102   0   22    起来    VV            *))))  -   01   -   -       *            *             *    (V*)            *      *             *     -
+bn/ctv/01/ctv_0102   0   23     ，    PU               *   -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   24    有的    PN         (IP(NP*)  -    -   -   -       *            *             *      *        (ARG0*)     *        (ARG0*)    -
+bn/ctv/01/ctv_0102   0   25     还    AD       (VP(ADVP*)  -    -   -   -       *            *             *      *    (ARGM-ADV*)     *    (ARGM-DIS*)    -
+bn/ctv/01/ctv_0102   0   26     互    AD          (ADVP*)  -    -   -   -       *            *             *      *    (ARGM-ADV*)     *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0102   0   27     置    VV         (VP(VP*   -   01   -   -       *            *             *      *           (V*)     *             *     -
+bn/ctv/01/ctv_0102   0   28    问候    NN           (NP*))  -    -   -   -       *            *             *      *        (ARG1*)     *             *     -
+bn/ctv/01/ctv_0102   0   29     ，    PU               *   -    -   -   -       *            *             *      *             *      *             *     -
+bn/ctv/01/ctv_0102   0   30    一起    AD       (VP(ADVP*)  -    -   -   -       *            *             *      *             *      *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0102   0   31    合影    VV        (VP(VSB*   -   01   -   -       *            *             *      *             *    (V*)            *     -
+bn/ctv/01/ctv_0102   0   32    留念    VV          *))))))  -   01   -   -       *            *             *      *             *      *           (V*)    -
+bn/ctv/01/ctv_0102   0   33     。    PU              *))  -    -   -   -       *            *             *      *             *      *             *     -
+
+bn/ctv/01/ctv_0102   0    0       广州    NR            (TOP(IP(NP(NP*)  -    -   -   -       (GPE)  (ARG0*             *    (0|(5)
+bn/ctv/01/ctv_0102   0    1       黄浦    NR                      (NP*   -    -   -   -      (ORG*        *             *        -
+bn/ctv/01/ctv_0102   0    2       军校    NN                        *))  -    -   -   -          *)       *)            *        0)
+bn/ctv/01/ctv_0102   0    3        是    VC                      (VP*   -   01   1   -          *      (V*)            *        -
+bn/ctv/01/ctv_0102   0    4    １９４２年    NT       (NP(CP(CP(IP(VP(NP*)  -    -   -   -      (DATE)  (ARG1*    (ARGM-TMP*)       -
+bn/ctv/01/ctv_0102   0    5        由     P                      (PP*   -    -   -   -          *        *        (ARG0*        -
+bn/ctv/01/ctv_0102   0    6      孙中山    NR                      (NP*   -    -   -   -    (PERSON)       *             *      (11
+bn/ctv/01/ctv_0102   0    7       先生    NN                        *))  -    -   -   -          *        *             *)      11)
+bn/ctv/01/ctv_0102   0    8        在     P                      (PP*   -    -   2   -          *        *    (ARGM-MNR*        -
+bn/ctv/01/ctv_0102   0    9        前    JJ   (LCP(NP(DNP(NP(NP(ADJP*)  -    -   -   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   10       苏联    NR                     (NP*))  -    -   -   -       (GPE)       *             *        -
+bn/ctv/01/ctv_0102   0   11        和    CC                         *   -    -   -   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   12       中国    NR                      (NP*   -    -   -   -      (ORG*        *             *        -
+bn/ctv/01/ctv_0102   0   13      共产党    NN                        *))  -    -   -   -          *)       *             *        -
+bn/ctv/01/ctv_0102   0   14        的   DEG                         *)  -    -   -   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   15       帮助    NN                     (NP*))  -    -   2   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   16        下    LC                        *))  -    -   1   -          *        *             *)       -
+bn/ctv/01/ctv_0102   0   17       创办    VV                    (VP*)))  -   01   -   -          *        *           (V*)       -
+bn/ctv/01/ctv_0102   0   18        的   DEC                        *))  -    -   -   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   19       新型    JJ                    (ADJP*)  -    -   -   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   20       军事    NN                      (NP*   -    -   -   -          *        *        (ARG1*        -
+bn/ctv/01/ctv_0102   0   21       政治    NN                         *   -    -   -   -          *        *             *        -
+bn/ctv/01/ctv_0102   0   22       学校    NN                       *)))  -    -   -   -          *        *)            *)       -
+bn/ctv/01/ctv_0102   0   23        。    PU                        *))  -    -   -   -          *        *             *        -
+
+bn/ctv/01/ctv_0102   0    0     学校    NN     (TOP(IP(NP*)  -    -   -   -            *        (ARG0*)     *         *         *         *             *         *     (0)
+bn/ctv/01/ctv_0102   0    1     先后    AD       (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)     *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    2      为     P            (PP*   -    -   4   -            *    (ARGM-BNF*      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    3      国    NR         (NP(NP*   -    -   -   -         (ORG)            *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    4      共    NR               *)  -    -   4   -         (ORG)            *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    5      两    CD            (QP*)  -    -   -   -    (CARDINAL)            *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    6      党    NN          (NP*)))  -    -   -   -            *             *)     *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    7     培养    VV        (VP(VRD*   -   01   -   -            *           (V*)     *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    8      出    VV               *)  -   01   8   -            *             *    (V*)        *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0    9      了    AS               *   -    -   -   -            *             *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   10      一    CD         (NP(QP*   -    -   -   -            *        (ARG1*      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   11      大    JJ      (CLP(ADJP*)  -    -   -   -            *             *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   12      批     M         (CLP*)))  -    -   2   -            *             *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   13      为     P   (CP(IP(VP(PP*   -    -   5   -            *             *      *         *         *         *    (ARGM-PRP*         *      -
+bn/ctv/01/ctv_0102   0   14      救    VV      (IP(VP(VP*   -   01   1   -            *             *      *       (V*)        *         *             *         *      -
+bn/ctv/01/ctv_0102   0   15      民    NN           (NP*))  -    -   -   -            *             *      *    (ARG1*)        *         *             *         *      -
+bn/ctv/01/ctv_0102   0   16      救    VV            (VP*   -   01   1   -            *             *      *         *       (V*)        *             *         *      -
+bn/ctv/01/ctv_0102   0   17      民    NN           (NP*))  -    -   -   -            *             *      *         *    (ARG1*)        *             *         *      -
+bn/ctv/01/ctv_0102   0   18      、    PU               *   -    -   -   -            *             *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   19     统一    VV            (VP*   -   01   -   -            *             *      *         *         *       (V*)            *         *      -
+bn/ctv/01/ctv_0102   0   20     中国    NR        (NP*)))))  -    -   -   -         (GPE)            *      *         *         *    (ARG1*)            *)        *    (13)
+bn/ctv/01/ctv_0102   0   21     不惜    AD          (ADVP*)  -    -   -   -            *             *      *         *         *         *    (ARGM-ADV*)        *      -
+bn/ctv/01/ctv_0102   0   22     牺牲    VV         (VP*))))  -   01   -   -            *             *      *         *         *         *           (V*)        *      -
+bn/ctv/01/ctv_0102   0   23      、    PU               *   -    -   -   -            *             *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   24     战功    NN   (CP(CP(IP(NP*)  -    -   -   -            *             *      *         *         *         *             *    (ARG0*)     -
+bn/ctv/01/ctv_0102   0   25     显赫    VA           (VP*))  -   01   -   -            *             *      *         *         *         *             *       (V*)     -
+bn/ctv/01/ctv_0102   0   26      的   DEC              *))  -    -   -   -            *             *      *         *         *         *             *         *      -
+bn/ctv/01/ctv_0102   0   27    革命军    NN            (NP*   -    -   -   -            *             *      *         *         *         *        (ARG1*    (ARG0*      -
+bn/ctv/01/ctv_0102   0   28     将士    NN            *))))  -    -   -   -            *             *)     *         *         *         *             *)        *)     -
+bn/ctv/01/ctv_0102   0   29      。    PU              *))  -    -   -   -            *             *      *         *         *         *             *         *      -
+
+bn/ctv/01/ctv_0102   0    0    黄浦   NR  (TOP(IP(NP*   -    -   -   -        (ORG*        (ARG0*   (0
+bn/ctv/01/ctv_0102   0    1    军校   NN            *)  -    -   -   -            *)            *)   0)
+bn/ctv/01/ctv_0102   0    2    因此   AD    (VP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)   -
+bn/ctv/01/ctv_0102   0    3    成为   VV         (VP*   -   01   -   -            *           (V*)   -
+bn/ctv/01/ctv_0102   0    4     了   AS            *   -    -   -   -            *             *    -
+bn/ctv/01/ctv_0102   0    5    世界   NN   (NP(NP(NP*)  -    -   -   -            *        (ARG1*    -
+bn/ctv/01/ctv_0102   0    6     四   CD         (QP*)  -    -   -   -    (CARDINAL)            *    -
+bn/ctv/01/ctv_0102   0    7     大   JJ       (ADJP*)  -    -   -   -            *             *    -
+bn/ctv/01/ctv_0102   0    8    著名   JJ       (ADJP*)  -    -   -   -            *             *    -
+bn/ctv/01/ctv_0102   0    9    军校   NN        (NP*))  -    -   -   -            *             *    -
+bn/ctv/01/ctv_0102   0   10    之一   NN      (NP*))))  -    -   -   -            *             *)   -
+bn/ctv/01/ctv_0102   0   11     。   PU           *))  -    -   -   -            *             *    -
+
+bn/ctv/01/ctv_0102   0    0    今年    NT   (TOP(IP(NP(CP(CP(IP(VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)       (ARG0*    (1
+bn/ctv/01/ctv_0102   0    1    已经    AD                       (ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *     -
+bn/ctv/01/ctv_0102   0    2     是    VC                         (VP*   -   01   1   -            *           (V*)            *     -
+bn/ctv/01/ctv_0102   0    3    ７７    CD                      (NP(QP*   -    -   -   -       (DATE*        (ARG1*             *     -
+bn/ctv/01/ctv_0102   0    4     岁     M                       (CLP*))  -    -   -   -            *)            *             *     -
+bn/ctv/01/ctv_0102   0    5    高龄    NN                     (NP*)))))  -    -   -   -            *             *)            *     -
+bn/ctv/01/ctv_0102   0    6     的   DEC                           *))  -    -   -   -            *             *             *     -
+bn/ctv/01/ctv_0102   0    7    姚俊    NR                         (NP*)  -    -   -   -      (PERSON)            *             *     -
+bn/ctv/01/ctv_0102   0    8     老    JJ                       (ADJP*)  -    -   -   -            *             *             *     -
+bn/ctv/01/ctv_0102   0    9    将军    NN                        (NP*))  -    -   -   -            *        (ARG0*)            *)    1)
+bn/ctv/01/ctv_0102   0   10    曾经    AD                    (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0102   0   11     是    VC                         (VP*   -   01   1   -            *             *           (V*)    -
+bn/ctv/01/ctv_0102   0   12    黄浦    NR                      (NP(NP*)  -    -   -   -         (ORG)            *        (ARG1*    (0)
+bn/ctv/01/ctv_0102   0   13    ２０    OD                         (QP*   -    -   -   -    (CARDINAL)            *             *     -
+bn/ctv/01/ctv_0102   0   14     期     M                       (CLP*))  -    -   -   -            *             *             *     -
+bn/ctv/01/ctv_0102   0   15    学员    NN                      (NP*))))  -    -   -   -            *             *             *)    -
+bn/ctv/01/ctv_0102   0   16     。    PU                           *))  -    -   -   -            *             *             *     -
+
+bn/ctv/01/ctv_0102   0    0     半   CD  (TOP(IP(IP(NP(QP*   -    -   -   -   (DATE*   (ARG0*             *             *     -
+bn/ctv/01/ctv_0102   0    1     个    M             (CLP*))  -    -   -   -        *        *             *             *     -
+bn/ctv/01/ctv_0102   0    2    世纪   NN              (NP*))  -    -   -   -        *)       *)            *             *     -
+bn/ctv/01/ctv_0102   0    3    过去   VV               (VP*   -   01   -   -        *      (V*)            *             *     -
+bn/ctv/01/ctv_0102   0    4     了   AS                 *))  -    -   -   -        *        *             *             *     -
+bn/ctv/01/ctv_0102   0    5     ，   PU                  *   -    -   -   -        *        *             *             *     -
+bn/ctv/01/ctv_0102   0    6    如今   AD       (IP(VP(ADVP*)  -    -   -   -        *        *    (ARGM-TMP*)   (ARGM-TMP*)    -
+bn/ctv/01/ctv_0102   0    7    重返   VV            (VP(VP*   -   01   -   -        *        *           (V*)            *     -
+bn/ctv/01/ctv_0102   0    8    母校   NN              (NP*))  -    -   -   -        *        *        (ARG1*)            *    (0)
+bn/ctv/01/ctv_0102   0    9    不禁   AD          (VP(ADVP*)  -    -   -   -        *        *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0102   0   10    感慨   VV               (VP*   -   01   -   -        *        *             *           (V*)    -
+bn/ctv/01/ctv_0102   0   11    万分   AD        (ADVP*))))))  -    -   -   -        *        *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0102   0   12     。   PU                 *))  -    -   -   -        *        *             *             *     -
+
+bn/ctv/01/ctv_0102   0    0     “    PU        (TOP(IP*   -    -   -   -   *             *      *             *     -
+bn/ctv/01/ctv_0102   0    1     我    PN            (NP*)  -    -   -   -   *        (ARG0*)     *             *    (1)
+bn/ctv/01/ctv_0102   0    2     又    AD       (VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)     *             *     -
+bn/ctv/01/ctv_0102   0    3    回想    VV        (VP(VRD*   -   01   -   -   *           (V*)     *             *     -
+bn/ctv/01/ctv_0102   0    4     到    VV               *)  -   01   4   -   *             *    (V*)            *     -
+bn/ctv/01/ctv_0102   0    5    当初    NT      (NP(NP(NP*)  -    -   -   -   *        (ARG1*      *             *     -
+bn/ctv/01/ctv_0102   0    6     我    PN   (CP(CP(IP(NP*)  -    -   -   -   *             *      *        (ARG0*)   (1)
+bn/ctv/01/ctv_0102   0    7     在    VV         (VP(VP*   -   01   2   -   *             *      *           (V*)    -
+bn/ctv/01/ctv_0102   0    8    学校    NN         (NP*))))  -    -   -   -   *             *      *        (ARG1*)   (0)
+bn/ctv/01/ctv_0102   0    9     的   DEC              *))  -    -   -   -   *             *      *             *     -
+bn/ctv/01/ctv_0102   0   10    时候    NN           (NP*))  -    -   -   -   *             *      *    (ARGM-TMP*)    -
+bn/ctv/01/ctv_0102   0   11     ，    PU               *   -    -   -   -   *             *      *             *     -
+bn/ctv/01/ctv_0102   0   12    那个    DT         (NP(DP*)  -    -   -   -   *             *      *             *     -
+bn/ctv/01/ctv_0102   0   13    状况    NN        (NP*)))))  -    -   -   -   *             *)     *             *     -
+bn/ctv/01/ctv_0102   0   14     。    PU              *))  -    -   -   -   *             *      *             *     -
+
+bn/ctv/01/ctv_0102   0    0    我们    PN         (TOP(IP(IP(NP*)  -    -   -   -        *      *    (ARG0*)   (ARG0*)            *       (14)
+bn/ctv/01/ctv_0102   0    1    当初    NT         (VP(NP(DNP(NP*)  -    -   -   -        *      *         *         *             *       (15
+bn/ctv/01/ctv_0102   0    2     的   DEG                      *)  -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0    3    时候    NN                  (NP*))  -    -   -   -        *      *         *         *             *        15)
+bn/ctv/01/ctv_0102   0    4     ，    PU                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0    5    抗战    NR            (NP(DNP(NP*)  -    -   -   -        *      *         *         *             *    (15|(7)
+bn/ctv/01/ctv_0102   0    6     的   DEG                      *)  -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0    7    时候    NN                 (NP*)))  -    -   -   -        *      *         *         *             *        15)
+bn/ctv/01/ctv_0102   0    8     ，    PU                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0    9     是    VC                   (VP*   -   01   2   -        *    (V*)        *         *             *         -
+bn/ctv/01/ctv_0102   0   10     穿    VV                (VP(VP*   -   01   1   -        *      *       (V*)        *             *         -
+bn/ctv/01/ctv_0102   0   11    草鞋    NN                  (NP*))  -    -   -   -        *      *    (ARG1*)        *             *         -
+bn/ctv/01/ctv_0102   0   12     ，    PU                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   13     穿    VV                   (VP*   -   01   1   -        *      *         *       (V*)            *         -
+bn/ctv/01/ctv_0102   0   14     着    AS                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   15     破    JJ              (NP(ADJP*)  -    -   2   -        *      *         *    (ARG1*             *         -
+bn/ctv/01/ctv_0102   0   16    衣服    NN              (NP*))))))  -    -   -   -        *      *         *         *)            *         -
+bn/ctv/01/ctv_0102   0   17     ，    PU                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   18    我们    PN                (IP(NP*)  -    -   -   -        *      *         *         *        (ARG0*)      (14)
+bn/ctv/01/ctv_0102   0   19     八    CD  (VP(NP(DNP(NP(DNP(QP*   -    -   -   -   (DATE*      *         *         *    (ARGM-PRP*        (7
+bn/ctv/01/ctv_0102   0   20     年     M                 (CLP*))  -    -   -   -        *)     *         *         *             *         -
+bn/ctv/01/ctv_0102   0   21     的   DEG                      *)  -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   22    抗战    NR                  (NP*))  -    -   -   -        *      *         *         *             *         7)
+bn/ctv/01/ctv_0102   0   23     的   DEG                      *)  -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   24    胜利    NN                  (NP*))  -    -   -   -        *      *         *         *             *)        -
+bn/ctv/01/ctv_0102   0   25     ，    PU                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   26     才    AD                 (ADVP*)  -    -   -   -        *      *         *         *    (ARGM-ADV*)        -
+bn/ctv/01/ctv_0102   0   27     有    VE                   (VP*   -   01   3   -        *      *         *         *           (V*)        -
+bn/ctv/01/ctv_0102   0   28    我们    PN                (NP(NP*)  -    -   -   -        *      *         *         *        (ARG1*       (14)
+bn/ctv/01/ctv_0102   0   29    今天    NT               (NP*)))))  -    -   -   -        *      *         *         *             *)        -
+bn/ctv/01/ctv_0102   0   30     。    PU                      *   -    -   -   -        *      *         *         *             *         -
+bn/ctv/01/ctv_0102   0   31     ”    PU                     *))  -    -   -   -        *      *         *         *             *         -
+
+bn/ctv/01/ctv_0102   0    0     老    JJ   (TOP(IP(IP(NP(ADJP*)  -    -   -   -       *      *       (ARG0*         *         *     (6
+bn/ctv/01/ctv_0102   0    1    将军    NN                 (NP*))  -    -   -   -       *      *            *)        *         *      6)
+bn/ctv/01/ctv_0102   0    2     在     P               (VP(PP*   -    -   2   -       *      *   (ARGM-LOC*         *         *      -
+bn/ctv/01/ctv_0102   0    3    军校    NN              (LCP(NP*)  -    -   -   -       *      *            *         *         *     (0)
+bn/ctv/01/ctv_0102   0    4     里    LC                    *))  -    -   -   -       *      *            *)        *         *      -
+bn/ctv/01/ctv_0102   0    5    仔细    VA              (DVP(VP*)  -   01   -   -       *    (V*)  (ARGM-ADV*         *         *      -
+bn/ctv/01/ctv_0102   0    6     地   DEV                     *)  -    -   -   -       *      *            *)        *         *      -
+bn/ctv/01/ctv_0102   0    7    观看    VV                  (VP*   -   01   -   -       *      *          (V*)        *         *      -
+bn/ctv/01/ctv_0102   0    8     了    AS                     *   -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0    9    当年    NT           (NP(DNP(NP*   -    -   -   -       *      *       (ARG1*         *         *      -
+bn/ctv/01/ctv_0102   0   10    母校    NN                     *)  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   11     的   DEG                     *)  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   12    图片    NN                  (NP*   -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   13    资料    NN                 *)))))  -    -   -   -       *      *            *)        *         *      -
+bn/ctv/01/ctv_0102   0   14     、    PU                     *   -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   15    学校    NN     (IP(NP(NP(DNP(NP*)  -    -   -   -       *      *            *         *         *     (0)
+bn/ctv/01/ctv_0102   0   16     的   DEG                     *)  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   17    校训    NN                 (NP*))  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   18     、    PU                     *   -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   19     救    VV      (NP(CP(IP(VP(VP*   -   01   1   -       *      *            *       (V*)        *      -
+bn/ctv/01/ctv_0102   0   20    中国    NR                 (NP*))  -    -   -   -    (GPE)     *            *    (ARG1*)        *    (13)
+bn/ctv/01/ctv_0102   0   21     求    VV                  (VP*   -   01   1   -       *      *            *         *       (V*)     -
+bn/ctv/01/ctv_0102   0   22    统一    NN               (NP*))))  -    -   -   -       *      *            *         *    (ARG1*)     -
+bn/ctv/01/ctv_0102   0   23     的   DEC                     *)  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   24    黄浦    NR                  (NP*)  -    -   -   -    (ORG)     *            *         *         *     (0)
+bn/ctv/01/ctv_0102   0   25    精神    NN                (NP*)))  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   26     又    AD             (VP(ADVP*)  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   27    闪现    VV                  (VP*   -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   28     在     P                  (PP*   -    -   2   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   29    他们    PN           (NP(DNP(NP*)  -    -   -   -       *      *            *         *         *     (6)
+bn/ctv/01/ctv_0102   0   30     的   DEG                     *)  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   31    眼前    NN             (NP*))))))  -    -   -   -       *      *            *         *         *      -
+bn/ctv/01/ctv_0102   0   32     。    PU                    *))  -    -   -   -       *      *            *         *         *      -
+
+bn/ctv/01/ctv_0102   0    0      “    PU         (TOP(IP*   -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    1      想    VV       (IP(IP(VP*   -   01   5   -            *       (V*)  (ARGM-ADV*      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    2     当初    NT           (NP*)))  -    -   -   -            *    (ARG1*)           *)     *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    3     黄浦    NR          (NP(NP*)  -    -   -   -         (ORG)        *       (ARG0*      *      *        *         *         *         *         *       (0)
+bn/ctv/01/ctv_0102   0    4     精神    NN            (NP*))  -    -   -   -            *         *            *)     *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    5      要    VV             (VP*   -   04   2   -            *         *          (V*)     *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    6     大家    PN             (NP*)  -    -   -   -            *         *       (ARG1*)     *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    7     团结    VV   (IP(VP(VP(VCD*   -   02   2   -            *         *       (ARG2*    (V*)     *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    8     一致    VV               *))  -   01   -   -            *         *            *      *    (V*)       *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0    9      ，    PU                *   -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   10     完成    VV             (VP*   -   01   -   -            *         *            *      *      *      (V*)        *         *         *         *        -
+bn/ctv/01/ctv_0102   0   11    孙中山    NR          (NP(NP*   -    -   -   -      (PERSON)        *            *      *      *   (ARG1*         *         *         *         *   (8|(11
+bn/ctv/01/ctv_0102   0   12     先生    NN                *)  -    -   -   -            *         *            *      *      *        *         *         *         *         *       11)
+bn/ctv/01/ctv_0102   0   13     统一    VV       (CP(IP(VP*   -   01   -   -            *         *            *      *      *        *       (V*)        *         *         *        -
+bn/ctv/01/ctv_0102   0   14     中国    NR           (NP*)))  -    -   -   -         (GPE)        *            *      *      *        *    (ARG1*)        *         *         *      (13)
+bn/ctv/01/ctv_0102   0   15      的   DEC                *)  -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   16     愿望    NN       (NP*)))))))  -    -   -   -            *         *            *)     *      *        *)        *         *         *         *        8)
+bn/ctv/01/ctv_0102   0   17      ，    PU                *   -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   18      这    PN          (IP(NP*)  -    -   -   -            *         *            *      *      *        *         *    (ARG1*)        *         *       (8)
+bn/ctv/01/ctv_0102   0   19      落    VV             (VP*   -   01   -   -            *         *            *      *      *        *         *       (V*)        *         *        -
+bn/ctv/01/ctv_0102   0   20      在     P             (PP*   -    -   2   -            *         *            *      *      *        *         *    (ARG2*         *         *        -
+bn/ctv/01/ctv_0102   0   21     我们    PN   (NP(DNP(NP(NP*)  -    -   -   -            *         *            *      *      *        *         *         *         *         *       (9
+bn/ctv/01/ctv_0102   0   22     这些    DT             (DP*)  -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   23      人    NN            (NP*))  -    -   -   -            *         *            *      *      *        *         *         *         *         *        9)
+bn/ctv/01/ctv_0102   0   24      的   DEG                *)  -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   25     肩上    NN         (NP*)))))  -    -   -   -            *         *            *      *      *        *         *         *)        *         *        -
+bn/ctv/01/ctv_0102   0   26      ，    PU                *   -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   27     我们    PN          (IP(NP*)  -    -   -   -            *         *            *      *      *        *         *         *    (ARG0*)   (ARG0*)      (9)
+bn/ctv/01/ctv_0102   0   28      有    VE          (VP(VP*   -   01   1   -            *         *            *      *      *        *         *         *       (V*)        *        -
+bn/ctv/01/ctv_0102   0   29     义务    NN            (NP*))  -    -   -   -            *         *            *      *      *        *         *         *    (ARG1*)        *        -
+bn/ctv/01/ctv_0102   0   30     促进    VV             (VP*   -   01   -   -            *         *            *      *      *        *         *         *         *       (V*)       -
+bn/ctv/01/ctv_0102   0   31      两    CD   (NP(DNP(NP(QP*)  -    -   -   -    (CARDINAL)        *            *      *      *        *         *         *         *    (ARG1*       (2
+bn/ctv/01/ctv_0102   0   32      岸    NN            (NP*))  -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   33      的   DEG                *)  -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   34     和平    NN             (NP*   -    -   1   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   35     统一    NN            *)))))  -    -   -   -            *         *            *      *      *        *         *         *         *         *)       2)
+bn/ctv/01/ctv_0102   0   36      。    PU                *   -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+bn/ctv/01/ctv_0102   0   37      ”    PU               *))  -    -   -   -            *         *            *      *      *        *         *         *         *         *        -
+
+bn/ctv/01/ctv_0102   0    0       在     P   (TOP(IP(IP(VP(PP*   -    -   2   -          *   (ARGM-LOC*    (ARGM-TMP*      *         *         -
+bn/ctv/01/ctv_0102   0    1     孙中山    NR         (LCP(NP(NP*   -    -   -   -    (PERSON)           *             *      *         *   (11|(16
+bn/ctv/01/ctv_0102   0    2      先生    NN                   *)  -    -   -   -          *            *             *      *         *        11)
+bn/ctv/01/ctv_0102   0    3      故居    NN               (NP*))  -    -   -   -          *            *             *      *         *        16)
+bn/ctv/01/ctv_0102   0    4       前    LC                  *))  -    -   -   -          *            *)            *      *         *         -
+bn/ctv/01/ctv_0102   0    5       ，    PU                   *   -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0    6      缅怀    VV             (VP(VP*   -   01   -   -          *          (V*)            *      *         *         -
+bn/ctv/01/ctv_0102   0    7      先辈    NN               (NP*))  -    -   -   -          *       (ARG1*)            *      *         *         -
+bn/ctv/01/ctv_0102   0    8       ，    PU                   *   -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0    9      重温    VV                (VP*   -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   10      总理    NN         (NP(DNP(NP*)  -    -   -   -          *            *             *      *         *       (11)
+bn/ctv/01/ctv_0102   0   11       的   DEG                   *)  -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   12      教诲    NN           (NP*))))))  -    -   -   -          *            *             *)     *         *         -
+bn/ctv/01/ctv_0102   0   13       ，    PU                   *   -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   14    戎马一生    VV   (NP(CP(CP(IP(VP*))  -    -   -   -          *            *        (ARG0*      *         *        (6
+bn/ctv/01/ctv_0102   0   15       的   DEC                  *))  -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   16       老    JJ              (ADJP*)  -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   17     将军们    NN               (NP*))  -    -   -   -          *            *             *)     *         *         6)
+bn/ctv/01/ctv_0102   0   18      齐声    AD           (VP(ADVP*)  -    -   -   -          *            *    (ARGM-ADV*)     *         *         -
+bn/ctv/01/ctv_0102   0   19       唱    VV            (VP(VRD*   -   01   -   -          *            *           (V*)     *         *         -
+bn/ctv/01/ctv_0102   0   20       起    VV                   *)  -   01   6   -          *            *             *    (V*)        *         -
+bn/ctv/01/ctv_0102   0   21       了    AS                   *   -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   22      激昂    VA   (NP(CP(CP(IP(VP*))  -   01   -   -          *            *        (ARG1*      *       (V*)        -
+bn/ctv/01/ctv_0102   0   23       的   DEC                  *))  -    -   -   -          *            *             *      *         *         -
+bn/ctv/01/ctv_0102   0   24      校歌    NN             (NP*))))  -    -   -   -          *            *             *)     *    (ARG1*)        -
+bn/ctv/01/ctv_0102   0   25       。    PU                  *))  -    -   -   -          *            *             *      *         *         -
+
+bn/ctv/01/ctv_0102   0    0    秋卫刚    NR     (TOP(IP(NP*   -    -   -   -    (PERSON)  (ARG2*         *            *     -
+bn/ctv/01/ctv_0102   0    1     将军    NN               *)  -    -   -   -          *        *)        *            *     -
+bn/ctv/01/ctv_0102   0    2      说    VV            (VP*   -   01   7   -          *      (V*)        *            *     -
+bn/ctv/01/ctv_0102   0    3      ，    PU               *   -    -   -   -          *        *         *            *     -
+bn/ctv/01/ctv_0102   0    4     作为     P         (IP(PP*   -    -   -   -          *   (ARG1*         *   (ARGM-ADV*     -
+bn/ctv/01/ctv_0102   0    5     黄浦    NR         (NP(NP*)  -    -   -   -       (ORG)       *         *            *    (0)
+bn/ctv/01/ctv_0102   0    6     军人    NN          (NP*)))  -    -   -   -          *        *         *            *)    -
+bn/ctv/01/ctv_0102   0    7      爱    VV         (IP(VP*   -   01   1   -          *        *       (V*)      (ARG0*     -
+bn/ctv/01/ctv_0102   0    8     国家    NN          (NP*)))  -    -   -   -          *        *    (ARG1*)           *)    -
+bn/ctv/01/ctv_0102   0    9      是    VC            (VP*   -   01   1   -          *        *         *          (V*)    -
+bn/ctv/01/ctv_0102   0   10     首要    JJ   (NP(DNP(ADJP*)  -    -   -   -          *        *         *       (ARG1*     -
+bn/ctv/01/ctv_0102   0   11      的   DEG               *)  -    -   -   -          *        *         *            *     -
+bn/ctv/01/ctv_0102   0   12     责任    NN        (NP*)))))  -    -   -   -          *        *)        *            *)    -
+bn/ctv/01/ctv_0102   0   13      。    PU              *))  -    -   -   -          *        *         *            *     -
+
+bn/ctv/01/ctv_0102   0    0     “    PU         (TOP(IP*   -    -   -   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0    1    我们    PN          (IP(NP*)  -    -   -   -       *    (ARG1*)     *      *            *       (12)
+bn/ctv/01/ctv_0102   0    2     要    VV             (VP*   -    -   3   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0    3    团结    VV           (VP*)))  -   02   2   -       *       (V*)     *      *            *         -
+bn/ctv/01/ctv_0102   0    4     ，    PU                *   -    -   -   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0    5    我们    PN          (IP(NP*)  -    -   -   -       *         *      *      *       (ARG0*)      (12)
+bn/ctv/01/ctv_0102   0    6     要    VV             (VP*   -    -   3   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0    7    团结    VV  (VP(DVP(VP(VCD*   -   01   2   -       *         *    (V*)     *   (ARGM-ADV*         -
+bn/ctv/01/ctv_0102   0    8    努力    VV               *))  -   01   -   -       *         *      *    (V*)           *         -
+bn/ctv/01/ctv_0102   0    9     的   DEV                *)  -    -   -   -       *         *      *      *            *)        -
+bn/ctv/01/ctv_0102   0   10     为     P             (PP*   -    -   5   -       *         *      *      *       (ARG1*         -
+bn/ctv/01/ctv_0102   0   11    中国    NR      (NP(DNP(NP*)  -    -   -   -    (GPE)        *      *      *            *    (2|(13)
+bn/ctv/01/ctv_0102   0   12     的   DEG                *)  -    -   -   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0   13    和平    NN             (NP*   -    -   1   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0   14    统一    NN              *)))  -    -   -   -       *         *      *      *            *)        2)
+bn/ctv/01/ctv_0102   0   15     而   MSP             (VP*   -    -   -   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0   16    奋斗    VV         (VP*)))))  -   01   -   -       *         *      *      *          (V*)        -
+bn/ctv/01/ctv_0102   0   17     。    PU                *   -    -   -   -       *         *      *      *            *         -
+bn/ctv/01/ctv_0102   0   18     ”    PU               *))  -    -   -   -       *         *      *      *            *         -
+
+bn/ctv/01/ctv_0102   0    0      在    P      (TOP(IP(PP*   -    -   2   -       *   (ARGM-LOC*        -
+bn/ctv/01/ctv_0102   0    1     东征   NN   (LCP(NP(NP(NP*)  -    -   -   -       *            *       (4
+bn/ctv/01/ctv_0102   0    2     阵亡   JJ           (ADJP*)  -    -   -   -       *            *        -
+bn/ctv/01/ctv_0102   0    3     烈士   NN            (NP*))  -    -   -   -       *            *        4)
+bn/ctv/01/ctv_0102   0    4      墓   NN            (NP*))  -    -   -   -       *            *        -
+bn/ctv/01/ctv_0102   0    5      前   LC               *))  -    -   -   -       *            *)       -
+bn/ctv/01/ctv_0102   0    6      ，   PU                *   -    -   -   -       *            *        -
+bn/ctv/01/ctv_0102   0    7      老   JJ        (NP(ADJP*)  -    -   -   -       *       (ARG0*       (6
+bn/ctv/01/ctv_0102   0    8     将军   NN            (NP*))  -    -   -   -       *            *)       6)
+bn/ctv/01/ctv_0102   0    9      向    P          (VP(PP*   -    -   -   -       *       (ARG1*        -
+bn/ctv/01/ctv_0102   0   10     黄浦   NR          (NP(NP*)  -    -   -   -    (ORG)           *    (4|(0)
+bn/ctv/01/ctv_0102   0   11    先烈们   NN           (NP*)))  -    -   -   -       *            *)       4)
+bn/ctv/01/ctv_0102   0   12     鞠躬   VV         (VP(VSB*   -    -   -   -       *            *        -
+bn/ctv/01/ctv_0102   0   13     致意   VV              *)))  -   01   -   -       *          (V*)       -
+bn/ctv/01/ctv_0102   0   14      。   PU               *))  -    -   -   -       *            *        -
+
+bn/ctv/01/ctv_0102   0    0      参观   NN   (TOP(IP(LCP(IP(NP*)  -    -   -   -       *    (ARG1*)   -
+bn/ctv/01/ctv_0102   0    1      结束   VV                (VP*))  -   01   -   -       *       (V*)   -
+bn/ctv/01/ctv_0102   0    2       后   LC                    *)  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0    3       ，   PU                    *   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0    4       老   JJ            (NP(ADJP*)  -    -   -   -       *         *   (6
+bn/ctv/01/ctv_0102   0    5     将军们   NN                (NP*))  -    -   -   -       *         *    6)
+bn/ctv/01/ctv_0102   0    6    意犹未尽   VV              (VP(VP*)  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0    7       ，   PU                    *   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0    8       在    P              (VP(PP*   -    -   2   -       *         *    -
+bn/ctv/01/ctv_0102   0    9      当年   NT          (LCP(NP(NP*)  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   10      黄浦   NR                 (NP*   -    -   -   -   (FAC*         *    -
+bn/ctv/01/ctv_0102   0   11      军人   NN                    *   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   12     俱乐部   NN                   *))  -    -   -   -       *)        *    -
+bn/ctv/01/ctv_0102   0   13       里   LC                   *))  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   14       又   AD               (ADVP*)  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   15      重温   VV                 (VP*   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   16       了   AS                    *   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   17       一   CD              (NP(QP*   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   18       顿    M               (CLP*))  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   19      连队   NN                 (NP*   -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   20       餐   NN                *)))))  -    -   -   -       *         *    -
+bn/ctv/01/ctv_0102   0   21       。   PU                   *))  -    -   -   -       *         *    -
+
+bn/ctv/01/ctv_0102   0   0    中央台   NR  (TOP(IP(NP(NP*   -    -   -   -    (ORG)  (ARG0*   -
+bn/ctv/01/ctv_0102   0   1      和   CC               *   -    -   -   -       *        *   -
+bn/ctv/01/ctv_0102   0   2    广东台   NR               *)  -    -   -   -    (ORG)       *   -
+bn/ctv/01/ctv_0102   0   3     记者   NN           (NP*))  -    -   -   -       *        *)  -
+bn/ctv/01/ctv_0102   0   4     报道   VV            (VP*)  -   01   -   -       *      (V*)  -
+bn/ctv/01/ctv_0102   0   5      。   PU              *))  -    -   -   -       *        *   -
+
+#end document

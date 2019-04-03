@@ -1,0 +1,91 @@
+#begin document (bn/ctv/00/ctv_0075); part 000
+bn/ctv/00/ctv_0075   0    0      近日   NT   (TOP(IP(IP(NP*)  -    -   -   -    (DATE)   (ARGM-TMP*)        *         *     -
+bn/ctv/00/ctv_0075   0    1    委内瑞拉   NR          (NP(NP*)  -    -   -   -     (GPE)   (ARGM-LOC*         *         *    (0)
+bn/ctv/00/ctv_0075   0    2     西北部   NN            (NP*))  -    -   -   -        *             *)        *         *     -
+bn/ctv/00/ctv_0075   0    3       连   AD        (VP(ADVP*)  -    -   -   -        *    (ARGM-ADV*)        *         *     -
+bn/ctv/00/ctv_0075   0    4       降   VV             (VP*   -   02   -   -        *           (V*)        *         *     -
+bn/ctv/00/ctv_0075   0    5      暴雨   NN          (NP*))))  -    -   -   -        *        (ARG0*)        *         *     -
+bn/ctv/00/ctv_0075   0    6       ，   PU                *   -    -   -   -        *             *         *         *     -
+bn/ctv/00/ctv_0075   0    7      江河   NN          (IP(NP*)  -    -   -   -        *             *    (ARG0*)   (ARG0*)    -
+bn/ctv/00/ctv_0075   0    8      泛滥   VV          (VP(VP*)  -   01   -   -        *             *       (V*)        *     -
+bn/ctv/00/ctv_0075   0    9       并   CC                *   -    -   -   -        *             *         *         *     -
+bn/ctv/00/ctv_0075   0   10      导致   VV             (VP*   -   01   -   -        *             *         *       (V*)    -
+bn/ctv/00/ctv_0075   0   11      山崩   NN          (NP*))))  -    -   -   -        *             *         *    (ARG1*)    -
+bn/ctv/00/ctv_0075   0   12       。   PU               *))  -    -   -   -        *             *         *         *     -
+
+bn/ctv/00/ctv_0075   0   0      造成   VV       (TOP(IP(VP*   -   01   -   -            *      (V*)       *        *   -
+bn/ctv/00/ctv_0075   0   1      至少   AD   (IP(IP(NP(ADVP*)  -    -   -   -            *   (ARG1*   (ARG1*        *   -
+bn/ctv/00/ctv_0075   0   2       ３   CD           (NP(QP*)  -    -   -   -    (CARDINAL)       *        *        *   -
+bn/ctv/00/ctv_0075   0   3       人   NN        (NP(NP*))))  -    -   -   -            *        *        *)       *   -
+bn/ctv/00/ctv_0075   0   4      死亡   VV             (VP*))  -   01   -   -            *        *      (V*)       *   -
+bn/ctv/00/ctv_0075   0   5       ，   PU                 *   -    -   -   -            *        *        *        *   -
+bn/ctv/00/ctv_0075   0   6    ２４００   CD        (IP(NP(QP*)  -    -   -   -    (CARDINAL)       *        *   (ARG0*   -
+bn/ctv/00/ctv_0075   0   7       人   NN             (NP*))  -    -   -   -            *        *        *        *)  -
+bn/ctv/00/ctv_0075   0   8    无家可归   VV           (VP*))))  -   01   -   -            *        *)       *      (V*)  -
+bn/ctv/00/ctv_0075   0   9       。   PU                *))  -    -   -   -            *        *        *        *   -
+
+bn/ctv/00/ctv_0075   0    0     总统   NN   (TOP(IP(NP(NP*)  -    -   -   -            *        (ARG0*        *   -
+bn/ctv/00/ctv_0075   0    1    查维斯   NR            (NP*))  -    -   -   -      (PERSON)            *)       *   -
+bn/ctv/00/ctv_0075   0    2     已经   AD        (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)       *   -
+bn/ctv/00/ctv_0075   0    3      在    P             (PP*   -    -   2   -            *    (ARGM-LOC*        *   -
+bn/ctv/00/ctv_0075   0    4     １０   CD          (NP(QP*   -    -   -   -    (CARDINAL)            *        *   -
+bn/ctv/00/ctv_0075   0    5      个    M           (CLP*))  -    -   -   -            *             *        *   -
+bn/ctv/00/ctv_0075   0    6      州   NN           (NP*)))  -    -   -   -            *             *)       *   -
+bn/ctv/00/ctv_0075   0    7     宣布   VV             (VP*   -   01   -   -            *           (V*)       *   -
+bn/ctv/00/ctv_0075   0    8     实行   VV          (IP(VP*   -   01   -   -            *        (ARG1*      (V*)  -
+bn/ctv/00/ctv_0075   0    9     紧急   JJ        (NP(ADJP*)  -    -   -   -            *             *   (ARG1*   -
+bn/ctv/00/ctv_0075   0   10     状态   NN        (NP*))))))  -    -   -   -            *             *)       *)  -
+bn/ctv/00/ctv_0075   0   11      。   PU               *))  -    -   -   -            *             *        *   -
+
+bn/ctv/00/ctv_0075   0    0      为了    P  (TOP(IP(PP*   -    -   -   -            *    (ARGM-PRP*    -
+bn/ctv/00/ctv_0075   0    1      安全   NN     (LCP(NP*)  -    -   1   -            *             *    -
+bn/ctv/00/ctv_0075   0    2      起见   LC           *))  -    -   -   -            *             *)   -
+bn/ctv/00/ctv_0075   0    3       ，   PU            *   -    -   -   -            *             *    -
+bn/ctv/00/ctv_0075   0    4       全   DT      (NP(DP*)  -    -   2   -            *        (ARG0*   (0
+bn/ctv/00/ctv_0075   0    5       国   NN        (NP*))  -    -   -   -            *             *)   0)
+bn/ctv/00/ctv_0075   0    6      大约   AD    (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)   -
+bn/ctv/00/ctv_0075   0    7       有   VE         (VP*   -   05   4   -            *           (V*)   -
+bn/ctv/00/ctv_0075   0    8    ６０００   CD   (IP(NP(QP*)  -    -   -   -    (CARDINAL)       (ARG1*    -
+bn/ctv/00/ctv_0075   0    9       人   NN        (NP*))  -    -   -   -            *             *    -
+bn/ctv/00/ctv_0075   0   10       从    P      (VP(PP*   -    -   -   -            *             *    -
+bn/ctv/00/ctv_0075   0   11      家中   NN        (NP*))  -    -   -   -            *             *    -
+bn/ctv/00/ctv_0075   0   12      疏散   VV     (VP*)))))  -    -   -   -            *             *)   -
+bn/ctv/00/ctv_0075   0   13       。   PU           *))  -    -   -   -            *             *    -
+
+bn/ctv/00/ctv_0075   0    0       政府    NN         (TOP(IP(NP*)  -    -   -   -         *        (ARG0*)       (ARG0*)        *        (ARG0*)  -
+bn/ctv/00/ctv_0075   0    1        将    AD           (VP(ADVP*)  -    -   -   -         *    (ARGM-ADV*)   (ARGM-ADV*)        *    (ARGM-ADV*)  -
+bn/ctv/00/ctv_0075   0    2       提供    VV             (VP(VP*   -   01   -   -         *           (V*)            *         *             *   -
+bn/ctv/00/ctv_0075   0    3    ２５００万    CD             (NP(QP*   -    -   -   -   (MONEY*        (ARG1*             *         *             *   -
+bn/ctv/00/ctv_0075   0    4       美元     M            (CLP*))))  -    -   -   -         *)            *)            *         *             *   -
+bn/ctv/00/ctv_0075   0    5        来   MSP                (VP*   -    -   7   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0    6       疏散    VV             (VP(VP*   -    -   -   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0    7       居民    NN               (NP*))  -    -   -   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0    8       建造    VV                (VP*   -   01   -   -         *             *           (V*)        *             *   -
+bn/ctv/00/ctv_0075   0    9        新    VA   (NP(CP(CP(IP(VP*))  -   01   -   -         *             *        (ARG1*       (V*)            *   -
+bn/ctv/00/ctv_0075   0   10        的   DEC                  *))  -    -   -   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0   11       临时    JJ              (ADJP*)  -    -   -   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0   12       住所    NN              (NP*)))  -    -   -   -         *             *             *)   (ARG0*)            *   -
+bn/ctv/00/ctv_0075   0   13        ，    PU                   *   -    -   -   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0   14       保护    VV                (VP*   -   01   -   -         *             *             *         *           (V*)  -
+bn/ctv/00/ctv_0075   0   15       民众    NN         (NP(DNP(NP*)  -    -   -   -         *             *             *         *        (ARG1*   -
+bn/ctv/00/ctv_0075   0   16        的   DEG                   *)  -    -   -   -         *             *             *         *             *   -
+bn/ctv/00/ctv_0075   0   17       安全    NN          (NP*)))))))  -    -   -   -         *             *             *         *             *)  -
+bn/ctv/00/ctv_0075   0   18        。    PU                  *))  -    -   -   -         *             *             *         *             *   -
+
+bn/ctv/00/ctv_0075   0    0       去年    NT    (TOP(IP(IP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)     *        *     -
+bn/ctv/00/ctv_0075   0    1     委内瑞拉    NR       (NP(DNP(NP*)  -    -   -   -         (GPE)       (ARG0*      *        *    (0)
+bn/ctv/00/ctv_0075   0    2        的   DEG                 *)  -    -   -   -            *             *      *        *     -
+bn/ctv/00/ctv_0075   0    3       水灾    NN             (NP*))  -    -   -   -            *             *)     *        *     -
+bn/ctv/00/ctv_0075   0    4       曾经    AD         (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)     *        *     -
+bn/ctv/00/ctv_0075   0    5        使    VV              (VP*   -   01   -   -            *           (V*)     *        *     -
+bn/ctv/00/ctv_0075   0    6    １５０００    CD           (NP(QP*)  -    -   -   -    (CARDINAL)       (ARG1*      *        *     -
+bn/ctv/00/ctv_0075   0    7        人    NN             (NP*))  -    -   -   -            *             *)     *        *     -
+bn/ctv/00/ctv_0075   0    8       丧生    VV       (IP(VP*)))))  -   01   -   -            *        (ARG2*)   (V*)       *     -
+bn/ctv/00/ctv_0075   0    9        ，    PU                 *   -    -   -   -            *             *      *        *     -
+bn/ctv/00/ctv_0075   0   10        上    AD   (IP(NP(QP(ADVP*)  -    -   4   -   (CARDINAL*             *      *   (ARG0*     -
+bn/ctv/00/ctv_0075   0   11        万    CD             (QP*))  -    -   -   -            *)            *      *        *     -
+bn/ctv/00/ctv_0075   0   12        人    NN             (NP*))  -    -   -   -            *             *      *        *)    -
+bn/ctv/00/ctv_0075   0   13     无家可归    VV             (VP*))  -   01   -   -            *             *      *      (V*)    -
+bn/ctv/00/ctv_0075   0   14        。    PU                *))  -    -   -   -            *             *      *        *     -
+
+#end document

@@ -1,0 +1,784 @@
+#begin document (wb/dev_09_cmn/00/dev_09_cmn_0055); part 000
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0      灾后   NN  (TOP(IP(NP(NP*   -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1      重建   NN               *)  -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2    百废待兴   CD            (QP*)  -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   3      工程   NN            (NP*   -   -   1   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   4      建设   NN               *   -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   5      企业   NN              *))  -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   6    蓄势待发   VV          (VP*)))  -   -   -   -   *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0      灾后   NN  (TOP(IP(NP(NP*      -   -   -   -   *   (ARG0*   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1      重建   NN               *)     -   -   -   -   *        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2    百废待兴   CD            (QP*)     -   -   -   -   *        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   3      工程   NN            (NP*      -   -   1   -   *        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   4      建设   NN               *      -   -   -   -   *        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   5      企业   NN              *))     -   -   -   -   *        *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   6    蓄势待发   VV          (VP*)))   蓄势待发  -   -   -   *      (V*)  -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0    ２００８／５／２６／１１：５４   CD  (TOP(NP(QP*   -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1                02    CD            *)  -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2                 来源   NN         (NP*)  -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   3                  ：   PU        (PRN*   -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   4                 国际   NN         (NP*   -   -   1   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   5                 工程   NN            *   -   -   1   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   6                 机械   NN            *   -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   7                  网   NN         *))))  -   -   1   -   *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0      安居   JJ   (TOP(IP(NP(ADJP*)     -   -   -   -   *   (ARG0*   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1      工程   NN              (NP*))     -   -   1   -   *        *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2    迫在眉睫   VV             (VP*)))   迫在眉睫  -   -   -   *      (V*)  -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0       地震    NN     (TOP(IP(NP*)   -   -   1   -   *         *         *        (ARG0*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1        仅    AD          (ADVP*)   -   -   -   -   *         *         *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2      四川省    NR   (NP(CP(IP(NP*)   -   -   -   -   *    (ARG0*)   (ARG0*)       (ARG1*    (7)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3       倒塌    VV         (VP(VP*)   倒塌  -   -   -   *       (V*)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4        和    CC               *    -   -   -   -   *         *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5       损坏    VV          (VP*)))   损坏  -   -   -   *         *       (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6        的   DEC               *)   -   -   -   -   *         *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7       房屋    NN           (NP*))   -   -   -   -   *         *         *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8        就    AD       (VP(ADVP*)   -   -   2   -   *         *         *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9        有    VE            (VP*     有  -   1   -   *         *         *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10    ４００多万    CD            (QP*    -   -   -   -   *         *         *        (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11        间     M        (CLP*))))   -   -   -   -   *         *         *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12        。    PU              *))   -   -   -   -   *         *         *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0       从     P       (TOP(IP(IP(PP*      -   -   -   -   *             *    (ARGM-TMP*        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      ５月    NT             (LCP(NP*      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     １２日    NT                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3       起    LC                   *))     -   -   2   -   *             *             *)       *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4       ，    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5       从     P     (NP(CP(IP(VP(PP*      -   -   -   -   *        (ARG1*        (ARG1*        *             *             *             *             *            *    (1
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      四川    NR              (NP(NP*)     -   -   -   -   *             *             *        *             *             *             *             *            *    (7)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7      灾区    NN               (NP*)))     -   -   -   -   *             *)            *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8      陆续    AD               (ADVP*)     -   -   -   -   *    (ARGM-ADV*)            *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      撤出    VV               (VP*)))     撤出  -   -   -   *           (V*)            *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10       的   DEC                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     数百万    CD                 (QP*)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12      灾民    NN                (NP*))     -   -   -   -   *        (ARG2*)            *)       *             *             *             *             *            *     1)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13       被    SB                 (VP*      -   -   -   -   *             *    (ARGM-ADV*)       *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14      安置    VV                 (VP*      安置  -   -   -   *             *           (V*)       *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15       在     P                 (PP*      -   -   2   -   *             *    (ARGM-LOC*        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      成都    NR              (NP(NP*      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17       、    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18      德阳    NR                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19       、    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      绵阳    NR                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21       及    CC                    *      -   -   3   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      周边    NN                 (NP*      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23      城市    NN               *))))))     -   -   1   -   *             *             *)       *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24       ，    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      他们    PN              (IP(NP*      -   -   -   -   *             *             *   (ARG0*             *             *             *             *            *    (1)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26      多数    CD                    *)     -   -   -   -   *             *             *        *)            *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27      居住    VV                 (VP*      居住  -   -   -   *             *             *      (V*)            *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28       在     P                 (PP*      -   -   2   -   *             *             *   (ARG1*             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29      临时    JJ        (LCP(NP(ADJP*)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30      帐篷    NN                 (NP*      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31       或    CC                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32     简易棚    NN                   *))     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33       中    LC                 *))))     -   -   -   -   *             *             *        *)            *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34       ，    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35      虽然    CS         (IP(CP(ADVP*)     -   -   -   -   *             *             *        *    (ARGM-DIS*)            *    (ARGM-ADV*    (ARGM-ADV*            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36      短期    NN   (IP(NP(DNP(LCP(NP*)     -   -   -   -   *             *             *        *        (ARG0*             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37       内    LC                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38       的   DEG                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39      生活    NN                 (NP*      -   -   1   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40      起居    NN                   *))     -   -   -   -   *             *             *        *             *)            *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41    料无大碍    VV               (VP*)))   料无大碍  -   -   -   *             *             *        *           (V*)            *             *)            *)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42       ，    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43       但    AD               (ADVP*)     -   -   -   -   *             *             *        *             *             *    (ARGM-DIS*)   (ARGM-DIS*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44       在     P                 (PP*      -   -   2   -   *             *             *        *             *    (ARGM-TMP*)   (ARGM-TMP*    (ARGM-TMP*   (ARGM-TMP*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45      抗震    NN          (LCP(IP(NP*      -   -   -   -   *             *             *        *             *        (ARG1*             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46      救灾    NN                    *)     -   -   -   -   *             *             *        *             *             *)            *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47      展开    VV                 (VP*      展开  -   -   -   *             *             *        *             *           (V*)            *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48       一    CD                 (QP*      -   -   -   -   *             *             *        *             *    (ARGM-EXT*             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   49       周     M             (CLP*))))     -   -   -   -   *             *             *        *             *             *)            *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   50       后    LC                   *))     -   -   -   -   *             *             *        *             *    (ARGM-ADV*)            *)            *)           *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   51       ，    PU                    *      -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   52      灾民    NN          (NP(DNP(NP*      -   -   -   -   *             *             *        *             *        (ARG1*        (ARG0*        (ARG0*       (ARG1*    (1)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   53     中长期    NN                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   54       的   DEG                    *)     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   55      生活    NN                 (NP*      -   -   1   -   *             *             *        *             *             *             *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   56      安排    NN                   *))     -   -   2   -   *             *             *        *             *             *)            *)            *)           *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   57      已经    AD            (VP(ADVP*)     -   -   -   -   *             *             *        *             *             *    (ARGM-ADV*)   (ARGM-ADV*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   58      开始    VV                 (VP*      开始  -   -   -   *             *             *        *             *             *           (V*)        (REL*)       (REL*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   59      引起    VV                 (VP*      引起  -   -   -   *             *             *        *             *             *        (ARG1*           (V*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   60       多    CD           (IP(NP(QP*)     -   -   3   -   *             *             *        *             *             *             *        (ARG1*       (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   61       方    NN                (NP*))     -   -   -   -   *             *             *        *             *             *             *             *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   62      关注    VV            (VP*))))))     关注  -   -   -   *             *             *        *             *             *             *)            *)         (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   63       。    PU                   *))     -   -   -   -   *             *             *        *             *             *             *             *            *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0      就     P     (TOP(IP(IP(PP*    -   -   1   -   *         *        *    (ARGM-ADV*             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1     目前    NT           (LCP(NP*)   -   -   -   -   *         *        *             *             *        *             *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     来看    LC                 *))   -   -   -   -   *         *        *             *)            *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3      ，    PU                  *    -   -   -   -   *         *        *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4      两    CD   (NP(CP(IP(NP(QP*)   -   -   -   -   *    (ARG0*   (ARG0*        (ARG0*             *        *             *             *    (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5      市    NN              (NP*))   -   -   1   -   *         *)       *)            *             *        *             *             *     3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     从事    VV            (VP(VP*    从事  -   -   -   *       (V*)       *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7     帐篷    NN              (NP*))   -   -   -   -   *    (ARG1*)       *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     生产    VV             (VP*)))   生产  -   1   -   *         *      (V*)            *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      的   DEC                  *)   -   -   -   -   *         *        *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     企业    NN              (NP*))   -   -   -   -   *         *        *             *)            *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      不    AD          (VP(ADVP*)   -   -   -   -   *         *        *    (ARGM-ADV*)            *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12      多    VA             (VP*)))    多  -   3   -   *         *        *           (V*)            *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      ，    PU                  *    -   -   -   -   *         *        *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14      仅    AD       (IP(VP(ADVP*)   -   -   -   -   *         *        *             *    (ARGM-ADV*)       *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15      有    VE               (VP*     有  -   3   -   *         *        *             *           (V*)       *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16    梅花伞    NN            (NP*))))   -   -   -   -   *         *        *             *        (ARG1*)       *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17      ，    PU                  *    -   -   -   -   *         *        *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     但是    AD          (IP(ADVP*)   -   -   -   -   *         *        *             *             *        *    (ARGM-DIS*)   (ARGM-DIS*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     生产    VV      (NP(CP(IP(VP*    生产  -   1   -   *         *        *             *             *      (V*)       (ARG0*        (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     帐篷    NN               (NP*    -   -   -   -   *         *        *             *             *   (ARG1*             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     原料    NN                *)))   -   -   -   -   *         *        *             *             *        *)            *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      的   DEC                  *)   -   -   -   -   *         *        *             *             *        *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23     企业    NN              (NP*))   -   -   -   -   *         *        *             *             *        *             *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24     为数    VV               (VP*    为数  -   -   -   *         *        *             *             *        *           (V*)   (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      不    AD          (VP(ADVP*)   -   -   -   -   *         *        *             *             *        *        (ARG1*    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26      少    VA            (VP*))))    少  -   2   -   *         *        *             *             *        *             *)          (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27      。    PU                 *))   -   -   -   -   *         *        *             *             *        *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     目前    NT     (TOP(IP(NP*)   -   -   -   -   *      *    (ARGM-TMP*)   (ARGM-TMP*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1     帐篷    NN         (NP(NP*)   -   -   -   -   *      *        (ARG0*        (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     所有    DT            (DP*)   -   -   -   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     布料    NN           (NP*))   -   -   -   -   *      *             *)            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     主要    AD       (VP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)   (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5      是    VC            (VP*     是  -   2   -   *    (V*)            *         (REL*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     采用    VV         (VP(VP*    采用  -   -   -   *      *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7     高强    NN  (NP(DNP(NP(NP*    -   -   -   -   *      *        (ARG1*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     涤纶    NN               *    -   -   -   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      等   ETC               *)   -   -   2   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     规格    NN           (NP*))   -   -   -   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      的   DEG               *)   -   -   -   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    经编布    NN            (NP*    -   -   -   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      或    CC               *    -   -   -   -   *      *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14    机织布    NN             *)))   -   -   -   -   *      *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15      为    VC            (VP*     为  -   2   -   *      *             *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     基布    NN        (NP*)))))   -   -   -   -   *      *             *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17      。    PU              *))   -   -   -   -   *      *             *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0      两    CD   (TOP(IP(NP(CP(IP(NP(QP*)   -   -   -   -   *   (ARG0*        (ARG0*   (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      市    NN                     (NP*))   -   -   1   -   *        *)            *    3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     从事    VV                      (VP*    从事  -   -   -   *      (V*)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     涤纶    NN                      (NP*    -   -   -   -   *   (ARG1*             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     生产    NN                       *)))   -   -   3   -   *        *)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5      的   DEC                         *)   -   -   -   -   *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     公司    NN                     (NP*))   -   -   1   -   *        *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7     主要    AD                 (VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8      有    VE                      (VP*     有  -   8   -   *        *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9     春晖    NR                (NP(NP(NP*)   -   -   -   -   *        *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     股份    NN                     (NP*))   -   -   -   -   *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      、    PU                         *    -   -   -   -   *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    Ｓ仪化    NR                      (NP*)   -   -   -   -   *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      等   ETC                       *)))   -   -   2   -   *        *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14      。    PU                        *))   -   -   -   -   *        *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0      而    AD   (TOP(IP(ADVP*)   -   -   -   -   *        *    (ARGM-DIS*)   (ARGM-DIS*)     *    (ARGM-DIS*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      在     P            (PP*    -   -   2   -   *        *    (ARGM-LOC*    (ARGM-LOC*      *    (ARGM-LOC*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2    过渡房    NN            (NP*    -   -   -   -   *        *             *             *      *             *    (5)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     生产    NN               *    -   -   3   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     方面    NN              *))   -   -   1   -   *        *             *)            *)     *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5      ，    PU               *    -   -   -   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      该    DT   (NP(IP(NP(DP*)   -   -   1   -   *   (ARG0*        (ARG0*        (ARG0*      *        (ARG0*    (5
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7     建筑    NN           (NP*))   -   -   -   -   *        *)            *             *      *             *     5)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8      所   MSP            (VP*    -   -   -   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      需    VV          (VP*)))    需  -   -   -   *      (V*)            *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     材料    NN           (NP*))   -   -   -   -   *        *             *)            *)     *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      将    AD       (VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)   (ARGM-ADV*)     *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12     全部    AD          (ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)   (ARGM-ADV*)     *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13     采用    VV         (VP(VP*    采用  -   -   -   *        *           (V*)            *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     保温    NN            (NP*    -   -   -   -   *        *        (ARG1*             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15     隔热    NN              *))   -   -   -   -   *        *             *)            *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      、    PU               *    -   -   -   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17     防火    VV            (VP*    防火  -   -   -   *        *             *           (V*)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     墙体    NN            (NP*    -   -   -   -   *        *             *        (ARG1*      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     材料    NN              *))   -   -   -   -   *        *             *             *)     *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      ，    PU               *    -   -   -   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21      并    CC               *    -   -   -   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      可    VV            (VP*     可  -   1   -   *        *             *             *    (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23     回收    VV            (VP*    回收  -   -   -   *        *             *             *      *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24      、    PU               *    -   -   -   -   *        *             *             *      *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25     环保    NN        (NP*)))))   -   -   -   -   *        *             *             *      *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26      。    PU              *))   -   -   -   -   *        *             *             *      *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0    目前   NN  (TOP(IP*   -   -   -   -   *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1     两   NN         *   -   -   -   -   *    (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     市   NN         *   -   -   1   -   *     3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3    从事   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4    建筑   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5    节能   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6    材料   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7    生产   NN         *   -   -   3   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     的   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9    主要   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     有   NN         *   -   -   8   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11    双良   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    股份   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13     、   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14    烟台   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15    万华   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     、   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17    北新   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18    建材   NN         *   -   -   -   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     等   NN         *   -   -   2   -   *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     。   NN        *))  -   -   -   -   *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0      公用   JJ  (TOP(FRAG*   -   -   -   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1      事业   NN           *   -   -   1   -   *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2    百废待兴   CD          *))  -   -   -   -   *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0    四川    NR   (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)       *    (8|(7)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1     等    VV          (VP*     等  -   1   -   *       (V*)       *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2    震区    NN   (NP(DNP(NP*)   -   -   -   -   *    (ARG1*        *        8)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   3     的   DEG             *)   -   -   -   -   *         *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   4    公用    JJ        (ADJP*)   -   -   -   -   *         *        *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   5    事业    NN         (NP*))   -   -   1   -   *         *)       *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   6    遭受    VV       (IP(VP*    遭受  -   -   -   *    (ARG1*      (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   7    巨大    JJ     (NP(ADJP*)   -   -   -   -   *         *   (ARG1*        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   8    损失    NN      (NP*)))))   -   -   -   -   *         *)       *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   9     。    PU            *))   -   -   -   -   *         *        *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0       在    P    (TOP(IP(IP(PP*    -   -   2   -   *   (ARGM-LOC*        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      供水   NN              (NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2      方面   NN                *))   -   -   1   -   *            *)       *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4      根据    P              (PP*    -   -   -   -   *   (ARGM-MNR*        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5      初步   JJ         (NP(ADJP*)   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      统计   NN            (NP*)))   -   -   -   -   *            *)       *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     四川省   NR     (NP(NP(NP(NP*)   -   -   -   -   *       (ARG0*        *            *        *        *    (7)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      境内   NN              (NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10      供水   NN                *))   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      管网   NR             (NP*))   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12      受损   JJ            (ADJP*)   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      规模   NN             (NP*))   -   -   1   -   *            *)       *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14       为   VC              (VP*     为  -   1   -   *          (V*)       *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15    ７８００   CD              (QP*    -   -   -   -   *       (ARG1*        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      公里    M          (CLP*))))   -   -   -   -   *            *)       *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18      主要   JJ   (IP(NP(NP(ADJP*)   -   -   -   -   *            *   (ARG0*            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19      城市   NN             (NP*))   -   -   1   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      供水   NN              (NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21      管网   NN                *))   -   -   -   -   *            *        *)           *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      受损   VV              (VP*    受损  -   -   -   *            *      (V*)           *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23       约   AD         (QP(ADVP*)   -   -   1   -   *            *   (ARG1*            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24    ５０００   CD              (QP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      公里    M         (CLP*)))))   -   -   -   -   *            *        *)           *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26       ；   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27       在    P           (IP(PP*    -   -   2   -   *            *        *   (ARGM-LOC*        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28      供电   NN              (NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29      方面   NN                *))   -   -   1   -   *            *        *            *)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31     四川省   NR           (NP(NP*    -   -   -   -   *            *        *       (ARG0*        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32      电力   NN                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33      公司   NN                 *)   -   -   1   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34      负荷   NN             (NP*))   -   -   -   -   *            *        *            *)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35      损失   VV              (VP*    损失  -   -   -   *            *        *          (V*)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36       约   AD         (QP(ADVP*)   -   -   1   -   *            *        *       (ARG1*        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37    ４００万   CD              (QP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38      千瓦    M         (CLP*)))))   -   -   -   -   *            *        *            *)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40     ５００   CD        (IP(NP(QP*    -   -   -   -   *            *        *            *   (ARG0*        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41      千伏    M            (CLP*))   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42      茂县   NR              (NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43     变电站   NN                *))   -   -   -   -   *            *        *            *        *)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44      停运   VV             (VP*))   停运  -   -   -   *            *        *            *      (V*)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46     ２２０   CD        (IP(NP(QP*    -   -   -   -   *            *        *            *        *   (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47      千伏    M            (CLP*))   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48     变电站   NN             (NP*))   -   -   -   -   *            *        *            *        *        *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   49      停运   VV              (VP*    停运  -   -   -   *            *        *            *        *      (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   50      １２   CD              (QP*    -   -   -   -   *            *        *            *        *   (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   51       座    M          (CLP*))))   -   -   -   -   *            *        *            *        *        *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   52       ，   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   53      川西   NR           (NP(NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   54      地区   NN                 *)   -   -   1   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   55      江油   NR              (NP*    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   56      电厂   NN                 *)   -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   57       、   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   58      金堂   NR                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   59      电厂   NN                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   60       、   PU                 *    -   -   -   -   *            *        *            *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   61     宝珠寺   NR               *)))   -   -   -   -   *            *        *            *        *        *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0      电厂    NN   (TOP(IP(IP(NP(NP(NP(NP(NP*)   -   -   -   -   *        (ARG0*         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1       、    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2      茂县    NR                         (NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     水电群    NN                            *)   -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4       等   ETC                            *)   -   -   2   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5       与     P                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      电网    NN                         (NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7      系统    NN                            *)   -   -   1   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8       等   ETC                            *)   -   -   2   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      ……    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10      上市    NN                         (NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      公司    NN                           *))   -   -   1   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12      桂冠    NN                      (NP(NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      电力    NN                            *)   -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14       、    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15      川投    NN                         (NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      能源    NN                            *)   -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17       、    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18      岷江    NR                         (NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19      水电    NN                          *)))   -   -   -   -   *             *)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      已经    AD                    (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21      表示    VV                         (VP*    表示  -   2   -   *           (V*)        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      遭受    VV                      (IP(VP*    遭受  -   -   -   *        (ARG1*       (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23       了    AS                            *    -   -   -   -   *             *    (ARG1*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24       较    AD               (NP(ADJP(ADVP*)   -   -   -   -   *             *    (ARG1*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25       大    JJ                      (ADJP*))   -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26      损失    NN                   (NP*)))))))   -   -   -   -   *             *)        *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27       ；    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28      此外    AD                    (IP(ADVP*)   -   -   -   -   *             *         *    (ARGM-DIS*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29       ，    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30      震区    NN                  (NP(DNP(NP*)   -   -   -   -   *             *         *        (ARG0*    (8)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31       的   DEG                            *)   -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32      通信    NN                         (NP*    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33       、    PU                            *    -   -   -   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34      交通    NN                            *    -   -   1   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35       等   ETC                            *)   -   -   2   -   *             *         *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36      方面    NN                        (NP*))   -   -   1   -   *             *         *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37       也    AD                    (VP(ADVP*)   -   -   -   -   *             *         *    (ARGM-DIS*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38       是    VC                         (VP*     是  -   1   -   *             *         *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39    千疮百孔    CD                      (QP*))))   -   -   -   -   *             *         *        (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40       。    PU                           *))   -   -   -   -   *             *         *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     根据     P        (TOP(IP(IP(PP*    -   -   -   -   *        *             *    (ARGM-MNR*      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1    电监会    NR  (LCP(NP(CP(IP(NP(NP*    -   -   -   -   *   (ARG0*             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     四川    NR                     *)   -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     抗震    NN                  (NP*    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     抢险    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     保电    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     工作    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7    指挥部    NN                    *))   -   -   -   -   *        *)            *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8      所   MSP                  (VP*    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      列    VV                (VP*)))    列  -   1   -   *      (V*)            *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10      的   DEC                     *)   -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     急需    NN                  (NP*    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12     物资    NN                    *))   -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13     来看    LC                    *))   -   -   -   -   *        *             *             *)     *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14      ，    PU                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15     目前    NT                  (NP*)   -   -   -   -   *        *    (ARGM-TMP*)   (ARGM-TMP*)     *             *       (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     四川    NR         (NP(NP(NP(NP*    -   -   -   -   *        *        (ARG0*        (ARG0*      *             *    (2|(7)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17     汶川    NR                     *)   -   -   -   -   *        *             *             *      *             *        2)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     地震    NN                  (NP*    -   -   1   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     灾区    NN                    *))   -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     地方    NN                  (NP*    -   -   1   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     电网    NN                    *))   -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22     所属    NR                  (NP*    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23     电力    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24     设施    NN                    *))   -   -   -   -   *        *             *)            *)     *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25     受损    VV           (VP(IP(VP*))   受损  -   -   -   *        *           (V*)   (ARGM-ADV*)     *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26     严重    VA                (VP*)))   严重  -   1   -   *        *             *           (V*)     *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27      ，    PU                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     抢修    NN               (IP(NP*    -   -   -   -   *        *             *             *      *        (ARG0*        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29     电网    NN                     *)   -   -   -   -   *        *             *             *      *             *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30     工作    NN                  (NP*)   -   -   -   -   *        *             *             *      *        (ARG0*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31      急    AD             (VP(ADVP*)   -   -   1   -   *        *             *             *      *    (ARGM-ADV*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32      需    VV                  (VP*     需  -   -   -   *        *             *             *    (V*)            *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33     钢芯    VV                  (VP*    钢芯  -   -   -   *        *             *             *      *           (V*)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34    铝绞线    NN               (NP(NP*    -   -   -   -   *        *             *             *      *        (ARG1*        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35      、    PU                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36     铝芯    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37    塑料线    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38      、    PU                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39     配电    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40    变压器    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41      、    PU                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42    绝缘子    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43      、    PU                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44     单相    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45    电能表    NN                     *    -   -   -   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46      等   ETC                     *)   -   -   2   -   *        *             *             *      *             *        -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47     物资    NN             (NP*))))))   -   -   -   -   *        *             *             *      *             *)       -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48      。    PU                    *))   -   -   -   -   *        *             *             *      *             *        -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     目前    NT     (TOP(IP(IP(NP*)   -   -   -   -   *        *    (ARGM-TMP*)       *        *        *        *        *        *        *        *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      两    CD   (NP(CP(IP(NP(QP*)   -   -   -   -   *   (ARG0*        (ARG0*        *        *        *        *        *        *        *        *    (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2      市    NN              (NP*))   -   -   1   -   *        *)            *        *        *        *        *        *        *        *        *     3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     从事    VV               (VP*    从事  -   -   -   *      (V*)            *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     电缆    NN               (NP*    -   -   -   -   *   (ARG1*             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     生产    NN                *)))   -   -   3   -   *        *)            *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      的   DEC                 *))   -   -   -   -   *        *             *)       *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7      有    VE               (VP*     有  -   8   -   *        *           (V*)       *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     宝胜    NR         (NP(NP(NP*)   -   -   -   -   *        *        (ARG1*        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9     股份    NN              (NP*))   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10      、    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     南洋    NR            (NP(NP*)   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12     股份    NN           (NP*)))))   -   -   -   -   *        *             *)       *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      ，    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     从事    VV   (IP(NP(CP(IP(VP*    从事  -   -   -   *        *             *      (V*)  (ARG0*        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15    绝缘子    NN               (NP*    -   -   -   -   *        *             *   (ARG1*        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     生产    NN                *)))   -   -   3   -   *        *             *        *)       *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17      的   DEC                 *))   -   -   -   -   *        *             *        *        *)       *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18      有    VE               (VP*     有  -   8   -   *        *             *        *      (V*)       *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     深圳    NR            (NP(NP*)   -   -   -   -   *        *             *        *   (ARG1*        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     惠程    NN            (NP*))))   -   -   -   -   *        *             *        *        *)       *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21      ，    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22     从事    VV   (IP(NP(CP(IP(VP*    从事  -   -   -   *        *             *        *        *      (V*)  (ARG0*        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23    导地线    NN               (NP*    -   -   -   -   *        *             *        *        *   (ARG1*        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24     生产    NN                *)))   -   -   3   -   *        *             *        *        *        *)       *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      的   DEC                 *))   -   -   -   -   *        *             *        *        *        *        *)       *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26      有    VE               (VP*     有  -   3   -   *        *             *        *        *        *      (V*)       *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27     特变    NN               (NP*    -   -   -   -   *        *             *        *        *        *   (ARG1*        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     电工    NN                *)))   -   -   -   -   *        *             *        *        *        *        *)       *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29      ，    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30     从事    VV   (IP(NP(CP(IP(VP*    从事  -   -   -   *        *             *        *        *        *        *      (V*)  (ARG0*        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31    变压器    NN               (NP*    -   -   -   -   *        *             *        *        *        *        *   (ARG1*        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32     生产    NN                *)))   -   -   3   -   *        *             *        *        *        *        *        *)       *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33      的   DEC                 *))   -   -   -   -   *        *             *        *        *        *        *        *        *)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34      有    VE               (VP*     有  -   3   -   *        *             *        *        *        *        *        *      (V*)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35     天威    NN            (NP(NP*    -   -   -   -   *        *             *        *        *        *        *        *   (ARG1*        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36     保变    NN                  *)   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37      、    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38     平高    NR               (NP*    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39     电气    NN                  *)   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40      、    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41     思源    NR               (NP*    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42     电气    NN               *))))   -   -   -   -   *        *             *        *        *        *        *        *        *)       *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43      ，    PU                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44     从事    VV   (IP(NP(CP(IP(VP*    从事  -   -   -   *        *             *        *        *        *        *        *        *      (V*)  (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45     输电    NN               (NP*    -   -   -   -   *        *             *        *        *        *        *        *        *   (ARG1*        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46     铁塔    NN                  *    -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47     生产    NN                *)))   -   -   3   -   *        *             *        *        *        *        *        *        *        *)       *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48      的   DEC                 *))   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   49      有    VE               (VP*     有  -   8   -   *        *             *        *        *        *        *        *        *        *      (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   50     五洲    NR            (NP(NP*    -   -   -   -   *        *             *        *        *        *        *        *        *        *   (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   51     明珠    NN                  *)   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   52      等   ETC                *)))   -   -   2   -   *        *             *        *        *        *        *        *        *        *        *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   53      。    PU                 *))   -   -   -   -   *        *             *        *        *        *        *        *        *        *        *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     而    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *         *        *    (ARGM-DIS*)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1     在     P               (PP*    -   -   2   -   *         *        *    (ARGM-LOC*        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2    供水    NN              (NP*))   -   -   -   -   *         *        *             *)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4    供气    NN            (IP(NP*    -   -   -   -   *    (ARG0*        *    (ARGM-ADV*        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5    管网    NN                  *)   -   -   -   -   *         *)       *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6    恢复    VV               (VP*    恢复  -   3   -   *       (V*)       *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7    方面    NN             (NP*)))   -   -   1   -   *    (ARG0*)       *             *)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     ，    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9     两    CD   (NP(CP(IP(NP(QP*)   -   -   -   -   *         *   (ARG0*        (ARG0*        *             *   (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     市    NN              (NP*))   -   -   1   -   *         *        *)            *        *             *    3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11    从事    VV               (VP*    从事  -   -   -   *         *      (V*)            *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    管道    NN               (NP*    -   -   -   -   *         *   (ARG1*             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13    生产    NN                *)))   -   -   3   -   *         *        *)            *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     的   DEC                 *))   -   -   -   -   *         *        *             *)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15    主要    AD          (VP(ADVP*)   -   -   -   -   *         *        *    (ARGM-ADV*)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     有    VE               (VP*     有  -   8   -   *         *        *           (V*)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17    新兴    JJ       (NP(NP(ADJP*)   -   -   -   -   *         *        *        (ARG1*        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18    铸管    NN              (NP*))   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20    沧州    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21    明珠    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23    凌云    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24    股份    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26    国通    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27    管业    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29    国统    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30    股份    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32    湘电    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33    股份    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34     等   ETC               *))))   -   -   2   -   *         *        *             *)       *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35     ；    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36    从事    VV   (IP(NP(CP(IP(VP*    从事  -   -   -   *         *        *             *      (V*)       (ARG0*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37    阀门    NN               (NP*    -   -   -   -   *         *        *             *   (ARG1*             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38    生产    NN                *)))   -   -   3   -   *         *        *             *        *)            *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39     的   DEC                 *))   -   -   -   -   *         *        *             *        *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40    主要    AD          (VP(ADVP*)   -   -   -   -   *         *        *             *        *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41     有    VE               (VP*     有  -   8   -   *         *        *             *        *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42    禾嘉    NR         (NP(NP(NP*)   -   -   -   -   *         *        *             *        *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43    股份    NN              (NP*))   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45    洪城    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46    股份    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47     、    PU                  *    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48    中核    NN               (NP*    -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   49    科技    NN                  *)   -   -   -   -   *         *        *             *        *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   50     等   ETC               *))))   -   -   2   -   *         *        *             *        *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   51     。    PU                 *))   -   -   -   -   *         *        *             *        *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     在     P  (TOP(IP(PP*   -   -   2   -   *    (ARGM-LOC*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1    铁路    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2    建设    NN            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3    方面    NN           *))  -   -   1   -   *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     ，    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     两    CD   (NP(NP(QP*)  -   -   -   -   *        (ARG0*   (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     市    NN        (NP*))  -   -   1   -   *             *    3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7    相关    JJ       (ADJP*)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8    设备    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9    厂商    NN           *))  -   -   -   -   *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10    主要    AD    (VP(ADVP*)  -   -   -   -   *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     有    VE         (VP*    有  -   3   -   *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    时代    NN      (NP(NP*   -   -   -   -   *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13    新材    NN            *)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     、    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15    晋亿    CD   (NP(NP(QP*)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16    实业    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17     、    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18    马钢    NN           *))  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19    股份    NN        (NP*))  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     等   ETC          *)))  -   -   2   -   *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     。    PU           *))  -   -   -   -   *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     在     P  (TOP(IP(PP*   -   -   2   -   *    (ARGM-LOC*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1    电讯    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2    设备    NN            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3    方面    NN           *))  -   -   1   -   *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     ，    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     两    CD   (NP(NP(QP*)  -   -   -   -   *        (ARG0*   (3
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     市    NN        (NP*))  -   -   1   -   *             *    3)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7    相关    JJ       (ADJP*)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8    受惠    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9    公司    NN           *))  -   -   1   -   *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10    主要    AD    (VP(ADVP*)  -   -   -   -   *    (ARGM-ADV*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     有    VE         (VP*    有  -   3   -   *           (V*)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    中天    NN      (NP(NP*   -   -   -   -   *        (ARG1*    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13    科技    NN            *)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     、    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15    中创    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16    信测    NN            *)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17     、    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18    烽火    NN         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19    通信    NN            *)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     、    PU            *   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21    中兴    NR         (NP*   -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22    通讯    NN            *)  -   -   -   -   *             *    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23     等   ETC          *)))  -   -   2   -   *             *)   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24     。    PU           *))  -   -   -   -   *             *    -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   0    基础   NN   (TOP(IP(NP*    -   -   1   -   *    (ARG0*   (ARG0*   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   1    设施   NN             *    -   -   -   -   *         *        *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   2    企业   NN             *)   -   -   -   -   *         *)       *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   3    有望   VV          (VP*    有望  -   -   -   *       (V*)       *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   4    受惠   VV   (IP(VP*)))))   受惠  -   -   -   *    (ARG1*)     (V*)  -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     有关    JJ        (TOP(IP(NP(ADJP*)   -   -   -   -   *   (ARG0*             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1     资料    NN                   (NP*))   -   -   -   -   *        *)            *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     显示    VV                    (VP*    显示  -   1   -   *      (V*)            *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3      ，    PU                       *    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     距离     P  (IP(IP(NP(CP(IP(VP(PP*    -   -   -   -   *   (ARG1*        (ARG1*   (ARG0*        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5    地震区    NN                 (NP(NP*)   -   -   -   -   *        *             *        *        *             *    (2
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6    汶川县    NR                  (NP*)))   -   -   -   -   *        *             *)       *        *             *     2)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7      最    AD                  (ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)       *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8      近    VA                  (VP*)))    近  -   -   -   *        *           (V*)       *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      的   DEC                      *))   -   -   -   -   *        *             *        *)       *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10      是    VC                    (VP*     是  -   1   -   *        *             *      (V*)       *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11    都江堰    NR                 (NP(NP*    -   -   -   -   *        *             *   (ARG1*        *             *    (0
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    拉法基    NN                       *)   -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      、    PU                       *    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     ＳＴ    NR                    (NP*    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15     双马    NN                       *)   -   -   -   -   *        *             *        *        *             *     0)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      、    PU                       *    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17     亚东    NN                    (NP*    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     水泥    NN                       *)   -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19      和    CC                       *    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20     德阳    NN                    (NP*    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     利森    NN                    *))))   -   -   -   -   *        *             *        *)       *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      ，    PU                       *    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23      前    DT              (IP(NP(DP*    -   -   -   -   *        *             *        *   (ARG0*             *    (0
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24      两    CD                   (QP*))   -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      者    NN                   (NP*))   -   -   -   -   *        *             *        *        *)            *     0)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26     部分    CD           (IP(IP(NP(QP*)   -   -   -   -   *        *             *        *   (ARG0*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27     设备    NN                   (NP*))   -   -   -   -   *        *             *        *        *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     受损    VV                   (VP*))   受损  -   -   -   *        *             *        *      (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29      、    PU                       *    -   -   -   -   *        *             *        *        *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30     目前    NT              (IP(VP(NP*)   -   -   -   -   *        *             *        *        *    (ARGM-TMP*)   (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31     已经    AD                  (ADVP*)   -   -   -   -   *        *             *        *        *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32     停产    VV              (VP*)))))))   停产  -   -   -   *        *)            *        *        *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33      。    PU                      *))   -   -   -   -   *        *             *        *        *             *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     由于     P             (TOP(IP(PP*    -   -   -   -   *   (ARGM-PRP*   (ARGM-PRP*      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      川    NR             (NP(LCP(NP*)   -   -   -   -   *            *            *      *             *            *    (7)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2      内    LC                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     大型    JJ                  (ADJP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4    水泥厂    NN                    (NP*    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     受灾    NN                     *)))   -   -   -   -   *            *)           *)     *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      ，    PU                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7     四川    NR                 (NP(NP*    -   -   -   -   *       (ARG0*       (ARG0*      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     金顶    NN                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9     以及    CC                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     周边    NN                 (NP(NP*    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     地区    NN                       *)   -   -   1   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12    水泥厂    NR                  (NP*)))   -   -   -   -   *            *)           *)     *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13     有望    VV                    (VP*    有望  -   -   -   *          (V*)           *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     担负    VV             (IP(VP(VRD*    担负  -   -   -   *       (ARG1*          (V*)     *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15      起    VV                       *)    起  -   6   -   *            *            *    (V*)            *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      更    AD   (NP(NP(CP(IP(VP(ADVP*)   -   -   -   -   *            *       (ARG1*      *    (ARGM-ADV*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17      多    VA                  (VP*)))    多  -   3   -   *            *            *      *           (V*)           *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18      的   DEC                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     责任    NN                   (NP*))   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      ，    PU                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     比如    AD               (NP(ADVP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22     甘肃    NR          (NP(NP(DNP(NP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23      的   DEG                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24    祁连山    NR                   (NP*))   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      、    PU                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26     湖北    NR             (NP(DNP(NP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27      的   DEG                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     华新    NN                    (NP*    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29     水泥    NN                      *))   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30      、    PU                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31     宁夏    NR             (NP(DNP(NP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32      的   DEG                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33     赛马    NR                    (NP*    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34     实业    NN                      *))   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35      、    PU                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36     陕西    NR             (NP(DNP(NP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37      的   DEG                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38     ＳＴ    NR                    (NP*    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39     秦岭    NR                      *))   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40      、    PU                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41     西藏    NR             (NP(DNP(NP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42      的   DEG                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43     西藏    NR                    (NP*)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44     天路    NN                   (NP*))   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45     以及    CC                       *    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46      在     P        (NP(CP(IP(VP(PP*    -   -   2   -   *            *            *      *             *   (ARGM-LOC*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47     西部    NN                   (NP*))   -   -   -   -   *            *            *      *             *            *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48     进行    VV                    (VP*    进行  -   3   -   *            *            *      *             *          (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   49     布局    NN                 (NP*))))   -   -   -   -   *            *            *      *             *       (ARG1*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   50      的   DEC                       *)   -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   51     冀东    NN                    (NP*    -   -   -   -   *            *            *      *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   52     水泥    NN                *))))))))   -   -   -   -   *            *)           *)     *             *            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   53      。    PU                      *))   -   -   -   -   *            *            *      *             *            *     -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     另外    AD      (TOP(IP(ADVP*)  -   -   -   -   *    (ARGM-DIS*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      ，    PU                  *   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2    南玻Ａ    NN   (NP(NP(NP(NP(NP*)  -   -   -   -   *        (ARG0*   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3      、    PU                  *   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     国栋    NN               (NP*   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     建设    NN                  *)  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      、    PU                  *   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7     三鑫    CD            (NP(QP*)  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     股份    NN              (NP*))  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9      、    PU                  *   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10    方大Ａ    NN               (NP*)  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      等   ETC                  *)  -   -   2   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12     工程    NN               (NP*   -   -   1   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13     玻璃    NN                 *))  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14      、    PU                  *   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15     幕墙    NN               (NP*   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     企业    NN                  *)  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17      ，    PU                  *   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     海螺    NN               (NP*   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     型材    NN                  *)  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      等   ETC                  *)  -   -   2   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     型材    NN               (NP*   -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22     企业    NN                 *))  -   -   -   -   *             *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23      也    AD          (VP(ADVP*)  -   -   -   -   *    (ARGM-DIS*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24      都    AD             (ADVP*)  -   -   -   -   *    (ARGM-ADV*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      有    VE               (VP*    有  -   3   -   *           (V*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26     受益    JJ      (NP(DNP(ADJP*)  -   -   -   -   *        (ARG1*   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27      的   DEG                  *)  -   -   -   -   *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     可能    NN            (NP*))))  -   -   -   -   *             *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29      。    PU                 *))  -   -   -   -   *             *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     另外    AD   (TOP(IP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      ，    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2      在     P            (PP*    -   -   2   -   *             *    (ARGM-LOC*   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     基础    NN      (NP(NP(NP*    -   -   1   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4     设施    NN               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     建设    NN               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6     方面    NN               *)   -   -   1   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7      ，    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     四川    NR            (NP*    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9     路桥    NR               *)   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10      、    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11     重庆    NR            (NP*    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12     路桥    NR               *)   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13      、    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14     中铁    NR         (NP(NP*)   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15      二    OD            (QP*)   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16      局    NN           (NP*))   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17      、    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     杭萧    NN            (NP*    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     钢构    NN               *)   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      、    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     长江    NR      (NP(NP(NP*)   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22     精工    NN            (NP*    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23      、    PU               *    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24     东南    NN              *))   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25     网架    NR           (NP*))   -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26      等   ETC               *)   -   -   2   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27    工程类    NN            (NP*    -   -   -   -   *             *             *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28     公司    NN             *)))   -   -   1   -   *             *             *)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29      也    AD       (VP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)   (ARGM-ADV*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30      将    AD          (ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31      会    VV            (VP*     会  -   1   -   *           (V*)            *   -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32     明显    AD       (VP(ADVP*)   -   -   -   -   *        (ARG1*    (ARGM-ADV*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33     受益    VV         (VP*))))   受益  -   -   -   *             *)          (V*)  -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34      。    PU              *))   -   -   -   -   *             *             *   -
+
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    0     同时    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    1      ，    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    2     基建    NN        (NP(DNP(NP*    -   -   -   -   *        (ARG0*             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    3     项目    NN                  *)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    4      的   DEG                  *)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    5     激增    NN              (NP*))   -   -   -   -   *             *)            *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    6      也    AD          (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    7      将    AD             (ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    8     带动    VV               (VP*    带动  -   -   -   *           (V*)            *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0    9     机械    NN        (NP(DNP(NP*    -   -   -   -   *        (ARG1*             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   10     设备    NN                  *)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   11      的   DEG                  *)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   12     巨大    JJ             (ADJP*)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   13     市场    NN           (NP*)))))   -   -   -   -   *             *)            *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   14      ，    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   15     目前    NT            (IP(NP*)   -   -   -   -   *             *    (ARGM-TMP*)     *             *             *             *             *    (4)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   16     国内    NN               (NP*    -   -   -   -   *             *        (ARG0*      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   17    挖掘机    NN                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   18     厂商    NN                  *)   -   -   -   -   *             *             *)     *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   19     主要    AD          (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)     *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   20      有    VE               (VP*     有  -   8   -   *             *           (V*)     *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   21     柳工    NN            (NP(NP*)   -   -   -   -   *             *        (ARG1*      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   22      、    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   23     三一    CD            (NP(QP*)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   24     重工    NN              (NP*))   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   25      、    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   26     山河    NN               (NP*    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   27     智能    NN              *)))))   -   -   -   -   *             *             *)     *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   28      ；    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   29    推土机    NN            (IP(NP*    -   -   -   -   *             *             *      *        (ARG0*             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   30     厂商    NN                  *)   -   -   -   -   *             *             *      *             *)            *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   31     主要    AD          (VP(ADVP*)   -   -   -   -   *             *             *      *    (ARGM-ADV*)            *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   32      是    VC               (VP*     是  -   2   -   *             *             *    (V*)            *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   33     山推    VV               (VP*    山推  -   -   -   *             *             *      *           (V*)            *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   34     股份    NN           (NP*)))))   -   -   -   -   *             *             *      *        (ARG1*)            *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   35      ；    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   36    装载机    NR         (IP(NP(NP*    -   -   -   -   *             *             *      *             *        (ARG0*             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   37      和    CC                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   38     重卡    NR                  *)   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   39     方面    NN              (NP*))   -   -   1   -   *             *             *      *             *             *)            *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   40     主要    AD          (VP(ADVP*)   -   -   -   -   *             *             *      *             *    (ARGM-ADV*)            *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   41      有    VE               (VP*     有  -   3   -   *             *             *      *             *           (V*)            *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   42     厦工    NR         (NP(NP(NP*)   -   -   -   -   *             *             *      *             *        (ARG1*             *             *    (9
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   43     股份    NN              (NP*))   -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   44      、    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   45     徐工    NN               (NP*    -   -   -   -   *             *             *      *             *             *             *             *    (6
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   46     科技    NN                  *)   -   -   -   -   *             *             *      *             *             *             *             *     6)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   47      、    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   48     常林    NN               (NP*    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   49     股份    NN              *)))))   -   -   -   -   *             *             *      *             *             *)            *             *     9)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   50      ，    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   51     其中    NN            (IP(NP*)   -   -   -   -   *             *             *      *             *             *    (ARGM-ADV*)            *    (9)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   52      ，    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   53     徐工    NR               (NP*    -   -   -   -   *             *             *      *             *             *        (ARG0*             *    (6
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   54     科技    NN                  *)   -   -   -   -   *             *             *      *             *             *             *)            *     6)
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   55      在     P            (VP(PP*    -   -   2   -   *             *             *      *             *             *    (ARGM-LOC*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   56     重庆    NR              (NP*))   -   -   -   -   *             *             *      *             *             *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   57      有    VE               (VP*     有  -   4   -   *             *             *      *             *             *           (V*)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   58    装载机    CD            (NP(QP*)   -   -   -   -   *             *             *      *             *             *        (ARG1*             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   59     工厂    NN           (NP*)))))   -   -   -   -   *             *             *      *             *             *             *)            *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   60      ；    PU                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   61     汽车    NN            (IP(NP*    -   -   -   -   *             *             *      *             *             *             *        (ARG0*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   62    起重机    NN                  *    -   -   -   -   *             *             *      *             *             *             *             *     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   63     厂商    NN                  *)   -   -   -   -   *             *             *      *             *             *             *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   64     主要    AD          (VP(ADVP*)   -   -   -   -   *             *             *      *             *             *             *    (ARGM-ADV*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   65      有    VE               (VP*     有  -   3   -   *             *             *      *             *             *             *           (V*)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   66     中联    NN               (NP*    -   -   -   -   *             *             *      *             *             *             *        (ARG1*     -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   67     重科    NN               *))))   -   -   -   -   *             *             *      *             *             *             *             *)    -
+wb/dev_09_cmn/00/dev_09_cmn_0055   0   68      。    PU                 *))   -   -   -   -   *             *             *      *             *             *             *             *     -
+
+#end document

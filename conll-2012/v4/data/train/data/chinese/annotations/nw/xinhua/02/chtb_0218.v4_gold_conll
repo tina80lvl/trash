@@ -1,0 +1,409 @@
+#begin document (nw/xinhua/02/chtb_0218); part 000
+nw/xinhua/02/chtb_0218   0   0    中国   NR  (TOP(IP(NP*   -    -   -   -    (ORG*        (ARG0*   (36
+nw/xinhua/02/chtb_0218   0   1    国家   NN            *   -    -   -   -        *             *     -
+nw/xinhua/02/chtb_0218   0   2    开发   NN            *   -    -   -   -        *             *     -
+nw/xinhua/02/chtb_0218   0   3    银行   NN            *)  -    -   -   -        *)            *)   36)
+nw/xinhua/02/chtb_0218   0   4    今年   NT      (VP(NP*)  -    -   -   -    (DATE)   (ARGM-TMP*)   (2)
+nw/xinhua/02/chtb_0218   0   5     将   AD       (ADVP*)  -    -   -   -        *    (ARGM-ADV*)    -
+nw/xinhua/02/chtb_0218   0   6     不   AD       (ADVP*)  -    -   -   -        *    (ARGM-ADV*)    -
+nw/xinhua/02/chtb_0218   0   7     向    P         (PP*   -    -   -   -        *        (ARG2*     -
+nw/xinhua/02/chtb_0218   0   8    公众   NN        (NP*))  -    -   -   -        *             *)   (7)
+nw/xinhua/02/chtb_0218   0   9    筹资   VV      (VP*))))  -   01   -   -        *           (V*)    -
+
+nw/xinhua/02/chtb_0218   0   0     新华社   NR  (TOP(FRAG*   -   -   -   -     (ORG)  -
+nw/xinhua/02/chtb_0218   0   1      北京   NR           *   -   -   -   -     (GPE)  -
+nw/xinhua/02/chtb_0218   0   2      四月   NT           *   -   -   -   -   (DATE*   -
+nw/xinhua/02/chtb_0218   0   3    二十三日   NT           *   -   -   -   -        *)  -
+nw/xinhua/02/chtb_0218   0   4       电   NN          *))  -   -   -   -        *   -
+
+nw/xinhua/02/chtb_0218   0    0        据     P              (TOP(IP(PP*   -    -   -   -         *        *             *    (ARGM-MNR*             *           *   (ARGM-MNR*    (ARGM-MNR*        *        *            *            -
+nw/xinhua/02/chtb_0218   0    1        《    PU                  (IP(NP*   -    -   -   -         *   (ARG0*             *             *             *           *            *             *        *        *            *          (25
+nw/xinhua/02/chtb_0218   0    2       中国    NR                        *   -    -   -   -     (ORG*        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0    3      证券报    NN                     (NP*)  -    -   -   -         *)       *             *             *             *           *            *             *        *        *            *          (25)
+nw/xinhua/02/chtb_0218   0    4        》    PU                        *)  -    -   -   -         *        *)            *             *             *           *            *             *        *        *            *           25)
+nw/xinhua/02/chtb_0218   0    5       报道    VV                   (VP*)))  -   01   -   -         *      (V*)            *             *)            *           *            *)            *)       *        *            *            -
+nw/xinhua/02/chtb_0218   0    6        ，    PU                        *   -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0    7       国家    NN   (IP(IP(NP(CP(CP(IP(NP*   -    -   -   -     (ORG*        *        (ARG0*        (ARG0*             *           *            *             *        *        *            *      (32|(36
+nw/xinhua/02/chtb_0218   0    8       开发    NN                        *   -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0    9       银行    NN                        *)  -    -   -   -         *)       *             *)            *             *           *            *             *        *        *            *           36)
+nw/xinhua/02/chtb_0218   0   10       今年    NT                  (VP(NP*)  -    -   -   -     (DATE)       *    (ARGM-TMP*)            *             *           *            *             *        *        *            *           (2)
+nw/xinhua/02/chtb_0218   0   11       发行    VV                   (VP*)))  -   01   -   -         *        *           (V*)            *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   12        的   DEC                       *))  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   13    六百五十亿    CD                     (QP*)  -    -   -   -    (MONEY)       *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   14       金融    NN                     (NP*   -    -   -   -         *        *        (ARG1*             *             *           *            *             *        *        *            *          (32
+nw/xinhua/02/chtb_0218   0   15       债券    NN                       *))  -    -   -   -         *        *             *)            *)            *           *            *             *        *        *            *       32)|32)
+nw/xinhua/02/chtb_0218   0   16        不    AD                (VP(ADVP*)  -    -   -   -         *        *             *    (ARGM-ADV*)            *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   17        在    VV                     (VP*   -   01   2   -         *        *             *           (V*)            *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   18       今年    NT              (NP(DNP(NP*)  -    -   -   -     (DATE)       *             *        (ARG1*    (ARGM-TMP*)          *            *             *        *        *            *       (13|(2)
+nw/xinhua/02/chtb_0218   0   19        的   DEG                        *)  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   20       国内    NN                     (NP*   -    -   -   -         *        *             *             *    (ARGM-LOC*)     (ARG1*)           *             *        *        *            *          (13
+nw/xinhua/02/chtb_0218   0   21       证券    NN                        *   -    -   -   -         *        *             *             *        (ARG1*)   (C-ARG1*)           *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   22       发行    NN                        *   -   01   -   -         *        *             *             *           (V*)   (C-ARG1*)           *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   23       计划    NN                        *   -   01   -   -         *        *             *             *             *         (V*)           *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   24       范畴    NN                    *)))))  -    -   -   -         *        *             *             *)            *           *            *             *        *        *            *       13)|13)
+nw/xinhua/02/chtb_0218   0   25        ，    PU                        *   -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   26       而且    CC                        *   -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   27       纳入    VV               (IP(IP(VP*   -   01   -   -         *        *             *             *             *           *          (V*)       (ARG0*        *        *            *            -
+nw/xinhua/02/chtb_0218   0   28       专业    NN           (NP(DNP(NP(NP*   -    -   -   -         *        *             *             *             *           *       (ARG2*             *        *        *            *   (8|(12|(40
+nw/xinhua/02/chtb_0218   0   29       银行    NN                        *)  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *           12)
+nw/xinhua/02/chtb_0218   0   30       今年    NT                 (DNP(NP*)  -    -   -   -     (DATE)       *             *             *             *           *            *             *        *        *            *           (2)
+nw/xinhua/02/chtb_0218   0   31        的   DEG                        *)  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   32       信贷    NN                     (NP*   -    -   -   -         *        *             *             *             *           *            *             *        *        *            *           (8
+nw/xinhua/02/chtb_0218   0   33       规模    NN                       *))  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *         8)|8)
+nw/xinhua/02/chtb_0218   0   34        之   DEG                        *)  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   35        内    NN                  (NP*))))  -    -   -   -         *        *             *             *             *           *            *)            *)       *        *            *      (40)|40)
+nw/xinhua/02/chtb_0218   0   36        ，    PU                        *   -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   37        也    AD                (VP(ADVP*)  -    -   -   -         *        *             *             *             *           *            *    (ARGM-ADV*)       *        *            *            -
+nw/xinhua/02/chtb_0218   0   38        在    VV                     (VP*   -   01   2   -         *        *             *             *             *           *            *           (V*)       *        *            *            -
+nw/xinhua/02/chtb_0218   0   39       国家    NN  (NP(DNP(NP(CP(CP(IP(NP*   -    -   -   -     (ORG*        *             *             *             *           *            *        (ARG1*   (ARG0*        *       (ARG0*      (23|(28
+nw/xinhua/02/chtb_0218   0   40       计委    NN                        *)  -    -   -   -         *)       *             *             *             *           *            *             *        *)       *            *)           -
+nw/xinhua/02/chtb_0218   0   41       制定    VV                    (VP*))  -   01   -   -         *        *             *             *             *           *            *             *      (V*)       *    (rel-Sup*)           -
+nw/xinhua/02/chtb_0218   0   42        的   DEC                       *))  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   43       固定    JJ                (NP(ADJP*)  -    -   -   -         *        *             *             *             *           *            *             *        *   (ARG1*       (ARG1*)         (38
+nw/xinhua/02/chtb_0218   0   44       资产    NN                    (NP*))  -    -   -   -         *        *             *             *             *           *            *             *        *        *)    (C-ARG1*)     (38)|38)
+nw/xinhua/02/chtb_0218   0   45       投资    NN                     (NP*   -   01   1   -         *        *             *             *             *           *            *             *   (ARG1*      (V*)           *          (23
+nw/xinhua/02/chtb_0218   0   46       计划    NN                       *))  -   01   -   -         *        *             *             *             *           *            *             *        *)       *          (V*)      23)|23)
+nw/xinhua/02/chtb_0218   0   47        之   DEG                        *)  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+nw/xinhua/02/chtb_0218   0   48        列    NN                (NP*))))))  -    -   3   -         *        *             *             *             *           *            *             *)       *        *            *      (28)|28)
+nw/xinhua/02/chtb_0218   0   49        。    PU                       *))  -    -   -   -         *        *             *             *             *           *            *             *        *        *            *            -
+
+nw/xinhua/02/chtb_0218   0    0      这   DT  (TOP(IP(NP(DP*   -    -   -   -   *        (ARG0*        (ARG1*        (32
+nw/xinhua/02/chtb_0218   0    1     部分    M          (CLP*))  -    -   -   -   *             *             *          -
+nw/xinhua/02/chtb_0218   0    2     资金   NN           (NP*))  -    -   -   -   *             *)            *)   (32)|32)
+nw/xinhua/02/chtb_0218   0    3      将   AD    (VP(VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *          -
+nw/xinhua/02/chtb_0218   0    4     全部   AD          (ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *          -
+nw/xinhua/02/chtb_0218   0    5    来源于   VV            (VP*   -   01   -   -   *           (V*)            *          -
+nw/xinhua/02/chtb_0218   0    6     国家   NN            (NP*   -    -   -   -   *        (ARG1*             *         (3
+nw/xinhua/02/chtb_0218   0    7     金融   NN               *   -    -   -   -   *             *             *          -
+nw/xinhua/02/chtb_0218   0    8     机构   NN             *)))  -    -   -   -   *             *)            *          3)
+nw/xinhua/02/chtb_0218   0    9      ，   PU               *   -    -   -   -   *             *             *          -
+nw/xinhua/02/chtb_0218   0   10      不   AD       (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)         -
+nw/xinhua/02/chtb_0218   0   11      对    P            (PP*   -    -   3   -   *             *        (ARG2*          -
+nw/xinhua/02/chtb_0218   0   12     社会   NN            (NP*   -    -   -   -   *             *             *         (7
+nw/xinhua/02/chtb_0218   0   13     公众   NN              *))  -    -   -   -   *             *             *)         7)
+nw/xinhua/02/chtb_0218   0   14     发行   VV            (VP*   -   01   -   -   *             *           (V*)         -
+nw/xinhua/02/chtb_0218   0   15     金融   NN            (NP*   -    -   -   -   *             *        (ARG1*         (0
+nw/xinhua/02/chtb_0218   0   16     债券   NN            *))))  -    -   -   -   *             *             *)         0)
+nw/xinhua/02/chtb_0218   0   17      。   PU              *))  -    -   -   -   *             *             *          -
+
+nw/xinhua/02/chtb_0218   0    0     据     P     (TOP(IP(IP(PP*   -    -   -   -       *        *        *   (ARGM-MNR*         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0    1    介绍    NN              (NP*))  -    -   1   -       *        *        *            *)        *      *             *            *        (14)
+nw/xinhua/02/chtb_0218   0    2     ，    PU                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0    3    国家    NN        (LCP(IP(NP*   -    -   -   -   (ORG*   (ARG1*        *   (ARGM-TMP*         *      *             *            *        (36
+nw/xinhua/02/chtb_0218   0    4    开发    NN                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0    5    银行    NN                  *)  -    -   -   -       *)       *)       *            *         *      *             *            *         36)
+nw/xinhua/02/chtb_0218   0    6    成立    VV              (VP*))  -   01   -   -       *      (V*)       *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0    7     后    LC                  *)  -    -   -   -       *        *        *            *)        *      *             *            *          -
+nw/xinhua/02/chtb_0218   0    8     ，    PU                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0    9     将    BA               (VP*   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   10    专业    NN     (IP(NP(DNP(NP*   -    -   -   -       *        *        *       (ARG1*         *      *             *            *    (12|(26
+nw/xinhua/02/chtb_0218   0   11    银行    NN                  *)  -    -   -   -       *        *        *            *         *      *             *            *         12)
+nw/xinhua/02/chtb_0218   0   12     的   DEG                  *)  -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   13     这    DT               (DP*   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   14    部分     M             (CLP*))  -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   15     用    VV      (CP(CP(IP(VP*   -   01   1   -       *        *      (V*)           *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   16     于     P               (PP*   -    -   -   -       *        *   (ARG2*            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   17    基建    NN               (NP*   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   18     和    CC                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   19    技改    NN                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   20    项目    NN               *))))  -    -   -   -       *        *        *)           *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   21     的   DEC                 *))  -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   22    信贷    NN               (NP*   -    -   -   -       *        *   (ARG1*            *         *      *             *            *        (26
+nw/xinhua/02/chtb_0218   0   23    基金    NN                 *))  -    -   -   -       *        *        *)           *)        *      *             *            *     26)|26)
+nw/xinhua/02/chtb_0218   0   24     以     P            (VP(PP*   -    -   -   -       *        *        *   (ARGM-MNR*         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   25    金融    NN        (NP(DNP(NP*   -    -   -   -       *        *        *            *         *      *             *            *     (0|(15
+nw/xinhua/02/chtb_0218   0   26    债券    NN                  *)  -    -   -   -       *        *        *            *         *      *             *            *          0)
+nw/xinhua/02/chtb_0218   0   27     的   DEG                  *)  -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   28    形式    NN             (NP*)))  -    -   -   -       *        *        *            *)        *      *             *            *    (15)|15)
+nw/xinhua/02/chtb_0218   0   29    转到    VV               (VP*   -   01   -   -       *        *        *          (V*)        *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   30    国家    NN            (NP(NP*   -    -   -   -   (ORG*        *        *       (ARG2*         *      *             *            *    (36|(39
+nw/xinhua/02/chtb_0218   0   31    开发    NN                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   32    银行    NN                  *)  -    -   -   -       *)       *        *            *         *      *             *            *         36)
+nw/xinhua/02/chtb_0218   0   33    名下    NN         (NP*)))))))  -    -   -   -       *        *        *            *)        *      *             *            *    (39)|39)
+nw/xinhua/02/chtb_0218   0   34     ，    PU                  *   -    -   -   -       *        *        *            *         *      *             *            *          -
+nw/xinhua/02/chtb_0218   0   35    所以    AD          (IP(ADVP*)  -    -   -   -       *        *        *            *         *      *    (ARGM-ADV*)           *          -
+nw/xinhua/02/chtb_0218   0   36     在     P            (VP(PP*   -    -   2   -       *        *        *            *         *      *    (ARGM-LOC*       (ARG0*          -
+nw/xinhua/02/chtb_0218   0   37    固定    JJ   (LCP(NP(NP(ADJP*)  -    -   -   -       *        *        *            *    (ARG1*      *             *            *     (5|(38
+nw/xinhua/02/chtb_0218   0   38    资产    NN              (NP*))  -    -   -   -       *        *        *            *         *)     *             *            *    (38)|38)
+nw/xinhua/02/chtb_0218   0   39    投资    NN               (NP*   -   01   1   -       *        *        *            *       (V*)     *             *            *         (5
+nw/xinhua/02/chtb_0218   0   40    总量    NN                 *))  -    -   -   -       *        *        *            *    (ARG2*)     *             *            *       5)|5)
+nw/xinhua/02/chtb_0218   0   41     上    LC                 *))  -    -   3   -       *        *        *            *         *      *             *)           *)         -
+nw/xinhua/02/chtb_0218   0   42     并    AD             (ADVP*)  -    -   -   -       *        *        *            *         *      *    (ARGM-ADV*)           *          -
+nw/xinhua/02/chtb_0218   0   43    没有    VV               (VP*   -   01   2   -       *        *        *            *         *    (V*)            *            *          -
+nw/xinhua/02/chtb_0218   0   44    发生    VV               (VP*   -   01   1   -       *        *        *            *         *      *           (V*)   (rel-Sup*)         -
+nw/xinhua/02/chtb_0218   0   45    变化    NN           (NP*)))))  -   01   -   -       *        *        *            *         *      *        (ARG0*)         (V*)         -
+nw/xinhua/02/chtb_0218   0   46     。    PU                 *))  -    -   -   -       *        *        *            *         *      *             *            *          -
+
+nw/xinhua/02/chtb_0218   0    0      而    AD     (TOP(IP(ADVP*)  -    -   -   -   *             *    (ARGM-DIS*)   (ARGM-DIS*)        *         *    (ARGM-DIS*)            *          -
+nw/xinhua/02/chtb_0218   0    1     专业    NN  (NP(CP(CP(IP(NP*   -    -   -   -   *        (ARG0*        (ARG0*        (ARG0*         *         *        (ARG0*        (ARG0*     (9|(12
+nw/xinhua/02/chtb_0218   0    2     银行    NN                 *)  -    -   -   -   *             *)            *             *         *         *             *             *         12)
+nw/xinhua/02/chtb_0218   0    3     购买    VV           (VP(VP*   -   01   -   -   *           (V*)            *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0    4     金融    NN              (NP*   -    -   -   -   *        (ARG1*             *             *         *         *             *             *         (0
+nw/xinhua/02/chtb_0218   0    5     债券    NN              *))))  -    -   -   -   *             *)            *             *         *         *             *             *          0)
+nw/xinhua/02/chtb_0218   0    6      的   DEC                *))  -    -   -   -   *             *             *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0    7     资金    NN             (NP*))  -    -   -   -   *    (ARGM-MNR*)            *)            *)        *         *             *)            *)     (9)|9)
+nw/xinhua/02/chtb_0218   0    8    来源于    VV           (VP(VP*   -   01   -   -   *             *           (V*)            *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0    9     储蓄    NN              (NP*   -    -   -   -   *             *        (ARG1*             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   10     存款    NN                *))  -    -   -   -   *             *             *)            *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   11      ，    PU                 *   -    -   -   -   *             *             *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   12      并    AD         (VP(ADVP*)  -    -   -   -   *             *             *    (ARGM-ADV*)        *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   13      不    AD            (ADVP*)  -    -   -   -   *             *             *    (ARGM-ADV*)        *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   14      属    VV              (VP*   -   01   2   -   *             *             *           (V*)        *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   15     新增    NN            (NP*)))  -    -   -   -   *             *             *        (ARG1*)        *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   16      ，    PU                 *   -    -   -   -   *             *             *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   17      对     P           (VP(PP*   -    -   3   -   *             *             *             *         *         *             *        (ARG1*          -
+nw/xinhua/02/chtb_0218   0   18     国债    NN    (NP(NP(DNP(NP*)  -    -   -   -   *             *             *             *    (ARG1*)        *             *             *        (33
+nw/xinhua/02/chtb_0218   0   19      的   DEG                 *)  -    -   -   -   *             *             *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   20     发行    NN             (NP*))  -   01   -   -   *             *             *             *       (V*)        *             *             *    (33)|33)
+nw/xinhua/02/chtb_0218   0   21      和    CC                 *   -    -   -   -   *             *             *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   22     新股    NN       (NP(DNP(NP*)  -    -   -   -   *             *             *             *         *    (ARG1*)            *             *        (37
+nw/xinhua/02/chtb_0218   0   23      的   DEG                 *)  -    -   -   -   *             *             *             *         *         *             *             *          -
+nw/xinhua/02/chtb_0218   0   24     发行    NN           (NP*))))  -   01   -   -   *             *             *             *         *       (V*)            *             *)   (37)|37)
+nw/xinhua/02/chtb_0218   0   25      均    AD            (ADVP*)  -    -   -   -   *             *             *             *         *         *    (ARGM-ADV*)   (ARGM-ADV*)         -
+nw/xinhua/02/chtb_0218   0   26      无    VE              (VP*   -   01   1   -   *             *             *             *         *         *           (V*)    (rel-Sup*)         -
+nw/xinhua/02/chtb_0218   0   27     影响    NN           (NP*))))  -   01   -   -   *             *             *             *         *         *        (ARG1*)          (V*)         -
+nw/xinhua/02/chtb_0218   0   28      。    PU                *))  -    -   -   -   *             *             *             *         *         *             *             *          -
+
+nw/xinhua/02/chtb_0218   0    0        据     P          (TOP(IP(PP*   -    -   -   -            *        *    (ARGM-ADV*        *         *         *          -
+nw/xinhua/02/chtb_0218   0    1       了解    NN                (NP*))  -    -   1   -            *        *             *)       *         *         *          -
+nw/xinhua/02/chtb_0218   0    2        ，    PU                    *   -    -   -   -            *        *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0    3       今年    NT   (LCP(IP(NP(DNP(NP*)  -    -   -   -        (DATE)  (ARG1*    (ARGM-TMP*        *         *         *     (32|(2)
+nw/xinhua/02/chtb_0218   0    4        的   DEG                    *)  -    -   -   -            *        *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0    5    六百五十亿    CD                 (QP*)  -    -   -   -       (MONEY)       *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0    6       金融    NN                 (NP*   -    -   -   -            *        *             *        *         *         *        (32
+nw/xinhua/02/chtb_0218   0    7       债券    NN                   *))  -    -   -   -            *        *)            *        *         *         *     32)|32)
+nw/xinhua/02/chtb_0218   0    8       到位    VV                (VP*))  -   01   -   -            *      (V*)            *        *         *         *          -
+nw/xinhua/02/chtb_0218   0    9        后    LC                    *)  -    -   -   -            *        *             *)       *         *         *          -
+nw/xinhua/02/chtb_0218   0   10        ，    PU                    *   -    -   -   -            *        *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0   11        将    AD            (VP(ADVP*)  -    -   -   -            *        *    (ARGM-ADV*)       *         *         *          -
+nw/xinhua/02/chtb_0218   0   12        有    VE                 (VP*   -   05   4   -            *        *           (V*)       *         *         *          -
+nw/xinhua/02/chtb_0218   0   13      六百亿    CD        (IP(IP(NP(QP*)  -    -   -   -       (MONEY)       *        (ARG1*   (ARG1*         *         *        (35
+nw/xinhua/02/chtb_0218   0   14       资金    NN                (NP*))  -    -   -   -            *        *             *        *)        *         *    (35)|35)
+nw/xinhua/02/chtb_0218   0   15        用    VV                 (VP*   -   01   1   -            *        *             *      (V*)        *         *          -
+nw/xinhua/02/chtb_0218   0   16        于     P                 (PP*   -    -   -   -            *        *             *   (ARG2*         *         *          -
+nw/xinhua/02/chtb_0218   0   17    三百四十五    CD              (NP(QP*   -    -   -   -   (CARDINAL*        *             *        *         *         *        (20
+nw/xinhua/02/chtb_0218   0   18        个     M               (CLP*))  -    -   -   -            *)       *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0   19      大中型    JJ               (ADJP*)  -    -   -   -            *        *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0   20       基建    NN                 (NP*   -    -   -   -            *        *             *        *         *         *        (20
+nw/xinhua/02/chtb_0218   0   21       项目    NN                *)))))  -    -   -   -            *        *             *        *)        *         *     20)|20)
+nw/xinhua/02/chtb_0218   0   22        ，    PU                    *   -    -   -   -            *        *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0   23      五十亿    CD              (IP(QP*)  -    -   -   -       (MONEY)       *             *        *    (ARG1*)        *          -
+nw/xinhua/02/chtb_0218   0   24        用    VV                 (VP*   -   01   1   -            *        *             *        *       (V*)        *          -
+nw/xinhua/02/chtb_0218   0   25        于     P                 (PP*   -    -   -   -            *        *             *        *    (ARG2*         *          -
+nw/xinhua/02/chtb_0218   0   26       重要    JJ            (NP(ADJP*)  -    -   -   -            *        *             *        *         *         *         (6
+nw/xinhua/02/chtb_0218   0   27      政策性    JJ               (ADJP*)  -    -   -   -            *        *             *        *         *         *          -
+nw/xinhua/02/chtb_0218   0   28       技术    NN                 (NP*   -    -   -   -            *        *             *        *         *    (ARG1*)        (6
+nw/xinhua/02/chtb_0218   0   29       改造    NN                    *   -   01   -   -            *        *             *        *         *       (V*)         -
+nw/xinhua/02/chtb_0218   0   30       项目    NN             *))))))))  -    -   -   -            *        *             *)       *         *)        *       6)|6)
+nw/xinhua/02/chtb_0218   0   31        。    PU                   *))  -    -   -   -            *        *             *        *         *         *          -
+
+nw/xinhua/02/chtb_0218   0    0      据    P    (TOP(IP(PP*   -    -   -   -       *    (ARGM-MNR*    (ARGM-MNR*        *   (ARGM-MNR*    (ARGM-MNR*          -
+nw/xinhua/02/chtb_0218   0    1     介绍   NN          (NP*))  -    -   1   -       *             *)            *)       *            *)            *)       (14)
+nw/xinhua/02/chtb_0218   0    2      ，   PU              *   -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0    3     国家   NN     (IP(IP(NP*   -    -   -   -   (ORG*        (ARG0*        (ARG0*        *            *             *        (36
+nw/xinhua/02/chtb_0218   0    4     开发   NN              *   -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0    5     银行   NN              *)  -    -   -   -       *)            *)            *)       *            *             *         36)
+nw/xinhua/02/chtb_0218   0    6     作为    P        (VP(PP*   -    -   -   -       *    (ARGM-MNR*    (ARGM-ADV*        *            *             *          -
+nw/xinhua/02/chtb_0218   0    7    政策性   JJ      (NP(ADJP*)  -    -   -   -       *             *             *        *            *             *        (34
+nw/xinhua/02/chtb_0218   0    8     金融   NN           (NP*   -    -   -   -       *             *             *        *            *             *        (34
+nw/xinhua/02/chtb_0218   0    9     机构   NN            *)))  -    -   -   -       *             *)            *)       *            *             *     34)|34)
+nw/xinhua/02/chtb_0218   0   10      ，   PU              *   -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   11      将   AD         (ADVP*)  -    -   -   -       *    (ARGM-ADV*)   (ARGM-ADV*)       *            *             *          -
+nw/xinhua/02/chtb_0218   0   12     着重   AD         (ADVP*)  -    -   -   -       *    (ARGM-ADV*)   (ARGM-ADV*)       *            *             *          -
+nw/xinhua/02/chtb_0218   0   13     扶持   VV        (VP(VP*   -   01   -   -       *           (V*)            *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   14     国家   NN           (NP*   -    -   -   -       *        (ARG1*             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   15     支柱   NN              *   -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   16     产业   NN             *))  -    -   2   -       *             *)            *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   17      ，   PU              *   -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   18     支持   VV           (VP*   -   01   -   -       *             *           (V*)       *            *             *          -
+nw/xinhua/02/chtb_0218   0   19     国家   NN           (NP*)  -    -   -   -       *             *        (ARG1*)       *            *             *          -
+nw/xinhua/02/chtb_0218   0   20     进行   VV        (IP(VP*   -   01   3   -       *             *        (ARG1*      (V*)           *             *          -
+nw/xinhua/02/chtb_0218   0   21     宏观   JJ   (NP(NP(ADJP*)  -    -   -   -       *             *             *   (ARG1*            *             *     (4|(10
+nw/xinhua/02/chtb_0218   0   22     经济   NN          (NP*))  -    -   2   -       *             *             *        *            *             *      (4)|4)
+nw/xinhua/02/chtb_0218   0   23     管理   NN     (NP*)))))))  -    -   -   -       *             *             *)       *)           *             *    (10)|10)
+nw/xinhua/02/chtb_0218   0   24      ，   PU              *)  -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   25      其   PN     (IP(NP(NP*)  -    -   -   -       *             *             *        *       (ARG0*        (ARG0*        (36
+nw/xinhua/02/chtb_0218   0   26     本身   PN          (NP*))  -    -   -   -       *             *             *        *            *)            *)   (36)|36)
+nw/xinhua/02/chtb_0218   0   27     没有   VE        (VP(VP*   -   02   1   -       *             *             *        *          (V*)            *          -
+nw/xinhua/02/chtb_0218   0   28     资金   NN           (NP*   -    -   -   -       *             *             *        *       (ARG1*             *          -
+nw/xinhua/02/chtb_0218   0   29     来源   NN             *))  -    -   -   -       *             *             *        *            *)            *          -
+nw/xinhua/02/chtb_0218   0   30      ，   PU              *   -    -   -   -       *             *             *        *            *             *          -
+nw/xinhua/02/chtb_0218   0   31      不   AD      (VP(ADVP*)  -    -   -   -       *             *             *        *            *    (ARGM-ADV*)         -
+nw/xinhua/02/chtb_0218   0   32      以    P           (PP*   -    -   -   -       *             *             *        *            *        (ARG2*          -
+nw/xinhua/02/chtb_0218   0   33     盈利   NN          (NP*))  -    -   -   -       *             *             *        *            *             *)         -
+nw/xinhua/02/chtb_0218   0   34      为   VV           (VP*   -   02   2   -       *             *             *        *            *           (V*)         -
+nw/xinhua/02/chtb_0218   0   35     目的   NN      (NP*))))))  -    -   -   -       *             *             *        *            *        (ARG1*)         -
+nw/xinhua/02/chtb_0218   0   36      。   PU             *))  -    -   -   -       *             *             *        *            *             *          -
+
+nw/xinhua/02/chtb_0218   0    0     开发    NN  (TOP(IP(IP(NP(DNP(NP*   -    -   -   -            *        (ARG0*             *        *         *             *         *             *         *         *        *             *        *    (27|(36
+nw/xinhua/02/chtb_0218   0    1     银行    NN                      *)  -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *         36)
+nw/xinhua/02/chtb_0218   0    2      的   DEG                      *)  -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0    3     资金    NN                   (NP*   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *        (27
+nw/xinhua/02/chtb_0218   0    4     来源    NN                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0    5     渠道    NN                     *))  -    -   -   -            *             *)            *        *         *             *         *             *         *         *        *             *        *     27)|27)
+nw/xinhua/02/chtb_0218   0    6      很    AD              (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0    7      多    VA                 (VP*)))  -   01   3   -            *           (V*)            *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0    8      ，    PU                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0    9      一    CD         (IP(VP(VP(LST*)  -    -   -   -    (CARDINAL)            *    (ARGM-ADV*)       *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   10      是    VC                   (VP*   -   01   1   -            *             *           (V*)       *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   11     国家    NN       (NP(CP(CP(IP(NP*   -    -   -   -            *             *        (ARG1*   (ARG0*         *             *         *             *         *         *        *             *        *        (16
+nw/xinhua/02/chtb_0218   0   12     财政    NN                      *)  -    -   -   -            *             *             *        *)        *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   13     划拨    VV                  (VP*))  -   01   -   -            *             *             *      (V*)        *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   14      的   DEC                     *))  -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   15    五百亿    CD                   (QP*)  -    -   -   -       (MONEY)            *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   16     注册    NN                   (NP*   -   01   -   -            *             *             *   (ARG1*       (V*)            *         *             *         *         *        *             *        *        (16
+nw/xinhua/02/chtb_0218   0   17     资本    NN                   *))))  -    -   -   -            *             *             *)       *)   (ARG1*)            *         *             *         *         *        *             *        *     16)|16)
+nw/xinhua/02/chtb_0218   0   18      ；    PU                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   19      二    CD               (VP(LST*)  -    -   -   -    (CARDINAL)            *             *        *         *    (ARGM-ADV*)        *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   20      是    VC                   (VP*   -   01   1   -            *             *             *        *         *           (V*)        *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   21      向     P                (VP(PP*   -    -   -   -            *             *             *        *         *        (ARG1*    (ARG2*             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   22     金融    NN                   (NP*   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *         (3
+nw/xinhua/02/chtb_0218   0   23     机构    NN                     *))  -    -   -   -            *             *             *        *         *             *         *)            *         *         *        *             *        *          3)
+nw/xinhua/02/chtb_0218   0   24     发行    VV                   (VP*   -   01   -   -            *             *             *        *         *             *       (V*)            *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   25     债券    NN               (NP*)))))  -    -   -   -            *             *             *        *         *             *)   (ARG1*)            *         *         *        *             *        *         (0)
+nw/xinhua/02/chtb_0218   0   26      ；    PU                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   27      三    CD               (VP(LST*)  -    -   -   -    (CARDINAL)            *             *        *         *             *         *    (ARGM-ADV*)        *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   28      是    VC                   (VP*   -   01   1   -            *             *             *        *         *             *         *           (V*)        *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   29      向     P          (VP(VP(VP(PP*   -    -   -   -            *             *             *        *         *             *         *        (ARG1*    (ARG2*         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   30     国外    NN                  (NP*))  -    -   -   -            *             *             *        *         *             *         *             *         *)        *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   31     发行    VV                   (VP*   -   01   -   -            *             *             *        *         *             *         *             *       (V*)        *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   32     债券    NN                 (NP*)))  -    -   -   -            *             *             *        *         *             *         *             *    (ARG1*)        *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   33      以   MSP                   (VP*   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   34     吸引    VV                   (VP*   -   01   1   -            *             *             *        *         *             *         *             *         *       (V*)       *             *        *          -
+nw/xinhua/02/chtb_0218   0   35     外资    NN                (NP*))))  -    -   -   -            *             *             *        *         *             *         *             *         *    (ARG1*)       *             *        *          -
+nw/xinhua/02/chtb_0218   0   36      ，    PU                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   37      或    CC                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   38      向     P                (VP(PP*   -    -   -   -            *             *             *        *         *             *         *             *         *         *   (ARG1*             *        *          -
+nw/xinhua/02/chtb_0218   0   39     国外    NN                   (NP*   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   40     商业    NN                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   41     银行    NN                     *))  -    -   -   -            *             *             *        *         *             *         *             *         *         *        *)            *        *          -
+nw/xinhua/02/chtb_0218   0   42     贷款    VV               (VP*)))))  -   01   -   -            *             *             *        *         *             *         *             *)        *         *      (V*)            *        *          -
+nw/xinhua/02/chtb_0218   0   43      ；    PU                      *   -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   44      四    CD               (VP(LST*)  -    -   -   -    (CARDINAL)            *             *        *         *             *         *             *         *         *        *    (ARGM-ADV*)       *          -
+nw/xinhua/02/chtb_0218   0   45      是    VC                   (VP*   -   01   1   -            *             *             *        *         *             *         *             *         *         *        *           (V*)       *          -
+nw/xinhua/02/chtb_0218   0   46     人民    NN            (NP(DNP(NP*   -    -   -   -        (ORG*             *             *        *         *             *         *             *         *         *        *        (ARG1*   (ARG0*        (22
+nw/xinhua/02/chtb_0218   0   47     银行    NN                      *)  -    -   -   -            *)            *             *        *         *             *         *             *         *         *        *             *        *)         -
+nw/xinhua/02/chtb_0218   0   48      的   DEG                      *)  -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+nw/xinhua/02/chtb_0218   0   49     拨款    NN              (NP*))))))  -   01   -   -            *             *             *        *         *             *         *             *         *         *        *             *)     (V*)   (22)|22)
+nw/xinhua/02/chtb_0218   0   50      。    PU                     *))  -    -   -   -            *             *             *        *         *             *         *             *         *         *        *             *        *          -
+
+nw/xinhua/02/chtb_0218   0    0    今后   NT   (TOP(IP(IP(VP(NP*)  -    -   -   -   *      *    (ARGM-TMP*)            *    -
+nw/xinhua/02/chtb_0218   0    1     也   AD              (ADVP*)  -    -   -   -   *      *    (ARGM-ADV*)            *    -
+nw/xinhua/02/chtb_0218   0    2    可能   VV                (VP*   -   01   -   -   *    (V*)            *             *    -
+nw/xinhua/02/chtb_0218   0    3     向    P             (VP(PP*   -    -   -   -   *      *        (ARG2*             *    -
+nw/xinhua/02/chtb_0218   0    4    社会   NN                (NP*   -    -   -   -   *      *             *             *   (7
+nw/xinhua/02/chtb_0218   0    5    公众   NN                  *))  -    -   -   -   *      *             *)            *    7)
+nw/xinhua/02/chtb_0218   0    6    发行   VV                (VP*   -   01   -   -   *      *           (V*)            *    -
+nw/xinhua/02/chtb_0218   0    7    债券   NN           (NP*))))))  -    -   -   -   *      *        (ARG1*)            *    -
+nw/xinhua/02/chtb_0218   0    8     ，   PU                   *   -    -   -   -   *      *             *             *    -
+nw/xinhua/02/chtb_0218   0    9     但   AD           (IP(ADVP*)  -    -   -   -   *      *             *    (ARGM-DIS*)   -
+nw/xinhua/02/chtb_0218   0   10    数额   NN                (NP*)  -    -   -   -   *      *             *        (ARG0*)   -
+nw/xinhua/02/chtb_0218   0   11     很   AD           (VP(ADVP*)  -    -   -   -   *      *             *    (ARGM-ADV*)   -
+nw/xinhua/02/chtb_0218   0   12     小   VA              (VP*)))  -   01   -   -   *      *             *           (V*)   -
+nw/xinhua/02/chtb_0218   0   13     。   PU                  *))  -    -   -   -   *      *             *             *    -
+
+nw/xinhua/02/chtb_0218   0    0     据悉    AD      (TOP(IP(ADVP*)  -    -   -   -        *         *        *        *        *         *    (ARGM-MNR*)     *    (ARGM-MNR*)           -
+nw/xinhua/02/chtb_0218   0    1      ，    PU                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0    2     根据     P               (PP*   -    -   -   -        *         *        *        *        *         *    (ARGM-MNR*      *    (ARGM-MNR*            -
+nw/xinhua/02/chtb_0218   0    3    国务院    NN   (NP(CP(CP(IP(NP*)  -    -   -   -     (ORG)   (ARG0*)       *        *        *         *             *      *             *          (29
+nw/xinhua/02/chtb_0218   0    4     批准    VV              (VP*))  -   01   1   -        *       (V*)       *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0    5      的   DEC                 *))  -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0    6      《    PU               (NP*   -    -   -   -        *    (ARG1*        *        *        *         *             *      *             *          (29
+nw/xinhua/02/chtb_0218   0    7     国家    NN               (NP*   -    -   -   -    (ORG*         *   (ARG1*   (ARG0*        *         *             *      *             *          (36
+nw/xinhua/02/chtb_0218   0    8     开发    NN                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0    9     银行    NN                  *)  -    -   -   -        *)        *        *)       *)       *         *             *      *             *           36)
+nw/xinhua/02/chtb_0218   0   10     组建    NN               (NP*   -   01   -   -        *         *      (V*)       *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   11      和    CC                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   12     运行    NN                  *)  -   01   -   -        *         *        *      (V*)       *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   13     方案    NN               (NP*)  -    -   -   -        *         *        *        *        *         *             *      *             *          (29)
+nw/xinhua/02/chtb_0218   0   14      》    PU                *)))  -    -   -   -        *         *)       *        *        *         *             *)     *             *)      29)|29)
+nw/xinhua/02/chtb_0218   0   15      ，    PU                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   16     国家    NN  (NP(NP(DNP(NP(NP*   -    -   -   -    (ORG*         *        *        *   (ARG1*         *             *      *             *   (1|(24|(36
+nw/xinhua/02/chtb_0218   0   17     开发    NN                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   18     银行    NN                  *)  -    -   -   -        *)        *        *        *        *)        *             *      *             *           36)
+nw/xinhua/02/chtb_0218   0   19    政策性    JJ             (ADJP*)  -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   20     贷款    NN              (NP*))  -   01   -   -        *         *        *        *      (V*)        *             *      *             *      (24)|24)
+nw/xinhua/02/chtb_0218   0   21      的   DEG                  *)  -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   22     资金    NN               (NP*   -    -   -   -        *         *        *        *        *    (ARG1*)            *      *             *            -
+nw/xinhua/02/chtb_0218   0   23     拨付    NN                  *)  -   01   -   -        *         *        *        *        *       (V*)            *      *             *            -
+nw/xinhua/02/chtb_0218   0   24      等   ETC                  *)  -    -   2   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   25     业务    NN              (NP*))  -    -   -   -        *         *        *        *        *         *             *      *             *        (1)|1)
+nw/xinhua/02/chtb_0218   0   26      已    AD          (VP(ADVP*)  -    -   2   -        *         *        *        *        *         *    (ARGM-ADV*)     *    (ARGM-ADV*)           -
+nw/xinhua/02/chtb_0218   0   27     委托    VV            (VP(VP*   -   01   -   -        *         *        *        *        *         *           (V*)     *             *            -
+nw/xinhua/02/chtb_0218   0   28     中国    NR               (NP*   -    -   -   -    (ORG*         *        *        *        *         *        (ARG1*      *             *          (19
+nw/xinhua/02/chtb_0218   0   29     人民    NN                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   30     建设    NN                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   31     银行    NN                  *)  -    -   -   -        *)        *        *        *        *         *             *)     *             *           19)
+nw/xinhua/02/chtb_0218   0   32     办理    VV          (IP(VP*)))  -   01   -   -        *         *        *        *        *         *        (ARG2*)   (V*)            *            -
+nw/xinhua/02/chtb_0218   0   33      ，    PU                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   34      并    CC                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   35      于     P            (VP(PP*   -    -   -   -        *         *        *        *        *         *             *      *    (ARGM-TMP*            -
+nw/xinhua/02/chtb_0218   0   36     日前    NT              (NP*))  -    -   -   -    (DATE)        *        *        *        *         *             *      *             *)           -
+nw/xinhua/02/chtb_0218   0   37      在     P               (PP*   -    -   2   -        *         *        *        *        *         *             *      *    (ARGM-LOC*            -
+nw/xinhua/02/chtb_0218   0   38      京    NR              (NP*))  -    -   -   -     (GPE)        *        *        *        *         *             *      *             *)           -
+nw/xinhua/02/chtb_0218   0   39     举行    VV               (VP*   -   01   -   -        *         *        *        *        *         *             *      *           (V*)           -
+nw/xinhua/02/chtb_0218   0   40      了    AS                  *   -    -   -   -        *         *        *        *        *         *             *      *             *            -
+nw/xinhua/02/chtb_0218   0   41     签字    NN               (NP*   -    -   -   -        *         *        *        *        *         *             *      *        (ARG1*            -
+nw/xinhua/02/chtb_0218   0   42     仪式    NN              *)))))  -    -   -   -        *         *        *        *        *         *             *      *             *)           -
+nw/xinhua/02/chtb_0218   0   43      。    PU                 *))  -    -   -   -        *         *        *        *        *         *             *      *             *            -
+
+nw/xinhua/02/chtb_0218   0    0     经     P   (TOP(IP(PP*   -    -   -   -       *         *   (ARGM-MNR*        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0    1    双方    PN       (IP(NP*)  -    -   -   -       *    (ARG0*)           *        *        *        *         *        *         *        *        *         *               *        (17)
+nw/xinhua/02/chtb_0218   0    2    协商    VV        (VP*)))  -   01   -   -       *       (V*)           *)       *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0    3     ，    PU             *   -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0    4    国家    NN          (NP*   -    -   -   -   (ORG*         *       (ARG0*        *        *        *         *        *         *        *        *         *               *        (36
+nw/xinhua/02/chtb_0218   0    5    开发    NN             *   -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0    6    银行    NN             *)  -    -   -   -       *)        *            *)       *        *        *         *        *         *        *        *         *               *         36)
+nw/xinhua/02/chtb_0218   0    7    委托    VV          (VP*   -   01   -   -       *         *          (V*)       *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0    8    建设    NN          (NP*   -    -   -   -   (ORG*         *       (ARG1*        *        *        *         *        *         *        *        *         *               *        (19
+nw/xinhua/02/chtb_0218   0    9    银行    NN             *)  -    -   -   -       *)        *            *)       *        *        *         *        *         *        *        *         *               *         19)
+nw/xinhua/02/chtb_0218   0   10    监督    VV    (IP(VP(VP*   -   01   -   -       *         *       (ARG2*      (V*)       *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   11    借款    NN   (NP(DNP(NP*   -    -   -   -       *         *            *   (ARG1*   (ARG1*        *         *        *         *        *        *         *               *        (18
+nw/xinhua/02/chtb_0218   0   12    合同    NN             *)  -    -   -   -       *         *            *        *        *)       *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   13     的   DEG             *)  -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   14    执行    NN        (NP*)))  -   01   -   -       *         *            *        *)     (V*)       *         *        *         *        *        *         *               *    (18)|18)
+nw/xinhua/02/chtb_0218   0   15     ，    PU             *   -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   16    办理    VV          (VP*   -   01   -   -       *         *            *        *        *      (V*)        *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   17    贷款    NN       (NP(NP*   -    -   -   -       *         *            *        *        *   (ARG1*         *        *         *        *        *         *               *        (30
+nw/xinhua/02/chtb_0218   0   18     和    CC             *   -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   19    资金    NN             *   -    -   -   -       *         *            *        *        *        *    (ARG1*)       *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   20    拨付    NN             *   -   01   -   -       *         *            *        *        *        *       (V*)       *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   21     等   ETC             *)  -    -   2   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   22    业务    NN        (NP*)))  -    -   -   -       *         *            *        *        *        *)        *        *         *        *        *         *               *    (30)|30)
+nw/xinhua/02/chtb_0218   0   23     ，    PU             *   -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   24    监督    VV          (VP*   -   01   -   -       *         *            *        *        *        *         *      (V*)        *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   25    贷款    NN   (NP(DNP(NP*)  -    -   -   -       *         *            *        *        *        *         *   (ARG1*    (ARG1*)       *        *         *               *        (11
+nw/xinhua/02/chtb_0218   0   26     的   DEG             *)  -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   27    使用    NN        (NP*)))  -   01   -   -       *         *            *        *        *        *         *        *)      (V*)       *        *         *               *    (11)|11)
+nw/xinhua/02/chtb_0218   0   28     ，    PU             *   -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+nw/xinhua/02/chtb_0218   0   29    协助    VV      (VP(VSB*   -   01   1   -       *         *            *        *        *        *         *        *         *      (V*)       *         *               *          -
+nw/xinhua/02/chtb_0218   0   30    做好    VV             *)  -   01   -   -       *         *            *        *        *        *         *        *         *        *      (V*)        *       (rel-Sup*)         -
+nw/xinhua/02/chtb_0218   0   31    贷款    NN          (NP*   -    -   -   -       *         *            *        *        *        *         *        *         *   (ARG1*   (ARG1*    (ARG1*)     (ARGM-LOC*)         -
+nw/xinhua/02/chtb_0218   0   32    回收    NN             *   -   01   -   -       *         *            *        *        *        *         *        *         *        *        *       (V*)   (C-ARGM-LOC*)         -
+nw/xinhua/02/chtb_0218   0   33    工作    NN         *)))))  -   01   -   -       *         *            *)       *        *        *         *        *         *        *)       *)        *             (V*)         -
+nw/xinhua/02/chtb_0218   0   34     。    PU            *))  -    -   -   -       *         *            *        *        *        *         *        *         *        *        *         *               *          -
+
+nw/xinhua/02/chtb_0218   0    0    双方    PN      (TOP(IP(NP*)  -    -   -   -   *         *        (ARG0*)      (17)
+nw/xinhua/02/chtb_0218   0    1     还    AD        (VP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)        -
+nw/xinhua/02/chtb_0218   0    2     就     P             (PP*   -    -   1   -   *         *    (ARGM-ADV*         -
+nw/xinhua/02/chtb_0218   0    3    各自    PN   (NP(NP(DNP(NP*)  -    -   -   -   *         *             *       (31
+nw/xinhua/02/chtb_0218   0    4     的   DEG                *)  -    -   -   -   *         *             *         -
+nw/xinhua/02/chtb_0218   0    5    责任    NN             (NP*   -    -   -   -   *         *             *       (31
+nw/xinhua/02/chtb_0218   0    6     、    PU                *   -    -   -   -   *         *             *         -
+nw/xinhua/02/chtb_0218   0    7    权利    NN               *))  -    -   -   -   *         *             *    31)|31)
+nw/xinhua/02/chtb_0218   0    8    以及    CC                *   -    -   -   -   *         *             *         -
+nw/xinhua/02/chtb_0218   0    9    资金    NN      (NP(DNP(NP*)  -    -   -   -   *    (ARG1*)            *       (21
+nw/xinhua/02/chtb_0218   0   10     的   DEG                *)  -    -   -   -   *         *             *         -
+nw/xinhua/02/chtb_0218   0   11    运作    NN             (NP*   -   01   -   -   *       (V*)            *       (21
+nw/xinhua/02/chtb_0218   0   12    程序    NN               *))  -    -   -   -   *         *             *    21)|21)
+nw/xinhua/02/chtb_0218   0   13     等   ETC               *))  -    -   2   -   *         *             *)        -
+nw/xinhua/02/chtb_0218   0   14    达成    VV             (VP*   -   01   -   -   *         *           (V*)        -
+nw/xinhua/02/chtb_0218   0   15     了    AS                *   -    -   -   -   *         *             *         -
+nw/xinhua/02/chtb_0218   0   16    协议    NN           (NP*)))  -    -   -   -   *         *        (ARG1*)        -
+nw/xinhua/02/chtb_0218   0   17     。    PU               *))  -    -   -   -   *         *             *         -
+
+nw/xinhua/02/chtb_0218   0   0    （   PU  (TOP(FRAG*   -    -   -   -   *      *   -
+nw/xinhua/02/chtb_0218   0   1    完   VV           *   -   01   2   -   *    (V*)  -
+nw/xinhua/02/chtb_0218   0   2    ）   PU          *))  -    -   -   -   *      *   -
+
+#end document

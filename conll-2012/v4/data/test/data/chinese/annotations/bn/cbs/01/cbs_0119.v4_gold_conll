@@ -1,0 +1,307 @@
+#begin document (bn/cbs/01/cbs_0119); part 000
+bn/cbs/01/cbs_0119   0    0    国防部   NN   (TOP(IP(NP*)  -    -   -   -     (ORG)       (ARG0*)      (12)
+bn/cbs/01/cbs_0119   0    1     今天   NT       (VP(NP*)  -    -   -   -    (DATE)   (ARGM-TMP*)        -
+bn/cbs/01/cbs_0119   0    2     针对    P          (PP*   -    -   -   -        *             *         -
+bn/cbs/01/cbs_0119   0    3     海军   NN       (NP(NP*)  -    -   -   -        *             *    (13|(2)
+bn/cbs/01/cbs_0119   0    4    ８９年   NT          (NP*   -    -   -   -    (DATE)            *         -
+bn/cbs/01/cbs_0119   0    5      和   CC             *   -    -   -   -        *             *         -
+bn/cbs/01/cbs_0119   0    6    ９０年   NT             *)  -    -   -   -    (DATE)            *         -
+bn/cbs/01/cbs_0119   0    7     建军   NN          (NP*   -    -   -   -        *             *         -
+bn/cbs/01/cbs_0119   0    8     备战   NN             *)  -    -   -   -        *             *         -
+bn/cbs/01/cbs_0119   0    9     工作   NN          (NP*)  -    -   -   -        *             *         -
+bn/cbs/01/cbs_0119   0   10     重点   NN        (NP*)))  -    -   -   -        *             *        13)
+bn/cbs/01/cbs_0119   0   11     提出   VV          (VP*   -   01   -   -        *           (V*)        -
+bn/cbs/01/cbs_0119   0   12     说明   NN        (NP*)))  -    -   4   -        *        (ARG1*)        -
+bn/cbs/01/cbs_0119   0   13      。   PU            *))  -    -   -   -        *             *         -
+
+bn/cbs/01/cbs_0119   0    0    国防部    NN        (TOP(IP(NP*)  -    -   -   -     (ORG)   (ARG0*)            *             *             *      (12)
+bn/cbs/01/cbs_0119   0    1     表示    VV               (VP*   -   01   2   -        *       (V*)            *             *             *        -
+bn/cbs/01/cbs_0119   0    2      ，    PU                  *   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0    3    ８９年    NT         (IP(IP(NP*)  -    -   -   -    (DATE)   (ARG1*    (ARGM-TMP*)            *             *       (7)
+bn/cbs/01/cbs_0119   0    4     海军    NN               (NP*)  -    -   -   -        *         *        (ARG0*)            *             *       (2)
+bn/cbs/01/cbs_0119   0    5     已经    AD          (VP(ADVP*)  -    -   -   -        *         *    (ARGM-ADV*)            *             *        -
+bn/cbs/01/cbs_0119   0    6     完成    VV               (VP*   -   01   -   -        *         *           (V*)            *             *        -
+bn/cbs/01/cbs_0119   0    7     空军    NN   (NP(IP(IP(NP(NP*)  -    -   -   -        *         *        (ARG1*             *             *      (11
+bn/cbs/01/cbs_0119   0    8    ｓ２ｔ    NN               (NP*   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0    9     反潜    NN                 *))  -    -   -   -        *         *             *             *             *       11)
+bn/cbs/01/cbs_0119   0   10     移兵    VV               (VP*   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   11     海军    NN             (NP*)))  -    -   -   -        *         *             *             *             *       (2)
+bn/cbs/01/cbs_0119   0   12      等   ETC                  *)  -    -   2   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   13     兵力    NN               (NP*   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   14     调整    NN                  *   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   15     工作    NN              *)))))  -    -   -   -        *         *             *)            *             *        -
+bn/cbs/01/cbs_0119   0   16      ，    PU                  *   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   17     未来    NT         (IP(NP(NP*   -    -   -   -        *         *             *        (ARG1*        (ARG0*   (1|(14
+bn/cbs/01/cbs_0119   0   18    ９０年    NT                  *)  -    -   -   -    (DATE)        *             *             *             *        1)
+bn/cbs/01/cbs_0119   0   19     建军    NN               (NP*   -    -   -   -        *         *             *             *             *       (9
+bn/cbs/01/cbs_0119   0   20     工作    NN                  *)  -    -   -   -        *         *             *             *             *        9)
+bn/cbs/01/cbs_0119   0   21     重点    NN              (NP*))  -    -   -   -        *         *             *             *)            *)      14)
+bn/cbs/01/cbs_0119   0   22      将    AD          (VP(ADVP*)  -    -   -   -        *         *             *    (ARGM-ADV*)   (ARGM-ADV*)       -
+bn/cbs/01/cbs_0119   0   23      朝     P               (PP*   -    -   -   -        *         *             *        (ARG1*        (ARG1*        -
+bn/cbs/01/cbs_0119   0   24     筹购    VV      (NP(IP(IP(VP*   -    -   -   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   25     武器    NN               (NP*   -    -   -   -        *         *             *             *             *       (3
+bn/cbs/01/cbs_0119   0   26     装备    NN                *)))  -    -   -   -        *         *             *             *             *        3)
+bn/cbs/01/cbs_0119   0   27      等   ETC                  *)  -    -   2   -        *         *             *             *             *        -
+bn/cbs/01/cbs_0119   0   28     方面    NN             (NP*)))  -    -   -   -        *         *             *             *)            *)       -
+bn/cbs/01/cbs_0119   0   29     继续    VV               (VP*   -   01   -   -        *         *             *           (V*)            *        -
+bn/cbs/01/cbs_0119   0   30     努力    VV          (VP*))))))  -   01   -   -        *         *)            *        (ARG1*)          (V*)       -
+bn/cbs/01/cbs_0119   0   31      。    PU                 *))  -    -   -   -        *         *             *             *             *        -
+
+bn/cbs/01/cbs_0119   0   0      请    VV   (TOP(IP(VP*   -   01   -   -          *      (V*)       *     -
+bn/cbs/01/cbs_0119   0   1      听    VV          (VP*   -   01   -   -          *   (ARG2*      (V*)    -
+bn/cbs/01/cbs_0119   0   2    冯志谦    NR   (NP(DNP(NP*)  -    -   -   -    (PERSON)       *   (ARG1*    (4)
+bn/cbs/01/cbs_0119   0   3      的   DEG             *)  -    -   -   -          *        *        *     -
+bn/cbs/01/cbs_0119   0   4     报道    NN       (NP*))))  -    -   -   -          *        *)       *)    -
+bn/cbs/01/cbs_0119   0   5      。    PU            *))  -    -   -   -          *        *        *     -
+
+bn/cbs/01/cbs_0119   0    0     海军    NN      (TOP(IP(NP(NP*)  -    -   -   -   *       (ARG0*        *        *   (ARG0*    (2)
+bn/cbs/01/cbs_0119   0    1     主要    JJ              (ADJP*)  -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0    2     任务    NN               (NP*))  -    -   -   -   *            *)       *        *        *)    -
+bn/cbs/01/cbs_0119   0    3      为    VC             (VP(VP*   -   01   1   -   *          (V*)       *        *        *     -
+bn/cbs/01/cbs_0119   0    4      最    AD   (NP(NP(ADJP(ADVP*)  -    -   -   -   *   (ARGM-PRD*        *        *        *     -
+bn/cbs/01/cbs_0119   0    5      新    JJ             (ADJP*))  -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0    6    反空袭    NN               (NP*))  -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0    7      和    CC                   *   -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0    8    联合型    JJ           (NP(ADJP*)  -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0    9     作战    NN             (NP*))))  -    -   -   -   *            *)       *        *        *     -
+bn/cbs/01/cbs_0119   0   10      以   MSP                (VP*   -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0   11     确保    VV             (VP(VP*   -   01   -   -   *            *      (V*)       *        *     -
+bn/cbs/01/cbs_0119   0   12      我    PN          (IP(NP(NP*   -    -   -   -   *            *   (ARG1*   (ARG0*        *    (6
+bn/cbs/01/cbs_0119   0   13      国    NN                   *)  -    -   -   -   *            *        *        *        *     6)
+bn/cbs/01/cbs_0119   0   14     对外    JJ              (ADJP*)  -    -   -   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0   15     航运    NN               (NP*))  -    -   -   -   *            *        *        *)       *     -
+bn/cbs/01/cbs_0119   0   16     畅通    VV              (VP*)))  -   01   -   -   *            *        *)     (V*)       *     -
+bn/cbs/01/cbs_0119   0   17      及    CC                   *   -    -   3   -   *            *        *        *        *     -
+bn/cbs/01/cbs_0119   0   18     维护    VV                (VP*   -   01   -   -   *            *        *        *      (V*)    -
+bn/cbs/01/cbs_0119   0   19     国家    NN                (NP*   -    -   -   -   *            *        *        *   (ARG1*     -
+bn/cbs/01/cbs_0119   0   20     安全    NN               *)))))  -    -   2   -   *            *        *        *        *)    -
+bn/cbs/01/cbs_0119   0   21      。    PU                  *))  -    -   -   -   *            *        *        *        *     -
+
+bn/cbs/01/cbs_0119   0    0     建军    NN   (TOP(IP(NP(DNP(NP*)  -    -   -   -   *         *       (ARG2*      -
+bn/cbs/01/cbs_0119   0    1      的   DEG                    *)  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0    2     规划    NN                (NP*))  -    -   -   -   *         *            *)     -
+bn/cbs/01/cbs_0119   0    3      依     P              (VP(PP*   -    -   -   -   *         *   (ARGM-MNR*      -
+bn/cbs/01/cbs_0119   0    4     蓄量    NN              (NP(NP*)  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0    5      及    CC                    *   -    -   3   -   *         *            *      -
+bn/cbs/01/cbs_0119   0    6    军战力    NN        (NP(CP(IP(NP*)  -    -   -   -   *    (ARG0*)           *      -
+bn/cbs/01/cbs_0119   0    7      强    VA                (VP*))  -   01   -   -   *       (V*)           *      -
+bn/cbs/01/cbs_0119   0    8      的   DEC                    *)  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0    9     建军    NN                 (NP*   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   10     原则    NN                 *))))  -    -   -   -   *         *            *)     -
+bn/cbs/01/cbs_0119   0   11      ，    PU                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   12      将    BA                 (VP*   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   13     重点    NN              (IP(NP*)  -    -   -   -   *         *            *    (13)
+bn/cbs/01/cbs_0119   0   14      放    VV                 (VP*   -   01   1   -   *         *          (V*)     -
+bn/cbs/01/cbs_0119   0   15      在     P                 (PP*   -    -   2   -   *         *   (ARGM-ADV*      -
+bn/cbs/01/cbs_0119   0   16     防空    NN              (NP(NP*   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   17      、    PU                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   18     治海    NN                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   19      、    PU                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   20     反潜    NN                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   21      、    PU                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   22    电子战    NN                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   23      、    PU                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   24     水雷    NN                    *   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   25     作战    NN                    *)  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   26      及    CC                    *   -    -   3   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   27     两栖    JJ     (NP(DNP(NP(ADJP*)  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   28     作战    NN                (NP*))  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   29      的   DEG                    *)  -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   30     战备    NN                 (NP*   -    -   -   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   31     准备    NN                    *   -    -   3   -   *         *            *      -
+bn/cbs/01/cbs_0119   0   32     工作    NN             *))))))))  -    -   -   -   *         *            *)     -
+bn/cbs/01/cbs_0119   0   33      。    PU                   *))  -    -   -   -   *         *            *      -
+
+bn/cbs/01/cbs_0119   0    0    国防部    NN    (TOP(IP(NP(NP(NP*)  -    -   -   -       (ORG)  (ARG0*         *        *        *             *         *    (5|(12)
+bn/cbs/01/cbs_0119   0    1     军事    NN                 (NP*   -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0    2    发言人    NN                   *))  -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0    3    黄岁增    NR                 (NP*   -    -   -   -    (PERSON)       *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0    4     少将    NN                   *))  -    -   -   -          *        *)        *        *        *             *         *         5)
+bn/cbs/01/cbs_0119   0    5     表示    VV                 (VP*   -   01   2   -          *      (V*)        *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0    6      ，    PU                    *   -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0    7     海军    NN              (IP(NP*)  -    -   -   -          *   (ARG1*         *        *        *        (ARG0*)        *        (2)
+bn/cbs/01/cbs_0119   0    8      在     P              (VP(PP*   -    -   2   -          *        *         *        *        *    (ARGM-LOC*         *         -
+bn/cbs/01/cbs_0119   0    9    ８９年    NT   (LCP(NP(DNP(NP(NP*)  -    -   -   -      (DATE)       *         *        *        *             *         *        (7)
+bn/cbs/01/cbs_0119   0   10     建军    NN                 (NP*   -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   11     备战    NN                    *   -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   12     工作    NN                   *))  -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   13      的   DEG                    *)  -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   14     执行    NN                (NP*))  -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   15      上    LC                  *)))  -    -   3   -          *        *         *        *        *             *)        *         -
+bn/cbs/01/cbs_0119   0   16     不论    AD               (ADVP*)  -    -   -   -          *        *         *        *        *    (ARGM-DIS*)        *         -
+bn/cbs/01/cbs_0119   0   17      在     P                 (PP*   -    -   2   -          *        *         *        *        *    (ARGM-LOC*         *         -
+bn/cbs/01/cbs_0119   0   18     贯彻    VV      (UCP(LCP(IP(VP*   -   01   -   -          *        *       (V*)       *        *             *         *         -
+bn/cbs/01/cbs_0119   0   19    组织战    NN               (NP*)))  -    -   -   -          *        *    (ARG1*)       *        *             *         *         -
+bn/cbs/01/cbs_0119   0   20      上    LC                    *)  -    -   3   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   21      ，    PU                    *   -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   22     加强    VV     (NP(IP(IP(VP(VP*   -   01   -   -          *        *         *      (V*)       *             *         *         -
+bn/cbs/01/cbs_0119   0   23     战备    NN                 (NP*   -    -   -   -          *        *         *   (ARG1*        *             *         *         -
+bn/cbs/01/cbs_0119   0   24     训练    NN                   *))  -    -   -   -          *        *         *        *)       *             *         *         -
+bn/cbs/01/cbs_0119   0   25      、    PU                    *   -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   26     提升    VV                 (VP*   -   01   -   -          *        *         *        *      (V*)            *         *         -
+bn/cbs/01/cbs_0119   0   27     人才    NN                 (NP*   -    -   -   -          *        *         *        *   (ARG1*             *         *         -
+bn/cbs/01/cbs_0119   0   28     培训    NN                 *))))  -    -   -   -          *        *         *        *        *)            *         *         -
+bn/cbs/01/cbs_0119   0   29      等   ETC                    *)  -    -   2   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   30     方向    NN              (NP*))))  -    -   -   -          *        *         *        *        *             *)        *         -
+bn/cbs/01/cbs_0119   0   31      都    AD               (ADVP*)  -    -   -   -          *        *         *        *        *    (ARGM-ADV*)        *         -
+bn/cbs/01/cbs_0119   0   32      有    VE                 (VP*   -   01   5   -          *        *         *        *        *           (V*)        *         -
+bn/cbs/01/cbs_0119   0   33     卓越    VA    (NP(CP(CP(IP(VP*))  -   01   -   -          *        *         *        *        *        (ARG1*       (V*)        -
+bn/cbs/01/cbs_0119   0   34      的   DEC                   *))  -    -   -   -          *        *         *        *        *             *         *         -
+bn/cbs/01/cbs_0119   0   35     成效    NN             (NP*)))))  -    -   -   -          *        *)        *        *        *             *)   (ARG0*)        -
+bn/cbs/01/cbs_0119   0   36      。    PU                   *))  -    -   -   -          *        *         *        *        *             *         *         -
+
+bn/cbs/01/cbs_0119   0    0    尤其    AD        (TOP(IP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)           *   -
+bn/cbs/01/cbs_0119   0    1     在     P              (VP(PP*   -    -   2   -   *    (ARGM-LOC*            *   -
+bn/cbs/01/cbs_0119   0    2    兵力    NN              (NP(NP*   -    -   -   -   *             *            *   -
+bn/cbs/01/cbs_0119   0    3    结构    NN                    *   -    -   -   -   *             *            *   -
+bn/cbs/01/cbs_0119   0    4    调整    NN                    *)  -    -   -   -   *             *            *   -
+bn/cbs/01/cbs_0119   0    5    方面    NN               (NP*)))  -    -   -   -   *             *)           *   -
+bn/cbs/01/cbs_0119   0    6     已    AD               (ADVP*)  -    -   2   -   *    (ARGM-ADV*)           *   -
+bn/cbs/01/cbs_0119   0    7     依     P                 (PP*   -    -   -   -   *    (ARGM-MNR*            *   -
+bn/cbs/01/cbs_0119   0    8    计划    NN                (NP*))  -    -   -   -   *             *)           *   -
+bn/cbs/01/cbs_0119   0    9    编成    VV                 (VP*   -   01   -   -   *           (V*)           *   -
+bn/cbs/01/cbs_0119   0   10     新    JJ      (NP(NP(QP(ADJP*)  -    -   -   -   *        (ARG2*            *   -
+bn/cbs/01/cbs_0119   0   11     一    CD                 (QP*   -    -   -   -   *             *            *   -
+bn/cbs/01/cbs_0119   0   12     代     M              (CLP*)))  -    -   3   -   *             *            *   -
+bn/cbs/01/cbs_0119   0   13    兵力    NN                (NP*))  -    -   -   -   *             *            *   -
+bn/cbs/01/cbs_0119   0   14     及    CC                    *   -    -   3   -   *             *            *   -
+bn/cbs/01/cbs_0119   0   15    协调    VV  (NP(CP(CP(IP(VP(VP*   -   01   -   -   *             *          (V*)  -
+bn/cbs/01/cbs_0119   0   16    艘队    NN              (NP*))))  -    -   -   -   *             *       (ARG1*)  -
+bn/cbs/01/cbs_0119   0   17     的   DEC                   *))  -    -   -   -   *             *            *   -
+bn/cbs/01/cbs_0119   0   18    组织    NN                 (NP*   -    -   3   -   *             *   (ARGM-MNR*   -
+bn/cbs/01/cbs_0119   0   19    架构    NN                *)))))  -    -   -   -   *             *)           *)  -
+bn/cbs/01/cbs_0119   0   20     。    PU                   *))  -    -   -   -   *             *            *   -
+
+bn/cbs/01/cbs_0119   0    0     而且    AD   (TOP(IP(IP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)          -
+bn/cbs/01/cbs_0119   0    1      在     P            (VP(PP*   -    -   2   -   *    (ARGM-LOC*    (ARGM-LOC*    (ARGM-LOC*           -
+bn/cbs/01/cbs_0119   0    2     航空    NN         (NP(NP(NP*   -    -   -   -   *             *             *             *   (0|(8|(10
+bn/cbs/01/cbs_0119   0    3     兵力    NN                  *)  -    -   -   -   *             *             *             *          10)
+bn/cbs/01/cbs_0119   0    4     调整    NN              (NP*))  -    -   -   -   *             *             *             *           0)
+bn/cbs/01/cbs_0119   0    5     方面    NN             (NP*)))  -    -   -   -   *             *)            *)            *)          8)
+bn/cbs/01/cbs_0119   0    6      也    AD       (VP(VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)   (ARGM-ADV*)            *           -
+bn/cbs/01/cbs_0119   0    7     已经    AD             (ADVP*)  -    -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)            *           -
+bn/cbs/01/cbs_0119   0    8     完成    VV            (VP(VP*   -   01   -   -   *           (V*)            *             *           -
+bn/cbs/01/cbs_0119   0    9     空军    NN            (IP(NP*   -    -   -   -   *        (ARG1*             *             *         (11
+bn/cbs/01/cbs_0119   0   10    ｓ速机    NN                  *   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   11    反潜军    NN                  *)  -    -   -   -   *             *             *             *          11)
+bn/cbs/01/cbs_0119   0   12     移编    VV               (VP*   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   13     海军    NN            (NP*))))  -    -   -   -   *             *)            *             *          (2)
+bn/cbs/01/cbs_0119   0   14      ，    PU                  *   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   15     并且    CC                  *   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   16     编成    VV               (VP*   -   01   -   -   *             *           (V*)            *           -
+bn/cbs/01/cbs_0119   0   17     海军    NN               (NP*   -    -   -   -   *             *        (ARG2*             *           -
+bn/cbs/01/cbs_0119   0   18     航空    NN                  *   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   19    指挥部    NN               *))))  -    -   -   -   *             *             *)            *           -
+bn/cbs/01/cbs_0119   0   20      以   MSP               (VP*   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   21     有效    AD          (VP(ADVP*)  -    -   -   -   *             *             *    (ARGM-ADV*)          -
+bn/cbs/01/cbs_0119   0   22     提升    VV               (VP*   -   01   -   -   *             *             *           (V*)          -
+bn/cbs/01/cbs_0119   0   23     整体    JJ   (NP(DNP(NP(ADJP*)  -    -   -   -   *             *             *        (ARG1*         (15
+bn/cbs/01/cbs_0119   0   24     反潜    NN              (NP*))  -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   25      的   DEG                  *)  -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   26     作战    NN               (NP*   -    -   -   -   *             *             *             *           -
+bn/cbs/01/cbs_0119   0   27     能力    NN           *))))))))  -    -   -   -   *             *             *             *)         15)
+bn/cbs/01/cbs_0119   0   28      。    PU                 *))  -    -   -   -   *             *             *             *           -
+
+bn/cbs/01/cbs_0119   0    0      “    PU         (TOP(IP*   -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0    1      在     P          (VP(PP*   -    -   2   -   *   (ARGM-LOC*        *           -
+bn/cbs/01/cbs_0119   0    2     航空    NN       (NP(NP(NP*   -    -   -   -   *            *        *   (0|(8|(10
+bn/cbs/01/cbs_0119   0    3     兵力    NN                *)  -    -   -   -   *            *        *          10)
+bn/cbs/01/cbs_0119   0    4     调整    NN            (NP*))  -    -   -   -   *            *        *           0)
+bn/cbs/01/cbs_0119   0    5     方面    NN           (NP*)))  -    -   -   -   *            *)       *           8)
+bn/cbs/01/cbs_0119   0    6      ，    PU                *   -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0    7     完成    VV            (UCP*   -   01   -   -   *          (V*)       *           -
+bn/cbs/01/cbs_0119   0    8      了    AS                *   -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0    9     空军    NN  (UCP(NP(DNP(NP*   -    -   -   -   *       (ARG1*        *         (16
+bn/cbs/01/cbs_0119   0   10    ｓ助机    NN                *   -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0   11    反潜机    NN                *)  -    -   -   -   *            *        *          16)
+bn/cbs/01/cbs_0119   0   12      的   DEG                *)  -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0   13     机编    NN             (NP*   -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0   14     海军    NN               *))  -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0   15      ，    PU                *   -    -   -   -   *            *        *           -
+bn/cbs/01/cbs_0119   0   16     成立    VV          (IP(VP*   -   01   -   -   *            *      (V*)          -
+bn/cbs/01/cbs_0119   0   17     海军    NN             (NP*   -    -   -   -   *            *   (ARG1*           -
+bn/cbs/01/cbs_0119   0   18     航空    NN           *))))))  -    -   -   -   *            *)       *)          -
+bn/cbs/01/cbs_0119   0   19      。    PU               *))  -    -   -   -   *            *        *           -
+
+bn/cbs/01/cbs_0119   0    0     对于     P    (TOP(IP(FLR(PP*))  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0    1     有效    VA         (VP(DVP(VP*)  -   01   -   -   *    (V*)  (ARGM-ADV*    (ARGM-ADV*        -
+bn/cbs/01/cbs_0119   0    2      的   DEV                   *)  -    -   -   -   *      *            *)            *)       -
+bn/cbs/01/cbs_0119   0    3     整合    VV             (VP(VP*   -   01   -   -   *      *          (V*)            *        -
+bn/cbs/01/cbs_0119   0    4      了    AS                   *   -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0    5     我们    PN   (NP(DNP(NP(NP(NP*)  -    -   -   -   *      *       (ARG1*             *       (2)
+bn/cbs/01/cbs_0119   0    6     定义    NN               (NP*))  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0    7      跟    CC                   *   -    -   4   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0    8     全义    NN               (NP*))  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0    9      的   DEG                   *)  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   10    反潜机    NN            (DNP(NP*)  -    -   -   -   *      *            *             *      (16)
+bn/cbs/01/cbs_0119   0   11      的   DEG                   *)  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   12     作战    NN                (NP*   -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   13     能力    NN                 *)))  -    -   -   -   *      *            *)            *        -
+bn/cbs/01/cbs_0119   0   14      ，    PU                   *   -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   15     大幅    AD           (VP(ADVP*)  -    -   -   -   *      *            *    (ARGM-ADV*)       -
+bn/cbs/01/cbs_0119   0   16     提升    VV                (VP*   -   01   -   -   *      *            *           (V*)       -
+bn/cbs/01/cbs_0119   0   17     我们    PN          (NP(NP(NP*)  -    -   -   -   *      *            *        (ARG1*   (2|(15
+bn/cbs/01/cbs_0119   0   18     海军    NN               (NP*))  -    -   -   -   *      *            *             *        2)
+bn/cbs/01/cbs_0119   0   19     整体    NN            (DNP(NP*)  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   20      的   DEG                   *)  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   21     反潜    NN                (NP*)  -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   22     作战    NN                (NP*   -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   23     能力    NN              *))))))  -    -   -   -   *      *            *             *)      15)
+bn/cbs/01/cbs_0119   0   24      。    PU                   *   -    -   -   -   *      *            *             *        -
+bn/cbs/01/cbs_0119   0   25      ”    PU                  *))  -    -   -   -   *      *            *             *        -
+
+bn/cbs/01/cbs_0119   0    0    黄岁增    NR    (TOP(IP(NP*)  -    -   -   -    (PERSON)       (ARG0*)            *             *        *             *             *        (5)
+bn/cbs/01/cbs_0119   0    1    进一步    AD      (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)            *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0    2     指出    VV           (VP*   -   01   -   -          *           (V*)            *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0    3      ，    PU              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0    4     未来    NT        (IP(NP*)  -    -   -   -          *        (ARG1*    (ARGM-TMP*)   (ARGM-TMP*)       *    (ARGM-TMP*)   (ARGM-TMP*)        -
+bn/cbs/01/cbs_0119   0    5      在     P           (PP*   -    -   2   -          *             *    (ARGM-LOC*    (ARGM-LOC*        *    (ARGM-LOC*    (ARGM-LOC*         -
+bn/cbs/01/cbs_0119   0    6     海军    NN          (NP*))  -    -   -   -          *             *             *)            *)       *             *)            *)       (2)
+bn/cbs/01/cbs_0119   0    7    ９０年    NT        (NP(NP*)  -    -   -   -      (DATE)            *        (ARG0*        (ARG1*        *        (ARG1*        (ARG0*    (14|(1)
+bn/cbs/01/cbs_0119   0    8     工作    NN           (NP*   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0    9     重点    NN             *))  -    -   -   -          *             *             *)            *)       *             *)            *)       14)
+bn/cbs/01/cbs_0119   0   10      将    AD      (VP(ADVP*)  -    -   -   -          *             *    (ARGM-ADV*)   (ARGM-ADV*)       *    (ARGM-ADV*)   (ARGM-ADV*)        -
+bn/cbs/01/cbs_0119   0   11      依     P           (PP*   -    -   -   -          *             *    (ARGM-MNR*    (ARGM-MNR*        *    (ARGM-MNR*    (ARGM-MNR*         -
+bn/cbs/01/cbs_0119   0   12     国防    NN           (NP*   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   13     二法    NN             *))  -    -   -   -          *             *             *)            *)       *             *)            *)        -
+bn/cbs/01/cbs_0119   0   14     推动    VV        (VP(VP*   -   02   1   -          *             *           (V*)            *        *             *             *         -
+bn/cbs/01/cbs_0119   0   15      和    CC          (FLR*)  -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   16     建军    NN           (NP*   -    -   -   -          *             *        (ARG1*             *        *             *             *        (9
+bn/cbs/01/cbs_0119   0   17     备战    NN              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   18     工作    NN             *))  -    -   -   -          *             *             *)            *        *             *             *         9)
+bn/cbs/01/cbs_0119   0   19      ，    PU              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   20     并且    CC              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   21     继续    VV           (VP*   -   01   -   -          *             *             *           (V*)       *             *             *         -
+bn/cbs/01/cbs_0119   0   22      在     P        (VP(PP*   -    -   2   -          *             *             *        (ARG1*        *    (ARGM-LOC*        (ARG1*         -
+bn/cbs/01/cbs_0119   0   23     组织    NN    (NP(UCP(NP*   -    -   3   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   24     结构    NN              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   25     调整    NN              *)  -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   26      、    PU              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   27     强化    VV        (IP(VP*   -   01   -   -          *             *             *             *      (V*)            *             *         -
+bn/cbs/01/cbs_0119   0   28     战略    NN           (NP*   -    -   -   -          *             *             *             *   (ARG1*             *             *         -
+bn/cbs/01/cbs_0119   0   29     动员    NN              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   30     准备    NN            *)))  -    -   3   -          *             *             *             *        *)            *             *         -
+bn/cbs/01/cbs_0119   0   31     以及    CC              *   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   32     筹购    VV        (IP(VP*   -    -   -   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   33     武器    NN           (NP*   -    -   -   -          *             *             *             *        *             *             *        (3
+bn/cbs/01/cbs_0119   0   34     装备    NN            *)))  -    -   -   -          *             *             *             *        *             *             *         3)
+bn/cbs/01/cbs_0119   0   35      等   ETC              *)  -    -   2   -          *             *             *             *        *             *             *         -
+bn/cbs/01/cbs_0119   0   36     方面    NN         (NP*)))  -    -   -   -          *             *             *             *        *             *)            *)        -
+bn/cbs/01/cbs_0119   0   37     继续    VV           (VP*   -   01   -   -          *             *             *             *        *           (V*)            *         -
+bn/cbs/01/cbs_0119   0   38     努力    VV   (VP*)))))))))  -   01   -   -          *             *)            *             *)       *        (ARG1*)          (V*)        -
+bn/cbs/01/cbs_0119   0   39      。    PU             *))  -    -   -   -          *             *             *             *        *             *             *         -
+
+bn/cbs/01/cbs_0119   0    0      《    PU  (TOP(IP(NP(NP(NP*   -    -   -   -          *        (ARG0*     (4
+bn/cbs/01/cbs_0119   0    1     台湾    NR               (NP*)  -    -   -   -      (ORG*             *     (6)
+bn/cbs/01/cbs_0119   0    2     国际    NN           (DNP(NP*)  -    -   -   -          *             *      -
+bn/cbs/01/cbs_0119   0    3      之   DEG                  *)  -    -   -   -          *             *      -
+bn/cbs/01/cbs_0119   0    4      声    NN               (NP*)  -    -   -   -          *)            *      -
+bn/cbs/01/cbs_0119   0    5      》    PU                  *)  -    -   -   -          *             *      -
+bn/cbs/01/cbs_0119   0    6     记者    NN              (NP*))  -    -   -   -          *             *      -
+bn/cbs/01/cbs_0119   0    7    冯志谦    NR              (NP*))  -    -   -   -    (PERSON)            *)     4)
+bn/cbs/01/cbs_0119   0    8      ，    PU                  *   -    -   -   -          *             *      -
+bn/cbs/01/cbs_0119   0    9    国防部    NN            (VP(NP*)  -    -   -   -       (FAC)   (ARGM-LOC*)   (12)
+bn/cbs/01/cbs_0119   0   10     报道    VV              (VP*))  -   01   -   -          *           (V*)     -
+bn/cbs/01/cbs_0119   0   11      。    PU                 *))  -    -   -   -          *             *      -
+
+#end document

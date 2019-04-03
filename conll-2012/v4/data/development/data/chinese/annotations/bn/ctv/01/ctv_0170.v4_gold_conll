@@ -1,0 +1,390 @@
+#begin document (bn/ctv/01/ctv_0170); part 000
+bn/ctv/01/ctv_0170   0    0    ２００１年   NT   (TOP(IP(IP(NP(NP*)  -    -   -   -      (EVENT*        (ARG1*        (ARG1*             *         *    (3|(2)
+bn/ctv/01/ctv_0170   0    1       中国   NR                (NP*)  -    -   -   -            *             *             *             *         *       (4)
+bn/ctv/01/ctv_0170   0    2      研究生   NN                (NP*   -    -   -   -            *             *             *             *         *        -
+bn/ctv/01/ctv_0170   0    3       入学   NN                   *   -    -   -   -            *             *             *             *         *        -
+bn/ctv/01/ctv_0170   0    4       考试   NN                  *))  -    -   -   -            *)            *)            *)            *         *        3)
+bn/ctv/01/ctv_0170   0    5      １３号   NT             (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)   (ARGM-TMP*)            *         *        -
+bn/ctv/01/ctv_0170   0    6       开始   VV                (VP*   -   01   -   -            *           (V*)            *             *         *        -
+bn/ctv/01/ctv_0170   0    7       举行   VV             (VP*))))  -   01   -   -            *        (ARG1*)          (V*)            *         *        -
+bn/ctv/01/ctv_0170   0    8        ，   PU                   *   -    -   -   -            *             *             *             *         *        -
+bn/ctv/01/ctv_0170   0    9        共   AD        (IP(VP(ADVP*)  -    -   2   -            *             *             *    (ARGM-ADV*)        *        -
+bn/ctv/01/ctv_0170   0   10        有   VE                (VP*   -   05   4   -            *             *             *           (V*)        *        -
+bn/ctv/01/ctv_0170   0   11      ４６万   CD          (IP(NP(QP*)  -    -   -   -    (CARDINAL)            *             *        (ARG1*    (ARG0*       (1
+bn/ctv/01/ctv_0170   0   12        人   NN               (NP*))  -    -   -   -            *             *             *             *         *)       1)
+bn/ctv/01/ctv_0170   0   13       参加   VV                (VP*   -   01   -   -            *             *             *             *       (V*)       -
+bn/ctv/01/ctv_0170   0   14       考试   NN           (NP*))))))  -    -   -   -            *             *             *             *)   (ARG1*)      (3)
+bn/ctv/01/ctv_0170   0   15        。   PU                  *))  -    -   -   -            *             *             *             *         *        -
+
+bn/ctv/01/ctv_0170   0    0       据     P             (TOP(IP(IP(PP*   -    -   -   -            *        *    (ARGM-MNR*    (ARGM-MNR*         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    1      中国    NR          (IP(NP(DNP(NP(NP*)  -    -   -   -        (ORG*   (ARG2*             *             *         *        *             *             *             *    (4)
+bn/ctv/01/ctv_0170   0    2     教育部    NN                      (NP*))  -    -   -   -            *)       *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    3       的   DEG                          *)  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    4      调查    NN                      (NP*))  -    -   -   -            *        *)            *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    5      表明    VV                     (VP*)))  -   01   -   -            *      (V*)            *)            *)        *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    6      今年    NT                       (NP*)  -    -   -   -        (DATE)       *    (ARGM-TMP*)   (ARGM-TMP*)        *        *             *             *             *    (2)
+bn/ctv/01/ctv_0170   0    7     研究生    NN                       (NP*   -    -   -   -            *        *        (ARG1*        (ARG0*         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    8      报考    NN                          *)  -    -   -   -            *        *             *)            *)        *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0    9      继续    VV                       (VP*   -   01   -   -            *        *           (V*)            *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   10      升温    VV                     (VP*)))  -   01   -   -            *        *        (ARG1*)          (V*)        *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   11      其中    NN                 (IP(NP(NP*)  -    -   -   -            *        *             *             *         *   (ARG0*             *             *             *     -
+bn/ctv/01/ctv_0170   0   12       一    CD                       (QP*   -    -   -   -    (CARDINAL)       *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   13       个     M                     (CLP*))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   14      重要    VA             (CP(CP(IP(VP*))  -   01   -   -            *        *             *             *       (V*)       *             *             *             *     -
+bn/ctv/01/ctv_0170   0   15       的   DEC                         *))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   16      原因    NN                      (NP*))  -    -   -   -            *        *             *             *    (ARG0*)       *)            *             *             *     -
+bn/ctv/01/ctv_0170   0   17       是    VC                       (VP*   -   01   1   -            *        *             *             *         *      (V*)            *             *             *     -
+bn/ctv/01/ctv_0170   0   18      终身    JJ            (IP(NP(NP(ADJP*)  -    -   -   -            *        *             *             *         *   (ARG1*             *             *             *     -
+bn/ctv/01/ctv_0170   0   19      教育    NN                      (NP*))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   20      观念    NN                      (NP*))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   21       在     P                    (VP(PP*   -    -   2   -            *        *             *             *         *        *             *    (ARGM-LOC*             *     -
+bn/ctv/01/ctv_0170   0   22      中国    NR                      (NP*))  -    -   -   -         (GPE)       *             *             *         *        *             *             *)            *    (4)
+bn/ctv/01/ctv_0170   0   23       正    AD                     (ADVP*)  -    -   -   -            *        *             *             *         *        *             *    (ARGM-ADV*)            *     -
+bn/ctv/01/ctv_0170   0   24       被    LB                       (VP*   -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   25     越来越    AD   (IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *        *             *             *         *        *    (ARGM-ADV*)       (ARG0*             *     -
+bn/ctv/01/ctv_0170   0   26       多    VA                     (VP*)))  -   03   -   -            *        *             *             *         *        *           (V*)            *             *     -
+bn/ctv/01/ctv_0170   0   27       的   DEC                         *))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   28       人    NN                      (NP*))  -    -   -   -            *        *             *             *         *        *        (ARG0*)            *)            *     -
+bn/ctv/01/ctv_0170   0   29       所   MSP                       (VP*   -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   30      接受    VV                (VP*))))))))  -   01   -   -            *        *             *             *         *        *)            *           (V*)            *     -
+bn/ctv/01/ctv_0170   0   31       ，    PU                          *   -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   32      但是    AD                  (IP(ADVP*)  -    -   -   -            *        *             *             *         *        *             *             *    (ARGM-DIS*)    -
+bn/ctv/01/ctv_0170   0   33      报考    NN              (NP(CP(IP(NP*   -    -   -   -            *        *             *             *         *        *             *             *        (ARG1*     -
+bn/ctv/01/ctv_0170   0   34      专业    NN                          *)  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   35    冷热不均    VV                      (VP*))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   36       的   DEC                          *)  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+bn/ctv/01/ctv_0170   0   37      现象    NN                      (NP*))  -    -   -   -            *        *             *             *         *        *             *             *             *)    -
+bn/ctv/01/ctv_0170   0   38      仍然    AD                  (VP(ADVP*)  -    -   -   -            *        *             *             *         *        *             *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0170   0   39      存在    VV                     (VP*)))  -   01   -   -            *        *             *             *         *        *             *             *           (V*)    -
+bn/ctv/01/ctv_0170   0   40       。    PU                         *))  -    -   -   -            *        *             *             *         *        *             *             *             *     -
+
+bn/ctv/01/ctv_0170   0    0      在     P   (TOP(IP(NP(CP(CP(IP(VP(PP*   -    -   2   -          *    (ARGM-TMP*   (ARG0*         *            *             *         *   (0
+bn/ctv/01/ctv_0170   0    1     临考    VV                 (LCP(IP(VP*))  -    -   -   -          *             *        *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    2      前    LC                           *))  -    -   -   -          *             *)       *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    3      正    AD                       (ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    4     抓紧    VV                      (VP(VP*   -   01   -   -          *           (V*)       *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    5     时间    NN                        (NP*))  -    -   -   -          *        (ARG1*)       *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    6     看书    VV                      (VP*))))  -    -   -   -          *             *        *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    7      的   DEC                           *))  -    -   -   -          *             *        *         *            *             *         *    -
+bn/ctv/01/ctv_0170   0    8     陆艳    NR                        (NP*))  -    -   -   -    (PERSON)       (ARG0*)       *)        *            *             *         *    0)
+bn/ctv/01/ctv_0170   0    9      是    VC                         (VP*   -   01   1   -          *             *      (V*)        *            *             *         *    -
+bn/ctv/01/ctv_0170   0   10     大学    NN   (CP(IP(VP(LCP(IP(VP(VP(NP*)  -    -   -   -          *             *   (ARG1*    (ARG1*)           *    (ARGM-TMP*         *    -
+bn/ctv/01/ctv_0170   0   11     毕业    VV                        (VP*))  -   01   -   -          *             *        *       (V*)           *             *         *    -
+bn/ctv/01/ctv_0170   0   12     工作    VV                         (VP*   -   01   -   -          *             *        *         *          (V*)            *         *    -
+bn/ctv/01/ctv_0170   0   13      ７    CD                         (QP*   -    -   -   -     (DATE*             *        *         *   (ARGM-EXT*             *         *    -
+bn/ctv/01/ctv_0170   0   14      年     M                    (CLP*)))))  -    -   -   -          *)            *        *         *            *)            *         *    -
+bn/ctv/01/ctv_0170   0   15     以后    LC                            *)  -    -   -   -          *             *        *         *            *             *)        *    -
+bn/ctv/01/ctv_0170   0   16      又    AD                       (ADVP*)  -    -   -   -          *             *        *         *            *    (ARGM-ADV*)        *    -
+bn/ctv/01/ctv_0170   0   17     决定    VV                         (VP*   -   01   -   -          *             *        *         *            *           (V*)        *    -
+bn/ctv/01/ctv_0170   0   18     报考    VV                      (IP(VP*   -   01   -   -          *             *        *         *            *        (ARG1*       (V*)   -
+bn/ctv/01/ctv_0170   0   19    研究生    NN                    (NP*))))))  -    -   -   -          *             *        *         *            *             *)   (ARG1*)   -
+bn/ctv/01/ctv_0170   0   20      的    SP                           *))  -    -   -   -          *             *        *)        *            *             *         *    -
+bn/ctv/01/ctv_0170   0   21      。    PU                           *))  -    -   -   -          *             *        *         *            *             *         *    -
+
+bn/ctv/01/ctv_0170   0    0     “    PU         (TOP(IP*   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    1    虽然    CS        (CP(ADVP*)  -    -    -   -        *        *            *            *    (ARGM-ADV*    (ARGM-ADV*    (ARGM-ADV*        *         *     -
+bn/ctv/01/ctv_0170   0    2     说    VV          (IP(VP*   -   01   11   -        *      (V*)           *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    3    工作    VV       (IP(IP(VP*   -   01    -   -        *   (ARG1*          (V*)           *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    4     了    AS                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    5    这么    AD     (QP(QP(ADVP*)  -    -    -   -   (DATE*        *   (ARGM-EXT*            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    6     多    CD            (QP*))  -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    7     年     M         (CLP*))))  -    -    -   -        *)       *            *)           *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    8     ，    PU                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0    9    书本    NN          (IP(NP*)  -    -    -   -        *        *            *       (ARG1*)            *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   10     放    VV             (VP*   -   01    1   -        *        *            *          (V*)            *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   11     了    AS                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   12    这么    AD     (QP(QP(ADVP*)  -    -    -   -   (DATE*        *            *   (ARGM-EXT*             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   13     多    CD            (QP*))  -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   14     年     M     (CLP*))))))))  -    -    -   -        *)       *)           *            *)            *)            *)            *)       *         *     -
+bn/ctv/01/ctv_0170   0   15     ，    PU                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   16    但是    AD           (ADVP*)  -    -    -   -        *        *            *            *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)       *         *     -
+bn/ctv/01/ctv_0170   0   17     我    PN             (NP*)  -    -    -   -        *        *            *            *        (ARG0*)       (ARG0*)       (ARG0*)       *         *    (0)
+bn/ctv/01/ctv_0170   0   18    还是    AD     (VP(VP(ADVP*)  -    -    -   -        *        *            *            *    (ARGM-ADV*)   (ARGM-DIS*)            *        *         *     -
+bn/ctv/01/ctv_0170   0   19    克服    VV          (VP(VP*   -   01    -   -        *        *            *            *           (V*)            *             *        *         *     -
+bn/ctv/01/ctv_0170   0   20     各    DT          (NP(DP*   -    -    -   -        *        *            *            *        (ARG1*             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   21     种     M           (CLP*))  -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   22    困难    NN           (NP*)))  -    -    -   -        *        *            *            *             *)            *             *        *         *     -
+bn/ctv/01/ctv_0170   0   23     ，    PU                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   24    重新    AD        (VP(ADVP*)  -    -    -   -        *        *            *            *             *    (ARGM-ADV*)            *        *         *     -
+bn/ctv/01/ctv_0170   0   25    进入    VV             (VP*   -   01    -   -        *        *            *            *             *           (V*)            *        *         *     -
+bn/ctv/01/ctv_0170   0   26    学习    NN         (NP*)))))  -    -    -   -        *        *            *            *             *        (ARG1*)            *        *         *     -
+bn/ctv/01/ctv_0170   0   27     ，    PU                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   28    能够    VV             (VP*   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   29    希望    VV             (VP*   -   02    1   -        *        *            *            *             *             *           (V*)       *         *     -
+bn/ctv/01/ctv_0170   0   30    打开    VV          (IP(VP*   -   01    -   -        *        *            *            *             *             *        (ARG1*      (V*)        *     -
+bn/ctv/01/ctv_0170   0   31     一    CD          (NP(QP*   -    -    -   -        *        *            *            *             *             *             *   (ARG1*         *     -
+bn/ctv/01/ctv_0170   0   32     个     M           (CLP*))  -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   33     新    VA   (CP(CP(IP(VP*))  -   01    -   -        *        *            *            *             *             *             *        *       (V*)    -
+bn/ctv/01/ctv_0170   0   34     的   DEC               *))  -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   35    局面    NN       (NP*)))))))  -    -    -   -        *        *            *            *             *             *             *)       *)   (ARG0*)    -
+bn/ctv/01/ctv_0170   0   36     。    PU                *   -    -    -   -        *        *            *            *             *             *             *        *         *     -
+bn/ctv/01/ctv_0170   0   37     ”    PU               *))  -    -    -   -        *        *            *            *             *             *             *        *         *     -
+
+bn/ctv/01/ctv_0170   0    0      象     P  (TOP(IP(IP(NP(CP(CP(IP(VP(PP*   -    -   -   -            *    (ARGM-ADV*    (ARGM-ADV*             *        *        (ARG0*             *        -
+bn/ctv/01/ctv_0170   0    1     陆艳    NR                          (NP*))  -    -   -   -      (PERSON)            *)            *)            *        *             *             *       (0)
+bn/ctv/01/ctv_0170   0    2     这样    AD                         (ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    3     已经    AD                   (VP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    4      有    VE                           (VP*   -   01   1   -            *           (V*)            *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    5     一定    JJ                  (NP(DNP(ADJP*)  -    -   -   -            *        (ARG1*             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    6      的   DEG                              *)  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    7     事业    NN                           (NP*   -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    8     基础    NN                           *))))  -    -   -   -            *             *)            *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0    9      又    AD                      (VP(ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)            *        *             *             *        -
+bn/ctv/01/ctv_0170   0   10      想    VV                           (VP*   -   02   4   -            *             *           (V*)            *        *             *             *        -
+bn/ctv/01/ctv_0170   0   11     重新    AD                (IP(VP(VP(ADVP*)  -    -   -   -            *             *        (ARG1*    (ARGM-ADV*)       *             *             *        -
+bn/ctv/01/ctv_0170   0   12     走进    VV                           (VP*   -   01   -   -            *             *             *           (V*)       *             *             *        -
+bn/ctv/01/ctv_0170   0   13     课堂    NN                         (NP*)))  -    -   -   -            *             *             *        (ARG1*)       *             *             *        -
+bn/ctv/01/ctv_0170   0   14     接受    VV                           (VP*   -   01   -   -            *             *             *             *      (V*)            *             *        -
+bn/ctv/01/ctv_0170   0   15      更    AD           (NP(NP(NP(ADJP(ADVP*)  -    -   -   -            *             *             *             *   (ARG1*             *             *        -
+bn/ctv/01/ctv_0170   0   16      高    JJ                        (ADJP*))  -    -   2   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   17      一    CD                           (QP*)  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   18      级    NN                          (NP*))  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   19     学历    NN                          (NP*))  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   20     教育    NN                  (NP*))))))))))  -    -   -   -            *             *             *)            *        *)            *             *        -
+bn/ctv/01/ctv_0170   0   21      的   DEC                             *))  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   22      人    NN                          (NP*))  -    -   -   -            *        (ARG0*)       (ARG0*)            *        *             *)            *        -
+bn/ctv/01/ctv_0170   0   23     已经    AD                      (VP(ADVP*)  -    -   -   -            *             *             *             *        *    (ARGM-ADV*)            *        -
+bn/ctv/01/ctv_0170   0   24     占到    VV                           (VP*   -   01   -   -            *             *             *             *        *           (V*)            *        -
+bn/ctv/01/ctv_0170   0   25     今年    NT                 (QP(DNP(NP(NP*)  -    -   -   -        (DATE)            *             *             *        *        (ARG1*             *    (1|(2)
+bn/ctv/01/ctv_0170   0   26    ４６万    CD                           (QP*)  -    -   -   -    (CARDINAL)            *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   27     报考    NN                           (NP*   -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   28     人数    NN                             *))  -    -   -   -            *             *             *             *        *             *             *        1)
+bn/ctv/01/ctv_0170   0   29      的   DEG                              *)  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   30    ５６％    CD                       (QP*)))))  -    -   -   -     (PERCENT)            *             *             *        *             *)            *        -
+bn/ctv/01/ctv_0170   0   31      ，    PU                              *   -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   32      而    AD                      (IP(ADVP*)  -    -   -   -            *             *             *             *        *             *    (ARGM-DIS*)       -
+bn/ctv/01/ctv_0170   0   33      在     P                           (PP*   -    -   2   -            *             *             *             *        *             *    (ARGM-LOC*        -
+bn/ctv/01/ctv_0170   0   34     北京    NR                        (NP(NP*   -    -   -   -         (GPE)            *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   35      、    PU                              *   -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   36     上海    NR                              *   -    -   -   -         (GPE)            *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   37      、    PU                              *   -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   38     广州    NR                              *   -    -   -   -         (GPE)            *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   39      等   ETC                              *)  -    -   2   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   40      地    NN                         (NP*)))  -    -   -   -            *             *             *             *        *             *             *)       -
+bn/ctv/01/ctv_0170   0   41      ，    PU                              *   -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   42      这    DT                        (NP(DP*   -    -   -   -            *             *             *             *        *             *        (ARG0*        -
+bn/ctv/01/ctv_0170   0   43      一    CD                          (QP*))  -    -   -   -            *             *             *             *        *             *             *        -
+bn/ctv/01/ctv_0170   0   44     比例    NN                          (NP*))  -    -   -   -            *             *             *             *        *             *             *)       -
+bn/ctv/01/ctv_0170   0   45     已经    AD                      (VP(ADVP*)  -    -   -   -            *             *             *             *        *             *    (ARGM-ADV*)       -
+bn/ctv/01/ctv_0170   0   46     接近    VV                           (VP*   -   01   1   -            *             *             *             *        *             *           (V*)       -
+bn/ctv/01/ctv_0170   0   47    ６０％    CD                        (QP*))))  -    -   -   -     (PERCENT)            *             *             *        *             *        (ARG1*)       -
+bn/ctv/01/ctv_0170   0   48      。    PU                             *))  -    -   -   -            *             *             *             *        *             *             *        -
+
+bn/ctv/01/ctv_0170   0    0     终身    JJ    (TOP(IP(NP(DNP(NP(ADJP*)  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    1     教育    NN                      (NP*))  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    2      的   DEG                          *)  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    3     观念    NN                      (NP*))  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    4      正    AD                  (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0    5      在    AD                     (ADVP*)  -    -   5   -   *             *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0    6      被    LB                       (VP*   -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    7    越来越    AD   (IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)       (ARG0*   -
+bn/ctv/01/ctv_0170   0    8      多    VA                     (VP*)))  -   03   -   -   *           (V*)            *   -
+bn/ctv/01/ctv_0170   0    9      的   DEC                         *))  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   10      人    NN                      (NP*))  -    -   -   -   *        (ARG0*)            *)  -
+bn/ctv/01/ctv_0170   0   11      所   MSP                       (VP*   -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   12     接受    VV                   (VP*)))))  -   01   -   -   *             *           (V*)  -
+bn/ctv/01/ctv_0170   0   13      。    PU                         *))  -    -   -   -   *             *             *   -
+
+bn/ctv/01/ctv_0170   0    0     “    PU                (TOP(IP*   -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0    1    在职    JJ      (CP(IP(NP(NP(ADJP*)  -    -   -   -   *             *             *        (ARG0*         *             *   -
+bn/ctv/01/ctv_0170   0    2    人员    NN                   (NP*))  -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0    3     又    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)            *         *             *   -
+bn/ctv/01/ctv_0170   0    4     来    VV                    (VP*   -   05   7   -   *           (V*)            *             *         *             *   -
+bn/ctv/01/ctv_0170   0    5    学习    VV                 (VP*))))  -   01   -   -   *        (ARG1*)          (V*)            *         *             *   -
+bn/ctv/01/ctv_0170   0    6     的   DEC                    *))))  -    -   -   -   *             *             *             *)        *             *   -
+bn/ctv/01/ctv_0170   0    7    比较    AD               (VP(ADVP*)  -    -   -   -   *             *             *    (ARGM-ADV*)        *             *   -
+bn/ctv/01/ctv_0170   0    8     多    VA                  (VP*)))  -   03   -   -   *             *             *           (V*)        *             *   -
+bn/ctv/01/ctv_0170   0    9     了    SP                       *)  -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0   10     ，    PU                       *   -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0   11    这样    AD               (IP(ADVP*)  -    -   -   -   *             *             *             *         *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0   12     跟     P                 (VP(PP*   -    -   2   -   *             *             *             *         *        (ARG1*   -
+bn/ctv/01/ctv_0170   0   13    我们    PN              (NP(IP(NP*)  -    -   -   -   *             *             *             *    (ARG0*)            *   -
+bn/ctv/01/ctv_0170   0   14    建立    VV                    (VP*   -   01   -   -   *             *             *             *       (V*)            *   -
+bn/ctv/01/ctv_0170   0   15    终身    JJ               (NP(ADJP*)  -    -   -   -   *             *             *             *    (ARG1*             *   -
+bn/ctv/01/ctv_0170   0   16    学习    NN                    (NP*   -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0   17    体系    NN                    *))))  -    -   -   -   *             *             *             *         *)            *   -
+bn/ctv/01/ctv_0170   0   18    这样    PN               (NP(ADVP*)  -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0   19     一    CD                 (NP(QP*   -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0   20     个     M                  (CLP*))  -    -   -   -   *             *             *             *         *             *   -
+bn/ctv/01/ctv_0170   0   21    目标    NN                (NP*)))))  -    -   -   -   *             *             *             *         *             *)  -
+bn/ctv/01/ctv_0170   0   22    相当    AD               (VP(ADVP*)  -    -   -   -   *             *             *             *         *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0   23    吻合    VV                 (VP*))))  -   01   -   -   *             *             *             *         *           (V*)  -
+bn/ctv/01/ctv_0170   0   24     。    PU                      *))  -    -   -   -   *             *             *             *         *             *   -
+
+bn/ctv/01/ctv_0170   0    0    可以    VV         (TOP(IP(VP*   -   01   1   -   *    (V*)       *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0    1     说    VV                (VP*   -   01   5   -   *      *      (V*)     *      *        *         *   -
+bn/ctv/01/ctv_0170   0    2    我们    PN       (IP(NP(NP(NP*)  -    -   -   -   *      *   (ARG1*      *      *   (ARG0*         *   -
+bn/ctv/01/ctv_0170   0    3    这个    DT                (DP*)  -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0    4    民族    NN               (NP*))  -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0    5    读书    VV          (CP(IP(VP*   -   01   -   -   *      *        *    (V*)     *        *         *   -
+bn/ctv/01/ctv_0170   0    6     、    PU                   *   -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0    7    上学    VV                  *))  -   01   -   -   *      *        *      *    (V*)       *         *   -
+bn/ctv/01/ctv_0170   0    8     的   DEC                   *)  -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0    9    空气    NN               (NP*))  -    -   -   -   *      *        *      *      *        *)        *   -
+bn/ctv/01/ctv_0170   0   10    达到    VV                (VP*   -   01   -   -   *      *        *      *      *      (V*)        *   -
+bn/ctv/01/ctv_0170   0   11     了    AS                   *   -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0   12    空前    VA   (NP(CP(CP(IP(VP*))  -   01   -   -   *      *        *      *      *   (ARG1*       (V*)  -
+bn/ctv/01/ctv_0170   0   13     的   DEC                  *))  -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0   14    高度    NN           (NP*))))))  -    -   -   -   *      *        *)     *      *        *)   (ARG0*)  -
+bn/ctv/01/ctv_0170   0   15     。    PU                   *   -    -   -   -   *      *        *      *      *        *         *   -
+bn/ctv/01/ctv_0170   0   16     ”    PU                  *))  -    -   -   -   *      *        *      *      *        *         *   -
+
+bn/ctv/01/ctv_0170   0    0     此外    AD      (TOP(IP(ADVP*)  -    -   -   -   *             *    (ARGM-DIS*)            *   -
+bn/ctv/01/ctv_0170   0    1     社会    NN     (UCP(IP(NP(NP*   -    -   -   -   *        (ARG0*        (ARG0*             *   -
+bn/ctv/01/ctv_0170   0    2     用人    NN                  *   -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0    3     单位    NN                  *)  -    -   2   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0    4      对     P           (DNP(PP*   -    -   3   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0    5    毕业生    NN              (NP*))  -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0    6      的   DEG                  *)  -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0    7     学历    NN               (NP*   -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0    8     要求    NN                 *))  -    -   3   -   *             *)            *             *   -
+bn/ctv/01/ctv_0170   0    9    越来越    AD          (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *             *   -
+bn/ctv/01/ctv_0170   0   10      高    VA             (VP*)))  -   01   2   -   *           (V*)            *             *   -
+bn/ctv/01/ctv_0170   0   11      ，    PU                  *   -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   12     以及    CC                  *   -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   13     就业    NN        (NP(DNP(NP*   -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   14     竞争    NN                  *)  -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   15      的   DEG                  *)  -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   16     加剧    NN             (NP*)))  -    -   -   -   *             *             *)            *   -
+bn/ctv/01/ctv_0170   0   17      也    AD          (VP(ADVP*)  -    -   -   -   *             *    (ARGM-DIS*)            *   -
+bn/ctv/01/ctv_0170   0   18      是    VC               (VP*   -   01   1   -   *             *           (V*)            *   -
+bn/ctv/01/ctv_0170   0   19     考研    NN   (NP(CP(CP(IP(NP*)  -    -   -   -   *             *        (ARG1*        (ARG0*)  -
+bn/ctv/01/ctv_0170   0   20     持续    AD          (VP(ADVP*)  -    -   2   -   *             *             *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0   21     升温    VV             (VP*)))  -   01   -   -   *             *             *           (V*)  -
+bn/ctv/01/ctv_0170   0   22      的   DEC                 *))  -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   23     重要    JJ             (ADJP*)  -    -   -   -   *             *             *             *   -
+bn/ctv/01/ctv_0170   0   24     原因    NN            (NP*))))  -    -   -   -   *             *             *)   (ARGM-PRP*)  -
+bn/ctv/01/ctv_0170   0   25      。    PU                 *))  -    -   -   -   *             *             *             *   -
+
+bn/ctv/01/ctv_0170   0    0      “    PU               (TOP(IP*   -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    1      从     P                   (PP*   -    -   -   -   *    (ARGM-ADV*             *   -
+bn/ctv/01/ctv_0170   0    2     现实    NN               (LCP(NP*)  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    3     来说    LC                     *))  -    -   -   -   *             *)            *   -
+bn/ctv/01/ctv_0170   0    4      ，    PU                      *   -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    5      还    AD              (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *   -
+bn/ctv/01/ctv_0170   0    6      是    VC                   (VP*   -   01   1   -   *           (V*)            *   -
+bn/ctv/01/ctv_0170   0    7     就业    NN   (IP(CP(IP(NP(DNP(NP*)  -    -   -   -   *        (ARG1*        (ARG0*   -
+bn/ctv/01/ctv_0170   0    8      的   DEC                      *)  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0    9     压力    NN                  (NP*))  -    -   -   -   *             *             *)  -
+bn/ctv/01/ctv_0170   0   10      太    AD              (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0   11      大    VA                 (VP*)))  -   01   -   -   *             *           (V*)  -
+bn/ctv/01/ctv_0170   0   12      了    SP                      *)  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   13      ，    PU                      *   -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   14    不得不    AD        (CP(IP(VP(ADVP*)  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   15     考研    VV                 (VP*)))  -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   16      了    SP                   *))))  -    -   -   -   *             *)            *   -
+bn/ctv/01/ctv_0170   0   17      。    PU                      *   -    -   -   -   *             *             *   -
+bn/ctv/01/ctv_0170   0   18      ”    PU                     *))  -    -   -   -   *             *             *   -
+
+bn/ctv/01/ctv_0170   0    0     随着     P           (TOP(IP(PP*   -    -   -   -       *         *    (ARGM-ADV*     -
+bn/ctv/01/ctv_0170   0    1     考研    NN           (NP(DNP(NP*)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0    2      的   DEG                     *)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0    3     持续    JJ                (ADJP*)  -    -   2   -       *         *             *     -
+bn/ctv/01/ctv_0170   0    4     升温    NN                (NP*)))  -    -   -   -       *         *             *)    -
+bn/ctv/01/ctv_0170   0    5      ，    PU                     *   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0    6     中国    NR   (NP(CP(CP(IP(NP(NP*)  -    -   -   -    (GPE)   (ARG0*        (ARG0*    (4)
+bn/ctv/01/ctv_0170   0    7     社会    NN                  (NP*   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0    8     经济    NN                     *   -    -   2   -       *         *             *     -
+bn/ctv/01/ctv_0170   0    9     发展    NN                    *))  -    -   1   -       *         *)            *     -
+bn/ctv/01/ctv_0170   0   10      所   MSP                  (VP*   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   11      需    VV                (VP*)))  -   01   -   -       *       (V*)            *     -
+bn/ctv/01/ctv_0170   0   12      的   DEC                    *))  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   13     工商    NN               (NP(NP*   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   14     管理    NN                     *)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   15      、    PU                     *   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   16     法律    NN                  (NP*)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   17      、    PU                     *   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   18    计算机    NN                  (NP*   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   19     应用    NN                     *)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   20      、    PU                     *   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   21     金融    NN                  (NP*)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   22      、    PU                     *   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   23     通信    NN                  (NP*   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   24      与    CC                     *   -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   25     信息    NN                     *)  -    -   -   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   26      等   ETC                     *)  -    -   2   -       *         *             *     -
+bn/ctv/01/ctv_0170   0   27     专业    NN                 (NP*))  -    -   -   -       *    (ARG1*)            *)    -
+bn/ctv/01/ctv_0170   0   28     已经    AD             (VP(ADVP*)  -    -   -   -       *         *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0170   0   29     成为    VV                  (VP*   -   01   -   -       *         *           (V*)    -
+bn/ctv/01/ctv_0170   0   30     报考    NN                  (NP*   -    -   -   -       *         *        (ARG1*     -
+bn/ctv/01/ctv_0170   0   31     热门    NN                   *)))  -    -   -   -       *         *             *)    -
+bn/ctv/01/ctv_0170   0   32      。    PU                    *))  -    -   -   -       *         *             *     -
+
+bn/ctv/01/ctv_0170   0    0    其中    NN             (TOP(IP(NP*)  -    -   -   -            *             *    (ARGM-LOC*)  -
+bn/ctv/01/ctv_0170   0    1     最    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)       (ARG0*   -
+bn/ctv/01/ctv_0170   0    2     高    VA                  (VP*)))  -   01   2   -            *           (V*)            *   -
+bn/ctv/01/ctv_0170   0    3     的   DEC                      *))  -    -   -   -            *             *             *   -
+bn/ctv/01/ctv_0170   0    4    录取    NN                    (NP*   -    -   -   -            *        (ARG0*             *   -
+bn/ctv/01/ctv_0170   0    5    比例    NN                      *))  -    -   -   -            *             *)            *)  -
+bn/ctv/01/ctv_0170   0    6     高    AD               (VP(ADVP*)  -    -   1   -            *             *    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0170   0    7     达    VV                    (VP*   -   01   1   -            *             *           (V*)  -
+bn/ctv/01/ctv_0170   0    8    １２    CD                    (QP*   -    -   -   -    (CARDINAL)            *        (ARG1*   -
+bn/ctv/01/ctv_0170   0    9     比    CC                       *   -    -   -   -            *             *             *   -
+bn/ctv/01/ctv_0170   0   10     １    CD                     *)))  -    -   -   -    (CARDINAL)            *             *)  -
+bn/ctv/01/ctv_0170   0   11     。    PU                      *))  -    -   -   -            *             *             *   -
+
+bn/ctv/01/ctv_0170   0    0     但    AD           (TOP(IP(ADVP*)  -    -   -   -            *             *             *    (ARGM-DIS*)    -
+bn/ctv/01/ctv_0170   0    1    同样    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *        (ARG0*     -
+bn/ctv/01/ctv_0170   0    2     是    VC                    (VP*   -   01   1   -            *           (V*)            *             *     -
+bn/ctv/01/ctv_0170   0    3    国家    NN                 (IP(NP*)  -    -   -   -            *        (ARG1*        (ARG0*)            *    (4)
+bn/ctv/01/ctv_0170   0    4     亟    AD               (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)            *     -
+bn/ctv/01/ctv_0170   0    5     需    VV               (VP*))))))  -   01   -   -            *             *)          (V*)            *     -
+bn/ctv/01/ctv_0170   0    6     的   DEC                      *))  -    -   -   -            *             *             *             *     -
+bn/ctv/01/ctv_0170   0    7    农业    NN                    (NP*   -    -   -   -            *             *             *             *     -
+bn/ctv/01/ctv_0170   0    8     等   ETC                       *)  -    -   2   -            *             *             *             *     -
+bn/ctv/01/ctv_0170   0    9    专业    NN                   (NP*))  -    -   -   -            *        (ARG0*)            *             *)    -
+bn/ctv/01/ctv_0170   0   10    录取    NN                    (NP*   -    -   -   -            *             *             *        (ARG0*     -
+bn/ctv/01/ctv_0170   0   11    比例    NN                       *)  -    -   -   -            *             *             *             *)    -
+bn/ctv/01/ctv_0170   0   12     则    AD               (VP(ADVP*)  -    -   -   -            *             *             *    (ARGM-DIS*)    -
+bn/ctv/01/ctv_0170   0   13     不    AD                  (ADVP*)  -    -   -   -            *             *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0170   0   14     足    VV                    (VP*   -   01   -   -            *             *             *           (V*)    -
+bn/ctv/01/ctv_0170   0   15     ２    CD                    (QP*   -    -   -   -    (CARDINAL)            *             *        (ARG1*     -
+bn/ctv/01/ctv_0170   0   16     比    CC                       *   -    -   -   -            *             *             *             *     -
+bn/ctv/01/ctv_0170   0   17     １    CD                     *)))  -    -   -   -    (CARDINAL)            *             *             *)    -
+bn/ctv/01/ctv_0170   0   18     。    PU                      *))  -    -   -   -            *             *             *             *     -
+
+bn/ctv/01/ctv_0170   0    0    国家    NN   (TOP(IP(NP(CP(CP(IP(NP*)  -    -   -   -   *        (ARG0*)       (ARG0*         *    (4)
+bn/ctv/01/ctv_0170   0    1     亟    AD                 (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)            *         *     -
+bn/ctv/01/ctv_0170   0    2     需    VV                    (VP*)))  -   01   -   -   *           (V*)            *         *     -
+bn/ctv/01/ctv_0170   0    3     的   DEC                        *))  -    -   -   -   *             *             *         *     -
+bn/ctv/01/ctv_0170   0    4     水    NN                      (NP*   -    -   -   -   *             *             *         *     -
+bn/ctv/01/ctv_0170   0    5    资源    NN                         *)  -    -   -   -   *             *             *         *     -
+bn/ctv/01/ctv_0170   0    6    专业    NN                     (NP*))  -    -   -   -   *        (ARG1*)            *)        *     -
+bn/ctv/01/ctv_0170   0    7    甚至    AD                 (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)        *     -
+bn/ctv/01/ctv_0170   0    8     无    VE                      (VP*   -   02   1   -   *             *           (V*)        *     -
+bn/ctv/01/ctv_0170   0    9     人    NN                   (IP(NP*)  -    -   -   -   *             *        (ARG1*    (ARG0*)    -
+bn/ctv/01/ctv_0170   0   10    报考    VV                   (VP*))))  -   01   -   -   *             *             *)      (V*)    -
+bn/ctv/01/ctv_0170   0   11     。    PU                        *))  -    -   -   -   *             *             *         *     -
+
+bn/ctv/01/ctv_0170   0    0     针对     P    (TOP(IP(PP*   -    -   -   -   *   (ARGM-PRP*      *        *             *     -
+bn/ctv/01/ctv_0170   0    1      这    DT        (NP(DP*   -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0    2      一    CD          (QP*))  -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0    3     现象    NN         (NP*)))  -    -   -   -   *            *)     *        *             *     -
+bn/ctv/01/ctv_0170   0    4      ，    PU              *   -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0    5    教育界    NN           (NP*   -    -   -   -   *       (ARG0*      *        *             *     -
+bn/ctv/01/ctv_0170   0    6     人士    NN              *)  -    -   -   -   *            *)     *        *             *     -
+bn/ctv/01/ctv_0170   0    7     指出    VV           (VP*   -   01   -   -   *          (V*)     *        *             *     -
+bn/ctv/01/ctv_0170   0    8      ，    PU              *   -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0    9     考生    NN        (IP(NP*)  -    -   -   -   *       (ARG1*      *        *        (ARG0*)   (5)
+bn/ctv/01/ctv_0170   0   10      在     P        (VP(PP*   -    -   2   -   *            *      *        *    (ARGM-TMP*     -
+bn/ctv/01/ctv_0170   0   11     报考    VV   (LCP(IP(VP*))  -   01   -   -   *            *    (V*)       *             *     -
+bn/ctv/01/ctv_0170   0   12      时    LC             *))  -    -   -   -   *            *      *        *             *)    -
+bn/ctv/01/ctv_0170   0   13     除了     P           (PP*   -    -   -   -   *            *      *        *    (ARGM-ADV*     -
+bn/ctv/01/ctv_0170   0   14     考虑    VV    (LCP(IP(VP*   -   01   -   -   *            *      *      (V*)            *     -
+bn/ctv/01/ctv_0170   0   15     自身    PN    (NP(DNP(NP*)  -    -   -   -   *            *      *   (ARG1*             *    (5)
+bn/ctv/01/ctv_0170   0   16      的   DEG              *)  -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   17     兴趣    NN           (NP*   -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   18      和    CC              *   -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   19     特长    NN           *))))  -    -   -   -   *            *      *        *)            *     -
+bn/ctv/01/ctv_0170   0   20     之外    LC             *))  -    -   -   -   *            *      *        *             *)    -
+bn/ctv/01/ctv_0170   0   21      ，    PU              *   -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   22      还    AD         (ADVP*)  -    -   -   -   *            *      *        *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0170   0   23      要    VV           (VP*   -    -   3   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   24     兼顾    VV           (VP*   -   01   -   -   *            *      *        *           (V*)    -
+bn/ctv/01/ctv_0170   0   25     社会    NN    (NP(DNP(NP*   -    -   -   -   *            *      *        *        (ARG1*     -
+bn/ctv/01/ctv_0170   0   26     发展    NN              *)  -    -   5   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   27      的   DEG              *)  -    -   -   -   *            *      *        *             *     -
+bn/ctv/01/ctv_0170   0   28     要求    NN     (NP*)))))))  -    -   3   -   *            *)     *        *             *)    -
+bn/ctv/01/ctv_0170   0   29      。    PU             *))  -    -   -   -   *            *      *        *             *     -
+
+#end document

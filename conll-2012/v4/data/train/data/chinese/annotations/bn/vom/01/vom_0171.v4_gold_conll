@@ -1,0 +1,107 @@
+#begin document (bn/vom/01/vom_0171); part 000
+bn/vom/01/vom_0171   0    0     香港    NR        (TOP(IP(NP(NP*)  -    -   -   -     (GPE)        *            *        (ARG0*       (1
+bn/vom/01/vom_0171   0    1      一    CD                  (QP*   -    -   -   -        *         *            *             *        -
+bn/vom/01/vom_0171   0    2      名     M                (CLP*))  -    -   -   -        *         *            *             *        -
+bn/vom/01/vom_0171   0    3     男子    NN                 (NP*))  -    -   -   -        *         *            *             *)       1)
+bn/vom/01/vom_0171   0    4    星期三    NT               (VP(NP*)  -    -   -   -    (DATE)        *            *    (ARGM-TMP*)       -
+bn/vom/01/vom_0171   0    5     因为     P                  (PP*   -    -   -   -        *         *            *    (ARGM-PRP*        -
+bn/vom/01/vom_0171   0    6      他    PN   (IP(NP(CP(CP(IP(NP*)  -    -   -   -        *    (ARG0*)      (ARG1*             *    (2|(1)
+bn/vom/01/vom_0171   0    7     驾驶    VV                 (VP*))  -   01   -   -        *       (V*)           *             *        -
+bn/vom/01/vom_0171   0    8      的   DEC                    *))  -    -   -   -        *         *            *             *        -
+bn/vom/01/vom_0171   0    9     汽车    NN                 (NP*))  -    -   -   -        *    (ARG1*)           *)            *        2)
+bn/vom/01/vom_0171   0   10      在     P               (VP(PP*   -    -   2   -        *         *   (ARGM-TMP*             *        -
+bn/vom/01/vom_0171   0   11     交通    NN                  (NP*   -    -   -   -        *         *            *             *        -
+bn/vom/01/vom_0171   0   12     高峰    NN                     *   -    -   -   -        *         *            *             *        -
+bn/vom/01/vom_0171   0   13     时间    NN                    *))  -    -   -   -        *         *            *)            *        -
+bn/vom/01/vom_0171   0   14     发生    VV                  (VP*   -   01   1   -        *         *          (V*)            *        -
+bn/vom/01/vom_0171   0   15     爆炸    NN              (NP*)))))  -    -   -   -        *         *       (ARG0*)            *)      (0)
+bn/vom/01/vom_0171   0   16      而   MSP                  (VP*   -    -   -   -        *         *            *             *        -
+bn/vom/01/vom_0171   0   17     受伤    VV                (VP*)))  -   01   -   -        *         *            *           (V*)       -
+bn/vom/01/vom_0171   0   18      。    PU                    *))  -    -   -   -        *         *            *             *        -
+
+bn/vom/01/vom_0171   0    0    初步    JJ   (TOP(IP(NP(ADJP*)  -    -   -   -   *   (ARG0*      *        *        *       -
+bn/vom/01/vom_0171   0    1    报道    NN              (NP*))  -    -   -   -   *        *)     *        *        *       -
+bn/vom/01/vom_0171   0    2     说    VV               (VP*   -   01   7   -   *      (V*)     *        *        *       -
+bn/vom/01/vom_0171   0    3     ，    PU                  *   -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0    4     这    DT      (IP(IP(NP(DP*   -    -   -   -   *   (ARG1*      *   (ARG0*        *      (0
+bn/vom/01/vom_0171   0    5     次     M             (CLP*))  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0    6    爆炸    NN              (NP*))  -    -   -   -   *        *      *        *)       *       0)
+bn/vom/01/vom_0171   0    7    可能    VV               (VP*   -   01   -   -   *        *    (V*)       *        *       -
+bn/vom/01/vom_0171   0    8     是    VC               (VP*   -   01   1   -   *        *      *      (V*)       *       -
+bn/vom/01/vom_0171   0    9    汽车    NN   (NP(CP(CP(IP(NP*   -    -   -   -   *        *      *   (ARG1*   (ARG0*       -
+bn/vom/01/vom_0171   0   10    炸弹    NN                  *)  -    -   -   -   *        *      *        *        *)      -
+bn/vom/01/vom_0171   0   11    引起    VV              (VP*))  -   01   -   -   *        *      *        *      (V*)      -
+bn/vom/01/vom_0171   0   12     的   DEC             *))))))  -    -   -   -   *        *      *        *)       *       -
+bn/vom/01/vom_0171   0   13     ，    PU                  *   -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   14     这    DT  (IP(NP(DNP(NP(DP*   -    -   -   -   *        *      *        *        *   (1|(2
+bn/vom/01/vom_0171   0   15     名     M             (CLP*))  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   16    男子    NN              (NP*))  -    -   -   -   *        *      *        *        *       1)
+bn/vom/01/vom_0171   0   17     的   DEG                  *)  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   18    汽车    NN              (NP*))  -    -   -   -   *        *      *        *        *       2)
+bn/vom/01/vom_0171   0   19    翻到    VV            (VP(VP*   -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   20    路边    NN              (NP*))  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   21     ，    PU                  *   -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   22    并且    AD          (VP(ADVP*)  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   23    撞到    VV               (VP*   -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   24    路口    NN    (LCP(NP(DNP(NP*)  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   25     的   DEG                  *)  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   26     一    CD               (QP*   -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   27     个     M             (CLP*))  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   28    栏杆    NN              (NP*))  -    -   -   -   *        *      *        *        *       -
+bn/vom/01/vom_0171   0   29     上    LC            *)))))))  -    -   1   -   *        *)     *        *        *       -
+bn/vom/01/vom_0171   0   30     。    PU                 *))  -    -   -   -   *        *      *        *        *       -
+
+bn/vom/01/vom_0171   0    0      上    DT  (TOP(IP(IP(NP(DP*   -    -   2   -       (DATE*   (ARGM-TMP*   -
+bn/vom/01/vom_0171   0    1      个     M             (CLP*))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0    2     星期    NN              (NP*))  -    -   -   -            *)           *)  -
+bn/vom/01/vom_0171   0    3      在     P            (VP(PP*   -    -   2   -            *   (ARGM-LOC*   -
+bn/vom/01/vom_0171   0    4     香港    NR            (NP(NP*)  -    -   -   -         (GPE)           *   -
+bn/vom/01/vom_0171   0    5      一    CD               (QP*   -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0    6      个     M             (CLP*))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0    7     地铁    NN               (NP*   -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0    8     站台    NN                *)))  -    -   -   -            *            *)  -
+bn/vom/01/vom_0171   0    9     发现    VV               (VP*   -   01   -   -            *          (V*)  -
+bn/vom/01/vom_0171   0   10      一    CD            (NP(QP*   -    -   -   -            *       (ARG1*   -
+bn/vom/01/vom_0171   0   11      颗     M             (CLP*))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   12      假    JJ             (ADJP*)  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   13     炸弹    NN           (NP*)))))  -    -   -   -            *            *)  -
+bn/vom/01/vom_0171   0   14      ，    PU                  *   -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   15     数百    CD         (IP(NP(QP*   -    -   -   -    (CARDINAL)           *   -
+bn/vom/01/vom_0171   0   16      名     M             (CLP*))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   17    上下班    VV     (CP(CP(IP(VP*))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   18      的   DEC                 *))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   19     地铁    NN               (NP*   -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   20     乘客    NN                 *))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   21      被    SB               (VP*   -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   22     疏散    VV             (VP*)))  -    -   -   -            *            *   -
+bn/vom/01/vom_0171   0   23      。    PU                 *))  -    -   -   -            *            *   -
+
+bn/vom/01/vom_0171   0    0     两    CD  (TOP(IP(LCP(QP*   -    -   -   -   (DATE*   (ARGM-TMP*   -
+bn/vom/01/vom_0171   0    1     天     M           (CLP*))  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0    2    之后    LC                *)  -    -   -   -        *)           *)  -
+bn/vom/01/vom_0171   0    3     ，    PU                *   -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0    4     在     P          (VP(PP*   -    -   2   -        *   (ARGM-LOC*   -
+bn/vom/01/vom_0171   0    5     一    CD          (NP(QP*   -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0    6     个     M           (CLP*))  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0    7    购物    NN             (NP*   -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0    8    中心    NN              *)))  -    -   -   -        *            *)  -
+bn/vom/01/vom_0171   0    9    发现    VV             (VP*   -   01   -   -        *          (V*)  -
+bn/vom/01/vom_0171   0   10     一    CD          (NP(QP*   -    -   -   -        *       (ARG1*   -
+bn/vom/01/vom_0171   0   11     颗     M           (CLP*))  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   12    小型    JJ           (ADJP*)  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   13    炸弹    NN          (NP*))))  -    -   -   -        *            *)  -
+bn/vom/01/vom_0171   0   14     ，    PU                *   -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   15    商店    NN   (IP(NP(DNP(NP*)  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   16     的   DEG                *)  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   17    顾客    NN            (NP*))  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   18     被    SB             (VP*   -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   19    疏散    VV           (VP*)))  -    -   -   -        *            *   -
+bn/vom/01/vom_0171   0   20     。    PU               *))  -    -   -   -        *            *   -
+
+bn/vom/01/vom_0171   0   0    以上   PN   (TOP(IP(NP*)  -    -   -   -   *    (ARG0*)  -
+bn/vom/01/vom_0171   0   1     是   VC          (VP*   -   01   1   -   *       (V*)  -
+bn/vom/01/vom_0171   0   2    国际   NN          (NP*   -    -   -   -   *    (ARG1*   -
+bn/vom/01/vom_0171   0   3    新闻   NN            *))  -    -   -   -   *         *)  -
+bn/vom/01/vom_0171   0   4     。   PU            *))  -    -   -   -   *         *   -
+
+#end document

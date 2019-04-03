@@ -1,0 +1,211 @@
+#begin document (bn/cbs/00/cbs_0062); part 000
+bn/cbs/00/cbs_0062   0    0    总统府    NN    (TOP(IP(NP*)  -    -   -   -       (ORG)        *        (ARG0*)       *        *        *      (9)
+bn/cbs/00/cbs_0062   0    1     今天    NT        (VP(NP*)  -    -   -   -      (DATE)        *    (ARGM-TMP*)       *        *        *      (4)
+bn/cbs/00/cbs_0062   0    2      以     P           (PP*   -    -   -   -          *         *    (ARGM-MNR*        *        *        *       -
+bn/cbs/00/cbs_0062   0    3     发布    VV  (NP(CP(IP(VP*   -   01   -   -          *       (V*)            *        *        *        *       -
+bn/cbs/00/cbs_0062   0    4    新闻稿    NN         (NP*)))  -    -   -   -          *    (ARG1*)            *        *        *        *      (6)
+bn/cbs/00/cbs_0062   0    5      的   DEC              *)  -    -   -   -          *         *             *        *        *        *       -
+bn/cbs/00/cbs_0062   0    6     方式    NN         (NP*)))  -    -   -   -          *         *             *)       *        *        *       -
+bn/cbs/00/cbs_0062   0    7     公开    AD         (ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)       *        *        *       -
+bn/cbs/00/cbs_0062   0    8     宣布    VV           (VP*   -   01   -   -          *         *           (V*)       *        *        *       -
+bn/cbs/00/cbs_0062   0    9      ，    PU              *   -    -   -   -          *         *             *        *        *        *       -
+bn/cbs/00/cbs_0062   0   10    陈水扁    NR        (IP(NP*   -    -   -   -    (PERSON)        *        (ARG1*   (ARG0*        *        *      (2
+bn/cbs/00/cbs_0062   0   11     总统    NN              *)  -    -   -   -          *         *             *        *)       *        *       2)
+bn/cbs/00/cbs_0062   0   12     决定    VV           (VP*   -   01   -   -          *         *             *      (V*)       *        *       -
+bn/cbs/00/cbs_0062   0   13      由     P     (IP(VP(PP*   -    -   -   -          *         *             *   (ARG1*   (ARG0*   (ARG0*       -
+bn/cbs/00/cbs_0062   0   14     中央    NN     (NP(NP(NP*   -    -   -   -      (ORG*         *             *        *        *        *   (0|(8
+bn/cbs/00/cbs_0062   0   15     银行    NN              *)  -    -   -   -          *)        *             *        *        *        *       8)
+bn/cbs/00/cbs_0062   0   16     总裁    NN          (NP*))  -    -   -   -          *         *             *        *        *        *       -
+bn/cbs/00/cbs_0062   0   17    彭怀南    NR         (NP*)))  -    -   -   -    (PERSON)        *             *        *        *)       *)      0)
+bn/cbs/00/cbs_0062   0   18     代表    VV        (VP(VP*)  -   01   -   -          *         *             *        *      (V*)       *       -
+bn/cbs/00/cbs_0062   0   19     参加    VV           (VP*   -   01   -   -          *         *             *        *        *      (V*)      -
+bn/cbs/00/cbs_0062   0   20      本    DT        (NP(DP*   -    -   2   -          *         *             *        *        *   (ARG1*       -
+bn/cbs/00/cbs_0062   0   21      届     M         (CLP*))  -    -   -   -          *         *             *        *        *        *       -
+bn/cbs/00/cbs_0062   0   22     亚太    NR        (NP(NP*   -    -   -   -      (ORG*         *             *        *        *        *      (1
+bn/cbs/00/cbs_0062   0   23    经合会    NN              *)  -    -   -   -          *)        *             *        *        *        *       1)
+bn/cbs/00/cbs_0062   0   24    非正式    JJ         (ADJP*)  -    -   -   -          *         *             *        *        *        *       -
+bn/cbs/00/cbs_0062   0   25     领袖    NN           (NP*   -    -   -   -          *         *             *        *        *        *       -
+bn/cbs/00/cbs_0062   0   26     会议    NN    *)))))))))))  -    -   -   -          *         *             *)       *)       *        *)      -
+bn/cbs/00/cbs_0062   0   27      。    PU             *))  -    -   -   -          *         *             *        *        *        *       -
+
+bn/cbs/00/cbs_0062   0    0    新闻稿    NN   (TOP(IP(VP(LCP(NP*)  -    -   -   -          *   (ARGM-LOC*        *             *             *        *         *             *             *    (6)
+bn/cbs/00/cbs_0062   0    1      中    LC                    *)  -    -   -   -          *            *)       *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0    2     指出    VV                 (VP*   -   01   -   -          *          (V*)       *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0    3      ，    PU                    *   -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0    4     亚太    NR           (IP(IP(NP*   -    -   -   -      (ORG*       (ARG1*   (ARG0*             *             *   (ARG0*         *             *             *    (1
+bn/cbs/00/cbs_0062   0    5    经合会    NN                    *)  -    -   -   -          *)           *        *)            *             *        *)        *             *             *     1)
+bn/cbs/00/cbs_0062   0    6      是    VC              (VP(VP*   -   01   1   -          *            *      (V*)            *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0    7      我    PN  (NP(NP(CP(CP(IP(NP*   -    -   -   -          *            *   (ARG1*        (ARG0*             *        *         *             *             *    (5
+bn/cbs/00/cbs_0062   0    8      国    NN                    *)  -    -   -   -          *            *        *             *)            *        *         *             *             *     5)
+bn/cbs/00/cbs_0062   0    9      所   MSP                 (VP*   -    -   -   -          *            *        *    (ARGM-ADV*)            *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   10     加入    VV               (VP*)))  -   01   1   -          *            *        *           (V*)            *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   11      的   DEC                   *))  -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   12      最    AD   (CP(CP(IP(VP(ADVP*)  -    -   -   -          *            *        *             *    (ARGM-ADV*)       *         *             *             *     -
+bn/cbs/00/cbs_0062   0   13     重要    VA               (VP*)))  -   01   -   -          *            *        *             *           (V*)       *         *             *             *     -
+bn/cbs/00/cbs_0062   0   14      的   DEC                   *))  -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   15     国际    NN                 (NP*   -    -   -   -          *            *        *             *        (ARG0*        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   16     经贸    NN                    *   -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   17     组织    NN                   *))  -    -   3   -          *            *        *             *             *)       *         *             *             *     -
+bn/cbs/00/cbs_0062   0   18     之一    NN               (NP*)))  -    -   -   -          *            *        *)            *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   19      ，    PU                    *   -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   20     攸关    VV                 (VP*   -   01   -   -          *            *        *             *             *      (V*)        *             *             *     -
+bn/cbs/00/cbs_0062   0   21      我    PN           (NP(NP(NP*   -    -   -   -          *            *        *             *             *   (ARG1*         *             *             *    (5
+bn/cbs/00/cbs_0062   0   22      国    NN                    *)  -    -   -   -          *            *        *             *             *        *         *             *             *     5)
+bn/cbs/00/cbs_0062   0   23     国际    NN                 (NP*   -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   24     贸易    NN                   *))  -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   25     重大    VA       (CP(CP(IP(VP*))  -   01   -   -          *            *        *             *             *        *       (V*)            *             *     -
+bn/cbs/00/cbs_0062   0   26      的   DEC                   *))  -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   27     权益    NN             (NP*)))))  -    -   -   -          *            *        *             *             *        *)   (ARG0*)            *             *     -
+bn/cbs/00/cbs_0062   0   28      ，    PU                    *   -    -   -   -          *            *        *             *             *        *         *             *             *     -
+bn/cbs/00/cbs_0062   0   29     所以    AD            (IP(ADVP*)  -    -   -   -          *            *        *             *             *        *         *             *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0062   0   30      陈    NR                 (NP*   -    -   -   -    (PERSON)           *        *             *             *        *         *             *        (ARG0*    (2
+bn/cbs/00/cbs_0062   0   31     总统    NN                    *)  -    -   -   -          *            *        *             *             *        *         *             *             *)    2)
+bn/cbs/00/cbs_0062   0   32     非常    AD     (VP(DVP(VP(ADVP*)  -    -   -   -          *            *        *             *             *        *         *    (ARGM-ADV*)   (ARGM-ADV*     -
+bn/cbs/00/cbs_0062   0   33     慎重    VA                (VP*))  -   01   -   -          *            *        *             *             *        *         *           (V*)            *     -
+bn/cbs/00/cbs_0062   0   34      的   DEV                    *)  -    -   -   -          *            *        *             *             *        *         *             *             *)    -
+bn/cbs/00/cbs_0062   0   35     考虑    VV                 (VP*   -   01   -   -          *            *        *             *             *        *         *             *           (V*)    -
+bn/cbs/00/cbs_0062   0   36     人选    NN           (NP*)))))))  -    -   -   -          *            *)       *             *             *        *         *             *        (ARG1*)    -
+bn/cbs/00/cbs_0062   0   37      。    PU                   *))  -    -   -   -          *            *        *             *             *        *         *             *             *     -
+
+bn/cbs/00/cbs_0062   0    0      原本    AD      (TOP(IP(IP(VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    1      希望    VV                     (VP*   -   02   1   -          *           (V*)       *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    2      能够    VV                  (IP(VP*   -    -   -   -          *        (ARG1*        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    3      邀请    VV                     (VP*   -   01   -   -          *             *      (V*)            *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    4     学经历    NN   (NP(NP(CP(CP(IP(IP(NP*)  -    -   -   -          *             *   (ARG1*        (ARG0*)            *             *      *      *             *        *    (3
+bn/cbs/00/cbs_0062   0    5       俱    AD                (VP(ADVP*)  -    -   -   -          *             *        *    (ARGM-ADV*)            *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    6       佳    VA                   (VP*)))  -   01   -   -          *             *        *           (V*)            *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    7       ，    PU                        *   -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    8      同时    AD             (IP(VP(ADVP*)  -    -   -   -          *             *        *             *    (ARGM-ADV*)            *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0    9       有    VE                     (VP*   -   01   4   -          *             *        *             *           (V*)            *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   10      多次    AD          (NP(IP(VP(ADVP*)  -    -   -   -          *             *        *             *        (ARG1*    (ARGM-ADV*)     *      *             *        *     -
+bn/cbs/00/cbs_0062   0   11      出席    VV                     (VP*   -   01   -   -          *             *        *             *             *           (V*)     *      *             *        *     -
+bn/cbs/00/cbs_0062   0   12      亚太    NR                     (NP*   -    -   -   -      (ORG*             *        *             *             *        (ARG1*      *      *             *        *    (1
+bn/cbs/00/cbs_0062   0   13     经合会    NN                     *))))  -    -   -   -          *)            *        *             *             *             *)     *      *             *        *     1)
+bn/cbs/00/cbs_0062   0   14      经验    NN                (NP*))))))  -    -   -   -          *             *        *             *             *)            *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   15       的   DEC                       *))  -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   16       前    JJ                   (ADJP*)  -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   17    行政院长    NN                    (NP*))  -    -   -   -       (ORG)            *        *        (ARG0*)            *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   18     肖万长    NR                    (NP*))  -    -   -   -    (PERSON)            *        *)            *             *             *      *      *             *        *     3)
+bn/cbs/00/cbs_0062   0   19      代表    VV              (IP(VP(VSB*   -   01   -   -          *             *   (ARG2*             *             *             *    (V*)     *             *        *     -
+bn/cbs/00/cbs_0062   0   20      出席    VV                *)))))))))  -   01   -   -          *             *)       *)            *             *             *      *    (V*)            *        *     -
+bn/cbs/00/cbs_0062   0   21       ，    PU                        *   -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   22      但是    AD                (IP(ADVP*)  -    -   -   -          *             *        *             *             *             *      *      *    (ARGM-DIS*)       *     -
+bn/cbs/00/cbs_0062   0   23      非常    AD                (VP(ADVP*)  -    -   -   -          *             *        *             *             *             *      *      *    (ARGM-ADV*)       *     -
+bn/cbs/00/cbs_0062   0   24      遗憾    VA                   (VP*)))  -   01   -   -          *             *        *             *             *             *      *      *           (V*)       *     -
+bn/cbs/00/cbs_0062   0   25       ，    PU                        *   -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   26       这    DT               (IP(NP(DP*   -    -   -   -          *             *        *             *             *             *      *      *             *   (ARG0*     -
+bn/cbs/00/cbs_0062   0   27       项     M                   (CLP*))  -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   28      邀请    NN                    (NP*))  -    -   -   -          *             *        *             *             *             *      *      *             *        *)    -
+bn/cbs/00/cbs_0062   0   29      受到    VV                     (VP*   -   01   1   -          *             *        *             *             *             *      *      *             *      (V*)    -
+bn/cbs/00/cbs_0062   0   30     国民党    NR                  (NP(NP*)  -    -   -   -       (ORG)            *        *             *             *             *      *      *             *   (ARG1*    (7)
+bn/cbs/00/cbs_0062   0   31      正式    JJ               (DNP(ADJP*)  -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   32       的   DEG                        *)  -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+bn/cbs/00/cbs_0062   0   33      婉拒    NN                  (NP*))))  -    -   -   -          *             *        *             *             *             *      *      *             *        *)    -
+bn/cbs/00/cbs_0062   0   34       。    PU                       *))  -    -   -   -          *             *        *             *             *             *      *      *             *        *     -
+
+bn/cbs/00/cbs_0062   0    0    总统府    NN   (TOP(IP(NP(NP(NP*)  -    -   -   -       (ORG)       (ARG0*            *             *    (9)
+bn/cbs/00/cbs_0062   0    1    秘书长    NN               (NP*))  -    -   -   -          *             *            *             *     -
+bn/cbs/00/cbs_0062   0    2    尤希昆    NR               (NP*))  -    -   -   -    (PERSON)            *)           *             *     -
+bn/cbs/00/cbs_0062   0    3      在     P             (VP(PP*   -    -   2   -          *    (ARGM-LOC*            *             *     -
+bn/cbs/00/cbs_0062   0    4    新闻稿    NN            (LCP(NP*)  -    -   -   -          *             *            *             *    (6)
+bn/cbs/00/cbs_0062   0    5      中    LC                  *))  -    -   -   -          *             *)           *             *     -
+bn/cbs/00/cbs_0062   0    6      也    AD              (ADVP*)  -    -   -   -          *    (ARGM-ADV*)           *             *     -
+bn/cbs/00/cbs_0062   0    7     表示    VV                (VP*   -   01   2   -          *           (V*)           *             *     -
+bn/cbs/00/cbs_0062   0    8      ，    PU                   *   -    -   -   -          *             *            *             *     -
+bn/cbs/00/cbs_0062   0    9     总统    NN    (IP(NP(CP(IP(NP*)  -    -   -   -          *        (ARG1*       (ARG0*)       (ARG1*    (2)
+bn/cbs/00/cbs_0062   0   10     诚肯    VA         (VP(DVP(VP*)  -    -   -   -          *             *   (ARGM-ADV*             *     -
+bn/cbs/00/cbs_0062   0   11      的   DEV                   *)  -    -   -   -          *             *            *)            *     -
+bn/cbs/00/cbs_0062   0   12     邀请    VV                (VP*   -   01   -   -          *             *          (V*)            *     -
+bn/cbs/00/cbs_0062   0   13      肖    NR             (NP(NP*)  -    -   -   -    (PERSON)            *       (ARG1*             *    (3
+bn/cbs/00/cbs_0062   0   14      前    JJ              (ADJP*)  -    -   -   -          *             *            *             *     -
+bn/cbs/00/cbs_0062   0   15     院长    NN            (NP*)))))  -    -   -   -          *             *            *)            *     3)
+bn/cbs/00/cbs_0062   0   16      的   DEC                   *)  -    -   -   -          *             *            *             *     -
+bn/cbs/00/cbs_0062   0   17     心意    NN               (NP*))  -    -   -   -          *             *            *             *)    -
+bn/cbs/00/cbs_0062   0   18     一直    AD           (VP(ADVP*)  -    -   -   -          *             *            *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0062   0   19     没有    AD              (ADVP*)  -    -   2   -          *             *            *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0062   0   20     改变    VV            (VP*)))))  -   01   -   -          *             *)           *           (V*)    -
+bn/cbs/00/cbs_0062   0   21      。    PU                  *))  -    -   -   -          *             *            *             *     -
+
+bn/cbs/00/cbs_0062   0    0    肖万长    NR    (TOP(IP(NP*)  -    -   -   -    (PERSON)       (ARG0*)           *            *            *      *             *    (3)
+bn/cbs/00/cbs_0062   0    1      也    AD      (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)           *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0    2     曾经    AD         (ADVP*)  -    -   -   -          *    (ARGM-ADV*)           *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0    3     表示    VV           (VP*   -   01   2   -          *           (V*)           *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0    4      ，    PU              *   -    -   -   -          *             *            *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0    5     基于     P  (IP(IP(VP(PP*   -    -   -   -          *        (ARG1*   (ARGM-PRP*   (ARGM-PRP*   (ARGM-PRP*      *             *     -
+bn/cbs/00/cbs_0062   0    6     国家    NN    (NP(DNP(NP*)  -    -   -   -          *             *            *            *            *      *             *    (5)
+bn/cbs/00/cbs_0062   0    7      的   DEG              *)  -    -   -   -          *             *            *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0    8     利益    NN         (NP*)))  -    -   -   -          *             *            *)           *)           *)     *             *     -
+bn/cbs/00/cbs_0062   0    9     愿意    VV           (VP*   -   01   -   -          *             *          (V*)           *            *      *             *     -
+bn/cbs/00/cbs_0062   0   10     代表    VV        (VP(VP*   -   01   -   -          *             *       (ARG1*          (V*)           *      *             *     -
+bn/cbs/00/cbs_0062   0   11     总统    NN          (NP*))  -    -   -   -          *             *            *       (ARG1*)           *      *             *    (2)
+bn/cbs/00/cbs_0062   0   12     出席    VV       (VP*)))))  -   01   -   -          *             *            *)           *          (V*)     *             *     -
+bn/cbs/00/cbs_0062   0   13      ，    PU              *   -    -   -   -          *             *            *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0   14     但是    AD      (IP(ADVP*)  -    -   -   -          *             *            *            *            *      *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0062   0   15      他    PN           (NP*)  -    -   -   -          *             *            *            *            *      *        (ARG0*)   (3)
+bn/cbs/00/cbs_0062   0   16     仍然    AD      (VP(ADVP*)  -    -   -   -          *             *            *            *            *      *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0062   0   17     必须    VV           (VP*   -   01   -   -          *             *            *            *            *    (V*)            *     -
+bn/cbs/00/cbs_0062   0   18     尊重    VV           (VP*   -   01   -   -          *             *            *            *            *      *           (V*)    -
+bn/cbs/00/cbs_0062   0   19    国民党    NR    (NP(DNP(NP*)  -    -   -   -       (ORG)            *            *            *            *      *        (ARG1*    (7)
+bn/cbs/00/cbs_0062   0   20      的   DEG              *)  -    -   -   -          *             *            *            *            *      *             *     -
+bn/cbs/00/cbs_0062   0   21     立场    NN   (NP*)))))))))  -    -   -   -          *             *)           *            *            *      *             *)    -
+bn/cbs/00/cbs_0062   0   22      。    PU             *))  -    -   -   -          *             *            *            *            *      *             *     -
+
+bn/cbs/00/cbs_0062   0    0      而    AD    (TOP(IP(ADVP*)  -    -    -   -          *      *    (ARGM-ADV*)        *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    1     总统    NN             (NP*)  -    -    -   -          *      *        (ARG0*)        *        *         *            *        *             *        *        *       (2)
+bn/cbs/00/cbs_0062   0    2      在     P          (VP(PP*   -    -    2   -          *      *    (ARGM-LOC*         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    3      和     P  (LCP(NP(DNP(PP*   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    4    彭怀南    NR            (NP*))  -    -    -   -    (PERSON)     *             *         *        *         *            *        *             *        *        *       (0)
+bn/cbs/00/cbs_0062   0    5      的   DEG                *)  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    6     沟通    NN            (NP*))  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    7     当中    LC               *))  -    -    -   -          *      *             *)        *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    8      也    AD           (ADVP*)  -    -    -   -          *      *    (ARGM-ADV*)        *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0    9     清楚    VA         (DVP(VP*)  -   01    1   -          *    (V*)   (ARGM-ADV*         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   10      的   DEV                *)  -    -    -   -          *      *             *)        *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   11     说明    VV             (VP*   -   01    2   -          *      *           (V*)        *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   12      ，    PU                *   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   13    彭怀南    NR       (IP(IP(NP*)  -    -    -   -    (PERSON)     *        (ARG1*    (ARG0*)       *         *            *        *             *        *        *       (0)
+bn/cbs/00/cbs_0062   0   14      是    VC             (VP*   -   01    1   -          *      *             *       (V*)       *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   15    肖万长    NR      (NP(DNP(NP*)  -    -    -   -    (PERSON)     *             *    (ARG1*        *         *            *        *             *        *        *       (3)
+bn/cbs/00/cbs_0062   0   16      的   DEG                *)  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   17     储备    JJ           (ADJP*)  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   18     人选    NN          (NP*))))  -    -    -   -          *      *             *         *)       *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   19      ，    PU                *   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   20      在     P          (IP(PP*   -    -    2   -          *      *             *         *        *         *            *        *    (ARGM-LOC*        *        *        -
+bn/cbs/00/cbs_0062   0   21     迫于    VV      (LCP(IP(VP*   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   22     时间    NN             (NP*   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   23     限制    NN              *)))  -    -    3   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   24     之下    LC               *))  -    -    -   -          *      *             *         *        *         *            *        *             *)       *        *        -
+bn/cbs/00/cbs_0062   0   25      ，    PU                *   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   26     总统    NN             (NP*)  -    -    -   -          *      *             *         *        *         *            *        *        (ARG0*)       *        *       (2)
+bn/cbs/00/cbs_0062   0   27     经过    VV   (LCP(IP(VP(VP*   -   01    -   -          *      *             *         *      (V*)        *            *        *    (ARGM-TMP*        *        *        -
+bn/cbs/00/cbs_0062   0   28     多方    JJ    (NP(DNP(ADJP*)  -    -    -   -          *      *             *         *   (ARG1*         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   29      的   DEG                *)  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   30     思考    NN           (NP*)))  -    -    -   -          *      *             *         *        *)        *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   31      ，    PU                *   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   32     并且    CC                *   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   33      请    VV             (VP*   -   01    -   -          *      *             *         *        *       (V*)           *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   34    外交部    NN             (NP*)  -    -    -   -       (ORG)     *             *         *        *    (ARG1*)           *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   35      与     P       (IP(VP(PP*   -    -    -   -          *      *             *         *        *    (ARG2*   (ARGM-ADV*        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   36    主办国    NN          (NP(NP*)  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   37     文莱    NR           (NP*)))  -    -    -   -       (GPE)     *             *         *        *         *            *)       *             *        *        *        -
+bn/cbs/00/cbs_0062   0   38      做    VV             (VP*   -   01   11   -          *      *             *         *        *         *          (V*)       *             *        *        *        -
+bn/cbs/00/cbs_0062   0   39    进一步    JJ        (NP(ADJP*)  -    -    -   -          *      *             *         *        *         *       (ARG1*        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   40     确认    NN        (NP*))))))  -    -    3   -          *      *             *         *        *         *)           *)       *             *        *        *        -
+bn/cbs/00/cbs_0062   0   41      ，    PU                *   -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   42     得到    VV             (VP*   -   01    -   -          *      *             *         *        *         *            *      (V*)            *        *        *        -
+bn/cbs/00/cbs_0062   0   43     正式    JJ        (NP(ADJP*)  -    -    -   -          *      *             *         *        *         *            *   (ARG1*             *        *        *        -
+bn/cbs/00/cbs_0062   0   44     答复    NN         (NP*)))))  -    -    -   -          *      *             *         *        *         *            *        *)            *        *        *        -
+bn/cbs/00/cbs_0062   0   45     之后    LC                *)  -    -    -   -          *      *             *         *        *         *            *        *             *)       *        *        -
+bn/cbs/00/cbs_0062   0   46     今天    NT             (NP*)  -    -    -   -      (DATE)     *             *         *        *         *            *        *    (ARGM-TMP*)       *        *       (4)
+bn/cbs/00/cbs_0062   0   47     决定    VV             (VP*   -   01    -   -          *      *             *         *        *         *            *        *           (V*)       *        *        -
+bn/cbs/00/cbs_0062   0   48      由     P       (IP(VP(PP*   -    -    -   -          *      *             *         *        *         *            *        *        (ARG1*   (ARG0*   (ARG0*        -
+bn/cbs/00/cbs_0062   0   49     央行    NR       (NP(NP(NP*)  -    -    -   -       (ORG)     *             *         *        *         *            *        *             *        *        *    (0|(8)
+bn/cbs/00/cbs_0062   0   50     总裁    NN            (NP*))  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+bn/cbs/00/cbs_0062   0   51    彭怀南    NR           (NP*)))  -    -    -   -    (PERSON)     *             *         *        *         *            *        *             *        *)       *)       0)
+bn/cbs/00/cbs_0062   0   52     代表    VV          (VP(VP*   -   01    -   -          *      *             *         *        *         *            *        *             *      (V*)       *        -
+bn/cbs/00/cbs_0062   0   53      陈    NR             (NP*   -    -    -   -    (PERSON)     *             *         *        *         *            *        *             *   (ARG1*        *       (2
+bn/cbs/00/cbs_0062   0   54     总统    NN               *))  -    -    -   -          *      *             *         *        *         *            *        *             *        *)       *        2)
+bn/cbs/00/cbs_0062   0   55     出席    VV     (VP*)))))))))  -   01    -   -          *      *             *)        *        *         *            *        *             *)       *      (V*)       -
+bn/cbs/00/cbs_0062   0   56      。    PU               *))  -    -    -   -          *      *             *         *        *         *            *        *             *        *        *        -
+
+#end document

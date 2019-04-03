@@ -1,0 +1,69 @@
+#begin document (bn/cts/02/cts_0283); part 000
+bn/cts/02/cts_0283   0    0       经济    NN       (TOP(IP(CP(IP(IP(NP*)  -    -   2   -         *        (ARG0*)        *      *    (ARGM-ADV*             *            *        *        *    -
+bn/cts/02/cts_0283   0    1       虽然    CS                  (VP(ADVP*)  -    -   -   -         *    (ARGM-DIS*)        *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0    2        不    AD                     (ADVP*)  -    -   -   -         *    (ARGM-ADV*)        *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0    3       景气    VA                     (VP*)))  -   01   -   -         *           (V*)        *      *             *)            *            *        *        *    -
+bn/cts/02/cts_0283   0    4       但是    AD                     (ADVP*)  -    -   -   -         *             *         *      *    (ARGM-DIS*)            *            *        *        *    -
+bn/cts/02/cts_0283   0    5       企业    NN              (NP(CP(IP(NP*)  -    -   -   -         *             *    (ARG0*)     *        (ARG0*             *            *        *        *    -
+bn/cts/02/cts_0283   0    6       购并    VV                      (VP*))  -   01   -   -         *             *       (V*)     *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0    7        的   DEC                          *)  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0    8       风潮    NN                      (NP*))  -    -   -   -         *             *         *      *             *)            *            *        *        *    -
+bn/cts/02/cts_0283   0    9       依然    AD                  (VP(ADVP*)  -    -   -   -         *             *         *      *    (ARGM-ADV*)            *            *        *        *    -
+bn/cts/02/cts_0283   0   10        是    VC                       (VP*   -   01   2   -         *             *         *    (V*)            *             *            *        *        *    -
+bn/cts/02/cts_0283   0   11        不    AD                  (VP(ADVP*)  -    -   -   -         *             *         *      *    (ARGM-ADV*)            *            *        *        *    -
+bn/cts/02/cts_0283   0   12        减    VV                   (VP*)))))  -   02   -   -         *             *         *      *           (V*)            *            *        *        *    -
+bn/cts/02/cts_0283   0   13        的    SP                          *)  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   14        ，    PU                          *   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   15       国际    NN              (IP(NP(NP(NP*)  -    -   -   -         *             *         *      *             *        (ARG0*            *        *        *   (0
+bn/cts/02/cts_0283   0   16       知名    JJ                     (ADJP*)  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   17       药厂    NN                      (NP*))  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   18    葛兰素史克    NR                       (NP*   -    -   -   -     (ORG*             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   19       公司    NN                         *))  -    -   -   -         *)            *         *      *             *             *)           *        *        *    0)
+bn/cts/02/cts_0283   0   20       今天    NT                    (VP(NP*)  -    -   -   -     (DATE)            *         *      *             *    (ARGM-TMP*)           *        *        *    -
+bn/cts/02/cts_0283   0   21       正式    AD                     (ADVP*)  -    -   -   -         *             *         *      *             *    (ARGM-ADV*)           *        *        *    -
+bn/cts/02/cts_0283   0   22       宣布    VV                       (VP*   -   01   -   -         *             *         *      *             *           (V*)           *        *        *    -
+bn/cts/02/cts_0283   0   23        ，    PU                          *   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   24        以     P                 (IP(VP(PP*   -    -   -   -         *             *         *      *             *        (ARG1*   (ARGM-MNR*        *        *    -
+bn/cts/02/cts_0283   0   25    １２．４亿    CD                    (NP(QP*)  -    -   -   -   (MONEY*             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   26       美金    NN                     (NP*)))  -    -   -   -         *)            *         *      *             *             *            *)       *        *    -
+bn/cts/02/cts_0283   0   27       买下    VV                       (VP*   -   01   -   -         *             *         *      *             *             *          (V*)       *        *    -
+bn/cts/02/cts_0283   0   28       生产    VV           (NP(CP(CP(IP(VP*   -   01   1   -         *             *         *      *             *             *       (ARG1*      (V*)       *    -
+bn/cts/02/cts_0283   0   29      敏感性    JJ   (NP(NP(CP(CP(IP(NP(ADJP*)  -    -   -   -         *             *         *      *             *             *            *   (ARG1*   (ARG2*    -
+bn/cts/02/cts_0283   0   30       牙齿    NN                      (NP*))  -    -   -   -         *             *         *      *             *             *            *        *        *)   -
+bn/cts/02/cts_0283   0   31       专用    VV                      (VP*))  -   01   -   -         *             *         *      *             *             *            *        *      (V*)   -
+bn/cts/02/cts_0283   0   32        的   DEC                         *))  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   33      苏酸定    NR                       (NP*   -    -   -   -         *             *         *      *             *             *            *        *   (ARG1*    -
+bn/cts/02/cts_0283   0   34       牙膏    NN                         *))  -    -   -   -         *             *         *      *             *             *            *        *        *)   -
+bn/cts/02/cts_0283   0   35       以及    CC                          *   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   36       其它    DT                    (NP(DP*)  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   37       口腔    NN                    (NP(NP*   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   38       保健    NN                          *   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   39       产品    NN                          *)  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   40        与    CC                          *   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   41       消费    NN                       (NP*   -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   42       用品    NN                     *))))))  -    -   -   -         *             *         *      *             *             *            *        *)       *    -
+bn/cts/02/cts_0283   0   43        的   DEC                         *))  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   44    布拉克创克    NR                       (NP*   -    -   -   -     (ORG*             *         *      *             *             *            *        *        *    -
+bn/cts/02/cts_0283   0   45       公司    NN                   *))))))))  -    -   -   -         *)            *         *      *             *             *)           *)       *        *    -
+bn/cts/02/cts_0283   0   46        。    PU                         *))  -    -   -   -         *             *         *      *             *             *            *        *        *    -
+
+bn/cts/02/cts_0283   0    0        这    DT  (TOP(IP(NP(DP*   -    -   -   -       *      *        (ARG0*    -
+bn/cts/02/cts_0283   0    1        次     M          (CLP*))  -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0    2      购并案    NN           (NP*))  -    -   -   -       *      *             *)   -
+bn/cts/02/cts_0283   0    3        呢    SP           (FLR*)  -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0    4        ，    PU               *   -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0    5        将    AD       (VP(ADVP*)  -    -   -   -       *      *    (ARGM-ADV*)   -
+bn/cts/02/cts_0283   0    6        会    VV            (VP*   -   01   -   -       *    (V*)            *    -
+bn/cts/02/cts_0283   0    7       扩大    VV            (VP*   -   01   -   -       *      *           (V*)   -
+bn/cts/02/cts_0283   0    8    葛兰素史克    NR         (NP(NP*   -    -   -   -   (ORG*      *        (ARG1*   (0
+bn/cts/02/cts_0283   0    9       公司    NN               *)  -    -   -   -       *)     *             *    0)
+bn/cts/02/cts_0283   0   10        在     P        (DNP(PP*   -    -   2   -       *      *             *    -
+bn/cts/02/cts_0283   0   11       医疗    NN         (NP(NP*   -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0   12       保健    NN               *   -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0   13       市场    NN               *)  -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0   14       上面    NN          (NP*)))  -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0   15        的   DEG               *)  -    -   -   -       *      *             *    -
+bn/cts/02/cts_0283   0   16       规模    NN        (NP*)))))  -    -   -   -       *      *             *)   -
+bn/cts/02/cts_0283   0   17        。    PU              *))  -    -   -   -       *      *             *    -
+
+#end document

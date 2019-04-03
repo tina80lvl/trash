@@ -1,0 +1,146 @@
+#begin document (bn/ctv/01/ctv_0156); part 000
+bn/ctv/01/ctv_0156   0    0     投资    VV  (TOP(IP(NP(CP(CP(IP(VP(VP*   -   01   1   -         *      (V*)       *        (ARG1*        (ARG0*   (0
+bn/ctv/01/ctv_0156   0    1    １０亿    CD                        (QP*   -    -   -   -   (MONEY*   (ARG1*        *             *             *    -
+bn/ctv/01/ctv_0156   0    2      元     M                     (CLP*)))  -    -   -   -         *)       *)       *             *             *    -
+bn/ctv/01/ctv_0156   0    3     兴建    VV                      (VP*)))  -   01   -   -         *        *      (V*)            *             *    -
+bn/ctv/01/ctv_0156   0    4      的   DEC                          *))  -    -   -   -         *        *        *             *             *    -
+bn/ctv/01/ctv_0156   0    5     广东    NR                        (NP*)  -    -   -   -     (FAC*        *        *             *             *    -
+bn/ctv/01/ctv_0156   0    6     长龙    NR                        (NP*   -    -   -   -         *        *   (ARG1*             *             *    -
+bn/ctv/01/ctv_0156   0    7     夜间    NT                           *   -    -   -   -         *        *        *             *             *    -
+bn/ctv/01/ctv_0156   0    8     动物    NN                           *   -    -   -   -         *        *        *             *             *    -
+bn/ctv/01/ctv_0156   0    9     世界    NN                          *))  -    -   -   -         *)       *        *)            *)            *)   0)
+bn/ctv/01/ctv_0156   0   10    ２８号    NT                     (VP(NP*)  -    -   -   -     (DATE)       *        *    (ARGM-TMP*)   (ARGM-TMP*)   -
+bn/ctv/01/ctv_0156   0   11      在     P                        (PP*   -    -   2   -         *        *        *    (ARGM-LOC*    (ARGM-LOC*    -
+bn/ctv/01/ctv_0156   0   12     广州    NR                       (NP*))  -    -   -   -      (GPE)       *        *             *)            *)   -
+bn/ctv/01/ctv_0156   0   13     建成    VV                    (VP(VCD*   -   01   1   -         *        *        *           (V*)            *    -
+bn/ctv/01/ctv_0156   0   14     开放    VV                         *)))  -   01   3   -         *        *        *             *           (V*)   -
+bn/ctv/01/ctv_0156   0   15      。    PU                          *))  -    -   -   -         *        *        *             *             *    -
+
+bn/ctv/01/ctv_0156   0    0      这    PN    (TOP(IP(NP*)  -    -   -   -           *    (ARG0*)   (0)
+bn/ctv/01/ctv_0156   0    1      是    VC           (VP*   -   01   1   -           *       (V*)    -
+bn/ctv/01/ctv_0156   0    2      继     P        (NP(PP*   -    -   -   -           *    (ARG1*     -
+bn/ctv/01/ctv_0156   0    3    新加坡    NR       (LCP(NP*)  -    -   -   -        (GPE)        *     -
+bn/ctv/01/ctv_0156   0    4     之后    LC             *))  -    -   -   -           *         *     -
+bn/ctv/01/ctv_0156   0    5      ，    PU              *   -    -   -   -           *         *     -
+bn/ctv/01/ctv_0156   0    6     世界    NN   (DNP(LCP(NP*)  -    -   -   -           *         *     -
+bn/ctv/01/ctv_0156   0    7      上    LC              *)  -    -   1   -           *         *     -
+bn/ctv/01/ctv_0156   0    8      的   DEG              *)  -    -   -   -           *         *     -
+bn/ctv/01/ctv_0156   0    9     第二    OD           (QP*   -    -   -   -    (ORDINAL)        *     -
+bn/ctv/01/ctv_0156   0   10      个     M         (CLP*))  -    -   -   -           *         *     -
+bn/ctv/01/ctv_0156   0   11     夜间    NT           (NP*   -    -   -   -           *         *     -
+bn/ctv/01/ctv_0156   0   12    动物园    NN            *)))  -    -   -   -           *         *)    -
+bn/ctv/01/ctv_0156   0   13      。    PU             *))  -    -   -   -           *         *     -
+
+bn/ctv/01/ctv_0156   0    0      中国    NR      (TOP(IP(IP(NP(NP*)  -    -   -   -         (GPE)  (ARG0*   (ARG0*   (ARG0*             *             *        *             *             *   (0
+bn/ctv/01/ctv_0156   0    1      第一    OD                   (QP*   -    -   -   -     (ORDINAL)       *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    2       家     M                 (CLP*))  -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    3      夜间    NT                   (NP*   -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    4     动物园    NN                     *))  -    -   -   -            *        *)       *)       *)            *             *        *             *             *    0)
+bn/ctv/01/ctv_0156   0    5      坐落    VV                (VP(VP*   -   01   -   -            *      (V*)       *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    6       在     P                   (PP*   -    -   2   -            *   (ARG1*        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    7      广州    NR                   (NP*   -    -   -   -         (GPE)       *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    8      番禺    NR                    *)))  -    -   -   -         (GPE)       *)       *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0    9       ，    PU                      *   -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   10      占地    VV                   (VP*   -   01   -   -            *        *      (V*)       *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   11    ３０００    CD                   (QP*   -    -   -   -   (QUANTITY*        *   (ARG1*        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   12       亩     M                (CLP*)))  -    -   -   -            *)       *        *)       *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   13       ，    PU                      *   -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   14       是    VC                   (VP*   -   01   1   -            *        *        *      (V*)            *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   15      世界    NN   (NP(CP(CP(IP(LCP(NP*)  -    -   -   -            *        *        *   (ARG1*    (ARGM-LOC*             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   16       上    LC                      *)  -    -   1   -            *        *        *        *             *)            *        *             *             *    -
+bn/ctv/01/ctv_0156   0   17      规模    NN                   (NP*)  -    -   -   -            *        *        *        *        (ARG0*)            *        *             *             *    -
+bn/ctv/01/ctv_0156   0   18       最    AD              (VP(ADVP*)  -    -   -   -            *        *        *        *    (ARGM-ADV*)            *        *             *             *    -
+bn/ctv/01/ctv_0156   0   19       大    VA                 (VP*)))  -   01   -   -            *        *        *        *           (V*)            *        *             *             *    -
+bn/ctv/01/ctv_0156   0   20       的   DEC                     *))  -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   21      夜间    NT                   (NP*   -    -   -   -            *        *        *        *        (ARG0*             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   22     动物园    NN                  *)))))  -    -   -   -            *        *        *        *)            *)            *        *             *             *    -
+bn/ctv/01/ctv_0156   0   23       ，    PU                      *   -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   24      夜间    NT          (IP(IP(VP(NP*)  -    -   -   -            *        *        *        *             *    (ARGM-TMP*)  (ARG0*             *             *    -
+bn/ctv/01/ctv_0156   0   25      活动    VV                 (VP*)))  -   01   1   -            *        *        *        *             *           (V*)       *)            *             *    -
+bn/ctv/01/ctv_0156   0   26       是    VC                   (VP*   -   01   1   -            *        *        *        *             *             *      (V*)            *             *    -
+bn/ctv/01/ctv_0156   0   27      动物    NN            (NP(DNP(NP*)  -    -   -   -            *        *        *        *             *             *   (ARG1*             *             *    -
+bn/ctv/01/ctv_0156   0   28       的   DEG                      *)  -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   29      基本    JJ                 (ADJP*)  -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   30      特征    NN                (NP*))))  -    -   -   -            *        *        *        *             *             *        *)            *             *    -
+bn/ctv/01/ctv_0156   0   31       ，    PU                      *   -    -   -   -            *        *        *        *             *             *        *             *             *    -
+bn/ctv/01/ctv_0156   0   32      夜间    NT          (IP(IP(VP(NP*)  -    -   -   -        (TIME)       *        *        *             *             *        *    (ARGM-TMP*)       (ARG0*    -
+bn/ctv/01/ctv_0156   0   33       看    VV                   (VP*   -   02   2   -            *        *        *        *             *             *        *           (V*)            *    -
+bn/ctv/01/ctv_0156   0   34      动物    NN                (NP*))))  -    -   -   -            *        *        *        *             *             *        *        (ARG1*)            *)   -
+bn/ctv/01/ctv_0156   0   35       比     P                (VP(PP*   -    -   -   -            *        *        *        *             *             *        *             *    (ARGM-ADV*    -
+bn/ctv/01/ctv_0156   0   36      白天    NT                  (NP*))  -    -   -   -        (TIME)       *        *        *             *             *        *             *             *)   -
+bn/ctv/01/ctv_0156   0   37      更为    AD                 (ADVP*)  -    -   -   -            *        *        *        *             *             *        *             *    (ARGM-ADV*)   -
+bn/ctv/01/ctv_0156   0   38      精彩    VA                 (VP*)))  -   01   -   -            *        *        *        *             *             *        *             *           (V*)   -
+bn/ctv/01/ctv_0156   0   39       。    PU                     *))  -    -   -   -            *        *        *        *             *             *        *             *             *    -
+
+bn/ctv/01/ctv_0156   0    0      根据     P   (TOP(IP(PP*   -    -   -   -        *   (ARGM-MNR*   (ARGM-MNR*   (ARGM-MNR*     -
+bn/ctv/01/ctv_0156   0    1      动物    NN   (NP(DNP(NP*)  -    -   -   -        *            *            *            *     -
+bn/ctv/01/ctv_0156   0    2       的   DEG             *)  -    -   -   -        *            *            *            *     -
+bn/ctv/01/ctv_0156   0    3      活动    NN          (NP*   -    -   1   -        *            *            *            *     -
+bn/ctv/01/ctv_0156   0    4      习性    NN           *)))  -    -   -   -        *            *)           *)           *)    -
+bn/ctv/01/ctv_0156   0    5     动物园    NN          (NP*)  -    -   -   -        *       (ARG0*)      (ARG1*)      (ARG0*)   (0)
+bn/ctv/01/ctv_0156   0    6       每    DT       (VP(DP*   -    -   -   -        *   (ARGM-ADV*   (ARGM-ADV*   (ARGM-ADV*     -
+bn/ctv/01/ctv_0156   0    7       天     M        (CLP*))  -    -   -   -        *            *)           *)           *)    -
+bn/ctv/01/ctv_0156   0    8      晚上    NT    (VP(VP(NP*   -    -   -   -   (TIME*   (ARGM-TMP*   (ARGM-TMP*            *     -
+bn/ctv/01/ctv_0156   0    9    ６：３０    NT             *)  -    -   -   -        *)           *)           *)           *     -
+bn/ctv/01/ctv_0156   0   10      开始    VV          (VP*   -   01   -   -        *          (V*)           *            *     -
+bn/ctv/01/ctv_0156   0   11       对     P       (VP(PP*   -    -   3   -        *       (ARG1*       (ARG2*            *     -
+bn/ctv/01/ctv_0156   0   12      游人    NN         (NP*))  -    -   -   -        *            *            *)           *     -
+bn/ctv/01/ctv_0156   0   13      开放    VV       (VP*))))  -   01   3   -        *            *)         (V*)           *     -
+bn/ctv/01/ctv_0156   0   14       至    VV          (VP*   -   01   -   -        *            *            *          (V*)    -
+bn/ctv/01/ctv_0156   0   15       到     P          (PP*   -    -   5   -        *            *            *       (ARG1*     -
+bn/ctv/01/ctv_0156   0   16      零点    NT      (NP*)))))  -    -   -   -    (TIME)           *            *            *)    -
+bn/ctv/01/ctv_0156   0   17       。    PU            *))  -    -   -   -        *            *            *            *     -
+
+bn/ctv/01/ctv_0156   0    0      乘客    NN    (TOP(IP(NP*)  -    -   -   -            *      *    (ARG0*)     *         *   -
+bn/ctv/01/ctv_0156   0    1      乘座    VV        (VP(VP*   -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0    2       小    JJ      (NP(ADJP*)  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0    3      火车    NN         (NP*)))  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0    4      可以    VV           (VP*   -   01   1   -            *    (V*)        *      *         *   -
+bn/ctv/01/ctv_0156   0    5      观察    VV       (VP(VRD*   -   01   -   -            *      *       (V*)     *         *   -
+bn/ctv/01/ctv_0156   0    6       到    VV              *)  -   01   4   -            *      *         *    (V*)        *   -
+bn/ctv/01/ctv_0156   0    7      中华    NR  (NP(NP(NP(NP*   -    -   -   -         (GPE)     *    (ARG1*      *         *   -
+bn/ctv/01/ctv_0156   0    8      山地    NN              *)  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0    9       、    PU              *   -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   10      南美    NR           (NP*   -    -   -   -         (LOC)     *         *      *         *   -
+bn/ctv/01/ctv_0156   0   11      河谷    NN              *)  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   12       、    PU              *   -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   13      南非    NR           (NP*   -    -   -   -         (LOC)     *         *      *         *   -
+bn/ctv/01/ctv_0156   0   14      高原    NN              *)  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   15       、    PU              *   -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   16      印度    NR           (NP*   -    -   -   -         (GPE)     *         *      *         *   -
+bn/ctv/01/ctv_0156   0   17      森林    NN              *)  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   18       等   ETC              *)  -    -   2   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   19      园中    NN          (NP*))  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   20    ３００多    CD           (QP*   -    -   -   -    (CARDINAL)     *         *      *         *   -
+bn/ctv/01/ctv_0156   0   21       种     M         (CLP*))  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   22       近    AD      (QP(ADVP*)  -    -   -   -   (CARDINAL*      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   23       万    CD           (QP*   -    -   -   -            *)     *         *      *         *   -
+bn/ctv/01/ctv_0156   0   24       只     M        (CLP*)))  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   25      习惯    VV  (CP(CP(IP(VP*   -   01   -   -            *      *         *      *       (V*)  -
+bn/ctv/01/ctv_0156   0   26      夜出    VV     (IP(VP*))))  -    -   -   -            *      *         *      *    (ARG1*)  -
+bn/ctv/01/ctv_0156   0   27       的   DEC             *))  -    -   -   -            *      *         *      *         *   -
+bn/ctv/01/ctv_0156   0   28      动物    NN       (NP*)))))  -    -   -   -            *      *         *)     *    (ARG0*)  -
+bn/ctv/01/ctv_0156   0   29       。    PU             *))  -    -   -   -            *      *         *      *         *   -
+
+bn/ctv/01/ctv_0156   0    0     丛林   NN  (TOP(IP(NP(NP*   -    -   -   -   *    (ARG0*             *   -
+bn/ctv/01/ctv_0156   0    1      、   PU               *   -    -   -   -   *         *             *   -
+bn/ctv/01/ctv_0156   0    2     原野   NN               *)  -    -   -   -   *         *             *   -
+bn/ctv/01/ctv_0156   0    3      和   CC               *   -    -   -   -   *         *             *   -
+bn/ctv/01/ctv_0156   0    4     动物   NN            (NP*   -    -   -   -   *         *             *   -
+bn/ctv/01/ctv_0156   0    5    吼叫声   NN              *))  -    -   -   -   *         *)            *   -
+bn/ctv/01/ctv_0156   0    6      让   VV            (VP*   -   02   2   -   *       (V*)            *   -
+bn/ctv/01/ctv_0156   0    7      人   NN            (NP*)  -    -   -   -   *    (ARG1*)            *   -
+bn/ctv/01/ctv_0156   0    8     仿佛   AD    (IP(VP(ADVP*)  -    -   -   -   *    (ARG2*    (ARGM-ADV*)  -
+bn/ctv/01/ctv_0156   0    9     置身   VV            (VP*   -   01   -   -   *         *           (V*)  -
+bn/ctv/01/ctv_0156   0   10      于    P            (PP*   -    -   -   -   *         *        (ARG1*   -
+bn/ctv/01/ctv_0156   0   11     原始   JJ   (LCP(NP(ADJP*)  -    -   -   -   *         *             *   -
+bn/ctv/01/ctv_0156   0   12     森林   NN           (NP*))  -    -   -   -   *         *             *   -
+bn/ctv/01/ctv_0156   0   13     之中   LC          *))))))  -    -   -   -   *         *)            *)  -
+bn/ctv/01/ctv_0156   0   14      。   PU              *))  -    -   -   -   *         *             *   -
+
+bn/ctv/01/ctv_0156   0   0    广东台   NR   (TOP(IP(NP(NP*)  -    -   -   -    (ORG)  (ARG0*   -
+bn/ctv/01/ctv_0156   0   1     记者   NN            (NP*))  -    -   -   -       *        *)  -
+bn/ctv/01/ctv_0156   0   2     报道   VV             (VP*)  -   01   -   -       *      (V*)  -
+bn/ctv/01/ctv_0156   0   3      。   PU               *))  -    -   -   -       *        *   -
+
+#end document

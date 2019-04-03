@@ -1,0 +1,226 @@
+#begin document (bn/cbs/01/cbs_0111); part 000
+bn/cbs/01/cbs_0111   0    0     亚洲    NR      (TOP(IP(NP*    -   -   -   -   *            *             *        (ARG0*       (3
+bn/cbs/01/cbs_0111   0    1     开发    NN                *    -   -   1   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0    2     银行    NN                *)   -   -   -   -   *            *             *             *)       3)
+bn/cbs/01/cbs_0111   0    3     今天    NT          (VP(NP*)   -   -   -   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0    4     预估    VV             (VP*    -   -   -   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0    5      ，    PU                *    -   -   -   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0    6     亚洲    NR   (IP(LCP(NP(NP*)   -   -   -   -   *   (ARGM-LOC*             *             *    (0|(1)
+bn/cbs/01/cbs_0111   0    7     开发    NN            (NP*))   -   -   1   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0    8      中    LC                *)   -   -   -   -   *            *)            *             *        -
+bn/cbs/01/cbs_0111   0    9     国家    NN          (NP(NP*)   -   -   1   -   *       (ARG0*             *        (ARG0*        0)
+bn/cbs/01/cbs_0111   0   10     今年    NT         (DNP(NP*)   -   -   -   -   *            *             *             *       (2)
+bn/cbs/01/cbs_0111   0   11      的   DEG                *)   -   -   -   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0   12     经济    NN             (NP*    -   -   2   -   *            *             *             *        -
+bn/cbs/01/cbs_0111   0   13    成长率    NN               *))   -   -   -   -   *            *)            *             *)       -
+bn/cbs/01/cbs_0111   0   14     预料    VV             (VP*    预料  -   -   -   *          (V*)            *             *        -
+bn/cbs/01/cbs_0111   0   15      将    AD     (IP(VP(ADVP*)   -   -   -   -   *       (ARG1*             *    (ARGM-ADV*)       -
+bn/cbs/01/cbs_0111   0   16      比     P             (PP*    -   -   -   -   *            *    (ARGM-ADV*)   (ARGM-ADV*        -
+bn/cbs/01/cbs_0111   0   17     预期    VV   (NP(CP(IP(VP*))   预期  -   -   -   *            *           (V*)            *        -
+bn/cbs/01/cbs_0111   0   18      的   DEC              *)))   -   -   -   -   *            *             *             *)       -
+bn/cbs/01/cbs_0111   0   19     强劲    VA       (VP*)))))))   强劲  -   -   -   *            *)       (ARG1*)          (V*)       -
+bn/cbs/01/cbs_0111   0   20      。    PU               *))   -   -   -   -   *            *             *             *        -
+
+bn/cbs/01/cbs_0111   0    0       不过    AD      (TOP(IP(ADVP*)   -   -   -   -   *        *        *    (ARGM-DIS*)     *    (ARGM-DIS*)   (ARGM-DIS*)   -
+bn/cbs/01/cbs_0111   0    1       因为     P               (PP*    -   -   -   -   *        *        *    (ARGM-PRP*      *             *    (ARGM-PRP*    -
+bn/cbs/01/cbs_0111   0    2       全球    NN         (IP(IP(NP*    -   -   -   -   *   (ARG1*        *             *      *             *             *    -
+bn/cbs/01/cbs_0111   0    3      成长率    NN                  *)   -   -   -   -   *        *)       *             *      *             *             *    -
+bn/cbs/01/cbs_0111   0    4       降低    VV              (VP*))   降低  -   -   -   *      (V*)       *             *      *             *             *    -
+bn/cbs/01/cbs_0111   0    5        和    CC                  *    -   -   -   -   *        *        *             *      *             *             *    -
+bn/cbs/01/cbs_0111   0    6       国内    NN            (IP(NP*    -   -   -   -   *        *   (ARG0*             *      *             *             *    -
+bn/cbs/01/cbs_0111   0    7       需求    NN                  *)   -   -   -   -   *        *        *)            *      *             *             *    -
+bn/cbs/01/cbs_0111   0    8       减弱    VV            (VP*))))   减弱  -   -   -   *        *      (V*)            *)     *             *             *)   -
+bn/cbs/01/cbs_0111   0    9        ，    PU                  *    -   -   -   -   *        *        *             *      *             *             *    -
+bn/cbs/01/cbs_0111   0   10       公元    JJ          (NP(ADJP*)   -   -   -   -   *        *        *             *      *             *    (ARGM-TMP*   (4
+bn/cbs/01/cbs_0111   0   11    ２００１年    NT              (NP*))   -   -   -   -   *        *        *             *      *             *             *)   4)
+bn/cbs/01/cbs_0111   0   12        将    AD          (VP(ADVP*)   -   -   -   -   *        *        *    (ARGM-ADV*)     *    (ARGM-ADV*)   (ARGM-ADV*)   -
+bn/cbs/01/cbs_0111   0   13        只    AD             (ADVP*)   -   -   -   -   *        *        *             *      *             *    (ARGM-ADV*)   -
+bn/cbs/01/cbs_0111   0   14        会    VV               (VP*     会  -   1   -   *        *        *           (V*)     *             *             *    -
+bn/cbs/01/cbs_0111   0   15        朝     P            (VP(PP*    -   -   -   -   *        *        *        (ARG1*      *    (ARGM-ADV*)   (ARGM-DIR*    -
+bn/cbs/01/cbs_0111   0   16       温和    VA  (NP(CP(IP(VP(VCD*    温和  -   -   -   *        *        *             *    (V*)   (ARGM-ADV*)            *    -
+bn/cbs/01/cbs_0111   0   17       扩张    VV                *)))   扩张  -   -   -   *        *        *             *      *           (V*)            *    -
+bn/cbs/01/cbs_0111   0   18        的   DEC                  *)   -   -   -   -   *        *        *             *      *             *             *    -
+bn/cbs/01/cbs_0111   0   19       方向    NN             (NP*)))   -   -   -   -   *        *        *             *      *             *             *)   -
+bn/cbs/01/cbs_0111   0   20       进行    VV            (VP*))))   进行  -   1   -   *        *        *             *)     *        (ARG1*)          (V*)   -
+bn/cbs/01/cbs_0111   0   21        。    PU                 *))   -   -   -   -   *        *        *             *      *             *             *    -
+
+bn/cbs/01/cbs_0111   0    0      亚洲    NR                   (TOP(IP(NP*    -   -   -   -   *   (ARG0*        *        (ARG0*        *             *    (ARG0*          (3
+bn/cbs/01/cbs_0111   0    1      开发    NN                             *    -   -   1   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0    2      银行    NN                             *)   -   -   -   -   *        *)       *             *)       *             *         *)          3)
+bn/cbs/01/cbs_0111   0    3      表示    VV                          (VP*    表示  -   2   -   *      (V*)       *         (REL*)       *             *     (REL*)          -
+bn/cbs/01/cbs_0111   0    4       ，    PU                             *    -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0    5      亚洲    NR   (IP(IP(NP(LCP(NP(DNP(NP(NP*)   -   -   -   -   *   (ARG1*   (ARG0*        (ARG0*        *             *         *    (0|(5|(1)
+bn/cbs/01/cbs_0111   0    6      地区    NN                         (NP*))   -   -   1   -   *        *        *             *        *             *         *           5)
+bn/cbs/01/cbs_0111   0    7       的   DEG                             *)   -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0    8      开发    NN                         (NP*))   -   -   1   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0    9       中    LC                             *)   -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   10      国家    NN                          (NP*)   -   -   1   -   *        *        *             *        *             *         *           0)
+bn/cbs/01/cbs_0111   0   11      今年    NT                      (DNP(NP*)   -   -   -   -   *        *        *             *        *             *         *          (2)
+bn/cbs/01/cbs_0111   0   12       的   DEG                             *)   -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   13      国民    NN                          (NP*    -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   14      生产    NN                             *    -   -   3   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   15      毛额    NN                             *    -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   16     成长率    NN                            *))   -   -   -   -   *        *        *)            *)       *             *         *           -
+bn/cbs/01/cbs_0111   0   17      平均    AD                     (VP(ADVP*)   -   -   -   -   *        *        *    (ARGM-ADV*)       *             *         *           -
+bn/cbs/01/cbs_0111   0   18      可以    VV                          (VP*    可以  -   1   -   *        *      (V*)            *        *             *         *           -
+bn/cbs/01/cbs_0111   0   19      达到    VV                          (VP*    达到  -   -   -   *        *        *           (V*)       *             *         *           -
+bn/cbs/01/cbs_0111   0   20    ７．１％    CD                      (QP*)))))   -   -   -   -   *        *        *        (ARG1*)       *             *         *           -
+bn/cbs/01/cbs_0111   0   21       ，    PU                             *    -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   22      修改    VV                    (IP(IP(VP*    修改  -   1   -   *        *        *             *      (V*)            *    (ARG0*           -
+bn/cbs/01/cbs_0111   0   23       了    AS                             *    -   -   -   -   *        *        *             *        *        (ARG1*)        *           -
+bn/cbs/01/cbs_0111   0   24      稍早    NT              (NP(CP(IP(VP(NP*)   -   -   -   -   *        *        *             *   (ARG1*    (ARGM-TMP*)        *           -
+bn/cbs/01/cbs_0111   0   25       所   MSP                          (VP*    -   -   -   -   *        *        *             *        *    (ARGM-ADV*)        *           -
+bn/cbs/01/cbs_0111   0   26      预估    VV                       (VP*))))   预估  -   -   -   *        *        *             *        *           (V*)        *           -
+bn/cbs/01/cbs_0111   0   27       的   DEC                             *)   -   -   -   -   *        *        *             *        *             *         *           -
+bn/cbs/01/cbs_0111   0   28     成长率    NN                       (NP*))))   -   -   -   -   *        *        *             *        *)       (ARG1*)        *)          -
+bn/cbs/01/cbs_0111   0   29       为    VC                          (VP*     为  -   1   -   *        *        *             *        *        (ARG1*       (V*)          -
+bn/cbs/01/cbs_0111   0   30    ６．９％    CD                      (QP*)))))   -   -   -   -   *        *)       *             *        *             *)   (ARG1*)          -
+bn/cbs/01/cbs_0111   0   31       。    PU                            *))   -   -   -   -   *        *        *             *        *             *         *           -
+
+bn/cbs/01/cbs_0111   0    0      亚银    NR      (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)       *      *         *             *             *    (3)
+bn/cbs/01/cbs_0111   0    1       说    VV             (VP*     说  -   7   -   *       (V*)       *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0    2       ：    PU                *    -   -   -   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0    3      全球    NN    (IP(IP(NP(NP*    -   -   -   -   *    (ARG1*   (ARG0*      *    (ARG0*             *             *     -
+bn/cbs/01/cbs_0111   0    4      经济    NN                *)   -   -   2   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0    5      今年    NT         (DNP(NP*)   -   -   -   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0    6       的   DEG                *)   -   -   -   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0    7     成长率    NN            (NP*))   -   -   -   -   *         *        *)     *         *)            *             *     -
+bn/cbs/01/cbs_0111   0    8      预估    VV             (VP*    预估  -   -   -   *         *      (V*)     *         *             *             *     -
+bn/cbs/01/cbs_0111   0    9      可以    VV          (IP(VP*    可以  -   1   -   *         *   (ARG1*    (V*)        *             *             *     -
+bn/cbs/01/cbs_0111   0   10      达到    VV             (VP*    达到  -   -   -   *         *        *      *       (V*)            *             *     -
+bn/cbs/01/cbs_0111   0   11    ４．７％    CD        (QP*))))))   -   -   -   -   *         *        *)     *    (ARG1*)            *             *     -
+bn/cbs/01/cbs_0111   0   12       ，    PU                *    -   -   -   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0   13       而    AD        (IP(ADVP*)   -   -   -   -   *         *        *      *         *    (ARGM-DIS*)   (ARGM-DIS*)    -
+bn/cbs/01/cbs_0111   0   14      美国    NR   (NP(DNP(NP(NP*)   -   -   -   -   *         *        *      *         *             *        (ARG0*     -
+bn/cbs/01/cbs_0111   0   15      经济    NN            (NP*))   -   -   2   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0   16       的   DEG                *)   -   -   -   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0   17      扩张    NN             (NP*    -   -   -   -   *         *        *      *         *             *             *     -
+bn/cbs/01/cbs_0111   0   18      速度    NN               *))   -   -   -   -   *         *        *      *         *             *             *)    -
+bn/cbs/01/cbs_0111   0   19       将    AD        (VP(ADVP*)   -   -   -   -   *         *        *      *         *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cbs/01/cbs_0111   0   20       会    VV             (VP*     会  -   1   -   *         *        *      *         *           (V*)            *     -
+bn/cbs/01/cbs_0111   0   21      大幅    AD    (VP(DVP(ADVP*)   -   -   -   -   *         *        *      *         *        (ARG1*    (ARGM-ADV*     -
+bn/cbs/01/cbs_0111   0   22       的   DEV                *)   -   -   -   -   *         *        *      *         *             *             *)    -
+bn/cbs/01/cbs_0111   0   23      衰减    VV       (VP*)))))))   衰减  -   -   -   *         *)       *      *         *             *)          (V*)    -
+bn/cbs/01/cbs_0111   0   24       。    PU               *))   -   -   -   -   *         *        *      *         *             *             *     -
+
+bn/cbs/01/cbs_0111   0    0     报告    NN   (TOP(IP(LCP(NP*)   -   -   -   -   *   (ARGM-LOC*             *             *             *      *        -
+bn/cbs/01/cbs_0111   0    1     当中    LC                 *)   -   -   -   -   *            *)            *             *             *      *        -
+bn/cbs/01/cbs_0111   0    2     指出    VV              (VP*    指出  -   -   -   *          (V*)            *             *             *      *        -
+bn/cbs/01/cbs_0111   0    3      ，    PU                 *    -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0    4     虽然    CS      (IP(CP(ADVP*)   -   -   -   -   *       (ARG1*    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-ADV*      *        -
+bn/cbs/01/cbs_0111   0    5     石油    NN           (IP(NP*    -   -   -   -   *            *        (ARG0*        (ARG0*             *      *        -
+bn/cbs/01/cbs_0111   0    6     价格    NN                 *)   -   -   -   -   *            *             *)            *)            *      *        -
+bn/cbs/01/cbs_0111   0    7     大幅    AD         (VP(ADVP*)   -   -   -   -   *            *    (ARGM-ADV*)   (ARGM-ADV*)            *      *        -
+bn/cbs/01/cbs_0111   0    8     上扬    VV           (VP(VP*)   上扬  -   -   -   *            *           (V*)            *             *      *        -
+bn/cbs/01/cbs_0111   0    9     减低    VV              (VP*    减低  -   -   -   *            *             *           (V*)            *      *        -
+bn/cbs/01/cbs_0111   0   10      了    AS                 *    -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   11    竞争力    NN         (NP*))))))   -   -   -   -   *            *             *        (ARG1*)            *)     *        -
+bn/cbs/01/cbs_0111   0   12      ，    PU                 *    -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   13     不过    AD            (ADVP*)   -   -   -   -   *            *             *             *    (ARGM-DIS*)     *        -
+bn/cbs/01/cbs_0111   0   14     亚洲    NR    (NP(DNP(NP(NP*)   -   -   -   -   *            *             *             *        (ARG0*      *    (5|(1)
+bn/cbs/01/cbs_0111   0   15     地区    NN              (NP*    -   -   1   -   *            *             *             *             *      *        5)
+bn/cbs/01/cbs_0111   0   16     证券    NN                 *    -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   17      和    CC                 *    -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   18     货币    NN                 *    -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   19     市场    NN                *))   -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   20      的   DEG                 *)   -   -   -   -   *            *             *             *             *      *        -
+bn/cbs/01/cbs_0111   0   21     波动    NN             (NP*))   -   -   -   -   *            *             *             *             *)     *        -
+bn/cbs/01/cbs_0111   0   22    并没有    AD         (VP(ADVP*)   -   -   -   -   *            *             *             *    (ARGM-ADV*)     *        -
+bn/cbs/01/cbs_0111   0   23     影响    VV          (VP(VRD*    影响  -   1   -   *            *             *             *           (V*)     *        -
+bn/cbs/01/cbs_0111   0   24      到    VV                 *)    到  -   4   -   *            *             *             *             *    (V*)       -
+bn/cbs/01/cbs_0111   0   25     这些    DT           (NP(DP*)   -   -   -   -   *            *             *             *        (ARG1*      *        -
+bn/cbs/01/cbs_0111   0   26    预测值    NN         (NP*))))))   -   -   -   -   *            *)            *             *             *)     *        -
+bn/cbs/01/cbs_0111   0   27      。    PU                *))   -   -   -   -   *            *             *             *             *      *        -
+
+bn/cbs/01/cbs_0111   0    0    亚银    NR        (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)   (ARG0*)        *         *    (ARG0*)        *            *    (3)
+bn/cbs/01/cbs_0111   0    1    表示    VV               (VP*    表示  -   2   -   *       (V*)        *         *         *         *         *            *     -
+bn/cbs/01/cbs_0111   0    2     ，    PU                  *    -   -   -   -   *         *         *         *         *         *         *            *     -
+bn/cbs/01/cbs_0111   0    3    出口    NN         (IP(IP(NP*)   -   -   1   -   *    (ARG1*    (ARG0*)        *         *         *    (ARG0*            *     -
+bn/cbs/01/cbs_0111   0    4    强劲    VA              (VP*))   强劲  -   -   -   *         *       (V*)        *         *         *         *)           *     -
+bn/cbs/01/cbs_0111   0    5     、    PU                  *    -   -   -   -   *         *         *         *         *         *         *            *     -
+bn/cbs/01/cbs_0111   0    6    外贸    NN            (IP(NP*    -   -   -   -   *         *         *    (ARG0*         *         *    (ARG0*            *     -
+bn/cbs/01/cbs_0111   0    7    收支    NN                  *)   -   -   -   -   *         *         *         *)        *         *         *            *     -
+bn/cbs/01/cbs_0111   0    8    呈现    VV               (VP*    呈现  -   1   -   *         *         *       (V*)        *         *         *            *     -
+bn/cbs/01/cbs_0111   0    9    顺差    NN             (NP*)))   -   -   -   -   *         *         *    (ARG1*)        *         *         *)           *     -
+bn/cbs/01/cbs_0111   0   10     和    CC                  *    -   -   -   -   *         *         *         *         *         *    (ARG0*)           *     -
+bn/cbs/01/cbs_0111   0   11    国内    NN            (IP(NP*)   -   -   -   -   *         *         *         *         *    (ARG0*)   (ARG0*            *     -
+bn/cbs/01/cbs_0111   0   12    需要    VV               (VP*    需要  -   1   -   *         *         *         *       (V*)        *         *            *     -
+bn/cbs/01/cbs_0111   0   13    稳健    VA             (VP*)))   稳健  -   -   -   *         *         *         *    (ARG1*)      (V*)        *)           *     -
+bn/cbs/01/cbs_0111   0   14     ，    PU                  *    -   -   -   -   *         *         *         *         *         *         *            *     -
+bn/cbs/01/cbs_0111   0   15     是    VC               (VP*     是  -   1   -   *         *         *         *         *         *       (V*)           *     -
+bn/cbs/01/cbs_0111   0   16    亚太    NR   (NP(CP(IP(NP(NP*)   -   -   -   -   *         *         *         *         *         *    (ARG1*       (ARG0*     -
+bn/cbs/01/cbs_0111   0   17    地区    NN              (NP*))   -   -   1   -   *         *         *         *         *         *         *            *)    -
+bn/cbs/01/cbs_0111   0   18     在     P            (VP(PP*    -   -   2   -   *         *         *         *         *         *         *   (ARGM-TMP*     -
+bn/cbs/01/cbs_0111   0   19    今年    NT              (NP*))   -   -   -   -   *         *         *         *         *         *         *            *)   (2)
+bn/cbs/01/cbs_0111   0   20    表现    VV             (VP*)))   表现  -   3   -   *         *         *         *         *         *         *          (V*)    -
+bn/cbs/01/cbs_0111   0   21     的   DEC                  *)   -   -   -   -   *         *         *         *         *         *         *            *     -
+bn/cbs/01/cbs_0111   0   22    特色    NN           (NP*)))))   -   -   -   -   *         *)        *         *         *         *         *)           *     -
+bn/cbs/01/cbs_0111   0   23     。    PU                 *))   -   -   -   -   *         *         *         *         *         *         *            *     -
+
+bn/cbs/01/cbs_0111   0    0     中国    NR   (TOP(IP(IP(NP(NP*)   -   -   -   -   *   (ARG0*      *             *             *     -
+bn/cbs/01/cbs_0111   0    1     大陆    NN               (NP*))   -   -   -   -   *        *)     *             *             *     -
+bn/cbs/01/cbs_0111   0    2     预料    VV                (VP*    预料  -   -   -   *      (V*)     *             *             *     -
+bn/cbs/01/cbs_0111   0    3      将    AD        (IP(VP(ADVP*)   -   -   -   -   *   (ARG1*      *    (ARGM-ADV*)            *     -
+bn/cbs/01/cbs_0111   0    4      是    VC                (VP*     是  -   1   -   *        *    (V*)            *             *     -
+bn/cbs/01/cbs_0111   0    5     表现    VV                (VP*    表现  -   3   -   *        *      *           (V*)            *     -
+bn/cbs/01/cbs_0111   0    6      最    AD      (NP(ADJP(ADVP*)   -   -   -   -   *        *      *        (ARG1*             *     -
+bn/cbs/01/cbs_0111   0    7     杰出    JJ             (ADJP*))   -   -   -   -   *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    8      者    NN                (NP*    -   -   -   -   *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    9     之一    NN            *))))))))   -   -   1   -   *        *)     *             *)            *     -
+bn/cbs/01/cbs_0111   0   10      ，    PU                   *    -   -   -   -   *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   11     今年    NT      (IP(NP(DNP(NP*)   -   -   -   -   *        *      *             *        (ARG0*    (2)
+bn/cbs/01/cbs_0111   0   12      的   DEG                   *)   -   -   -   -   *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   13    成长率    NN               (NP*))   -   -   -   -   *        *      *             *             *)    -
+bn/cbs/01/cbs_0111   0   14     渴望    AD           (VP(ADVP*)   -   -   -   -   *        *      *             *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0111   0   15     达到    VV                (VP*    达到  -   -   -   *        *      *             *           (V*)    -
+bn/cbs/01/cbs_0111   0   16     ８％    CD             (QP*))))   -   -   -   -   *        *      *             *        (ARG1*)    -
+bn/cbs/01/cbs_0111   0   17      。    PU                  *))   -   -   -   -   *        *      *             *             *     -
+
+bn/cbs/01/cbs_0111   0   0       公元    JJ   (TOP(IP(NP(DNP(NP(ADJP*)  -   -   -   -   *    (ARG0*   (4
+bn/cbs/01/cbs_0111   0   1    ２００１年    NT                     (NP*))  -   -   -   -   *         *    4)
+bn/cbs/01/cbs_0111   0   2        的   DEG                         *)  -   -   -   -   *         *    -
+bn/cbs/01/cbs_0111   0   3      成长率    NN                      (NP*)  -   -   -   -   *         *    -
+bn/cbs/01/cbs_0111   0   4       预估    NN                     (NP*))  -   -   -   -   *         *)   -
+bn/cbs/01/cbs_0111   0   5        为    VC                      (VP*    为  -   1   -   *       (V*)   -
+bn/cbs/01/cbs_0111   0   6     ７．５％    CD                     (QP*))  -   -   -   -   *    (ARG1*)   -
+bn/cbs/01/cbs_0111   0   7        。    PU                        *))  -   -   -   -   *         *    -
+
+bn/cbs/01/cbs_0111   0    0       香港    NR  (TOP(IP(IP(NP(DNP(NP(NP*    -   -    -   -   *   (ARG0*   (ARG0*        (ARG0*      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    1        、    PU                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    2       南韩    NR                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    3        、    PU                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    4      新加坡    NR                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    5        和    CC                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    6       台湾    NR                         *)   -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0    7       公元    JJ                    (ADJP*)   -   -    -   -   *        *        *             *      *        *      *             *             *    (2
+bn/cbs/01/cbs_0111   0    8    ２０００年    NT                     (NP*))   -   -    -   -   *        *        *             *      *        *      *             *             *     2)
+bn/cbs/01/cbs_0111   0    9        的   DEG                         *)   -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   10      成长率    NN                     (NP*))   -   -    -   -   *        *)       *)            *)     *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   11       应该    VV                      (VP*    应该  -    -   -   *      (V*)       *    (ARGM-ADV*)     *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   12       可以    VV                      (VP*    可以  -    1   -   *        *      (V*)       (ARG0*)     *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   13        从     P                   (VP(PP*    -   -    -   -   *        *        *        (ARG2*      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   14    １９９９年    NT               (QP(DNP(NP*)   -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   15        的   DEG                         *)   -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   16     ７．４％    CD                    (QP*)))   -   -    -   -   *        *        *             *)     *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   17        ，    PU                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   18       上升    VV                  (VP(VRD*    上升  -    1   -   *        *        *           (V*)     *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   19        上    VV                         *)    上  -   16   -   *        *        *        (ARG1*)   (V*)       *      *             *             *     -
+bn/cbs/01/cbs_0111   0   20     ８．２％    CD                 (QP*))))))   -   -    -   -   *        *        *        (ARG1*)     *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   21        ，    PU                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   22       不过    AD                 (IP(ADVP*)   -   -    -   -   *        *        *             *      *        *      *    (ARGM-DIS*)   (ARGM-DIS*)    -
+bn/cbs/01/cbs_0111   0   23       因为     P                      (PP*    -   -    -   -   *        *        *             *      *        *      *    (ARGM-PRP*    (ARGM-PRP*     -
+bn/cbs/01/cbs_0111   0   24       出口    NN                   (IP(NP*    -   -    1   -   *        *        *             *      *   (ARG0*      *             *             *     -
+bn/cbs/01/cbs_0111   0   25       预期    NN                         *)   -   -    -   -   *        *        *             *      *        *)     *             *             *     -
+bn/cbs/01/cbs_0111   0   26       下降    VV                    (VP*)))   下降  -    1   -   *        *        *             *      *      (V*)     *             *)            *)    -
+bn/cbs/01/cbs_0111   0   27        ，    PU                         *    -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   28       可能    VV                      (VP*    可能  -    -   -   *        *        *             *      *        *    (V*)            *             *     -
+bn/cbs/01/cbs_0111   0   29        使    VV                      (VP*     使  -    1   -   *        *        *             *      *        *      *           (V*)            *     -
+bn/cbs/01/cbs_0111   0   30       明年    NT               (NP(DNP(NP*)   -   -    -   -   *        *        *             *      *        *      *        (ARG1*        (ARG1*    (4)
+bn/cbs/01/cbs_0111   0   31        的   DEG                         *)   -   -    -   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   32       出口    NN                      (NP*    -   -    1   -   *        *        *             *      *        *      *             *             *     -
+bn/cbs/01/cbs_0111   0   33       毛额    NN                        *))   -   -    -   -   *        *        *             *      *        *      *             *)            *)    -
+bn/cbs/01/cbs_0111   0   34       降到    VV                   (IP(VP*    降到  -    -   -   *        *        *             *      *        *      *        (ARG2*           (V*)    -
+bn/cbs/01/cbs_0111   0   35     ６．３％    CD                 (QP*))))))   -   -    -   -   *        *        *             *      *        *      *             *)       (ARG1*)    -
+bn/cbs/01/cbs_0111   0   36        。    PU                        *))   -   -    -   -   *        *        *             *      *        *      *             *             *     -
+
+#end document

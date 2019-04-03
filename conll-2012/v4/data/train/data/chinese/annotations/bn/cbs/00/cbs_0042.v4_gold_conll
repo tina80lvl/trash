@@ -1,0 +1,172 @@
+#begin document (bn/cbs/00/cbs_0042); part 000
+bn/cbs/00/cbs_0042   0    0       大陆    NN   (TOP(IP(NP(NP(CP(CP(IP(NP*)  -    -   -   -        (GPE)       (ARG0*)      (ARG1*   (ARG0*    (1|(2)
+bn/cbs/00/cbs_0042   0    1       自行    AD                    (VP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)           *        *        -
+bn/cbs/00/cbs_0042   0    2       研制    VV                       (VP*)))  -   01   -   -           *           (V*)           *        *        -
+bn/cbs/00/cbs_0042   0    3        的   DEC                           *))  -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0    4       第一    OD                         (QP*   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0    5        颗     M                       (CLP*))  -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0    6       导航    NN                         (NP*   -    -   -   -           *        (ARG1*            *        *        -
+bn/cbs/00/cbs_0042   0    7       定位    NN                            *   -    -   1   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0    8       卫星    NN                           *))  -    -   -   -           *             *)           *        *        -
+bn/cbs/00/cbs_0042   0    9        “    PU                            *   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   10       北斗    NN                         (NP*   -    -   -   -    (PRODUCT)            *            *        *        -
+bn/cbs/00/cbs_0042   0   11        ”    PU                            *   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   12       导航    NN                            *   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   13       实验    NN                            *   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   14       卫星    NN                           *))  -    -   -   -           *             *            *)       *)       1)
+bn/cbs/00/cbs_0042   0   15      ３１号    NT                   (VP(VP(NP*   -    -   -   -       (DATE)            *   (ARGM-TMP*        *        -
+bn/cbs/00/cbs_0042   0   16       凌晨    NT                            *   -    -   -   -      (TIME*             *            *        *        -
+bn/cbs/00/cbs_0042   0   17    ０：０２分    NT                            *)  -    -   -   -           *)            *            *)       *        -
+bn/cbs/00/cbs_0042   0   18        从     P                         (PP*   -    -   -   -           *             *   (ARGM-DIR*        *        -
+bn/cbs/00/cbs_0042   0   19       西昌    NR                         (NP*   -    -   -   -        (LOC)            *            *        *        -
+bn/cbs/00/cbs_0042   0   20       卫星    NN                            *   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   21       发射    NN                            *   -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   22       中心    NN                           *))  -    -   -   -           *             *            *)       *        -
+bn/cbs/00/cbs_0042   0   23       发射    VV                        (VP*))  -   01   -   -           *             *          (V*)       *        -
+bn/cbs/00/cbs_0042   0   24       进入    VV                         (VP*   -   01   -   -           *             *            *      (V*)       -
+bn/cbs/00/cbs_0042   0   25       预定    JJ                (NP(DNP(ADJP*)  -    -   -   -           *             *            *   (ARG1*        -
+bn/cbs/00/cbs_0042   0   26        的   DEG                            *)  -    -   -   -           *             *            *        *        -
+bn/cbs/00/cbs_0042   0   27       轨道    NN                      (NP*))))  -    -   -   -           *             *            *        *)       -
+bn/cbs/00/cbs_0042   0   28        。    PU                           *))  -    -   -   -           *             *            *        *        -
+
+bn/cbs/00/cbs_0042   0    0      “    PU             (TOP(IP*   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0    1     北斗    NN                 (NP*   -    -   -   -    (PRODUCT)  (ARG0*        *        *    (1
+bn/cbs/00/cbs_0042   0    2      ”    PU                    *   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0    3     导航    NN                    *   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0    4     实验    NN                    *   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0    5     卫星    NN                    *)  -    -   -   -           *        *)       *        *     1)
+bn/cbs/00/cbs_0042   0    6      是    VC                 (VP*   -   01   1   -           *      (V*)       *        *     -
+bn/cbs/00/cbs_0042   0    7      由     P  (NP(CP(CP(IP(VP(PP*   -    -   -   -           *   (ARG1*   (ARG1*   (ARG0*     -
+bn/cbs/00/cbs_0042   0    8     大陆    NN          (NP(DNP(NP*)  -    -   -   -        (GPE)       *        *        *    (2)
+bn/cbs/00/cbs_0042   0    9      的   DEG                    *)  -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   10     中国    NR              (NP(NP*)  -    -   -   -        (GPE)       *        *        *    (2)
+bn/cbs/00/cbs_0042   0   11     航空    NN                 (NP*   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   12     科技    NN                    *   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   13     集团    NN                    *)  -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   14     空间    NN                 (NP*   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   15     技术    NN                    *   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   16    研究院    NN                 *))))  -    -   -   -           *        *        *)       *)    -
+bn/cbs/00/cbs_0042   0   17     为主    VV              (VP(VP*)  -   01   -   -           *        *      (V*)       *     -
+bn/cbs/00/cbs_0042   0   18      所   MSP                 (VP*   -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   19     研制    VV             (VP*)))))  -   01   -   -           *        *        *      (V*)    -
+bn/cbs/00/cbs_0042   0   20      的   DEC                   *))  -    -   -   -           *        *        *        *     -
+bn/cbs/00/cbs_0042   0   21     实验    NN                 (NP*   -    -   -   -           *        *   (ARG0*   (ARG1*     -
+bn/cbs/00/cbs_0042   0   22     卫星    NN                  *)))  -    -   -   -           *        *)       *)       *)    -
+bn/cbs/00/cbs_0042   0   23      。    PU                   *))  -    -   -   -           *        *        *        *     -
+
+bn/cbs/00/cbs_0042   0    0     根据     P        (TOP(IP(PP*   -    -   -   -           *        *    (ARGM-MNR*             *     -
+bn/cbs/00/cbs_0042   0    1     中共    NR            (IP(NP*   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    2    新华社    NR                  *)  -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    3     引述    VV               (VP*   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    4     有关    JJ   (NP(DNP(NP(ADJP*)  -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    5     部门    NN              (NP*))  -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    6      的   DEG                  *)  -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    7     介绍    NN           (NP*)))))  -    -   1   -           *        *             *)            *     -
+bn/cbs/00/cbs_0042   0    8      ，    PU                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0    9     为了     P               (PP*   -    -   -   -           *        *    (ARGM-PRP*             *     -
+bn/cbs/00/cbs_0042   0   10     满足    VV            (IP(VP*   -   01   -   -           *      (V*)            *             *     -
+bn/cbs/00/cbs_0042   0   11     卫星    NN        (NP(DNP(NP*   -    -   -   -           *   (ARG2*             *             *     -
+bn/cbs/00/cbs_0042   0   12     导航    NN                  *)  -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   13      的   DEG                  *)  -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   14     需求    NN           (NP*)))))  -    -   -   -           *        *)            *)            *     -
+bn/cbs/00/cbs_0042   0   15      ，    PU                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   16     大陆    NN               (NP*)  -    -   -   -           *        *        (ARG0*)            *    (2)
+bn/cbs/00/cbs_0042   0   17      将    AD          (VP(ADVP*)  -    -   -   -           *        *    (ARGM-ADV*)            *     -
+bn/cbs/00/cbs_0042   0   18     自行    AD             (ADVP*)  -    -   -   -           *        *    (ARGM-ADV*)            *     -
+bn/cbs/00/cbs_0042   0   19     建立    VV               (VP*   -   01   -   -           *        *           (V*)            *     -
+bn/cbs/00/cbs_0042   0   20     第一    OD         (NP(NP(QP*   -    -   -   -           *        *        (ARG1*             *    (0
+bn/cbs/00/cbs_0042   0   21      代     M             (CLP*))  -    -   3   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   22     卫星    NN               (NP*   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   23     导航    NN                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   24     定位    NN                  *   -    -   1   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   25     系统    NN                 *))  -    -   1   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   26      ，    PU                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   27      也    AD      (PRN(VP(ADVP*)  -    -   -   -           *        *             *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0042   0   28      就    AD             (ADVP*)  -    -   7   -           *        *             *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0042   0   29      是    VC               (VP*   -   01   1   -           *        *             *           (V*)    -
+bn/cbs/00/cbs_0042   0   30      “    PU                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   31     北斗    NN               (NP*   -    -   -   -    (PRODUCT)       *             *        (ARG1*     -
+bn/cbs/00/cbs_0042   0   32      ”    PU                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   33     导航    NN                  *   -    -   -   -           *        *             *             *     -
+bn/cbs/00/cbs_0042   0   34     系统    NN            *)))))))  -    -   1   -           *        *             *)            *)    0)
+bn/cbs/00/cbs_0042   0   35      。    PU                 *))  -    -   -   -           *        *             *             *     -
+
+bn/cbs/00/cbs_0042   0    0     报导    NN         (TOP(IP(LCP(NP*)  -    -   -   -           *   (ARG0*        *             *    -
+bn/cbs/00/cbs_0042   0    1      中    LC                       *)  -    -   -   -           *        *)       *             *    -
+bn/cbs/00/cbs_0042   0    2      说    VV                    (VP*   -   01   8   -           *      (V*)       *             *    -
+bn/cbs/00/cbs_0042   0    3      ，    PU                       *   -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0    4      “    PU                    (IP*   -    -   -   -           *   (ARG1*        *             *    -
+bn/cbs/00/cbs_0042   0    5     北斗    NN                    (NP*   -    -   -   -    (PRODUCT)       *   (ARG0*             *   (0
+bn/cbs/00/cbs_0042   0    6      ”    PU                       *   -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0    7     导航    NN                       *   -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0    8     系统    NN                       *)  -    -   1   -           *        *        *)            *    0)
+bn/cbs/00/cbs_0042   0    9      是    VC                    (VP*   -   01   1   -           *        *      (V*)            *    -
+bn/cbs/00/cbs_0042   0   10    全天候    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -           *        *   (ARG1*    (ARGM-ADV*)   -
+bn/cbs/00/cbs_0042   0   11      、    PU                       *   -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0   12    全天时    AD                  (ADVP*)  -    -   -   -           *        *        *    (ARGM-ADV*)   -
+bn/cbs/00/cbs_0042   0   13     提供    VV                    (VP*   -   01   -   -           *        *        *           (V*)   -
+bn/cbs/00/cbs_0042   0   14     卫星    NN                    (NP*   -    -   -   -           *        *        *        (ARG1*    -
+bn/cbs/00/cbs_0042   0   15     导航    NN                       *   -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0   16     信息    NN                    *))))  -    -   -   -           *        *        *             *)   -
+bn/cbs/00/cbs_0042   0   17      的   DEC                      *))  -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0   18     区域    NN                    (NP*   -    -   -   -           *        *        *        (ARG0*    -
+bn/cbs/00/cbs_0042   0   19     导航    NN                       *   -    -   -   -           *        *        *             *    -
+bn/cbs/00/cbs_0042   0   20     系统    NN                   *)))))  -    -   1   -           *        *)       *)            *)   -
+bn/cbs/00/cbs_0042   0   21      。    PU                      *))  -    -   -   -           *        *        *             *    -
+
+bn/cbs/00/cbs_0042   0    0    系统    NN          (TOP(IP(NP*)  -    -   1   -       *      *      *        (ARG0*)       (ARG0*)     *    (0)
+bn/cbs/00/cbs_0042   0    1    建成    VV   (VP(VP(LCP(IP(VP*))  -   01   2   -       *    (V*)     *    (ARGM-TMP*             *      *     -
+bn/cbs/00/cbs_0042   0    2    之后    LC                    *)  -    -   -   -       *      *      *             *)            *      *     -
+bn/cbs/00/cbs_0042   0    3    主要    AD               (ADVP*)  -    -   -   -       *      *      *    (ARGM-ADV*)            *      *     -
+bn/cbs/00/cbs_0042   0    4     是    VC                 (VP*   -   01   2   -       *      *    (V*)            *             *      *     -
+bn/cbs/00/cbs_0042   0    5    公路    NN           (VP(NP(NP*   -    -   -   -       *      *      *    (ARGM-LOC*             *      *     -
+bn/cbs/00/cbs_0042   0    6    交通    NN                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0    7     、    PU                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0    8    铁路    NN                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0    9    运输    NN                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   10     、    PU                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   11    海上    NN                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   12    作业    NN                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   13     等   ETC                    *)  -    -   2   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   14    领域    NN                (NP*))  -    -   -   -       *      *      *             *)            *      *     -
+bn/cbs/00/cbs_0042   0   15    提供    VV                 (VP*   -   01   -   -       *      *      *           (V*)            *      *     -
+bn/cbs/00/cbs_0042   0   16    导航    NN                 (NP*   -    -   -   -       *      *      *        (ARG1*             *      *     -
+bn/cbs/00/cbs_0042   0   17    服务    NN                *)))))  -    -   -   -       *      *      *             *)            *      *     -
+bn/cbs/00/cbs_0042   0   18     ，    PU                    *   -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   19     对     P              (VP(PP*   -    -   3   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   20    大陆    NN          (NP(DNP(NP*)  -    -   -   -    (GPE)     *      *             *             *      *    (2)
+bn/cbs/00/cbs_0042   0   21     的   DEG                    *)  -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   22    经济    NN                 (NP*   -    -   2   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   23    建设    NN                  *)))  -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   24     将    AD               (ADVP*)  -    -   -   -       *      *      *             *    (ARGM-ADV*)     *     -
+bn/cbs/00/cbs_0042   0   25    发挥    VV                 (VP*   -   01   1   -       *      *      *             *           (V*)     *     -
+bn/cbs/00/cbs_0042   0   26    推动    VV       (NP(CP(IP(VP*))  -   02   2   -       *      *      *             *        (ARG1*    (V*)    -
+bn/cbs/00/cbs_0042   0   27     的   DEC                    *)  -    -   -   -       *      *      *             *             *      *     -
+bn/cbs/00/cbs_0042   0   28    作用    NN             (NP*)))))  -    -   -   -       *      *      *             *             *)     *     -
+bn/cbs/00/cbs_0042   0   29     。    PU                   *))  -    -   -   -       *      *      *             *             *      *     -
+
+bn/cbs/00/cbs_0042   0    0      而    AD                     (TOP(IP(ADVP*)  -    -   -   -           *             *        *    (ARGM-DIS*)   -
+bn/cbs/00/cbs_0042   0    1    ３１号    NT   (NP(CP(CP(IP(NP(CP(CP(IP(VP(NP*)  -    -   -   -           *    (ARGM-TMP*)  (ARG0*        (ARG0*   (1
+bn/cbs/00/cbs_0042   0    2     发射    VV                            (VP*)))  -   01   -   -           *           (V*)       *             *    -
+bn/cbs/00/cbs_0042   0    3      的   DEC                                *))  -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0    4      “    PU                                 *   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0    5     北斗    NN                              (NP*   -    -   -   -    (PRODUCT)       (ARG1*        *             *    -
+bn/cbs/00/cbs_0042   0    6      ”    PU                                 *   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0    7     导航    NN                                 *   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0    8     实验    NN                                 *   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0    9     卫星    NN                                *))  -    -   -   -           *             *)       *)            *    1)
+bn/cbs/00/cbs_0042   0   10      所   MSP                              (VP*   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0   11     采用    VV                            (VP*)))  -   01   -   -           *             *      (V*)            *    -
+bn/cbs/00/cbs_0042   0   12      的   DEC                               *)))  -    -   -   -           *             *        *             *)   -
+bn/cbs/00/cbs_0042   0   13      是    VC                              (VP*   -   01   1   -           *             *        *           (V*)   -
+bn/cbs/00/cbs_0042   0   14      “    PU                                 *   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0   15     长征    NR                        (NP(QP(NP*)  -    -   -   -   (PRODUCT*             *        *        (ARG1*    -
+bn/cbs/00/cbs_0042   0   16      ３    CD                              (QP*)  -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0   17      号    NN                              (NP*)  -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0   18      甲    OD                              (QP*)  -    -   -   -           *)            *        *             *    -
+bn/cbs/00/cbs_0042   0   19      ”    PU                                 *)  -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0   20     运载    NN                              (NP*   -    -   -   -           *             *        *             *    -
+bn/cbs/00/cbs_0042   0   21     火箭    NN                               *)))  -    -   -   -           *             *        *             *)   -
+bn/cbs/00/cbs_0042   0   22      。    PU                                *))  -    -   -   -           *             *        *             *    -
+
+#end document

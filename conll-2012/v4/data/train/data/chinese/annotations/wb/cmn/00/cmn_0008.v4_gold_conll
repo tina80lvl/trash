@@ -1,0 +1,209 @@
+#begin document (wb/cmn/00/cmn_0008); part 000
+wb/cmn/00/cmn_0008   0   0       eBay   NR    (TOP(IP(NP*)  -    -   -   -      (ORG)       (ARG0*)           *    (0)
+wb/cmn/00/cmn_0008   0   1         今日   NT        (VP(NP*)  -    -   -   -     (DATE)   (ARGM-TMP*)           *     -
+wb/cmn/00/cmn_0008   0   2         宣布   VV           (VP*   -   01   -   -         *           (V*)           *     -
+wb/cmn/00/cmn_0008   0   3       3．1亿   CD     (IP(VP(QP*   -    -   -   -   (MONEY*        (ARG1*   (ARGM-MNR*     -
+wb/cmn/00/cmn_0008   0   4         美元    M         (CLP*))  -    -   -   -         *)            *            *)    -
+wb/cmn/00/cmn_0008   0   5         收购   VV           (VP*   -   01   -   -         *             *          (V*)    -
+wb/cmn/00/cmn_0008   0   6         票务   NN        (NP(NP*   -    -   -   -         *             *       (ARG1*    (2
+wb/cmn/00/cmn_0008   0   7         网站   NN              *)  -    -   -   -         *             *            *     -
+wb/cmn/00/cmn_0008   0   8    StubHub   NR   (NP*)))))))))  -    -   -   -         *             *)           *)    2)
+
+wb/cmn/00/cmn_0008   0   0    eの蜗牛   NR   (TOP(FRAG(NP*)))  -   -   -   -    (PERSON)  -
+
+wb/cmn/00/cmn_0008   0    0         1月    NT    (TOP(IP(NP*   -    -   -    _eの蜗牛_   (DATE*   (ARGM-TMP*         *            *             *     -
+wb/cmn/00/cmn_0008   0    1        11日    NT              *)  -    -   -    _eの蜗牛_        *)           *)        *            *             *     -
+wb/cmn/00/cmn_0008   0    2         国际    NN           (NP*)  -    -   -    _eの蜗牛_        *       (ARG0*)        *            *             *     -
+wb/cmn/00/cmn_0008   0    3         报道    VV           (VP*   -   01   -    _eの蜗牛_        *          (V*)        *            *             *     -
+wb/cmn/00/cmn_0008   0    4       eBay    NR        (IP(NP*)  -    -   -    _eの蜗牛_     (ORG)      (ARG1*    (ARG0*)           *             *    (0)
+wb/cmn/00/cmn_0008   0    5         宣布    VV           (VP*   -   01   -    _eの蜗牛_        *            *       (V*)           *             *     -
+wb/cmn/00/cmn_0008   0    6          以     P  (IP(VP(VP(PP*   -    -   -    _eの蜗牛_        *            *    (ARG1*   (ARGM-MNR*             *     -
+wb/cmn/00/cmn_0008   0    7       3．1亿    CD        (NP(QP*   -    -   -    _eの蜗牛_  (MONEY*            *         *            *             *     -
+wb/cmn/00/cmn_0008   0    8         美元     M         (CLP*))  -    -   -    _eの蜗牛_        *)           *         *            *             *     -
+wb/cmn/00/cmn_0008   0    9         现金    NN         (NP*)))  -    -   -    _eの蜗牛_        *            *         *            *)            *     -
+wb/cmn/00/cmn_0008   0   10         收购    VV           (VP*   -   01   -    _eの蜗牛_        *            *         *          (V*)            *     -
+wb/cmn/00/cmn_0008   0   11         在线    JJ   (NP(NP(ADJP*)  -    -   -    _eの蜗牛_        *            *         *       (ARG1*             *    (2
+wb/cmn/00/cmn_0008   0   12         票务    NN           (NP*   -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   13         网站    NN             *))  -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   14    StubHub    NR        (NP*))))  -    -   -    _eの蜗牛_     (ORG)           *         *            *)            *     2)
+wb/cmn/00/cmn_0008   0   15          ，    PU              *   -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   16         从而    AD      (VP(ADVP*)  -    -   -    _eの蜗牛_        *            *         *            *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0008   0   17        进一步    AD         (ADVP*)  -    -   -    _eの蜗牛_        *            *         *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0008   0   18         扩展    VV           (VP*   -   01   -    _eの蜗牛_        *            *         *            *           (V*)    -
+wb/cmn/00/cmn_0008   0   19          了    AS              *   -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   20          其    PN        (NP(NP*)  -    -   -    _eの蜗牛_        *            *         *            *        (ARG1*    (0)
+wb/cmn/00/cmn_0008   0   21         电子    NN       (DNP(NP*   -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   22         商务    NN              *)  -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   23          的   DEG              *)  -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   24         势力    NN           (NP*   -    -   -    _eの蜗牛_        *            *         *            *             *     -
+wb/cmn/00/cmn_0008   0   25         范围    NN      *)))))))))  -    -   -    _eの蜗牛_        *            *)        *)           *             *)    -
+wb/cmn/00/cmn_0008   0   26          。    PU             *))  -    -   -    _eの蜗牛_        *            *         *            *             *     -
+
+wb/cmn/00/cmn_0008   0   0    预计   VV  (TOP(IP(VP*   -   01   -    _eの蜗牛_       *      (V*)            *   -
+wb/cmn/00/cmn_0008   0   1     这   DT   (IP(NP(DP*   -    -   -    _eの蜗牛_       *   (ARG1*        (ARG1*   -
+wb/cmn/00/cmn_0008   0   2     桩    M       (CLP*))  -    -   -    _eの蜗牛_       *        *             *   -
+wb/cmn/00/cmn_0008   0   3    收购   NN        (NP*))  -    -   -    _eの蜗牛_       *        *             *)  -
+wb/cmn/00/cmn_0008   0   4     将   AD    (VP(ADVP*)  -    -   -    _eの蜗牛_       *        *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0008   0   5     于    P         (PP*   -    -   -    _eの蜗牛_       *        *    (ARGM-TMP*   -
+wb/cmn/00/cmn_0008   0   6    4月   NT     (LCP(NP*)  -    -   -    _eの蜗牛_  (DATE*        *             *   -
+wb/cmn/00/cmn_0008   0   7    之前   LC           *))  -    -   -    _eの蜗牛_       *)       *             *)  -
+wb/cmn/00/cmn_0008   0   8    完成   VV      (VP*))))  -   01   -    _eの蜗牛_       *        *)          (V*)  -
+wb/cmn/00/cmn_0008   0   9     。   PU           *))  -    -   -    _eの蜗牛_       *        *             *   -
+
+wb/cmn/00/cmn_0008   0    0           6    CD  (TOP(IP(IP(LCP(QP(QP*   -    -   -    _eの蜗牛_    (DATE*   (ARGM-TMP*         *     -
+wb/cmn/00/cmn_0008   0    1            年    M                 (CLP*))  -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0    2            多   AD                (ADVP*))  -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0    3            前   LC                      *)  -    -   -    _eの蜗牛_         *)           *)        *     -
+wb/cmn/00/cmn_0008   0    4            ，   PU                      *   -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0    5    JeffFluhr   NR                (NP(NP*)  -    -   -    _eの蜗牛_   (PERSON)      (ARG0*         *    (1)
+wb/cmn/00/cmn_0008   0    6            和   CC                      *   -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0    7          斯坦福   NR             (NP(NP(NP*   -    -   -    _eの蜗牛_     (ORG*            *         *     -
+wb/cmn/00/cmn_0008   0    8          商学院   NN                      *)  -    -   -    _eの蜗牛_         *)           *         *     -
+wb/cmn/00/cmn_0008   0    9          毕业生   NN                  (NP*))  -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0   10    EricBaker   NR                 (NP*)))  -    -   -    _eの蜗牛_   (PERSON)           *)        *     -
+wb/cmn/00/cmn_0008   0   11           创办   VV                   (VP*   -   01   -    _eの蜗牛_         *          (V*)        *     -
+wb/cmn/00/cmn_0008   0   12            了   AS                      *   -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0   13      StubHub   NR                 (NP*)))  -    -   -    _eの蜗牛_      (ORG)      (ARG1*)        *    (2)
+wb/cmn/00/cmn_0008   0   14            ，   PU                      *   -    -   -    _eの蜗牛_         *            *         *     -
+wb/cmn/00/cmn_0008   0   15        Fluhr   NR                (IP(NP*)  -    -   -    _eの蜗牛_   (PERSON)           *    (ARG0*)   (1)
+wb/cmn/00/cmn_0008   0   16            任   VV                   (VP*   -   01   -    _eの蜗牛_         *            *       (V*)    -
+wb/cmn/00/cmn_0008   0   17           首席   JJ              (NP(ADJP*)  -    -   -    _eの蜗牛_         *            *    (ARG1*     -
+wb/cmn/00/cmn_0008   0   18          执行官   NN                (NP*))))  -    -   -    _eの蜗牛_         *            *         *)    -
+wb/cmn/00/cmn_0008   0   19            。   PU                     *))  -    -   -    _eの蜗牛_         *            *         *     -
+
+wb/cmn/00/cmn_0008   0    0      Fluhr   NR     (TOP(IP(NP*)  -    -   -    _eの蜗牛_   (PERSON)      (ARG0*)            *      *             *    (1)
+wb/cmn/00/cmn_0008   0    1          在    P         (VP(PP*   -    -   -    _eの蜗牛_         *   (ARGM-LOC*             *      *             *     -
+wb/cmn/00/cmn_0008   0    2          一   CD     (LCP(NP(QP*   -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0    3          份    M          (CLP*))  -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0    4         声明   NN           (NP*))  -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0    5          中   LC              *))  -    -   -    _eの蜗牛_         *            *)            *      *             *     -
+wb/cmn/00/cmn_0008   0    6         表示   VV            (VP*   -   01   -    _eの蜗牛_         *          (V*)            *      *             *     -
+wb/cmn/00/cmn_0008   0    7          ：   PU               *   -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0    8          ＂   PU               *   -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0    9    StubHub   NR   (IP(IP(NP(NP*)  -    -   -    _eの蜗牛_      (ORG)      (ARG1*        (ARG0*      *             *    (2)
+wb/cmn/00/cmn_0008   0   10         业务   NR            (NP*   -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0   11         模式   NN              *))  -    -   -    _eの蜗牛_         *            *             *)     *             *     -
+wb/cmn/00/cmn_0008   0   12         非常   AD       (VP(ADVP*)  -    -   -    _eの蜗牛_         *            *    (ARGM-ADV*)     *             *     -
+wb/cmn/00/cmn_0008   0   13         适合   VV            (VP*   -   01   -    _eの蜗牛_         *            *           (V*)     *             *     -
+wb/cmn/00/cmn_0008   0   14       eBay   NR         (NP*))))  -    -   -    _eの蜗牛_      (ORG)           *        (ARG1*)     *             *    (0)
+wb/cmn/00/cmn_0008   0   15          ，   PU               *   -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0   16         我们   PN         (IP(NP*)  -    -   -    _eの蜗牛_         *            *             *      *        (ARG0*)    -
+wb/cmn/00/cmn_0008   0   17          对    P         (VP(PP*   -    -   -    _eの蜗牛_         *            *             *      *        (ARG1*     -
+wb/cmn/00/cmn_0008   0   18       eBay   NR           (NP*))  -    -   -    _eの蜗牛_      (ORG)           *             *      *             *)   (0)
+wb/cmn/00/cmn_0008   0   19          也   AD          (ADVP*)  -    -   -    _eの蜗牛_         *            *             *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0008   0   20          是   VC            (VP*   -   04   -    _eの蜗牛_         *            *             *    (V*)            *     -
+wb/cmn/00/cmn_0008   0   21       倾慕已久   VV      (VP*)))))))  -   01   -    _eの蜗牛_         *            *)            *      *           (V*)    -
+wb/cmn/00/cmn_0008   0   22          。   PU               *   -    -   -    _eの蜗牛_         *            *             *      *             *     -
+wb/cmn/00/cmn_0008   0   23          ＂   PU              *))  -    -   -    _eの蜗牛_         *            *             *      *             *     -
+
+wb/cmn/00/cmn_0008   0    0      过去    NT     (TOP(IP(QP(NP*)  -    -   -    _eの蜗牛_  (DATE*        *         *        *            *      *    (ARGM-TMP*     -
+wb/cmn/00/cmn_0008   0    1       两    CD               (QP*   -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0    2       年     M            (CLP*)))  -    -   -    _eの蜗牛_       *)       *         *        *            *      *             *)    -
+wb/cmn/00/cmn_0008   0    3       ，    PU                  *   -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0    4      由于     P               (PP*   -    -   -    _eの蜗牛_       *        *         *        *            *      *    (ARGM-PRP*     -
+wb/cmn/00/cmn_0008   0    5     投资者    NN            (IP(NP*)  -    -   -    _eの蜗牛_       *        *         *        *       (ARG0*)     *             *     -
+wb/cmn/00/cmn_0008   0    6       对     P            (VP(PP*   -    -   -    _eの蜗牛_       *        *         *        *   (ARGM-DIR*      *             *     -
+wb/cmn/00/cmn_0008   0    7    eBay    NR   (NP(IP(IP(NP(NP*)  -    -   -    _eの蜗牛_    (ORG)  (ARG1*         *        *            *      *             *    (0)
+wb/cmn/00/cmn_0008   0    8      网络    NN               (NP*   -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0    9      拍卖    NN                  *   -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   10      业务    NN                 *))  -    -   -    _eの蜗牛_       *        *)        *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   11      放缓    VV               (VP*)  -   01   -    _eの蜗牛_       *      (V*)        *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   12       ，    PU                  *)  -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   13      管理    NN            (IP(NP*)  -    -   -    _eの蜗牛_       *        *    (ARG0*)       *            *      *             *     -
+wb/cmn/00/cmn_0008   0   14      不利    VA              (VP*))  -   01   -    _eの蜗牛_       *        *       (V*)       *            *      *             *     -
+wb/cmn/00/cmn_0008   0   15      以及    CC                  *   -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   16      业务    NN            (IP(NP*   -    -   -    _eの蜗牛_       *        *         *   (ARG0*            *      *             *     -
+wb/cmn/00/cmn_0008   0   17      扩展    NN                  *)  -    -   -    _eの蜗牛_       *        *         *        *)           *      *             *     -
+wb/cmn/00/cmn_0008   0   18      缓慢    VA              (VP*))  -   01   -    _eの蜗牛_       *        *         *      (V*)           *      *             *     -
+wb/cmn/00/cmn_0008   0   19       等   ETC                  *)  -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   20      因素    NN             (NP*)))  -    -   -    _eの蜗牛_       *        *         *        *            *)     *             *     -
+wb/cmn/00/cmn_0008   0   21      感到    VV               (VP*   -   01   -    _eの蜗牛_       *        *         *        *          (V*)     *             *     -
+wb/cmn/00/cmn_0008   0   22      担心    VV       (IP(VP*))))))  -   01   -    _eの蜗牛_       *        *         *        *       (ARG1*)   (V*)            *)    -
+wb/cmn/00/cmn_0008   0   23       ，    PU                  *   -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+wb/cmn/00/cmn_0008   0   24       其    PN               (NP*   -    -   -    _eの蜗牛_       *        *         *        *            *      *        (ARG0*    (0)
+wb/cmn/00/cmn_0008   0   25      市值    NN                  *)  -    -   -    _eの蜗牛_       *        *         *        *            *      *             *)    -
+wb/cmn/00/cmn_0008   0   26       在    AD          (VP(ADVP*)  -    -   -    _eの蜗牛_       *        *         *        *            *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0008   0   27      不断    AD             (ADVP*)  -    -   -    _eの蜗牛_       *        *         *        *            *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0008   0   28      缩水    VV              (VP*))  -   01   -    _eの蜗牛_       *        *         *        *            *      *           (V*)    -
+wb/cmn/00/cmn_0008   0   29       。    PU                 *))  -    -   -    _eの蜗牛_       *        *         *        *            *      *             *     -
+
+wb/cmn/00/cmn_0008   0    0            eBay   NR   (TOP(IP(NP*)  -    -   -    _eの蜗牛_   (ORG)       (ARG0*)   (0)
+wb/cmn/00/cmn_0008   0    1              陆续   AD     (VP(ADVP*)  -    -   -    _eの蜗牛_      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0008   0    2              收购   VV          (VP*   -   01   -    _eの蜗牛_      *           (V*)    -
+wb/cmn/00/cmn_0008   0    3               了   AS             *   -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0    4           Skype   NR       (NP(NP*   -    -   -    _eの蜗牛_   (ORG)       (ARG1*     -
+wb/cmn/00/cmn_0008   0    5              网络   NN             *   -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0    6              电话   NN             *)  -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0    7              以及   CC             *   -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0    8    Shopping．com   NR       (NP(NP*)  -    -   -    _eの蜗牛_   (ORG)            *     -
+wb/cmn/00/cmn_0008   0    9              网上   JJ        (ADJP*)  -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0   10              比价   NN          (NP*   -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0   11              公司   NN         *)))))  -    -   -    _eの蜗牛_      *             *)    -
+wb/cmn/00/cmn_0008   0   12               。   PU            *))  -    -   -    _eの蜗牛_      *             *     -
+
+wb/cmn/00/cmn_0008   0   0    StubHub    NR        (TOP(IP(NP*)  -    -   -    _eの蜗牛_   (ORG)       (ARG0*)   (2)
+wb/cmn/00/cmn_0008   0   1         主要    AD          (VP(ADVP*)  -    -   -    _eの蜗牛_      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0008   0   2         经营    VV               (VP*   -   01   -    _eの蜗牛_      *           (V*)    -
+wb/cmn/00/cmn_0008   0   3         重要    JJ   (NP(DNP(NP(ADJP*)  -    -   -    _eの蜗牛_      *        (ARG1*     -
+wb/cmn/00/cmn_0008   0   4         赛事    NN              (NP*))  -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0   5          的   DEG                  *)  -    -   -    _eの蜗牛_      *             *     -
+wb/cmn/00/cmn_0008   0   6         票务    NN            (NP*))))  -    -   -    _eの蜗牛_      *             *)    -
+wb/cmn/00/cmn_0008   0   7          。    PU                 *))  -    -   -    _eの蜗牛_      *             *     -
+
+wb/cmn/00/cmn_0008   0    0    2006年   NT   (TOP(IP(IP(NP*)  -    -   -    _eの蜗牛_    (DATE)   (ARGM-TMP*)       *     -
+wb/cmn/00/cmn_0008   0    1        其   PN             (NP*   -    -   -    _eの蜗牛_        *        (ARG0*        *    (2)
+wb/cmn/00/cmn_0008   0    2       票务   NN                *   -    -   -    _eの蜗牛_        *             *        *     -
+wb/cmn/00/cmn_0008   0    3      销售额   NN                *)  -    -   -    _eの蜗牛_        *             *)       *     -
+wb/cmn/00/cmn_0008   0    4        为   VC             (VP*   -   01   -    _eの蜗牛_        *           (V*)       *     -
+wb/cmn/00/cmn_0008   0    5       4亿   CD             (QP*   -    -   -    _eの蜗牛_  (MONEY*        (ARG1*        *     -
+wb/cmn/00/cmn_0008   0    6       美元    M         (CLP*))))  -    -   -    _eの蜗牛_        *)            *)       *     -
+wb/cmn/00/cmn_0008   0    7        ，   PU                *   -    -   -    _eの蜗牛_        *             *        *     -
+wb/cmn/00/cmn_0008   0    8        年   JJ     (IP(NP(ADJP*)  -    -   -    _eの蜗牛_        *             *   (ARG0*     -
+wb/cmn/00/cmn_0008   0    9       利润   NN            (NP*))  -    -   -    _eの蜗牛_        *             *        *)    -
+wb/cmn/00/cmn_0008   0   10       达到   VV             (VP*   -   01   -    _eの蜗牛_        *             *      (V*)    -
+wb/cmn/00/cmn_0008   0   11       1亿   CD             (QP*   -    -   -    _eの蜗牛_  (MONEY*             *   (ARG1*     -
+wb/cmn/00/cmn_0008   0   12       美元    M         (CLP*))))  -    -   -    _eの蜗牛_        *)            *        *)    -
+wb/cmn/00/cmn_0008   0   13        。   PU               *))  -    -   -    _eの蜗牛_        *             *        *     -
+
+wb/cmn/00/cmn_0008   0    0         票务    NN  (TOP(IP(IP(NP*   -    -   -    _eの蜗牛_          *      *      *       (ARG0*      *             *     -
+wb/cmn/00/cmn_0008   0    1        销售者    NN               *)  -    -   -    _eの蜗牛_          *      *      *            *)     *             *     -
+wb/cmn/00/cmn_0008   0    2          在     P         (VP(PP*   -    -   -    _eの蜗牛_          *      *      *   (ARGM-LOC*      *             *     -
+wb/cmn/00/cmn_0008   0    3         这个    DT         (NP(DP*)  -    -   -    _eの蜗牛_          *      *      *            *      *             *    (2
+wb/cmn/00/cmn_0008   0    4         网站    NN          (NP*)))  -    -   -    _eの蜗牛_          *      *      *            *)     *             *     2)
+wb/cmn/00/cmn_0008   0    5         卖票    VV    (LCP(IP(VP*))  -   01   -    _eの蜗牛_          *    (V*)     *   (ARGM-TMP*      *             *     -
+wb/cmn/00/cmn_0008   0    6          时    LC               *)  -    -   -    _eの蜗牛_          *      *      *            *)     *             *     -
+wb/cmn/00/cmn_0008   0    7          ，    PU               *   -    -   -    _eの蜗牛_          *      *      *            *      *             *     -
+wb/cmn/00/cmn_0008   0    8          要    VV            (VP*   -   03   -    _eの蜗牛_          *      *    (V*)           *      *             *     -
+wb/cmn/00/cmn_0008   0    9          向     P         (VP(PP*   -    -   -    _eの蜗牛_          *      *      *       (ARG2*      *             *     -
+wb/cmn/00/cmn_0008   0   10          其    PN           (NP*))  -    -   -    _eの蜗牛_          *      *      *            *)     *             *    (2)
+wb/cmn/00/cmn_0008   0   11         支付    VV            (VP*   -   01   -    _eの蜗牛_          *      *      *          (V*)     *             *     -
+wb/cmn/00/cmn_0008   0   12        15％    CD     (NP(DNP(QP*)  -    -   -    _eの蜗牛_   (PERCENT)     *      *       (ARG1*      *             *     -
+wb/cmn/00/cmn_0008   0   13          的   DEG               *)  -    -   -    _eの蜗牛_          *      *      *            *      *             *     -
+wb/cmn/00/cmn_0008   0   14         费用    NN      (NP*)))))))  -    -   -    _eの蜗牛_          *      *      *            *)     *             *     -
+wb/cmn/00/cmn_0008   0   15          ，    PU               *   -    -   -    _eの蜗牛_          *      *      *            *      *             *     -
+wb/cmn/00/cmn_0008   0   16          而    AD       (IP(ADVP*)  -    -   -    _eの蜗牛_          *      *      *            *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0008   0   17         用户    NN            (NP*)  -    -   -    _eの蜗牛_          *      *      *            *      *        (ARG0*)    -
+wb/cmn/00/cmn_0008   0   18          也    AD       (VP(ADVP*)  -    -   -    _eの蜗牛_          *      *      *            *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0008   0   19          要    VV            (VP*   -   03   -    _eの蜗牛_          *      *      *            *    (V*)            *     -
+wb/cmn/00/cmn_0008   0   20          向     P         (VP(PP*   -    -   -    _eの蜗牛_          *      *      *            *      *        (ARG2*     -
+wb/cmn/00/cmn_0008   0   21    StubHub    NR           (NP*))  -    -   -    _eの蜗牛_       (ORG)     *      *            *      *             *)   (2)
+wb/cmn/00/cmn_0008   0   22         支付    VV            (VP*   -   01   -    _eの蜗牛_          *      *      *            *      *           (V*)    -
+wb/cmn/00/cmn_0008   0   23        10％    CD     (NP(DNP(QP*)  -    -   -    _eの蜗牛_   (PERCENT)     *      *            *      *        (ARG1*     -
+wb/cmn/00/cmn_0008   0   24          的   DEG               *)  -    -   -    _eの蜗牛_          *      *      *            *      *             *     -
+wb/cmn/00/cmn_0008   0   25         佣金    NN      (NP*)))))))  -    -   -    _eの蜗牛_          *      *      *            *      *             *)    -
+wb/cmn/00/cmn_0008   0   26          。    PU              *))  -    -   -    _eの蜗牛_          *      *      *            *      *             *     -
+
+wb/cmn/00/cmn_0008   0    0         目前   NT   (TOP(IP(NP*)  -    -   -    _eの蜗牛_           *    (ARGM-TMP*)   -
+wb/cmn/00/cmn_0008   0    1          ，   PU             *   -    -   -    _eの蜗牛_           *             *    -
+wb/cmn/00/cmn_0008   0    2    StubHub   NR          (NP*   -    -   -    _eの蜗牛_        (ORG)       (ARG0*   (2
+wb/cmn/00/cmn_0008   0    3         网站   NN             *)  -    -   -    _eの蜗牛_           *             *)   2)
+wb/cmn/00/cmn_0008   0    4         已经   AD     (VP(ADVP*)  -    -   -    _eの蜗牛_           *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0008   0    5         销售   VV      (VP(VRD*   -   01   -    _eの蜗牛_           *           (V*)   -
+wb/cmn/00/cmn_0008   0    6          出   VV             *)  -    -   -    _eの蜗牛_           *             *    -
+wb/cmn/00/cmn_0008   0    7          了   AS             *   -    -   -    _eの蜗牛_           *             *    -
+wb/cmn/00/cmn_0008   0    8       500万   CD       (NP(QP*   -    -   -    _eの蜗牛_   (CARDINAL)       (ARG1*    -
+wb/cmn/00/cmn_0008   0    9          张    M        (CLP*))  -    -   -    _eの蜗牛_           *             *    -
+wb/cmn/00/cmn_0008   0   10          票   NN       (NP*))))  -    -   -    _eの蜗牛_           *             *)   -
+wb/cmn/00/cmn_0008   0   11          。   PU            *))  -    -   -    _eの蜗牛_           *             *    -
+
+#end document

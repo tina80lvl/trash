@@ -1,0 +1,101 @@
+#begin document (bn/vom/01/vom_0142); part 000
+bn/vom/01/vom_0142   0    0     国际    NN  (TOP(IP(IP(NP(DNP(LCP(NP*   -    -   -   -    (FAC*   (ARG0*        *             *             *   (0|(1
+bn/vom/01/vom_0142   0    1    空间站    NN                          *)  -    -   -   -        *)       *        *             *             *       0)
+bn/vom/01/vom_0142   0    2      上    LC                          *)  -    -   1   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0    3      的   DEG                          *)  -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0    4      一    CD                       (QP*   -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0    5      名     M                     (CLP*))  -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0    6    俄罗斯    NR                       (NP*)  -    -   -   -    (NORP)       *        *             *             *      (3)
+bn/vom/01/vom_0142   0    7    宇航员    NN                      (NP*))  -    -   -   -        *        *)       *             *             *       1)
+bn/vom/01/vom_0142   0    8      ，    PU                          *   -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0    9      使    VV                       (VP*   -   01   -   -        *      (V*)       *             *             *       -
+bn/vom/01/vom_0142   0   10      一    CD                    (NP(QP*   -    -   -   -        *   (ARG1*        *             *             *      (2
+bn/vom/01/vom_0142   0   11      艘     M                     (CLP*))  -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   12    俄罗斯    NR                       (NP*)  -    -   -   -     (GPE)       *        *             *             *      (3)
+bn/vom/01/vom_0142   0   13      在     P                      (FLR*)  -    -   6   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   14     载货    JJ                     (ADJP*)  -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   15     飞船    NN                      (NP*))  -    -   -   -        *        *)       *             *             *       2)
+bn/vom/01/vom_0142   0   16     实现    VV                    (IP(VP*   -   01   -   -        *   (ARG2*      (V*)            *             *       -
+bn/vom/01/vom_0142   0   17      同     P                (NP(DNP(PP*   -    -   -   -        *        *   (ARG1*             *             *       -
+bn/vom/01/vom_0142   0   18    空间站    NN                      (NP*))  -    -   -   -     (FAC)       *        *             *             *      (0)
+bn/vom/01/vom_0142   0   19      的   DEG                          *)  -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   20     对接    NN                  (NP*))))))  -    -   -   -        *        *)       *)            *             *       -
+bn/vom/01/vom_0142   0   21      ，    PU                          *   -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   22     此前    AD                  (IP(ADVP*)  -    -   -   -        *        *        *             *    (ARGM-TMP*)      -
+bn/vom/01/vom_0142   0   23      ，    PU                          *   -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   24     自动    AD         (NP(CP(IP(VP(ADVP*)  -    -   -   -        *        *        *    (ARGM-ADV*)       (ARG0*       -
+bn/vom/01/vom_0142   0   25     对接    VV                     (VP*)))  -   01   -   -        *        *        *           (V*)            *       -
+bn/vom/01/vom_0142   0   26      的   DEC                          *)  -    -   -   -        *        *        *             *             *       -
+bn/vom/01/vom_0142   0   27     尝试    NN                      (NP*))  -    -   -   -        *        *        *             *             *)      -
+bn/vom/01/vom_0142   0   28     没有    AD                  (VP(ADVP*)  -    -   2   -        *        *        *             *    (ARGM-ADV*)      -
+bn/vom/01/vom_0142   0   29     成功    VV                     (VP*)))  -   01   -   -        *        *        *             *           (V*)      -
+bn/vom/01/vom_0142   0   30      。    PU                         *))  -    -   -   -        *        *        *             *             *       -
+
+bn/vom/01/vom_0142   0    0      不   AD   (TOP(IP(IP(VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)     *             *        *            *             *     -
+bn/vom/01/vom_0142   0    1      知   VV                  (VP*   -   01   -   -       *           (V*)     *             *        *            *             *     -
+bn/vom/01/vom_0142   0    2     什么   DT               (NP(DP*)  -    -   -   -       *        (ARG1*      *             *        *            *             *     -
+bn/vom/01/vom_0142   0    3     原因   NN              (NP*)))))  -    -   -   -       *             *)     *             *        *            *             *     -
+bn/vom/01/vom_0142   0    4      ，   PU                     *   -    -   -   -       *             *      *             *        *            *             *     -
+bn/vom/01/vom_0142   0    5     载货   JJ          (IP(NP(ADJP*)  -    -   -   -       *             *      *        (ARG1*        *            *             *    (2
+bn/vom/01/vom_0142   0    6     飞船   NN                 (NP*))  -    -   -   -       *             *      *             *)       *            *             *     2)
+bn/vom/01/vom_0142   0    7     最初   AD             (VP(ADVP*)  -    -   -   -       *             *      *    (ARGM-ADV*)       *            *             *     -
+bn/vom/01/vom_0142   0    8      未   AD                (ADVP*)  -    -   1   -       *             *      *    (ARGM-ADV*)       *            *             *     -
+bn/vom/01/vom_0142   0    9      能   VV                  (VP*   -   01   1   -       *             *    (V*)            *        *            *             *     -
+bn/vom/01/vom_0142   0   10      同    P               (VP(PP*   -    -   -   -       *             *      *        (ARG1*        *            *             *     -
+bn/vom/01/vom_0142   0   11    空间站   NN                 (NP*))  -    -   -   -    (FAC)            *      *             *)       *            *             *    (0)
+bn/vom/01/vom_0142   0   12     实现   VV                  (VP*   -   01   -   -       *             *      *           (V*)       *            *             *     -
+bn/vom/01/vom_0142   0   13     对接   NN             (NP*))))))  -    -   -   -       *             *      *        (ARG1*)       *            *             *     -
+bn/vom/01/vom_0142   0   14      ，   PU                     *   -    -   -   -       *             *      *             *        *            *             *     -
+bn/vom/01/vom_0142   0   15     迫使   VV               (IP(VP*   -   01   -   -       *             *      *             *      (V*)           *             *     -
+bn/vom/01/vom_0142   0   16      这   DT               (NP(DP*   -    -   -   -       *             *      *             *   (ARG1*            *             *    (1
+bn/vom/01/vom_0142   0   17      位    M                (CLP*))  -    -   2   -       *             *      *             *        *            *             *     -
+bn/vom/01/vom_0142   0   18    宇航员   NN                 (NP*))  -    -   -   -       *             *      *             *        *)           *             *     1)
+bn/vom/01/vom_0142   0   19     通过    P            (IP(VP(PP*   -    -   4   -       *             *      *             *   (ARG2*   (ARGM-MNR*             *     -
+bn/vom/01/vom_0142   0   20     遥控   JJ             (NP(ADJP*)  -    -   -   -       *             *      *             *        *            *             *     -
+bn/vom/01/vom_0142   0   21     手段   NN                (NP*)))  -    -   -   -       *             *      *             *        *            *)            *     -
+bn/vom/01/vom_0142   0   22      使   VV                  (VP*   -   01   -   -       *             *      *             *        *          (V*)            *     -
+bn/vom/01/vom_0142   0   23     货船   NN                  (NP*)  -    -   -   -       *             *      *             *        *            *             *    (2)
+bn/vom/01/vom_0142   0   24      同    P            (IP(VP(PP*   -    -   -   -       *             *      *             *        *            *        (ARG0*     -
+bn/vom/01/vom_0142   0   25    空间站   NN                 (NP*))  -    -   -   -    (FAC)            *      *             *        *            *             *)   (0)
+bn/vom/01/vom_0142   0   26     安全   AD                (ADVP*)  -    -   -   -       *             *      *             *        *            *    (ARGM-ADV*)    -
+bn/vom/01/vom_0142   0   27     对接   VV           (VP*))))))))  -   01   -   -       *             *      *             *        *)           *           (V*)    -
+bn/vom/01/vom_0142   0   28      。   PU                    *))  -    -   -   -       *             *      *             *        *            *             *     -
+
+bn/vom/01/vom_0142   0    0    空间站    NN   (TOP(IP(NP(DNP(LCP(NP*)  -    -   -   -         (FAC)       (ARG0*   (ARG0*    (0)
+bn/vom/01/vom_0142   0    1      上    LC                        *)  -    -   1   -            *             *        *     -
+bn/vom/01/vom_0142   0    2      的   DEG                        *)  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0    3      两    CD               (NP(NP(QP*   -    -   -   -    (CARDINAL)            *        *     -
+bn/vom/01/vom_0142   0    4      名     M                   (CLP*))  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0    5    俄罗斯    NR                     (NP*)  -    -   -   -        (NORP)            *        *    (3)
+bn/vom/01/vom_0142   0    6    宇航员    NN                    (NP*))  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0    7      和    CC                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0    8      一    CD                  (NP(QP*   -    -   -   -    (CARDINAL)            *        *     -
+bn/vom/01/vom_0142   0    9      名     M                   (CLP*))  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   10     美国    NR                     (NP*)  -    -   -   -        (NORP)            *        *     -
+bn/vom/01/vom_0142   0   11    宇航员    NN                  (NP*))))  -    -   -   -            *             *)       *)    -
+bn/vom/01/vom_0142   0   12      还    AD             (VP(VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)       *     -
+bn/vom/01/vom_0142   0   13      有    VE                     (VP*   -   01   4   -            *           (V*)       *     -
+bn/vom/01/vom_0142   0   14      两    CD           (NP(DNP(NP(QP*   -    -   -   -       (DATE*        (ARG1*        *     -
+bn/vom/01/vom_0142   0   15      个     M                   (CLP*))  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   16     星期    NN                    (NP*))  -    -   -   -            *)            *        *     -
+bn/vom/01/vom_0142   0   17      的   DEG                        *)  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   18     时间    NN                  (NP*))))  -    -   -   -            *             *)       *     -
+bn/vom/01/vom_0142   0   19      来   MSP                     (VP*   -    -   7   -            *             *        *     -
+bn/vom/01/vom_0142   0   20     卸下    VV                     (VP*   -   01   -   -            *             *      (V*)    -
+bn/vom/01/vom_0142   0   21     载货    JJ     (NP(DNP(LCP(NP(ADJP*)  -    -   -   -            *             *   (ARG1*    (2
+bn/vom/01/vom_0142   0   22     飞船    NN                    (NP*))  -    -   -   -            *             *        *     2)
+bn/vom/01/vom_0142   0   23      上    LC                        *)  -    -   1   -            *             *        *     -
+bn/vom/01/vom_0142   0   24      的   DEG                        *)  -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   25      ２    CD                     (QP*   -    -   -   -   (QUANTITY*             *        *     -
+bn/vom/01/vom_0142   0   26      吨     M                   (CLP*))  -    -   -   -            *)            *        *     -
+bn/vom/01/vom_0142   0   27     食品    NN                     (NP*   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   28      、    PU                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   29     服装    NN                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   30      、    PU                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   31     原油    NN                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   32      和    CC                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   33     技术    NN                        *   -    -   -   -            *             *        *     -
+bn/vom/01/vom_0142   0   34     设备    NN                    *)))))  -    -   -   -            *             *        *)    -
+bn/vom/01/vom_0142   0   35      。    PU                       *))  -    -   -   -            *             *        *     -
+
+#end document

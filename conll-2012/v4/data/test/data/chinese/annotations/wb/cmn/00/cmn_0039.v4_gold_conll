@@ -1,0 +1,589 @@
+#begin document (wb/cmn/00/cmn_0039); part 000
+wb/cmn/00/cmn_0039   0    0      感谢    VV  (TOP(IP(VP(VP*   -   01   -   -        *      (V*)            *             *     -
+wb/cmn/00/cmn_0039   0    1       咱    PN         (NP(NP*)  -    -   -   -        *   (ARG1*             *             *    (2
+wb/cmn/00/cmn_0039   0    2      北京    NR        (DNP(NP*)  -    -   -   -     (GPE)       *             *             *    (5)
+wb/cmn/00/cmn_0039   0    3       的   DEG               *)  -    -   -   -        *        *             *             *     -
+wb/cmn/00/cmn_0039   0    4      朋友    NN          (NP*)))  -    -   -   -        *        *)            *             *     2)
+wb/cmn/00/cmn_0039   0    5       ，    PU               *   -    -   -   -        *        *             *             *     -
+wb/cmn/00/cmn_0039   0    6       也    AD       (VP(ADVP*)  -    -   -   -        *        *    (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0039   0    7      祝愿    VV            (VP*   -   01   -   -        *        *           (V*)            *     -
+wb/cmn/00/cmn_0039   0    8      大家    PN            (NP*)  -    -   -   -        *        *        (ARG2*)            *     -
+wb/cmn/00/cmn_0039   0    9      新年    NT      (IP(VP(NP*)  -    -   -   -    (DATE)       *        (ARG1*    (ARGM-TMP*)   (6)
+wb/cmn/00/cmn_0039   0   10    万事如意    VV     (VP*))))))))  -   01   -   -        *        *             *)          (V*)    -
+
+wb/cmn/00/cmn_0039   0   0    mikecat   NR   (TOP(FRAG(NP*)))  -   -   -   -    (PERSON)   (4)
+
+wb/cmn/00/cmn_0039   0   0        发信人   NN   (TOP(FRAG(NP(NP*)  -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   1          ：   PU                  *   -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   2    mikecat   NR               (NP*   -   -   -    _mikecat_   (PERSON)  (4
+wb/cmn/00/cmn_0039   0   3          （   PU                  *   -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   4    mikecat   NR                 *))  -   -   -    _mikecat_   (PERSON)   4)
+wb/cmn/00/cmn_0039   0   5          ）   PU                  *   -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   6          ，   PU                  *   -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   7         信区   NN            (NP(NP*)  -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   8          ：   PU                  *   -   -   -    _mikecat_         *    -
+wb/cmn/00/cmn_0039   0   9    Beijing   NR            (NP*))))  -   -   -    _mikecat_      (GPE)   -
+
+wb/cmn/00/cmn_0039   0    0      标题    NN    (TOP(IP(NP*)  -    -   -    _mikecat_       *        *             *             *     -
+wb/cmn/00/cmn_0039   0    1       ：    PU              *   -    -   -    _mikecat_       *        *             *             *     -
+wb/cmn/00/cmn_0039   0    2      感谢    VV     (IP(VP(VP*   -   01   -    _mikecat_       *      (V*)            *             *     -
+wb/cmn/00/cmn_0039   0    3       咱    PN        (NP(NP*)  -    -   -    _mikecat_       *   (ARG1*             *             *    (2
+wb/cmn/00/cmn_0039   0    4      北京    NR       (DNP(NP*)  -    -   -    _mikecat_    (GPE)       *             *             *    (5)
+wb/cmn/00/cmn_0039   0    5       的   DEG              *)  -    -   -    _mikecat_       *        *             *             *     -
+wb/cmn/00/cmn_0039   0    6      朋友    NN         (NP*)))  -    -   -    _mikecat_       *        *)            *             *     2)
+wb/cmn/00/cmn_0039   0    7       ，    PU              *   -    -   -    _mikecat_       *        *             *             *     -
+wb/cmn/00/cmn_0039   0    8       也    AD      (VP(ADVP*)  -    -   -    _mikecat_       *        *    (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0039   0    9      祝愿    VV           (VP*   -   01   -    _mikecat_       *        *           (V*)            *     -
+wb/cmn/00/cmn_0039   0   10      大家    PN           (NP*)  -    -   -    _mikecat_       *        *        (ARG2*)            *     -
+wb/cmn/00/cmn_0039   0   11      新年    NT     (IP(VP(NP*)  -    -   -    _mikecat_   (DATE)       *        (ARG1*    (ARGM-TMP*)   (6)
+wb/cmn/00/cmn_0039   0   12    万事如意    VV   (VP*)))))))))  -   01   -    _mikecat_       *        *             *)          (V*)    -
+
+wb/cmn/00/cmn_0039   0    0         发信站   NN   (TOP(FRAG(NP(NP*)  -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    1           ：   PU                  *   -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    2         BBS   NN               (NP*   -   -   -    _mikecat_       *   (8
+wb/cmn/00/cmn_0039   0    3          未名   NR                  *   -   -   -    _mikecat_   (ORG*    -
+wb/cmn/00/cmn_0039   0    4         空间站   NR                  *)  -   -   -    _mikecat_       *)   8)
+wb/cmn/00/cmn_0039   0    5           （   PU                  *   -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    6         Mon   NT           (PRN(NP*   -   -   -    _mikecat_  (TIME*    -
+wb/cmn/00/cmn_0039   0    7         Jan   NT                  *   -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    8          1    NT                  *   -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0    9   12：05：53    NT                  *   -   -   -    _mikecat_       *    -
+wb/cmn/00/cmn_0039   0   10       2007    NT                *)))  -   -   -    _mikecat_       *)   -
+wb/cmn/00/cmn_0039   0   11           ）   PU                 *))  -   -   -    _mikecat_       *    -
+
+wb/cmn/00/cmn_0039   0    0      就    AD     (TOP(IP(IP(PP(ADVP*)  -    -   -    _mikecat_           *      *    (ARGM-TMP*   (ARGM-TMP*      *   (ARGM-TMP*   (ARGM-TMP*             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    1      在     P                    (PP*   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    2      一    CD             (LCP(NP(QP*   -    -   -    _mikecat_      (DATE*      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    3      个     M                  (CLP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    4      月    NN                   (NP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    5      前    LC                     *)))  -    -   -    _mikecat_           *)     *             *)           *)     *            *)           *)            *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    6      ，    PU                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    7      我    PN                    (NP*)  -    -   -    _mikecat_           *      *        (ARG0*)      (ARG0*)     *       (ARG0*)      (ARG0*)            *             *             *             *      *             *    (4)
+wb/cmn/00/cmn_0039   0    8      是    VC                 (VP(VP*   -   04   -    _mikecat_           *    (V*)            *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0    9     那么    AD               (VP(ADVP*)  -    -   -    _mikecat_           *      *    (ARGM-ADV*)           *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   10     绝望    VA                  (VP*)))  -   01   -    _mikecat_           *      *           (V*)           *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   11      ，    PU                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   12      毫    AD        (VP(DVP(VP(ADVP*)  -    -   -    _mikecat_           *      *             *   (ARGM-ADV*      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   13      无    VE                    (VP*   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   14     准备    NN                  (NP*)))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   15      的   DEV                       *)  -    -   -    _mikecat_           *      *             *            *)     *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   16     丢掉    VV                    (VP*   -   01   -    _mikecat_           *      *             *          (V*)     *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   17      了    AS                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   18     现在    NT             (NP(DNP(NP*)  -    -   -    _mikecat_           *      *             *       (ARG1*      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   19      的   DEG                       *)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   20     工作    NN                 (NP*))))  -    -   -    _mikecat_           *      *             *            *)     *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   21      ，    PU                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   22      要    VV                    (VP*   -   03   -    _mikecat_           *      *             *            *    (V*)           *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   23      在     P                 (VP(PP*   -    -   -    _mikecat_           *      *             *            *      *   (ARGM-TMP*   (ARGM-TMP*             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   24      一    CD             (LCP(NP(QP*   -    -   -    _mikecat_      (DATE*      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   25      个     M                  (CLP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   26      月    NN                   (NP*))  -    -   -    _mikecat_           *)     *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   27     之内    LC                      *))  -    -   -    _mikecat_           *      *             *            *      *            *)           *)            *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   28     找到    VV                 (VP(VP*   -   01   -    _mikecat_           *      *             *            *      *          (V*)           *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   29      一    CD                 (NP(QP*   -    -   -    _mikecat_   (CARDINAL)     *             *            *      *       (ARG1*            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   30      份     M                  (CLP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   31     工作    NN                  (NP*)))  -    -   -    _mikecat_           *      *             *            *      *            *)           *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   32     保持    VV                    (VP*   -   01   -    _mikecat_           *      *             *            *      *            *          (V*)            *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   33     身份    NN              (NP*)))))))  -    -   -    _mikecat_           *      *             *            *      *            *       (ARG1*)            *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   34      ，    PU                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   35      而    AD               (IP(ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *    (ARGM-DIS*)            *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   36     这个    DT                 (NP(DP*)  -    -   -    _mikecat_      (DATE*      *             *            *      *            *            *        (ARG0*             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   37      月    NN                   (NP*))  -    -   -    _mikecat_           *)     *             *            *      *            *            *             *)            *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   38      又    AD               (VP(ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *    (ARGM-DIS*)            *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   39      有    VE                    (VP*   -   03   -    _mikecat_           *      *             *            *      *            *            *           (V*)            *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   40     圣诞    NN                    (NP*   -    -   -    _mikecat_      (DATE*      *             *            *      *            *            *        (ARG1*             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   41     假期    NN                    *))))  -    -   -    _mikecat_           *)     *             *            *      *            *            *             *)            *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   42    实际上    AD               (IP(ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *    (ARGM-ADV*)            *      *             *     -
+wb/cmn/00/cmn_0039   0   43     工作    VV   (NP(CP(CP(IP(VP(VP*)))  -   01   -    _mikecat_           *      *             *            *      *            *            *             *           (V*)       (ARG0*             *      *             *     -
+wb/cmn/00/cmn_0039   0   44      的   DEC                      *))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   45     时间    NN                   (NP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *    (ARGM-TMP*)            *)            *      *             *     -
+wb/cmn/00/cmn_0039   0   46     可能    AD               (VP(ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *    (ARGM-ADV*)            *      *             *     -
+wb/cmn/00/cmn_0039   0   47      只    AD                  (ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *    (ARGM-ADV*)            *      *             *     -
+wb/cmn/00/cmn_0039   0   48      有    VE                    (VP*   -   02   -    _mikecat_           *      *             *            *      *            *            *             *             *           (V*)            *      *             *     -
+wb/cmn/00/cmn_0039   0   49     3     CD                    (QP*   -    -   -    _mikecat_      (DATE*      *             *            *      *            *            *             *             *        (ARG1*             *      *             *     -
+wb/cmn/00/cmn_0039   0   50      周     M               (CLP*)))))  -    -   -    _mikecat_           *)     *             *            *      *            *            *             *             *             *)            *      *             *     -
+wb/cmn/00/cmn_0039   0   51      ，    PU                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   52      这    PN                 (IP(NP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *        (ARG0*)     *             *     -
+wb/cmn/00/cmn_0039   0   53      还    AD               (VP(ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *    (ARGM-ADV*)     *             *     -
+wb/cmn/00/cmn_0039   0   54      不    AD                  (ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *    (ARGM-ADV*)     *             *     -
+wb/cmn/00/cmn_0039   0   55      算    VV                    (VP*   -   02   -    _mikecat_           *      *             *            *      *            *            *             *             *             *           (V*)     *             *     -
+wb/cmn/00/cmn_0039   0   56      各    DT              (IP(NP(DP*   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *        (ARG1*      *        (ARG0*     -
+wb/cmn/00/cmn_0039   0   57      个     M                  (CLP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   58     公司    NN                   (NP*))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *)    -
+wb/cmn/00/cmn_0039   0   59      还    AD               (VP(ADVP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   60      是    VC                (VP(VNV*   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   61      不    AD                       *   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   62      是    VC                       *)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   63      会    VV                    (VP*   -   02   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *    (V*)            *     -
+wb/cmn/00/cmn_0039   0   64      在     P                 (VP(PP*   -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *    (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0   65     这个    DT                 (NP(DP*)  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+wb/cmn/00/cmn_0039   0   66     时候    NN                  (NP*)))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *)    -
+wb/cmn/00/cmn_0039   0   67     招人    VV            (VP*)))))))))  -   01   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *)     *           (V*)    -
+wb/cmn/00/cmn_0039   0   68      。    PU                      *))  -    -   -    _mikecat_           *      *             *            *      *            *            *             *             *             *             *      *             *     -
+
+wb/cmn/00/cmn_0039   0    0    绝望    NN           (TOP(IP(NP*)  -    -   -    _mikecat_  *       (ARG0*)      (ARG0*)        *         *      *             *     -
+wb/cmn/00/cmn_0039   0    1     ，    PU                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    2    那样    AD   (VP(VP(DVP(VP(ADVP*)  -    -   -    _mikecat_  *   (ARGM-ADV*            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    3    沉重    VA                 (VP*))  -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    4     的   DEV                     *)  -    -   -    _mikecat_  *            *)           *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    5     压    VV                  (VP*   -   02   -    _mikecat_  *          (V*)           *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    6     在     P                  (PP*   -    -   -    _mikecat_  *   (ARGM-LOC*            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    7     我    PN           (NP(DNP(NP*)  -    -   -    _mikecat_  *            *            *         *         *      *             *    (4)
+wb/cmn/00/cmn_0039   0    8     的   DEG                     *)  -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0    9    心头    NN              (NP*)))))  -    -   -    _mikecat_  *            *)           *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   10     ，    PU                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   11     压    VV                  (VP*   -   02   -    _mikecat_  *            *          (V*)        *         *      *             *     -
+wb/cmn/00/cmn_0039   0   12     得   DER                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   13     我    PN            (CP(IP(NP*)  -    -   -    _mikecat_  *            *   (ARGM-EXT*    (ARG0*)   (ARG0*)     *        (ARG0*)   (4)
+wb/cmn/00/cmn_0039   0   14     吃    VV           (VP(VP(VPT*   -   01   -    _mikecat_  *            *            *       (V*)        *      *             *     -
+wb/cmn/00/cmn_0039   0   15     不    AD                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   16     下    VV                     *)  -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   17     饭    NN                 (NP*))  -    -   -    _mikecat_  *            *            *    (ARG1*)        *      *             *     -
+wb/cmn/00/cmn_0039   0   18     ，    PU                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   19     睡    VV              (VP(VPT*   -   01   -    _mikecat_  *            *            *         *       (V*)     *             *     -
+wb/cmn/00/cmn_0039   0   20     不    AD                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   21     好    VA                     *)  -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   22     觉    NN                 (NP*))  -    -   -    _mikecat_  *            *            *         *    (ARG1*)     *             *     -
+wb/cmn/00/cmn_0039   0   23     ，    PU                     *   -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+wb/cmn/00/cmn_0039   0   24    简直    AD             (VP(ADVP*)  -    -   -    _mikecat_  *            *            *         *         *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   25     要    VV                  (VP*   -   03   -    _mikecat_  *            *            *         *         *    (V*)            *     -
+wb/cmn/00/cmn_0039   0   26     疯    VV              (VP*)))))  -   01   -    _mikecat_  *            *            *         *         *      *           (V*)    -
+wb/cmn/00/cmn_0039   0   27     了    SP                   *)))  -    -   -    _mikecat_  *            *            *)        *         *      *             *     -
+wb/cmn/00/cmn_0039   0   28     。    PU                    *))  -    -   -    _mikecat_  *            *            *         *         *      *             *     -
+
+wb/cmn/00/cmn_0039   0    0      但是    AD   (TOP(IP(IP(ADVP*)  -    -   -    _mikecat_  *      *    (ARGM-DIS*)       *   -
+wb/cmn/00/cmn_0039   0    1       ，    PU                  *   -    -   -    _mikecat_  *      *             *        *   -
+wb/cmn/00/cmn_0039   0    2      事情    NN               (NP*)  -    -   -    _mikecat_  *      *        (ARG1*)       *   -
+wb/cmn/00/cmn_0039   0    3      还是    AD          (VP(ADVP*)  -    -   -    _mikecat_  *      *    (ARGM-ADV*)       *   -
+wb/cmn/00/cmn_0039   0    4       要    VV               (VP*   -   03   -    _mikecat_  *    (V*)            *        *   -
+wb/cmn/00/cmn_0039   0    5       做    VV            (VP*))))  -   01   -    _mikecat_  *      *           (V*)       *   -
+wb/cmn/00/cmn_0039   0    6       ，    PU                  *   -    -   -    _mikecat_  *      *             *        *   -
+wb/cmn/00/cmn_0039   0    7      疯狂    JJ   (IP(NP(DNP(ADJP*)  -    -   -    _mikecat_  *      *             *   (ARG0*   -
+wb/cmn/00/cmn_0039   0    8       的   DEG                  *)  -    -   -    _mikecat_  *      *             *        *   -
+wb/cmn/00/cmn_0039   0    9    歇斯底里    NN              (NP*))  -    -   -    _mikecat_  *      *             *        *)  -
+wb/cmn/00/cmn_0039   0   10      没有    VE               (VP*   -   02   -    _mikecat_  *      *             *      (V*)  -
+wb/cmn/00/cmn_0039   0   11      任何    DT            (NP(DP*)  -    -   -    _mikecat_  *      *             *   (ARG1*   -
+wb/cmn/00/cmn_0039   0   12      意义    NN            (NP*))))  -    -   -    _mikecat_  *      *             *        *)  -
+wb/cmn/00/cmn_0039   0   13       。    PU                 *))  -    -   -    _mikecat_  *      *             *        *   -
+
+wb/cmn/00/cmn_0039   0    0     于是    AD     (TOP(IP(VP(VP(ADVP*)  -    -   -    _mikecat_      *    (ARGM-DIS*)   (ARGM-DIS*)        *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    1      ，    PU                       *   -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    2     开始    VV                    (VP*   -   02   -    _mikecat_      *           (V*)            *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    3     联络    VV                    (VP*   -   01   -    _mikecat_      *        (ARG0*           (V*)        *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    4      在     P             (NP(DNP(PP*   -    -   -    _mikecat_      *             *        (ARG1*         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    5      美    NR                   (NP*))  -    -   -    _mikecat_   (GPE)            *             *         *         *        *        *             *    (3)
+wb/cmn/00/cmn_0039   0    6      的   DEG                       *)  -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    7     所有    DT                    (DP*)  -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    8     朋友    NN                (NP*)))))  -    -   -    _mikecat_      *             *)            *)        *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0    9      ，    PU                       *   -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0   10      到    VV                    (VP*   -   01   -    _mikecat_      *             *             *       (V*)        *        *        *             *     -
+wb/cmn/00/cmn_0039   0   11    买买提    NR                   (NP*))  -    -   -    _mikecat_   (ORG)            *             *    (ARG1*)        *        *        *             *     -
+wb/cmn/00/cmn_0039   0   12     需求    VV                    (VP*   -   01   -    _mikecat_      *             *             *         *       (V*)       *        *             *     -
+wb/cmn/00/cmn_0039   0   13     帮助    NN                   (NP*))  -    -   -    _mikecat_      *             *             *         *    (ARG1*)       *        *             *     -
+wb/cmn/00/cmn_0039   0   14      ，    PU                       *   -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0   15     询问    VV                    (VP*   -   01   -    _mikecat_      *             *             *         *         *      (V*)       *             *     -
+wb/cmn/00/cmn_0039   0   16     身份    NN             (NP(DNP(NP*)  -    -   -    _mikecat_      *             *             *         *         *   (ARG1*        *             *     -
+wb/cmn/00/cmn_0039   0   17      的   DEG                       *)  -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0   18     问题    NN                  (NP*)))  -    -   -    _mikecat_      *             *             *         *         *        *)       *             *     -
+wb/cmn/00/cmn_0039   0   19      ，    PU                       *   -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0   20     寻找    VV                    (VP*   -   01   -    _mikecat_      *             *             *         *         *        *      (V*)            *     -
+wb/cmn/00/cmn_0039   0   21     解决    VV   (NP(CP(CP(IP(VP(VP*)))  -   01   -    _mikecat_      *             *             *         *         *        *   (ARG1*           (V*)    -
+wb/cmn/00/cmn_0039   0   22      的   DEC                      *))  -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+wb/cmn/00/cmn_0039   0   23     办法    NN                 (NP*))))  -    -   -    _mikecat_      *             *             *         *         *        *        *)   (ARGM-MNR*)    -
+wb/cmn/00/cmn_0039   0   24      。    PU                      *))  -    -   -    _mikecat_      *             *             *         *         *        *        *             *     -
+
+wb/cmn/00/cmn_0039   0    0     连    AD   (TOP(IP(NP(ADVP*)  -    -   -    _mikecat_      *        (ARG1*     -
+wb/cmn/00/cmn_0039   0    1    亲戚    NN         (NP(NP(NP*)  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    2     在     P           (DNP(PP*   -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    3    美国    NR              (NP*))  -    -   -    _mikecat_   (GPE)            *    (3)
+wb/cmn/00/cmn_0039   0    4     的   DEG                  *)  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    5    朋友    NN              (NP*))  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    6     和    CC                  *   -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    7    父母    NN        (NP(DNP(NP*)  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    8     的   DEG                  *)  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0    9    朋友    NN            (NP*))))  -    -   -    _mikecat_      *             *)    -
+wb/cmn/00/cmn_0039   0   10     都    AD          (VP(ADVP*)  -    -   -    _mikecat_      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   11    发动    VV           (VP(VRD*   -   01   -    _mikecat_      *           (V*)    -
+wb/cmn/00/cmn_0039   0   12    起来    VV                  *)  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0   13     了    AS                 *))  -    -   -    _mikecat_      *             *     -
+wb/cmn/00/cmn_0039   0   14     。    PU                 *))  -    -   -    _mikecat_      *             *     -
+
+wb/cmn/00/cmn_0039   0    0    朋友    NN   (TOP(IP(NP*)  -    -   -    _mikecat_  *    (ARGM-TPC*)     *            *     -
+wb/cmn/00/cmn_0039   0    1     ，    PU             *   -    -   -    _mikecat_  *             *      *            *     -
+wb/cmn/00/cmn_0039   0    2    永远    AD     (VP(ADVP*)  -    -   -    _mikecat_  *    (ARGM-ADV*)     *            *     -
+wb/cmn/00/cmn_0039   0    3     是    VC          (VP*   -   01   -    _mikecat_  *           (V*)     *            *     -
+wb/cmn/00/cmn_0039   0    4    朋友    NN       (IP(NP*)  -    -   -    _mikecat_  *        (ARG1*      *       (ARG0*)    -
+wb/cmn/00/cmn_0039   0    5     会    VV          (VP*   -   02   -    _mikecat_  *             *    (V*)           *     -
+wb/cmn/00/cmn_0039   0    6     在     P       (VP(PP*   -    -   -    _mikecat_  *             *      *   (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0    7    关键    NN   (NP(DNP(NP*)  -    -   -    _mikecat_  *             *      *            *     -
+wb/cmn/00/cmn_0039   0    8     的   DEG             *)  -    -   -    _mikecat_  *             *      *            *     -
+wb/cmn/00/cmn_0039   0    9    时候    NN        (NP*)))  -    -   -    _mikecat_  *             *      *            *)    -
+wb/cmn/00/cmn_0039   0   10    帮助    VV          (VP*   -   01   -    _mikecat_  *             *      *          (V*)    -
+wb/cmn/00/cmn_0039   0   11     我    PN    (NP*)))))))  -    -   -    _mikecat_  *             *)     *       (ARG1*)   (4)
+wb/cmn/00/cmn_0039   0   12     。    PU            *))  -    -   -    _mikecat_  *             *      *            *     -
+
+wb/cmn/00/cmn_0039   0    0    很多    CD   (TOP(IP(NP(QP*)  -    -   -    _mikecat_  *   (ARG0*         *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    1    朋友    NN            (NP*))  -    -   -    _mikecat_  *        *)        *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    2    发动    VV             (VP*   -   02   -    _mikecat_  *      (V*)        *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    3    身边    NN      (NP(DNP(NP*)  -    -   -    _mikecat_  *   (ARG1*         *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    4     的   DEG                *)  -    -   -    _mikecat_  *        *         *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    5     人    NN            (NP*))  -    -   -    _mikecat_  *        *)        *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    6     帮    VV    (IP(VP(VP(VP*   -   01   -    _mikecat_  *   (ARG2*       (V*)     *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0    7     我    PN             (NP*)  -    -   -    _mikecat_  *        *    (ARG1*)     *         *         *         *         *    (4)
+wb/cmn/00/cmn_0039   0    8    推荐    VV        (IP(VP*)))  -   01   -    _mikecat_  *        *    (ARG2*)   (V*)        *         *         *         *     -
+wb/cmn/00/cmn_0039   0    9     ，    PU                *   -    -   -    _mikecat_  *        *         *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0   10     帮    VV             (VP*   -   01   -    _mikecat_  *        *         *      *       (V*)        *         *         *     -
+wb/cmn/00/cmn_0039   0   11     我    PN             (NP*)  -    -   -    _mikecat_  *        *         *      *    (ARG1*)        *         *         *    (4)
+wb/cmn/00/cmn_0039   0   12     投    VV          (IP(VP*   -   01   -    _mikecat_  *        *         *      *    (ARG2*       (V*)        *         *     -
+wb/cmn/00/cmn_0039   0   13    简历    NN         (NP*)))))  -    -   -    _mikecat_  *        *         *      *         *)   (ARG1*)        *         *     -
+wb/cmn/00/cmn_0039   0   14     ，    PU                *   -    -   -    _mikecat_  *        *         *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0   15    或者    CC                *   -    -   -    _mikecat_  *        *         *      *         *         *         *         *     -
+wb/cmn/00/cmn_0039   0   16     打    VV          (VP(VP*   -   01   -    _mikecat_  *        *         *      *         *         *       (V*)        *     -
+wb/cmn/00/cmn_0039   0   17    电话    NN            (NP*))  -    -   -    _mikecat_  *        *         *      *         *         *    (ARG1*)        *     -
+wb/cmn/00/cmn_0039   0   18    安慰    VV             (VP*   -   01   -    _mikecat_  *        *         *      *         *         *         *       (V*)    -
+wb/cmn/00/cmn_0039   0   19     我    PN        (NP*))))))  -    -   -    _mikecat_  *        *)        *      *         *         *         *    (ARG1*)   (4)
+wb/cmn/00/cmn_0039   0   20     。    PU               *))  -    -   -    _mikecat_  *        *         *      *         *         *         *         *     -
+
+wb/cmn/00/cmn_0039   0    0       正好   AD   (TOP(IP(IP(VP(ADVP*)  -    -   -    _mikecat_           *    (ARGM-ADV*)            *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    1        有   VE                  (VP*   -   01   -    _mikecat_           *           (V*)            *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    2        个    M           (IP(NP(CLP*)  -    -   -    _mikecat_           *        (ARG1*        (ARG0*             *      *             *             *             *      *             *         *             *      *    (0
+wb/cmn/00/cmn_0039   0    3       朋友   NN                 (NP*))  -    -   -    _mikecat_           *             *             *)            *      *             *             *             *      *             *         *             *      *     0)
+wb/cmn/00/cmn_0039   0    4        刚   AD             (VP(ADVP*)  -    -   -    _mikecat_           *             *    (ARGM-ADV*)            *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    5       拿到   VV                  (VP*   -   01   -    _mikecat_           *             *           (V*)            *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    6        一   CD               (NP(QP*   -    -   -    _mikecat_   (CARDINAL)            *        (ARG1*             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    7        个    M                (CLP*))  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    8    offer   NN           (NP*))))))))  -    -   -    _mikecat_           *             *)            *)            *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0    9        ，   PU                     *   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   10       但是   AD             (IP(ADVP*)  -    -   -    _mikecat_           *             *             *    (ARGM-DIS*)     *    (ARGM-DIS*)            *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   11        他   PN                  (NP*)  -    -   -    _mikecat_           *             *             *        (ARG0*)     *        (ARG0*)            *             *      *             *         *             *      *    (0)
+wb/cmn/00/cmn_0039   0   12        不   AD          (VP(VP(ADVP*)  -    -   -    _mikecat_           *             *             *    (ARGM-ADV*)     *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   13        想   VV                  (VP*   -   02   -    _mikecat_           *             *             *           (V*)     *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   14        去   VV            (IP(VP*))))  -   01   -    _mikecat_           *             *             *        (ARG1*)   (V*)            *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   15        ，   PU                     *   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   16       所以   AD             (VP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *    (ARGM-DIS*)            *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   17        就   AD                (ADVP*)  -    -   -    _mikecat_           *             *             *             *      *    (ARGM-ADV*)            *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   18        把   BA                  (VP*   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   19        我   PN               (IP(NP*)  -    -   -    _mikecat_           *             *             *             *      *        (ARG1*)            *             *      *             *         *             *      *    (4)
+wb/cmn/00/cmn_0039   0   20       推荐   VV              (VP(VRD*   -   01   -    _mikecat_           *             *             *             *      *           (V*)            *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   21       过去   VV                     *)  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   22        了   AS                *))))))  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   23        ，   PU                     *   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   24        只   AD          (IP(VP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *    (ARGM-ADV*)            *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   25       不过   AD                (ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *    (ARGM-ADV*)            *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   26        远   AD                (ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *    (ARGM-ADV*)            *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   27        在   VV                  (VP*   -   01   -    _mikecat_           *             *             *             *      *             *           (V*)            *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   28       LA   NR               (NP*))))  -    -   -    _mikecat_        (GPE)            *             *             *      *             *        (ARG1*)            *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   29        ，   PU                     *   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   30       而且   AD             (IP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *    (ARGM-DIS*)     *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   31       收入   NN                  (NP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *        (ARG0*)     *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   32        也   AD             (VP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *    (ARGM-DIS*)     *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   33        不   AD                (ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *    (ARGM-ADV*)     *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   34        是   VC                  (VP*   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   35        很   AD             (VP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *    (ARGM-ADV*)     *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   36       理想   VA              (VP*)))))  -   01   -    _mikecat_           *             *             *             *      *             *             *           (V*)     *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   37        ，   PU                     *   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   38       但是   AD          (IP(VP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *    (ARGM-DIS*)        *             *      *     -
+wb/cmn/00/cmn_0039   0   39       至少   AD                (ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *    (ARGM-ADV*)        *             *      *     -
+wb/cmn/00/cmn_0039   0   40        能   VV                  (VP*   -   01   -    _mikecat_           *             *             *             *      *             *             *             *    (V*)            *         *             *      *     -
+wb/cmn/00/cmn_0039   0   41        帮   VV                  (VP*   -   01   -    _mikecat_           *             *             *             *      *             *             *             *      *           (V*)        *             *      *     -
+wb/cmn/00/cmn_0039   0   42        我   PN                  (NP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *        (ARG1*)        *             *      *    (4)
+wb/cmn/00/cmn_0039   0   43       维持   VV               (IP(VP*   -   01   -    _mikecat_           *             *             *             *      *             *             *             *      *        (ARG2*       (V*)            *      *     -
+wb/cmn/00/cmn_0039   0   44       身份   NN            (NP*)))))))  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *)   (ARG1*)            *      *     -
+wb/cmn/00/cmn_0039   0   45        ，   PU                     *   -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+wb/cmn/00/cmn_0039   0   46       所以   AD          (IP(VP(ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *    (ARGM-DIS*)     *     -
+wb/cmn/00/cmn_0039   0   47       还是   AD                (ADVP*)  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *    (ARGM-ADV*)     *     -
+wb/cmn/00/cmn_0039   0   48       觉得   VV                  (VP*   -   01   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *           (V*)     *     -
+wb/cmn/00/cmn_0039   0   49       拿下   VV           (IP(VP*)))))  -   01   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *        (ARG1*)   (V*)    -
+wb/cmn/00/cmn_0039   0   50        ，   PU                    *))  -    -   -    _mikecat_           *             *             *             *      *             *             *             *      *             *         *             *      *     -
+
+wb/cmn/00/cmn_0039   0    0     电话   NN  (TOP(IP(VP(VP(LCP(NP*   -    -   -    _mikecat_       *    (ARGM-TMP*            *             *    -
+wb/cmn/00/cmn_0039   0    1     面试   NN                      *)  -    -   -    _mikecat_       *             *            *             *    -
+wb/cmn/00/cmn_0039   0    2     之后   LC                      *)  -    -   -    _mikecat_       *             *)           *             *    -
+wb/cmn/00/cmn_0039   0    3      就   AD                 (ADVP*)  -    -   -    _mikecat_       *    (ARGM-ADV*)           *             *    -
+wb/cmn/00/cmn_0039   0    4     飞到   VV                   (VP*   -   01   -    _mikecat_       *           (V*)           *             *    -
+wb/cmn/00/cmn_0039   0    5     LA   NR                 (NP*)))  -    -   -    _mikecat_    (GPE)       (ARG1*)           *             *    -
+wb/cmn/00/cmn_0039   0    6      ，   PU                      *   -    -   -    _mikecat_       *             *            *             *    -
+wb/cmn/00/cmn_0039   0    7     中午   NT                (VP(NP*   -    -   -    _mikecat_  (TIME*             *   (ARGM-TMP*             *    -
+wb/cmn/00/cmn_0039   0    8    12点   NT                      *)  -    -   -    _mikecat_       *)            *            *)            *    -
+wb/cmn/00/cmn_0039   0    9     落地   VV                  (VP*))  -   01   -    _mikecat_       *             *          (V*)            *    -
+wb/cmn/00/cmn_0039   0   10      ，   PU                      *   -    -   -    _mikecat_       *             *            *             *    -
+wb/cmn/00/cmn_0039   0   11     下午   NT                (VP(NP*   -    -   -    _mikecat_  (TIME*             *            *    (ARGM-TMP*   (9
+wb/cmn/00/cmn_0039   0   12    4点半   NT                      *)  -    -   -    _mikecat_       *)            *            *             *)   9)
+wb/cmn/00/cmn_0039   0   13      就   AD                 (ADVP*)  -    -   -    _mikecat_       *             *            *    (ARGM-ADV*)   -
+wb/cmn/00/cmn_0039   0   14     面试   VV                 (NP*)))  -   01   -    _mikecat_       *             *            *           (V*)   -
+wb/cmn/00/cmn_0039   0   15      ，   PU                     *))  -    -   -    _mikecat_       *             *            *             *    -
+
+wb/cmn/00/cmn_0039   0    0      当时   NT   (TOP(CP(IP(VP(NP*)  -    -   -    _mikecat_       *            *    (9)
+wb/cmn/00/cmn_0039   0    1       从    P                (PP*   -    -   -    _mikecat_       *            *     -
+wb/cmn/00/cmn_0039   0    2      东部   NN       (IP(VP(NP(NP*   -    -   -    _mikecat_  (TIME*   (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0    3      时间   NN                   *)  -    -   -    _mikecat_       *            *     -
+wb/cmn/00/cmn_0039   0    4      早上   NT                (NP*   -    -   -    _mikecat_       *            *     -
+wb/cmn/00/cmn_0039   0    5     4点多   NT                  *))  -    -   -    _mikecat_       *)           *)    -
+wb/cmn/00/cmn_0039   0    6      起来   VV             (VP*))))  -   01   -    _mikecat_       *          (V*)    -
+wb/cmn/00/cmn_0039   0    7      已经   AD              (ADVP*)  -    -   -    _mikecat_       *            *     -
+wb/cmn/00/cmn_0039   0    8   17－8    CD             (NP(QP*   -    -   -    _mikecat_  (TIME*            *     -
+wb/cmn/00/cmn_0039   0    9       个    M              (CLP*))  -    -   -    _mikecat_       *            *     -
+wb/cmn/00/cmn_0039   0   10      小时   NN             (NP*))))  -    -   -    _mikecat_       *)           *     -
+wb/cmn/00/cmn_0039   0   11       了   SP                   *   -    -   -    _mikecat_       *            *     -
+wb/cmn/00/cmn_0039   0   12       ，   PU                  *))  -    -   -    _mikecat_       *            *     -
+
+wb/cmn/00/cmn_0039   0    0    虽然    CS   (TOP(IP(VP(CP(ADVP*)  -    -   -    _mikecat_  *    (ARGM-DIS*)            *      *    (ARGM-ADV*         *      *    (ARGM-ADV*   -
+wb/cmn/00/cmn_0039   0    1     累    VA            (CP(IP(VP*   -   01   -    _mikecat_  *           (V*)            *      *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    2     得   DER                     *   -    -   -    _mikecat_  *             *             *      *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    3     都    AD             (VP(ADVP*)  -    -   -    _mikecat_  *    (ARGM-EXT*    (ARGM-ADV*)     *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    4     快    AD                (ADVP*)  -    -   -    _mikecat_  *             *    (ARGM-ADV*)     *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    5     起    VV              (VP(VPT*   -   06   -    _mikecat_  *             *           (V*)     *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    6     步    AD                     *   -    -   -    _mikecat_  *             *             *      *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    7     来    VV                 *)))))  -    -   -    _mikecat_  *             *)            *      *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0    8     了    SP                    *))  -    -   -    _mikecat_  *             *             *      *             *)        *      *             *)  -
+wb/cmn/00/cmn_0039   0    9     ，    PU                     *   -    -   -    _mikecat_  *             *             *      *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0   10    可是    AD                (ADVP*)  -    -   -    _mikecat_  *             *             *      *    (ARGM-DIS*)        *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0039   0   11     还    AD                (ADVP*)  -    -   -    _mikecat_  *             *             *      *    (ARGM-ADV*)        *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0039   0   12     要    VV                  (VP*   -   03   -    _mikecat_  *             *             *    (V*)            *         *      *             *   -
+wb/cmn/00/cmn_0039   0   13     强    AD          (VP(VP(ADVP*)  -    -   -    _mikecat_  *             *             *      *    (ARGM-ADV*)        *      *             *   -
+wb/cmn/00/cmn_0039   0   14     打    VV                  (VP*   -   03   -    _mikecat_  *             *             *      *           (V*)        *      *             *   -
+wb/cmn/00/cmn_0039   0   15    精神    NN                (NP*)))  -    -   -    _mikecat_  *             *             *      *        (ARG1*)        *      *             *   -
+wb/cmn/00/cmn_0039   0   16     ，    PU                     *   -    -   -    _mikecat_  *             *             *      *             *         *      *             *   -
+wb/cmn/00/cmn_0039   0   17    精力    NN        (VP(DVP(IP(NP*)  -    -   -    _mikecat_  *             *             *      *             *    (ARG0*)     *    (ARGM-ADV*   -
+wb/cmn/00/cmn_0039   0   18    充沛    VA                 (VP*))  -   01   -    _mikecat_  *             *             *      *             *       (V*)     *             *   -
+wb/cmn/00/cmn_0039   0   19     的   DEV                     *)  -    -   -    _mikecat_  *             *             *      *             *         *      *             *)  -
+wb/cmn/00/cmn_0039   0   20     去    VV                  (VP*   -   02   -    _mikecat_  *             *             *      *             *         *    (V*)            *   -
+wb/cmn/00/cmn_0039   0   21    面试    VV             (VP*))))))  -   01   -    _mikecat_  *             *             *      *             *         *      *           (V*)  -
+wb/cmn/00/cmn_0039   0   22     ，    PU                    *))  -    -   -    _mikecat_  *             *             *      *             *         *      *             *   -
+
+wb/cmn/00/cmn_0039   0    0    好在    AD   (TOP(IP(IP(ADVP*)  -    -   -    _mikecat_       *      *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0039   0    1    面试    NN        (NP(DNP(NP*)  -    -   -    _mikecat_       *      *        (ARG0*             *   -
+wb/cmn/00/cmn_0039   0    2     的   DEG                  *)  -    -   -    _mikecat_       *      *             *             *   -
+wb/cmn/00/cmn_0039   0    3    时间    NN              (NP*))  -    -   -    _mikecat_       *      *             *)            *   -
+wb/cmn/00/cmn_0039   0    4     不    AD          (VP(ADVP*)  -    -   -    _mikecat_       *      *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0039   0    5     是    VC               (VP*   -   04   -    _mikecat_       *    (V*)            *             *   -
+wb/cmn/00/cmn_0039   0    6     很    AD          (VP(ADVP*)  -    -   -    _mikecat_       *      *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0039   0    7     长    VA           (VP*)))))  -   02   -    _mikecat_       *      *           (V*)            *   -
+wb/cmn/00/cmn_0039   0    8     ，    PU                  *   -    -   -    _mikecat_       *      *             *             *   -
+wb/cmn/00/cmn_0039   0    9    2     CD      (IP(NP(QP(QP*   -    -   -    _mikecat_  (TIME*      *             *        (ARG0*   -
+wb/cmn/00/cmn_0039   0   10     个     M             (CLP*))  -    -   -    _mikecat_       *      *             *             *   -
+wb/cmn/00/cmn_0039   0   11     多    AD            (ADVP*))  -    -   -    _mikecat_       *      *             *             *   -
+wb/cmn/00/cmn_0039   0   12    小时    NN              (NP*))  -    -   -    _mikecat_       *)     *             *             *)  -
+wb/cmn/00/cmn_0039   0   13     就    AD          (VP(ADVP*)  -    -   -    _mikecat_       *      *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0039   0   14     完    VV               (VP*   -   01   -    _mikecat_       *      *             *           (V*)  -
+wb/cmn/00/cmn_0039   0   15     了    AS                *)))  -    -   -    _mikecat_       *      *             *             *   -
+wb/cmn/00/cmn_0039   0   16     ，    PU                 *))  -    -   -    _mikecat_       *      *             *             *   -
+
+wb/cmn/00/cmn_0039   0   0      感觉   VV  (TOP(IP(IP(VP*   -   01   -    _mikecat_  *       (V*)     *             *   -
+wb/cmn/00/cmn_0039   0   1    相谈甚欢   VV      (IP(VP*))))  -   01   -    _mikecat_  *    (ARG1*)   (V*)            *   -
+wb/cmn/00/cmn_0039   0   2       ，   PU               *   -    -   -    _mikecat_  *         *      *             *   -
+wb/cmn/00/cmn_0039   0   3      心里   NN      (CP(IP(NP*)  -    -   -    _mikecat_  *         *      *        (ARG0*)  -
+wb/cmn/00/cmn_0039   0   4       便   AD       (VP(ADVP*)  -    -   -    _mikecat_  *         *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0039   0   5      比较   AD          (ADVP*)  -    -   -    _mikecat_  *         *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0039   0   6      有底   VA          (VP*)))  -   01   -    _mikecat_  *         *      *           (V*)  -
+wb/cmn/00/cmn_0039   0   7       了   SP               *)  -    -   -    _mikecat_  *         *      *             *   -
+wb/cmn/00/cmn_0039   0   8       ，   PU              *))  -    -   -    _mikecat_  *         *      *             *   -
+
+wb/cmn/00/cmn_0039   0    0             但是    AD   (TOP(IP(IP(ADVP*)  -    -   -    _mikecat_       *    (ARGM-DIS*)     *             *     -
+wb/cmn/00/cmn_0039   0    1             组里    NN            (NP(NP*)  -    -   -    _mikecat_       *        (ARG0*      *             *    (7
+wb/cmn/00/cmn_0039   0    2              一    CD               (QP*   -    -   -    _mikecat_       *             *      *             *     -
+wb/cmn/00/cmn_0039   0    3              个     M             (CLP*))  -    -   -    _mikecat_       *             *      *             *     -
+wb/cmn/00/cmn_0039   0    4    seniorlevel    NN           (DNP(NP*)  -    -   -    _mikecat_       *             *      *             *     -
+wb/cmn/00/cmn_0039   0    5              的   DEG                  *)  -    -   -    _mikecat_       *             *      *             *     -
+wb/cmn/00/cmn_0039   0    6              人    NN              (NP*))  -    -   -    _mikecat_       *             *)     *             *     7)
+wb/cmn/00/cmn_0039   0    7              那    DT            (VP(DP*   -    -   -    _mikecat_       *    (ARGM-TMP*      *             *     -
+wb/cmn/00/cmn_0039   0    8              天     M             (CLP*))  -    -   -    _mikecat_       *             *)     *             *     -
+wb/cmn/00/cmn_0039   0    9              不    AD             (ADVP*)  -    -   -    _mikecat_       *    (ARGM-ADV*)     *             *     -
+wb/cmn/00/cmn_0039   0   10              在    VV             (VP*)))  -   01   -    _mikecat_       *           (V*)     *             *     -
+wb/cmn/00/cmn_0039   0   11              ，    PU                  *   -    -   -    _mikecat_       *             *      *             *     -
+wb/cmn/00/cmn_0039   0   12              我    PN            (IP(NP*)  -    -   -    _mikecat_       *             *      *        (ARG0*)   (4)
+wb/cmn/00/cmn_0039   0   13             第二    OD            (VP(QP*   -    -   -    _mikecat_  (TIME*             *      *    (ARGM-TMP*     -
+wb/cmn/00/cmn_0039   0   14              天     M             (CLP*))  -    -   -    _mikecat_       *             *      *             *)    -
+wb/cmn/00/cmn_0039   0   15             一早    AD             (ADVP*)  -    -   -    _mikecat_       *)            *      *    (ARGM-TMP*)    -
+wb/cmn/00/cmn_0039   0   16              还    AD             (ADVP*)  -    -   -    _mikecat_       *             *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   17              要    VV               (VP*   -   03   -    _mikecat_       *             *    (V*)            *     -
+wb/cmn/00/cmn_0039   0   18              再    AD          (VP(ADVP*)  -    -   -    _mikecat_       *             *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   19              和     P               (PP*   -    -   -    _mikecat_       *             *      *        (ARG0*     -
+wb/cmn/00/cmn_0039   0   20              他    PN              (NP*))  -    -   -    _mikecat_       *             *      *             *)   (7)
+wb/cmn/00/cmn_0039   0   21              谈    VV           (VP*)))))  -   01   -    _mikecat_       *             *      *           (V*)    -
+wb/cmn/00/cmn_0039   0   22              。    PU                 *))  -    -   -    _mikecat_       *             *      *             *     -
+
+wb/cmn/00/cmn_0039   0    0      于是    AD   (TOP(IP(IP(VP(ADVP*)  -    -   -    _mikecat_       *    (ARGM-ADV*)   (ARGM-DIS*)   (ARGM-DIS*)            *             *     -
+wb/cmn/00/cmn_0039   0    1      第二    OD               (NP(QP*   -    -   -    _mikecat_  (TIME*    (ARGM-TMP*    (ARGM-TMP*    (ARGM-TMP*             *             *     -
+wb/cmn/00/cmn_0039   0    2       天     M                (CLP*))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0    3     7点钟    NT                 (NP*))  -    -   -    _mikecat_       *)            *)            *)            *)            *             *     -
+wb/cmn/00/cmn_0039   0    4       爬    VV           (VP(VP(VRD*   -   01   -    _mikecat_       *           (V*)            *             *             *             *     -
+wb/cmn/00/cmn_0039   0    5      起来    VV                    *))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0    6       又    AD             (VP(ADVP*)  -    -   -    _mikecat_       *             *    (ARGM-DIS*)            *             *             *     -
+wb/cmn/00/cmn_0039   0    7       跑    VV              (VP(VRD*   -   01   -    _mikecat_       *             *           (V*)            *             *             *     -
+wb/cmn/00/cmn_0039   0    8      过去    NT                   *)))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0    9       聊    VV                  (VP*   -   01   -    _mikecat_       *             *             *           (V*)            *             *     -
+wb/cmn/00/cmn_0039   0   10       了    AS                     *   -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   11       一    CD               (NP(QP*   -    -   -    _mikecat_  (TIME*             *             *    (ARGM-EXT*             *             *    (1
+wb/cmn/00/cmn_0039   0   12       个     M                (CLP*))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   13      小时    NN             (NP*))))))  -    -   -    _mikecat_       *)            *             *             *)            *             *     1)
+wb/cmn/00/cmn_0039   0   14       ，    PU                     *   -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   15      那个    DT            (IP(NP(DP*)  -    -   -    _mikecat_       *             *             *             *        (ARG0*             *    (7
+wb/cmn/00/cmn_0039   0   16       人    NN                 (NP*))  -    -   -    _mikecat_       *             *             *             *             *)            *     7)
+wb/cmn/00/cmn_0039   0   17       很    AD          (VP(VP(ADVP*)  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   18    nice    VA                 (VP*))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   19       ，    PU                     *   -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   20      没有    AD             (VP(ADVP*)  -    -   -    _mikecat_       *             *             *             *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0039   0   21      难为    VV                  (VP*   -   01   -    _mikecat_       *             *             *             *           (V*)            *     -
+wb/cmn/00/cmn_0039   0   22       我    PN              (NP*)))))  -    -   -    _mikecat_       *             *             *             *        (ARG1*)            *    (4)
+wb/cmn/00/cmn_0039   0   23       ，    PU                     *   -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   24      所以    AD             (IP(ADVP*)  -    -   -    _mikecat_       *             *             *             *             *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0039   0   25      1     CD               (NP(QP*   -    -   -    _mikecat_  (TIME*             *             *             *             *        (ARG1*    (1
+wb/cmn/00/cmn_0039   0   26       个     M                (CLP*))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   27      小时    NN                 (NP*))  -    -   -    _mikecat_       *)            *             *             *             *             *)    1)
+wb/cmn/00/cmn_0039   0   28       也    AD             (VP(ADVP*)  -    -   -    _mikecat_       *             *             *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   29      愉快    VA              (DVP(VP*)  -    -   -    _mikecat_       *             *             *             *             *    (ARGM-ADV*     -
+wb/cmn/00/cmn_0039   0   30       的   DEV                     *)  -    -   -    _mikecat_       *             *             *             *             *             *)    -
+wb/cmn/00/cmn_0039   0   31      结束    VV                  (VP*   -   01   -    _mikecat_       *             *             *             *             *           (V*)    -
+wb/cmn/00/cmn_0039   0   32       了    AS                   *)))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+wb/cmn/00/cmn_0039   0   33       。    PU                    *))  -    -   -    _mikecat_       *             *             *             *             *             *     -
+
+wb/cmn/00/cmn_0039   0    0           之后    NT      (TOP(IP(NP*)  -    -   -    _mikecat_       *    (ARGM-TMP*)       *    (ARGM-TMP*)   (ARGM-TMP*)           *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    1           老板    NN             (NP*)  -    -   -    _mikecat_       *        (ARG0*)       *        (ARG0*)       (ARG0*)           *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    2            带    VV          (VP(VP*   -   03   -    _mikecat_       *           (V*)       *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    3            我    PN             (NP*)  -    -   -    _mikecat_       *        (ARG1*)       *             *             *            *             *             *         *         *         *            *             *    (4)
+wb/cmn/00/cmn_0039   0    4            回    VV          (IP(VP*   -   01   -    _mikecat_       *        (ARG2*      (V*)            *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    5           总部    NN      (NP(DNP(NP*)  -    -   -    _mikecat_       *             *   (ARG1*             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    6            的   DEG                *)  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    7       office    NN         (NP*)))))  -    -   -    _mikecat_       *             *)       *)            *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    8            ，    PU                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0    9           路上    NN          (VP(NP*)  -    -   -    _mikecat_       *             *        *    (ARGM-LOC*)            *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   10            就    AD           (ADVP*)  -    -   -    _mikecat_       *             *        *    (ARGM-ADV*)            *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   11            给    VV             (VP*   -   01   -    _mikecat_       *             *        *           (V*)            *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   12            了    AS                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   13           口头    JJ        (NP(ADJP*)  -    -   -    _mikecat_       *             *        *        (ARG1*             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   14        offer    NN          (NP*))))  -    -   -    _mikecat_       *             *        *             *)            *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   15            ，    PU                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   16            并    AD        (VP(ADVP*)  -    -   -    _mikecat_       *             *        *             *    (ARGM-DIS*)           *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   17            说    VV             (VP*   -   01   -    _mikecat_       *             *        *             *           (V*)           *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   18            我    PN          (IP(NP*)  -    -   -    _mikecat_       *             *        *             *        (ARG1*       (ARG0*)       (ARG0*)       (ARG0*)   (ARG0*)   (ARG0*)        *            *        (ARG0*)   (4)
+wb/cmn/00/cmn_0039   0   19           过来    VV       (VP(VP(VP*   -   01   -    _mikecat_       *             *        *             *             *          (V*)            *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   20            一    CD             (QP*   -    -   -    _mikecat_       *             *        *             *             *   (ARGM-EXT*             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   21            趟     M          (CLP*)))  -    -   -    _mikecat_       *             *        *             *             *            *)            *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   22            不    AD        (VP(ADVP*)  -    -   -    _mikecat_       *             *        *             *             *            *    (ARGM-ADV*)            *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   23           容易    VA           (VP*)))  -   01   -    _mikecat_       *             *        *             *             *            *           (V*)            *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   24            ，    PU                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   25           马上    AD        (VP(ADVP*)  -    -   -    _mikecat_       *             *        *             *             *            *             *    (ARGM-ADV*)        *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   26            就    AD           (ADVP*)  -    -   -    _mikecat_       *             *        *             *             *            *             *    (ARGM-ADV*)        *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   27            把    BA             (VP*   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   28           体检    NN          (IP(NP*)  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   29            作    VV             (VP*   -   01   -    _mikecat_       *             *        *             *             *            *             *           (V*)        *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   30            了    AS             *))))  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   31            ，    PU                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   32            把    BA             (VP*   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   33           所有    DT   (IP(NP(DNP(DP*)  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   34            的   DEG                *)  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   35    paperwork    NN            (NP*))  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   36            做    VV             (VP*   -   01   -    _mikecat_       *             *        *             *             *            *             *             *       (V*)        *         *            *             *     -
+wb/cmn/00/cmn_0039   0   37            了    AS              *)))  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   38            ，    PU                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   39            等    VV             (VP*   -   01   -    _mikecat_       *             *        *             *             *            *             *             *         *       (V*)        *            *             *     -
+wb/cmn/00/cmn_0039   0   40           元旦    NN       (IP(IP(NP*)  -    -   -    _mikecat_   (DATE)            *        *             *             *            *             *             *         *    (ARG1*    (ARG0*)  (ARGM-TMP*             *     -
+wb/cmn/00/cmn_0039   0   41            完    VV             (VP*   -   01   -    _mikecat_       *             *        *             *             *            *             *             *         *         *       (V*)           *             *     -
+wb/cmn/00/cmn_0039   0   42            了    AS               *))  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *)            *     -
+wb/cmn/00/cmn_0039   0   43            ，    PU                *   -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+wb/cmn/00/cmn_0039   0   44           HR    NN             (NP*   -    -   -    _mikecat_    (ORG)            *        *             *             *            *             *             *         *         *         *       (ARG0*             *     -
+wb/cmn/00/cmn_0039   0   45     director    NN                *)  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *)            *     -
+wb/cmn/00/cmn_0039   0   46           回来    VV           (VP*)))  -   01   -    _mikecat_       *             *        *             *             *            *             *             *         *         *)        *          (V*)            *     -
+wb/cmn/00/cmn_0039   0   47            就    AD        (VP(ADVP*)  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0039   0   48            转    VV             (VP*   -   01   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *           (V*)    -
+wb/cmn/00/cmn_0039   0   49          H1     NN      (NP*))))))))  -    -   -    _mikecat_       *             *        *             *             *)           *             *             *         *         *         *            *        (ARG1*)    -
+wb/cmn/00/cmn_0039   0   50            。    PU               *))  -    -   -    _mikecat_       *             *        *             *             *            *             *             *         *         *         *            *             *     -
+
+wb/cmn/00/cmn_0039   0    0           然后    AD   (TOP(IP(VP(VP(ADVP*)  -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0    1            就    AD                (ADVP*)  -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0    2            是    VV                  (VP*   -   04   -    _mikecat_  *    (V*)       *   -
+wb/cmn/00/cmn_0039   0    3         马不停蹄    AD             (VP(ADVP*)  -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0    4           体检    VV               (VP*))))  -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0    5            ，    PU                     *   -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0    6            填    VV                  (VP*   -   01   -    _mikecat_  *      *      (V*)  -
+wb/cmn/00/cmn_0039   0    7          申请表    NN                  (NP*   -    -   -    _mikecat_  *      *   (ARG1*   -
+wb/cmn/00/cmn_0039   0    8            ，    PU                     *   -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0    9    reference    NN                     *   -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0   10         list    NN                     *   -    -   -    _mikecat_  *      *        *   -
+wb/cmn/00/cmn_0039   0   11           等等   ETC                   *)))  -    -   -    _mikecat_  *      *        *)  -
+wb/cmn/00/cmn_0039   0   12            。    PU                    *))  -    -   -    _mikecat_  *      *        *   -
+
+wb/cmn/00/cmn_0039   0   0      下午   NT  (TOP(IP(NP*   -    -   -    _mikecat_  (TIME*    (ARGM-TMP*   -
+wb/cmn/00/cmn_0039   0   1      3点   NT            *)  -    -   -    _mikecat_       *)            *)  -
+wb/cmn/00/cmn_0039   0   2       ，   PU            *   -    -   -    _mikecat_       *             *   -
+wb/cmn/00/cmn_0039   0   3      终于   AD       (ADVP*)  -    -   -    _mikecat_       *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0039   0   4      一切   DT         (DP*)  -    -   -    _mikecat_       *        (ARG0*)  -
+wb/cmn/00/cmn_0039   0   5    尘埃落定   VV         (VP*)  -   01   -    _mikecat_       *           (V*)  -
+wb/cmn/00/cmn_0039   0   6       。   PU           *))  -    -   -    _mikecat_       *             *   -
+
+wb/cmn/00/cmn_0039   0   0     终于   AD   (TOP(IP(VP(ADVP*)  -    -   -    _mikecat_           *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0039   0   1      在    P               (PP*   -    -   -    _mikecat_           *    (ARGM-TMP*   -
+wb/cmn/00/cmn_0039   0   2    圣诞节   NN           (LCP(NP*)  -    -   -    _mikecat_       (DATE)            *   -
+wb/cmn/00/cmn_0039   0   3     之前   LC                 *))  -    -   -    _mikecat_           *             *)  -
+wb/cmn/00/cmn_0039   0   4     拿到   VV               (VP*   -   01   -    _mikecat_           *           (V*)  -
+wb/cmn/00/cmn_0039   0   5      一   CD            (NP(QP*   -    -   -    _mikecat_   (CARDINAL)       (ARG1*   -
+wb/cmn/00/cmn_0039   0   6      个    M             (CLP*))  -    -   -    _mikecat_           *             *   -
+wb/cmn/00/cmn_0039   0   7     圣诞   NN               (NP*   -    -   -    _mikecat_           *             *   -
+wb/cmn/00/cmn_0039   0   8     礼物   NN               *))))  -    -   -    _mikecat_           *             *)  -
+wb/cmn/00/cmn_0039   0   9      。   PU                 *))  -    -   -    _mikecat_           *             *   -
+
+wb/cmn/00/cmn_0039   0    0     虽然    CS   (TOP(CP(IP(VP(CP(ADVP*)  -    -   -    _mikecat_           *    (ARGM-DIS*)     *    (ARGM-ADV*         *     -
+wb/cmn/00/cmn_0039   0    1      我    PN                  (IP(NP*)  -    -   -    _mikecat_           *        (ARG0*)     *             *         *    (4)
+wb/cmn/00/cmn_0039   0    2    还没有    AD                (VP(ADVP*)  -    -   -    _mikecat_           *    (ARGM-ADV*)     *             *         *     -
+wb/cmn/00/cmn_0039   0    3     最后    AD                   (ADVP*)  -    -   -    _mikecat_           *    (ARGM-ADV*)     *             *         *     -
+wb/cmn/00/cmn_0039   0    4     决定    VV                     (VP*   -   01   -    _mikecat_           *           (V*)     *             *         *     -
+wb/cmn/00/cmn_0039   0    5      去    VV             (IP(VP*))))))  -   01   -    _mikecat_           *        (ARG1*)   (V*)            *)        *     -
+wb/cmn/00/cmn_0039   0    6      ，    PU                        *   -    -   -    _mikecat_           *             *      *             *         *     -
+wb/cmn/00/cmn_0039   0    7     但是    AD                   (ADVP*)  -    -   -    _mikecat_           *             *      *    (ARGM-DIS*)        *     -
+wb/cmn/00/cmn_0039   0    8     至少    AD                (VP(ADVP*)  -    -   -    _mikecat_           *             *      *    (ARGM-ADV*)        *     -
+wb/cmn/00/cmn_0039   0    9      有    VE                     (VP*   -   01   -    _mikecat_           *             *      *           (V*)        *     -
+wb/cmn/00/cmn_0039   0   10      一    CD                  (NP(QP*   -    -   -    _mikecat_   (CARDINAL)            *      *        (ARG1*         *     -
+wb/cmn/00/cmn_0039   0   11      个     M                   (CLP*))  -    -   -    _mikecat_           *             *      *             *         *     -
+wb/cmn/00/cmn_0039   0   12     保底    VV           (CP(CP(IP(VP*))  -   01   -    _mikecat_           *             *      *             *       (V*)    -
+wb/cmn/00/cmn_0039   0   13      的   DEC                       *))  -    -   -    _mikecat_           *             *      *             *         *     -
+wb/cmn/00/cmn_0039   0   14     选择    NN                (NP*))))))  -    -   -    _mikecat_           *             *      *             *)   (ARG0*)    -
+wb/cmn/00/cmn_0039   0   15      了    SP                        *   -    -   -    _mikecat_           *             *      *             *         *     -
+wb/cmn/00/cmn_0039   0   16      。    PU                       *))  -    -   -    _mikecat_           *             *      *             *         *     -
+
+wb/cmn/00/cmn_0039   0   0    所以    AD   (TOP(IP(VP(ADVP*)  -    -   -    _mikecat_  *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0039   0   1    感谢    VV               (VP*   -   01   -    _mikecat_  *           (V*)    -
+wb/cmn/00/cmn_0039   0   2    大家    PN            (NP(NP*)  -    -   -    _mikecat_  *        (ARG1*     -
+wb/cmn/00/cmn_0039   0   3     对     P           (DNP(PP*   -    -   -    _mikecat_  *             *     -
+wb/cmn/00/cmn_0039   0   4     我    PN              (NP*))  -    -   -    _mikecat_  *             *    (4)
+wb/cmn/00/cmn_0039   0   5     的   DEG                  *)  -    -   -    _mikecat_  *             *     -
+wb/cmn/00/cmn_0039   0   6    帮助    NN            (NP*))))  -    -   -    _mikecat_  *             *)    -
+wb/cmn/00/cmn_0039   0   7     。    PU                 *))  -    -   -    _mikecat_  *             *     -
+
+wb/cmn/00/cmn_0039   0    0     祝    VV          (TOP(IP(VP*   -   01   -    _mikecat_       *      (V*)            *      *            *   -
+wb/cmn/00/cmn_0039   0    1    所有    DT              (NP(DP*)  -    -   -    _mikecat_       *   (ARG1*             *      *            *   -
+wb/cmn/00/cmn_0039   0    2     还    AD   (CP(CP(IP(VP(ADVP*)  -    -   -    _mikecat_       *        *    (ARGM-ADV*)     *            *   -
+wb/cmn/00/cmn_0039   0    3     在    AD               (ADVP*)  -    -   -    _mikecat_       *        *    (ARGM-ADV*)     *            *   -
+wb/cmn/00/cmn_0039   0    4    痛苦    AD               (ADVP*)  -    -   -    _mikecat_       *        *    (ARGM-ADV*)     *            *   -
+wb/cmn/00/cmn_0039   0    5    寻找    VV                 (VP*   -   01   -    _mikecat_       *        *           (V*)     *            *   -
+wb/cmn/00/cmn_0039   0    6    工作    NN              (NP*))))  -    -   -    _mikecat_       *        *        (ARG1*)     *            *   -
+wb/cmn/00/cmn_0039   0    7     的   DEC                   *))  -    -   -    _mikecat_       *        *             *      *            *   -
+wb/cmn/00/cmn_0039   0    8    朋友    NN                (NP*))  -    -   -    _mikecat_       *        *)       (ARG0*)     *            *   -
+wb/cmn/00/cmn_0039   0    9     在     P           (IP(VP(PP*   -    -   -    _mikecat_       *   (ARG2*             *      *   (ARGM-TMP*   -
+wb/cmn/00/cmn_0039   0   10    新年    NT             (LCP(NP*)  -    -   -    _mikecat_   (DATE)       *             *      *            *   -
+wb/cmn/00/cmn_0039   0   11     里    LC                   *))  -    -   -    _mikecat_       *        *             *      *            *)  -
+wb/cmn/00/cmn_0039   0   12     能    VV                 (VP*   -   01   -    _mikecat_       *        *             *    (V*)           *   -
+wb/cmn/00/cmn_0039   0   13    找到    VV                 (VP*   -   01   -    _mikecat_       *        *             *      *          (V*)  -
+wb/cmn/00/cmn_0039   0   14    理想    JJ        (NP(DNP(ADJP*)  -    -   -    _mikecat_       *        *             *      *       (ARG1*   -
+wb/cmn/00/cmn_0039   0   15     的   DEG                    *)  -    -   -    _mikecat_       *        *             *      *            *   -
+wb/cmn/00/cmn_0039   0   16    工作    NN           (NP*)))))))  -    -   -    _mikecat_       *        *)            *      *            *)  -
+wb/cmn/00/cmn_0039   0   17     。    PU                   *))  -    -   -    _mikecat_       *        *             *      *            *   -
+
+wb/cmn/00/cmn_0039   0   0    －－   PU   (TOP(FRAG*))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0039   0    0                    ※    PU  (TOP(FRAG*   -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    1                   来源    NN        (NP*)  -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    2                    ：    PU           *   -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    3                  99     CD        (QP*)  -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    4                  BBS    NN        (NP*   -   -   -    _mikecat_      *   (8
+wb/cmn/00/cmn_0039   0    5                   未名    NR           *   -   -   -    _mikecat_  (ORG*    -
+wb/cmn/00/cmn_0039   0    6                  空间站    NR           *)  -   -   -    _mikecat_      *)   8)
+wb/cmn/00/cmn_0039   0    7    http：／／mitbbs．com   URL        (NP*)  -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    8                  99     CD        (QP*)  -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0    9                    ［    PU           *   -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   10                 FROM     P        (PP*   -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   11                    ：    PU           *   -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   12              72．224．   URL       (NP*))  -   -   -    _mikecat_      *    -
+wb/cmn/00/cmn_0039   0   13                    ］    PU          *))  -   -   -    _mikecat_      *    -
+
+#end document

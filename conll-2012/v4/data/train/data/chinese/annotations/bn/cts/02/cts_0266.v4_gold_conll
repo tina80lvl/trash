@@ -1,0 +1,278 @@
+#begin document (bn/cts/02/cts_0266); part 000
+bn/cts/02/cts_0266   0    0     另外    AD   (TOP(IP(IP(ADVP*)  -    -   -   -        *    (ARGM-ADV*)   (ARGM-DIS*)           *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    1     劳工    NN            (NP(NP*)  -    -   -   -        *        (ARG0*        (ARG0*            *      *        *        *        *        *             *    (3
+bn/cts/02/cts_0266   0    2     法定    JJ             (ADJP*)  -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    3     工时    NN              (NP*))  -    -   -   -        *             *)            *)           *      *        *        *        *        *             *     3)
+bn/cts/02/cts_0266   0    4     缩减    VV           (VP(VCP*   -   01   -   -        *           (V*)            *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    5      为    VC                  *)  -   03   3   -        *             *           (V*)           *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    6      两    CD            (NP(QP*   -    -   -   -   (DATE*        (ARG1*        (ARG1*            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    7      周     M             (CLP*))  -    -   -   -        *)            *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    8     ８４    CD               (QP*)  -    -   -   -   (TIME*             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0    9     小时    NN            (NP*))))  -    -   -   -        *)            *)            *)           *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   10      ，    PU                  *   -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   11      每    DT      (CP(IP(VP(DP*   -    -   -   -        *             *             *   (ARGM-ADV*      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   12      周     M             (CLP*))  -    -   -   -        *             *             *            *)     *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   13      多    VV           (VP(VRD*   -   01   -   -        *             *             *          (V*)     *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   14     出来    VV                  *)  -   01   -   -        *             *             *            *    (V*)       *        *        *        *             *     -
+bn/cts/02/cts_0266   0   15      ６    CD     (NP(DNP(NP(QP*)  -    -   -   -   (TIME*             *             *       (ARG1*      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   16     小时    NN              (NP*))  -    -   -   -        *)            *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   17      的   DEG                  *)  -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   18     休假    NN           (NP*)))))  -    -   -   -        *             *             *            *)     *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   19      呢    SP                  *)  -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   20      ，    PU                  *   -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   21     传出    VV            (IP(VP*   -   01   -   -        *             *             *            *      *      (V*)       *        *        *             *     -
+bn/cts/02/cts_0266   0   22    劳委会    NN         (IP(NP(NP*)  -    -   -   -     (ORG)            *             *            *      *   (ARG0*   (ARG0*        *        *             *    (5)
+bn/cts/02/cts_0266   0   23      跟    CC                  *   -    -   4   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   24     资方    NN              (NP*))  -    -   -   -        *             *             *            *      *        *        *)       *        *             *     -
+bn/cts/02/cts_0266   0   25     有意    VV               (VP*   -   01   -   -        *             *             *            *      *        *      (V*)       *        *             *     -
+bn/cts/02/cts_0266   0   26      要    VV            (IP(VP*   -   05   1   -        *             *             *            *      *        *   (ARG1*      (V*)       *             *     -
+bn/cts/02/cts_0266   0   27     采取    VV         (IP(VP(VP*   -   01   -   -        *             *             *            *      *        *        *   (ARG1*      (V*)            *     -
+bn/cts/02/cts_0266   0   28     无息    JJ   (NP(DNP(NP(ADJP*)  -    -   -   -        *             *             *            *      *        *        *        *   (ARG1*             *     -
+bn/cts/02/cts_0266   0   29     休假    NN              (NP*))  -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   30      的   DEG                  *)  -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   31     原则    NN             (NP*)))  -    -   -   -        *             *             *            *      *        *        *        *        *)            *     -
+bn/cts/02/cts_0266   0   32      ，    PU                  *   -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+bn/cts/02/cts_0266   0   33      不    AD          (VP(ADVP*)  -    -   -   -        *             *             *            *      *        *        *        *        *    (ARGM-ADV*)    -
+bn/cts/02/cts_0266   0   34     发给    VV               (VP*   -   01   -   -        *             *             *            *      *        *        *        *        *           (V*)    -
+bn/cts/02/cts_0266   0   35     劳工    NN               (NP*)  -    -   -   -        *             *             *            *      *        *        *        *        *        (ARG2*)    -
+bn/cts/02/cts_0266   0   36     薪水    NN     (NP*)))))))))))  -    -   -   -        *             *             *            *      *        *)       *)       *)       *        (ARG1*)    -
+bn/cts/02/cts_0266   0   37      。    PU                 *))  -    -   -   -        *             *             *            *      *        *        *        *        *             *     -
+
+bn/cts/02/cts_0266   0    0     劳工   NN  (TOP(IP(IP(NP*   -    -   -   -          *        (ARG0*             *             *      *             *             *       (4
+bn/cts/02/cts_0266   0    1     团体   NN               *)  -    -   -   -          *             *)            *             *      *             *             *        4)
+bn/cts/02/cts_0266   0    2     上午   NT         (VP(NP*)  -    -   -   -      (TIME)   (ARGM-TMP*)            *             *      *             *             *        -
+bn/cts/02/cts_0266   0    3     扬言   VV            (VP*   -   01   -   -          *           (V*)            *             *      *             *             *        -
+bn/cts/02/cts_0266   0    4      ，   PU               *   -    -   -   -          *             *             *             *      *             *             *        -
+bn/cts/02/cts_0266   0    5      不   AD    (IP(VP(ADVP*)  -    -   -   -          *        (ARG1*    (ARGM-ADV*)            *      *             *             *        -
+bn/cts/02/cts_0266   0    6     排除   VV            (VP*   -   01   -   -          *             *           (V*)            *      *             *             *        -
+bn/cts/02/cts_0266   0    7     再度   AD    (IP(VP(ADVP*)  -    -   -   -          *             *        (ARG1*    (ARGM-ADV*)     *             *             *        -
+bn/cts/02/cts_0266   0    8     抗争   VV    (VP*)))))))))  -   01   -   -          *             *)            *)          (V*)     *             *             *        -
+bn/cts/02/cts_0266   0    9      ，   PU               *   -    -   -   -          *             *             *             *      *             *             *        -
+bn/cts/02/cts_0266   0   10      而   AD       (IP(ADVP*)  -    -   -   -          *             *             *             *      *    (ARGM-DIS*)            *        -
+bn/cts/02/cts_0266   0   11    劳委会   NN      (NP(NP(NP*)  -    -   -   -       (ORG)            *             *             *      *        (ARG0*             *    (0|(5)
+bn/cts/02/cts_0266   0   12     主委   NN           (NP*))  -    -   -   -          *             *             *             *      *             *             *        -
+bn/cts/02/cts_0266   0   13     陈菊   NR           (NP*))  -    -   -   -    (PERSON)            *             *             *      *             *)            *        0)
+bn/cts/02/cts_0266   0   14      则   AD       (VP(ADVP*)  -    -   -   -          *             *             *             *      *    (ARGM-DIS*)            *        -
+bn/cts/02/cts_0266   0   15      是   VC            (VP*   -   01   2   -          *             *             *             *    (V*)            *             *        -
+bn/cts/02/cts_0266   0   16     强调   VV            (VP*   -   01   -   -          *             *             *             *      *           (V*)            *        -
+bn/cts/02/cts_0266   0   17      ，   PU               *   -    -   -   -          *             *             *             *      *             *             *        -
+bn/cts/02/cts_0266   0   18      还   AD    (IP(VP(ADVP*)  -    -   -   -          *             *             *             *      *        (ARG1*    (ARGM-ADV*)       -
+bn/cts/02/cts_0266   0   19     没有   AD          (ADVP*)  -    -   2   -          *             *             *             *      *             *    (ARGM-ADV*)       -
+bn/cts/02/cts_0266   0   20     作出   VV            (VP*   -   01   -   -          *             *             *             *      *             *           (V*)       -
+bn/cts/02/cts_0266   0   21     决定   NN     (NP*))))))))  -    -   -   -          *             *             *             *      *             *)       (ARG1*)       -
+bn/cts/02/cts_0266   0   22      。   PU              *))  -    -   -   -          *             *             *             *      *             *             *        -
+
+bn/cts/02/cts_0266   0    0     劳工    NN       (TOP(IP(IP(NP*)  -    -   -   -        *    (ARG0*)       (ARG0*)            *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    1     争取    VV              (VP(VP*   -   01   1   -        *       (V*)            *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    2     ８４    CD              (NP(QP*   -    -   -   -   (TIME*    (ARG1*             *             *         *        *            *      *      *             *             *             *    (3
+bn/cts/02/cts_0266   0    3     小时     M               (CLP*))  -    -   -   -        *)        *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    4     工时    NN               (NP*)))  -    -   -   -        *         *)            *             *         *        *            *      *      *             *             *             *     3)
+bn/cts/02/cts_0266   0    5      才    AD            (VP(ADVP*)  -    -   -   -        *         *    (ARGM-DIS*)            *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    6     刚刚    AD               (ADVP*)  -    -   -   -        *         *    (ARGM-ADV*)            *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    7     获得    VV                 (VP*   -   01   -   -        *         *           (V*)            *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    8     重大    JJ            (NP(ADJP*)  -    -   -   -        *         *        (ARG1*             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0    9     胜利    NN            (NP*))))))  -    -   -   -        *         *             *)            *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   10      ，    PU                    *   -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   11      却    AD         (IP(VP(ADVP*)  -    -   -   -        *         *             *    (ARGM-DIS*)        *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   12     传出    VV                 (VP*   -   01   -   -        *         *             *           (V*)        *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   13    劳委会    NN              (IP(NP*)  -    -   -   -     (ORG)        *             *        (ARG0*    (ARG0*)       *            *      *      *             *             *             *    (5)
+bn/cts/02/cts_0266   0   14     有意    VV                 (VP*   -   01   -   -        *         *             *             *       (V*)       *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   15     做成    VV              (IP(VP*   -   01   -   -        *         *             *             *    (ARG1*      (V*)           *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   16     解释    NN              (NP(NP*)  -    -   -   -        *         *             *             *         *   (ARG1*            *      *      *             *             *             *    (2
+bn/cts/02/cts_0266   0   17      ，    PU                    *   -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   18      每    DT    (PRN(IP(IP(VP(DP*   -    -   -   -        *         *             *             *         *        *   (ARGM-ADV*      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   19      周     M               (CLP*))  -    -   -   -        *         *             *             *         *        *            *)     *      *             *             *             *     -
+bn/cts/02/cts_0266   0   20      多    VV             (VP(VRD*   -   01   -   -        *         *             *             *         *        *          (V*)     *      *             *             *             *     -
+bn/cts/02/cts_0266   0   21     出来    VV                    *)  -   01   -   -        *         *             *             *         *        *            *    (V*)     *             *             *             *     -
+bn/cts/02/cts_0266   0   22      ６    CD       (NP(DNP(NP(QP*)  -    -   -   -   (TIME*         *             *             *         *        *       (ARG1*      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   23     小时    NN                (NP*))  -    -   -   -        *)        *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   24      的   DEG                    *)  -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   25     休假    NN             (NP*)))))  -    -   -   -        *         *             *             *         *        *            *)     *      *             *             *             *     -
+bn/cts/02/cts_0266   0   26     资方    NN              (IP(NP*)  -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   27     可以    VV                 (VP*   -   01   1   -        *         *             *             *         *        *            *      *    (V*)            *             *             *     -
+bn/cts/02/cts_0266   0   28      不    AD            (VP(ADVP*)  -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   29     付给    VV                 (VP*   -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   30     薪水    NN   (NP*)))))))))))))))  -    -   -   -        *         *             *             *)        *)       *)           *      *      *             *             *             *     2)
+bn/cts/02/cts_0266   0   31      ，    PU                    *   -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   32      这    DT           (IP(NP(DP*   -    -   -   -        *         *             *             *         *        *            *      *      *        (ARG1*             *             *    (2
+bn/cts/02/cts_0266   0   33      项     M               (CLP*))  -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   34     政策    NN                (NP*))  -    -   -   -        *         *             *             *         *        *            *      *      *             *)            *             *     2)
+bn/cts/02/cts_0266   0   35      还    AD            (VP(ADVP*)  -    -   -   -        *         *             *             *         *        *            *      *      *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0266   0   36      没    AD               (ADVP*)  -    -   2   -        *         *             *             *         *        *            *      *      *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0266   0   37     推进    VV               (VP*)))  -   01   -   -        *         *             *             *         *        *            *      *      *           (V*)            *             *     -
+bn/cts/02/cts_0266   0   38      ，    PU                    *   -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+bn/cts/02/cts_0266   0   39     劳资    NN              (IP(NP*   -    -   -   -        *         *             *             *         *        *            *      *      *             *        (ARG0*        (ARG1*     -
+bn/cts/02/cts_0266   0   40     冲突    NN                    *)  -    -   -   -        *         *             *             *         *        *            *      *      *             *             *)            *)    -
+bn/cts/02/cts_0266   0   41     恐怕    AD            (VP(ADVP*)  -    -   -   -        *         *             *             *         *        *            *      *      *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0266   0   42      又    AD               (ADVP*)  -    -   -   -        *         *             *             *         *        *            *      *      *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0266   0   43      要    VV                 (VP*   -   03   4   -        *         *             *             *         *        *            *      *      *             *           (V*)            *     -
+bn/cts/02/cts_0266   0   44     爆发    VV              (VP*))))  -   01   -   -        *         *             *             *         *        *            *      *      *             *        (ARG0*)          (V*)    -
+bn/cts/02/cts_0266   0   45      。    PU                   *))  -    -   -   -        *         *             *             *         *        *            *      *      *             *             *             *     -
+
+bn/cts/02/cts_0266   0    0     “    PU           (TOP(IP*   -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    1     你    PN            (IP(NP*)  -    -    -   -   *      *        (ARG0*)     *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    2    现在    NT            (VP(NP*)  -    -    -   -   *      *    (ARGM-TMP*)     *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    3     用     P               (PP*   -    -    1   -   *      *    (ARGM-MNR*      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    4    政府    NN        (NP(DNP(NP*)  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *   (5
+bn/cts/02/cts_0266   0    5     的   DEG                  *)  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    6    这个    DT               (DP*)  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    7    力量    NN             (NP*)))  -    -    -   -   *      *             *)     *        *      *             *             *             *             *      *             *    5)
+bn/cts/02/cts_0266   0    8     来   MSP               (VP*   -    -    7   -   *      *    (ARGM-ADV*)     *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0    9    表示    VV           (VP(VSB*   -   01    2   -   *    (V*)            *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   10     说    VV                  *)  -   01   11   -   *      *           (V*)     *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   11    可以    VV            (IP(VP*   -   01    2   -   *      *        (ARG1*    (V*)       *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   12     用    VV               (VP*   -   01    1   -   *      *             *      *      (V*)     *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   13    无息    JJ          (NP(ADJP*)  -    -    -   -   *      *             *      *   (ARG1*      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   14    休假    NN       (NP*)))))))))  -    -    -   -   *      *             *)     *        *)     *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   15     ，    PU                  *   -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   16    那么    AD          (IP(ADVP*)  -    -    -   -   *      *             *      *        *      *    (ARGM-ADV*)            *             *             *      *             *    -
+bn/cts/02/cts_0266   0   17     也    AD          (VP(ADVP*)  -    -    -   -   *      *             *      *        *      *    (ARGM-ADV*)            *             *             *      *             *    -
+bn/cts/02/cts_0266   0   18     就    AD             (ADVP*)  -    -    8   -   *      *             *      *        *      *    (ARGM-ADV*)            *             *             *      *             *    -
+bn/cts/02/cts_0266   0   19     是    VC               (VP*   -   01    2   -   *      *             *      *        *    (V*)            *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   20     说    VV               (VP*   -   01    5   -   *      *             *      *        *      *           (V*)            *             *             *      *             *    -
+bn/cts/02/cts_0266   0   21     ，    PU                  *   -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   22    劳工    NN            (IP(NP*)  -    -    -   -   *      *             *      *        *      *        (ARG1*        (ARG1*)            *             *      *             *    -
+bn/cts/02/cts_0266   0   23     就    AD          (VP(ADVP*)  -    -    2   -   *      *             *      *        *      *             *    (ARGM-DIS*)            *             *      *             *    -
+bn/cts/02/cts_0266   0   24     变    VV               (VP*   -   01    2   -   *      *             *      *        *      *             *           (V*)            *             *      *             *    -
+bn/cts/02/cts_0266   0   25     一    AD    (IP(VP(VP(ADVP*)  -    -    -   -   *      *             *      *        *      *             *        (ARG2*    (ARGM-ADV*)            *      *             *    -
+bn/cts/02/cts_0266   0   26     退    VV              (VP*))  -   02    1   -   *      *             *      *        *      *             *             *           (V*)            *      *             *    -
+bn/cts/02/cts_0266   0   27     再    AD          (VP(ADVP*)  -    -    -   -   *      *             *      *        *      *             *             *             *    (ARGM-ADV*)     *             *    -
+bn/cts/02/cts_0266   0   28     退    VV     (VP*)))))))))))  -   02    1   -   *      *             *      *        *      *             *)            *)            *           (V*)     *             *    -
+bn/cts/02/cts_0266   0   29     ，    PU                  *   -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   30     对     P  (CP(IP(NP(DNP(PP*   -    -    3   -   *      *             *      *        *      *             *             *             *             *      *        (ARG0*    -
+bn/cts/02/cts_0266   0   31    劳方    NN              (NP*))  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   32     的   DEG                  *)  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   33    损失    NN              (NP*))  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *)   -
+bn/cts/02/cts_0266   0   34     是    VC               (VP*   -   01    2   -   *      *             *      *        *      *             *             *             *             *    (V*)            *    -
+bn/cts/02/cts_0266   0   35    非常    AD          (VP(ADVP*)  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *    (ARGM-ADV*)   -
+bn/cts/02/cts_0266   0   36     大    VA            (VP*))))  -   01    -   -   *      *             *      *        *      *             *             *             *             *      *           (V*)   -
+bn/cts/02/cts_0266   0   37     的    SP                  *)  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   38     。    PU                  *   -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+bn/cts/02/cts_0266   0   39     ”    PU                 *))  -    -    -   -   *      *             *      *        *      *             *             *             *             *      *             *    -
+
+bn/cts/02/cts_0266   0    0     “    PU  (TOP(IP*   -    -   -   -   *             *    -
+bn/cts/02/cts_0266   0    1    这个    DT   (NP(DP*)  -    -   -   -   *    (ARGM-TPC*   (1
+bn/cts/02/cts_0266   0    2    经济    NN      (NP*   -    -   2   -   *             *    -
+bn/cts/02/cts_0266   0    3    危机    NN        *))  -    -   -   -   *             *)   1)
+bn/cts/02/cts_0266   0    4     ，    PU         *   -    -   -   -   *             *    -
+bn/cts/02/cts_0266   0    5    应该    AD    (ADVP*)  -    -   -   -   *    (ARGM-ADV*)   -
+bn/cts/02/cts_0266   0    6    这个    DT   (NP(DP*)  -    -   -   -   *             *   (1
+bn/cts/02/cts_0266   0    7    问题    NN     (NP*))  -    -   -   -   *             *    1)
+bn/cts/02/cts_0266   0    8     由     P   (VP(PP*   -    -   -   -   *        (ARG0*    -
+bn/cts/02/cts_0266   0    9    劳资    NN      (NP*   -    -   -   -   *             *    -
+bn/cts/02/cts_0266   0   10    双方    PN        *))  -    -   -   -   *             *)   -
+bn/cts/02/cts_0266   0   11     来   MSP      (VP*   -    -   7   -   *             *    -
+bn/cts/02/cts_0266   0   12    推进    VV    (VP*)))  -   01   -   -   *           (V*)   -
+bn/cts/02/cts_0266   0   13     。    PU         *   -    -   -   -   *             *    -
+bn/cts/02/cts_0266   0   14     ”    PU        *))  -    -   -   -   *             *    -
+
+bn/cts/02/cts_0266   0    0     劳工    NN     (TOP(IP(IP(NP*   -    -   -   -          *    (ARG0*             *             *        *            *             *      *             *       (4
+bn/cts/02/cts_0266   0    1     团体    NN                  *)  -    -   -   -          *         *)            *             *        *            *             *      *             *        4)
+bn/cts/02/cts_0266   0    2     批评    VV               (VP*   -   02   1   -          *       (V*)            *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0    3    劳委会    NN               (NP*)  -    -   -   -       (ORG)   (ARG1*)            *             *        *            *             *      *             *       (5)
+bn/cts/02/cts_0266   0    4     独厚    VV            (IP(VP*   -    -   -   -          *    (ARG2*             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0    5    企业界    NN           (NP*)))))  -    -   -   -          *         *)            *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0    6      ，    PU                  *   -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0    7     虽然    CS       (IP(CP(ADVP*)  -    -   -   -          *         *    (ARGM-DIS*)   (ARGM-ADV*        *            *             *      *             *        -
+bn/cts/02/cts_0266   0    8     缩短    VV            (IP(VP*   -   01   -   -          *         *           (V*)            *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0    9      了    AS                  *   -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   10     工时    NN            (NP*))))  -    -   -   -          *         *        (ARG1*)            *)       *            *             *      *             *        -
+bn/cts/02/cts_0266   0   11      却    AD          (VP(ADVP*)  -    -   -   -          *         *             *    (ARGM-DIS*)       *            *             *      *             *        -
+bn/cts/02/cts_0266   0   12      又    AD             (ADVP*)  -    -   -   -          *         *             *    (ARGM-ADV*)       *            *             *      *             *        -
+bn/cts/02/cts_0266   0   13     降低    VV               (VP*   -   01   -   -          *         *             *           (V*)       *            *             *      *             *        -
+bn/cts/02/cts_0266   0   14     劳工    NN               (NP*   -    -   -   -          *         *             *        (ARG1*        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   15     薪水    NN               *))))  -    -   -   -          *         *             *             *)       *            *             *      *             *        -
+bn/cts/02/cts_0266   0   16      ，    PU                  *   -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   17     听到    VV         (IP(IP(VP*   -   01   -   -          *         *             *             *      (V*)  (ARGM-ADV*             *      *             *        -
+bn/cts/02/cts_0266   0   18     这样    PN        (NP(DNP(NP*)  -    -   -   -          *         *             *             *   (ARG1*            *             *      *             *        -
+bn/cts/02/cts_0266   0   19      的   DEG                  *)  -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   20     说法    NN            (NP*))))  -    -   -   -          *         *             *             *        *)           *)            *      *             *        -
+bn/cts/02/cts_0266   0   21      ，    PU                  *   -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   22    劳委会    NN         (NP(NP(NP*)  -    -   -   -       (ORG)        *             *             *        *       (ARG0*             *      *             *    (0|(5)
+bn/cts/02/cts_0266   0   23     主委    NN              (NP*))  -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   24     陈菊    NR              (NP*))  -    -   -   -    (PERSON)        *             *             *        *            *)            *      *             *        0)
+bn/cts/02/cts_0266   0   25     相当    AD   (VP(VP(DVP(ADVP*)  -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   26      的   DEV                  *)  -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   27     气愤    VA              (VP*))  -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   28      ，    PU                  *   -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   29     强调    VV               (VP*   -   01   -   -          *         *             *             *        *          (V*)            *      *             *        -
+bn/cts/02/cts_0266   0   30     政策    NN         (IP(IP(NP*)  -    -   -   -          *         *             *             *        *       (ARG1*        (ARG1*)     *             *        -
+bn/cts/02/cts_0266   0   31      还    AD          (VP(ADVP*)  -    -   -   -          *         *             *             *        *            *    (ARGM-ADV*)     *             *        -
+bn/cts/02/cts_0266   0   32      没    AD             (ADVP*)  -    -   2   -          *         *             *             *        *            *    (ARGM-ADV*)     *             *        -
+bn/cts/02/cts_0266   0   33     确定    VV             (VP*)))  -   01   -   -          *         *             *             *        *            *           (V*)     *             *        -
+bn/cts/02/cts_0266   0   34      ，    PU                  *   -    -   -   -          *         *             *             *        *            *             *      *             *        -
+bn/cts/02/cts_0266   0   35      不    AD       (IP(VP(ADVP*)  -    -   -   -          *         *             *             *        *            *             *      *    (ARGM-ADV*)       -
+bn/cts/02/cts_0266   0   36      会    VV               (VP*   -   01   -   -          *         *             *             *        *            *             *    (V*)            *        -
+bn/cts/02/cts_0266   0   37     牺牲    VV               (VP*   -   01   -   -          *         *             *             *        *            *             *      *           (V*)       -
+bn/cts/02/cts_0266   0   38     劳工    NN       (NP*)))))))))  -    -   -   -          *         *             *             *        *            *)            *      *        (ARG1*)       -
+bn/cts/02/cts_0266   0   39      。    PU                 *))  -    -   -   -          *         *             *             *        *            *             *      *             *        -
+
+bn/cts/02/cts_0266   0   0     “    PU       (TOP(CP*   -    -   -   -   *             *   -
+bn/cts/02/cts_0266   0   1     真    AD   (IP(VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)  -
+bn/cts/02/cts_0266   0   2     有    VE           (VP*   -   03   5   -   *           (V*)  -
+bn/cts/02/cts_0266   0   3    这样    PN    (NP(DNP(NP*)  -    -   -   -   *        (ARG1*   -
+bn/cts/02/cts_0266   0   4     的   DEG              *)  -    -   -   -   *             *   -
+bn/cts/02/cts_0266   0   5    倾向    NN       (NP*)))))  -    -   -   -   *             *)  -
+bn/cts/02/cts_0266   0   6     吗    SP              *   -    -   -   -   *             *   -
+bn/cts/02/cts_0266   0   7     ？    PU              *   -    -   -   -   *             *   -
+bn/cts/02/cts_0266   0   8     ”    PU             *))  -    -   -   -   *             *   -
+
+bn/cts/02/cts_0266   0    0     “   PU       (TOP(IP*   -    -   -   -   *             *        *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0    1     我   PN        (IP(NP*)  -    -   -   -   *        (ARG0*)       *        *             *         *             *         *    (0)
+bn/cts/02/cts_0266   0    2     还   AD      (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)       *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0    3    没有   AD         (ADVP*)  -    -   2   -   *    (ARGM-ADV*)       *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0    4    报告   VV           (VP*   -   01   -   -   *           (V*)       *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0    5     是   VC     (IP(VP(VP*   -   01   1   -   *        (ARG1*      (V*)       *             *         *             *         *     -
+bn/cts/02/cts_0266   0    6    用人   NN        (IP(NP*   -    -   -   -   *             *   (ARG1*   (ARG0*             *         *             *         *     -
+bn/cts/02/cts_0266   0    7    单位   NN              *)  -    -   -   -   *             *        *        *)            *         *             *         *     -
+bn/cts/02/cts_0266   0    8    决定   VV         (VP*)))  -   01   -   -   *             *        *)     (V*)            *         *             *         *     -
+bn/cts/02/cts_0266   0    9     ，   PU              *   -    -   -   -   *             *        *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0   10     还   AD      (VP(ADVP*)  -    -   -   -   *             *        *        *    (ARGM-DIS*)        *             *         *     -
+bn/cts/02/cts_0266   0   11     是   VC           (VP*   -   01   1   -   *             *        *        *           (V*)        *             *         *     -
+bn/cts/02/cts_0266   0   12     我   PN        (IP(NP*)  -    -   -   -   *             *        *        *        (ARG1*    (ARG0*)            *         *    (0)
+bn/cts/02/cts_0266   0   13    决定   VV   (VP*)))))))))  -   01   -   -   *             *)       *        *             *)      (V*)            *         *     -
+bn/cts/02/cts_0266   0   14     ，   PU              *   -    -   -   -   *             *        *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0   15    但是   AD      (IP(ADVP*)  -    -   -   -   *             *        *        *             *         *    (ARGM-DIS*)        *     -
+bn/cts/02/cts_0266   0   16    当然   AD      (VP(ADVP*)  -    -   -   -   *             *        *        *             *         *    (ARGM-ADV*)        *     -
+bn/cts/02/cts_0266   0   17     是   VC           (VP*   -   01   1   -   *             *        *        *             *         *           (V*)        *     -
+bn/cts/02/cts_0266   0   18     我   PN     (CP(IP(NP*)  -    -   -   -   *             *        *        *             *         *        (ARG1*    (ARG0*)   (0)
+bn/cts/02/cts_0266   0   19    决定   VV          (VP*))  -   01   -   -   *             *        *        *             *         *             *       (V*)    -
+bn/cts/02/cts_0266   0   20     了   SP           *))))  -    -   -   -   *             *        *        *             *         *             *)        *     -
+bn/cts/02/cts_0266   0   21     。   PU              *   -    -   -   -   *             *        *        *             *         *             *         *     -
+bn/cts/02/cts_0266   0   22     ”   PU             *))  -    -   -   -   *             *        *        *             *         *             *         *     -
+
+bn/cts/02/cts_0266   0    0      从     P           (TOP(IP(IP(PP*   -    -   -   -        *        *         *      *             *   (ARGM-TMP*             *             *             *    -
+bn/cts/02/cts_0266   0    1     实施    VV              (LCP(IP(VP*   -   01   -   -        *      (V*)        *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0    2      两    CD                  (NP(QP*   -    -   -   -   (DATE*   (ARG1*         *      *             *            *             *             *             *   (3
+bn/cts/02/cts_0266   0    3      周     M                   (CLP*))  -    -   -   -        *)       *         *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0    4     ８４    CD                     (QP*)  -    -   -   -   (TIME*        *         *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0    5     工时    NN                  (NP*))))  -    -   -   -        *)       *)        *      *             *            *             *             *             *    3)
+bn/cts/02/cts_0266   0    6     以来    LC                       *))  -    -   -   -        *        *         *      *             *            *)            *             *             *    -
+bn/cts/02/cts_0266   0    7      ，    PU                        *   -    -   -   -        *        *         *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0    8      多    VV  (IP(NP(CP(CP(IP(VP(VRD*   -   01   -   -        *        *       (V*)     *        (ARG1*            *             *             *             *    -
+bn/cts/02/cts_0266   0    9     出来    VV                      *)))  -   01   -   -        *        *         *    (V*)            *            *             *             *             *    -
+bn/cts/02/cts_0266   0   10      的   DEC                       *))  -    -   -   -        *        *         *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0   11     休假    NN                    (NP*))  -    -   -   -        *        *    (ARG1*)     *             *)           *             *             *             *    -
+bn/cts/02/cts_0266   0   12     怎么    AD                (VP(ADVP*)  -    -   -   -        *        *         *      *    (ARGM-ADV*)           *             *             *             *    -
+bn/cts/02/cts_0266   0   13      付    VV                     (VP*   -   01   -   -        *        *         *      *           (V*)           *             *             *             *    -
+bn/cts/02/cts_0266   0   14     薪水    NN                  (NP*))))  -    -   -   -        *        *         *      *        (ARG1*)           *             *             *             *    -
+bn/cts/02/cts_0266   0   15      《    PU                     (NP*   -    -   -   -        *        *         *      *             *       (ARG1*             *             *             *    -
+bn/cts/02/cts_0266   0   16    劳资法    NN                        *   -    -   -   -     (LAW)       *         *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0   17      》    PU                        *)  -    -   -   -        *        *         *      *             *            *)            *             *             *    -
+bn/cts/02/cts_0266   0   18     没有    VE                     (VP*   -   01   1   -        *        *         *      *             *          (V*)            *             *             *    -
+bn/cts/02/cts_0266   0   19     明文    NN                     (NP*   -    -   -   -        *        *         *      *             *       (ARG0*             *             *             *    -
+bn/cts/02/cts_0266   0   20     规定    NN                      *)))  -    -   -   -        *        *         *      *             *            *)            *             *             *    -
+bn/cts/02/cts_0266   0   21      ，    PU                        *   -    -   -   -        *        *         *      *             *            *             *             *             *    -
+bn/cts/02/cts_0266   0   22     这个    DT            (IP(IP(NP(DP*)  -    -   -   -        *        *         *      *             *            *             *        (ARG0*        (ARG0*   (1
+bn/cts/02/cts_0266   0   23     问题    NN                    (NP*))  -    -   -   -        *        *         *      *             *            *             *             *             *    1)
+bn/cts/02/cts_0266   0   24     怎么    AD                (VP(ADVP*)  -    -   -   -        *        *         *      *             *            *    (ARGM-ADV*)            *             *    -
+bn/cts/02/cts_0266   0   25     解决    VV                   (VP*)))  -   01   -   -        *        *         *      *             *            *           (V*)            *)            *)   -
+bn/cts/02/cts_0266   0   26     恐怕    AD                (VP(ADVP*)  -    -   -   -        *        *         *      *             *            *             *    (ARGM-ADV*)   (ARGM-ADV*)   -
+bn/cts/02/cts_0266   0   27      还    AD                   (ADVP*)  -    -   -   -        *        *         *      *             *            *             *    (ARGM-ADV*)   (ARGM-DIS*)   -
+bn/cts/02/cts_0266   0   28      要    VV                     (VP*   -   03   4   -        *        *         *      *             *            *             *           (V*)            *    -
+bn/cts/02/cts_0266   0   29     引发    VV                     (VP*   -   01   -   -        *        *         *      *             *            *             *        (ARG0*           (V*)   -
+bn/cts/02/cts_0266   0   30     劳资    NN                     (NP*   -    -   -   -        *        *         *      *             *            *             *             *        (ARG1*    -
+bn/cts/02/cts_0266   0   31     对立    NN                    *)))))  -    -   -   -        *        *         *      *             *            *             *             *)            *)   -
+bn/cts/02/cts_0266   0   32      。    PU                       *))  -    -   -   -        *        *         *      *             *            *             *             *             *    -
+
+#end document

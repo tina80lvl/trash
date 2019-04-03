@@ -1,0 +1,98 @@
+#begin document (bn/ctv/01/ctv_0122); part 000
+bn/ctv/01/ctv_0122   0    0       《   PU  (TOP(IP(IP(NP(NP*    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    1      北京   NR                  *    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    2      晨报   NN                  *    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    3       》   PU                  *)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    4      消息   NN              (NP*))   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    5       ，   PU                  *    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    6      ９号   NT               (NP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0    7     北京市   NR      (NP(NP(NP(NP*)   -   -   -   -   *        *             *        *      (1
+bn/ctv/01/ctv_0122   0    8      公路   NN              (NP*))   -   -   -   -   *        *             *        *      (2
+bn/ctv/01/ctv_0122   0    9      一环   NR              (NP*))   -   -   -   -   *        *             *        *       2)
+bn/ctv/01/ctv_0122   0   10       一   CD               (QP*    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   11       期    M             (CLP*))   -   -   1   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   12      工程   NN              (NP*))   -   -   1   -   *        *             *        *       1)
+bn/ctv/01/ctv_0122   0   13      全面   AD          (VP(ADVP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   14      启动   VV             (VP*)))   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   15       ，   PU                  *    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   16       这   DT  (IP(LCP(IP(NP(DP*    -   -   -   -   *   (ARG1*    (ARGM-TMP*        *      (1
+bn/ctv/01/ctv_0122   0   17       个    M             (CLP*))   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   18      工程   NN              (NP*))   -   -   1   -   *        *)            *        *       1)
+bn/ctv/01/ctv_0122   0   19      完成   VV              (VP*))   完成  -   -   -   *      (V*)            *        *       -
+bn/ctv/01/ctv_0122   0   20       后   LC                  *)   -   -   -   -   *        *             *)       *       -
+bn/ctv/01/ctv_0122   0   21       从    P               (PP*    -   -   -   -   *        *    (ARGM-LOC*        *       -
+bn/ctv/01/ctv_0122   0   22      首都   NN        (LCP(NP(NP*    -   -   -   -   *        *             *        *      (0
+bn/ctv/01/ctv_0122   0   23      机场   NN                  *)   -   -   -   -   *        *             *        *       0)
+bn/ctv/01/ctv_0122   0   24       到   CC                  *    -   -   2   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   25    奥林匹克   NR               (NP*    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   26      公园   NN                 *))   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   27      之间   LC                 *))   -   -   -   -   *        *             *)       *       -
+bn/ctv/01/ctv_0122   0   28       将   AD          (VP(ADVP*)   -   -   -   -   *   (ARG1*    (ARGM-ADV*)       *       -
+bn/ctv/01/ctv_0122   0   29      建成   VV               (VP*    建成  -   2   -   *        *           (V*)       *       -
+bn/ctv/01/ctv_0122   0   30       一   CD            (NP(QP*    -   -   -   -   *        *        (ARG1*        *       -
+bn/ctv/01/ctv_0122   0   31       条    M             (CLP*))   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   32      直达   JJ             (ADJP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   33      高速   JJ             (ADJP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   34      公路   NN           (NP*)))))   -   -   -   -   *        *)            *)       *       -
+bn/ctv/01/ctv_0122   0   35       ，   PU                  *    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   36      公路   NN         (IP(NP(NP*    -   -   -   -   *        *             *   (ARG0*   (1|(2
+bn/ctv/01/ctv_0122   0   37      一环   NR                  *)   -   -   -   -   *        *             *        *       2)
+bn/ctv/01/ctv_0122   0   38       一   CD               (QP*    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   39       期    M             (CLP*))   -   -   1   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   40      工程   NN              (NP*))   -   -   1   -   *        *             *        *)      1)
+bn/ctv/01/ctv_0122   0   41       从    P            (VP(PP*    -   -   -   -   *        *             *   (ARG2*       -
+bn/ctv/01/ctv_0122   0   42     八达岭   NR            (NP(NP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   43      高速   JJ             (ADJP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   44      公路   NN               (NP*    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   45       到   CC                  *    -   -   7   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   46      机场   NN                  *)   -   -   -   -   *        *             *        *      (0)
+bn/ctv/01/ctv_0122   0   47      高速   JJ             (ADJP*)   -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   48      公路   NN             (NP*)))   -   -   -   -   *        *             *        *)      -
+bn/ctv/01/ctv_0122   0   49       ，   PU                  *    -   -   -   -   *        *             *        *       -
+bn/ctv/01/ctv_0122   0   50      全长   VV               (VP*    全长  -   -   -   *        *             *      (V*)      -
+bn/ctv/01/ctv_0122   0   51    １５．２   CD               (QP*    -   -   -   -   *        *             *   (ARG1*       -
+bn/ctv/01/ctv_0122   0   52      公里    M          (CLP*)))))   -   -   -   -   *        *             *        *)      -
+bn/ctv/01/ctv_0122   0   53       。   PU                 *))   -   -   -   -   *        *             *        *       -
+
+bn/ctv/01/ctv_0122   0    0      与    P  (TOP(IP(IP(VP(PP*    -   -   -   -   *   (ARG0*        *         *             *        *    -
+bn/ctv/01/ctv_0122   0    1     四环   NR              (NP*))   -   -   -   -   *        *)       *         *             *        *    -
+bn/ctv/01/ctv_0122   0    2     一样   VA             (VP*)))   一样  -   1   -   *      (V*)       *         *             *        *    -
+bn/ctv/01/ctv_0122   0    3      ，   PU                  *    -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0    4     公路   NN            (IP(NP*    -   -   -   -   *        *   (ARG0*         *             *        *   (2
+bn/ctv/01/ctv_0122   0    5     一环   NR                  *)   -   -   -   -   *        *        *)        *             *        *    2)
+bn/ctv/01/ctv_0122   0    6      为   VC               (VP*     为  -   2   -   *        *      (V*)        *             *        *    -
+bn/ctv/01/ctv_0122   0    7     环城   JJ          (NP(ADJP*)   -   -   -   -   *        *   (ARG1*         *             *        *    -
+bn/ctv/01/ctv_0122   0    8     高速   JJ             (ADJP*)   -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0    9     公路   NN            (NP*))))   -   -   -   -   *        *        *)        *             *        *    -
+bn/ctv/01/ctv_0122   0   10      ，   PU                  *    -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   11     中间   NN            (IP(NP*)   -   -   -   -   *        *        *    (ARG1*)       (ARG0*)       *    -
+bn/ctv/01/ctv_0122   0   12     设计   VV           (VP(VCP*    设计  -   -   -   *        *        *       (V*)   (ARGM-ADV*)       *    -
+bn/ctv/01/ctv_0122   0   13      为   VC                  *)    为  -   2   -   *        *        *    (ARG1*)          (V*)       *    -
+bn/ctv/01/ctv_0122   0   14     双向   JJ       (NP(NP(ADJP*)   -   -   -   -   *        *        *    (ARG1*        (ARG1*        *    -
+bn/ctv/01/ctv_0122   0   15      六   CD               (QP*)   -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   16     车道   NN              (NP*))   -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   17      加   CC                  *    -   -   1   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   18     紧急   JJ          (NP(ADJP*)   -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   19     停车   NN               (NP*    -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   20      带   NN              *)))))   -   -   8   -   *        *        *         *)            *)       *    -
+bn/ctv/01/ctv_0122   0   21      ，   PU                  *    -   -   -   -   *        *        *         *             *        *    -
+bn/ctv/01/ctv_0122   0   22     设计   NN            (IP(NP*    -   -   -   -   *        *        *         *             *   (ARG0*    -
+bn/ctv/01/ctv_0122   0   23     时速   NN                  *)   -   -   -   -   *        *        *         *             *        *)   -
+bn/ctv/01/ctv_0122   0   24      为   VC               (VP*     为  -   1   -   *        *        *         *             *      (V*)   -
+bn/ctv/01/ctv_0122   0   25    １００   CD               (QP*    -   -   -   -   *        *        *         *             *   (ARG1*    -
+bn/ctv/01/ctv_0122   0   26     公里    M           (CLP*))))   -   -   -   -   *        *        *         *             *        *)   -
+bn/ctv/01/ctv_0122   0   27      。   PU                 *))   -   -   -   -   *        *        *         *             *        *    -
+
+bn/ctv/01/ctv_0122   0    0      一    CD    (TOP(IP(NP(QP*    -   -   -   -   *        (ARG1*   (1
+bn/ctv/01/ctv_0122   0    1      期     M            (CLP*))   -   -   1   -   *             *    -
+bn/ctv/01/ctv_0122   0    2     工程    NN             (NP*))   -   -   1   -   *             *)   1)
+bn/ctv/01/ctv_0122   0    3      将    AD         (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   -
+bn/ctv/01/ctv_0122   0    4      于     P              (PP*    -   -   -   -   *    (ARGM-TMP*    -
+bn/ctv/01/ctv_0122   0    5     明年    NT   (LCP(NP(DNP(NP*)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0122   0    6      的   DEG                 *)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0122   0    7    １０月    NT             (NP*))   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0122   0    8      前    LC                *))   -   -   -   -   *             *)   -
+bn/ctv/01/ctv_0122   0    9     完成    VV             (VP*))   完成  -   -   -   *           (V*)   -
+bn/ctv/01/ctv_0122   0   10      。    PU                *))   -   -   -   -   *             *    -
+
+#end document

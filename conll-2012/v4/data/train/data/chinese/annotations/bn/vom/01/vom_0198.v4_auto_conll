@@ -1,0 +1,155 @@
+#begin document (bn/vom/01/vom_0198); part 000
+bn/vom/01/vom_0198   0    0      菲律宾    NR   (TOP(IP(IP(NP(NP*)   -   -   -   -   *   (ARG0*         *         *         *            *            *         *    (5|(3)
+bn/vom/01/vom_0198   0    1      参议院    NN               (NP*))   -   -   -   -   *        *)        *         *         *            *            *         *        5)
+bn/vom/01/vom_0198   0    2       开始    VV                (VP*    -   -   -   -   *        *         *         *         *            *            *         *        -
+bn/vom/01/vom_0198   0    3       审理    VV                (VP*    审理  -   -   -   *      (V*)        *         *         *            *            *         *        -
+bn/vom/01/vom_0198   0    4        对     P         (NP(DNP(PP*    -   -   3   -   *   (ARG1*         *         *         *            *            *         *       (6
+bn/vom/01/vom_0198   0    5       总统    NN             (NP(NP*)   -   -   -   -   *        *         *         *         *            *            *         *       (1
+bn/vom/01/vom_0198   0    6    埃斯特拉达    NR              (NP*)))   -   -   -   -   *        *         *         *         *            *            *         *        1)
+bn/vom/01/vom_0198   0    7        的   DEG                   *)   -   -   -   -   *        *         *         *         *            *            *         *        -
+bn/vom/01/vom_0198   0    8      弹劾案    NN            (NP*)))))   -   -   -   -   *        *)        *         *         *            *            *         *        6)
+bn/vom/01/vom_0198   0    9        ，    PU                   *    -   -   -   -   *        *         *         *         *            *            *         *        -
+bn/vom/01/vom_0198   0   10    埃斯特拉达    NR             (IP(NP*)   -   -   -   -   *        *    (ARG0*)   (ARG0*)   (ARG0*)           *            *         *       (1)
+bn/vom/01/vom_0198   0   11       被控    VV                (VP*    被控  -   -   -   *        *       (V*)        *         *            *            *         *        -
+bn/vom/01/vom_0198   0   12       贪污    VV         (IP(VP(VCD*    贪污  -   -   -   *        *    (ARG1*       (V*)        *            *            *         *        -
+bn/vom/01/vom_0198   0   13       受贿    VV               *)))))   受贿  -   -   -   *        *         *)        *       (V*)           *            *         *        -
+bn/vom/01/vom_0198   0   14        ，    PU                   *    -   -   -   -   *        *         *         *         *            *            *         *        -
+bn/vom/01/vom_0198   0   15        在     P             (IP(PP*    -   -   2   -   *        *         *         *         *   (ARGM-TMP*   (ARGM-TMP*         *        -
+bn/vom/01/vom_0198   0   16        这    PN                (NP*    -   -   -   -   *        *         *         *         *            *            *         *       (0
+bn/vom/01/vom_0198   0   17       同时    NN                  *))   -   -   -   -   *        *         *         *         *            *)           *)        *        0)
+bn/vom/01/vom_0198   0   18        ，    PU                   *    -   -   -   -   *        *         *         *         *            *            *         *        -
+bn/vom/01/vom_0198   0   19       人们    NN                (NP*)   -   -   -   -   *        *         *         *         *       (ARG0*)      (ARG0*)   (ARG0*)      (7)
+bn/vom/01/vom_0198   0   20       举行    VV             (VP(VP*    举行  -   -   -   *        *         *         *         *          (V*)           *         *        -
+bn/vom/01/vom_0198   0   21       示威    NN                (NP*    -   -   -   -   *        *         *         *         *       (ARG1*            *         *       (4
+bn/vom/01/vom_0198   0   22       活动    NN                  *))   -   -   2   -   *        *         *         *         *            *)           *         *        4)
+bn/vom/01/vom_0198   0   23       要求    VV                (VP*    要求  -   1   -   *        *         *         *         *            *          (V*)        *        -
+bn/vom/01/vom_0198   0   24    埃斯特拉达    NR                (NP*)   -   -   -   -   *        *         *         *         *            *       (ARG1*)        *       (1)
+bn/vom/01/vom_0198   0   25       辞职    VV         (IP(VP*)))))   辞职  -   -   -   *        *         *         *         *            *       (ARG2*)      (V*)       -
+bn/vom/01/vom_0198   0   26        。    PU                  *))   -   -   -   -   *        *         *         *         *            *            *         *        -
+
+bn/vom/01/vom_0198   0    0        在     P        (TOP(IP(PP*    -   -   2   -   *        *   (ARGM-LOC*        *        *      *             *             *     -
+bn/vom/01/vom_0198   0    1      参议院    NN    (LCP(NP(DNP(NP*)   -   -   -   -   *        *            *        *        *      *             *             *    (5)
+bn/vom/01/vom_0198   0    2        的   DEG                  *)   -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0    3       开庭    NN               (NP*    -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0    4       陈述    NN                 *))   -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0    5        中    LC                 *))   -   -   -   -   *        *            *)       *        *      *             *             *     -
+bn/vom/01/vom_0198   0    6        ，    PU                  *    -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0    7        由     P   (NP(CP(IP(VP(PP*    -   -   1   -   *   (ARG1*       (ARG0*   (ARG0*   (ARG0*      *             *        (ARG0*     -
+bn/vom/01/vom_0198   0    8       １１    CD            (NP(QP*    -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0    9        名     M             (CLP*))   -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   10      众议员    NN             (NP*)))   -   -   -   -   *        *)           *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   11       组成    VV             (VP*)))   组成  -   1   -   *      (V*)           *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   12        的   DEC                  *)   -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   13       公诉    NN               (NP*    -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   14       小组    NN                 *))   -   -   -   -   *        *            *)       *)       *)     *             *             *)    -
+bn/vom/01/vom_0198   0   15       指控    VV               (VP*    指控  -   -   -   *   (ARG1*          (V*)       *        *      *             *             *     -
+bn/vom/01/vom_0198   0   16        ：    PU                  *    -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   17       现年    VV   (IP(NP(CP(IP(VP*    现年  -   -   -   *        *       (ARG1*      (V*)  (ARG0*      *             *        (ARG0*    (1
+bn/vom/01/vom_0198   0   18       ６３    CD               (QP*    -   -   -   -   *        *            *   (ARG1*        *      *             *             *     -
+bn/vom/01/vom_0198   0   19        岁     M           (CLP*))))   -   -   -   -   *        *            *        *)       *      *             *             *     -
+bn/vom/01/vom_0198   0   20        的   DEC                  *)   -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   21    埃斯特拉达    NR              (NP*))   -   -   -   -   *        *            *        *        *)     *             *             *)    1)
+bn/vom/01/vom_0198   0   22       屡次    VV            (VP(VP*)   屡次  -   -   -   *        *            *        *      (V*)     *             *             *     -
+bn/vom/01/vom_0198   0   23        ，    PU                  *    -   -   -   -   *        *            *        *        *      *             *             *     -
+bn/vom/01/vom_0198   0   24       而且    AD          (VP(ADVP*)   -   -   -   -   *        *            *        *        *      *             *    (ARGM-DIS*)    -
+bn/vom/01/vom_0198   0   25        是    VC               (VP*     是  -   2   -   *        *            *        *        *    (V*)            *             *     -
+bn/vom/01/vom_0198   0   26        极    AD   (VP(DVP(VP(ADVP*)   -   -   -   -   *        *            *        *        *      *    (ARGM-ADV*)   (ARGM-ADV*     -
+bn/vom/01/vom_0198   0   27        有    VE               (VP*     有  -   3   -   *        *            *        *        *      *           (V*)            *     -
+bn/vom/01/vom_0198   0   28       规律    NN             (NP*)))   -   -   -   -   *        *            *        *        *      *        (ARG1*)            *     -
+bn/vom/01/vom_0198   0   29        的   DEV                  *)   -   -   -   -   *        *            *        *        *      *    (ARGM-ADV*)            *)    -
+bn/vom/01/vom_0198   0   30       触犯    VV               (VP*    触犯  -   -   -   *        *            *        *        *      *             *           (V*)    -
+bn/vom/01/vom_0198   0   31       法律    NN        (NP*))))))))   -   -   1   -   *        *)           *)       *        *      *             *        (ARG1*)    -
+bn/vom/01/vom_0198   0   32        。    PU                 *))   -   -   -   -   *        *            *        *        *      *             *             *     -
+
+bn/vom/01/vom_0198   0    0      参议院    NN       (TOP(IP(IP(NP*)   -   -   -   -   *    (ARG0*)           *         *        *         *        *        *      *             *    (0|(5)
+bn/vom/01/vom_0198   0    1       审理    VV                 (VP*    审理  -   -   -   *       (V*)           *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0    2       这个    DT       (NP(DNP(NP(DP*)   -   -   -   -   *    (ARG1*            *         *        *         *        *        *      *             *       (6
+bn/vom/01/vom_0198   0    3       案件    NN                (NP*))   -   -   -   -   *         *            *         *        *         *        *        *      *             *        6)
+bn/vom/01/vom_0198   0    4        的   DEG                    *)   -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0    5       同时    NN              (NP*))))   -   -   -   -   *         *)           *         *        *         *        *        *      *             *        0)
+bn/vom/01/vom_0198   0    6        ，    PU                    *    -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0    7       数千    CD           (IP(NP(QP*    -   -   -   -   *         *       (ARG0*    (ARG0*   (ARG0*    (ARG0*   (ARG0*        *      *             *       (7
+bn/vom/01/vom_0198   0    8        名     M               (CLP*))   -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0    9      抗议者    NN                (NP*))   -   -   -   -   *         *            *)        *)       *)        *)       *)       *      *             *        7)
+bn/vom/01/vom_0198   0   10        在     P           (VP(VP(PP*    -   -   2   -   *         *   (ARGM-LOC*         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   11      参议院    NN                 (NP*    -   -   -   -   *         *            *         *        *         *        *        *      *             *       (2
+bn/vom/01/vom_0198   0   12       周围    NN                   *))   -   -   -   -   *         *            *)        *        *         *        *        *      *             *        2)
+bn/vom/01/vom_0198   0   13       举行    VV                 (VP*    举行  -   -   -   *         *          (V*)        *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   14       示威    NN                 (NP*    -   -   -   -   *         *       (ARG1*         *        *         *        *        *      *             *       (4
+bn/vom/01/vom_0198   0   15       活动    NN                  *)))   -   -   2   -   *         *            *)        *        *         *        *        *      *             *        4)
+bn/vom/01/vom_0198   0   16        ，    PU                    *    -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   17       敦促    VV                 (VP*    敦促  -   -   -   *         *            *       (V*)       *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   18    埃斯特拉达    NR                 (NP*)   -   -   -   -   *         *            *    (ARG1*)       *         *        *        *      *             *       (1)
+bn/vom/01/vom_0198   0   19       辞职    VV            (IP(VP*)))   辞职  -   -   -   *         *            *    (ARG2*)     (V*)        *        *        *      *             *        -
+bn/vom/01/vom_0198   0   20        ，    PU                    *    -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   21        让    VV                 (VP*     让  -   2   -   *         *            *         *        *       (V*)       *        *      *             *        -
+bn/vom/01/vom_0198   0   22       国家    NN                 (NP*)   -   -   1   -   *         *            *         *        *    (ARG1*)       *        *      *             *       (3)
+bn/vom/01/vom_0198   0   23       免于    VV              (IP(VP*    免于  -   -   -   *         *            *         *        *    (ARG2*      (V*)       *      *             *        -
+bn/vom/01/vom_0198   0   24       进行    VV              (IP(VP*    进行  -   3   -   *         *            *         *        *         *   (ARG1*      (V*)     *             *        -
+bn/vom/01/vom_0198   0   25      长时间    AD   (NP(CP(IP(VP(ADVP*)   -   -   -   -   *         *            *         *        *         *        *   (ARG1*      *    (ARGM-ADV*)       -
+bn/vom/01/vom_0198   0   26       而且    AD               (ADVP*)   -   -   -   -   *         *            *         *        *         *        *        *      *    (ARGM-DIS*)       -
+bn/vom/01/vom_0198   0   27       可能    VV                 (VP*    可能  -   -   -   *         *            *         *        *         *        *        *    (V*)            *        -
+bn/vom/01/vom_0198   0   28       导致    VV                 (VP*    导致  -   -   -   *         *            *         *        *         *        *        *      *           (V*)       -
+bn/vom/01/vom_0198   0   29       不和    NN             (NP*)))))   -   -   -   -   *         *            *         *        *         *        *        *      *        (ARG1*)       -
+bn/vom/01/vom_0198   0   30        的   DEC                    *)   -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   31       法律    NN                 (NP*    -   -   1   -   *         *            *         *        *         *        *        *      *             *        -
+bn/vom/01/vom_0198   0   32       程序    NN            *)))))))))   -   -   -   -   *         *            *         *        *         *)       *)       *)     *             *        -
+bn/vom/01/vom_0198   0   33        。    PU                   *))   -   -   -   -   *         *            *         *        *         *        *        *      *             *        -
+
+bn/vom/01/vom_0198   0    0       大批    CD   (TOP(IP(IP(NP(QP*)   -   -   -   -   *         *        (ARG0*         *     -
+bn/vom/01/vom_0198   0    1       支持    VV          (CP(IP(VP*    支持  -   -   -   *       (V*)            *         *     -
+bn/vom/01/vom_0198   0    2    埃斯特拉达    NR              (NP*)))   -   -   -   -   *    (ARG1*)            *         *    (1)
+bn/vom/01/vom_0198   0    3        的   DEC                   *)   -   -   -   -   *         *             *         *     -
+bn/vom/01/vom_0198   0    4        人    NN               (NP*))   -   -   1   -   *         *             *)        *     -
+bn/vom/01/vom_0198   0    5        也    AD           (VP(ADVP*)   -   -   -   -   *         *    (ARGM-DIS*)        *     -
+bn/vom/01/vom_0198   0    6        在     P                (PP*    -   -   2   -   *         *    (ARGM-LOC*         *     -
+bn/vom/01/vom_0198   0    7        同    DT             (NP(DP*    -   -   -   -   *         *             *         *    (2
+bn/vom/01/vom_0198   0    8        一    CD               (QP*))   -   -   -   -   *         *             *         *     -
+bn/vom/01/vom_0198   0    9       地区    NN              (NP*)))   -   -   1   -   *         *             *)        *     2)
+bn/vom/01/vom_0198   0   10       举行    VV                (VP*    举行  -   -   -   *         *           (V*)        *     -
+bn/vom/01/vom_0198   0   11       示威    NN                (NP*    -   -   -   -   *         *        (ARG1*         *     -
+bn/vom/01/vom_0198   0   12       活动    NN                *))))   -   -   2   -   *         *             *)        *     -
+bn/vom/01/vom_0198   0   13        ，    PU                   *    -   -   -   -   *         *             *         *     -
+bn/vom/01/vom_0198   0   14       政府    NN             (IP(NP*)   -   -   1   -   *         *             *    (ARG0*)    -
+bn/vom/01/vom_0198   0   15       部署    VV                (VP*    部署  -   -   -   *         *             *       (V*)    -
+bn/vom/01/vom_0198   0   16        了    AS                   *    -   -   -   -   *         *             *         *     -
+bn/vom/01/vom_0198   0   17       数千    CD             (NP(QP*    -   -   -   -   *         *             *    (ARG1*     -
+bn/vom/01/vom_0198   0   18        名     M              (CLP*))   -   -   -   -   *         *             *         *     -
+bn/vom/01/vom_0198   0   19       防暴    NN                (NP*    -   -   -   -   *         *             *         *     -
+bn/vom/01/vom_0198   0   20       警察    NN                *))))   -   -   -   -   *         *             *         *)    -
+bn/vom/01/vom_0198   0   21        。    PU                  *))   -   -   -   -   *         *             *         *     -
+
+bn/vom/01/vom_0198   0    0       如果    CS       (TOP(IP(CP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)        *    (ARGM-DIS*)     *    (ARGM-ADV*     -
+bn/vom/01/vom_0198   0    1      参议院    NN         (IP(LCP(NP(NP*)   -   -   -   -   *        (ARG0*             *         *             *      *             *    (5)
+bn/vom/01/vom_0198   0    2       ２２    CD                   (QP*    -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0    3        名     M                 (CLP*))   -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0    4      参议员    NN                  (NP*))   -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0    5        中    LC                      *)   -   -   -   -   *             *)            *         *             *      *             *     -
+bn/vom/01/vom_0198   0    6        ，    PU                      *    -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0    7        有    VE                   (VP*     有  -   4   -   *           (V*)            *         *             *      *             *     -
+bn/vom/01/vom_0198   0    8      ２／３    CD             (IP(NP(QP*)   -   -   -   -   *        (ARG1*        (ARG0*         *        (ARG0*      *             *     -
+bn/vom/01/vom_0198   0    9       多数    NN                  (NP*))   -   -   -   -   *             *             *)        *             *)     *             *     -
+bn/vom/01/vom_0198   0   10       认为    VV                   (VP*    认为  -   1   -   *             *           (V*)        *             *      *             *     -
+bn/vom/01/vom_0198   0   11    埃斯特拉达    NR   (IP(LCP(NP(CP(IP(NP*)   -   -   -   -   *             *        (ARG1*    (ARG0*)       (ARG0*      *             *    (1)
+bn/vom/01/vom_0198   0   12       被控    VV                  (VP*))   被控  -   -   -   *             *             *       (V*)            *      *             *     -
+bn/vom/01/vom_0198   0   13        的   DEC                      *)   -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   14        四    CD                   (QP*    -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   15        项     M                 (CLP*))   -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   16       罪名    NN                  (NP*))   -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   17        中    LC                      *)   -   -   -   -   *             *             *         *             *)     *             *     -
+bn/vom/01/vom_0198   0   18        有    VE                   (VP*     有  -   3   -   *             *             *         *           (V*)     *             *     -
+bn/vom/01/vom_0198   0   19       任何    DT                (IP(DP*    -   -   -   -   *             *             *         *        (ARG1*      *             *     -
+bn/vom/01/vom_0198   0   20        一    CD                   (QP*    -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   21        项     M                (CLP*)))   -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   22       成立    VV           (VP*)))))))))   成立  -   -   -   *             *)            *)        *             *)   (V*)            *)    -
+bn/vom/01/vom_0198   0   23        ，    PU                      *    -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   24        他    PN                   (NP*)   -   -   -   -   *             *             *         *             *      *             *    (1)
+bn/vom/01/vom_0198   0   25        就    AD              (VP(ADVP*)   -   -   2   -   *             *             *         *             *      *    (ARGM-DIS*)    -
+bn/vom/01/vom_0198   0   26        将    AD                 (ADVP*)   -   -   -   -   *             *             *         *             *      *    (ARGM-ADV*)    -
+bn/vom/01/vom_0198   0   27        被    SB                   (VP*    -   -   -   -   *             *             *         *             *      *             *     -
+bn/vom/01/vom_0198   0   28       罢免    VV                   (VP*    罢免  -   -   -   *             *             *         *             *      *           (V*)    -
+bn/vom/01/vom_0198   0   29       总统    NN                   (NP*    -   -   -   -   *             *             *         *             *      *        (ARG2*     -
+bn/vom/01/vom_0198   0   30       职务    NN                   *))))   -   -   -   -   *             *             *         *             *      *             *)    -
+bn/vom/01/vom_0198   0   31        。    PU                     *))   -   -   -   -   *             *             *         *             *      *             *     -
+
+#end document

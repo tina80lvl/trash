@@ -1,0 +1,367 @@
+#begin document (bn/cts/02/cts_0201); part 000
+bn/cts/02/cts_0201   0    0     午安    VA   (TOP(IP(IP(VP*))   -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0    1      ，    PU                 *    -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0    2     欢迎    VV           (IP(VP*    欢迎  -   -   -   *      (V*)       *   -
+bn/cts/02/cts_0201   0    3     收看    VV           (IP(VP*    收看  -   -   -   *   (ARG2*      (V*)  -
+bn/cts/02/cts_0201   0    4    １２月    NT       (NP(DNP(NP*    -   -   -   -   *        *   (ARG1*   -
+bn/cts/02/cts_0201   0    5     ２号    NT                 *)   -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0    6      的   DEG                 *)   -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0    7      《    PU              (NP*    -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0    8     华视    NR              (NP*)   -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0    9     假日    NN              (NP*    -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0   10     午间    NT                 *    -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0   11     新闻    NN                 *)   -   -   -   -   *        *        *   -
+bn/cts/02/cts_0201   0   12      》    PU            *))))))   -   -   -   -   *        *)       *)  -
+bn/cts/02/cts_0201   0   13      。    PU                *))   -   -   -   -   *        *        *   -
+
+bn/cts/02/cts_0201   0    0    副总统    NN   (TOP(IP(IP(IP(NP(CP(IP(NP(NP*)   -   -   -   -   *    (ARG0*        (ARG0*        (ARG0*             *         *      *        (ARG0*             *   (1|(2
+bn/cts/02/cts_0201   0    1    吕秀莲    NR                           (NP*))   -   -   -   -   *         *)            *             *             *         *      *             *             *       2)
+bn/cts/02/cts_0201   0    2     委请    VV                           (VP*))   委请  -   -   -   *       (V*)            *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0    3      的   DEC                               *)   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0    4      ５    CD                         (NP(QP*)   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0    5      人    NN                           (NP*))   -   -   1   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0    6    律师团    NN                           (NP*))   -   -   -   -   *    (ARG1*)            *)            *)            *         *      *             *             *       1)
+bn/cts/02/cts_0201   0    7     上午    NT                         (VP(NP*)   -   -   1   -   *         *    (ARGM-TMP*)            *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0    8     正式    AD                          (ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)            *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0    9     要求    VV                            (VP*    要求  -   1   -   *         *           (V*)            *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   10     刊载    NR                            (NP*    -   -   -   -   *         *        (ARG1*             *             *         *      *             *             *      (5
+bn/cts/02/cts_0201   0   11    副总统    NN                               *)   -   -   -   -   *         *             *)            *             *         *      *             *             *      (2)
+bn/cts/02/cts_0201   0   12     曾经    AD                    (IP(VP(ADVP*)   -   -   -   -   *         *        (ARG2*    (ARGM-ADV*)   (ARGM-ADV*)        *      *             *             *       -
+bn/cts/02/cts_0201   0   13      打    VV                         (VP(VP*     打  -   2   -   *         *             *           (V*)            *         *      *             *             *       -
+bn/cts/02/cts_0201   0   14     电话    NN                           (NP*))   -   -   2   -   *         *             *        (ARG1*)            *         *      *             *             *       -
+bn/cts/02/cts_0201   0   15      给    VV                            (VP*     给  -   -   -   *         *             *             *           (V*)        *      *             *             *       -
+bn/cts/02/cts_0201   0   16     媒体    NN                (NP(NP(CP(IP(NP*    -   -   1   -   *         *             *             *        (ARG2*    (ARG0*      *             *             *      (3
+bn/cts/02/cts_0201   0   17     高层    NN                               *)   -   -   -   -   *         *             *             *             *         *)     *             *             *       3)
+bn/cts/02/cts_0201   0   18     透露    VV                            (VP*    透露  -   1   -   *         *             *             *             *       (V*)     *             *             *       -
+bn/cts/02/cts_0201   0   19     绯闻    NN                          (NP*)))   -   -   -   -   *         *             *             *             *    (ARG1*)     *             *             *      (0)
+bn/cts/02/cts_0201   0   20      的   DEC                               *)   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   21      《    PU                            (NP*    -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   22      新    JJ                          (ADJP*)   -   -   1   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   23     新闻    NN                            (NP*)   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   24      》    PU                              *))   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   25     周刊    NN                    (NP*)))))))))   -   -   -   -   *         *             *)            *             *)        *      *             *)            *       5)
+bn/cts/02/cts_0201   0   26      ，    PU                               *    -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   27     必须    VV                            (VP*    必须  -   -   -   *         *             *             *             *         *    (V*)            *             *       -
+bn/cts/02/cts_0201   0   28      在     P                         (VP(PP*    -   -   2   -   *         *             *             *             *         *      *    (ARGM-TMP*             *       -
+bn/cts/02/cts_0201   0   29      下    DT                     (LCP(NP(DP*    -   -   4   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   30      个     M                          (CLP*))   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   31    星期天    NT                           (NP*))   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   32     之前    LC                              *))   -   -   -   -   *         *             *             *             *         *      *             *)            *       -
+bn/cts/02/cts_0201   0   33     公开    AD                          (ADVP*)   -   -   -   -   *         *             *             *             *         *      *    (ARGM-ADV*)            *       -
+bn/cts/02/cts_0201   0   34     道歉    VV                         (VP*))))   道歉  -   -   -   *         *             *             *             *         *      *           (V*)            *       -
+bn/cts/02/cts_0201   0   35      ，    PU                               *    -   -   -   -   *         *             *             *             *         *      *             *             *       -
+bn/cts/02/cts_0201   0   36     否则    AD                       (IP(ADVP*)   -   -   -   -   *         *             *             *             *         *      *             *    (ARGM-DIS*)      -
+bn/cts/02/cts_0201   0   37      将    AD                       (VP(ADVP*)   -   -   -   -   *         *             *             *             *         *      *             *    (ARGM-ADV*)      -
+bn/cts/02/cts_0201   0   38     提出    VV                            (VP*    提出  -   -   -   *         *             *             *             *         *      *             *           (V*)      -
+bn/cts/02/cts_0201   0   39     告诉    NN                         (NP*))))   -   -   -   -   *         *             *             *             *         *      *             *        (ARG1*)      -
+bn/cts/02/cts_0201   0   40      。    PU                              *))   -   -   -   -   *         *             *             *             *         *      *             *             *       -
+
+bn/cts/02/cts_0201   0    0    律师团    NN     (TOP(IP(NP*)   -   -   -   -   *        (ARG0*)   (ARG0*)       (ARG0*)   (1)
+bn/cts/02/cts_0201   0    1     并且    AD    (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)        *             *     -
+bn/cts/02/cts_0201   0    2     公布    VV            (VP*    公布  -   -   -   *           (V*)        *             *     -
+bn/cts/02/cts_0201   0    3      了    AS               *    -   -   -   -   *        (ARG1*)        *             *     -
+bn/cts/02/cts_0201   0    4     相关    JJ   (NP(DNP(ADJP*)   -   -   -   -   *        (ARG1*         *             *     -
+bn/cts/02/cts_0201   0    5      的   DEG               *)   -   -   -   -   *             *         *             *     -
+bn/cts/02/cts_0201   0    6     通联    NN            (NP*    -   -   -   -   *             *         *             *     -
+bn/cts/02/cts_0201   0    7     记录    NN            *))))   -   -   -   -   *             *)        *             *     -
+bn/cts/02/cts_0201   0    8      ，    PU               *    -   -   -   -   *             *         *             *     -
+bn/cts/02/cts_0201   0    9     认为    VV            (VP*    认为  -   1   -   *             *       (V*)            *     -
+bn/cts/02/cts_0201   0   10      《    PU      (IP(NP(NP*    -   -   -   -   *             *    (ARG1*        (ARG0*    (5
+bn/cts/02/cts_0201   0   11      新    JJ          (ADJP*)   -   -   1   -   *             *         *             *     -
+bn/cts/02/cts_0201   0   12     新闻    NN            (NP*)   -   -   -   -   *             *         *             *     -
+bn/cts/02/cts_0201   0   13      》    PU               *)   -   -   -   -   *             *         *             *     5)
+bn/cts/02/cts_0201   0   14      这    DT            (DP*    -   -   -   -   *             *         *             *     -
+bn/cts/02/cts_0201   0   15      篇     M          (CLP*))   -   -   -   -   *             *         *             *     -
+bn/cts/02/cts_0201   0   16     报道    NN           (NP*))   -   -   -   -   *             *         *             *)    -
+bn/cts/02/cts_0201   0   17     根本    AD       (VP(ADVP*)   -   -   2   -   *             *         *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   18     不实    VA        (VP*)))))   不实  -   -   -   *             *         *)          (V*)    -
+bn/cts/02/cts_0201   0   19      。    PU              *))   -   -   -   -   *             *         *             *     -
+
+bn/cts/02/cts_0201   0    0     至于     P        (TOP(IP(PP*    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0    1    副总统    NN            (IP(NP*)   -   -   -   -   *        (ARG0*)       (ARG0*)      (ARG0*)      (ARG0*)           *       (2)
+bn/cts/02/cts_0201   0    2     到底    AD       (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)           *            *            *        -
+bn/cts/02/cts_0201   0    3      有    VE           (VP(VNV*     有  -   1   -   *           (V*)   (ARGM-ADV*)           *            *            *        -
+bn/cts/02/cts_0201   0    4      没    AD                  *    -   -   1   -   *    (ARGM-ADV*)   (ARGM-ADV*)           *            *            *        -
+bn/cts/02/cts_0201   0    5      有    VE                  *)    有  -   3   -   *             *           (V*)           *            *            *        -
+bn/cts/02/cts_0201   0    6      如    AD   (NP(DNP(NP(ADVP*)   -   -   3   -   *        (ARG1*        (ARG1*            *            *            *        -
+bn/cts/02/cts_0201   0    7      《    PU               (NP*    -   -   -   -   *             *             *            *            *            *       (5
+bn/cts/02/cts_0201   0    8      新    JJ             (ADJP*)   -   -   1   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0    9     新闻    NN               (NP*)   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   10      》    PU                 *))   -   -   -   -   *             *             *            *            *            *        5)
+bn/cts/02/cts_0201   0   11      之   DEG                  *)   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   12      称    NN            (NP*))))   -   -   6   -   *             *)            *)           *            *            *        -
+bn/cts/02/cts_0201   0   13      ，    PU                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   14      在     P            (VP(PP*    -   -   2   -   *             *             *   (ARGM-TMP*   (ARGM-TMP*            *        -
+bn/cts/02/cts_0201   0   15    １１月    NT               (NP*    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   16     ３号    NT                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   17     晚上    NT                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   18    １１点    NT                 *))   -   -   -   -   *             *             *            *)           *)           *        -
+bn/cts/02/cts_0201   0   19      打    VV            (VP(VP*     打  -   2   -   *             *             *          (V*)           *            *        -
+bn/cts/02/cts_0201   0   20     电话    NN              (NP*))   -   -   2   -   *             *             *       (ARG1*)           *            *        -
+bn/cts/02/cts_0201   0   21      给     P            (VP(PP*    -   -   -   -   *             *             *            *   (ARGM-BNF*            *        -
+bn/cts/02/cts_0201   0   22     媒体    NN               (NP*    -   -   1   -   *             *             *            *            *            *       (3
+bn/cts/02/cts_0201   0   23     高层    NN                 *))   -   -   -   -   *             *             *            *            *)           *        3)
+bn/cts/02/cts_0201   0   24     抖出    VV               (VP*    抖出  -   -   -   *             *             *            *          (V*)           *        -
+bn/cts/02/cts_0201   0   25     所谓    JJ      (NP(DNP(ADJP*)   -   -   -   -   *             *             *            *       (ARG1*            *        -
+bn/cts/02/cts_0201   0   26      的   DEG                  *)   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   27      “    PU               (NP*    -   -   -   -   *             *             *            *            *            *       (0
+bn/cts/02/cts_0201   0   28     总统    NN                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   29     绯闻    NN                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   30      ”    PU                  *)   -   -   -   -   *             *             *            *            *            *        0)
+bn/cts/02/cts_0201   0   31     内幕    NN       (NP*)))))))))   -   -   -   -   *             *             *            *            *)           *        -
+bn/cts/02/cts_0201   0   32      ，    PU                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   33     经过     P            (IP(PP*    -   -   -   -   *             *             *            *            *   (ARGM-ADV*        -
+bn/cts/02/cts_0201   0   34      两    CD     (NP(DNP(NP(QP*    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   35      个     M             (CLP*))   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   36     礼拜    NN              (NP*))   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   37      的   DEG                  *)   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   38     查证    NN             (NP*)))   -   -   -   -   *             *             *            *            *            *)       -
+bn/cts/02/cts_0201   0   39      ，    PU                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   40    吕秀莲    NR            (NP(NP*)   -   -   -   -   *             *             *            *            *       (ARG0*    (1|(2)
+bn/cts/02/cts_0201   0   41    律师团    NN              (NP*))   -   -   -   -   *             *             *            *            *            *)       1)
+bn/cts/02/cts_0201   0   42     公布    VV               (VP*    公布  -   -   -   *             *             *            *            *          (V*)       -
+bn/cts/02/cts_0201   0   43      了    AS                  *    -   -   -   -   *             *             *            *            *       (ARG1*)       -
+bn/cts/02/cts_0201   0   44    １１月    NT     (NP(DNP(NP(NP*    -   -   -   -   *             *             *            *            *       (ARG1*       (4
+bn/cts/02/cts_0201   0   45     ３号    NT                  *)   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   46    副总统    NN              (NP*))   -   -   -   -   *             *             *            *            *            *       (2)
+bn/cts/02/cts_0201   0   47      的   DEG                  *)   -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   48     警卫    NN               (NP*    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   49     随护    NN                  *    -   -   -   -   *             *             *            *            *            *        -
+bn/cts/02/cts_0201   0   50     日志    NN               *))))   -   -   -   -   *             *             *            *            *            *)       4)
+bn/cts/02/cts_0201   0   51      。    PU                 *))   -   -   -   -   *             *             *            *            *            *        -
+
+bn/cts/02/cts_0201   0    0       根据     P   (TOP(IP(IP(PP*    -   -   -   -   *        *             *    (ARGM-MNR*             *      *             *     -
+bn/cts/02/cts_0201   0    1       日志    NN   (IP(NP(DNP(NP*)   -   -   -   -   *   (ARG0*             *             *             *      *             *    (4)
+bn/cts/02/cts_0201   0    2        的   DEG                *)   -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0    3       记录    NN            (NP*))   -   -   -   -   *        *)            *             *             *      *             *     -
+bn/cts/02/cts_0201   0    4       显示    VV           (VP*)))   显示  -   1   -   *      (V*)            *             *)            *      *             *     -
+bn/cts/02/cts_0201   0    5        ，    PU                *    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0    6        吕    NR             (NP*    -   -   -   -   *        *             *        (ARG0*             *      *             *    (2
+bn/cts/02/cts_0201   0    7      副总统    NN                *)   -   -   -   -   *        *             *             *)            *      *             *     2)
+bn/cts/02/cts_0201   0    8        在     P          (VP(PP*    -   -   2   -   *        *             *    (ARGM-TMP*             *      *             *     -
+bn/cts/02/cts_0201   0    9      １１月    NT      (LCP(IP(NP*    -   -   -   -   *        *    (ARGM-TMP*             *             *      *             *     -
+bn/cts/02/cts_0201   0   10       ３号    NT                *    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   11       晚上    NT                *)   -   -   -   -   *        *             *)            *             *      *             *     -
+bn/cts/02/cts_0201   0   12    ８点１２分    CD          (VP(QP*)   -   -   -   -   *        *    (ARGM-ADV*)            *             *      *             *     -
+bn/cts/02/cts_0201   0   13       返回    VV             (VP*    返回  -   -   -   *        *           (V*)            *             *      *             *     -
+bn/cts/02/cts_0201   0   14       官邸    NN          (NP*))))   -   -   -   -   *        *        (ARG1*)            *             *      *             *    (7)
+bn/cts/02/cts_0201   0   15       之后    LC               *))   -   -   -   -   *        *             *             *)            *      *             *     -
+bn/cts/02/cts_0201   0   16        ，    PU                *    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   17        就    AD           (ADVP*)   -   -   2   -   *        *             *    (ARGM-ADV*)            *      *             *     -
+bn/cts/02/cts_0201   0   18       没有    AD           (ADVP*)   -   -   2   -   *        *             *    (ARGM-ADV*)            *      *             *     -
+bn/cts/02/cts_0201   0   19        再    AD           (ADVP*)   -   -   1   -   *        *             *    (ARGM-ADV*)            *      *             *     -
+bn/cts/02/cts_0201   0   20       外出    VV           (VP*)))   外出  -   -   -   *        *             *           (V*)            *      *             *     -
+bn/cts/02/cts_0201   0   21        ，    PU                *    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   22        而    AD        (IP(ADVP*)   -   -   -   -   *        *             *             *    (ARGM-DIS*)     *             *     -
+bn/cts/02/cts_0201   0   23       官邸    NN      (NP(LCP(NP*)   -   -   -   -   *        *             *             *        (ARG1*      *             *    (7)
+bn/cts/02/cts_0201   0   24        内    LC                *)   -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   25        ５    CD             (QP*    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   26        支     M           (CLP*))   -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   27      电话线    NN            (NP*))   -   -   -   -   *        *             *             *             *)     *             *     -
+bn/cts/02/cts_0201   0   28       全部    AD        (VP(ADVP*)   -   -   -   -   *        *             *             *    (ARGM-ADV*)     *             *     -
+bn/cts/02/cts_0201   0   29        都    AD           (ADVP*)   -   -   -   -   *        *             *             *    (ARGM-ADV*)     *             *     -
+bn/cts/02/cts_0201   0   30       没有    VE             (VP*    没有  -   1   -   *        *             *             *           (V*)     *             *     -
+bn/cts/02/cts_0201   0   31       任何    DT      (NP(DNP(DP*)   -   -   -   -   *        *             *             *        (ARG0*      *             *     -
+bn/cts/02/cts_0201   0   32        的   DEG                *)   -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   33       通联    NN             (NP*    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   34       记录    NN            *)))))   -   -   -   -   *        *             *             *             *)     *             *     -
+bn/cts/02/cts_0201   0   35        ，    PU                *    -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   36       当然    AD        (IP(ADVP*)   -   -   -   -   *        *             *             *             *      *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   37        更    AD        (VP(ADVP*)   -   -   -   -   *        *             *             *             *      *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   38        不    AD           (ADVP*)   -   -   -   -   *        *             *             *             *      *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   39       可能    VV             (VP*    可能  -   -   -   *        *             *             *             *    (V*)            *     -
+bn/cts/02/cts_0201   0   40       打给    VV             (VP*    打给  -   -   -   *        *             *             *             *      *           (V*)    -
+bn/cts/02/cts_0201   0   41       任何    DT      (NP(DNP(DP*)   -   -   -   -   *        *             *             *             *      *        (ARG1*     -
+bn/cts/02/cts_0201   0   42        的   DEG                *)   -   -   -   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   43       媒体    NN             (NP*    -   -   1   -   *        *             *             *             *      *             *     -
+bn/cts/02/cts_0201   0   44       人士    NN           *))))))   -   -   -   -   *        *             *             *             *      *             *)    -
+bn/cts/02/cts_0201   0   45        。    PU               *))   -   -   -   -   *        *             *             *             *      *             *     -
+
+bn/cts/02/cts_0201   0    0      “    PU            (TOP(IP*    -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0    1      在     P                (PP*    -   -    2   -   *    (ARGM-TMP*)   (ARGM-TMP*        *   (ARGM-TMP*   (ARGM-TMP*    -
+bn/cts/02/cts_0201   0    2    １１月    NT          (DP(IP(NP*    -   -    -   -   *    (ARGM-TMP*             *        *            *            *    -
+bn/cts/02/cts_0201   0    3     １号    NT                   *)   -   -    -   -   *             *)            *        *            *            *    -
+bn/cts/02/cts_0201   0    4     一直    AD           (VP(ADVP*)   -   -    -   -   *    (ARGM-ADV*)            *        *            *            *    -
+bn/cts/02/cts_0201   0    5     开始    VV              (VP*)))   开始  -    -   -   *           (V*)            *        *            *            *    -
+bn/cts/02/cts_0201   0    6      每    DT                (DP*    -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0    7      天     M            (CLP*))))   -   -    -   -   *             *             *)       *            *)           *)   -
+bn/cts/02/cts_0201   0    8      呢    SP               (FLR*)   -   -    -   -   *             *    (ARGM-ADV*)       *            *            *    -
+bn/cts/02/cts_0201   0    9      都    AD           (VP(ADVP*)   -   -    -   -   *        (ARG0*    (ARGM-ADV*)       *            *            *    -
+bn/cts/02/cts_0201   0   10      有    VE                (VP*     有  -    4   -   *             *           (V*)       *            *            *    -
+bn/cts/02/cts_0201   0   11      做    VV       (NP(CP(IP(VP*     做  -   11   -   *             *        (ARG1*      (V*)       (REL*)           *    -
+bn/cts/02/cts_0201   0   12      一    CD             (NP(QP*    -   -    -   -   *             *             *   (ARG1*            *            *   (2
+bn/cts/02/cts_0201   0   13      个     M              (CLP*))   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   14    副总统    NN            (DNP(NP*)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   15      的   DEG                   *)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   16      她    PN   (DNP(NP(CP(IP(NP*)   -   -    -   -   *             *             *        *       (ARG0*)           *    2)
+bn/cts/02/cts_0201   0   17      走    VV               (VP*))    走  -    5   -   *             *             *        *          (V*)           *    -
+bn/cts/02/cts_0201   0   18      的   DEC                   *)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   19      一    CD                (QP*    -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   20      个     M              (CLP*))   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   21     行踪    NN               (NP*))   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   22      的   DEG                   *)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   23      一    CD                (QP*    -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   24      个     M              (CLP*))   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   25     严密    VA         (CP(IP(VP*))   严密  -    -   -   *             *             *        *            *          (V*)   -
+bn/cts/02/cts_0201   0   26      的   DEC                   *)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   27     所有    DT            (DNP(DP*)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   28      的   DEG                   *)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   29     行踪    NN             (NP*))))   -   -    -   -   *             *             *        *)           *            *    -
+bn/cts/02/cts_0201   0   30      的   DEC                   *)   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   31      一    CD                (QP*    -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   32      个     M              (CLP*))   -   -    -   -   *             *             *        *            *            *    -
+bn/cts/02/cts_0201   0   33     报告    NN             (NP*))))   -   -    -   -   *             *)            *)       *            *            *    -
+bn/cts/02/cts_0201   0   34      。    PU                  *))   -   -    -   -   *             *             *        *            *            *    -
+
+bn/cts/02/cts_0201   0    0      从     P     (TOP(IP(PP*    -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0    1     以上    PN     (NP(DNP(NP*)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0    2      的   DEG               *)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0    3     查证    NN          (NP*)))   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0    4     我们    PN            (NP*)   -   -   -   -   *      *      *        (ARG0*)            *     -
+bn/cts/02/cts_0201   0    5     可以    VV            (VP*    可以  -   1   -   *    (V*)     *    (ARGM-ADV*)            *     -
+bn/cts/02/cts_0201   0    6     发现    VV        (VP(VSB*    发现  -   1   -   *      *    (V*)   (ARGM-ADV*)            *     -
+bn/cts/02/cts_0201   0    7      说    VV               *)    说  -   7   -   *      *      *           (V*)            *     -
+bn/cts/02/cts_0201   0    8      ，    PU               *    -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0    9    副总统    NN         (IP(NP*)   -   -   -   -   *      *      *        (ARG1*        (ARG0*)   (2)
+bn/cts/02/cts_0201   0   10     根本    AD       (VP(ADVP*)   -   -   2   -   *      *      *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   11      就    AD          (ADVP*)   -   -   2   -   *      *      *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   12     没有    AD          (ADVP*)   -   -   2   -   *      *      *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   13      打    VV            (VP*     打  -   1   -   *      *      *             *           (V*)    -
+bn/cts/02/cts_0201   0   14     所谓    JJ   (NP(DNP(ADJP*)   -   -   -   -   *      *      *             *        (ARG1*     -
+bn/cts/02/cts_0201   0   15      的   DEG               *)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   16      ，    PU               *    -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   17      《    PU            (NP*    -   -   -   -   *      *      *             *             *    (5
+bn/cts/02/cts_0201   0   18      新    JJ          (ADJP*)   -   -   1   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   19     新闻    NN            (NP*)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   20      》    PU               *)   -   -   -   -   *      *      *             *             *     5)
+bn/cts/02/cts_0201   0   21     所谓    JJ      (DNP(ADJP*)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   22      的   DEG               *)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   23      这    DT        (DNP(DP*    -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   24      一    CD            (QP*    -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   25      通     M         (CLP*)))   -   -   3   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   26      的   DEG               *)   -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   27     电话    NN      (NP*)))))))   -   -   2   -   *      *      *             *)            *)    -
+bn/cts/02/cts_0201   0   28      。    PU               *    -   -   -   -   *      *      *             *             *     -
+bn/cts/02/cts_0201   0   29      ”    PU              *))   -   -   -   -   *      *      *             *             *     -
+
+bn/cts/02/cts_0201   0    0     除了     P        (TOP(IP(PP*    -   -   -   -   *        *    (ARGM-ADV*             *     -
+bn/cts/02/cts_0201   0    1     公布    VV            (IP(VP*    公布  -   -   -   *      (V*)            *             *     -
+bn/cts/02/cts_0201   0    2     电话    NN        (NP(DNP(NP*)   -   -   2   -   *   (ARG1*             *             *     -
+bn/cts/02/cts_0201   0    3      的   DEG                  *)   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0    4     通联    NN               (NP*    -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0    5     记录    NN              *)))))   -   -   -   -   *        *)            *)            *     -
+bn/cts/02/cts_0201   0    6      ，    PU                  *    -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0    7    律师团    NN               (NP*)   -   -   -   -   *        *        (ARG0*)            *    (1)
+bn/cts/02/cts_0201   0    8      也    AD          (VP(ADVP*)   -   -   -   -   *        *    (ARGM-DIS*)            *     -
+bn/cts/02/cts_0201   0    9     提出    VV               (VP*    提出  -   -   -   *        *           (V*)            *     -
+bn/cts/02/cts_0201   0   10      《    PU  (IP(NP(DNP(NP(NP*    -   -   -   -   *        *        (ARG1*        (ARG0*    (5
+bn/cts/02/cts_0201   0   11      新    JJ             (ADJP*)   -   -   1   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   12     新闻    NN               (NP*)   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   13      》    PU                  *)   -   -   -   -   *        *             *             *     5)
+bn/cts/02/cts_0201   0   14     里面    NN              (NP*))   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   15      的   DEG                  *)   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   16     许多    CD               (QP*)   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   17     报道    NN              (NP*))   -   -   -   -   *        *             *             *)    -
+bn/cts/02/cts_0201   0   18      都    AD          (VP(ADVP*)   -   -   -   -   *        *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   19      有    VE               (VP*     有  -   3   -   *        *             *           (V*)    -
+bn/cts/02/cts_0201   0   20     虚构    JJ      (NP(DNP(ADJP*    -   -   -   -   *        *             *        (ARG1*     -
+bn/cts/02/cts_0201   0   21      和    CC                  *    -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   22     矛盾    JJ            (ADJP*))   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   23      的   DEG                  *)   -   -   -   -   *        *             *             *     -
+bn/cts/02/cts_0201   0   24     地方    NN         (NP*)))))))   -   -   3   -   *        *             *)            *)    -
+bn/cts/02/cts_0201   0   25      。    PU                 *))   -   -   -   -   *        *             *             *     -
+
+bn/cts/02/cts_0201   0    0      “    PU       (TOP(IP*    -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0    1      我    PN     (CP(IP(NP*)   -   -   -   -   *    (ARG0*)            *         *    (6)
+bn/cts/02/cts_0201   0    2      跟     P        (VP(PP*    -   -   2   -   *    (ARG0*             *         *     -
+bn/cts/02/cts_0201   0    3      吕    NR           (NP*    -   -   -   -   *         *             *         *    (2
+bn/cts/02/cts_0201   0    4    副总统    NN             *))   -   -   -   -   *         *)            *         *     2)
+bn/cts/02/cts_0201   0    5     相处    VV           (VP*    相处  -   -   -   *       (V*)            *         *     -
+bn/cts/02/cts_0201   0    6      这    DT        (NP(DP*    -   -   -   -   *    (ARG1*             *         *     -
+bn/cts/02/cts_0201   0    7      一    CD          (QP*))   -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0    8     辈子    NN       (NP*)))))   -   -   -   -   *         *)            *         *     -
+bn/cts/02/cts_0201   0    9      呀    SP              *)   -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   10      ，    PU              *    -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   11     从来    AD   (IP(VP(ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)        *     -
+bn/cts/02/cts_0201   0   12      就    AD         (ADVP*)   -   -   2   -   *         *    (ARGM-ADV*)        *     -
+bn/cts/02/cts_0201   0   13     没有    AD         (ADVP*)   -   -   2   -   *         *    (ARGM-ADV*)        *     -
+bn/cts/02/cts_0201   0   14     听说    VV           (VP*    听说  -   -   -   *         *           (V*)        *     -
+bn/cts/02/cts_0201   0   15      过    AS              *    -   -   1   -   *         *        (ARG1*)        *     -
+bn/cts/02/cts_0201   0   16      她    PN        (IP(NP*)   -   -   -   -   *         *        (ARG1*    (ARG0*)   (2)
+bn/cts/02/cts_0201   0   17      有    VE           (VP*     有  -   3   -   *         *             *       (V*)    -
+bn/cts/02/cts_0201   0   18     这个    DT        (NP(DP*)   -   -   -   -   *         *             *    (ARG1*     -
+bn/cts/02/cts_0201   0   19      黑    JJ     (DNP(ADJP*    -   -   1   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   20      、    PU              *    -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   21      黑    JJ         (ADJP*    -   -   1   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   22      、    PU              *    -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   23      黑    JJ             *))   -   -   1   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   24      的   DEG              *)   -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   25     声音    NN     (NP*)))))))   -   -   -   -   *         *             *)        *)    -
+bn/cts/02/cts_0201   0   26      。    PU              *    -   -   -   -   *         *             *         *     -
+bn/cts/02/cts_0201   0   27      ”    PU             *))   -   -   -   -   *         *             *         *     -
+
+bn/cts/02/cts_0201   0    0      而   AD   (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)   (ARGM-DIS*)            *     -
+bn/cts/02/cts_0201   0    1      《   PU   (NP(NP(NP(NP*    -   -   -   -   *        (ARG0*             *             *    (5
+bn/cts/02/cts_0201   0    2      新   JJ          (ADJP*)   -   -   1   -   *             *             *             *     -
+bn/cts/02/cts_0201   0    3     新闻   NN            (NP*)   -   -   -   -   *             *             *             *     -
+bn/cts/02/cts_0201   0    4      》   PU               *)   -   -   -   -   *             *             *             *     5)
+bn/cts/02/cts_0201   0    5     报道   NN           (NP*))   -   -   -   -   *             *             *             *     -
+bn/cts/02/cts_0201   0    6     总统   NN            (NP*    -   -   -   -   *             *             *             *    (6
+bn/cts/02/cts_0201   0    7     夫人   NN              *))   -   -   -   -   *             *             *             *     -
+bn/cts/02/cts_0201   0    8    吴淑珍   NR           (NP*))   -   -   -   -   *             *)            *             *     6)
+bn/cts/02/cts_0201   0    9      ，   PU               *    -   -   -   -   *             *             *             *     -
+bn/cts/02/cts_0201   0   10     曾经   AD       (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0201   0   11      要   VV            (VP*     要  -   2   -   *           (V*)            *             *     -
+bn/cts/02/cts_0201   0   12    吕秀莲   NR         (IP(NP*)   -   -   -   -   *        (ARG1*        (ARG0*)            *    (2)
+bn/cts/02/cts_0201   0   13      看   VV            (VP*     看  -   2   -   *             *           (V*)            *     -
+bn/cts/02/cts_0201   0   14     心理   NN         (IP(NP*    -   -   -   -   *             *        (ARG1*             *     -
+bn/cts/02/cts_0201   0   15     医师   NN               *)   -   -   -   -   *             *             *             *     -
+bn/cts/02/cts_0201   0   16      也   AD       (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-DIS*)    -
+bn/cts/02/cts_0201   0   17      被   LB            (VP*    -   -   -   -   *             *             *             *     -
+bn/cts/02/cts_0201   0   18     总统   NN         (IP(NP*    -   -   -   -   *             *             *        (ARG0*    (6
+bn/cts/02/cts_0201   0   19     夫人   NN               *)   -   -   -   -   *             *             *             *)    6)
+bn/cts/02/cts_0201   0   20     否认   VV    (VP*)))))))))   否认  -   -   -   *             *)            *)          (V*)    -
+bn/cts/02/cts_0201   0   21      。   PU              *))   -   -   -   -   *             *             *             *     -
+
+bn/cts/02/cts_0201   0    0     经过     P     (TOP(IP(PP*    -   -   -   -   *    (ARGM-MNR*   (ARGM-MNR*             *    (ARGM-MNR*     -
+bn/cts/02/cts_0201   0    1     种种    JJ   (NP(DNP(ADJP*)   -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0    2      的   DEG               *)   -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0    3     查证    NN            (NP*    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0    4      和    CC               *    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0    5     分析    NN             *)))   -   -   -   -   *             *)           *)            *             *)    -
+bn/cts/02/cts_0201   0    6      ，    PU               *    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0    7    律师团    NN            (NP*)   -   -   -   -   *        (ARG0*)      (ARG0*)       (ARG0*)       (ARG0*)   (1)
+bn/cts/02/cts_0201   0    8     今天    NT      (VP(VP(NP*)   -   -   -   -   *    (ARGM-TMP*)           *             *             *     -
+bn/cts/02/cts_0201   0    9     已经    AD          (ADVP*)   -   -   -   -   *    (ARGM-ADV*)           *             *             *     -
+bn/cts/02/cts_0201   0   10     正式    AD          (ADVP*)   -   -   -   -   *    (ARGM-ADV*)           *             *             *     -
+bn/cts/02/cts_0201   0   11     发布    VV            (VP*    发布  -   -   -   *           (V*)           *             *             *     -
+bn/cts/02/cts_0201   0   12      了    AS               *    -   -   -   -   *        (ARG1*)           *             *             *     -
+bn/cts/02/cts_0201   0   13    律师函    NN          (NP*)))   -   -   -   -   *        (ARG1*)           *             *             *     -
+bn/cts/02/cts_0201   0   14      ，    PU               *    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   15     要求    VV            (VP*    要求  -   1   -   *             *          (V*)            *             *     -
+bn/cts/02/cts_0201   0   16      《    PU            (NP*    -   -   -   -   *             *       (ARG1*             *             *    (5
+bn/cts/02/cts_0201   0   17      新    JJ          (ADJP*)   -   -   1   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   18     新闻    NN            (NP*)   -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   19      》    PU               *)   -   -   -   -   *             *            *)            *             *     5)
+bn/cts/02/cts_0201   0   20      在     P      (IP(VP(PP*    -   -   2   -   *             *       (ARG2*    (ARGM-TMP*             *     -
+bn/cts/02/cts_0201   0   21    １２月    NT        (LCP(NP*    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   22    １０号    NT               *)   -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   23     之前    LC              *))   -   -   -   -   *             *            *             *)            *     -
+bn/cts/02/cts_0201   0   24      ，    PU               *    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   25     公开    AD          (ADVP*)   -   -   -   -   *             *            *    (ARGM-ADV*)            *     -
+bn/cts/02/cts_0201   0   26      在     P            (PP*    -   -   2   -   *             *            *    (ARGM-LOC*             *     -
+bn/cts/02/cts_0201   0   27     １２    CD         (NP(QP*    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   28      家     M          (CLP*))   -   -   1   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   29     媒体    NN          (NP*)))   -   -   1   -   *             *            *             *)            *     -
+bn/cts/02/cts_0201   0   30      向     P            (PP*    -   -   -   -   *             *            *        (ARG1*             *     -
+bn/cts/02/cts_0201   0   31      吕    NR            (NP*    -   -   -   -   *             *            *             *             *    (2
+bn/cts/02/cts_0201   0   32    副总统    NN              *))   -   -   -   -   *             *            *             *)            *     2)
+bn/cts/02/cts_0201   0   33     道歉    VV         (VP*))))   道歉  -   -   -   *             *            *)          (V*)            *     -
+bn/cts/02/cts_0201   0   34      ，    PU               *    -   -   -   -   *             *            *             *             *     -
+bn/cts/02/cts_0201   0   35     否则    AD       (VP(ADVP*)   -   -   -   -   *             *            *             *    (ARGM-DIS*)    -
+bn/cts/02/cts_0201   0   36      将    AD          (ADVP*)   -   -   -   -   *             *            *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   37     依法    AD          (ADVP*)   -   -   -   -   *             *            *             *    (ARGM-ADV*)    -
+bn/cts/02/cts_0201   0   38     追究    VV          (VP*)))   追究  -   -   -   *             *            *             *           (V*)    -
+bn/cts/02/cts_0201   0   39      。    PU              *))   -   -   -   -   *             *            *             *             *     -
+
+#end document

@@ -1,0 +1,477 @@
+#begin document (wb/cmn/00/cmn_0011); part 000
+wb/cmn/00/cmn_0011   0   0      清清   NR   (TOP(FRAG(NP*)  -   -   -   -    (PERSON)   (7)
+wb/cmn/00/cmn_0011   0   1   2007    NT            (NP*   -   -   -   -     (DATE*     -
+wb/cmn/00/cmn_0011   0   2     01    NT               *   -   -   -   -          *     -
+wb/cmn/00/cmn_0011   0   3     04    NT             *)))  -   -   -   -          *)    -
+
+wb/cmn/00/cmn_0011   0   0    bill   NR  (TOP(FRAG*   -   -   -   -   (PERSON*   -
+wb/cmn/00/cmn_0011   0   1    shen   NR          *))  -   -   -   -          *)  -
+
+wb/cmn/00/cmn_0011   0   0    多云   VA   (TOP(IP(IP(VP*))  -   -   -    _bill_shen_           *   -
+wb/cmn/00/cmn_0011   0   1     ，   PU                 *   -   -   -    _bill_shen_           *   -
+wb/cmn/00/cmn_0011   0   2    温度   NN           (IP(NP*)  -   -   -    _bill_shen_           *   -
+wb/cmn/00/cmn_0011   0   3     约   AD      (VP(QP(ADVP*)  -   -   -    _bill_shen_           *   -
+wb/cmn/00/cmn_0011   0   4    4    CD              (QP*   -   -   -    _bill_shen_  (QUANTITY*   -
+wb/cmn/00/cmn_0011   0   5     度    M       (CLP*)))))))  -   -   -    _bill_shen_           *)  -
+
+wb/cmn/00/cmn_0011   0    0     昨天   NT   (TOP(IP(NP*)  -    -   -    _bill_shen_     (DATE)   (ARGM-TMP*)   (ARGM-TMP*)     *    (ARGM-TMP*)   (4)
+wb/cmn/00/cmn_0011   0    1     清清   NR          (NP*)  -    -   -    _bill_shen_   (PERSON)       (ARG0*)       (ARG0*)     *        (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0    2      到    P    (VP(VP(PP*   -    -   -    _bill_shen_         *    (ARGM-TMP*             *      *             *     -
+wb/cmn/00/cmn_0011   0    3    十一点   NT         (NP*))  -    -   -    _bill_shen_     (TIME)            *)            *      *             *     -
+wb/cmn/00/cmn_0011   0    4      才   AD        (ADVP*)  -    -   -    _bill_shen_         *    (ARGM-ADV*)            *      *             *     -
+wb/cmn/00/cmn_0011   0    5      睡   VV         (VP*))  -   01   -    _bill_shen_         *           (V*)            *      *             *     -
+wb/cmn/00/cmn_0011   0    6      ，   PU             *   -    -   -    _bill_shen_         *             *             *      *             *     -
+wb/cmn/00/cmn_0011   0    7      在    P       (VP(PP*   -    -   -    _bill_shen_         *             *    (ARGM-LOC*      *             *     -
+wb/cmn/00/cmn_0011   0    8     火车   NN      (LCP(NP*)  -    -   -    _bill_shen_         *             *             *      *             *    (5)
+wb/cmn/00/cmn_0011   0    9      上   LC            *))  -    -   -    _bill_shen_         *             *             *)     *             *     -
+wb/cmn/00/cmn_0011   0   10    看样子   AD        (ADVP*)  -    -   -    _bill_shen_         *             *    (ARGM-ADV*)     *             *     -
+wb/cmn/00/cmn_0011   0   11      想   VV          (VP*   -   02   -    _bill_shen_         *             *           (V*)     *             *     -
+wb/cmn/00/cmn_0011   0   12      睡   VV   (CP(IP(VP*))  -   01   -    _bill_shen_         *             *        (ARG1*    (V*)            *     -
+wb/cmn/00/cmn_0011   0   13      的   SP           *)))  -    -   -    _bill_shen_         *             *             *)     *             *     -
+wb/cmn/00/cmn_0011   0   14      ，   PU             *   -    -   -    _bill_shen_         *             *             *      *             *     -
+wb/cmn/00/cmn_0011   0   15     可是   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *             *             *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0011   0   16     没有   AD        (ADVP*)  -    -   -    _bill_shen_         *             *             *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   17      睡   VV        (VP*)))  -   01   -    _bill_shen_         *             *             *      *           (V*)    -
+wb/cmn/00/cmn_0011   0   18      。   PU            *))  -    -   -    _bill_shen_         *             *             *      *             *     -
+
+wb/cmn/00/cmn_0011   0   0    清清   NR   (TOP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)       (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0   1    昨天   NT       (VP(NP*)  -    -   -    _bill_shen_     (DATE)   (ARGM-TMP*)   (4)
+wb/cmn/00/cmn_0011   0   2    反击   VV          (VP*   -   01   -    _bill_shen_         *           (V*)    -
+wb/cmn/00/cmn_0011   0   3    妈妈   NN          (NP*)  -    -   -    _bill_shen_         *        (ARG1*)   (3)
+wb/cmn/00/cmn_0011   0   4     很   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *    (ARGM-EXT*     -
+wb/cmn/00/cmn_0011   0   5     好   AD       (VP*))))  -    -   -    _bill_shen_         *             *)    -
+wb/cmn/00/cmn_0011   0   6     ：   PU            *))  -    -   -    _bill_shen_         *             *     -
+
+wb/cmn/00/cmn_0011   0    0    妈妈   NN   (TOP(IP(NP*)  -    -   -    _bill_shen_         *    (ARG0*)        *    (ARG0*)     *      *      *      *        (ARG0*)        *         *             *             *    (3)
+wb/cmn/00/cmn_0011   0    1     在    P       (VP(PP*   -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    2    火车   NN      (LCP(NP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *    (5)
+wb/cmn/00/cmn_0011   0    3     上   LC            *))  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    4    发觉   VV          (VP*   -   01   -    _bill_shen_         *       (V*)        *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    5    清清   NR       (IP(NP*)  -    -   -    _bill_shen_   (PERSON)   (ARG1*    (ARG0*)        *      *      *      *      *             *         *         *             *             *    (7)
+wb/cmn/00/cmn_0011   0    6    放屁   VV        (VP*)))  -   01   -    _bill_shen_         *         *)      (V*)        *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    7     ，   PU             *   -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    8     问   VV          (VP*   -   01   -    _bill_shen_         *         *         *       (V*)     *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    9    清清   NR          (NP*)  -    -   -    _bill_shen_   (PERSON)        *         *    (ARG2*)     *      *      *      *             *         *         *             *             *    (7)
+wb/cmn/00/cmn_0011   0   10     是   VC   (IP(VP(VNV*   -   04   -    _bill_shen_         *         *         *    (ARG1*    (V*)     *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   11     不   AD             *   -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   12     是   VC             *)  -   04   -    _bill_shen_         *         *         *         *      *    (V*)     *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   13     咬   VV          (VP*   -   01   -    _bill_shen_         *         *         *         *      *      *    (V*)     *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   14    大便   VV      (VP*)))))  -   01   -    _bill_shen_         *         *         *         *)     *      *      *    (V*)            *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   15     ，   PU             *   -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   16    并且   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *    (ARGM-DIS*)        *         *             *             *     -
+wb/cmn/00/cmn_0011   0   17     说   VV          (VP*   -   01   -    _bill_shen_         *         *         *         *      *      *      *      *           (V*)        *         *             *             *     -
+wb/cmn/00/cmn_0011   0   18    清清   NR    (IP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)        *         *         *      *      *      *      *        (ARG1*         *         *             *             *    (7)
+wb/cmn/00/cmn_0011   0   19     ＂   PU             *   -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   20     你   PN          (NP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *    (ARG0*)        *             *             *    (7)
+wb/cmn/00/cmn_0011   0   21     是   VC          (VP*   -   01   -    _bill_shen_         *         *         *         *      *      *      *      *             *       (V*)        *             *             *     -
+wb/cmn/00/cmn_0011   0   22     我   PN    (CP(IP(NP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *    (ARG1*    (ARG0*)            *             *    (3)
+wb/cmn/00/cmn_0011   0   23     生   VV         (VP*))  -   01   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *       (V*)            *             *     -
+wb/cmn/00/cmn_0011   0   24     的   SP           *)))  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *)        *             *             *     -
+wb/cmn/00/cmn_0011   0   25     ，   PU             *   -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   26     我   PN       (IP(NP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *        (ARG0*)            *    (3)
+wb/cmn/00/cmn_0011   0   27    怎么   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0011   0   28     不   AD        (ADVP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0011   0   29    知道   VV          (VP*   -   01   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *           (V*)            *     -
+wb/cmn/00/cmn_0011   0   30     你   PN       (IP(NP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *        (ARG1*        (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0   31     在   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   32     想   VV          (VP*   -   01   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *           (V*)    -
+wb/cmn/00/cmn_0011   0   33    什么   PN    (NP*)))))))  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *)       (ARG1*)    -
+wb/cmn/00/cmn_0011   0   34     ＂   PU          *))))  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *)        *         *             *             *     -
+wb/cmn/00/cmn_0011   0   35     ，   PU            *))  -    -   -    _bill_shen_         *         *         *         *      *      *      *      *             *         *         *             *             *     -
+
+wb/cmn/00/cmn_0011   0    0    晚上    NT   (TOP(IP(NP(CP(CP(IP(VP(NP*)  -    -   -    _bill_shen_   (TIME)   (ARGM-TMP*)  (ARGM-TMP*         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    1     在     P                         (PP*   -    -   -    _bill_shen_       *    (ARGM-LOC*            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    2     家    NN                        (NP*))  -    -   -    _bill_shen_       *             *)           *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    3    洗脚    VV                      (VP*))))  -   01   -    _bill_shen_       *           (V*)           *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    4     的   DEC                            *)  -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    5    时候    NN                        (NP*))  -    -   -    _bill_shen_       *    (ARGM-TMP*)           *)        *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    6     ，    PU                            *   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    7    妈妈    NN                         (NP*)  -    -   -    _bill_shen_       *             *       (ARG0*)        *            *         *         *         *      *    (3)
+wb/cmn/00/cmn_0011   0    8     说    VV                         (VP*   -   01   -    _bill_shen_       *             *          (V*)        *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0    9     ：    PU                            *   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   10    我们    PN                   (IP(IP(NP*)  -    -   -    _bill_shen_       *             *       (ARG1*    (ARG0*)      (ARG0*)        *         *         *      *     -
+wb/cmn/00/cmn_0011   0   11     把    BA                      (VP(VP*   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   12    房子    NN                   (IP(IP(NP*)  -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   13     卖    VV                         (VP*   -   01   -    _bill_shen_       *             *            *       (V*)           *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   14     了    AS                         *))))  -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   15     ，    PU                            *   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   16     在     P                      (VP(PP*   -    -   -    _bill_shen_       *             *            *         *   (ARGM-LOC*         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   17    阿婆    NN                     (LCP(NP*   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   18     家    NN                            *)  -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   19    边上    LC                           *))  -    -   -    _bill_shen_       *             *            *         *            *)        *         *         *      *     -
+wb/cmn/00/cmn_0011   0   20     买    VV                         (VP*   -   01   -    _bill_shen_       *             *            *         *          (V*)        *         *         *      *     -
+wb/cmn/00/cmn_0011   0   21     个     M                     (NP(CLP*)  -    -   -    _bill_shen_       *             *            *         *       (ARG1*         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   22    房子    NN                    (NP*))))))  -    -   -    _bill_shen_       *             *            *         *            *)        *         *         *      *     -
+wb/cmn/00/cmn_0011   0   23     ，    PU                            *   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   24    余下    VV         (IP(NP(CP(CP(IP(VP*))  -   01   -    _bill_shen_       *             *            *         *            *       (V*)   (ARG0*         *      *     -
+wb/cmn/00/cmn_0011   0   25     的   DEC                           *))  -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   26     钱    NN                        (NP*))  -    -   -    _bill_shen_       *             *            *         *            *    (ARG1*)        *)        *      *     -
+wb/cmn/00/cmn_0011   0   27     让    VV                         (VP*   -   02   -    _bill_shen_       *             *            *         *            *         *       (V*)        *      *     -
+wb/cmn/00/cmn_0011   0   28    爸爸    NN                         (NP*)  -    -   -    _bill_shen_       *             *            *         *            *         *    (ARG1*)        *      *    (1)
+wb/cmn/00/cmn_0011   0   29     做    VV                      (IP(VP*   -   01   -    _bill_shen_       *             *            *         *            *         *    (ARG2*       (V*)     *     -
+wb/cmn/00/cmn_0011   0   30    生意    NN                     (NP*)))))  -    -   -    _bill_shen_       *             *            *         *            *         *         *)   (ARG1*)     *     -
+wb/cmn/00/cmn_0011   0   31     ，    PU                            *   -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   32     好    VA                  (CP(IP(VP*))  -   01   -    _bill_shen_       *             *            *         *            *         *         *         *    (V*)    -
+wb/cmn/00/cmn_0011   0   33     吗    SP                          *)))  -    -   -    _bill_shen_       *             *            *)        *            *         *         *         *      *     -
+wb/cmn/00/cmn_0011   0   34     ？    PU                           *))  -    -   -    _bill_shen_       *             *            *         *            *         *         *         *      *     -
+
+wb/cmn/00/cmn_0011   0    0    清清   NR   (TOP(IP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)       (ARG0*)        *         *    (7)
+wb/cmn/00/cmn_0011   0    1     不   AD        (VP(ADVP*)  -    -   -    _bill_shen_         *    (ARGM-ADV*)        *         *     -
+wb/cmn/00/cmn_0011   0    2    说话   VV           (VP*)))  -   01   -    _bill_shen_         *           (V*)        *         *     -
+wb/cmn/00/cmn_0011   0    3     ，   PU                *   -    -   -    _bill_shen_         *             *         *         *     -
+wb/cmn/00/cmn_0011   0    4    眼睛   NN          (IP(NP*)  -    -   -    _bill_shen_         *             *    (ARG0*)        *     -
+wb/cmn/00/cmn_0011   0    5     看   VV             (VP*   -   02   -    _bill_shen_         *             *       (V*)        *     -
+wb/cmn/00/cmn_0011   0    6     着   AS                *   -    -   -    _bill_shen_         *             *         *         *     -
+wb/cmn/00/cmn_0011   0    7    爸爸   NN           (NP*)))  -    -   -    _bill_shen_         *             *    (ARG1*)        *    (1)
+wb/cmn/00/cmn_0011   0    8     ，   PU                *   -    -   -    _bill_shen_         *             *         *         *     -
+wb/cmn/00/cmn_0011   0    9    爸爸   NN          (IP(NP*)  -    -   -    _bill_shen_         *             *         *    (ARG0*)   (1)
+wb/cmn/00/cmn_0011   0   10    摇头   VV            (VP*))  -   01   -    _bill_shen_         *             *         *       (V*)    -
+wb/cmn/00/cmn_0011   0   11     ，   PU               *))  -    -   -    _bill_shen_         *             *         *         *     -
+
+wb/cmn/00/cmn_0011   0   0    妈妈   NN   (TOP(IP(NP*)  -    -   -    _bill_shen_         *    (ARG0*)        *         *    (3)
+wb/cmn/00/cmn_0011   0   1     问   VV          (VP*   -   01   -    _bill_shen_         *       (V*)        *         *     -
+wb/cmn/00/cmn_0011   0   2    清清   NR          (NP*)  -    -   -    _bill_shen_   (PERSON)   (ARG2*)        *         *    (7)
+wb/cmn/00/cmn_0011   0   3     ：   PU             *   -    -   -    _bill_shen_         *         *         *         *     -
+wb/cmn/00/cmn_0011   0   4     你   PN       (IP(NP*)  -    -   -    _bill_shen_         *    (ARG1*    (ARG0*)   (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0   5     看   VV       (VP(VP*   -   02   -    _bill_shen_         *         *       (V*)        *     -
+wb/cmn/00/cmn_0011   0   6    爸爸   NN         (NP*))  -    -   -    _bill_shen_         *         *    (ARG1*)        *    (1)
+wb/cmn/00/cmn_0011   0   7     干   VV          (VP*   -   01   -    _bill_shen_         *         *         *       (V*)    -
+wb/cmn/00/cmn_0011   0   8    什么   PN      (NP*)))))  -    -   -    _bill_shen_         *         *)        *    (ARG1*)    -
+wb/cmn/00/cmn_0011   0   9     ？   PU            *))  -    -   -    _bill_shen_         *         *         *         *     -
+
+wb/cmn/00/cmn_0011   0    0    清清   NR     (TOP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)   (ARG0*)     *             *             *             *    (7)
+wb/cmn/00/cmn_0011   0    1    回应   VV            (VP*   -   01   -    _bill_shen_         *       (V*)     *             *             *             *     -
+wb/cmn/00/cmn_0011   0    2     ：   PU               *   -    -   -    _bill_shen_         *         *      *             *             *             *     -
+wb/cmn/00/cmn_0011   0    3     你   PN   (IP(CP(IP(NP*)  -    -   -    _bill_shen_         *    (ARG1*      *        (ARG0*)            *             *    (3)
+wb/cmn/00/cmn_0011   0    4     不   AD       (VP(ADVP*)  -    -   -    _bill_shen_         *         *      *    (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0011   0    5     是   VC            (VP*   -   04   -    _bill_shen_         *         *    (V*)            *             *             *     -
+wb/cmn/00/cmn_0011   0    6    知道   VV            (VP*   -   01   -    _bill_shen_         *         *      *           (V*)            *             *     -
+wb/cmn/00/cmn_0011   0    7     我   PN         (IP(NP*)  -    -   -    _bill_shen_         *         *      *        (ARG1*        (ARG0*)            *    (7)
+wb/cmn/00/cmn_0011   0    8     在   AD       (VP(ADVP*)  -    -   -    _bill_shen_         *         *      *             *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0011   0    9     想   VV            (VP*   -   01   -    _bill_shen_         *         *      *             *           (V*)            *     -
+wb/cmn/00/cmn_0011   0   10    什么   PN     (NP*))))))))  -    -   -    _bill_shen_         *         *      *             *)       (ARG1*)            *     -
+wb/cmn/00/cmn_0011   0   11     吗   SP               *)  -    -   -    _bill_shen_         *         *      *             *             *             *     -
+wb/cmn/00/cmn_0011   0   12     ，   PU               *   -    -   -    _bill_shen_         *         *      *             *             *             *     -
+wb/cmn/00/cmn_0011   0   13     还   AD    (IP(VP(ADVP*)  -    -   -    _bill_shen_         *         *      *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   14     问   VV            (VP*   -   01   -    _bill_shen_         *         *      *             *             *           (V*)    -
+wb/cmn/00/cmn_0011   0   15     我   PN       (NP*))))))  -    -   -    _bill_shen_         *         *)     *             *             *        (ARG2*)   (7)
+wb/cmn/00/cmn_0011   0   16     ？   PU              *))  -    -   -    _bill_shen_         *         *      *             *             *             *     -
+
+wb/cmn/00/cmn_0011   0   0    早上   NT   (TOP(IP(NP*)  -    -   -    _bill_shen_   (TIME)   (ARGM-TMP*)    -
+wb/cmn/00/cmn_0011   0   1    爸爸   NN          (NP*)  -    -   -    _bill_shen_       *        (ARG0*)   (1)
+wb/cmn/00/cmn_0011   0   2     喊   VV      (VP(VRD*   -   01   -    _bill_shen_       *           (V*)    -
+wb/cmn/00/cmn_0011   0   3    起来   VV            *))  -    -   -    _bill_shen_       *             *     -
+wb/cmn/00/cmn_0011   0   4     ，   PU            *))  -    -   -    _bill_shen_       *             *     -
+
+wb/cmn/00/cmn_0011   0   0     早饭   NN   (TOP(IP(NP*)  -    -   -    _bill_shen_  *    (ARG0*)  -
+wb/cmn/00/cmn_0011   0   1      是   VC          (VP*   -   01   -    _bill_shen_  *       (V*)  -
+wb/cmn/00/cmn_0011   0   2    泡饼干   NN         (NP*))  -    -   -    _bill_shen_  *    (ARG1*)  -
+wb/cmn/00/cmn_0011   0   3      ，   PU            *))  -    -   -    _bill_shen_  *         *   -
+
+wb/cmn/00/cmn_0011   0   0    爸爸   NN   (TOP(IP(NP*)  -    -   -    _bill_shen_         *    (ARG0*)     *    (1)
+wb/cmn/00/cmn_0011   0   1     喂   VV          (VP*   -   01   -    _bill_shen_         *       (V*)     *     -
+wb/cmn/00/cmn_0011   0   2    清清   NR          (NP*)  -    -   -    _bill_shen_   (PERSON)   (ARG2*)     *    (7)
+wb/cmn/00/cmn_0011   0   3     吃   VV     (IP(VP*)))  -   01   -    _bill_shen_         *         *    (V*)    -
+wb/cmn/00/cmn_0011   0   4     ，   PU            *))  -    -   -    _bill_shen_         *         *      *     -
+
+wb/cmn/00/cmn_0011   0   0     准备   VV  (TOP(CP(IP(VP*   -   02   -    _bill_shen_  *      (V*)        *     -
+wb/cmn/00/cmn_0011   0   1      去   VV         (IP(VP*   -   01   -    _bill_shen_  *   (ARG1*       (V*)    -
+wb/cmn/00/cmn_0011   0   2    幼儿园   NN        (NP*)))))  -    -   -    _bill_shen_  *        *)   (ARG1*)   (2)
+wb/cmn/00/cmn_0011   0   3      了   SP               *   -    -   -    _bill_shen_  *        *         *     -
+wb/cmn/00/cmn_0011   0   4      ，   PU              *))  -    -   -    _bill_shen_  *        *         *     -
+
+wb/cmn/00/cmn_0011   0   0    爸爸   NN   (TOP(IP(NP*)  -    -   -    _bill_shen_  *    (ARG0*)        *      *    (1)
+wb/cmn/00/cmn_0011   0   1     说   VV          (VP*   -   01   -    _bill_shen_  *       (V*)        *      *     -
+wb/cmn/00/cmn_0011   0   2     让   VV       (IP(VP*   -   02   -    _bill_shen_  *    (ARG1*       (V*)     *     -
+wb/cmn/00/cmn_0011   0   3    妈妈   NN          (NP*)  -    -   -    _bill_shen_  *         *    (ARG1*)     *    (3)
+wb/cmn/00/cmn_0011   0   4     送   VV   (IP(VP*)))))  -   01   -    _bill_shen_  *         *)   (ARG2*)   (V*)    -
+wb/cmn/00/cmn_0011   0   5     ，   PU            *))  -    -   -    _bill_shen_  *         *         *      *     -
+
+wb/cmn/00/cmn_0011   0   0    清清   NR   (TOP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)       (ARG0*)        *      *    (7)
+wb/cmn/00/cmn_0011   0   1     不   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *    (ARGM-ADV*)        *      *     -
+wb/cmn/00/cmn_0011   0   2    答应   VV          (VP*)  -   01   -    _bill_shen_         *           (V*)        *      *     -
+wb/cmn/00/cmn_0011   0   3     ：   PU             *   -    -   -    _bill_shen_         *             *         *      *     -
+wb/cmn/00/cmn_0011   0   4     我   PN      (PRN(NP*)  -    -   -    _bill_shen_         *             *    (ARG0*)     *    (7)
+wb/cmn/00/cmn_0011   0   5     要   VV          (VP*   -   04   -    _bill_shen_         *             *       (V*)     *     -
+wb/cmn/00/cmn_0011   0   6    爸爸   NN          (NP*)  -    -   -    _bill_shen_         *             *    (ARG1*)     *    (1)
+wb/cmn/00/cmn_0011   0   7     送   VV   (IP(VP*)))))  -   02   -    _bill_shen_         *             *    (ARG2*)   (V*)    -
+wb/cmn/00/cmn_0011   0   8     。   PU            *))  -    -   -    _bill_shen_         *             *         *      *     -
+
+wb/cmn/00/cmn_0011   0    0    爸爸   NN     (TOP(IP(NP*)  -    -   -    _bill_shen_  *    (ARG0*)     *        *        *    (1)
+wb/cmn/00/cmn_0011   0    1     说   VV            (VP*   -   01   -    _bill_shen_  *       (V*)     *        *        *     -
+wb/cmn/00/cmn_0011   0    2     ：   PU               *   -    -   -    _bill_shen_  *         *      *        *        *     -
+wb/cmn/00/cmn_0011   0    3     是   VC  (CP(IP(VP(VNV*   -   04   -    _bill_shen_  *    (ARG1*    (V*)       *        *     -
+wb/cmn/00/cmn_0011   0    4     不   AD               *   -    -   -    _bill_shen_  *         *      *        *        *     -
+wb/cmn/00/cmn_0011   0    5     是   VC               *)  -   01   -    _bill_shen_  *         *      *      (V*)       *     -
+wb/cmn/00/cmn_0011   0    6    爸爸   NN         (IP(NP*   -    -   -    _bill_shen_  *         *      *   (ARG1*   (ARG0*    (1)
+wb/cmn/00/cmn_0011   0    7     车   NN               *)  -    -   -    _bill_shen_  *         *      *        *        *)    -
+wb/cmn/00/cmn_0011   0    8     有   VE            (VP*   -   01   -    _bill_shen_  *         *      *        *      (V*)    -
+wb/cmn/00/cmn_0011   0    9     个    M        (NP(CLP*)  -    -   -    _bill_shen_  *         *      *        *   (ARG1*     -
+wb/cmn/00/cmn_0011   0   10    篷子   NN       (NP*))))))  -    -   -    _bill_shen_  *         *      *        *)       *)    -
+wb/cmn/00/cmn_0011   0   11     啊   SP              *))  -    -   -    _bill_shen_  *         *)     *        *        *     -
+wb/cmn/00/cmn_0011   0   12     ？   PU              *))  -    -   -    _bill_shen_  *         *      *        *        *     -
+
+wb/cmn/00/cmn_0011   0    0     清清   NR   (TOP(IP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)       (ARG0*)        *         *         *    (7)
+wb/cmn/00/cmn_0011   0    1      不   AD        (VP(ADVP*)  -    -   -    _bill_shen_         *    (ARGM-ADV*)        *         *         *     -
+wb/cmn/00/cmn_0011   0    2     说话   VV           (VP*)))  -   01   -    _bill_shen_         *           (V*)        *         *         *     -
+wb/cmn/00/cmn_0011   0    3      ，   PU                *   -    -   -    _bill_shen_         *             *         *         *         *     -
+wb/cmn/00/cmn_0011   0    4     爸爸   NN          (IP(NP*)  -    -   -    _bill_shen_         *             *    (ARG0*)   (ARG0*)        *    (1)
+wb/cmn/00/cmn_0011   0    5      把   BA          (VP(VP*   -    -   -    _bill_shen_         *             *         *         *         *     -
+wb/cmn/00/cmn_0011   0    6     手套   NN          (IP(NP*)  -    -   -    _bill_shen_         *             *    (ARG1*)        *         *     -
+wb/cmn/00/cmn_0011   0    7      给    P          (VP(PP*   -    -   -    _bill_shen_         *             *    (ARG2*         *         *     -
+wb/cmn/00/cmn_0011   0    8     清清   NR            (NP*))  -    -   -    _bill_shen_   (PERSON)            *         *)        *         *    (7)
+wb/cmn/00/cmn_0011   0    9      戴   VV         (VP(VRD*   -   01   -    _bill_shen_         *             *       (V*)        *         *     -
+wb/cmn/00/cmn_0011   0   10      好   VA            *)))))  -    -   -    _bill_shen_         *             *         *         *         *     -
+wb/cmn/00/cmn_0011   0   11      ，   PU                *   -    -   -    _bill_shen_         *             *         *         *         *     -
+wb/cmn/00/cmn_0011   0   12      送   VV             (VP*   -   02   -    _bill_shen_         *             *         *       (V*)        *     -
+wb/cmn/00/cmn_0011   0   13     清清   NR             (NP*)  -    -   -    _bill_shen_   (PERSON)            *         *    (ARG1*)        *    (7)
+wb/cmn/00/cmn_0011   0   14      去   VV          (IP(VP*   -   01   -    _bill_shen_         *             *         *    (ARG3*       (V*)    -
+wb/cmn/00/cmn_0011   0   15    幼儿园   NN        (NP*))))))  -    -   -    _bill_shen_         *             *         *         *)   (ARG1*)   (2)
+wb/cmn/00/cmn_0011   0   16      ，   PU               *))  -    -   -    _bill_shen_         *             *         *         *         *     -
+
+wb/cmn/00/cmn_0011   0    0    清清   NR   (TOP(IP(NP*)  -    -   -    _bill_shen_   (PERSON)   (ARG0*)           *         *         *      *      *        (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0    1     要   VV       (VP(VP*   -   04   -    _bill_shen_         *       (V*)           *         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0    2    爸爸   NN       (IP(NP*)  -    -   -    _bill_shen_         *    (ARG1*)      (ARG0*)        *         *      *      *             *    (1)
+wb/cmn/00/cmn_0011   0    3     和    P       (VP(PP*   -    -   -    _bill_shen_         *    (ARG2*   (ARGM-ADV*         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0    4    老师   NN         (NP*))  -    -   -    _bill_shen_         *         *            *)        *         *      *      *             *    (8)
+wb/cmn/00/cmn_0011   0    5     说   VV          (VP*   -   01   -    _bill_shen_         *         *          (V*)        *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0    6     ：   PU             *   -    -   -    _bill_shen_         *         *            *         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0    7     我   PN       (IP(NP*)  -    -   -    _bill_shen_         *         *       (ARG1*    (ARG0*)   (ARG0*)     *      *             *    (7)
+wb/cmn/00/cmn_0011   0    8    掉牙   VV       (VP(VP*   -   01   -    _bill_shen_         *         *            *       (V*)        *      *      *             *     -
+wb/cmn/00/cmn_0011   0    9     了   AS             *)  -    -   -    _bill_shen_         *         *            *         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0   10     ，   PU             *   -    -   -    _bill_shen_         *         *            *         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0   11    吃饭   VV      (VP(VPT*   -   01   -    _bill_shen_         *         *            *         *       (V*)     *      *             *     -
+wb/cmn/00/cmn_0011   0   12     不   AD             *   -    -   -    _bill_shen_         *         *            *         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0   13     好   VA      *))))))))  -    -   -    _bill_shen_         *         *)           *)        *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0   14     。   PU             *   -    -   -    _bill_shen_         *         *            *         *         *      *      *             *     -
+wb/cmn/00/cmn_0011   0   15     就   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *         *            *         *         *      *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   16     是   VC          (VP*   -   04   -    _bill_shen_         *         *            *         *         *    (V*)     *             *     -
+wb/cmn/00/cmn_0011   0   17     不   AD     (VP(ADVP*)  -    -   -    _bill_shen_         *         *            *         *         *      *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   18     肯   VV          (VP*   -   01   -    _bill_shen_         *         *            *         *         *      *    (V*)            *     -
+wb/cmn/00/cmn_0011   0   19    自己   PN       (VP(NP*)  -    -   -    _bill_shen_         *         *            *         *         *      *      *    (ARGM-ADV*)   (7)
+wb/cmn/00/cmn_0011   0   20     说   VV    (VP*)))))))  -   01   -    _bill_shen_         *         *            *         *         *      *      *           (V*)    -
+wb/cmn/00/cmn_0011   0   21     。   PU            *))  -    -   -    _bill_shen_         *         *            *         *         *      *      *             *     -
+
+wb/cmn/00/cmn_0011   0    0    爸爸   NN   (TOP(IP(IP(NP*)  -    -   -    _bill_shen_         *       (ARG0*)            *             *             *    (1)
+wb/cmn/00/cmn_0011   0    1     和    P          (VP(PP*   -    -   -    _bill_shen_         *   (ARGM-ADV*             *             *             *     -
+wb/cmn/00/cmn_0011   0    2    老师   NN            (NP*))  -    -   -    _bill_shen_         *            *)            *             *             *    (8)
+wb/cmn/00/cmn_0011   0    3     说   VV             (VP*   -   01   -    _bill_shen_         *          (V*)            *             *             *     -
+wb/cmn/00/cmn_0011   0    4     了   AS              *)))  -    -   -    _bill_shen_         *            *             *             *             *     -
+wb/cmn/00/cmn_0011   0    5     ，   PU                *   -    -   -    _bill_shen_         *            *             *             *             *     -
+wb/cmn/00/cmn_0011   0    6    清清   NR          (IP(NP*)  -    -   -    _bill_shen_   (PERSON)           *        (ARG0*)       (ARG1*)            *    (7)
+wb/cmn/00/cmn_0011   0    7     也   AD        (VP(ADVP*)  -    -   -    _bill_shen_         *            *    (ARGM-DIS*)   (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0011   0    8    张开   VV          (VP(VP*   -   01   -    _bill_shen_         *            *           (V*)       (ARG1*             *     -
+wb/cmn/00/cmn_0011   0    9    嘴巴   NN            (NP*))  -    -   -    _bill_shen_         *            *        (ARG1*)            *)            *     -
+wb/cmn/00/cmn_0011   0   10     给    P          (VP(PP*   -    -   -    _bill_shen_         *            *             *        (ARG0*             *     -
+wb/cmn/00/cmn_0011   0   11    老师   NN            (NP*))  -    -   -    _bill_shen_         *            *             *             *)            *    (8)
+wb/cmn/00/cmn_0011   0   12     看   VV             (VP*   -   02   -    _bill_shen_         *            *             *           (V*)            *     -
+wb/cmn/00/cmn_0011   0   13     了   AS            *)))))  -    -   -    _bill_shen_         *            *             *             *             *     -
+wb/cmn/00/cmn_0011   0   14     ，   PU                *   -    -   -    _bill_shen_         *            *             *             *             *     -
+wb/cmn/00/cmn_0011   0   15    样子   NN       (CP(IP(NP*)  -    -   -    _bill_shen_         *            *             *             *        (ARG0*)    -
+wb/cmn/00/cmn_0011   0   16     很   AD        (VP(ADVP*)  -    -   -    _bill_shen_         *            *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   17    好玩   VA           (VP*)))  -   01   -    _bill_shen_         *            *             *             *           (V*)    -
+wb/cmn/00/cmn_0011   0   18     的   SP                *)  -    -   -    _bill_shen_         *            *             *             *             *     -
+wb/cmn/00/cmn_0011   0   19     。   PU               *))  -    -   -    _bill_shen_         *            *             *             *             *     -
+
+wb/cmn/00/cmn_0011   0    0    然后   AD   (TOP(IP(IP(VP(ADVP*)  -    -   -    _bill_shen_         *    (ARGM-DIS*)   (ARGM-DIS*)            *        -
+wb/cmn/00/cmn_0011   0    1     又   AD                (ADVP*)  -    -   -    _bill_shen_         *    (ARGM-DIS*)   (ARGM-DIS*)            *        -
+wb/cmn/00/cmn_0011   0    2     拉   VV               (VP(VP*   -   01   -    _bill_shen_         *           (V*)            *             *        -
+wb/cmn/00/cmn_0011   0    3    爸爸   NN                 (NP*))  -    -   -    _bill_shen_         *        (ARG1*)            *             *       (1)
+wb/cmn/00/cmn_0011   0    4     看   VV                  (VP*   -   02   -    _bill_shen_         *        (ARG2*           (V*)            *        -
+wb/cmn/00/cmn_0011   0    5    清清   NR               (NP(NP*)  -    -   -    _bill_shen_   (PERSON)            *        (ARG1*             *    (0|(7)
+wb/cmn/00/cmn_0011   0    6    抽屉   NN             (NP*))))))  -    -   -    _bill_shen_         *             *)            *)            *        0)
+wb/cmn/00/cmn_0011   0    7     ，   PU                     *   -    -   -    _bill_shen_         *             *             *             *        -
+wb/cmn/00/cmn_0011   0    8    爸爸   NN               (IP(NP*)  -    -   -    _bill_shen_         *             *             *        (ARG0*)      (1)
+wb/cmn/00/cmn_0011   0    9     帮    P               (VP(PP*   -    -   -    _bill_shen_         *             *             *    (ARGM-BNF*        -
+wb/cmn/00/cmn_0011   0   10    清清   NR                 (NP*))  -    -   -    _bill_shen_   (PERSON)            *             *             *)      (7)
+wb/cmn/00/cmn_0011   0   11    整理   VV                  (VP*   -   01   -    _bill_shen_         *             *             *           (V*)       -
+wb/cmn/00/cmn_0011   0   12     了   AS                     *   -    -   -    _bill_shen_         *             *             *             *        -
+wb/cmn/00/cmn_0011   0   13    一下   AD             (ADVP*))))  -    -   -    _bill_shen_         *             *             *    (ARGM-ADV*)       -
+wb/cmn/00/cmn_0011   0   14     ，   PU                    *))  -    -   -    _bill_shen_         *             *             *             *        -
+
+wb/cmn/00/cmn_0011   0    0      有    VE      (TOP(IP(IP(VP*   -   03   -    _bill_shen_         *      (V*)        *         *        -
+wb/cmn/00/cmn_0011   0    1     别的    DT   (IP(NP(DNP(NP(DP*)  -    -   -    _bill_shen_         *   (ARG1*         *         *        -
+wb/cmn/00/cmn_0011   0    2    小朋友    NN               (NP*))  -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0    3      的   DEG                   *)  -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0    4     东西    NN               (NP*))  -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0    5      在    VV                (VP*   -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0    6     清清    NR         (LCP(NP(NP*)  -    -   -    _bill_shen_   (PERSON)       *         *         *    (0|(7)
+wb/cmn/00/cmn_0011   0    7     抽屉    NN               (NP*))  -    -   -    _bill_shen_         *        *         *         *        0)
+wb/cmn/00/cmn_0011   0    8      里    LC               *)))))  -    -   -    _bill_shen_         *        *)        *         *        -
+wb/cmn/00/cmn_0011   0    9      ，    PU                   *   -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0   10     清清    NR             (IP(NP*)  -    -   -    _bill_shen_   (PERSON)       *    (ARG0*)   (ARG0*)      (7)
+wb/cmn/00/cmn_0011   0   11      拿    VV         (VP(VP(VRD*   -   02   -    _bill_shen_         *        *       (V*)        *        -
+wb/cmn/00/cmn_0011   0   12     出来    VV                  *))  -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0   13      ，    PU                   *   -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0   14      放    VV            (VP(VRD*   -   01   -    _bill_shen_         *        *         *       (V*)       -
+wb/cmn/00/cmn_0011   0   15      回    VV                   *)  -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0   16    小朋友    NN         (NP(DNP(NP*)  -    -   -    _bill_shen_         *        *         *    (ARG2*        -
+wb/cmn/00/cmn_0011   0   17      的   DEG                   *)  -    -   -    _bill_shen_         *        *         *         *        -
+wb/cmn/00/cmn_0011   0   18     抽屉    NN            (NP*)))))  -    -   -    _bill_shen_         *        *         *         *)       -
+wb/cmn/00/cmn_0011   0   19      。    PU                  *))  -    -   -    _bill_shen_         *        *         *         *        -
+
+wb/cmn/00/cmn_0011   0    0      搬    VV  (TOP(IP(CP(IP(NP(CP(CP(IP(VP(VP*   -   01   -    _bill_shen_         *           (V*)     *   (ARGM-TMP*             *     -
+wb/cmn/00/cmn_0011   0    1     椅子    NN                           (NP*))))  -    -   -    _bill_shen_         *        (ARG1*)     *            *             *     -
+wb/cmn/00/cmn_0011   0    2      的   DEC                                *))  -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0    3     时候    NN                             (NP*))  -    -   -    _bill_shen_         *    (ARGM-TMP*)     *            *)            *     -
+wb/cmn/00/cmn_0011   0    4      ，    PU                                 *   -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0    5     清清    NR                              (NP*)  -    -   -    _bill_shen_   (PERSON)            *      *       (ARG0*)            *    (7)
+wb/cmn/00/cmn_0011   0    6      是    VC                              (VP*   -   04   -    _bill_shen_         *             *    (V*)           *             *     -
+wb/cmn/00/cmn_0011   0    7      推    VV                              (VP*   -   01   -    _bill_shen_         *             *      *          (V*)            *     -
+wb/cmn/00/cmn_0011   0    8      着    AS                               *)))  -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0    9      的    SP                                 *)  -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0   10      ：    PU                                 *   -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0   11     我们    PN                     (CP(IP(NP(NP*   -    -   -    _bill_shen_         *             *      *            *        (ARG0*     -
+wb/cmn/00/cmn_0011   0   12      班    NN                                 *)  -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0   13     有的    DT                              (DP*)  -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0   14    小朋友    NN                             (NP*))  -    -   -    _bill_shen_         *             *      *            *             *)    -
+wb/cmn/00/cmn_0011   0   15      就    AD                         (VP(ADVP*)  -    -   -    _bill_shen_         *             *      *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   16     这么    AD                            (ADVP*)  -    -   -    _bill_shen_         *             *      *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   17      搬    VV                            (VP*)))  -   01   -    _bill_shen_         *             *      *            *           (V*)    -
+wb/cmn/00/cmn_0011   0   18      的    SP                                 *)  -    -   -    _bill_shen_         *             *      *            *             *     -
+wb/cmn/00/cmn_0011   0   19      。    PU                                *))  -    -   -    _bill_shen_         *             *      *            *             *     -
+
+wb/cmn/00/cmn_0011   0    0    爸爸   NN   (TOP(IP(IP(NP*)  -    -   -    _bill_shen_         *    (ARG0*)   (ARG0*)            *      *             *    (1)
+wb/cmn/00/cmn_0011   0    1     要   VV             (VP*   -   05   -    _bill_shen_         *       (V*)        *             *      *             *     -
+wb/cmn/00/cmn_0011   0    2     帮   VV             (VP*   -   01   -    _bill_shen_         *    (ARG1*       (V*)            *      *             *     -
+wb/cmn/00/cmn_0011   0    3    清清   NR          (NP*))))  -    -   -    _bill_shen_   (PERSON)        *)   (ARG1*)            *      *             *    (7)
+wb/cmn/00/cmn_0011   0    4     ，   PU                *   -    -   -    _bill_shen_         *         *         *             *      *             *     -
+wb/cmn/00/cmn_0011   0    5    清清   NR          (IP(NP*)  -    -   -    _bill_shen_   (PERSON)        *         *        (ARG0*)     *        (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0    6     不   AD     (VP(VP(ADVP*)  -    -   -    _bill_shen_         *         *         *    (ARGM-ADV*)     *             *     -
+wb/cmn/00/cmn_0011   0    7     肯   VV            (VP*))  -   01   -    _bill_shen_         *         *         *           (V*)     *             *     -
+wb/cmn/00/cmn_0011   0    8     ，   PU                *   -    -   -    _bill_shen_         *         *         *             *      *             *     -
+wb/cmn/00/cmn_0011   0    9     要   VV             (VP*   -   03   -    _bill_shen_         *         *         *             *    (V*)            *     -
+wb/cmn/00/cmn_0011   0   10    自己   PN          (VP(NP*)  -    -   -    _bill_shen_         *         *         *             *      *    (ARGM-ADV*)   (7)
+wb/cmn/00/cmn_0011   0   11     搬   VV         (VP*)))))  -   01   -    _bill_shen_         *         *         *             *      *           (V*)    -
+wb/cmn/00/cmn_0011   0   12     。   PU               *))  -    -   -    _bill_shen_         *         *         *             *      *             *     -
+
+wb/cmn/00/cmn_0011   0    0     晚上    NT         (TOP(IP(NP*)  -    -   -    _bill_shen_     (TIME)            *    (ARGM-TMP*)   (ARGM-TMP*)   (ARGM-TMP*)            *     -
+wb/cmn/00/cmn_0011   0    1     爸爸    NN    (NP(CP(CP(IP(NP*)  -    -   -    _bill_shen_         *        (ARG0*)   (ARGM-TMP*    (ARGM-TMP*    (ARGM-TMP*             *    (1)
+wb/cmn/00/cmn_0011   0    2     回来    VV           (VP(VP*)))  -   01   -    _bill_shen_         *           (V*)            *             *             *             *     -
+wb/cmn/00/cmn_0011   0    3      的   DEC                  *))  -    -   -    _bill_shen_         *             *             *             *             *             *     -
+wb/cmn/00/cmn_0011   0    4     时候    NN               (NP*))  -    -   -    _bill_shen_         *    (ARGM-TMP*)            *)            *)            *)            *     -
+wb/cmn/00/cmn_0011   0    5      ，    PU                   *   -    -   -    _bill_shen_         *             *             *             *             *             *     -
+wb/cmn/00/cmn_0011   0    6     清清    NR                (NP*)  -    -   -    _bill_shen_   (PERSON)            *        (ARG0*)       (ARG0*)       (ARG0*)            *    (7)
+wb/cmn/00/cmn_0011   0    7      正    AD        (VP(VP(ADVP*)  -    -   -    _bill_shen_         *             *    (ARGM-ADV*)   (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0011   0    8      拿    VV             (VP(VP*   -   01   -    _bill_shen_         *             *           (V*)            *             *             *     -
+wb/cmn/00/cmn_0011   0    9      着    AS                   *   -    -   -    _bill_shen_         *             *             *             *             *             *     -
+wb/cmn/00/cmn_0011   0   10     妈妈    NN                (NP*   -    -   -    _bill_shen_         *             *        (ARG1*             *             *             *    (3)
+wb/cmn/00/cmn_0011   0   11     手机    NN                  *))  -    -   -    _bill_shen_         *             *             *)            *             *             *     -
+wb/cmn/00/cmn_0011   0   12     到处    AD           (VP(ADVP*)  -    -   -    _bill_shen_         *             *             *    (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0011   0   13      跑    VV             (VP*))))  -   01   -    _bill_shen_         *             *             *           (V*)            *             *     -
+wb/cmn/00/cmn_0011   0   14      ，    PU                   *   -    -   -    _bill_shen_         *             *             *             *             *             *     -
+wb/cmn/00/cmn_0011   0   15      再    AD           (VP(ADVP*)  -    -   -    _bill_shen_         *             *             *             *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0011   0   16      和     P                (PP*   -    -   -    _bill_shen_         *             *             *             *        (ARG0*             *     -
+wb/cmn/00/cmn_0011   0   17     舅舅    NN               (NP*))  -    -   -    _bill_shen_         *             *             *             *             *)            *    (6)
+wb/cmn/00/cmn_0011   0   18    通电话    VV                (VP*)  -   01   -    _bill_shen_         *             *             *             *           (V*)            *     -
+wb/cmn/00/cmn_0011   0   19      ，    PU                   *   -    -   -    _bill_shen_         *             *             *             *             *             *     -
+wb/cmn/00/cmn_0011   0   20     昨天    NT   (PRN(CP(IP(VP(NP*)  -    -   -    _bill_shen_     (DATE)            *             *             *             *    (ARGM-TMP*)    -
+wb/cmn/00/cmn_0011   0   21     答应    VV                (VP*   -   01   -    _bill_shen_         *             *             *             *             *           (V*)    -
+wb/cmn/00/cmn_0011   0   22     舅舅    NN             (NP*))))  -    -   -    _bill_shen_         *             *             *             *             *        (ARG1*)   (6)
+wb/cmn/00/cmn_0011   0   23      的    SP                *))))  -    -   -    _bill_shen_         *             *             *             *             *             *     -
+wb/cmn/00/cmn_0011   0   24      ，    PU                  *))  -    -   -    _bill_shen_         *             *             *             *             *             *     -
+
+wb/cmn/00/cmn_0011   0    0    以后   AD   (TOP(IP(IP(ADVP*)  -    -   -    _bill_shen_         *      *    (ARGM-TMP*)        *         *         *            *     -
+wb/cmn/00/cmn_0011   0    1     要   VV               (VP*   -   03   -    _bill_shen_         *    (V*)            *         *         *         *            *     -
+wb/cmn/00/cmn_0011   0    2     接   VV               (VP*   -   01   -    _bill_shen_         *      *           (V*)        *         *         *            *     -
+wb/cmn/00/cmn_0011   0    3    舅舅   NN               (NP*   -    -   -    _bill_shen_         *      *        (ARG1*         *         *         *            *    (6)
+wb/cmn/00/cmn_0011   0    4    电话   NN               *))))  -    -   -    _bill_shen_         *      *             *)        *         *         *            *     -
+wb/cmn/00/cmn_0011   0    5     ，   PU                  *   -    -   -    _bill_shen_         *      *             *         *         *         *            *     -
+wb/cmn/00/cmn_0011   0    6    清清   NR            (IP(NP*)  -    -   -    _bill_shen_   (PERSON)     *             *    (ARG0*)        *         *       (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0    7     说   VV            (VP(VP*   -   01   -    _bill_shen_         *      *             *       (V*)        *         *            *     -
+wb/cmn/00/cmn_0011   0    8    舅舅   NN            (IP(NP*)  -    -   -    _bill_shen_         *      *             *    (ARG1*    (ARG0*)        *            *    (6)
+wb/cmn/00/cmn_0011   0    9     ＂   PU                  *   -    -   -    _bill_shen_         *      *             *         *         *         *            *     -
+wb/cmn/00/cmn_0011   0   10     傻   VA             (VP*)))  -   01   -    _bill_shen_         *      *             *         *)      (V*)        *            *     -
+wb/cmn/00/cmn_0011   0   11     ＂   PU                  *   -    -   -    _bill_shen_         *      *             *         *         *         *            *     -
+wb/cmn/00/cmn_0011   0   12     ，   PU                  *   -    -   -    _bill_shen_         *      *             *         *         *         *            *     -
+wb/cmn/00/cmn_0011   0   13     和    P            (VP(PP*   -    -   -    _bill_shen_         *      *             *         *         *         *   (ARGM-MNR*     -
+wb/cmn/00/cmn_0011   0   14     说   VV            (IP(VP*   -   08   -    _bill_shen_         *      *             *         *         *       (V*)           *     -
+wb/cmn/00/cmn_0011   0   15    爸爸   NN            (NP*))))  -    -   -    _bill_shen_         *      *             *         *         *    (ARG1*)           *)   (1)
+wb/cmn/00/cmn_0011   0   16    一样   VA            (VP*))))  -   01   -    _bill_shen_         *      *             *         *         *         *          (V*)    -
+wb/cmn/00/cmn_0011   0   17     。   PU                 *))  -    -   -    _bill_shen_         *      *             *         *         *         *            *     -
+
+wb/cmn/00/cmn_0011   0    0      接    VV    (TOP(IP(IP(VP(VRD*   -   01   -    _bill_shen_         *       (V*)  (ARGM-ADV*         *      *   (ARGM-ADV*      *         *     -
+wb/cmn/00/cmn_0011   0    1      完    VV                     *)  -    -   -    _bill_shen_         *         *            *         *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0    2     电话    NN                (NP*)))  -    -   -    _bill_shen_         *    (ARG1*)           *)        *      *            *)     *         *     -
+wb/cmn/00/cmn_0011   0    3      ，    PU                     *   -    -   -    _bill_shen_         *         *            *         *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0    4     清清    NR                  (NP*)  -    -   -    _bill_shen_   (PERSON)        *       (ARG0*)        *      *       (ARG0*)     *         *    (7)
+wb/cmn/00/cmn_0011   0    5      给     P            (VP(VP(PP*   -    -   -    _bill_shen_         *         *   (ARGM-BNF*         *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0    6     爸爸    NN                 (NP*))  -    -   -    _bill_shen_         *         *            *)        *      *            *      *         *    (1)
+wb/cmn/00/cmn_0011   0    7      看    VV                  (VP*   -   02   -    _bill_shen_         *         *          (V*)        *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0    8     拍卖    VV  (NP(CP(CP(IP(VP(VRD*   -   01   -    _bill_shen_         *         *       (ARG1*       (V*)     *            *      *         *     -
+wb/cmn/00/cmn_0011   0    9     回来    VV                   *)))  -   02   -    _bill_shen_         *         *            *         *    (V*)           *      *         *     -
+wb/cmn/00/cmn_0011   0   10      的   DEC                    *))  -    -   -    _bill_shen_         *         *            *         *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0   11    算术书    NN               (NP*))))  -    -   -    _bill_shen_         *         *            *)   (ARG1*)     *            *      *         *     -
+wb/cmn/00/cmn_0011   0   12      ，    PU                     *   -    -   -    _bill_shen_         *         *            *         *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0   13     告诉    VV                  (VP*   -   01   -    _bill_shen_         *         *            *         *      *          (V*)     *         *     -
+wb/cmn/00/cmn_0011   0   14     爸爸    NN                  (NP*)  -    -   -    _bill_shen_         *         *            *         *      *       (ARG2*)     *         *    (1)
+wb/cmn/00/cmn_0011   0   15      ：    PU                     *   -    -   -    _bill_shen_         *         *            *         *      *            *      *         *     -
+wb/cmn/00/cmn_0011   0   16      我    PN            (CP(IP(NP*)  -    -   -    _bill_shen_         *         *            *         *      *       (ARG1*      *    (ARG0*)   (7)
+wb/cmn/00/cmn_0011   0   17      会    VV                  (VP*   -   02   -    _bill_shen_         *         *            *         *      *            *    (V*)        *     -
+wb/cmn/00/cmn_0011   0   18      做    VV                  (VP*   -   01   -    _bill_shen_         *         *            *         *      *            *      *       (V*)    -
+wb/cmn/00/cmn_0011   0   19     算术    NN               (NP*))))  -    -   -    _bill_shen_         *         *            *         *      *            *      *    (ARG1*)    -
+wb/cmn/00/cmn_0011   0   20      了    SP                   *)))  -    -   -    _bill_shen_         *         *            *         *      *            *)     *         *     -
+wb/cmn/00/cmn_0011   0   21      。    PU                    *))  -    -   -    _bill_shen_         *         *            *         *      *            *      *         *     -
+
+wb/cmn/00/cmn_0011   0    0     还   AD   (TOP(IP(VP(ADVP*)  -    -   -    _bill_shen_       *    (ARGM-DIS*)     *         *             *     -
+wb/cmn/00/cmn_0011   0    1     说   VV               (VP*   -   01   -    _bill_shen_       *           (V*)     *         *             *     -
+wb/cmn/00/cmn_0011   0    2     ：   PU                  *   -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0    3     我   PN      (IP(CP(IP(NP*)  -    -   -    _bill_shen_       *        (ARG1*      *         *             *    (7)
+wb/cmn/00/cmn_0011   0    4    今天   NT            (VP(NP*)  -    -   -    _bill_shen_   (DATE)            *      *         *             *     -
+wb/cmn/00/cmn_0011   0    5     和    P               (PP*   -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0    6    妈妈   NN              (NP*))  -    -   -    _bill_shen_       *             *      *         *             *    (3)
+wb/cmn/00/cmn_0011   0    7     去   VV               (VP*   -   02   -    _bill_shen_       *             *    (V*)        *             *     -
+wb/cmn/00/cmn_0011   0    8     炸   VV               (VP*   -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0    9    年糕   NN           (NP*)))))  -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0   10     的   SP                  *)  -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0   11     ，   PU                  *   -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0   12    年糕   NN         (CP(IP(NP*)  -    -   -    _bill_shen_       *             *      *    (ARG0*)            *     -
+wb/cmn/00/cmn_0011   0   13     潮   VA              (VP*))  -   01   -    _bill_shen_       *             *      *       (V*)            *     -
+wb/cmn/00/cmn_0011   0   14     的   SP                  *)  -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0   15     ，   PU                  *   -    -   -    _bill_shen_       *             *      *         *             *     -
+wb/cmn/00/cmn_0011   0   16    没有   AD       (IP(VP(ADVP*)  -    -   -    _bill_shen_       *             *      *         *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   17     炸   VV           (VP(VRD*   -   01   -    _bill_shen_       *             *      *         *           (V*)    -
+wb/cmn/00/cmn_0011   0   18     好   VA            *)))))))  -    -   -    _bill_shen_       *             *)     *         *             *     -
+wb/cmn/00/cmn_0011   0   19     。   PU                 *))  -    -   -    _bill_shen_       *             *      *         *             *     -
+
+wb/cmn/00/cmn_0011   0    0     然后    AD   (TOP(IP(IP(VP(VP(ADVP*)  -    -   -    _bill_shen_  *    (ARGM-DIS*)       *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    1     自己    PN                     (NP*)  -    -   -    _bill_shen_  *    (ARGM-ADV*)       *      *      *             *        *             *         *    (7)
+wb/cmn/00/cmn_0011   0    2     弹琴    VV                    (VP*))  -   01   -    _bill_shen_  *           (V*)       *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    3      ，    PU                        *   -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    4     知道    VV                     (VP*   -   01   -    _bill_shen_  *             *      (V*)     *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    5      把    BA               (IP(VP(VP*   -    -   -    _bill_shen_  *             *   (ARG1*      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    6     声音    NN                  (IP(NP*)  -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    7      调    VV                 (VP(VRD*   -   01   -    _bill_shen_  *             *        *    (V*)     *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    8      低    VA                     *))))  -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0    9      ，    PU                        *   -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0   10      不    AD                (VP(ADVP*)  -    -   -    _bill_shen_  *             *        *      *      *    (ARGM-ADV*)       *             *         *     -
+wb/cmn/00/cmn_0011   0   11      能    VV                     (VP*   -   01   -    _bill_shen_  *             *        *      *    (V*)            *        *             *         *     -
+wb/cmn/00/cmn_0011   0   12     打扰    VV                     (VP*   -   01   -    _bill_shen_  *             *        *      *      *           (V*)       *             *         *     -
+wb/cmn/00/cmn_0011   0   13     隔壁    NN                  (IP(NP*   -    -   -    _bill_shen_  *             *        *      *      *        (ARG1*   (ARG0*             *         *     -
+wb/cmn/00/cmn_0011   0   14    老奶奶    NN                        *)  -    -   -    _bill_shen_  *             *        *      *      *             *        *)            *         *     -
+wb/cmn/00/cmn_0011   0   15     休息    VV            (VP*))))))))))  -   01   -    _bill_shen_  *             *        *)     *      *             *)     (V*)            *         *     -
+wb/cmn/00/cmn_0011   0   16      ，    PU                        *   -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0   17      真    AD             (IP(VP(ADVP*)  -    -   -    _bill_shen_  *             *        *      *      *             *        *    (ARGM-ADV*)        *     -
+wb/cmn/00/cmn_0011   0   18      是    VC                     (VP*   -   01   -    _bill_shen_  *             *        *      *      *             *        *           (V*)        *     -
+wb/cmn/00/cmn_0011   0   19     懂事    VV        (NP(CP(CP(IP(VP*))  -   01   -    _bill_shen_  *             *        *      *      *             *        *        (ARG1*       (V*)    -
+wb/cmn/00/cmn_0011   0   20      的   DEC                       *))  -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+wb/cmn/00/cmn_0011   0   21     宝宝    NN                 (NP*)))))  -    -   -    _bill_shen_  *             *        *      *      *             *        *             *)   (ARG0*)    -
+wb/cmn/00/cmn_0011   0   22      。    PU                       *))  -    -   -    _bill_shen_  *             *        *      *      *             *        *             *         *     -
+
+wb/cmn/00/cmn_0011   0    0    爸爸   NN       (TOP(IP(IP(NP*)  -    -   -    _bill_shen_         *    (ARG0*)            *             *    (1)
+wb/cmn/00/cmn_0011   0    1     酒   NN                 (NP*)  -    -   -    _bill_shen_         *    (ARG1*)            *             *     -
+wb/cmn/00/cmn_0011   0    2     喝   VV             (VP(VRD*   -   01   -    _bill_shen_         *       (V*)            *             *     -
+wb/cmn/00/cmn_0011   0    3     多   VA                    *)  -    -   -    _bill_shen_         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    4     了   AS                   *))  -    -   -    _bill_shen_         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    5     ，   PU                    *   -    -   -    _bill_shen_         *         *             *             *     -
+wb/cmn/00/cmn_0011   0    6    没有   AD   (CP(IP(VP(VP(ADVP*)  -    -   -    _bill_shen_         *         *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0011   0    7     和    P                 (PP*   -    -   -    _bill_shen_         *         *    (ARGM-ADV*             *     -
+wb/cmn/00/cmn_0011   0    8    清清   NR                (NP*))  -    -   -    _bill_shen_   (PERSON)        *             *)            *    (7)
+wb/cmn/00/cmn_0011   0    9    怎么   AD               (ADVP*)  -    -   -    _bill_shen_         *         *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0011   0   10     说   VV                (VP*))  -   01   -    _bill_shen_         *         *           (V*)            *     -
+wb/cmn/00/cmn_0011   0   11     就   AD            (VP(ADVP*)  -    -   -    _bill_shen_         *         *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0011   0   12    睡觉   VV              (VP*))))  -   01   -    _bill_shen_         *         *             *           (V*)    -
+wb/cmn/00/cmn_0011   0   13     了   SP                    *)  -    -   -    _bill_shen_         *         *             *             *     -
+wb/cmn/00/cmn_0011   0   14     。   PU                   *))  -    -   -    _bill_shen_         *         *             *             *     -
+
+#end document

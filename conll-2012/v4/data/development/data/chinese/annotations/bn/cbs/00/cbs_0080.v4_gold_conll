@@ -1,0 +1,133 @@
+#begin document (bn/cbs/00/cbs_0080); part 000
+bn/cbs/00/cbs_0080   0    0     美国    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -        (GPE)       (ARG0*   (ARG0*        *             *             *         *         *         *    (2|(3)
+bn/cbs/00/cbs_0080   0    1     总统    NN               (NP*))  -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    2    克林顿    NR               (NP*))  -    -   -   -     (PERSON)            *)       *)       *             *             *         *         *         *        2)
+bn/cbs/00/cbs_0080   0    3    １３号    NT          (VP(VP(NP*)  -    -   -   -       (DATE)   (ARGM-TMP*)       *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    4     起程    VV            (VP(VSB*   -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    5     前往    VV                   *)  -   01   -   -           *           (V*)       *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    6     亚洲    NR              (NP*)))  -    -   -   -        (LOC)       (ARG1*)       *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    7      ，    PU                   *   -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    8     准备    VV                (VP*   -   02   2   -           *             *      (V*)       *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0    9     出席    VV             (IP(VP*   -   01   -   -           *             *   (ARG1*      (V*)            *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   10      他    PN             (NP(NP*)  -    -   -   -           *             *        *   (ARG1*             *             *         *         *         *    (0|(2)
+bn/cbs/00/cbs_0080   0   11     担任    VV    (NP(CP(IP(VP(VP*   -   01   -   -           *             *        *        *           (V*)            *         *         *         *        -
+bn/cbs/00/cbs_0080   0   12     总统    NN            (NP*)))))  -    -   -   -           *             *        *        *        (ARG1*)            *         *         *         *        -
+bn/cbs/00/cbs_0080   0   13     任内    NN               (NP*))  -    -   -   -           *             *        *        *    (ARGM-TMP*)            *         *         *         *        -
+bn/cbs/00/cbs_0080   0   14     最后    JJ       (DNP(QP(ADJP*)  -    -   -   -   (ORDINAL*             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   15      一    CD                (QP*   -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   16      次     M             (CLP*)))  -    -   -   -           *)            *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   17      的   DEG                   *)  -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   18     亚太    NR                (NP*)  -    -   -   -        (LOC)            *        *        *             *             *         *         *         *       (1)
+bn/cbs/00/cbs_0080   0   19     经济    NN                (NP*   -    -   2   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   20     合作    NN                   *   -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   21     会议    NN                   *   -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   22    高峰会    NN              *))))))  -    -   -   -           *             *        *)       *)            *             *         *         *         *        0)
+bn/cbs/00/cbs_0080   0   23      ，    PU                   *   -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   24     同时    AD           (IP(ADVP*)  -    -   -   -           *             *        *        *             *    (ARGM-ADV*)        *         *         *        -
+bn/cbs/00/cbs_0080   0   25      他    PN                (NP*)  -    -   -   -           *             *        *        *             *        (ARG0*)        *         *         *       (2)
+bn/cbs/00/cbs_0080   0   26      也    AD           (VP(ADVP*)  -    -   -   -           *             *        *        *             *    (ARGM-ADV*)        *         *         *        -
+bn/cbs/00/cbs_0080   0   27      将    AD              (ADVP*)  -    -   -   -           *             *        *        *             *    (ARGM-ADV*)        *         *         *        -
+bn/cbs/00/cbs_0080   0   28     成为    VV                (VP*   -   01   -   -           *             *        *        *             *           (V*)        *         *         *        -
+bn/cbs/00/cbs_0080   0   29     越南    NR      (NP(LCP(IP(NP*)  -    -   -   -        (GPE)            *        *        *             *        (ARG1*    (ARG1*)        *         *       (4)
+bn/cbs/00/cbs_0080   0   30     统一    VV               (VP*))  -   01   -   -           *             *        *        *             *             *       (V*)        *         *        -
+bn/cbs/00/cbs_0080   0   31      后    LC                   *)  -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   32     第一    OD                (QP*   -    -   -   -   (ORDINAL*             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   33      位     M              (CLP*))  -    -   2   -           *)            *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   34     前往    VV    (CP(CP(IP(VP(VP*   -   01   -   -           *             *        *        *             *             *         *       (V*)        *        -
+bn/cbs/00/cbs_0080   0   35     当地    NN               (NP*))  -    -   -   -           *             *        *        *             *             *         *    (ARG1*)        *       (4)
+bn/cbs/00/cbs_0080   0   36     访问    VV              (VP*)))  -   01   -   -           *             *        *        *             *             *         *         *       (V*)       -
+bn/cbs/00/cbs_0080   0   37      的   DEC                  *))  -    -   -   -           *             *        *        *             *             *         *         *         *        -
+bn/cbs/00/cbs_0080   0   38     美国    NR                (NP*)  -    -   -   -        (GPE)            *        *        *             *             *         *         *         *       (3)
+bn/cbs/00/cbs_0080   0   39     总统    NN            (NP*)))))  -    -   -   -           *             *        *        *             *             *)        *    (ARG0*)   (ARG0*)       -
+bn/cbs/00/cbs_0080   0   40      。    PU                  *))  -    -   -   -           *             *        *        *             *             *         *         *         *        -
+
+bn/cbs/00/cbs_0080   0    0     虽然    CS   (TOP(IP(CP(ADVP*)  -    -   -   -          *             *             *    (ARGM-DIS*)   (ARGM-ADV*    (ARGM-ADV*     -
+bn/cbs/00/cbs_0080   0    1     美国    NR            (IP(NP*)  -    -   -   -       (GPE)            *             *        (ARG0*)            *             *    (3)
+bn/cbs/00/cbs_0080   0    2     因为     P               (PP*   -    -   -   -          *             *             *    (ARGM-PRP*             *             *     -
+bn/cbs/00/cbs_0080   0    3     总统    NN            (IP(NP*   -    -   -   -          *        (ARG0*        (ARG0*             *             *             *     -
+bn/cbs/00/cbs_0080   0    4     大选    NN                  *   -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0    5     结果    NN                  *)  -    -   -   -          *             *)            *)            *             *             *     -
+bn/cbs/00/cbs_0080   0    6     迟迟    AD          (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *     -
+bn/cbs/00/cbs_0080   0    7      未    AD             (ADVP*)  -    -   1   -          *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *     -
+bn/cbs/00/cbs_0080   0    8      能    VV               (VP*   -   01   1   -          *           (V*)            *             *             *             *     -
+bn/cbs/00/cbs_0080   0    9     出炉    VV           (VP*)))))  -   01   -   -          *    (ARGM-ADV*)          (V*)            *)            *             *     -
+bn/cbs/00/cbs_0080   0   10      ，    PU                  *   -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   11      全    DT            (NP(NP*)  -    -   2   -          *             *             *        (ARG0*             *             *    (3
+bn/cbs/00/cbs_0080   0   12      国    NN              (NP*))  -    -   -   -          *             *             *             *)            *             *     3)
+bn/cbs/00/cbs_0080   0   13     陷入    VV               (VP*   -   01   -   -          *             *             *           (V*)            *             *     -
+bn/cbs/00/cbs_0080   0   14      一    CD        (LCP(NP(QP*   -    -   -   -          *             *             *        (ARG1*             *             *     -
+bn/cbs/00/cbs_0080   0   15      阵     M             (CLP*))  -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   16     混乱    NN              (NP*))  -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   17     当中    LC               *))))  -    -   -   -          *             *             *             *)            *)            *)    -
+bn/cbs/00/cbs_0080   0   18      ，    PU                  *   -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   19     不过    AD             (ADVP*)  -    -   -   -          *             *             *             *    (ARGM-DIS*)   (ARGM-DIS*)    -
+bn/cbs/00/cbs_0080   0   20    克林顿    NR               (NP*)  -    -   -   -    (PERSON)            *             *             *        (ARG0*)       (ARG0*)   (2)
+bn/cbs/00/cbs_0080   0   21     仍然    AD       (VP(VP(ADVP*)  -    -   -   -          *             *             *             *    (ARGM-ADV*)            *     -
+bn/cbs/00/cbs_0080   0   22     前往    VV               (VP*   -   01   -   -          *             *             *             *           (V*)            *     -
+bn/cbs/00/cbs_0080   0   23     文莱    NR             (NP*)))  -    -   -   -       (GPE)            *             *             *        (ARG1*)            *     -
+bn/cbs/00/cbs_0080   0   24      ，    PU                  *   -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   25     出席    VV               (VP*   -   01   -   -          *             *             *             *             *           (V*)    -
+bn/cbs/00/cbs_0080   0   26      在     P        (NP(DNP(PP*   -    -   2   -          *             *             *             *             *        (ARG1*    (0
+bn/cbs/00/cbs_0080   0   27    １１月    NT            (NP(NP*)  -    -   -   -     (DATE*             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   28    １５号    NT               (NP*   -    -   -   -          *)            *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   29      到    CC                  *   -    -   5   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   30    １６号    NT                *)))  -    -   -   -      (DATE)            *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   31      的   DEG                  *)  -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   32     亚太    NR               (NP*)  -    -   -   -       (LOC)            *             *             *             *             *    (1)
+bn/cbs/00/cbs_0080   0   33     经合    NN               (NP*   -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   34     会议    NN                  *)  -    -   -   -          *             *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   35    高峰会    NN            (NP*))))  -    -   -   -          *             *             *             *             *             *)    0)
+bn/cbs/00/cbs_0080   0   36      。    PU                 *))  -    -   -   -          *             *             *             *             *             *     -
+
+bn/cbs/00/cbs_0080   0    0     同时    AD   (TOP(IP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0080   0    1      他    PN            (NP*)  -    -   -   -       *        (ARG0*)   (2)
+bn/cbs/00/cbs_0080   0    2      也    AD       (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0080   0    3      将    AD          (ADVP*)  -    -   -   -       *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0080   0    4     分别    AD          (ADVP*)  -    -   -   -       *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0080   0    5      和     P            (PP*   -    -   -   -       *        (ARG0*     -
+bn/cbs/00/cbs_0080   0    6    俄罗斯    NR     (NP(DNP(NP*   -    -   -   -    (GPE)            *     -
+bn/cbs/00/cbs_0080   0    7      、    PU               *   -    -   -   -       *             *     -
+bn/cbs/00/cbs_0080   0    8     南韩    NR               *   -    -   -   -    (GPE)            *     -
+bn/cbs/00/cbs_0080   0    9      、    PU               *   -    -   -   -       *             *     -
+bn/cbs/00/cbs_0080   0   10     日本    NR               *   -    -   -   -    (GPE)            *     -
+bn/cbs/00/cbs_0080   0   11      跟    CC               *   -    -   4   -       *             *     -
+bn/cbs/00/cbs_0080   0   12     中共    NR               *)  -    -   -   -    (ORG)            *     -
+bn/cbs/00/cbs_0080   0   13      的   DEG               *)  -    -   -   -       *             *     -
+bn/cbs/00/cbs_0080   0   14    领导人    NN          (NP*)))  -    -   -   -       *             *)    -
+bn/cbs/00/cbs_0080   0   15     进行    VV            (VP*   -   01   3   -       *           (V*)    -
+bn/cbs/00/cbs_0080   0   16     会晤    NN          (NP*)))  -    -   2   -       *        (ARG1*)    -
+bn/cbs/00/cbs_0080   0   17      。    PU              *))  -    -   -   -       *             *     -
+
+bn/cbs/00/cbs_0080   0    0    高峰会    NN      (TOP(IP(LCP(NP*)  -    -   -   -          *    (ARGM-TMP*    (ARGM-TMP*    (ARGM-TMP*    (ARGM-TMP*    (0)
+bn/cbs/00/cbs_0080   0    1      后    LC                    *)  -    -   -   -          *             *)            *)            *)            *)    -
+bn/cbs/00/cbs_0080   0    2    克林顿    NR                 (NP*)  -    -   -   -    (PERSON)       (ARG0*)       (ARG0*)       (ARG0*)       (ARG0*)   (2)
+bn/cbs/00/cbs_0080   0    3      还    AD            (VP(ADVP*)  -    -   -   -          *    (ARGM-DIS*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cbs/00/cbs_0080   0    4      将    AD               (ADVP*)  -    -   -   -          *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cbs/00/cbs_0080   0    5     前往    VV              (VP(VP*   -   01   -   -          *           (V*)            *             *             *     -
+bn/cbs/00/cbs_0080   0    6     越南    NR                (NP*))  -    -   -   -       (GPE)       (ARG1*)            *             *             *    (4)
+bn/cbs/00/cbs_0080   0    7     进行    VV                 (VP*   -   01   3   -          *             *           (V*)            *             *     -
+bn/cbs/00/cbs_0080   0    8      三    CD              (NP(QP*   -    -   -   -     (DATE*             *        (ARG1*             *             *     -
+bn/cbs/00/cbs_0080   0    9      天     M               (CLP*))  -    -   -   -          *)            *             *             *             *     -
+bn/cbs/00/cbs_0080   0   10    历史性    JJ               (ADJP*)  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   11     访问    NN                 (NP*   -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   12     行程    NN                  *)))  -    -   -   -          *             *             *)            *             *     -
+bn/cbs/00/cbs_0080   0   13      ，    PU                    *   -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   14     推动    VV                 (VP*   -   02   1   -          *             *             *           (V*)            *     -
+bn/cbs/00/cbs_0080   0   15     美国    NR   (NP(DNP(LCP(NP(NP*)  -    -   -   -       (GPE)            *             *        (ARG1*             *    (3)
+bn/cbs/00/cbs_0080   0   16      与    CC                    *   -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   17     越南    NR              (NP(NP*)  -    -   -   -       (GPE)            *             *             *             *    (4)
+bn/cbs/00/cbs_0080   0   18      这    DT              (NP(DP*   -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   19      个     M               (CLP*))  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   20      前    JJ               (ADJP*)  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   21     敌国    NN              (NP*))))  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   22     之间    LC                    *)  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   23      的   DEG                    *)  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   24     关系    NN               (NP*)))  -    -   2   -          *             *             *             *)            *     -
+bn/cbs/00/cbs_0080   0   25      ，    PU                    *   -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   26     处理    VV                 (VP*   -   02   2   -          *             *             *             *           (V*)    -
+bn/cbs/00/cbs_0080   0   27     越战    NR          (NP(DNP(NP*)  -    -   -   -          *             *             *             *        (ARG1*     -
+bn/cbs/00/cbs_0080   0   28      的   DEG                    *)  -    -   -   -          *             *             *             *             *     -
+bn/cbs/00/cbs_0080   0   29     伤痕    NN             (NP*)))))  -    -   -   -          *             *             *             *             *)    -
+bn/cbs/00/cbs_0080   0   30      。    PU                   *))  -    -   -   -          *             *             *             *             *     -
+
+#end document

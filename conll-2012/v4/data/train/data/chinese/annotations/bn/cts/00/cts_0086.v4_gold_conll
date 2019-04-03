@@ -1,0 +1,340 @@
+#begin document (bn/cts/00/cts_0086); part 000
+bn/cts/00/cts_0086   0    0      显然    AD   (TOP(IP(IP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)     *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    1      今天    NT               (NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)     *             *             *        *             *             *        *      *             *             *         *             *         *     (4)
+bn/cts/00/cts_0086   0    2       “    PU            (NP(NP*   -    -   -   -          *        (ARG1*      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    3       扁    NR               (NP*   -    -   -   -    (PERSON)            *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    4       连    NR                  *)  -    -   -   -    (PERSON)            *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    5       会    NN               (NP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    6       ”    PU                  *)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    7      重点    NN              (NP*))  -    -   -   -          *             *)     *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    8       就    AD          (VP(ADVP*)  -    -   8   -          *    (ARGM-ADV*)     *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0    9       摆    VV               (VP*   -   01   1   -          *           (V*)     *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   10       在     P               (PP*   -    -   2   -          *    (ARGM-LOC*      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   11     核四案    NN            (IP(NP*)  -    -   -   -       (FAC)            *      *        (ARG1*)            *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   12      到底    AD          (VP(ADVP*)  -    -   -   -          *             *      *    (ARGM-ADV*)            *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   13      什么    DT            (NP(DP*)  -    -   -   -          *             *      *    (ARGM-TMP*             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   14      时候    NN              (NP*))  -    -   -   -          *             *      *             *)            *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   15       会    VV               (VP*   -   01   -   -          *             *    (V*)            *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   16      决定    VV        (VP*))))))))  -   01   -   -          *             *)     *           (V*)            *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   17       ，    PU                  *   -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   18       而    AD          (IP(ADVP*)  -    -   -   -          *             *      *             *    (ARGM-DIS*)       *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   19      事实    NN           (LCP(NP*)  -    -   -   -          *             *      *             *    (ARGM-ADV*        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   20       上    LC                  *)  -    -   3   -          *             *      *             *             *)       *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   21     陈水扁    NR               (NP*)  -    -   -   -    (PERSON)            *      *             *        (ARG0*)       *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   22      特别    AD          (VP(ADVP*)  -    -   -   -          *             *      *             *    (ARGM-ADV*)       *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   23      强调    VV               (VP*   -   01   -   -          *             *      *             *           (V*)       *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   24      希望    VV            (IP(VP*   -   02   1   -          *             *      *             *        (ARG1*      (V*)            *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   25       越    AD    (IP(VP(VP(ADVP*)  -    -   -   -          *             *      *             *             *   (ARG1*    (ARGM-ADV*)            *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   26       快    AD             (ADVP*)  -    -   1   -          *             *      *             *             *        *    (ARGM-ADV*)            *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   27      决定    VV              (VP*))  -   01   -   -          *             *      *             *             *        *           (V*)            *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   28       越    AD          (VP(ADVP*)  -    -   -   -          *             *      *             *             *        *             *    (ARGM-ADV*)       *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   29       好    VA       (VP*)))))))))  -   01   1   -          *             *      *             *             *)       *)            *           (V*)       *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   30       ，    PU                  *   -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   31     民进党    NR      (IP(NP(NP(NP*)  -    -   -   -       (ORG)            *      *             *             *        *             *             *   (ARG0*      *             *             *         *             *         *     (5)
+bn/cts/00/cts_0086   0   32      立委    NN              (NP*))  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   33     施明德    NR              (NP*))  -    -   -   -    (PERSON)            *      *             *             *        *             *             *        *)     *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   34       说    VV               (VP*   -   01   7   -          *             *      *             *             *        *             *             *      (V*)     *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   35       ，    PU                  *   -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   36     行政院    NN            (IP(NP*)  -    -   -   -       (ORG)            *      *             *             *        *             *             *   (ARG1*      *        (ARG0*)            *         *             *         *    (10)
+bn/cts/00/cts_0086   0   37       将    AD          (VP(ADVP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *    (ARGM-ADV*)            *         *             *         *      -
+bn/cts/00/cts_0086   0   38       会    VV               (VP*   -   01   -   -          *             *      *             *             *        *             *             *        *    (V*)            *             *         *             *         *      -
+bn/cts/00/cts_0086   0   39       在     P            (VP(PP*   -    -   2   -          *             *      *             *             *        *             *             *        *      *    (ARGM-TMP*             *         *             *         *      -
+bn/cts/00/cts_0086   0   40     １１月    NT           (LCP(NP*   -    -   -   -     (DATE*             *      *             *             *        *             *             *        *      *             *             *         *             *         *     (6
+bn/cts/00/cts_0086   0   41     １５号    NT                  *)  -    -   -   -          *)            *      *             *             *        *             *             *        *      *             *             *         *             *         *      6)
+bn/cts/00/cts_0086   0   42      以前    LC                 *))  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *)            *         *             *         *      -
+bn/cts/00/cts_0086   0   43      宣布    VV         (VP*)))))))  -   01   -   -          *             *      *             *             *        *             *             *        *)     *           (V*)            *         *             *         *      -
+bn/cts/00/cts_0086   0   44       ，    PU                  *   -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   45      但是    AD          (IP(ADVP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *    (ARGM-ADV*)        *             *         *      -
+bn/cts/00/cts_0086   0   46    行政院长    NN            (NP(NP*)  -    -   -   -       (ORG)            *      *             *             *        *             *             *        *      *             *        (ARG0*         *             *         *     (0
+bn/cts/00/cts_0086   0   47     张俊雄    NR              (NP*))  -    -   -   -    (PERSON)            *      *             *             *        *             *             *        *      *             *             *)        *             *         *      0)
+bn/cts/00/cts_0086   0   48      今天    NT            (VP(NP*)  -    -   -   -      (DATE)            *      *             *             *        *             *             *        *      *             *    (ARGM-TMP*)        *             *         *     (4)
+bn/cts/00/cts_0086   0   49       又    AD             (ADVP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *    (ARGM-ADV*)        *             *         *      -
+bn/cts/00/cts_0086   0   50       说    VV               (VP*   -   01   7   -          *             *      *             *             *        *             *             *        *      *             *           (V*)        *             *         *      -
+bn/cts/00/cts_0086   0   51       ，    PU                  *   -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   52       他    PN         (IP(IP(NP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *        (ARG1*    (ARG0*)            *         *     (0)
+bn/cts/00/cts_0086   0   53      尊重    VV               (VP*   -   01   -   -          *             *      *             *             *        *             *             *        *      *             *             *       (V*)            *         *      -
+bn/cts/00/cts_0086   0   54     立法院    NN        (NP(DNP(NP*)  -    -   -   -       (ORG)            *      *             *             *        *             *             *        *      *             *             *    (ARG1*             *         *    (13)
+bn/cts/00/cts_0086   0   55       的   DEG                  *)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   56      决定    NN            (NP*))))  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *)            *         *      -
+bn/cts/00/cts_0086   0   57       ，    PU                  *   -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   58      年底    NT            (IP(NP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *        (ARG0*)        *      -
+bn/cts/00/cts_0086   0   59       才    AD          (VP(ADVP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *    (ARGM-ADV*)        *      -
+bn/cts/00/cts_0086   0   60       是    VC               (VP*   -   01   1   -          *             *      *             *             *        *             *             *        *      *             *             *         *           (V*)        *      -
+bn/cts/00/cts_0086   0   61       他    PN   (NP(CP(CP(IP(NP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *        (ARG1*    (ARG0*)    (0)
+bn/cts/00/cts_0086   0   62      认为    VV              (VP*))  -   01   1   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *       (V*)     -
+bn/cts/00/cts_0086   0   63       的   DEC                 *))  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   64      最后    JJ             (ADJP*)  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+bn/cts/00/cts_0086   0   65      期限    NN       (NP*)))))))))  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *)        *             *)   (ARG1*)     -
+bn/cts/00/cts_0086   0   66       。    PU                 *))  -    -   -   -          *             *      *             *             *        *             *             *        *      *             *             *         *             *         *      -
+
+bn/cts/00/cts_0086   0    0    亲民党    NR   (TOP(IP(IP(NP(NP*)  -    -   -   -       (ORG)       (ARG0*             *             *        *        *        *         *         *     (1)
+bn/cts/00/cts_0086   0    1     立委    NN               (NP*))  -    -   -   -          *             *)            *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0    2     一字    AD           (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)            *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0    3     排开    VV              (VP*)))  -   01   -   -          *           (V*)            *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0    4      ，    PU                   *   -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0    5      再    AD        (IP(VP(ADVP*)  -    -   -   -          *             *    (ARGM-ADV*)            *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0    6     加上    VV                (VP*   -   01   -   -          *             *           (V*)            *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0    7    国民党    NR          (IP(NP(NP*)  -    -   -   -    (PERSON)            *        (ARG1*        (ARG0*        *        *        *         *         *     (3)
+bn/cts/00/cts_0086   0    8    陈兴宝    NR               (NP*))  -    -   -   -    (PERSON)            *             *             *)       *        *        *         *         *      -
+bn/cts/00/cts_0086   0    9     热情    AD           (VP(ADVP*)  -    -   -   -          *             *             *    (ARGM-ADV*)       *        *        *         *         *      -
+bn/cts/00/cts_0086   0   10     赞助    VV           (VP*))))))  -   01   -   -          *             *             *)          (V*)       *        *        *         *         *      -
+bn/cts/00/cts_0086   0   11      ，    PU                   *   -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   12     希望    VV             (IP(VP*   -   02   1   -          *             *             *             *      (V*)       *        *         *         *      -
+bn/cts/00/cts_0086   0   13     团结    VV          (IP(VP(VP*   -   01   1   -          *             *             *             *   (ARG1*      (V*)       *         *         *      -
+bn/cts/00/cts_0086   0   14     在野    JJ    (NP(DNP(NP(ADJP*)  -    -   -   -          *             *             *             *        *   (ARG1*        *         *         *     (2
+bn/cts/00/cts_0086   0   15      党    NN               (NP*))  -    -   -   -          *             *             *             *        *        *        *         *         *      2)
+bn/cts/00/cts_0086   0   16      的   DEG                   *   -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   17     力量    NN             (NP*))))  -    -   -   -          *             *             *             *        *        *)       *         *         *      -
+bn/cts/00/cts_0086   0   18     串联    VV            (VP(VSB*   -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   19     倒戈    VV                   *)  -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   20      ，    PU                   *   -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   21     倡议    VV       (NP(CP(IP(VP*   -   01   -   -          *             *             *             *        *        *      (V*)        *         *      -
+bn/cts/00/cts_0086   0   22    行政院    NN             (IP(NP*)  -    -   -   -       (ORG)            *             *             *        *        *   (ARG1*    (ARG0*)        *    (10)
+bn/cts/00/cts_0086   0   23     倾向    VV                (VP*   -   01   -   -          *             *             *             *        *        *        *       (V*)        *      -
+bn/cts/00/cts_0086   0   24     停建    VV             (IP(VP*   -   01   -   -          *             *             *             *        *        *        *    (ARG1*       (V*)     -
+bn/cts/00/cts_0086   0   25     核四    NR          (NP*)))))))  -    -   -   -       (FAC)            *             *             *        *        *        *)        *)   (ARG1*)    (9)
+bn/cts/00/cts_0086   0   26      的   DEC                   *)  -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   27     违法    JJ              (ADJP*)  -    -   -   -          *             *             *             *        *        *        *         *         *      -
+bn/cts/00/cts_0086   0   28     行为    NN          (NP*)))))))  -    -   -   -          *             *             *             *        *)       *        *         *         *      -
+bn/cts/00/cts_0086   0   29      。    PU                  *))  -    -   -   -          *             *             *             *        *        *        *         *         *      -
+
+bn/cts/00/cts_0086   0    0      “    PU     (TOP(IP*   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0    1    老百姓    NN   (IP(IP(NP*)  -    -   -   -   *        (ARG0*)     *             *      *             *     (8)
+bn/cts/00/cts_0086   0    2     如果    CS    (VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)     *             *      *             *      -
+bn/cts/00/cts_0086   0    3     违法    VV       (VP*)))  -   01   -   -   *           (V*)     *             *      *             *      -
+bn/cts/00/cts_0086   0    4      的   DEC        (FLR*   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0    5     时候    NN            *)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0    6      他    PN         (NP*)  -    -   -   -   *             *      *             *      *             *     (8)
+bn/cts/00/cts_0086   0    7      就    AD    (VP(ADVP*)  -    -   2   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0    8     必须    VV         (VP*   -   01   -   -   *             *    (V*)            *      *             *      -
+bn/cts/00/cts_0086   0    9      被    SB         (VP*   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   10     判刑    VV      (VP(VP*)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   11      ，    PU            *   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   12     依法    AD    (VP(ADVP*)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   13     判刑    VV   (VP*)))))))  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   14      ；    PU            *   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   15     民意    NN   (IP(IP(NP*   -    -   -   -   *             *      *        (ARG0*      *             *    (12
+bn/cts/00/cts_0086   0   16     代表    NN            *)  -    -   -   -   *             *      *             *)     *             *     12)
+bn/cts/00/cts_0086   0   17     如果    CS    (VP(ADVP*)  -    -   -   -   *             *      *    (ARGM-DIS*)     *             *      -
+bn/cts/00/cts_0086   0   18     违法    VV       (VP*)))  -   01   -   -   *             *      *           (V*)     *             *      -
+bn/cts/00/cts_0086   0   19      的   DEC        (FLR*   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   20     时候    NN            *)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   21      他    PN         (NP*)  -    -   -   -   *             *      *             *      *             *    (12)
+bn/cts/00/cts_0086   0   22      就    AD    (VP(ADVP*)  -    -   2   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   23     必须    VV         (VP*   -   01   -   -   *             *      *             *    (V*)            *      -
+bn/cts/00/cts_0086   0   24      要    VV         (VP*   -    -   3   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   25     辞职    VV     (VP(VCD*   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   26     下台    VV       *))))))  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   27      ；    PU            *   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   28      那    AD    (IP(ADVP*)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   29     如果    CS    (CP(ADVP*)  -    -   -   -   *             *      *             *      *    (ARGM-DIS*)     -
+bn/cts/00/cts_0086   0   30     国家    NN      (IP(NP*)  -    -   -   -   *             *      *             *      *        (ARG0*)   (11)
+bn/cts/00/cts_0086   0   31     违法    VV       (VP*)))  -   01   -   -   *             *      *             *      *           (V*)     -
+bn/cts/00/cts_0086   0   32      的   DEC        (FLR*   -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   33     时候    NN            *)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   34      要    VV         (VP*   -    -   3   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   35     怎么    AD    (VP(ADVP*)  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   36      办    VV      (VP*))))  -    -   -   -   *             *      *             *      *             *      -
+bn/cts/00/cts_0086   0   37      ？    PU           *))  -    -   -   -   *             *      *             *      *             *      -
+
+bn/cts/00/cts_0086   0    0    我们   PN   (TOP(CP(IP(NP*)  -    -   -   -   *        (ARG0*)       (ARG0*)     *     -
+bn/cts/00/cts_0086   0    1     就   AD        (VP(ADVP*)  -    -   2   -   *    (ARGM-ADV*)   (ARGM-ADV*)     *     -
+bn/cts/00/cts_0086   0    2     要   VV          (VP(VP*   -   04   2   -   *           (V*)            *      *     -
+bn/cts/00/cts_0086   0    3     它   PN             (NP*)  -    -   -   -   *        (ARG1*)            *      *    (7)
+bn/cts/00/cts_0086   0    4    倒戈   VV        (IP(VP*)))  -    -   -   -   *    (ARGM-ADV*)            *      *     -
+bn/cts/00/cts_0086   0    5     ，   PU                *   -    -   -   -   *             *             *      *     -
+bn/cts/00/cts_0086   0    6     让   VV             (VP*   -   02   2   -   *             *           (V*)     *     -
+bn/cts/00/cts_0086   0    7     它   PN             (NP*)  -    -   -   -   *             *        (ARG1*)     *    (7)
+bn/cts/00/cts_0086   0    8    下台   VV     (IP(VP*))))))  -   01   -   -   *             *        (ARG2*)   (V*)    -
+bn/cts/00/cts_0086   0    9     嘛   SP                *   -    -   -   -   *             *             *      *     -
+bn/cts/00/cts_0086   0   10     。   PU                *   -    -   -   -   *             *             *      *     -
+bn/cts/00/cts_0086   0   11     ”   PU               *))  -    -   -   -   *             *             *      *     -
+
+bn/cts/00/cts_0086   0    0    立法院    NN   (TOP(IP(NP(DNP(NP(NP*)  -    -   -   -    (ORG)       (ARG0*    (13)
+bn/cts/00/cts_0086   0    1     朝野    NN                    (NP*   -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0    2     政党    NN                      *))  -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0    3      的   DEG                       *)  -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0    4     核四    NR                    (NP*)  -    -   -   -    (FAC)            *     (9)
+bn/cts/00/cts_0086   0    5     大战    NN                   (NP*))  -    -   -   -       *             *)     -
+bn/cts/00/cts_0086   0    6      ，    PU                       *   -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0    7     几乎    AD               (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)     -
+bn/cts/00/cts_0086   0    8     已经    AD                  (ADVP*)  -    -   -   -       *    (ARGM-ADV*)     -
+bn/cts/00/cts_0086   0    9      到    VV                    (VP*   -   01   3   -       *           (V*)     -
+bn/cts/00/cts_0086   0   10      了    AS                       *   -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0   11     全面    AD      (NP(CP(IP(VP(ADVP*)  -    -   -   -       *        (ARG1*      -
+bn/cts/00/cts_0086   0   12     开打    VV                  (VP*)))  -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0   13      的   DEC                       *)  -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0   14     紧绷    JJ                  (ADJP*)  -    -   -   -       *             *      -
+bn/cts/00/cts_0086   0   15     状态    NN                 (NP*))))  -    -   -   -       *             *)     -
+bn/cts/00/cts_0086   0   16      。    PU                      *))  -    -   -   -       *             *      -
+
+bn/cts/00/cts_0086   0    0     但是    AD       (TOP(IP(ADVP*)  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    1    亲民党    NR             (NP(NP*)  -    -   -   -         (ORG)     *            *    (1)
+bn/cts/00/cts_0086   0    2     倒戈    VV         (CP(IP(VP*))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    3      的   DEC                   *)  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    4     如意    JJ              (ADJP*)  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    5     算盘    NN               (NP*))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    6      却    AD           (VP(ADVP*)  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    7     可能    VV                (VP*   -   01   -   -            *    (V*)           *     -
+bn/cts/00/cts_0086   0    8     因为     P             (VP(PP*   -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0    9     国会    NN   (IP(NP(DNP(NP(NP*)  -    -   -   -         (ORG)     *   (ARGM-TPC*    (3
+bn/cts/00/cts_0086   0   10     最大    JJ              (ADJP*)  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   11      党    NN               (NP*))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   12      的   DEG                   *)  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   13    国民党    NN               (NP*))  -    -   -   -         (ORG)     *            *)    3)
+bn/cts/00/cts_0086   0   14     态度    NN                (NP*)  -    -   -   -            *      *       (ARG0*)    -
+bn/cts/00/cts_0086   0   15     保留    VA              (VP*)))  -   02   3   -            *      *          (V*)    -
+bn/cts/00/cts_0086   0   16      ，    PU                   *   -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   17      而   MSP                (VP*   -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   18     流于    VV                (VP*   -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   19      一    CD             (NP(QP*   -    -   -   -    (CARDINAL)     *            *     -
+bn/cts/00/cts_0086   0   20      个     M              (CLP*))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   21     单纯    VA      (CP(CP(IP(VP*))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   22      的   DEC                  *))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   23     动作    NN          (NP*)))))))  -    -   -   -            *      *            *     -
+bn/cts/00/cts_0086   0   24      。    PU                  *))  -    -   -   -            *      *            *     -
+
+bn/cts/00/cts_0086   0    0      “    PU                (TOP(IP*   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    1     我们    PN                (IP(FLR*)  -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    2     基于     P                    (PP*   -    -   -   -   *      *    (ARGM-PRP*             *    (ARGM-PRP*             *             *      -
+bn/cts/00/cts_0086   0    3      对     P                   (FLR*)  -    -   3   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    4     国家    NN          (NP(NP(DNP(NP*)  -    -   -   -   *      *             *             *             *             *             *    (11)
+bn/cts/00/cts_0086   0    5      的   DEG                       *)  -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    6     稳定    NN                   (NP*))  -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    7      、    PU                       *   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    8     全民    NN             (NP(DNP(NP*)  -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0    9      的   DEG                       *)  -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   10     安定    NN                    (NP*   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   11      、    PU                       *   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   12     福祉    NN                    *))))  -    -   -   -   *      *             *)            *             *)            *             *      -
+bn/cts/00/cts_0086   0   13      ，    PU                       *   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   14     我们    PN                    (NP*)  -    -   -   -   *      *        (ARG0*)            *        (ARG0*)            *             *     (3)
+bn/cts/00/cts_0086   0   15    现阶段    NT                 (VP(NP*)  -    -   -   -   *      *    (ARGM-TMP*)            *    (ARGM-TMP*)            *             *      -
+bn/cts/00/cts_0086   0   16      会    VV                    (VP*   -   01   -   -   *    (V*)            *             *             *             *             *      -
+bn/cts/00/cts_0086   0   17     提出    VV                 (VP(VP*   -   01   -   -   *      *           (V*)            *             *             *             *      -
+bn/cts/00/cts_0086   0   18      不    AD         (NP(IP(VP(ADVP*)  -    -   -   -   *      *        (ARG1*    (ARGM-ADV*)            *             *             *      -
+bn/cts/00/cts_0086   0   19     信任    VV                  (VP*)))  -   01   -   -   *      *             *           (V*)            *             *             *      -
+bn/cts/00/cts_0086   0   20      案    NN                  (NP*)))  -    -   -   -   *      *             *)            *             *             *             *      -
+bn/cts/00/cts_0086   0   21      ，    PU                       *   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   22      持    VV                    (VP*   -   01   -   -   *      *             *             *           (V*)            *             *      -
+bn/cts/00/cts_0086   0   23     相当    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -   *      *             *             *        (ARG1*    (ARGM-ADV*)            *      -
+bn/cts/00/cts_0086   0   24     保留    VA                  (VP*)))  -   02   3   -   *      *             *             *             *           (V*)            *      -
+bn/cts/00/cts_0086   0   25      的   DEC                      *))  -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   26     态度    NN              (NP*)))))))  -    -   -   -   *      *             *             *             *)            *             *      -
+bn/cts/00/cts_0086   0   27      ，    PU                       *   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   28    甚至于    AD               (IP(ADVP*)  -    -   -   -   *      *             *             *             *             *    (ARGM-ADV*)     -
+bn/cts/00/cts_0086   0   29     我们    PN                    (NP*)  -    -   -   -   *      *             *             *             *             *        (ARG0*)    (3)
+bn/cts/00/cts_0086   0   30     反对    VV                   (VP*))  -   01   -   -   *      *             *             *             *             *           (V*)     -
+bn/cts/00/cts_0086   0   31      。    PU                       *   -    -   -   -   *      *             *             *             *             *             *      -
+bn/cts/00/cts_0086   0   32      ”    PU                      *))  -    -   -   -   *      *             *             *             *             *             *      -
+
+bn/cts/00/cts_0086   0    0     由于     P        (TOP(IP(PP*   -    -   -   -        *      *      *    (ARGM-PRP*            *             *         *      -
+bn/cts/00/cts_0086   0    1     在野    JJ       (IP(NP(ADJP*)  -    -   -   -        *      *      *             *            *             *         *     (2
+bn/cts/00/cts_0086   0    2      党    NN              (NP*))  -    -   -   -        *      *      *             *            *             *         *      2)
+bn/cts/00/cts_0086   0    3      也    AD          (VP(ADVP*)  -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0    4     可能    VV               (VP*   -   01   -   -        *    (V*)     *             *            *             *         *      -
+bn/cts/00/cts_0086   0    5     递出    VV               (VP*   -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0    6     背戈    VV            (IP(VP*   -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0    7      总    JJ          (NP(ADJP*)  -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0    8     预算    NN       (NP*)))))))))  -    -   -   -        *      *      *             *)           *             *         *      -
+bn/cts/00/cts_0086   0    9      ，    PU                  *   -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0   10     因此    AD             (ADVP*)  -    -   -   -        *      *      *    (ARGM-DIS*)           *             *         *      -
+bn/cts/00/cts_0086   0   11    行政院    NN               (NP*)  -    -   -   -     (ORG)     *      *        (ARG0*)           *             *         *    (10)
+bn/cts/00/cts_0086   0   12      会    VV               (VP*   -   01   -   -        *      *    (V*)            *            *             *         *      -
+bn/cts/00/cts_0086   0   13     尊重    VV               (VP*   -   01   -   -        *      *      *           (V*)           *             *         *      -
+bn/cts/00/cts_0086   0   14    １１月    NT  (NP(CP(IP(LCP(NP*   -    -   -   -   (DATE*      *      *        (ARG1*   (ARGM-TMP*             *         *     (6
+bn/cts/00/cts_0086   0   15    １５号    NT                  *)  -    -   -   -        *)     *      *             *            *             *         *      6)
+bn/cts/00/cts_0086   0   16      前    LC                  *)  -    -   -   -        *      *      *             *            *)            *         *      -
+bn/cts/00/cts_0086   0   17     决定    VV               (VP*   -   01   -   -        *      *      *             *          (V*)            *         *      -
+bn/cts/00/cts_0086   0   18     核四    NR            (IP(NP*)  -    -   -   -     (FAC)     *      *             *       (ARG1*        (ARG0*)   (ARG1*)    (9)
+bn/cts/00/cts_0086   0   19      成    VV               (VP*   -   02   3   -        *      *      *             *            *           (V*)        *      -
+bn/cts/00/cts_0086   0   20      、    PU                  *   -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0   21      废    VV               *))))  -   01   -   -        *      *      *             *            *)   (ARGM-ADV*)      (V*)     -
+bn/cts/00/cts_0086   0   22      的   DEC                  *)  -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0   23     朝野    NN               (NP*   -    -   -   -        *      *      *             *            *             *         *      -
+bn/cts/00/cts_0086   0   24     协商    NN               *))))  -    -   -   -        *      *      *             *)           *             *         *      -
+bn/cts/00/cts_0086   0   25      。    PU                 *))  -    -   -   -        *      *      *             *            *             *         *      -
+
+bn/cts/00/cts_0086   0    0      “    PU      (TOP(IP*   -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0    1     这个    DT    (IP(NP(DP*)  -    -    -   -       *       (ARG1*      *             *             *         *             *     (6
+bn/cts/00/cts_0086   0    2     日期    NN         (NP*))  -    -    -   -       *            *)     *             *             *         *             *      6)
+bn/cts/00/cts_0086   0    3      对     P       (VP(PP*   -    -    3   -       *   (ARGM-BNF*      *             *             *         *             *      -
+bn/cts/00/cts_0086   0    4      我    PN      (LCP(NP*)  -    -    -   -       *            *      *             *             *         *             *     (0)
+bn/cts/00/cts_0086   0    5     来说    LC            *))  -    -    -   -       *            *)     *             *             *         *             *      -
+bn/cts/00/cts_0086   0    6      ，    PU             *   -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0    7     没有    VE          (VP*   -   01    1   -       *          (V*)     *             *             *         *             *      -
+bn/cts/00/cts_0086   0    8     什么    DT       (NP(DP*)  -    -    -   -       *       (ARG0*      *             *             *         *             *      -
+bn/cts/00/cts_0086   0    9      多    AD   (ADJP(ADVP*)  -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0   10      大    JJ       (ADJP*))  -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0   11     意义    NN      (NP*)))))  -    -    -   -       *            *)     *             *             *         *             *      -
+bn/cts/00/cts_0086   0   12      ，    PU             *   -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0   13      我    PN       (IP(NP*)  -    -    -   -       *            *      *        (ARG0*)       (ARG0*)        *             *     (0)
+bn/cts/00/cts_0086   0   14     还是    AD     (VP(ADVP*)  -    -    -   -       *            *      *    (ARGM-ADV*)   (ARGM-ADV*)        *             *      -
+bn/cts/00/cts_0086   0   15      会    VV          (VP*   -   01    -   -       *            *    (V*)            *             *         *             *      -
+bn/cts/00/cts_0086   0   16     尽迅    AD     (VP(ADVP*)  -    -    -   -       *            *      *    (ARGM-ADV*)   (ARGM-ADV*)        *             *      -
+bn/cts/00/cts_0086   0   17     尽早    AD        (ADVP*)  -    -    -   -       *            *      *    (ARGM-ADV*)   (ARGM-ADV*)        *             *      -
+bn/cts/00/cts_0086   0   18      来    VV          (VP*   -   05    7   -       *            *      *           (V*)            *         *             *      -
+bn/cts/00/cts_0086   0   19      做    VV          (VP*   -   01   11   -       *            *      *        (ARG1*           (V*)        *             *      -
+bn/cts/00/cts_0086   0   20     决定    NN    (NP*)))))))  -    -    -   -       *            *      *             *)       (ARG1*)        *             *      -
+bn/cts/00/cts_0086   0   21      ，    PU             *   -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0   22      这    PN       (IP(NP*)  -    -    -   -       *            *      *             *             *    (ARG0*)            *      -
+bn/cts/00/cts_0086   0   23      是    VC          (VP*   -   01    1   -       *            *      *             *             *       (V*)            *      -
+bn/cts/00/cts_0086   0   24    行政院    NN       (IP(NP*)  -    -    -   -    (ORG)           *      *             *             *    (ARG1*        (ARG0*)   (10)
+bn/cts/00/cts_0086   0   25     本来    AD     (VP(ADVP*)  -    -    -   -       *            *      *             *             *         *    (ARGM-ADV*)     -
+bn/cts/00/cts_0086   0   26      就    AD        (ADVP*)  -    -    6   -       *            *      *             *             *         *    (ARGM-ADV*)     -
+bn/cts/00/cts_0086   0   27      是    VC          (VP*   -   01    1   -       *            *      *             *             *         *           (V*)     -
+bn/cts/00/cts_0086   0   28    这样子    PN   (NP(DNP(NP*)  -    -    -   -       *            *      *             *             *         *        (ARG1*      -
+bn/cts/00/cts_0086   0   29      的   DEG       *)))))))  -    -    -   -       *            *      *             *             *         *)            *)     -
+bn/cts/00/cts_0086   0   30      。    PU             *   -    -    -   -       *            *      *             *             *         *             *      -
+bn/cts/00/cts_0086   0   31      ”    PU            *))  -    -    -   -       *            *      *             *             *         *             *      -
+
+bn/cts/00/cts_0086   0    0     为了     P          (TOP(IP(PP*   -    -    -   -        *    (ARGM-PRP*    (ARGM-PRP*    (ARGM-PRP*             *    (ARGM-PRP*    (ARGM-PRP*      *         *      -
+bn/cts/00/cts_0086   0    1     力请    VV              (IP(VP*   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0    2    行政院    NN              (NP*))))  -    -    -   -     (ORG)            *)            *)            *)            *             *)            *)     *         *    (10)
+bn/cts/00/cts_0086   0    3      ，    PU                    *   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0    4    民进党    NR                 (NP*)  -    -    -   -     (ORG)       (ARG0*)       (ARG0*)       (ARG0*)            *        (ARG0*)       (ARG0*)     *         *     (5)
+bn/cts/00/cts_0086   0    5     上午    NT           (VP(VP(NP*)  -    -    -   -    (TIME)   (ARGM-TMP*)   (ARGM-TMP*)   (ARGM-TMP*)            *             *             *      *         *      -
+bn/cts/00/cts_0086   0    6      也    AD               (ADVP*)  -    -    -   -        *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-DIS*)            *             *             *      *         *      -
+bn/cts/00/cts_0086   0    7     召开    VV              (VP(VP*   -   01    -   -        *           (V*)            *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0    8     党团    NN                 (NP*   -    -    -   -        *        (ARG1*             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0    9     会议    NN                   *))  -    -    -   -        *             *)            *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   10      ，    PU                    *   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   11     针对     P              (VP(PP*   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   12     核四    NR              (NP(NP*)  -    -    -   -     (FAC)            *             *             *             *             *             *      *         *     (9)
+bn/cts/00/cts_0086   0   13     攻防    NN               (NP*)))  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   14      做    VV                 (VP*   -   01   11   -        *             *           (V*)            *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   15     最后    JJ        (NP(DNP(ADJP*)  -    -    -   -        *             *        (ARG1*             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   16      的   DEG                    *)  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   17     沙盘    NN                 (NP*   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   18     测验    NN                 *))))  -    -    -   -        *             *             *)            *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   19      ，    PU                    *   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   20     并且    AD            (VP(ADVP*)  -    -    -   -        *             *             *    (ARGM-DIS*)            *             *             *      *         *      -
+bn/cts/00/cts_0086   0   21     做出    VV                 (VP*   -   01    -   -        *             *             *           (V*)            *             *             *      *         *      -
+bn/cts/00/cts_0086   0   22      了    AS                    *   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   23     全面    AD   (NP(CP(IP(VP(ADVP*)  -    -    -   -        *             *             *        (ARG1*    (ARGM-ADV*)            *             *      *         *      -
+bn/cts/00/cts_0086   0   24      反    VV                 (VP*   -   01    1   -        *             *             *             *           (V*)            *             *      *         *      -
+bn/cts/00/cts_0086   0   25     核四    NR              (NP*))))  -    -    -   -     (FAC)            *             *             *        (ARG1*)            *             *      *         *     (9)
+bn/cts/00/cts_0086   0   26      的   DEC                    *)  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   27     决定    NN            (NP*))))))  -    -    -   -        *             *             *             *)            *             *             *      *         *      -
+bn/cts/00/cts_0086   0   28      ，    PU                    *   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   29      还    AD            (VP(ADVP*)  -    -    -   -        *             *             *             *             *    (ARGM-ADV*)   (ARGM-DIS*)     *         *      -
+bn/cts/00/cts_0086   0   30      将    AD               (ADVP*)  -    -    -   -        *             *             *             *             *    (ARGM-ADV*)   (ARGM-ADV*)     *         *      -
+bn/cts/00/cts_0086   0   31     成立    VV              (VP(VP*   -   01    -   -        *             *             *             *             *           (V*)            *      *         *      -
+bn/cts/00/cts_0086   0   32     应映    VV     (NP(CP(CP(IP(VP*   -    -    -   -        *             *             *             *             *        (ARG1*             *      *         *      -
+bn/cts/00/cts_0086   0   33     核四    NR               (NP*)))  -    -    -   -     (FAC)            *             *             *             *             *             *      *         *     (9)
+bn/cts/00/cts_0086   0   34      的   DEC                   *))  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   35     工作    NN                 (NP*   -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   36     小组    NN                  *)))  -    -    -   -        *             *             *             *             *             *)            *      *         *      -
+bn/cts/00/cts_0086   0   37      来   MSP                 (VP*   -    -    7   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   38     面对    VV                 (VP*   -   01    -   -        *             *             *             *             *             *           (V*)     *         *      -
+bn/cts/00/cts_0086   0   39     未来    NT              (NP(NP*)  -    -    -   -        *             *             *             *             *             *        (ARG1*      *         *      -
+bn/cts/00/cts_0086   0   40     所有    DT                 (DP*)  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   41     可能    VV        (CP(CP(IP(VP*   -   01    -   -        *             *             *             *             *             *             *    (V*)        *      -
+bn/cts/00/cts_0086   0   42      在     P              (VP(PP*   -    -    2   -        *             *             *             *             *             *             *      *    (ARG2*      -
+bn/cts/00/cts_0086   0   43    立法院    NN                (NP*))  -    -    -   -     (ORG)            *             *             *             *             *             *      *         *)   (13)
+bn/cts/00/cts_0086   0   44     上演    VV              (VP*))))  -   01    -   -        *             *             *             *             *             *             *      *       (V*)     -
+bn/cts/00/cts_0086   0   45      的   DEC                   *))  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+bn/cts/00/cts_0086   0   46     问题    NN           (NP*)))))))  -    -    -   -        *             *             *             *             *             *             *)     *    (ARG1*)     -
+bn/cts/00/cts_0086   0   47      。    PU                   *))  -    -    -   -        *             *             *             *             *             *             *      *         *      -
+
+#end document

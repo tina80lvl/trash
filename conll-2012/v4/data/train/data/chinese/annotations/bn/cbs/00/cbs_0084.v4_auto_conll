@@ -1,0 +1,62 @@
+#begin document (bn/cbs/00/cbs_0084); part 000
+bn/cbs/00/cbs_0084   0    0     中国   NR   (TOP(IP(IP(NP(NP(NP*)   -   -   -   -   *        (ARG0*         *            *            *             *             *    (1
+bn/cbs/00/cbs_0084   0    1     大陆   NN                  (NP*))   -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    2     油轮   NN                  (NP*))   -   -   -   -   *             *)        *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    3     德航   VV                (VP(VP*    -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    4    ２９８   CD                   (QP*    -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    5      号    M                (CLP*)))   -   -   1   -   *             *         *            *            *             *             *     1)
+bn/cbs/00/cbs_0084   0    6    １４号   NT                (VP(NP*)   -   -   -   -   *    (ARGM-TMP*)        *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    7      在    P                   (PP*    -   -   2   -   *    (ARGM-LOC*         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    8     珠江   NR                  (NP*))   -   -   -   -   *             *)        *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0    9      和    P                   (PP*    -   -   -   -   *        (ARG0*         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   10      一   CD                (NP(QP*    -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   11      艘    M                 (CLP*))   -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   12     挪威   NR                   (NP*)   -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   13     货轮   NN                 (NP*)))   -   -   -   -   *             *)        *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   14     相撞   VV                (VP*))))   相撞  -   -   -   *           (V*)        *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   15      ，   PU                      *    -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   16      在    P                (IP(PP*    -   -   2   -   *             *         *   (ARGM-TMP*   (ARGM-TMP*             *             *     -
+bn/cbs/00/cbs_0084   0   17     事故   NN            (LCP(IP(NP*)   -   -   -   -   *             *    (ARG0*)           *            *             *             *    (0)
+bn/cbs/00/cbs_0084   0   18     发生   VV                  (VP*))   发生  -   1   -   *             *       (V*)           *            *             *             *     -
+bn/cbs/00/cbs_0084   0   19     之后   LC                     *))   -   -   -   -   *             *         *            *)           *)            *             *     -
+bn/cbs/00/cbs_0084   0   20    德航号   NT                (NP(NP*)   -   -   -   -   *             *         *       (ARG0*       (ARG0*             *             *    (1)
+bn/cbs/00/cbs_0084   0   21      船   NN            (QP(LCP(NP*)   -   -   -   -   *             *         *            *            *             *             *    (1)
+bn/cbs/00/cbs_0084   0   22      上   LC                      *)   -   -   1   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   23      两   CD                   (QP*    -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   24      名    M                (CLP*)))   -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   25     船员   NN                  (NP*))   -   -   -   -   *             *         *            *)           *)            *             *     -
+bn/cbs/00/cbs_0084   0   26     落水   VV                (VP(VP*)   落水  -   -   -   *             *         *          (V*)           *             *             *     -
+bn/cbs/00/cbs_0084   0   27     失踪   VV                 (VP*)))   失踪  -   -   -   *             *         *            *          (V*)            *             *     -
+bn/cbs/00/cbs_0084   0   28      ，   PU                      *    -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   29     另外   AD              (IP(ADVP*)   -   -   -   -   *             *         *            *            *    (ARGM-DIS*)            *     -
+bn/cbs/00/cbs_0084   0   30      有   VE                   (VP*     有  -   4   -   *             *         *            *            *           (V*)            *     -
+bn/cbs/00/cbs_0084   0   31      ３   CD             (IP(NP(QP*    -   -   -   -   *             *         *            *            *        (ARG1*             *     -
+bn/cbs/00/cbs_0084   0   32      个    M                 (CLP*))   -   -   -   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   33      人   NN                  (NP*))   -   -   1   -   *             *         *            *            *             *             *     -
+bn/cbs/00/cbs_0084   0   34      被   SB                   (VP*    -   -   -   -   *             *         *            *            *             *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0084   0   35     救起   VV               (VP*)))))   救起  -   -   -   *             *         *            *            *             *)          (V*)    -
+bn/cbs/00/cbs_0084   0   36      。   PU                     *))   -   -   -   -   *             *         *            *            *             *             *     -
+
+bn/cbs/00/cbs_0084   0    0       根据     P  (TOP(IP(IP(PP*    -   -   -   -   *   (ARGM-MNR*      *    -
+bn/cbs/00/cbs_0084   0    1      新华社    NR     (NP(DNP(NP*)   -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0    2        的   DEG               *)   -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0    3       报导    NN          (NP*)))   -   -   -   -   *            *)     *    -
+bn/cbs/00/cbs_0084   0    4        ，    PU               *    -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0    5        这    DT         (NP(DP*    -   -   -   -   *       (ARG0*      *   (0
+bn/cbs/00/cbs_0084   0    6        起     M          (CLP*))   -   -   5   -   *            *      *    -
+bn/cbs/00/cbs_0084   0    7       意外    NN           (NP*))   -   -   -   -   *            *)     *    0)
+bn/cbs/00/cbs_0084   0    8       发生    VV            (VP*    发生  -   1   -   *          (V*)     *    -
+bn/cbs/00/cbs_0084   0    9        在     P            (PP*    -   -   2   -   *   (ARGM-TMP*      *    -
+bn/cbs/00/cbs_0084   0   10       中原    NN            (NP*    -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0   11       标准    NN               *    -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0   12       时间    NN               *    -   -   1   -   *            *      *    -
+bn/cbs/00/cbs_0084   0   13       凌晨    NT              *))   -   -   -   -   *            *)     *    -
+bn/cbs/00/cbs_0084   0   14    ２：１０分    CD          (QP*)))   -   -   -   -   *       (ARG0*)     *    -
+bn/cbs/00/cbs_0084   0   15        ，    PU               *    -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0   16        这    DT         (IP(DP*    -   -   -   -   *            *      *   (0
+bn/cbs/00/cbs_0084   0   17        起     M          (CLP*))   -   -   5   -   *            *      *    -
+bn/cbs/00/cbs_0084   0   18       船难    VV           (VP*))   船难  -   -   -   *            *    (V*)   0)
+bn/cbs/00/cbs_0084   0   19        …    PU               *    -   -   -   -   *            *      *    -
+bn/cbs/00/cbs_0084   0   20        …    PU              *))   -   -   -   -   *            *      *    -
+
+#end document

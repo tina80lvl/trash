@@ -1,0 +1,296 @@
+#begin document (wb/cmn/00/cmn_0028); part 000
+wb/cmn/00/cmn_0028   0   0      新   JJ   (TOP(IP(NP(NP(ADJP*)  -   -   1   -   *   (4
+wb/cmn/00/cmn_0028   0   1     移民   NN                 (NP*))  -   -   -   -   *    -
+wb/cmn/00/cmn_0028   0   2    丁云红   NN                 (NP*))  -   -   -   -   *    4)
+wb/cmn/00/cmn_0028   0   3      告   VV                  (VP*   -   -   2   -   *    -
+wb/cmn/00/cmn_0028   0   4     联邦   NN                  (NP*   -   -   -   -   *   (2
+wb/cmn/00/cmn_0028   0   5     政府   NN                  *))))  -   -   1   -   *    2)
+
+wb/cmn/00/cmn_0028   0   0    ARSU   NR   (TOP(FRAG*))  -   -   -   -   *    (7)
+
+wb/cmn/00/cmn_0028   0    0        发信人   NN  (TOP(FRAG*   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    1          ：   PU           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    2       ARSU   NR           *   -   -   -    _ARSU_  *   (7
+wb/cmn/00/cmn_0028   0    3          （   PU           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    4    Unknown   NR           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    5          ）   PU           *   -   -   -    _ARSU_  *    7)
+wb/cmn/00/cmn_0028   0    6          ，   PU           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    7         信区   NN           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    8          ：   PU           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0    9     Canada   NR           *   -   -   -    _ARSU_  *    -
+wb/cmn/00/cmn_0028   0   10       News   NR          *))  -   -   -    _ARSU_  *    -
+
+wb/cmn/00/cmn_0028   0   0     标题   NN       (TOP(IP(NP*)  -   -   -    _ARSU_  *        *    -
+wb/cmn/00/cmn_0028   0   1      ：   PU                 *   -   -   -    _ARSU_  *        *    -
+wb/cmn/00/cmn_0028   0   2      新   JJ   (IP(NP(NP(ADJP*)  -   -   1    _ARSU_  *   (ARG0*   (4
+wb/cmn/00/cmn_0028   0   3     移民   NN             (NP*))  -   -   -    _ARSU_  *        *    -
+wb/cmn/00/cmn_0028   0   4    丁云红   NN             (NP*))  -   -   -    _ARSU_  *        *)   4)
+wb/cmn/00/cmn_0028   0   5      告   VV              (VP*    告  -   2    _ARSU_  *      (V*)   -
+wb/cmn/00/cmn_0028   0   6     联邦   NN              (NP*   -   -   -    _ARSU_  *   (ARG1*   (2
+wb/cmn/00/cmn_0028   0   7     政府   NN             *)))))  -   -   1    _ARSU_  *        *)   2)
+
+wb/cmn/00/cmn_0028   0    0         发信站   NN  (TOP(FRAG*   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    1           ：   PU           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    2         BBS   NN           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    3          未名   NR           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    4         空间站   NR           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    5           （   PU           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    6         Fri   NT           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    7         Jan   NT           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    8          5    NT           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    9   13：41：01    NT           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0   10       2007    NT           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0   11           ）   PU          *))  -   -   -    _ARSU_  *   -
+
+wb/cmn/00/cmn_0028   0    0     来自    VV  (TOP(IP(NP(CP(IP(VP(VP*     来自  -   -    _ARSU_  *      (V*)            *         *        (ARG0*        (ARG0*       (4
+wb/cmn/00/cmn_0028   0    1     中国    NR                  (NP(NP*)    -   -   -    _ARSU_  *   (ARG1*             *         *             *             *        -
+wb/cmn/00/cmn_0028   0    2     大陆    NN                   (NP*)))    -   -   -    _ARSU_  *        *)            *         *             *             *        -
+wb/cmn/00/cmn_0028   0    3      、    PU                        *     -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0    4      后    AD                (VP(ADVP*)    -   -   -    _ARSU_  *        *    (ARGM-ADV*)        *             *             *        -
+wb/cmn/00/cmn_0028   0    5      经     P                     (PP*     -   -   -    _ARSU_  *        *    (ARGM-MNR*         *             *             *        -
+wb/cmn/00/cmn_0028   0    6     美国    NR               (NP(NP(NP*)    -   -   -    _ARSU_  *        *             *         *             *             *       (0)
+wb/cmn/00/cmn_0028   0    7     移民    NN                    (NP*))    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0    8     安省    NR                   (NP*)))    -   -   -    _ARSU_  *        *             *)        *             *             *        -
+wb/cmn/00/cmn_0028   0    9    温莎市    VV                  (VP*))))   温莎市  -   -    _ARSU_  *        *           (V*)        *             *             *        -
+wb/cmn/00/cmn_0028   0   10      的   DEC                        *)    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   11    丁云红    NR                    (NP*))    -   -   -    _ARSU_  *        *             *         *             *)            *)       4)
+wb/cmn/00/cmn_0028   0   12      将    AD                (VP(ADVP*)    -   -   -    _ARSU_  *        *             *         *    (ARGM-ADV*)   (ARGM-ADV*)       -
+wb/cmn/00/cmn_0028   0   13      于     P                     (PP*     -   -   -    _ARSU_  *        *             *         *    (ARGM-TMP*    (ARGM-TMP*        -
+wb/cmn/00/cmn_0028   0   14      下    DT               (NP(NP(DP*)    -   -   4    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   15     周一    NT                  (NP(NP*)    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   16      （    PU                    (PRN*     -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   17     1月    NT                     (NP*     -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   18     8日    NT                        *)    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   19      ）    PU                      *)))    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   20     上午    NT                     (NP*     -   -   1    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   21    10点    NT                      *)))    -   -   -    _ARSU_  *        *             *         *             *)            *)       -
+wb/cmn/00/cmn_0028   0   22      在     P                     (PP*     -   -   2    _ARSU_  *        *             *         *    (ARGM-LOC*    (ARGM-LOC*        -
+wb/cmn/00/cmn_0028   0   23    多伦多    NR          (LCP(NP(DNP(NP*)    -   -   -    _ARSU_  *        *             *         *             *             *    (9|(5)
+wb/cmn/00/cmn_0028   0   24      的   DEG                        *)    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   25     联邦    NN                     (NP*     -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   26     上诉    NN                        *     -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   27     法院    NN                       *))    -   -   -    _ARSU_  *        *             *         *             *             *        9)
+wb/cmn/00/cmn_0028   0   28      内    LC                       *))    -   -   -    _ARSU_  *        *             *         *             *)            *)       -
+wb/cmn/00/cmn_0028   0   29      ，    PU                        *     -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   30     针对     P                     (PP*     -   -   -    _ARSU_  *        *             *         *        (ARG1*    (ARGM-DIR*        -
+wb/cmn/00/cmn_0028   0   31      他    PN            (NP(NP(IP(NP*)    -   -   -    _ARSU_  *        *             *    (ARG0*)            *             *       (4)
+wb/cmn/00/cmn_0028   0   32     控告    VV                     (VP*     控告  -   -    _ARSU_  *        *             *       (V*)            *             *        -
+wb/cmn/00/cmn_0028   0   33     联邦    NN                     (NP*     -   -   -    _ARSU_  *        *             *    (ARG1*             *             *       (2
+wb/cmn/00/cmn_0028   0   34     政府    NN                      *)))    -   -   1    _ARSU_  *        *             *         *)            *             *        2)
+wb/cmn/00/cmn_0028   0   35      一    CD                  (NP(QP*)    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   36      案    NN                   (NP*)))    -   -   -    _ARSU_  *        *             *         *             *             *        -
+wb/cmn/00/cmn_0028   0   37     听候    NN                   (NP*)))    -   -   -    _ARSU_  *        *             *         *             *)            *)       -
+wb/cmn/00/cmn_0028   0   38     公开    AD                (VP(ADVP*)    -   -   -    _ARSU_  *        *             *         *    (ARGM-ADV*)   (ARGM-ADV*)       -
+wb/cmn/00/cmn_0028   0   39     审议    VV                     (VP*     审议  -   -    _ARSU_  *        *             *         *           (V*)            *        -
+wb/cmn/00/cmn_0028   0   40      和    CC                        *     -   -   -    _ARSU_  *        *             *         *    (ARGM-ADV*)   (ARGM-ADV*)       -
+wb/cmn/00/cmn_0028   0   41     判决    VV                      *)))    判决  -   -    _ARSU_  *        *             *         *    (ARGM-ADV*)          (V*)       -
+wb/cmn/00/cmn_0028   0   42      。    PU                       *))    -   -   -    _ARSU_  *        *             *         *             *             *        -
+
+wb/cmn/00/cmn_0028   0    0    丁云红    AD        (TOP(IP(IP(ADVP*)   -   -   -    _ARSU_  *         *    (ARGM-ADV*)        *             *             *      *             *             *        *      *             *       (4)
+wb/cmn/00/cmn_0028   0    1      在     P                    (PP*    -   -   2    _ARSU_  *         *    (ARGM-LOC*         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0    2     申请    VV       (LCP(NP(CP(IP(VP*    申请  -   -    _ARSU_  *       (V*)            *         *             *             *      *             *             *        *      *             *       (3
+wb/cmn/00/cmn_0028   0    3     入籍    NN                  (NP*)))   -   -   -    _ARSU_  *    (ARG1*)            *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0    4      的   DEC                       *)   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0    5     过程    NN                   (NP*))   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        3)
+wb/cmn/00/cmn_0028   0    6      中    LC                      *))   -   -   -    _ARSU_  *         *             *)        *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0    7      ，    PU                       *    -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0    8    CIC    NR             (NP(DNP(NP*)   -   -   -    _ARSU_  *         *        (ARG0*         *             *        (ARG0*      *             *             *        *      *             *    (6|(1)
+wb/cmn/00/cmn_0028   0    9      的   DEG                       *)   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   10     官员    NN                   (NP*))   -   -   -    _ARSU_  *         *             *)        *             *             *)     *             *             *        *      *             *        6)
+wb/cmn/00/cmn_0028   0   11      指    VV                    (VP*     指  -   1    _ARSU_  *         *           (V*)        *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   12      他    PN                 (IP(NP*)   -   -   -    _ARSU_  *         *        (ARG2*    (ARG0*)       (ARG0*)       (ARG0*)     *             *             *        *      *             *       (4)
+wb/cmn/00/cmn_0028   0   13     违反    VV                 (VP(VP*    违反  -   -    _ARSU_  *         *             *       (V*)            *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   14     法律    NN                   (NP*))   -   -   1    _ARSU_  *         *             *    (ARG1*)            *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   15      ，    PU                       *    -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   16     例如    AD               (VP(ADVP*)   -   -   -    _ARSU_  *         *             *         *    (ARGM-ADV*)   (ARGM-DIS*)     *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   17     没有    VE                 (VP(VP*    没有  -   1    _ARSU_  *         *             *         *           (V*)            *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   18     报告    NN                   (NP*))   -   -   -    _ARSU_  *         *             *         *        (ARG0*)            *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   19     外出    VV                (VP(VRD*    外出  -   -    _ARSU_  *         *             *         *             *           (V*)     *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   20      去    VV                       *)    去  -   1    _ARSU_  *         *             *         *             *             *    (V*)            *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   21     美国    NR             (NP*))))))))   -   -   -    _ARSU_  *         *             *)        *             *        (ARG1*)     *             *             *        *      *             *       (0)
+wb/cmn/00/cmn_0028   0   22      ，    PU                       *    -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   23     登陆    VV   (IP(VP(VP(LCP(IP(VP*))   登陆  -   -    _ARSU_  *         *             *         *             *             *      *           (V*)   (ARGM-TMP*        *      *             *        -
+wb/cmn/00/cmn_0028   0   24      时    LC                       *)   -   -   -    _ARSU_  *         *             *         *             *             *      *    (ARGM-ADV*)            *)       *      *             *        -
+wb/cmn/00/cmn_0028   0   25     没有    AD                  (ADVP*)   -   -   2    _ARSU_  *         *             *         *             *             *      *             *    (ARGM-ADV*)       *      *             *        -
+wb/cmn/00/cmn_0028   0   26     申报    VV                    (VP*    申报  -   -    _ARSU_  *         *             *         *             *             *      *             *           (V*)       *      *             *        -
+wb/cmn/00/cmn_0028   0   27     孩子    NN                  (NP*)))   -   -   1    _ARSU_  *         *             *         *             *             *      *             *        (ARG1*)       *      *             *        -
+wb/cmn/00/cmn_0028   0   28      ，    PU                       *    -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   29      领    VV          (VP(LCP(IP(VP*     领  -   4    _ARSU_  *         *             *         *             *             *      *             *             *      (V*)     *    (ARGM-TMP*        -
+wb/cmn/00/cmn_0028   0   30     失业    NN                    (NP*    -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *   (ARG1*      *             *        -
+wb/cmn/00/cmn_0028   0   31    救济金    NN                     *)))   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *)     *             *        -
+wb/cmn/00/cmn_0028   0   32      时    LC                       *)   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *)       -
+wb/cmn/00/cmn_0028   0   33      又    AD                  (ADVP*)   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *    (ARGM-DIS*)       -
+wb/cmn/00/cmn_0028   0   34      去    VV                    (VP*     去  -   4    _ARSU_  *         *             *         *             *             *      *             *             *        *    (V*)            *        -
+wb/cmn/00/cmn_0028   0   35     上学    VV                  (VP*)))   上学  -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *           (V*)       -
+wb/cmn/00/cmn_0028   0   36     等等   ETC                      *))   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+wb/cmn/00/cmn_0028   0   37      。    PU                      *))   -   -   -    _ARSU_  *         *             *         *             *             *      *             *             *        *      *             *        -
+
+wb/cmn/00/cmn_0028   0    0    丁云红    NR    (TOP(IP(NP*)   -   -   -    _ARSU_  *        (ARG0*)   (ARG0*)        *        *        *    (4)
+wb/cmn/00/cmn_0028   0    1      对     P     (VP(VP(PP*    -   -   3    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0    2      此    DT        (NP(DP*)   -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0    3     说法    NN         (NP*)))   -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0    4     一一    AD         (ADVP*)   -   -   -    _ARSU_  *    (ARGM-ADV*)        *         *        *        *     -
+wb/cmn/00/cmn_0028   0    5      作    VV           (VP*     作  -   1    _ARSU_  *           (V*)        *         *        *        *     -
+wb/cmn/00/cmn_0028   0    6      了    AS              *    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0    7     解释    NN        (NP(NP*)   -   -   -    _ARSU_  *        (ARG1*         *         *        *        *     -
+wb/cmn/00/cmn_0028   0    8      和    CC              *    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0    9     回应    NN        (NP*))))   -   -   -    _ARSU_  *             *)        *         *        *        *     -
+wb/cmn/00/cmn_0028   0   10      ，    PU              *    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   11      并    CC              *    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   12     认为    VV           (VP*    认为  -   1    _ARSU_  *             *       (V*)        *        *        *     -
+wb/cmn/00/cmn_0028   0   13      这    DT     (IP(NP(DP*    -   -   -    _ARSU_  *             *    (ARG1*    (ARG0*   (ARG0*        *    (6
+wb/cmn/00/cmn_0028   0   14      位     M         (CLP*))   -   -   2    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   15     政府    NN           (NP*    -   -   1    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   16     官员    NN             *))   -   -   -    _ARSU_  *             *         *         *)       *)       *     6)
+wb/cmn/00/cmn_0028   0   17     滥用    VV        (VP(VP*    滥用  -   -    _ARSU_  *             *         *       (V*)       *        *     -
+wb/cmn/00/cmn_0028   0   18     权力    NN          (NP*))   -   -   -    _ARSU_  *             *         *    (ARG1*)       *        *     -
+wb/cmn/00/cmn_0028   0   19      ，    PU              *    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   20     构成    VV           (VP*    构成  -   -    _ARSU_  *             *         *         *      (V*)       *     -
+wb/cmn/00/cmn_0028   0   21     侵犯    VV  (NP(CP(IP(VP*    侵犯  -   -    _ARSU_  *             *         *         *   (ARG1*      (V*)    -
+wb/cmn/00/cmn_0028   0   22      他    PN        (NP(NP*)   -   -   -    _ARSU_  *             *         *         *        *   (ARG1*    (4)
+wb/cmn/00/cmn_0028   0   23    加拿大    NR           (NP*)   -   -   -    _ARSU_  *             *         *         *        *        *    (8)
+wb/cmn/00/cmn_0028   0   24     宪法    NN           (NP*    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   25      和    CC              *    -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   26     法律    NN              *    -   -   1    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   27     保护    NN           *))))   -   -   -    _ARSU_  *             *         *         *        *        *)    -
+wb/cmn/00/cmn_0028   0   28      的   DEC              *)   -   -   -    _ARSU_  *             *         *         *        *        *     -
+wb/cmn/00/cmn_0028   0   29     权益    NN     (NP*)))))))   -   -   -    _ARSU_  *             *         *)        *        *)       *     -
+wb/cmn/00/cmn_0028   0   30      。    PU             *))   -   -   -    _ARSU_  *             *         *         *        *        *     -
+
+wb/cmn/00/cmn_0028   0    0        在     P       (TOP(IP(PP*    -   -   2    _ARSU_  *    (ARGM-LOC*)       *         *        -
+wb/cmn/00/cmn_0028   0    1      CIC    NR    (LCP(IP(NP(NP*)   -   -   -    _ARSU_  *        (ARG0*        *         *       (1)
+wb/cmn/00/cmn_0028   0    2       内部    NN             (NP*))   -   -   -    _ARSU_  *             *)       *         *        -
+wb/cmn/00/cmn_0028   0    3        多    CD        (VP(NP(QP*    -   -   3    _ARSU_  *    (ARGM-LOC*        *         *        -
+wb/cmn/00/cmn_0028   0    4        次     M            (CLP*))   -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0    5       投诉    NN             (NP*))   -   -   -    _ARSU_  *             *)       *         *        -
+wb/cmn/00/cmn_0028   0    6       未果    VV            (VP*)))   未果  -   -    _ARSU_  *           (V*)       *         *        -
+wb/cmn/00/cmn_0028   0    7        后    LC                *))   -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0    8        ，    PU                 *    -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0    9    2004年    NT              (NP*    -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   10       7月    NT                 *    -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   11      22日    NT                 *)   -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   12        ，    PU                 *    -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   13      丁云红    NR              (NP*)   -   -   -    _ARSU_  *             *        *    (ARG0*)      (4)
+wb/cmn/00/cmn_0028   0   14        将    BA              (VP*    -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   15       控告    VV  (IP(NP(CP(IP(VP*    控告  -   -    _ARSU_  *             *      (V*)   (ARG1*        -
+wb/cmn/00/cmn_0028   0   16      加拿大    NR           (NP(NP*)   -   -   -    _ARSU_  *             *   (ARG1*         *    (2|(8)
+wb/cmn/00/cmn_0028   0   17       政府    NN           (NP*))))   -   -   1    _ARSU_  *             *        *)        *        2)
+wb/cmn/00/cmn_0028   0   18        的   DEC                 *)   -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   19       诉状    NN             (NP*))   -   -   -    _ARSU_  *             *        *         *)       -
+wb/cmn/00/cmn_0028   0   20       递到    VV              (VP*    递到  -   -    _ARSU_  *             *        *       (V*)       -
+wb/cmn/00/cmn_0028   0   21      多伦多    NR           (NP(NP*    -   -   -    _ARSU_  *             *        *    (ARG2*    (9|(5)
+wb/cmn/00/cmn_0028   0   22       联邦    NN                 *)   -   -   -    _ARSU_  *             *        *         *        -
+wb/cmn/00/cmn_0028   0   23       法院    NN          (NP*)))))   -   -   -    _ARSU_  *             *        *         *)       9)
+wb/cmn/00/cmn_0028   0   24        。    PU                *))   -   -   -    _ARSU_  *             *        *         *        -
+
+wb/cmn/00/cmn_0028   0    0       公民   NN  (TOP(IP(IP(NP*    -   -   -    _ARSU_  *         *       (ARG0*        (ARG0*             *            *             *     -
+wb/cmn/00/cmn_0028   0    1       法庭   NN               *)   -   -   -    _ARSU_  *         *            *)            *)            *            *             *     -
+wb/cmn/00/cmn_0028   0    2       接到   VV  (VP(LCP(IP(VP*    接到  -   -    _ARSU_  *       (V*)  (ARGM-TMP*    (ARGM-TMP*             *            *             *     -
+wb/cmn/00/cmn_0028   0    3       投诉   NN          (NP*)))   -   -   -    _ARSU_  *    (ARG1*)           *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0    4        后   LC               *)   -   -   -    _ARSU_  *         *            *)            *)            *            *             *     -
+wb/cmn/00/cmn_0028   0    5        在    P      (VP(VP(PP*    -   -   2    _ARSU_  *         *   (ARGM-TMP*             *             *            *             *     -
+wb/cmn/00/cmn_0028   0    6    2004年   NT            (NP*    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0    7      10月   NT               *    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0    8       1日   NT              *))   -   -   -    _ARSU_  *         *            *)            *             *            *             *     -
+wb/cmn/00/cmn_0028   0    9       进行   VV            (VP*    进行  -   3    _ARSU_  *         *          (V*)            *             *            *             *     -
+wb/cmn/00/cmn_0028   0   10       审理   NN          (NP*)))   -   -   -    _ARSU_  *         *       (ARG1*)            *             *            *             *     -
+wb/cmn/00/cmn_0028   0   11        ，   PU               *    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   12      丁云红   AD       (VP(ADVP*)   -   -   -    _ARSU_  *         *            *    (ARGM-ADV*)            *            *             *    (4)
+wb/cmn/00/cmn_0028   0   13        于    P            (PP*    -   -   -    _ARSU_  *         *            *    (ARGM-TMP*             *            *             *     -
+wb/cmn/00/cmn_0028   0   14        同   DT         (NP(DP*    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   15        年    M          (CLP*))   -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   16      12月   NT            (NP*    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   17       3日   NT             *)))   -   -   -    _ARSU_  *         *            *             *)            *            *             *     -
+wb/cmn/00/cmn_0028   0   18       成为   VV            (VP*    成为  -   -    _ARSU_  *         *            *           (V*)            *            *             *     -
+wb/cmn/00/cmn_0028   0   19      加拿大   NR         (NP(NP*)   -   -   -    _ARSU_  *         *            *        (ARG1*             *            *             *    (8)
+wb/cmn/00/cmn_0028   0   20       公民   NN      (NP*)))))))   -   -   -    _ARSU_  *         *            *             *)            *            *             *     -
+wb/cmn/00/cmn_0028   0   21        。   PU               *    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   22        但   AD       (IP(ADVP*)   -   -   -    _ARSU_  *         *            *             *    (ARGM-DIS*)           *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0028   0   23        他   PN            (NP*)   -   -   -    _ARSU_  *         *            *             *        (ARG0*)      (ARG0*)       (ARG0*)   (4)
+wb/cmn/00/cmn_0028   0   24       认为   VV         (VP(VP*    认为  -   1    _ARSU_  *         *            *             *           (V*)           *             *     -
+wb/cmn/00/cmn_0028   0   25       自己   PN         (IP(NP*)   -   -   -    _ARSU_  *         *            *             *        (ARG1*       (ARG0*)            *    (4)
+wb/cmn/00/cmn_0028   0   26        在    P         (VP(PP*    -   -   2    _ARSU_  *         *            *             *             *   (ARGM-LOC*             *     -
+wb/cmn/00/cmn_0028   0   27       申请   NN        (LCP(NP*    -   -   -    _ARSU_  *         *            *             *             *            *             *    (3
+wb/cmn/00/cmn_0028   0   28       过程   NN               *)   -   -   -    _ARSU_  *         *            *             *             *            *             *     3)
+wb/cmn/00/cmn_0028   0   29        中   LC              *))   -   -   -    _ARSU_  *         *            *             *             *            *)            *     -
+wb/cmn/00/cmn_0028   0   30       受尽   VV            (VP*    受尽  -   -    _ARSU_  *         *            *             *             *          (V*)            *     -
+wb/cmn/00/cmn_0028   0   31        了   AS               *    -   -   -    _ARSU_  *         *            *             *             *       (ARG1*)            *     -
+wb/cmn/00/cmn_0028   0   32       羞辱   NN            (NP*    -   -   -    _ARSU_  *         *            *             *             *       (ARG1*             *     -
+wb/cmn/00/cmn_0028   0   33        和   CC               *    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   34       伤害   NN           *)))))   -   -   -    _ARSU_  *         *            *             *             *)           *)            *     -
+wb/cmn/00/cmn_0028   0   35        ，   PU               *    -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   36       因而   AD       (VP(ADVP*)   -   -   -    _ARSU_  *         *            *             *             *            *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0028   0   37      进一步   AD          (ADVP*)   -   -   -    _ARSU_  *         *            *             *             *            *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0028   0   38       上诉   VV            (VP*    上诉  -   -    _ARSU_  *         *            *             *             *            *           (V*)    -
+wb/cmn/00/cmn_0028   0   39       联邦   NN      (NP(NP(NP*)   -   -   -    _ARSU_  *         *            *             *             *            *        (ARG1*    (9
+wb/cmn/00/cmn_0028   0   40       上诉   JJ          (ADJP*)   -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   41       法院   NN           (NP*))   -   -   -    _ARSU_  *         *            *             *             *            *             *     9)
+wb/cmn/00/cmn_0028   0   42       讨还   JJ          (ADJP*)   -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+wb/cmn/00/cmn_0028   0   43       公道   NN       (NP*))))))   -   -   -    _ARSU_  *         *            *             *             *            *             *)    -
+wb/cmn/00/cmn_0028   0   44        。   PU              *))   -   -   -    _ARSU_  *         *            *             *             *            *             *     -
+
+wb/cmn/00/cmn_0028   0    0       他    PN   (TOP(IP(IP(NP*)     -   -   -    _ARSU_  *    (ARG0*)   (ARG0*)       *             *      *             *             *             *             *             *    (4)
+wb/cmn/00/cmn_0028   0    1      表示    VV             (VP*      表示  -   2    _ARSU_  *       (V*)        *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    2       与     P    (IP(VP(VP(PP*      -   -   -    _ARSU_  *    (ARG1*    (ARG0*        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    3      政府    NN      (NP(DNP(NP*      -   -   1    _ARSU_  *         *         *        *             *      *             *             *             *             *             *    (2)
+wb/cmn/00/cmn_0028   0    4       和    CC                *      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    5      法庭    NN                *)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    6       的   DEG                *)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    7      官司    NN           (NP*)))     -   -   -    _ARSU_  *         *         *)       *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    8      纠缠    VV            (VP*))     纠缠  -   -    _ARSU_  *         *       (V*)       *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0    9       ，    PU                *      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   10       令    VV             (VP*       令  -   1    _ARSU_  *         *         *      (V*)            *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   11      自己    PN          (NP(NP*)     -   -   -    _ARSU_  *         *         *   (ARG1*             *      *             *             *             *             *             *    (4)
+wb/cmn/00/cmn_0028   0   12       及    CC                *      -   -   3    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   13      家人    NN            (NP*))     -   -   -    _ARSU_  *         *         *        *)            *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   14       均    AD     (IP(VP(ADVP*)     -   -   -    _ARSU_  *         *         *   (ARG2*    (ARGM-ADV*)     *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   15      承受    VV             (VP*      承受  -   -    _ARSU_  *         *         *        *           (V*)     *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   16      巨大    JJ        (NP(ADJP*)     -   -   -    _ARSU_  *         *         *        *        (ARG1*      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   17      痛苦    NN    (NP*))))))))))     -   -   -    _ARSU_  *         *)        *        *)            *)     *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   18       ，    PU                *      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   19       他    PN          (IP(NP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *    (4)
+wb/cmn/00/cmn_0028   0   20       也    AD        (VP(ADVP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   21      因此    AD           (ADVP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   22      长期    AD           (ADVP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   23      精神    NN             (NP*      -   -   5    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   24      抑郁    NN              *)))     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   25       ，    PU                *      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   26       但    AD        (IP(ADVP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)    -
+wb/cmn/00/cmn_0028   0   27       他    PN             (NP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *        (ARG0*)       (ARG0*)       (ARG0*)       (ARG0*)   (4)
+wb/cmn/00/cmn_0028   0   28       不    AD     (VP(VP(ADVP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *    (ARGM-ADV*)            *             *             *     -
+wb/cmn/00/cmn_0028   0   29       能    VV             (VP*       能  -   1    _ARSU_  *         *         *        *             *    (V*)            *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   30       对     P          (VP(PP*      -   -   3    _ARSU_  *         *         *        *             *      *             *        (ARG1*             *             *             *     -
+wb/cmn/00/cmn_0028   0   31      任何    DT          (NP(DP*)     -   -   -    _ARSU_  *         *         *        *             *      *    (ARGM-ADV*)            *             *             *             *     -
+wb/cmn/00/cmn_0028   0   32      强加    VV       (CP(IP(VP*      强加  -   -    _ARSU_  *         *         *        *             *      *           (V*)            *             *             *             *     -
+wb/cmn/00/cmn_0028   0   33       在     P             (PP*      -   -   2    _ARSU_  *         *         *        *             *      *        (ARG1*             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   34      自己    PN             (NP*      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *    (4
+wb/cmn/00/cmn_0028   0   35      身上    NN             *))))     -   -   -    _ARSU_  *         *         *        *             *      *             *)            *             *             *             *     4)
+wb/cmn/00/cmn_0028   0   36       的   DEC                *)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   37      不公    NN             (NP*      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   38       和    CC                *      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   39      歧视    NN              *)))     -   -   -    _ARSU_  *         *         *        *             *      *             *             *)            *             *             *     -
+wb/cmn/00/cmn_0028   0   40    置若罔闻    VV          (VP*))))   置若罔闻  -   -    _ARSU_  *         *         *        *             *      *        (ARG1*)          (V*)            *             *             *     -
+wb/cmn/00/cmn_0028   0   41       ，    PU                *      -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+wb/cmn/00/cmn_0028   0   42       将    AD        (VP(ADVP*)     -   -   -    _ARSU_  *         *         *        *             *      *             *             *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0028   0   43       会    VV             (VP*       会  -   1    _ARSU_  *         *         *        *             *      *             *             *           (V*)            *             *     -
+wb/cmn/00/cmn_0028   0   44      继续    VV             (VP*      继续  -   -    _ARSU_  *         *         *        *             *      *             *             *        (ARG1*           (V*)            *     -
+wb/cmn/00/cmn_0028   0   45      抗争    VV        (VP*))))))     抗争  -   -    _ARSU_  *         *         *        *             *      *             *             *             *)       (ARG1*)          (V*)    -
+wb/cmn/00/cmn_0028   0   46       。    PU               *))     -   -   -    _ARSU_  *         *         *        *             *      *             *             *             *             *             *     -
+
+wb/cmn/00/cmn_0028   0   0    －－   PU   (TOP(FRAG*))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0028   0    0                    ※    PU  (TOP(FRAG*   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    1                   来源    NN           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    2                    ：    PU           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    3                  99     CD           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    4                  BBS    NN           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    5                   未名    NR           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    6                  空间站    NR           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    7    http：／／mitbbs．com   URL           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    8                  99［    PU           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0    9                 FROM     P           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0   10                    ：    PU           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0   11             141．162．    CD           *   -   -   -    _ARSU_  *   -
+wb/cmn/00/cmn_0028   0   12                    ］    PU          *))  -   -   -    _ARSU_  *   -
+
+#end document

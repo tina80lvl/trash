@@ -1,0 +1,127 @@
+#begin document (bn/ctv/00/ctv_0053); part 000
+bn/ctv/00/ctv_0053   0    0        １１月    NT     (TOP(IP(NP*   -    -   -   -     (DATE*   (ARGM-TMP*   (ARGM-TMP*       -
+bn/ctv/00/ctv_0053   0    1         ６号    NT               *)  -    -   -   -          *)           *)           *)      -
+bn/ctv/00/ctv_0053   0    2        西班牙    NR      (NP(NP(NP*)  -    -   -   -       (GPE)      (ARG0*       (ARG0*      (3)
+bn/ctv/00/ctv_0053   0    3         王储    NN           (NP*))  -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0    4    阿斯图·里亚斯    NR            (NP*   -    -   -   -    (PERSON)           *            *       -
+bn/ctv/00/ctv_0053   0    5         王子    NN              *))  -    -   -   -          *            *)           *)      -
+bn/ctv/00/ctv_0053   0    6         代表    VV         (VP(VP*   -   01   -   -          *          (V*)           *       -
+bn/ctv/00/ctv_0053   0    7        西班牙    NR      (NP(NP(NP*)  -    -   -   -       (GPE)      (ARG1*            *      (3)
+bn/ctv/00/ctv_0053   0    8         国王    NN           (NP*))  -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0    9     胡安·卡洛斯    NR         (NP(NP*)  -    -   -   -   (PERSON*            *            *       -
+bn/ctv/00/ctv_0053   0   10          一    OD            (QP*)  -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   11          世    NN         (NP*))))  -    -   -   -          *)           *)           *       -
+bn/ctv/00/ctv_0053   0   12          ，    PU               *   -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   13          将    BA            (VP*   -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   14       伊莎贝尔    NR      (IP(NP(NP*   -    -   -   -    (PERSON)           *            *   (1|(2
+bn/ctv/00/ctv_0053   0   15         女王    NN               *)  -    -   -   -          *            *            *       1)
+bn/ctv/00/ctv_0053   0   16         皇家    NN            (NP*   -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   17         勋章    NN              *))  -    -   -   -          *            *            *       2)
+bn/ctv/00/ctv_0053   0   18         授予    VV            (VP*   -   01   -   -          *            *          (V*)      -
+bn/ctv/00/ctv_0053   0   19         北京    NR  (NP(NP(DNP(NP*   -    -   -   -      (FAC*            *       (ARG2*      (0
+bn/ctv/00/ctv_0053   0   20        外国语    NN               *   -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   21         大学    NN               *)  -    -   -   -          *)           *            *       -
+bn/ctv/00/ctv_0053   0   22          的   DEG               *)  -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   23         教授    NN           (NP*))  -    -   -   -          *            *            *       -
+bn/ctv/00/ctv_0053   0   24        董彦生    NR       (NP*))))))  -    -   -   -    (PERSON)           *            *)      0)
+bn/ctv/00/ctv_0053   0   25          。    PU              *))  -    -   -   -          *            *            *       -
+
+bn/ctv/00/ctv_0053   0    0       将    BA     (TOP(IP(IP(VP*   -    -    -   -            *        *   (ARG0*        *            *            *         *       -
+bn/ctv/00/ctv_0053   0    1    伊莎贝尔    NR         (IP(NP(NP*   -    -    -   -      (PERSON)       *        *        *            *            *         *   (1|(2
+bn/ctv/00/ctv_0053   0    2      女王    NN                  *)  -    -    -   -            *        *        *        *            *            *         *       1)
+bn/ctv/00/ctv_0053   0    3      皇家    NN               (NP*   -    -    -   -            *        *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0    4      勋章    NN                 *))  -    -    -   -            *        *        *        *            *            *         *       2)
+bn/ctv/00/ctv_0053   0    5      授予    VV               (VP*   -   01    -   -            *      (V*)       *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0    6     董彦生    NR               (NP*   -    -    -   -      (PERSON)  (ARG2*        *        *            *            *         *      (0
+bn/ctv/00/ctv_0053   0    7      教授    NN              *)))))  -    -    -   -            *        *)       *)       *            *            *         *       0)
+bn/ctv/00/ctv_0053   0    8       ，    PU                  *   -    -    -   -            *        *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0    9       是    VC               (VP*   -   01    2   -            *        *      (V*)       *            *            *         *       -
+bn/ctv/00/ctv_0053   0   10      为了     P               (PP*   -    -    -   -            *        *   (ARG1*        *            *            *         *       -
+bn/ctv/00/ctv_0053   0   11      表彰    VV            (IP(VP*   -   01    -   -            *        *        *      (V*)           *            *         *       -
+bn/ctv/00/ctv_0053   0   12       他    PN   (NP(CP(CP(IP(NP*)  -    -    -   -            *        *        *   (ARG1*       (ARG0*)      (ARG0*)   (ARG0*)     (0)
+bn/ctv/00/ctv_0053   0   13       多    CD     (VP(VP(LCP(QP*   -    -    -   -       (DATE*        *        *        *   (ARGM-TMP*   (ARGM-TMP*         *       -
+bn/ctv/00/ctv_0053   0   14       年     M             (CLP*))  -    -    -   -            *)       *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0   15       来    LC                  *)  -    -   13   -            *        *        *        *            *)           *)        *       -
+bn/ctv/00/ctv_0053   0   16       在     P               (PP*   -    -    2   -            *        *        *        *   (ARGM-LOC*   (ARGM-LOC*         *       -
+bn/ctv/00/ctv_0053   0   17      中国    NR              (NP*))  -    -    -   -         (GPE)       *        *        *            *)           *)        *       -
+bn/ctv/00/ctv_0053   0   18      讲授    VV            (VP(VP*   -   01    -   -            *        *        *        *          (V*)           *         *       -
+bn/ctv/00/ctv_0053   0   19    西班牙语    NN              (NP*))  -    -    -   -    (LANGUAGE)       *        *        *       (ARG1*)           *         *       -
+bn/ctv/00/ctv_0053   0   20       和    CC                  *   -    -    -   -            *        *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0   21      传授    VV               (VP*   -   01    -   -            *        *        *        *            *          (V*)        *       -
+bn/ctv/00/ctv_0053   0   22     西班牙    NR            (NP(NP*)  -    -    -   -         (ORG)       *        *        *            *       (ARG1*         *      (3)
+bn/ctv/00/ctv_0053   0   23      文化    NN           (NP*)))))  -    -    -   -            *        *        *        *            *            *)        *       -
+bn/ctv/00/ctv_0053   0   24       所   MSP               (VP*   -    -    -   -            *        *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0   25      作出    VV            (VP*))))  -   01    -   -            *        *        *        *            *            *       (V*)      -
+bn/ctv/00/ctv_0053   0   26       的   DEC                 *))  -    -    -   -            *        *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0   27      杰出    JJ             (ADJP*)  -    -    -   -            *        *        *        *            *            *         *       -
+bn/ctv/00/ctv_0053   0   28      贡献    NN          (NP*))))))  -    -    -   -            *        *        *)       *)           *            *    (ARG1*)      -
+bn/ctv/00/ctv_0053   0   29       。    PU                 *))  -    -    -   -            *        *        *        *            *            *         *       -
+
+bn/ctv/00/ctv_0053   0    0      董彦生    NR      (TOP(IP(NP*   -    -   -   -         (PERSON)       (ARG0*        (ARG0*        (ARG0*      *   (0
+bn/ctv/00/ctv_0053   0    1       教授    NN                *)  -    -   -   -               *             *)            *)            *)     *    0)
+bn/ctv/00/ctv_0053   0    2        在     P          (VP(PP*   -    -   2   -               *    (ARGM-TMP*    (ARGM-TMP*    (ARGM-TMP*      *    -
+bn/ctv/00/ctv_0053   0    3       ４０    CD  (LCP(NP(DNP(QP*   -    -   -   -          (DATE*             *             *             *      *    -
+bn/ctv/00/ctv_0053   0    4        年     M           (CLP*))  -    -   -   -               *)            *             *             *      *    -
+bn/ctv/00/ctv_0053   0    5        的   DEG                *)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0    6     西班牙语    NN             (NP*   -    -   -   -       (LANGUAGE)            *             *             *      *    -
+bn/ctv/00/ctv_0053   0    7       教学    NN                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0    8       生涯    NN               *))  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0    9        中    LC               *))  -    -   -   -               *             *)            *)            *)     *    -
+bn/ctv/00/ctv_0053   0   10       先后    AD     (VP(VP(ADVP*)  -    -   -   -               *    (ARGM-ADV*)   (ARGM-ADV*)            *      *    -
+bn/ctv/00/ctv_0053   0   11       编写    VV          (VP(VP*)  -   01   -   -               *           (V*)            *             *      *    -
+bn/ctv/00/ctv_0053   0   12        和    CC                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   13       翻译    VV             (VP*   -   01   -   -               *             *           (V*)            *      *    -
+bn/ctv/00/ctv_0053   0   14        了    AS                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   15        《    PU       (NP(NP(NP*   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   16     西班牙语    NN                *   -    -   -   -    (WORK_OF_ART)            *             *             *      *    -
+bn/ctv/00/ctv_0053   0   17        》    PU                *)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   18        、    PU                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   19        《    PU             (NP*   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   20       现代    JJ           (ADJP*)  -    -   -   -   (WORK_OF_ART*             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   21     西班牙语    NN             (NP*)  -    -   -   -               *)            *             *             *      *    -
+bn/ctv/00/ctv_0053   0   22        》    PU                *)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   23        、    PU                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   24        《    PU             (NP*   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   25    唐·吉诃德    NR                *   -    -   -   -    (WORK_OF_ART)            *             *             *      *    -
+bn/ctv/00/ctv_0053   0   26        》    PU                *)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   27        等   ETC                *)  -    -   2   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   28       相当    JJ    (DNP(NP(ADJP*)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   29       数量    NN            (NP*))  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   30        的   DEG                *)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   31      教课书    NN             (NP*   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   32        和    CC                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   33       文学    NN             (NP*   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   34       作品    NN           *))))))  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   35        ，    PU                *   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   36        并    AD        (VP(ADVP*)  -    -   -   -               *             *             *    (ARGM-DIS*)     *    -
+bn/ctv/00/ctv_0053   0   37       培养    VV         (VP(VRD*   -   01   -   -               *             *             *           (V*)     *    -
+bn/ctv/00/ctv_0053   0   38        出    VV                *)  -   01   8   -               *             *             *             *    (V*)   -
+bn/ctv/00/ctv_0053   0   39        一    CD       (NP(QP(QP*   -    -   -   -               *             *             *        (ARG1*      *    -
+bn/ctv/00/ctv_0053   0   40        批     M           (CLP*))  -    -   2   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   41        又    AD        (QP(ADVP*)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   42        一    CD             (QP*   -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   43        批     M         (CLP*))))  -    -   2   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   44     西班牙语    NN             (NP*)  -    -   -   -       (LANGUAGE)            *             *             *      *    -
+bn/ctv/00/ctv_0053   0   45       专业    JJ           (ADJP*)  -    -   -   -               *             *             *             *      *    -
+bn/ctv/00/ctv_0053   0   46       人才    NN        (NP*))))))  -    -   -   -               *             *             *             *)     *    -
+bn/ctv/00/ctv_0053   0   47        。    PU               *))  -    -   -   -               *             *             *             *      *    -
+
+bn/ctv/00/ctv_0053   0    0    董彦生    NR    (TOP(IP(NP*   -    -   -   -     (PERSON)  (ARG0*         *   (0
+bn/ctv/00/ctv_0053   0    1     教授    NN              *)  -    -   -   -           *        *)        *    0)
+bn/ctv/00/ctv_0053   0    2      是    VC           (VP*   -   01   1   -           *      (V*)        *    -
+bn/ctv/00/ctv_0053   0    3     第一    OD        (NP(QP*   -    -   -   -    (ORDINAL)  (ARG1*         *    -
+bn/ctv/00/ctv_0053   0    4      位     M         (CLP*))  -    -   2   -           *        *         *    -
+bn/ctv/00/ctv_0053   0    5     获得    VV  (CP(CP(IP(VP*   -   01   -   -           *        *       (V*)   -
+bn/ctv/00/ctv_0053   0    6      此    DT        (NP(DP*   -    -   -   -           *        *    (ARG1*   (2
+bn/ctv/00/ctv_0053   0    7      项     M         (CLP*))  -    -   -   -           *        *         *    -
+bn/ctv/00/ctv_0053   0    8     殊荣    NN        (NP*))))  -    -   -   -           *        *         *)   2)
+bn/ctv/00/ctv_0053   0    9      的   DEC             *))  -    -   -   -           *        *         *    -
+bn/ctv/00/ctv_0053   0   10    中国人    NN         (NP*)))  -    -   -   -       (NORP)       *)   (ARG0*)   -
+bn/ctv/00/ctv_0053   0   11      。    PU             *))  -    -   -   -           *        *         *    -
+
+bn/ctv/00/ctv_0053   0   0    中央台   NR   (TOP(IP(NP(NP*)  -    -   -   -    (ORG)  (ARG0*   -
+bn/ctv/00/ctv_0053   0   1     记者   NN            (NP*))  -    -   -   -       *        *)  -
+bn/ctv/00/ctv_0053   0   2     报道   VV             (VP*)  -   01   -   -       *      (V*)  -
+bn/ctv/00/ctv_0053   0   3      。   PU               *))  -    -   -   -       *        *   -
+
+#end document

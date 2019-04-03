@@ -1,0 +1,406 @@
+#begin document (bn/cnr/00/cnr_0007); part 000
+bn/cnr/00/cnr_0007   0    0     集聚    VV   (TOP(IP(IP(VP*    -   -   -   -   *   (ARGM-ADV*        *            *            *     -
+bn/cnr/00/cnr_0007   0    1      在     P             (PP*    -   -   2   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0    2      一    CD          (NP(QP*    -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0    3      个     M           (CLP*))   -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0    4     城镇    NN         (NP*)))))   -   -   -   -   *            *)       *            *            *     -
+bn/cnr/00/cnr_0007   0    5      ，    PU                *    -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0    6    产业区    NN      (NP(LCP(NP*)   -   -   -   -   *       (ARG0*        *            *       (ARG1*    (1)
+bn/cnr/00/cnr_0007   0    7      中    LC                *)   -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0    8     特有    JJ       (DNP(ADJP*)   -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0    9      的   DEG                *)   -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0   10     创新    NN             (NP*    -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0   11     文化    NN               *))   -   -   1   -   *            *)       *            *            *)    -
+bn/cnr/00/cnr_0007   0   12      使    VV             (VP*     使  -   1   -   *          (V*)       *            *            *     -
+bn/cnr/00/cnr_0007   0   13     知识    NN             (NP*    -   -   -   -   *       (ARG1*        *       (ARG1*       (ARG1*     -
+bn/cnr/00/cnr_0007   0   14      和    CC                *    -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0   15     技术    NN                *)   -   -   1   -   *            *)       *            *)           *)    -
+bn/cnr/00/cnr_0007   0   16     不断    VA   (IP(VP(DVP(VP*)   不断  -   -   -   *       (ARG2*      (V*)  (ARGM-ADV*   (ARGM-ADV*     -
+bn/cnr/00/cnr_0007   0   17      的   DEV                *)   -   -   -   -   *            *        *            *)           *)    -
+bn/cnr/00/cnr_0007   0   18     积累    VV          (VP(VP*)   积累  -   -   -   *            *   (ARG0*          (V*)           *     -
+bn/cnr/00/cnr_0007   0   19      、    PU                *    -   -   -   -   *            *        *            *            *     -
+bn/cnr/00/cnr_0007   0   20     扩散    VV         (VP*)))))   扩散  -   -   -   *            *)       *)           *          (V*)    -
+bn/cnr/00/cnr_0007   0   21      。    PU               *))   -   -   -   -   *            *        *            *            *     -
+
+bn/cnr/00/cnr_0007   0    0     权威    NN       (TOP(IP(NP*     -   -   -   -   *   (ARG0*         *             *        *     -
+bn/cnr/00/cnr_0007   0    1     人士    NN                 *)    -   -   -   -   *        *)        *             *        *     -
+bn/cnr/00/cnr_0007   0    2     指出    VV              (VP*     指出  -   -   -   *      (V*)        *             *        *     -
+bn/cnr/00/cnr_0007   0    3      ：    PU                 *     -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0    4     浙江    NR           (IP(NP*)    -   -   -   -   *   (ARG1*    (ARG0*)       (ARG0*)       *    (2)
+bn/cnr/00/cnr_0007   0    5      把    BA           (VP(VP*     -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0    6     特色    NN           (IP(NP*)    -   -   -   -   *        *         *             *        *    (1
+bn/cnr/00/cnr_0007   0    7    产业区    VV              (VP*    产业区  -   -   -   *        *       (V*)            *        *     1)
+bn/cnr/00/cnr_0007   0    8     作为     P           (NP(PP*     -   -   1   -   *        *    (ARG2*             *        *     -
+bn/cnr/00/cnr_0007   0    9     经济    NN       (NP(DNP(NP*     -   -   2   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   10     发展    NN                 *)    -   -   1   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   11      的   DEG                 *)    -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   12     战略    NN            (NP*)))    -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   13     选择    NN          (NP*)))))    -   -   -   -   *        *         *)            *        *     -
+bn/cnr/00/cnr_0007   0   14      ，    PU                 *     -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   15      正    AD         (VP(ADVP*)    -   -   -   -   *        *         *    (ARGM-ADV*)       *     -
+bn/cnr/00/cnr_0007   0   16      是    VC              (VP*      是  -   1   -   *        *         *           (V*)       *     -
+bn/cnr/00/cnr_0007   0   17      这    DT  (NP(CP(IP(NP(DP*     -   -   -   -   *        *         *        (ARG1*   (ARG0*    (2
+bn/cnr/00/cnr_0007   0   18      个     M            (CLP*))    -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   19      省    NN             (NP*))    -   -   -   -   *        *         *             *        *)    2)
+bn/cnr/00/cnr_0007   0   20     充满    VV              (VP*     充满  -   -   -   *        *         *             *      (V*)    -
+bn/cnr/00/cnr_0007   0   21     活力    NN              (NP*     -   -   -   -   *        *         *             *   (ARG1*     -
+bn/cnr/00/cnr_0007   0   22      和    CC                 *     -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   23     竞争    NN                 *     -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   24     优势    NN               *)))    -   -   -   -   *        *         *             *        *)    -
+bn/cnr/00/cnr_0007   0   25      的   DEC                 *)    -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   26     关键    NN              (NP*     -   -   -   -   *        *         *             *        *     -
+bn/cnr/00/cnr_0007   0   27     所在    NN           *)))))))    -   -   -   -   *        *)        *             *)       *     -
+bn/cnr/00/cnr_0007   0   28      。    PU                *))    -   -   -   -   *        *         *             *        *     -
+
+bn/cnr/00/cnr_0007   0    0    二十一    OD   (TOP(IP(IP(NP(NP(NP(QP*)   -   -   -   -   *        (ARG0*      *      *        *     -
+bn/cnr/00/cnr_0007   0    1     世纪    NN                     (NP*))   -   -   1   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0    2      省    NN                      (NP*    -   -   -   -   *             *      *      *        *    (0
+bn/cnr/00/cnr_0007   0    3      市    NN                        *))   -   -   1   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0    4     区域    NN              (DNP(LCP(NP*)   -   -   -   -   *             *      *      *        *     0)
+bn/cnr/00/cnr_0007   0    5     之间    LC                         *)   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0    6      的   DEG                         *)   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0    7     经济    NN                      (NP*    -   -   2   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0    8     实力    NN                         *    -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0    9      和    CC                         *    -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   10    竞争力    NN                        *))   -   -   -   -   *             *)     *      *        *     -
+bn/cnr/00/cnr_0007   0   11      的   DEG                     (DFL*)   -   -   -   -   *    (ARGM-ADV*)     *      *        *     -
+bn/cnr/00/cnr_0007   0   12     比较    AD                     (DFL*)   -   -   -   -   *    (ARGM-ADV*)     *      *        *     -
+bn/cnr/00/cnr_0007   0   13      ，    PU                         *    -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   14      不    AD                 (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *      *        *     -
+bn/cnr/00/cnr_0007   0   15      再    AD                    (ADVP*)   -   -   1   -   *    (ARGM-ADV*)     *      *        *     -
+bn/cnr/00/cnr_0007   0   16      是    VC                      (VP*     是  -   1   -   *           (V*)     *      *        *     -
+bn/cnr/00/cnr_0007   0   17     单纯    JJ             (QP(DNP(ADJP*)   -   -   -   -   *        (ARG1*      *      *        *     -
+bn/cnr/00/cnr_0007   0   18      的   DEG                         *)   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   19    ｇｄｐ    NN               (QP(DNP(NP*    -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   20     总量    NN                         *)   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   21      的   DEG                         *)   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   22     多少    CD                 (QP*))))))   -   -   -   -   *             *)     *      *        *     -
+bn/cnr/00/cnr_0007   0   23      ，    PU                         *    -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   24     重要    VA         (IP(NP(CP(IP(VP*))   重要  -   -   -   *             *    (V*)     *   (ARG0*     -
+bn/cnr/00/cnr_0007   0   25      的   DEC                        *))   -   -   -   -   *             *      *      *        *)    -
+bn/cnr/00/cnr_0007   0   26      是    VC                      (VP*     是  -   1   -   *             *      *    (V*)       *     -
+bn/cnr/00/cnr_0007   0   27      看    VV                      (VP*     看  -   2   -   *             *      *      *      (V*)    -
+bn/cnr/00/cnr_0007   0   28      其    PN         (NP(DNP(NP(NP(NP*)   -   -   -   -   *             *      *      *   (ARG1*    (0)
+bn/cnr/00/cnr_0007   0   29     优势    NN                      (NP*    -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   30     产品    NN                        *))   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   31     行业    NN                     (NP*))   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   32      的   DEG                         *)   -   -   -   -   *             *      *      *        *     -
+bn/cnr/00/cnr_0007   0   33     份量    NN                  (NP*)))))   -   -   -   -   *             *      *      *        *)    -
+bn/cnr/00/cnr_0007   0   34      。    PU                        *))   -   -   -   -   *             *      *      *        *     -
+
+bn/cnr/00/cnr_0007   0    0      浙江    NR        (TOP(IP(IP(NP*)     -   -   -   -   *        (ARG0*)      (ARG0*)            *             *        *    (2)
+bn/cnr/00/cnr_0007   0    1       较    AD      (VP(DVP(VP(ADVP*)     -   -   -   -   *    (ARGM-ADV*)  (ARGM-ADV*             *             *        *     -
+bn/cnr/00/cnr_0007   0    2       早    VA                 (VP*))      早  -   1   -   *           (V*)           *             *             *        *     -
+bn/cnr/00/cnr_0007   0    3       的   DEV                     *)     -   -   -   -   *             *            *)            *             *        *     -
+bn/cnr/00/cnr_0007   0    4      根据     P               (VP(PP*      -   -   -   -   *             *   (ARGM-MNR*             *             *        *     -
+bn/cnr/00/cnr_0007   0    5       各    DT            (NP(NP(DP*)     -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0    6       地    NN                 (NP*))     -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0    7      实际    NN                (NP*)))     -   -   -   -   *             *            *)            *             *        *     -
+bn/cnr/00/cnr_0007   0    8       ，    PU                     *      -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0    9      进行    VV                  (VP*      进行  -   3   -   *             *          (V*)            *             *        *     -
+bn/cnr/00/cnr_0007   0   10     专业化    JJ   (NP(DNP(NP(NP(ADJP*)     -   -   -   -   *             *       (ARG1*             *             *        *    (3
+bn/cnr/00/cnr_0007   0   11      特色    NN                 (NP*))     -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0   12      产业    NN                 (NP*))     -   -   2   -   *             *            *             *             *        *     3)
+bn/cnr/00/cnr_0007   0   13       的   DEG                     *)     -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0   14      建设    NN             (NP*))))))     -   -   -   -   *             *            *)            *             *        *     -
+bn/cnr/00/cnr_0007   0   15       ，    PU                     *      -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0   16       一    CD            (IP(NP(QP*)     -   -   -   -   *             *            *        (ARG0*             *        *     -
+bn/cnr/00/cnr_0007   0   17       县    NN                 (NP*))     -   -   -   -   *             *            *             *)            *        *     -
+bn/cnr/00/cnr_0007   0   18       一    AD             (VP(ADVP*)     -   -   -   -   *             *            *    (ARGM-ADV*)            *        *     -
+bn/cnr/00/cnr_0007   0   19     产业群    VV                (VP*)))    产业群  -   -   -   *             *            *           (V*)            *        *     -
+bn/cnr/00/cnr_0007   0   20       ，    PU                     *      -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0   21       一    CD            (IP(NP(QP*)     -   -   -   -   *             *            *             *        (ARG0*   (ARG0*     -
+bn/cnr/00/cnr_0007   0   22       镇    NN                 (NP*))     -   -   -   -   *             *            *             *             *)       *)    -
+bn/cnr/00/cnr_0007   0   23       一    AD          (VP(VP(ADVP*)     -   -   -   -   *             *            *             *    (ARGM-ADV*)       *     -
+bn/cnr/00/cnr_0007   0   24     专业品    VV                 (VP*))    专业品  -   -   -   *             *            *             *           (V*)       *     -
+bn/cnr/00/cnr_0007   0   25       ，    PU                     *      -   -   -   -   *             *            *             *             *        *     -
+bn/cnr/00/cnr_0007   0   26    比比皆是    VV                (VP*)))   比比皆是  -   -   -   *             *            *             *             *      (V*)    -
+bn/cnr/00/cnr_0007   0   27       。    PU                    *))     -   -   -   -   *             *            *             *             *        *     -
+
+bn/cnr/00/cnr_0007   0    0       全    DT   (TOP(IP(IP(NP(CP(IP(NP(NP(NP(DP*)   -   -   2   -   *   (ARG0*   (ARG0*             *        *   (2|(4
+bn/cnr/00/cnr_0007   0    1       省    NN                              (NP*))   -   -   -   -   *        *        *             *        *       2)
+bn/cnr/00/cnr_0007   0    2      特色    NN                              (NP*))   -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0    3      经济    NN                              (NP*))   -   -   2   -   *        *)       *             *        *       -
+bn/cnr/00/cnr_0007   0    4      超过    VV                               (VP*    超过  -   -   -   *      (V*)       *             *        *       -
+bn/cnr/00/cnr_0007   0    5      １亿    CD                               (QP*    -   -   -   -   *   (ARG1*        *             *        *       -
+bn/cnr/00/cnr_0007   0    6       元     M                           (CLP*))))   -   -   -   -   *        *)       *             *        *       -
+bn/cnr/00/cnr_0007   0    7       的   DEC                                  *)   -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0    8      区块    NN                              (NP*))   -   -   -   -   *        *        *)            *        *       4)
+bn/cnr/00/cnr_0007   0    9       有    VE                               (VP*     有  -   1   -   *        *      (V*)            *        *       -
+bn/cnr/00/cnr_0007   0   10    ３００多    CD                               (QP*    -   -   -   -   *        *   (ARG1*             *        *       -
+bn/cnr/00/cnr_0007   0   11       个     M                           (CLP*))))   -   -   -   -   *        *        *)            *        *       -
+bn/cnr/00/cnr_0007   0   12       ，    PU                                  *    -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0   13      其中    NN                   (IP(NP(CP(IP(NP*)   -   -   -   -   *        *        *    (ARGM-LOC*)  (ARG1*      (4)
+bn/cnr/00/cnr_0007   0   14       占    VV                               (VP*     占  -   1   -   *        *        *           (V*)       *       -
+bn/cnr/00/cnr_0007   0   15      国内    NN                        (LCP(QP(NP*    -   -   -   -   *        *        *        (ARG1*        *       -
+bn/cnr/00/cnr_0007   0   16      市场    NN                                  *    -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0   17      份额    NN                                  *)   -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0   18     ２０％    CD                              (QP*))   -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0   19      以上    LC                                *)))   -   -   -   -   *        *        *             *)       *       -
+bn/cnr/00/cnr_0007   0   20       的   DEC                                  *)   -   -   -   -   *        *        *             *        *       -
+bn/cnr/00/cnr_0007   0   21      产品    NN                              (NP*))   -   -   -   -   *        *        *        (ARG1*)       *)      -
+bn/cnr/00/cnr_0007   0   22       有    VE                               (VP*     有  -   2   -   *        *        *        (ARG0*      (V*)      -
+bn/cnr/00/cnr_0007   0   23     ３０多    CD                               (QP*    -   -   -   -   *        *        *             *   (ARG1*       -
+bn/cnr/00/cnr_0007   0   24       个     M                           (CLP*))))   -   -   -   -   *        *        *             *)       *)      -
+bn/cnr/00/cnr_0007   0   25       。    PU                                 *))   -   -   -   -   *        *        *             *        *       -
+
+bn/cnr/00/cnr_0007   0    0     温州   NR  (TOP(IP(IP(IP(NP*    -   -   -   -   *   (ARG0*   (ARG0*   -
+bn/cnr/00/cnr_0007   0    1    桥头镇   NN                  *)   -   -   -   -   *        *)       *   -
+bn/cnr/00/cnr_0007   0    2     号称   VV               (VP*    号称  -   -   -   *      (V*)       *   -
+bn/cnr/00/cnr_0007   0    3      “   PU               (NP*    -   -   -   -   *   (ARG1*        *   -
+bn/cnr/00/cnr_0007   0    4     远东   NR               (NP*)   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0    5     第一   OD               (QP*)   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0    6     钮扣   NN               (NP*    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0    7     市场   NN                  *)   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0    8      ”   PU                *)))   -   -   -   -   *        *)       *)  -
+bn/cnr/00/cnr_0007   0    9      有   VE               (VP*     有  -   4   -   *        *      (V*)  -
+bn/cnr/00/cnr_0007   0   10      近   AD       (NP(QP(ADVP*)   -   -   -   -   *        *   (ARG1*   -
+bn/cnr/00/cnr_0007   0   11      千   CD               (QP*    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   12      家    M            (CLP*)))   -   -   1   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   13     纽扣   NN               (NP*    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   14     生产   NN                  *    -   -   3   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   15     企业   NN               *))))   -   -   -   -   *        *        *)  -
+bn/cnr/00/cnr_0007   0   16      ，   PU                  *    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   17      近   AD          (IP(ADVP*)   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   18      万   CD            (NP(QP*    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   19      个    M             (CLP*))   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   20     纽扣   JJ             (ADJP*)   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   21     品种   NN              (NP*))   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   22      ，   PU                  *    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   23      年   JJ          (NP(ADJP*)   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   24    销售量   NN              (NP*))   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   25    ３０亿   CD            (VP(QP*    -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   26      元    M           (CLP*))))   -   -   -   -   *        *        *   -
+bn/cnr/00/cnr_0007   0   27      。   PU                 *))   -   -   -   -   *        *        *   -
+
+bn/cnr/00/cnr_0007   0    0      宁波    NR   (TOP(IP(NP(DNP(NP*)     -   -   -   -   *        (ARG0*      *      *             *        (ARG0*   -
+bn/cnr/00/cnr_0007   0    1       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    2      服装    NN                 (NP*      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    3       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    4      海宁    NN          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    5       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    6      皮革    NR                (NP*))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    7       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    8      永康    NR          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0    9       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   10      五金    NR                (NP*))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   11       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   12      胜州    NN          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   13       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   14      领带    NN                (NP*))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   15       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   16      大唐    NN          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   17       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   18      袜业    NR                (NP*))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   19       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   20      义乌    NR          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   21       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   22       小    JJ               (ADJP*)     -   -   1   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   23      商品    NN                (NP*))     -   -   1   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   24       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   25      上虞    NN          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   26       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   27      节能    NN                 (NP*      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   28       灯    NN                   *))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   29       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   30      安吉    NN          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   31       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   32     轮转椅    NN                (NP*))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   33       、    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   34      徐村    NN          (NP(DNP(NP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   35       的   DEG                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   36     装饰布    NN                (NP*))     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   37       等   ETC                   *))     -   -   2   -   *             *)     *      *             *             *)  -
+bn/cnr/00/cnr_0007   0   38       都    AD         (VP(VP(ADVP*)     -   -   -   -   *    (ARGM-ADV*)     *      *             *             *   -
+bn/cnr/00/cnr_0007   0   39       在     P                 (PP*      -   -   2   -   *    (ARGM-LOC*      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   40       全    DT              (NP(DP*)     -   -   2   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   41       国    NN               (NP*)))     -   -   1   -   *             *)     *      *             *             *   -
+bn/cnr/00/cnr_0007   0   42      占有    VV                 (VP*      占有  -   -   -   *           (V*)     *      *             *             *   -
+bn/cnr/00/cnr_0007   0   43    举足轻重    VV       (NP(CP(IP(VP*))   举足轻重  -   -   -   *        (ARG1*    (V*)     *             *             *   -
+bn/cnr/00/cnr_0007   0   44       的   DEC                    *)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   45      地位    NN              (NP*))))     -   -   -   -   *             *)     *      *             *             *   -
+bn/cnr/00/cnr_0007   0   46       ，    PU                    *      -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   47       真    AD         (VP(VP(ADVP*)     -   -   1   -   *             *      *      *    (ARGM-ADV*)            *   -
+bn/cnr/00/cnr_0007   0   48       是    VC                 (VP*       是  -   1   -   *             *      *    (V*)            *             *   -
+bn/cnr/00/cnr_0007   0   49       一    AD            (VP(ADVP*)     -   -   -   -   *             *      *      *    (ARGM-ADV*)            *   -
+bn/cnr/00/cnr_0007   0   50       不    AD               (ADVP*)     -   -   -   -   *             *      *      *    (ARGM-ADV*)            *   -
+bn/cnr/00/cnr_0007   0   51      小心    VA              (VP*))))     小心  -   -   -   *             *      *      *           (V*)            *   -
+bn/cnr/00/cnr_0007   0   52       就    AD            (VP(ADVP*)     -   -   2   -   *             *      *      *             *    (ARGM-ADV*)  -
+bn/cnr/00/cnr_0007   0   53      遇上    VV                 (VP*      遇上  -   -   -   *             *      *      *             *           (V*)  -
+bn/cnr/00/cnr_0007   0   54       个     M         (NP(QP(CLP*))     -   -   -   -   *             *      *      *             *        (ARG1*   -
+bn/cnr/00/cnr_0007   0   55      专业    JJ               (ADJP*)     -   -   -   -   *             *      *      *             *             *   -
+bn/cnr/00/cnr_0007   0   56      村镇    NN            (NP*))))))     -   -   -   -   *             *      *      *             *             *)  -
+bn/cnr/00/cnr_0007   0   57       。    PU                   *))     -   -   -   -   *             *      *      *             *             *   -
+
+bn/cnr/00/cnr_0007   0    0      最    AD   (TOP(IP(NP(CP(IP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)  (ARG0*        (ARG0*        (ARG0*        *    (ARG0*             *        -
+bn/cnr/00/cnr_0007   0    1      令    VV                        (VP*     令  -   1   -   *           (V*)            *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0    2      人    NN                        (NP*)   -   -   1   -   *        (ARG1*)            *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0    3     鼓舞    VV                 (IP(VP*)))))   鼓舞  -   -   -   *        (ARG2*)          (V*)       *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0    4      的   DEC                          *))   -   -   -   -   *             *             *        *)            *)            *)       *         *)            *        -
+bn/cnr/00/cnr_0007   0    5      是    VC                     (VP(VP*     是  -   1   -   *             *             *      (V*)            *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0    6     浙江    NR                 (NP(DNP(NP*)   -   -   -   -   *             *             *   (ARG1*             *             *        *         *             *    (3|(2)
+bn/cnr/00/cnr_0007   0    7      的   DEG                           *)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0    8     区域    NN                        (NP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0    9     特色    NN                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   10     产业    NN                         *)))   -   -   2   -   *             *             *        *)            *             *        *         *             *        3)
+bn/cnr/00/cnr_0007   0   11      ，    PU                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   12     经过     P                     (VP(PP*    -   -   -   -   *             *             *        *    (ARGM-MNR*             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   13      几    CD                     (NP(QP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   14      年     M                      (CLP*))   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   15     发展    NN                      (NP*)))   -   -   1   -   *             *             *        *             *)            *        *         *             *        -
+bn/cnr/00/cnr_0007   0   16      已    AD                      (ADVP*)   -   -   2   -   *             *             *        *    (ARGM-ADV*)            *        *         *             *        -
+bn/cnr/00/cnr_0007   0   17     摆脱    VV                        (VP*    摆脱  -   2   -   *             *             *        *           (V*)            *        *         *             *        -
+bn/cnr/00/cnr_0007   0   18     传统    JJ                   (NP(ADJP*)   -   -   -   -   *             *             *        *        (ARG1*             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   19     生产    NN                        (NP*    -   -   3   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   20     方式    NN                        *))))   -   -   -   -   *             *             *        *             *)            *        *         *             *        -
+bn/cnr/00/cnr_0007   0   21      ，    PU                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   22     大多    AD                   (VP(ADVP*)   -   -   -   -   *             *             *        *             *    (ARGM-ADV*)       *         *             *        -
+bn/cnr/00/cnr_0007   0   23      是    VC                        (VP*     是  -   1   -   *             *             *        *             *           (V*)       *         *             *        -
+bn/cnr/00/cnr_0007   0   24     高新    JJ       (NP(NP(CP(IP(NP(ADJP*)   -   -   -   -   *             *             *        *             *        (ARG1*   (ARG1*         *             *        -
+bn/cnr/00/cnr_0007   0   25     技术    NN                       (NP*))   -   -   1   -   *             *             *        *             *             *        *)        *             *        -
+bn/cnr/00/cnr_0007   0   26     控制    VV                       (VP*))   控制  -   -   -   *             *             *        *             *             *      (V*)        *             *        -
+bn/cnr/00/cnr_0007   0   27      的   DEC                           *)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   28    专业化    NN                        (NP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   29     生产    NN                          *))   -   -   3   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   30      ，    PU                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   31     独特    JJ               (NP(DNP(ADJP*)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   32      的   DEG                           *)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   33     产品    NN                        (NP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   34     设计    NN                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   35     风格    NN                          *))   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   36      ，    PU                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   37    现代化    JJ               (NP(DNP(ADJP*)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   38      的   DEG                           *)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   39     电子    NN                        (NP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   40     营销    NN                           *)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   41     手段    NN                       (NP*))   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   42      ，    PU                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   43     加上    CC                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   44     配套    NN                        (NP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   45     产业    NN                           *    -   -   2   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   46      和    CC                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   47     服务    NN                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   48     设施    NN                        *))))   -   -   -   -   *             *             *        *             *             *)       *         *             *        -
+bn/cnr/00/cnr_0007   0   49      ，    PU                           *    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   50      使    VV                        (VP*     使  -   1   -   *             *             *        *             *             *        *       (V*)            *        -
+bn/cnr/00/cnr_0007   0   51      其    PN                        (NP*)   -   -   -   -   *             *             *        *             *             *        *    (ARG1*)            *       (3)
+bn/cnr/00/cnr_0007   0   52      在     P                  (IP(VP(PP*    -   -   2   -   *             *             *        *             *             *        *    (ARG2*        (ARG1*        -
+bn/cnr/00/cnr_0007   0   53    国内外    NN                    (LCP(NP*    -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   54     竞争    NN                           *)   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+bn/cnr/00/cnr_0007   0   55      中    LC                          *))   -   -   -   -   *             *             *        *             *             *        *         *             *)       -
+bn/cnr/00/cnr_0007   0   56     屡屡    AD                      (ADVP*)   -   -   -   -   *             *             *        *             *             *        *         *    (ARGM-ADV*)       -
+bn/cnr/00/cnr_0007   0   57     获胜    VV                    (VP*)))))   获胜  -   -   -   *             *             *        *             *             *        *         *)          (V*)       -
+bn/cnr/00/cnr_0007   0   58      。    PU                          *))   -   -   -   -   *             *             *        *             *             *        *         *             *        -
+
+bn/cnr/00/cnr_0007   0    0    浙江省    NR   (TOP(IP(NP(NP(NP*)   -   -   -   -   *   (ARG0*    (ARG0*      *        (ARG0*             *    (2)
+bn/cnr/00/cnr_0007   0    1     经济    NN                (NP*    -   -   2   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0    2     贸易    NN                   *    -   -   1   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0    3    委员会    NN                   *)   -   -   1   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0    4     主任    NN               (NP*))   -   -   -   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0    5    金德水    NR               (NP*))   -   -   -   -   *        *)        *)     *             *)            *     -
+bn/cnr/00/cnr_0007   0    6      说    VV                (VP*     说  -   7   -   *      (V*)        *      *             *             *     -
+bn/cnr/00/cnr_0007   0    7      ：    PU                   *    -   -   -   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0    8      “    PU                   *    -   -   -   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0    9     我们    PN             (IP(NP*)   -   -   -   -   *   (ARG1*    (ARG0*)     *        (ARG0*)       (ARG0*)   (2
+bn/cnr/00/cnr_0007   0   10     浙江    NR          (VP(VP(NP*)   -   -   -   -   *        *    (ARG0*)     *             *             *     2)
+bn/cnr/00/cnr_0007   0   11     把握    VV            (VP(VRD*    把握  -   -   -   *        *       (V*)     *             *             *     -
+bn/cnr/00/cnr_0007   0   12      住    VV                   *)    住  -   1   -   *        *         *    (V*)            *             *     -
+bn/cnr/00/cnr_0007   0   13      新    JJ       (NP(DNP(ADJP*)   -   -   1   -   *        *    (ARG1*      *             *             *     -
+bn/cnr/00/cnr_0007   0   14      的   DEG                   *)   -   -   -   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0   15     转机    NN             (NP*))))   -   -   -   -   *        *         *)     *             *             *     -
+bn/cnr/00/cnr_0007   0   16      ，    PU                   *    -   -   -   -   *        *         *      *             *             *     -
+bn/cnr/00/cnr_0007   0   17     再次    AD           (VP(ADVP*)   -   -   -   -   *        *         *      *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cnr/00/cnr_0007   0   18     增长    VV            (VP(VCD*    增长  -   1   -   *        *         *      *           (V*)            *     -
+bn/cnr/00/cnr_0007   0   19     领先    VV              *))))))   领先  -   -   -   *        *)        *      *    (ARGM-ADV*)          (V*)    -
+bn/cnr/00/cnr_0007   0   20      。    PU                  *))   -   -   -   -   *        *         *      *             *             *     -
+
+bn/cnr/00/cnr_0007   0    0    之所以    AD   (TOP(IP(IP(VP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)   (ARGM-ADV*             *     -
+bn/cnr/00/cnr_0007   0    1     领先    VV                (VP*)))   领先  -   -   -   *           (V*)            *)            *     -
+bn/cnr/00/cnr_0007   0    2      ，    PU                     *    -   -   -   -   *             *             *             *     -
+bn/cnr/00/cnr_0007   0    3     根本    JJ         (NP(DNP(ADJP*)   -   -   1   -   *             *        (ARG0*             *     -
+bn/cnr/00/cnr_0007   0    4      的   DEG                    *))   -   -   -   -   *             *             *)            *     -
+bn/cnr/00/cnr_0007   0    5      还    AD             (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *     -
+bn/cnr/00/cnr_0007   0    6     在于    VV                  (VP*    在于  -   -   -   *             *           (V*)            *     -
+bn/cnr/00/cnr_0007   0    7     我们    PN            (IP(NP(NP*)   -   -   -   -   *             *        (ARG1*        (ARG0*     -
+bn/cnr/00/cnr_0007   0    8     浙江    NR                 (NP*))   -   -   -   -   *             *             *             *)   (2)
+bn/cnr/00/cnr_0007   0    9     区域    NN                  (NP*    -   -   -   -   *             *             *        (ARG0*     -
+bn/cnr/00/cnr_0007   0   10     经济    NN                     *    -   -   2   -   *             *             *             *     -
+bn/cnr/00/cnr_0007   0   11     活力    NN                     *)   -   -   -   -   *             *             *             *)    -
+bn/cnr/00/cnr_0007   0   12      较    AD             (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-ADV*)    -
+bn/cnr/00/cnr_0007   0   13      强    VA              (VP*)))))    强  -   -   -   *             *             *)          (V*)    -
+bn/cnr/00/cnr_0007   0   14      。    PU                    *))   -   -   -   -   *             *             *             *     -
+
+bn/cnr/00/cnr_0007   0    0       多    CD   (TOP(IP(LCP(QP*    -   -    3   -   *         *         *         *         *        *             *         *      *         *        *   (ARGM-TMP*   (ARGM-TMP*        *     -
+bn/cnr/00/cnr_0007   0    1       年     M            (CLP*))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0    2       来    LC                 *)   -   -   13   -   *         *         *         *         *        *             *         *      *         *        *            *)           *)       *     -
+bn/cnr/00/cnr_0007   0    3       ，    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0    4      我省    NR     (NP(CP(IP(NP*)   -   -    -   -   *    (ARG0*)   (ARG0*)        *    (ARG0*)       *        (ARG0*)   (ARG0*)     *    (ARG0*)       *       (ARG0*       (ARG0*        *    (2)
+bn/cnr/00/cnr_0007   0    5      坚持    VV           (VP(VP*    坚持  -    -   -   *       (V*)        *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0    6      改革    NN              (NP*    -   -    -   -   *    (ARG1*         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0    7      创新    NN                *))   -   -    -   -   *         *)        *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0    8       ；    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0    9      立足    VV              (VP*    立足  -    -   -   *         *       (V*)        *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   10       多    CD  (NP(CP(IP(NP(QP*    -   -    3   -   *         *    (ARG1*    (ARG1*         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   11       种     M            (CLP*))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   12     所有制    NN              (NP*    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   13      经济    NN                *))   -   -    2   -   *         *         *         *)        *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   14      活跃    VV             (VP*))   活跃  -    -   -   *         *         *       (V*)        *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   15       的   DEC                 *)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   16      企业    NN              (NP*    -   -    -   -   *         *         *    (ARG1*         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   17      基础    NN               *)))   -   -    1   -   *         *         *)        *)        *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   18       ；    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   19      依托    VV              (VP*    依托  -    -   -   *         *         *         *       (V*)       *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   20      遍布    VV     (NP(CP(IP(VP*    遍布  -    -   -   *         *         *         *    (ARG1*      (V*)            *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   21       各    DT           (NP(DP*)   -   -    -   -   *         *         *         *         *   (ARG1*             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   22       地    NN           (NP*))))   -   -    -   -   *         *         *         *         *        *)            *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   23       的   DEC                 *)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   24      专业    NN              (NP*    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   25      市场    NN                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   26       和    CC                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   27      营销    NN                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   28      网络    NN               *)))   -   -    -   -   *         *         *         *         *)       *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   29       ；    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   30      积极    AD         (VP(ADVP*)   -   -    -   -   *         *         *         *         *        *    (ARGM-ADV*)        *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   31      发扬    VV              (VP*    发扬  -    -   -   *         *         *         *         *        *           (V*)        *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   32       ‘    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   33    自强不息    NN              (NP*    -   -    -   -   *         *         *         *         *        *        (ARG1*         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   34       、    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   35    坚韧不拔    NN               *)))   -   -    -   -   *         *         *         *         *        *             *)        *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   36       、    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   37      勇于    VV              (VP*    勇于  -    -   -   *         *         *         *         *        *             *       (V*)     *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   38      创新    VV         (IP(VP*)))   创新  -    -   -   *         *         *         *         *        *             *    (ARG1*)   (V*)        *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   39       、    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   40      讲求    VV              (VP*    讲求  -    -   -   *         *         *         *         *        *             *         *      *       (V*)       *            *            *        *     -
+bn/cnr/00/cnr_0007   0   41      实效    NN             (NP*))   -   -    -   -   *         *         *         *         *        *             *         *      *    (ARG1*)       *            *            *        *     -
+bn/cnr/00/cnr_0007   0   42       ’    PU                *))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   43       的   DEC                 *)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   44      浙江    NR              (NP*)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *    (2)
+bn/cnr/00/cnr_0007   0   45      精神    NN             (NP*))   -   -    2   -   *         *         *    (ARG1*)        *        *             *         *      *         *        *            *)           *)       *     -
+bn/cnr/00/cnr_0007   0   46       ；    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   47      充分    VA    (VP(VP(DVP(VP*)   充分  -    -   -   *         *         *    (ARG1*         *        *             *         *      *         *      (V*)  (ARGM-ADV*            *        *     -
+bn/cnr/00/cnr_0007   0   48       的   DEV                 *)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *)           *        *     -
+bn/cnr/00/cnr_0007   0   49      发挥    VV              (VP*    发挥  -    1   -   *         *         *         *         *        *             *         *      *         *   (ARG0*          (V*)           *        *     -
+bn/cnr/00/cnr_0007   0   50      产业    NN    (NP(NP(DNP(NP*)   -   -    2   -   *         *         *         *         *        *             *         *      *         *        *       (ARG1*            *        *    (3)
+bn/cnr/00/cnr_0007   0   51       的   DEG                 *)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   52      比较    NN              (NP*    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   53      优势    NN                *))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   54       和    CC                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   55      竞争    NN              (NP*    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   56      优势    NN              *))))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *)           *)           *        *     -
+bn/cnr/00/cnr_0007   0   57       ，    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   58      走出    VV              (VP*    走出  -    1   -   *         *         *         *         *        *             *         *      *         *        *            *          (V*)       *     -
+bn/cnr/00/cnr_0007   0   59       了    AS                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *       (ARG1*)       *     -
+bn/cnr/00/cnr_0007   0   60       一    CD           (NP(QP*    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *       (ARG1*        *     -
+bn/cnr/00/cnr_0007   0   61       条     M            (CLP*))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   62      富有    VV        (CP(IP(VP*    富有  -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *      (V*)    -
+bn/cnr/00/cnr_0007   0   63      我们    PN           (NP(NP*)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *   (ARG1*     -
+bn/cnr/00/cnr_0007   0   64      浙江    NR              (NP*)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *    (2)
+bn/cnr/00/cnr_0007   0   65      特色    NN           (NP*))))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *)    -
+bn/cnr/00/cnr_0007   0   66       的   DEC                 *)   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   67      经济    NN              (NP*    -   -    2   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   68      发展    NN                 *)   -   -    1   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   69      路子    NN           (NP*))))   -   -    -   -   *         *         *         *)        *        *             *         *      *         *        *            *            *)       *     -
+bn/cnr/00/cnr_0007   0   70       。    PU                 *    -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+bn/cnr/00/cnr_0007   0   71       ＂    PU                *))   -   -    -   -   *         *         *         *         *        *             *         *      *         *        *            *            *        *     -
+
+#end document

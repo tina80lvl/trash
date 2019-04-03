@@ -1,0 +1,95 @@
+#begin document (bn/cts/02/cts_0282); part 000
+bn/cts/02/cts_0282   0    0     自从     P  (TOP(IP(IP(PP*     -   -   -   -   *   (ARGM-TMP*    (ARGM-TMP*         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    1     南韩    NR     (LCP(IP(NP*)    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    2     敲开    VV            (VP*     -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    3      了    AS               *     -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    4     北韩    NR         (NP(NP*)    -   -   -   -   *            *             *         *        *            *      *         *         *         *       (2)
+bn/cts/02/cts_0282   0    5     大门    NN         (NP*))))    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    6     之后    LC              *))    -   -   -   -   *            *)            *)        *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    7      呢    SP           (FLR*)    -   -   -   -   *            *    (ARGM-ADV*)        *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    8      ，    PU               *     -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0    9     北韩    NR      (NP(NP(NP*)    -   -   -   -   *       (ARG0*        (ARG0*         *        *            *      *         *         *         *    (1|(2)
+bn/cts/02/cts_0282   0   10    领导人    NN           (NP*))    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   11    金正日    NR           (NP*))    -   -   -   -   *            *)            *)        *        *            *      *         *         *         *        1)
+bn/cts/02/cts_0282   0   12     开始    VV            (VP*     开始  -   -   -   *          (V*)        (REL*)        *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   13      学    VV            (VP*      学  -   1   -   *       (ARG1*           (V*)        *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   14      着    AS               *     -   -   -   -   *            *        (ARG1*)   (ARG1*)       *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   15      跟     P      (IP(VP(PP*     -   -   2   -   *            *        (ARG1*    (ARG1*        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   16     外界    NN           (NP*))    -   -   -   -   *            *             *         *)       *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   17    打交道    VV       (VP*))))))   打交道  -   -   -   *            *)            *)      (V*)       *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   18      ，    PU               *     -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   19      这    DT      (IP(NP(DP*     -   -   -   -   *            *             *         *   (ARG0*            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   20      段     M          (CLP*))    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   21     画面    NN           (NP*))    -   -   -   -   *            *             *         *        *)           *      *         *         *         *        -
+bn/cts/02/cts_0282   0   22      是    VC            (VP*      是  -   1   -   *            *             *         *      (V*)           *      *         *         *         *        -
+bn/cts/02/cts_0282   0   23     日本    NR      (IP(NP(NP*)    -   -   -   -   *            *             *         *   (ARG1*       (ARG0*      *         *         *    (ARG0*        -
+bn/cts/02/cts_0282   0   24     媒体    NN           (NP*))    -   -   1   -   *            *             *         *        *            *)     *         *         *         *)       -
+bn/cts/02/cts_0282   0   25      在     P         (VP(PP*     -   -   2   -   *            *             *         *        *   (ARGM-LOC*      *         *         *         *        -
+bn/cts/02/cts_0282   0   26     大陆    NN     (NP(DNP(NP*)    -   -   -   -   *            *             *         *        *            *      *         *         *         *       (0
+bn/cts/02/cts_0282   0   27      的   DEG               *)    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   28     上海    NR            (NP*     -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   29     证券    NN               *     -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   30    交易所    NN             *)))    -   -   -   -   *            *             *         *        *            *)     *         *         *         *        0)
+bn/cts/02/cts_0282   0   31     捕捉    VV        (VP(VRD*     捕捉  -   -   -   *            *             *         *        *          (V*)     *         *         *         *        -
+bn/cts/02/cts_0282   0   32      到    VV               *)     到  -   2   -   *            *             *         *        *       (ARG2*)   (V*)        *         *         *        -
+bn/cts/02/cts_0282   0   33    金正日    NR   (NP(CP(IP(NP*)    -   -   -   -   *            *             *         *        *       (ARG1*      *    (ARG0*)   (ARG0*)   (ARG0*)      (1)
+bn/cts/02/cts_0282   0   34      到    VV         (VP(VP*      到  -   2   -   *            *             *         *        *            *      *       (V*)        *         *        -
+bn/cts/02/cts_0282   0   35     上海    NR           (NP*))    -   -   -   -   *            *             *         *        *            *      *    (ARG1*)        *         *       (3)
+bn/cts/02/cts_0282   0   36     上课    VV        (VP(VCD*     上课  -   -   -   *            *             *         *        *            *      *         *       (V*)        *        -
+bn/cts/02/cts_0282   0   37     取经    VV            *))))    取经  -   -   -   *            *             *         *        *            *      *         *         *       (V*)       -
+bn/cts/02/cts_0282   0   38      的   DEC               *)    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+bn/cts/02/cts_0282   0   39     镜头    NN      (NP*)))))))    -   -   -   -   *            *             *         *        *)           *)     *         *         *         *        -
+bn/cts/02/cts_0282   0   40      。    PU              *))    -   -   -   -   *            *             *         *        *            *      *         *         *         *        -
+
+bn/cts/02/cts_0282   0    0     金正日    NR       (TOP(IP(IP(NP*)   -   -   -   -   *       (ARG0*)            *             *      *             *         *    (1)
+bn/cts/02/cts_0282   0    1       在     P              (VP(PP*    -   -   2   -   *   (ARGM-LOC*             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    2     ８０多    CD       (LCP(NP(NP(QP*    -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    3       名     M               (CLP*))   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    4      随护    NN                (NP*))   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    5      陪同    NN                (NP*))   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    6      之下    LC                   *))   -   -   -   -   *            *)            *             *      *             *         *     -
+bn/cts/02/cts_0282   0    7       ，    PU                    *    -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    8       在     P                 (PP*    -   -   2   -   *   (ARGM-LOC*             *             *      *             *         *     -
+bn/cts/02/cts_0282   0    9      上海    NR                 (NP*    -   -   -   -   *            *             *             *      *             *         *    (0
+bn/cts/02/cts_0282   0   10     证交所    NN                   *))   -   -   -   -   *            *)            *             *      *             *         *     0)
+bn/cts/02/cts_0282   0   11      了解    VV                 (VP*    了解  -   1   -   *          (V*)            *             *      *             *         *     -
+bn/cts/02/cts_0282   0   12      股市    NN          (NP(DNP(NP*    -   -   -   -   *       (ARG1*             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   13      交易    NN                    *)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   14       的   DEG                    *)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   15      情况    NN             (NP*)))))   -   -   -   -   *            *)            *             *      *             *         *     -
+bn/cts/02/cts_0282   0   16       ，    PU                    *    -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   17      另外    AD            (IP(ADVP*)   -   -   -   -   *            *    (ARGM-DIS*)   (ARGM-DIS*)     *    (ARGM-DIS*)        *     -
+bn/cts/02/cts_0282   0   18       他    PN                 (NP*)   -   -   -   -   *            *        (ARG0*)       (ARG0*)     *        (ARG0*)        *    (1)
+bn/cts/02/cts_0282   0   19       还    AD         (VP(VP(ADVP*)   -   -   -   -   *            *    (ARGM-ADV*)            *      *             *         *     -
+bn/cts/02/cts_0282   0   20       跟     P                 (PP*    -   -   2   -   *            *        (ARG0*             *      *             *         *     -
+bn/cts/02/cts_0282   0   21      中共    NR           (NP(NP(NP*)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   22    国家主席    NN                (NP*))   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   23     江泽民    NR               (NP*)))   -   -   -   -   *            *             *)            *      *             *         *     -
+bn/cts/02/cts_0282   0   24       在     P                 (PP*    -   -   2   -   *            *    (ARGM-LOC*             *      *             *         *     -
+bn/cts/02/cts_0282   0   25      上海    NR                (NP*))   -   -   -   -   *            *             *)            *      *             *         *    (3)
+bn/cts/02/cts_0282   0   26       碰    VV                 (VP*     碰  -   -   -   *            *           (V*)            *      *             *         *     -
+bn/cts/02/cts_0282   0   27       了    AS                    *    -   -   -   -   *            *        (ARG1*)            *      *             *         *     -
+bn/cts/02/cts_0282   0   28       面    NN               (NP*)))   -   -   -   -   *            *        (ARG1*)            *      *             *         *     -
+bn/cts/02/cts_0282   0   29      并且    CC                    *    -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   30      晤谈    VV                 (VP*    晤谈  -   -   -   *            *             *           (V*)     *             *         *     -
+bn/cts/02/cts_0282   0   31       了    AS                    *    -   -   -   -   *            *             *        (ARG1*)     *             *         *     -
+bn/cts/02/cts_0282   0   32       １    CD              (NP(QP*    -   -   -   -   *            *             *    (ARGM-EXT*      *             *         *     -
+bn/cts/02/cts_0282   0   33       个     M               (CLP*))   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   34      小时    NN               (NP*)))   -   -   -   -   *            *             *             *)     *             *         *     -
+bn/cts/02/cts_0282   0   35       ，    PU                    *    -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   36      主要    AD            (VP(ADVP*)   -   -   -   -   *            *             *             *      *    (ARGM-ADV*)        *     -
+bn/cts/02/cts_0282   0   37       是    VC                 (VP*     是  -   1   -   *            *             *             *    (V*)            *         *     -
+bn/cts/02/cts_0282   0   38      讨论    VV                 (VP*    讨论  -   -   -   *            *             *             *      *           (V*)        *     -
+bn/cts/02/cts_0282   0   39     东北亚    NR       (NP(NP(DNP(NP*)   -   -   -   -   *            *             *             *      *        (ARG1*         *     -
+bn/cts/02/cts_0282   0   40       的   DEG                    *)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   41      战情    NN                (NP*))   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   42       和    CC                    *    -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   43      布什    NR   (NP(DNP(LCP(IP(NP*)   -   -   -   -   *            *             *             *      *             *    (ARG0*)    -
+bn/cts/02/cts_0282   0   44      就职    VV                (VP*))   就职  -   -   -   *            *             *             *      *             *       (V*)    -
+bn/cts/02/cts_0282   0   45      之后    LC                    *)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   46       的   DEG                    *)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   47      美国    NR                 (NP*)   -   -   -   -   *            *             *             *      *             *         *     -
+bn/cts/02/cts_0282   0   48      形势    NN          (NP*))))))))   -   -   -   -   *            *             *             *      *             *)        *     -
+bn/cts/02/cts_0282   0   49       。    PU                   *))   -   -   -   -   *            *             *             *      *             *         *     -
+
+#end document

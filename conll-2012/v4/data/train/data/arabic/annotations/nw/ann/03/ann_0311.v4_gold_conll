@@ -1,0 +1,813 @@
+#begin document (nw/ann/03/ann_0311); part 000
+nw/ann/03/ann_0311   0    0                                 ماير#DEFAULT#mAyr#mAyr                  NOUN_PROP   (TOP(S(NP*)      DEFAULT   -   -   -    (PERSON)   (ARG0*)    -
+nw/ann/03/ann_0311   0    1                             بَحَثَ#baHav-a#bHv#baHav+a         PV+PVSUFF_SUBJ:3MS         (VP*       baHav-a  01   -   -          *       (V*)    -
+nw/ann/03/ann_0311   0    2                                      مَعَ#maE#mE#maE+a          NOUN+CASE_DEF_ACC         (NP*           maE   -   -   -          *    (ARG2*     -
+nw/ann/03/ann_0311   0    3                              لَحُود#laHuwd#lHwd#laHuwd                  NOUN_PROP         (NP*        laHuwd   -   -   -    (PERSON)        *    (4)
+nw/ann/03/ann_0311   0    4                                     وَ-#clitics#w#wa-                        CONJ            *       clitics   -   -   -          *         *     -
+nw/ann/03/ann_0311   0    5           -الحَرِيرِيّ#Hariyriy~#AlHryry#-Al+Hariyriy~              DET+NOUN_PROP           *))    Hariyriy~   -   -   -          *         *)   (2)
+nw/ann/03/ann_0311   0    6                                         فِي#fiy#fy#fiy                       PREP         (PP*           fiy   -   -   -          *    (ARG1*     -
+nw/ann/03/ann_0311   0    7                   مَشارِيعِ#ma$oruwE#m$AryE#ma$AriyE+i          NOUN+CASE_DEF_GEN         (NP*      ma$oruwE   -   -   -          *         *     -
+nw/ann/03/ann_0311   0    8                        البَنْكِ#banok#Albnk#Al+banok+i      DET+NOUN+CASE_DEF_GEN         (NP*         banok   -   -   -      (ORG*         *     -
+nw/ann/03/ann_0311   0    9    الأُورُوبِّيِّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+i       DET+ADJ+CASE_DEF_GEN        *)))))   >uwrub~iy~   -   -   -          *)        *)    -
+nw/ann/03/ann_0311   0   10                    تَوْقِيعَ#tawoqiyE#twqyE#tawoqiyE+a          NOUN+CASE_DEF_ACC         (NP*      tawoqiyE   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   11                    {ِتِّفاقٍ#{it~ifAq#AtfAq#{it~ifAq+K        NOUN+CASE_INDEF_GEN      (NP(NP*)     {it~ifAq   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   12                                            بِ#bi#b_#bi                       PREP         (PP*            bi   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   13                                      45#DEFAULT#45#45                    NOUN_NUM         (NP*       DEFAULT   -   -   -    (MONEY*         *     -
+nw/ann/03/ann_0311   0   14                    مِلْيُونِ#miloyuwn#mlywn#miloyuwn+i      NOUN_NUM+CASE_DEF_GEN         (NP*      miloyuwn   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   15                              أُورُو#>uwruw#>wrw#>uwruw                       NOUN      (NP*))))       >uwruw   -   -   -          *)        *     -
+nw/ann/03/ann_0311   0   16                                     لِ-#clitics#l#li-                        PREP         (PP*       clitics   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   17                         -مَرْفَأ#marofa>#mrf>#-marofa>                       NOUN         (NP*       marofa>   -   -   -      (FAC*         *    (6
+nw/ann/03/ann_0311   0   18                طَرابُلُسَ#TarAbulus#TrAbls#TarAbulus+a   NOUN_PROP+CASE_INDEF_GEN     (NP*)))))    TarAbulus   -   -   -          *)        *     6)
+nw/ann/03/ann_0311   0   19             الحَرِيرِيّ#Hariyriy~#AlHryry#Al+Hariyriy~              DET+NOUN_PROP         (NP*)    Hariyriy~   -   -   -    (PERSON)        *    (2)
+nw/ann/03/ann_0311   0   20                    {ِتِّفاقُ#{it~ifAq#AtfAq#{it~ifAq+u          NOUN+CASE_DEF_NOM         (NP*)     {it~ifAq   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   21                           ميقاتي#DEFAULT#myqAty#myqAty                  NOUN_PROP      (NP(NP*)      DEFAULT   -   -   -    (PERSON)        *     -
+nw/ann/03/ann_0311   0   22                                     وَ-#clitics#w#wa-                        CONJ            *       clitics   -   -   -          *         *     -
+nw/ann/03/ann_0311   0   23                         -مَرْفَأ#marofa>#mrf>#-marofa>                       NOUN         (NP*       marofa>   -   -   -      (FAC*         *    (6
+nw/ann/03/ann_0311   0   24                   طَرابُلُس#TarAbulus#TrAbls#TarAbulus                  NOUN_PROP          *)))    TarAbulus   -   -   -          *)        *     6)
+
+nw/ann/03/ann_0311   0    0                       {ِسْتَقْبَلَ#{isotaqobal#Astqbl#{isotaqobal+a                   PV+PVSUFF_SUBJ:3MS   (TOP(S(VP*      {isotaqobal  01   -   -          *           (V*)       *        -
+nw/ann/03/ann_0311   0    1                                            أَمْسِ#>amosi#Ams#>amosi                                 NOUN         (NP*)          >amosi   -   -   -      (DATE)   (ARGM-TMP*)       *        -
+nw/ann/03/ann_0311   0    2                                        رَئِيسُ#ra}iys#r}ys#ra}iys+u                    NOUN+CASE_DEF_NOM      (NP(NP*           ra}iys   -   -   -          *        (ARG0*        *       (4
+nw/ann/03/ann_0311   0    3        الجُمْهُورِيَّةِ#jumohuwriy~ap#Aljmhwryp#Al+jumohuwriy~+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN        (NP*))   jumohuwriy~ap   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0    4                                           إِمِيل#<imiyl#Amyl#<imiyl                            NOUN_PROP         (NP*           <imiyl   -   -   -   (PERSON*             *        *        -
+nw/ann/03/ann_0311   0    5                                           لَحُود#laHuwd#lHwd#laHuwd                            NOUN_PROP           *))          laHuwd   -   -   -          *)            *)       *        4)
+nw/ann/03/ann_0311   0    6                                         وَفْداً#wafod#wfdA#wafod+AF                  NOUN+CASE_INDEF_ACC   (NP(NP(NP*)           wafod   -   -   -          *        (ARG1*   (ARG0*        -
+nw/ann/03/ann_0311   0    7                                                      مِن#min#mn#min                                 PREP         (PP*              min   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0    8                                     البَنْكِ#banok#Albnk#Al+banok+i                DET+NOUN+CASE_DEF_GEN      (NP(NP*            banok   -   -   -      (ORG*             *        *       (1
+nw/ann/03/ann_0311   0    9                 الأُورُوبِّيِّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+i                 DET+ADJ+CASE_DEF_GEN            *)      >uwrub~iy~   -   -   -          *             *        *        1)
+nw/ann/03/ann_0311   0   10                                                  لِ-#clitics#l#li-                                  PREP         (PP*          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   11             -ال{ِسْتِثْمارِ#{isotivomAr#Al{stvmAr#-Al+{isotivomAr+i                DET+NOUN+CASE_DEF_GEN     (NP*)))))     {isotivomAr   -   -   -          *)            *        *)       -
+nw/ann/03/ann_0311   0   12                            يَتَأَلَّفُ#ta>al~af#yt>lf#ya+ta>al~af+u               IV3MS+IV+IVSUFF_MOOD:I  (SBAR(S(VP*         ta>al~af  01   -   -          *             *      (V*)       -
+nw/ann/03/ann_0311   0   13                                                      مِن#min#mn#min                                 PREP         (PP*              min   -   -   -          *             *   (ARG1*        -
+nw/ann/03/ann_0311   0   14                                        رَئِيسِ#ra}iys#r}ys#ra}iys+i                    NOUN+CASE_DEF_GEN   (NP(NP(NP*           ra}iys   -   -   -          *             *        *      (11
+nw/ann/03/ann_0311   0   15                              المَصْرِفِ#maSoraf#AlmSrf#Al+maSorif+i                DET+NOUN+CASE_DEF_GEN        (NP*))         maSoraf   -   -   -          *             *        *       (1)
+nw/ann/03/ann_0311   0   16                               فرَنْسِيس#faranosiys#frnsys#franosiys                            NOUN_PROP         (NP*       faranosiys   -   -   -   (PERSON*             *        *        -
+nw/ann/03/ann_0311   0   17                                           مايير#DEFAULT#mAyyr#mAyyr                            NOUN_PROP           *))         DEFAULT   -   -   -          *)            *        *       11)
+nw/ann/03/ann_0311   0   18                                                       ,#DEFAULT#,#,                                 PUNC            *          DEFAULT   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   19                                                  وَ-#clitics#w#wa-                                  CONJ            *          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   20                                      -رَئِيسِ#ra}iys#r}ys#-ra}iys+i                    NOUN+CASE_DEF_GEN      (NP(NP*           ra}iys   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   21                         عَمَلِيّاتِ#Eamaliy~ap#EmlyAt#Eamaliy~+At+i       NOUN+NSUFF_FEM_PL+CASE_DEF_GEN      (NP(NP*       Eamaliy~ap   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   22                             الإِقْراضِ#<iqorAD#AlAqrAD#Al+<iqorAD+i                DET+NOUN+CASE_DEF_GEN        (NP*))         <iqorAD   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   23                                                  لِ-#clitics#l#li-                                  PREP         (PP*          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   24                             -البُلْدانِ#balad#AlbldAn#-Al+bulodAn+i                DET+NOUN+CASE_DEF_GEN      (NP(NP*            balad   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   25    المُتَوَسِّطِيَّةِ#mutawas~iTiy~#AlmtwsTyp#Al+mutawas~iTiy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN            *)   mutawas~iTiy~   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   26                                                  وَ-#clitics#w#wa-                                  CONJ            *          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   27                           -البَلْقانِ#baloqAn#AlblqAn#-Al+baloqAn+i           DET+NOUN_PROP+CASE_DEF_GEN     (NP*)))))         baloqAn   -   -   -       (LOC)            *        *        -
+nw/ann/03/ann_0311   0   28                      أَنْطُونِيُو#>anoTuwniyuw#AnTwnyw#>anoTuwniyuw                            NOUN_PROP         (NP*     >anoTuwniyuw   -   -   -   (PERSON*             *        *        -
+nw/ann/03/ann_0311   0   29                                     بوغليزي#DEFAULT#bwglyzy#bwglyzy                            NOUN_PROP           *))         DEFAULT   -   -   -          *)            *        *        -
+nw/ann/03/ann_0311   0   30                                                       ,#DEFAULT#,#,                                 PUNC            *          DEFAULT   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   31                                                  وَ-#clitics#w#wa-                                  CONJ            *          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   32                        -المَسْؤُولِ#maso&uwl#Alms&wl#-Al+maso&uwl+i                DET+NOUN+CASE_DEF_GEN   (NP(NP(NP*         maso&uwl   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   33                       الرَئِيسِيِّ#ra}iysiy~#Alr}ysy#Al+ra}iysiy~+i                 DET+ADJ+CASE_DEF_GEN            *)       ra}iysiy~   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   34                                                      عَن#Ean#En#Ean                                 PREP         (PP*              Ean   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   35                         عَمَلِيّاتِ#Eamaliy~ap#EmlyAt#Eamaliy~+At+i       NOUN+NSUFF_FEM_PL+CASE_DEF_GEN         (NP*       Eamaliy~ap   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   36                             الإِقْراضِ#<iqorAD#AlAqrAD#Al+<iqorAD+i                DET+NOUN+CASE_DEF_GEN      (NP(NP*)         <iqorAD   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   37                                                  لِ-#clitics#l#li-                                  PREP         (PP*          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   38                                  -لُبْنانَ#lubonAn#lbnAn#-lubonAn+a             NOUN_PROP+CASE_INDEF_GEN         (NP*          lubonAn   -   -   -       (ORG)            *        *      (18)
+nw/ann/03/ann_0311   0   39                                                  وَ-#clitics#w#wa-                                  CONJ            *          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   40                         -الأُرْدُنِّ#>urodun~#Al>rdn#-Al+>urodun~+i           DET+NOUN_PROP+CASE_DEF_GEN       *))))))        >urodun~   -   -   -       (ORG)            *        *        -
+nw/ann/03/ann_0311   0   41                                          رِينِه#riyniyh#rynh#riynih                            NOUN_PROP         (NP*          riyniyh   -   -   -   (PERSON*             *        *        -
+nw/ann/03/ann_0311   0   42                                       بِيرِيز#biyriyz#byryz#biyriyz                            NOUN_PROP            *          biyriyz   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   43                                              دياز#DEFAULT#dyAz#dyAz                            NOUN_PROP     *))))))))         DEFAULT   -   -   -          *)            *)       *)       -
+nw/ann/03/ann_0311   0   44                                                       ,#DEFAULT#,#,                                 PUNC            *          DEFAULT   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   45                                                      فِي#fiy#fy#fiy                                 PREP         (PP*              fiy   -   -   -          *    (ARGM-MNR*        *        -
+nw/ann/03/ann_0311   0   46                                        حُضُورِ#HuDuwr#HDwr#HuDuwr+i                    NOUN+CASE_DEF_GEN   (NP(NP(NP*           HuDuwr   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   47                                        رَئِيسِ#ra}iys#r}ys#ra}iys+i                    NOUN+CASE_DEF_GEN         (NP*           ra}iys   -   -   -          *             *        *      (16
+nw/ann/03/ann_0311   0   48                                     مَجْلِسِ#majolis#mjls#majolis+i                    NOUN+CASE_DEF_GEN         (NP*          majolis   -   -   -      (ORG*             *        *       (8
+nw/ann/03/ann_0311   0   49                             الإِنْماءِ#<inomA'#AlAnmA'#Al+<inomA'+i                DET+NOUN+CASE_DEF_GEN         (NP*          <inomA'   -   -   -          *             *        *    16)|8)
+nw/ann/03/ann_0311   0   50                                                  وَ-#clitics#w#wa-                                  CONJ            *          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   51                           -الإِعْمارِ#<iEomAr#Al<EmAr#-Al+<iEomAr+i                DET+NOUN+CASE_DEF_GEN         *))))         <iEomAr   -   -   -          *)            *        *        -
+nw/ann/03/ann_0311   0   52                                              جَمال#jamAl#jmAl#jamAl                            NOUN_PROP         (NP*            jamAl   -   -   -   (PERSON*             *        *        -
+nw/ann/03/ann_0311   0   53                                عِيتانِيّ#EiytAniy~#EytAny#EiytAniy~                            NOUN_PROP           *))       EiytAniy~   -   -   -          *)            *        *        -
+nw/ann/03/ann_0311   0   54                                                       ,#DEFAULT#,#,                                 PUNC            *          DEFAULT   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   55                                                  وَ-#clitics#w#wa-                                  CONJ            *          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   56                               -الأَمِينِ#>amiyn#Al>myn#-Al+>amiyn+i                DET+NOUN+CASE_DEF_GEN   (NP(NP(NP*           >amiyn   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   57                                        العامِّ#EAm~#AlEAm#Al+EAm~+i                 DET+ADJ+CASE_DEF_GEN            *)            EAm~   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   58                                                  لِ-#clitics#l#li-                                  PREP         (PP*          clitics   -   -   -          *             *        *        -
+nw/ann/03/ann_0311   0   59                            -المَجْلِسِ#majolis#Almjls#-Al+majolis+i                DET+NOUN+CASE_DEF_GEN       (NP*)))         majolis   -   -   -          *             *        *       (8)
+nw/ann/03/ann_0311   0   60                                              غازِي#gAziy#gAzy#gAziy                            NOUN_PROP         (NP*            gAziy   -   -   -   (PERSON*             *        *        -
+nw/ann/03/ann_0311   0   61                                           حَدّاد#Had~Ad#HdAd#Had~Ad                            NOUN_PROP        *)))))          Had~Ad   -   -   -          *)            *)       *        -
+nw/ann/03/ann_0311   0   62                                                       .#DEFAULT#.#.                                 PUNC           *))         DEFAULT   -   -   -          *             *        *        -
+
+nw/ann/03/ann_0311   0    0                                         وَ-#clitics#w#wa-                                    CONJ           (TOP(S*       clitics   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0    1                                     -كانَ#kAn-u#kAn#-kAn+a                     PV+PVSUFF_SUBJ:3MS              (VP*         kAn-u  02   -   -         *          (V*)        *        *            *        *      -
+nw/ann/03/ann_0311   0    2                                   عَرْضٌ#EaroD#ErD#EaroD+N                    NOUN+CASE_INDEF_NOM           (NP(NP*)        EaroD   -   -   -         *       (ARG1*         *        *            *        *      -
+nw/ann/03/ann_0311   0    3                                         لِ-#clitics#l#li-                                    PREP              (PP*       clitics   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0    4                -العَلاقاتِ#EalAqap#AlElAqAt#-Al+EalAq+At+i     DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN           (NP(NP*)      EalAqap   -   -   -         *            *    (ARG1*)       *            *        *      -
+nw/ann/03/ann_0311   0    5                     القائِمَةِ#qA}im#AlqA}mp#Al+qA}im+ap+i   DET+ADJ.VN+NSUFF_FEM_SG+CASE_DEF_GEN       (SBAR(S(VP*         qA}im  01   -   -         *            *       (V*)       *            *        *      -
+nw/ann/03/ann_0311   0    6                                   بَيْنَ#bayon#byn#bayon+a                      NOUN+CASE_DEF_ACC              (NP*         bayon   -   -   -         *            *    (ARG2*        *            *        *      -
+nw/ann/03/ann_0311   0    7                     المَجْلِسِ#majolis#Almjls#Al+majolis+i                  DET+NOUN+CASE_DEF_GEN              (NP*       majolis   -   -   -         *            *         *        *            *        *     (8)
+nw/ann/03/ann_0311   0    8                                         وَ-#clitics#w#wa-                                    CONJ                 *       clitics   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0    9                   -المَصْرِفِ#maSoraf#AlmSrf#-Al+maSorif+i                  DET+NOUN+CASE_DEF_GEN          *))))))))      maSoraf   -   -   -         *            *)        *)       *            *        *     (1)
+nw/ann/03/ann_0311   0   10                                              ,#DEFAULT#,#,                                   PUNC                 *       DEFAULT   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   11                                            إِذ#<i*#A*#<i*                                SUB_CONJ            (SBAR*          <i*    -   -   -         *   (ARGM-ADV*         *        *            *        *      -
+nw/ann/03/ann_0311   0   12                                 بَلَغَ#balag-u#blg#balag+a                     PV+PVSUFF_SUBJ:3MS            (S(VP*       balag-u  02   -   -         *            *         *      (V*)           *        *      -
+nw/ann/03/ann_0311   0   13                        مَجْمُوعُ#majomuwE#mjmwE#majomuwE+u                      NOUN+CASE_DEF_NOM              (NP*      majomuwE   -   -   -         *            *         *   (ARG1*            *        *      -
+nw/ann/03/ann_0311   0   14                         القُرُوضِ#qaroD#AlqrwD#Al+quruwD+i                  DET+NOUN+CASE_DEF_GEN           (NP(NP*)        qaroD   -   -   -         *            *         *        *            *        *     (0)
+nw/ann/03/ann_0311   0   15                               الَّتِي#Al~a*iy#Alty#Al~atiy                               REL_PRON       (SBAR(WHNP*)      Al~a*iy   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   16                             قَدَّمَ-#qad~am#qdm#qad~am+a-                      PV+PVSUFF_SUBJ:3MS            (S(VP*        qad~am  01   -   -         *            *         *        *          (V*)       *      -
+nw/ann/03/ann_0311   0   17                                         -ها#clitics#hA#-hA                          PVSUFF_DO:3FS          (NP(NP*))      clitics   -   -   -         *            *         *        *       (ARG1*)       *     (0)
+nw/ann/03/ann_0311   0   18                     المَصْرِفُ#maSoraf#AlmSrf#Al+maSorif+u                  DET+NOUN+CASE_DEF_NOM              (NP*)      maSoraf   -   -   -         *            *         *        *       (ARG0*)       *     (1)
+nw/ann/03/ann_0311   0   19                                      إِلَى#<ilaY#AlY#<ilaY                                   PREP              (PP*         <ilaY   -   -   -         *            *         *        *       (ARG2*        *      -
+nw/ann/03/ann_0311   0   20                           لُبْنانَ#lubonAn#lbnAn#lubonAn+a               NOUN_PROP+CASE_INDEF_GEN             (NP*))      lubonAn   -   -   -      (ORG)           *         *        *            *)       *    (18)
+nw/ann/03/ann_0311   0   21                                              ,#DEFAULT#,#,                                   PUNC                 *       DEFAULT   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   22                                   عَبْرَ#Eabor#Ebr#Eabor+a                      NOUN+CASE_DEF_ACC              (NP*         Eabor   -   -   -         *            *         *        *   (ARGM-MNR*        *      -
+nw/ann/03/ann_0311   0   23                            مَجْلِسِ#majolis#mjls#majolis+i                      NOUN+CASE_DEF_GEN              (NP*       majolis   -   -   -     (ORG*            *         *        *            *        *     (8
+nw/ann/03/ann_0311   0   24                    الإِنْماءِ#<inomA'#AlAnmA'#Al+<inomA'+i                  DET+NOUN+CASE_DEF_GEN              (NP*       <inomA'   -   -   -         *            *         *        *            *        *      8)
+nw/ann/03/ann_0311   0   25                                         وَ-#clitics#w#wa-                                    CONJ                 *       clitics   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   26                  -الإِعْمارِ#<iEomAr#Al<EmAr#-Al+<iEomAr+i                  DET+NOUN+CASE_DEF_GEN          *))))))))      <iEomAr   -   -   -         *)           *         *        *)           *)       *      -
+nw/ann/03/ann_0311   0   27                                              ,#DEFAULT#,#,                                   PUNC                 *       DEFAULT   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   28                                   نَحْوَ#naHow#nHw#naHow+a                      NOUN+CASE_DEF_ACC              (NP*         naHow   -   -   -         *            *         *   (ARG2*            *        *      -
+nw/ann/03/ann_0311   0   29                                       450#DEFAULT#450#450                                NOUN_NUM           (NP(NP*       DEFAULT   -   -   -   (MONEY*            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   30                        مِلْيُونِ#miloyuwn#mlywn#miloyuwn+i                  NOUN_NUM+CASE_DEF_GEN              (NP*      miloyuwn   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   31                                  أُورُو#>uwruw#Awrw#>uwruw                                   NOUN            (NP*)))       >uwruw   -   -   -         *)           *         *        *            *        *      -
+nw/ann/03/ann_0311   0   32                                              ,#DEFAULT#,#,                                   PUNC                 *       DEFAULT   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   33                             خُصِّصَت#xaS~aS#xSSt#xuS~iS+at                PV_PASS+PVSUFF_SUBJ:3FS       (SBAR(S(VP*        xaS~aS  01   -   -         *            *         *        *            *      (V*)     -
+nw/ann/03/ann_0311   0   34                                         لِ-#clitics#l#li-                                    PREP              (PP*       clitics   -   -   -         *            *         *        *            *   (ARG2*      -
+nw/ann/03/ann_0311   0   35                     -مَشارِيعَ#ma$oruwE#m$AryE#-ma$AriyE+a                    NOUN+CASE_INDEF_GEN           (NP(NP*)     ma$oruwE   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   36           إِنْمائِيَّةٍ#<inomA}iy~#AnmA}yp#<inomA}iy~+ap+K        ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN            (ADJP*    <inomA}iy~   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   37                                         وَ-#clitics#w#wa-                                    CONJ                 *       clitics   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   38                     -صِحِّيَّةٍ#SiH~iy~#SHyp#-SiH~iy~+ap+K        ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN                 *)      SiH~iy~   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   39                                             فِي#fiy#fy#fiy                                   PREP              (PP*           fiy   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   40                     مُخْتَلَفِ#muxotalaf#mxtlf#muxotalaf+i                       ADJ+CASE_DEF_GEN         (NP(ADJP*     muxotalaf   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   41                  المَناطِقِ#minoTaqap#AlmnATq#Al+manATiq+i                  DET+NOUN+CASE_DEF_GEN              (NP*     minoTaqap   -   -   -         *            *         *        *            *        *      -
+nw/ann/03/ann_0311   0   42    اللُبْنانِيَّةِ#lubonAniy~#AllbnAnyp#Al+lubonAniy~+ap+i      DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN   *)))))))))))))))   lubonAniy~   -   -   -     (NORP)           *)        *        *)           *        *)     -
+nw/ann/03/ann_0311   0   43                                              .#DEFAULT#.#.                                   PUNC                *))      DEFAULT   -   -   -         *            *         *        *            *        *      -
+
+nw/ann/03/ann_0311   0    0                                 وَ-#clitics#w#wa-                                 CONJ           (TOP(S*      clitics   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0    1                  -أَوْضَحَ#>awoDaH#>wDH#->awoDaH+a                  PV+PVSUFF_SUBJ:3MS              (VP*      >awoDaH  01   -   -          *          (V*)           *            *      -
+nw/ann/03/ann_0311   0    2                          مايير#DEFAULT#mAyyr#mAyyr                           NOUN_PROP              (NP*)     DEFAULT   -   -   -    (PERSON)      (ARG0*)           *            *    (11)
+nw/ann/03/ann_0311   0    3                              عَلَى#EalaY#ElY#EalaY                                PREP              (PP*        EalaY   -   -   -          *   (ARGM-TMP*            *            *      -
+nw/ann/03/ann_0311   0    4                    الإِثْر#TBupdate#AlAvr#Al+<ivor                            DET+NOUN             (NP*))    TBupdate   -   -   -          *            *)           *            *      -
+nw/ann/03/ann_0311   0    5                            أَنَّ-#>an~a#>n#>an~a-                             SUB_CONJ       (SBAR(SBAR*        >an~a   -   -   -          *       (ARG1*            *            *      -
+nw/ann/03/ann_0311   0    6                                  -هُ#clitics#h#-hu                            PRON_3MS            (S(NP*)     clitics   -   -   -          *            *       (ARG0*)           *      -
+nw/ann/03/ann_0311   0    7                         حَضَرَ#HaDar-u#HDr#HaDar+a                  PV+PVSUFF_SUBJ:3MS              (VP*      HaDar-u  01   -   -          *            *          (V*)           *      -
+nw/ann/03/ann_0311   0    8                              إِلَى#<ilaY#AlY#<ilaY                                PREP              (PP*        <ilaY   -   -   -          *            *       (ARG1*            *      -
+nw/ann/03/ann_0311   0    9                بَيْرُوتَ#bayoruwt#byrwt#bayoruwt+a            NOUN_PROP+CASE_INDEF_GEN             (NP*))    bayoruwt   -   -   -       (GPE)           *            *)           *    (14)
+nw/ann/03/ann_0311   0   10                                 لِ-#clitics#l#li-                                 PREP              (PP*      clitics   -   -   -          *            *   (ARGM-PRP*            *      -
+nw/ann/03/ann_0311   0   11              -تَوْقِيعِ#tawoqiyE#twqyE#-tawoqiyE+i                   NOUN+CASE_DEF_GEN              (NP*     tawoqiyE   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   12                           قَرْضِ#qaroD#qrD#qaroD+i                   NOUN+CASE_DEF_GEN           (NP(NP*        qaroD   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   13                تَمْوِيلٍ#tamowiyl#tmwyl#tamowiyl+K                 NOUN+CASE_INDEF_GEN             (NP*))    tamowiyl   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   14                                 لِ-#clitics#l#li-                                 PREP              (PP*      clitics   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   15          -مَصْلَحَةِ#maSolaHap#mSlHp#-maSolaH+ap+i      NOUN+NSUFF_FEM_SG+CASE_DEF_GEN              (NP*    maSolaHap   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   16                       مَرْفَأ#marofa>#mrf>#marofa>                                NOUN              (NP*      marofa>   -   -   -      (FAC*            *            *            *     (6
+nw/ann/03/ann_0311   0   17            طَرابُلُسَ#TarAbulus#TrAbls#TarAbulus+a            NOUN_PROP+CASE_INDEF_GEN     (NP*))))))))))   TarAbulus   -   -   -          *)           *            *)           *      6)
+nw/ann/03/ann_0311   0   18                                      ,#DEFAULT#,#,                                PUNC                 *      DEFAULT   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   19                                 وَ-#clitics#w#wa-                                 CONJ                 *      clitics   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   20                             -أَنَّ#>an~a#>n#->an~a                            SUB_CONJ            (SBAR*        >an~a   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   21                        ثَمَّةَ#vam~apa#vmp#vam~apa                                 ADV          (S(ADVP*)     vam~apa   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   22               مَشارِيعَ#ma$oruwE#m$AryE#ma$AriyE+a                   NOUN+CASE_DEF_ACC           (NP(NP*     ma$oruwE   -   -   -          *            *            *            *    (13
+nw/ann/03/ann_0311   0   23                       أُخْرَى#>uxoraY#AxrY#>uxoraY                                 ADJ                 *)     >uxoraY   -   -   -          *            *            *            *     13)
+nw/ann/03/ann_0311   0   24               يَجْرِي#jaraY-i#yjry#ya+joriy+(null)              IV3MS+IV+IVSUFF_MOOD:I  (SBAR(SBAR(S(VP*      jaraY-i  05   -   -          *            *            *          (V*)     -
+nw/ann/03/ann_0311   0   25             تَنْفِيذُ-#tanofiy*#tnfy*#tanofiy*+u-                    NOUN+CASE_DEF_NOM              (NP*    tanofiy*    -   -   -          *            *            *       (ARG1*      -
+nw/ann/03/ann_0311   0   26                                 -ها#clitics#hA#-hA                       POSS_PRON_3FS         (NP(NP*)))     clitics   -   -   -          *            *            *            *)   (13)
+nw/ann/03/ann_0311   0   27                                 بِ-#clitics#b#bi-                                 PREP              (PP*      clitics   -   -   -          *            *            *   (ARGM-MNR*      -
+nw/ann/03/ann_0311   0   28              -تَمْوِيلٍ#tamowiyl#tmwyl#-tamowiyl+K                 NOUN+CASE_INDEF_GEN           (NP(NP*)    tamowiyl   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   29                                     مِن#min#mn#min                                PREP              (PP*          min   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   30             المَصْرِفِ#maSoraf#AlmSrf#Al+maSorif+i               DET+NOUN+CASE_DEF_GEN        (NP*)))))))     maSoraf   -   -   -          *            *            *            *)    (1)
+nw/ann/03/ann_0311   0   31                                  مِن-#min#mn#min-                                 PREP       (SBAR(S(PP*          min   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   32                                 -ها#clitics#hA#-hA                            PRON_3FS         (NP(NP*)))     clitics   -   -   -          *            *            *            *    (13)
+nw/ann/03/ann_0311   0   33                                      :#DEFAULT#:#:                                PUNC                 *      DEFAULT   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   34               مَشارِيعُ#ma$oruwE#m$AryE#ma$AriyE+u                   NOUN+CASE_DEF_NOM           (NP(NP*     ma$oruwE   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   35                    الصِرْفِ#Sirof#AlSrf#Al+Sirof+i               DET+NOUN+CASE_DEF_GEN              (NP*        Sirof   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   36              الصِحِّيِّ#SiH~iy~#AlSHy#Al+SiH~iy~+i                DET+ADJ+CASE_DEF_GEN                *))     SiH~iy~   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   37                                      ,#DEFAULT#,#,                                PUNC                 *      DEFAULT   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   38                                 وَ-#clitics#w#wa-                                 CONJ                 *      clitics   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   39                     -طَرِيقُ#Tariyq#Tryq#-Tariyq+u                   NOUN+CASE_DEF_NOM              (NP*       Tariyq   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   40                   المديرج#DEFAULT#Almdyrj#Al+mdyrj                       DET+NOUN_PROP              (NP*      DEFAULT   -   -   -       (GPE)           *            *            *      -
+nw/ann/03/ann_0311   0   41                                     -#DEFAULT#-#-                                 PUNC                 *      DEFAULT   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   42                          شتورا#DEFAULT#$twrA#$twrA                           NOUN_PROP                *))     DEFAULT   -   -   -       (GPE)           *            *            *      -
+nw/ann/03/ann_0311   0   43                                      ,#DEFAULT#,#,                                PUNC                 *      DEFAULT   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   44                                 وَ-#clitics#w#wa-                                 CONJ                 *      clitics   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   45                   -البُنَى#binoyap#AlbnY#-Al+bunaY                            DET+NOUN           (NP(NP*      binoyap   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   46    التَحْتِيَّةُ#taHotiy~#AltHtyp#Al+taHotiy~+ap+u   DET+ADJ+NSUFF_FEM_SG+CASE_DEF_NOM                 *)    taHotiy~   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   47                                     فِي#fiy#fy#fiy                                PREP              (PP*          fiy   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   48                بَيْرُوتَ#bayoruwt#byrwt#bayoruwt+a            NOUN_PROP+CASE_INDEF_GEN              (NP*     bayoruwt   -   -   -       (GPE)           *            *            *    (14)
+nw/ann/03/ann_0311   0   49                الكُبْرَى#>akobar#AlkbrY#Al+kuboraY                        DET+ADJ_COMP               *)))     >akobar   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   50                                      ,#DEFAULT#,#,                                PUNC                 *      DEFAULT   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   51                                 وَ-#clitics#w#wa-                                 CONJ                 *      clitics   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   52              -مَحَطَّةُ#maHaT~ap#mHTp#-maHaT~+ap+u      NOUN+NSUFF_FEM_SG+CASE_DEF_NOM           (NP(NP*     maHaT~ap   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   53         التَكْرِيرِ#takoriyr#Altkryr#Al+takoriyr+i               DET+NOUN+CASE_DEF_GEN             (NP*))    takoriyr   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   54                                     فِي#fiy#fy#fiy                                PREP              (PP*          fiy   -   -   -          *            *            *            *      -
+nw/ann/03/ann_0311   0   55                                 صُور#Suwr#Swr#Suwr                           NOUN_PROP   (NP*))))))))))))        Suwr   -   -   -       (GPE)           *)           *            *      -
+nw/ann/03/ann_0311   0   56                                      .#DEFAULT#.#.                                PUNC                *))     DEFAULT   -   -   -          *            *            *            *      -
+
+nw/ann/03/ann_0311   0   0                             وَ-#clitics#w#wa-                              CONJ   (TOP(S*     clitics   -   -   -         *        *     -
+nw/ann/03/ann_0311   0   1             -تَبْلُغُ#balag-u#tblg#-ta+bolug+u           IV3FS+IV+IVSUFF_MOOD:I      (VP*     balag-u  02   -   -         *      (V*)    -
+nw/ann/03/ann_0311   0   2                  قِيمَةُ#qiymap#qymp#qiym+ap+u   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM      (NP*      qiymap   -   -   -         *   (ARG1*     -
+nw/ann/03/ann_0311   0   3                         ه`ذِهِ#h`*A#h*h#h`*ihi                       DEM_PRON_F   (NP(NP*)       h`*A   -   -   -         *        *   (13
+nw/ann/03/ann_0311   0   4    المَشارِيعِ#ma$oruwE#Alm$AryE#Al+ma$AriyE+i            DET+NOUN+CASE_DEF_GEN    (NP*)))   ma$oruwE   -   -   -         *        *)   13)
+nw/ann/03/ann_0311   0   5                           250#DEFAULT#250#250                          NOUN_NUM      (NP*     DEFAULT   -   -   -   (MONEY*   (ARG2*     -
+nw/ann/03/ann_0311   0   6            مِلْيُونِ#miloyuwn#mlywn#miloyuwn+i            NOUN_NUM+CASE_DEF_GEN      (NP*    miloyuwn   -   -   -         *        *     -
+nw/ann/03/ann_0311   0   7                      أُورُو#>uwruw#Awrw#>uwruw                             NOUN   (NP*))))     >uwruw   -   -   -         *)       *)    -
+nw/ann/03/ann_0311   0   8                                  .#DEFAULT#.#.                             PUNC        *))    DEFAULT   -   -   -         *        *     -
+
+nw/ann/03/ann_0311   0    0                                     وَ-#clitics#w#wa-                      CONJ       (TOP(S*       clitics   -   -   -          *        *         *      -
+nw/ann/03/ann_0311   0    1                  -أَبْدَى#>abodaY#>bdY#->abodaY+(null)       PV+PVSUFF_SUBJ:3MS          (VP*       >abodaY  01   -   -          *      (V*)        *      -
+nw/ann/03/ann_0311   0    2                    الرَئِيسُ#ra}iys#Alr}ys#Al+ra}iys+u    DET+NOUN+CASE_DEF_NOM          (NP*        ra}iys   -   -   -          *   (ARG0*         *     (4
+nw/ann/03/ann_0311   0    3                              لَحُود#laHuwd#lHwd#laHuwd                NOUN_PROP             *)       laHuwd   -   -   -    (PERSON)       *)        *      4)
+nw/ann/03/ann_0311   0    4                            شُكْرَ-#$ukor#$kr#$ukor+a-         NOUN+CASE_DEF_ACC       (NP(NP*         $ukor   -   -   -          *   (ARG1*         *      -
+nw/ann/03/ann_0311   0    5                                      -هُ#clitics#h#-hu            POSS_PRON_3MS         (NP*))      clitics   -   -   -          *        *         *     (4)
+nw/ann/03/ann_0311   0    6                                     لِ-#clitics#l#li-                      PREP          (PP*       clitics   -   -   -          *        *         *      -
+nw/ann/03/ann_0311   0    7                            -مايير#DEFAULT#mAyyr#-mAyyr                NOUN_PROP         (NP*))      DEFAULT   -   -   -          *        *         *      -
+nw/ann/03/ann_0311   0    8                                  عَلَى#EalaY#ElY#EalaY                     PREP          (PP*         EalaY   -   -   -          *        *         *      -
+nw/ann/03/ann_0311   0    9                        الدَعْمِ#daEom#AldEm#Al+daEom+i    DET+NOUN+CASE_DEF_GEN       (NP(NP*)        daEom   -   -   -          *        *         *      -
+nw/ann/03/ann_0311   0   10                           الَّذِي#Al~a*iy#Al*y#Al~a*iy                 REL_PRON   (SBAR(WHNP*)      Al~a*iy   -   -   -          *        *         *      -
+nw/ann/03/ann_0311   0   11                  يَلْقا-#laqiy-a#ylqA#ya+loqA+(null)-    IV3MS+IV+IVSUFF_MOOD:I        (S(VP*       laqiy-a  01   -   -          *        *       (V*)     -
+nw/ann/03/ann_0311   0   12                                      -هُ#clitics#h#-hu            IVSUFF_DO:3MS      (NP(NP*))      clitics   -   -   -          *        *    (ARG1*)    (4)
+nw/ann/03/ann_0311   0   13                       لُبْنانُ#lubonAn#lbnAn#lubonAn+u   NOUN_PROP+CASE_DEF_NOM          (NP*)      lubonAn   -   -   -       (ORG)       *    (ARG0*)   (18)
+nw/ann/03/ann_0311   0   14                                         مِن#min#mn#min                     PREP          (PP*           min   -   -   -          *        *    (ARG2*      -
+nw/ann/03/ann_0311   0   15                        البَنْكِ#banok#Albnk#Al+banok+i    DET+NOUN+CASE_DEF_GEN          (NP*         banok   -   -   -      (ORG*        *         *     (1
+nw/ann/03/ann_0311   0   16    الأُورُوبِّيِّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+i     DET+ADJ+CASE_DEF_GEN     *)))))))))   >uwrub~iy~   -   -   -          *)       *)        *)     1)
+nw/ann/03/ann_0311   0   17                                          .#DEFAULT#.#.                     PUNC            *))      DEFAULT   -   -   -          *        *         *      -
+
+nw/ann/03/ann_0311   0    0                    مُشِيراً#mu$iyr#m$yrA#mu$iyr+AF                ADJ.VN+CASE_INDEF_ACC    (TOP(S(VP*         mu$iyr  01   -   -   *      (V*)           *   -
+nw/ann/03/ann_0311   0    1                              إِلَى#<ilaY#AlY#<ilaY                                 PREP          (PP*          <ilaY   -   -   -   *   (ARG2*            *   -
+nw/ann/03/ann_0311   0    2                                      "#DEFAULT#"#"                                 PUNC          (NP*        DEFAULT   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0    3      أَهَمِّيَّةِ#>aham~iy~ap#Ahmyp#>aham~iy~+ap+i       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN             *    >aham~iy~ap   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0    4                تَنْفِيذِ#tanofiy*#tnfy*#tanofiy*+i                    NOUN+CASE_DEF_GEN          (NP*      tanofiy*    -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0    5        المَشارِيعِ#ma$oruwE#Alm$AryE#Al+ma$AriyE+i                DET+NOUN+CASE_DEF_GEN       (NP(NP*)      ma$oruwE   -   -   -   *        *       (ARG0*)  -
+nw/ann/03/ann_0311   0    6                       الَّتِي#Al~a*iy#Alty#Al~atiy                             REL_PRON   (SBAR(WHNP*)       Al~a*iy   -   -   -   *        *     (R-ARG0*)  -
+nw/ann/03/ann_0311   0    7                       تَعُودُ#EAd-u#tEwd#ta+Euwd+u               IV3FS+IV+IVSUFF_MOOD:I        (S(VP*          EAd-u  05   -   -   *        *          (V*)  -
+nw/ann/03/ann_0311   0    8                                 بِ-#clitics#b#bi-                                  PREP          (PP*        clitics   -   -   -   *        *       (ARG1*   -
+nw/ann/03/ann_0311   0    9         -الفائِدَةِ#fA}idap#AlfA}dp#-Al+fA}id+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN         (NP*))       fA}idap   -   -   -   *        *            *)  -
+nw/ann/03/ann_0311   0   10                              عَلَى#EalaY#ElY#EalaY                                 PREP          (PP*          EalaY   -   -   -   *        *       (ARG2*   -
+nw/ann/03/ann_0311   0   11    المُواطِنِينَ#muwATin#AlmwATnyn#Al+muwATin+iyna           DET+NOUN+NSUFF_MASC_PL_GEN       (NP(NP*)       muwATin   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0   12                                     فِي#fiy#fy#fiy                                 PREP          (PP*            fiy   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0   13                               كُلِّ#kul~#kl#kul~+i              NOUN_QUANT+CASE_DEF_GEN          (NP*           kul~   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0   14          المَناطِقِ#minoTaqap#AlmnATq#Al+manATiq+i                DET+NOUN+CASE_DEF_GEN      (NP*)))))     minoTaqap   -   -   -   *        *            *)  -
+nw/ann/03/ann_0311   0   15             تَطْبِيقاً#taTobiyq#tTbyqA#taTobiyq+AF                  NOUN+CASE_INDEF_ACC       (NP(NP*)      taTobiyq   -   -   -   *        *   (ARGM-ADV*   -
+nw/ann/03/ann_0311   0   16                                 لِ-#clitics#l#li-                                  PREP          (PP*        clitics   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0   17                     -مَبْدَأ#maboda>#mbd>#-maboda>                                 NOUN          (NP*        maboda>   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0   18            الإِنْماءِ#<inomA'#AlAnmA'#Al+<inomA'+i                DET+NOUN+CASE_DEF_GEN          (NP*        <inomA'   -   -   -   *        *            *   -
+nw/ann/03/ann_0311   0   19     المُتَوازِنِ#mutawAzin#AlmtwAzn#Al+mutawAzin+i                 DET+ADJ+CASE_DEF_GEN     *)))))))))     mutawAzin   -   -   -   *        *            *)  -
+nw/ann/03/ann_0311   0   20                                      "#DEFAULT#"#"                                 PUNC           *)))       DEFAULT   -   -   -   *        *)           *   -
+nw/ann/03/ann_0311   0   21                                      .#DEFAULT#.#.                                 PUNC            *))       DEFAULT   -   -   -   *        *            *   -
+
+nw/ann/03/ann_0311   0    0                                ثُمَّ#vum~a#vm#vum~a                                 CONJ     (TOP(S*        vum~a   -   -   -          *            *      -
+nw/ann/03/ann_0311   0    1                                زارَ#zAr-u#zAr#zAr+a                   PV+PVSUFF_SUBJ:3MS        (VP*        zAr-u  01   -   -          *          (V*)     -
+nw/ann/03/ann_0311   0    2                           مايير#DEFAULT#mAyyr#mAyyr                            NOUN_PROP     (NP(NP*)     DEFAULT   -   -   -    (PERSON)      (ARG0*    (11)
+nw/ann/03/ann_0311   0    3                                  وَ-#clitics#w#wa-                                  CONJ           *      clitics   -   -   -          *            *      -
+nw/ann/03/ann_0311   0    4                   -الوَفْدُ#wafod#Alwfd#-Al+wafod+u                DET+NOUN+CASE_DEF_NOM        (NP*        wafod   -   -   -          *            *      -
+nw/ann/03/ann_0311   0    5             المُرافِقُ#murAfiq#AlmrAfq#Al+murAfiq+u                 DET+ADJ+CASE_DEF_NOM          *))     murAfiq   -   -   -          *            *)     -
+nw/ann/03/ann_0311   0    6                        رَئِيسَ#ra}iys#r}ys#ra}iys+a                    NOUN+CASE_DEF_ACC     (NP(NP*       ra}iys   -   -   -          *       (ARG1*     (2
+nw/ann/03/ann_0311   0    7         الحُكُومَةِ#Hukuwmap#AlHkwmp#Al+Hukuwm+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN       (NP*))    Hukuwmap   -   -   -          *            *      -
+nw/ann/03/ann_0311   0    8                           رَفِيق#rafiyq#rfyq#rafiyq                            NOUN_PROP        (NP*       rafiyq   -   -   -   (PERSON*            *      -
+nw/ann/03/ann_0311   0    9          الحَرِيرِيّ#Hariyriy~#AlHryry#Al+Hariyriy~                        DET+NOUN_PROP          *))   Hariyriy~   -   -   -          *)           *)     2)
+nw/ann/03/ann_0311   0   10                                      فِي#fiy#fy#fiy                                 PREP        (PP*          fiy   -   -   -          *   (ARGM-LOC*      -
+nw/ann/03/ann_0311   0   11                 قُرَيْطِم#qurayoTim#qryTm#qurayoTim                            NOUN_PROP       (NP*))   qurayoTim   -   -   -       (FAC)           *)     -
+nw/ann/03/ann_0311   0   12                                      فِي#fiy#fy#fiy                                 PREP        (PP*          fiy   -   -   -          *   (ARGM-MNR*      -
+nw/ann/03/ann_0311   0   13                        حُضُورِ#HuDuwr#HDwr#HuDuwr+i                    NOUN+CASE_DEF_GEN        (NP*       HuDuwr   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   14                   وَزِيرَيْ#waziyr#wzyry#waziyr+ayo          NOUN+NSUFF_MASC_DU_GEN_POSS  (NP(NP(NP*       waziyr   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   15                           المالِ#mAl#AlmAl#Al+mAl+i                DET+NOUN+CASE_DEF_GEN        (NP*          mAl   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   16                                  وَ-#clitics#w#wa-                                  CONJ           *      clitics   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   17    -ال{ِقْتِصادِ#{iqotiSAd#Al{qtSAd#-Al+{iqotiSAd+i                DET+NOUN+CASE_DEF_GEN          *))   {iqotiSAd   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   18                              فُؤاد#fu&Ad#f&Ad#fu&Ad                            NOUN_PROP     (NP(NP*        fu&Ad   -   -   -   (PERSON*            *      -
+nw/ann/03/ann_0311   0   19       السِنْيُورَة#sinoyuwr#Alsnywrp#Al+sinoyuwr+ap           DET+NOUN_PROP+NSUFF_FEM_SG           *)    sinoyuwr   -   -   -          *)           *      -
+nw/ann/03/ann_0311   0   20                                  وَ-#clitics#w#wa-                                  CONJ           *      clitics   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   21                            -باسِل#bAsil#bAsl#-bAsil                            NOUN_PROP        (NP*        bAsil   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   22                      فلِيحان#fliyHAn#flyHAn#fliyHAn                            NOUN_PROP         *)))     fliyHAn   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   23                                  وَ-#clitics#w#wa-                                  CONJ           *      clitics   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   24                         -حاكِمِ#HAkim#HAkm#-HAkim+i                    NOUN+CASE_DEF_GEN     (NP(NP*        HAkim   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   25                     مَصْرِفِ#maSoraf#mSrf#maSorif+i                    NOUN+CASE_DEF_GEN        (NP*      maSoraf   -   -   -      (ORG*            *      -
+nw/ann/03/ann_0311   0   26                    لُبْنانَ#lubonAn#lbnAn#lubonAn+a             NOUN_PROP+CASE_INDEF_GEN      (NP*)))     lubonAn   -   -   -          *)           *    (18)
+nw/ann/03/ann_0311   0   27                              رِياض#riyAD#ryAD#riyAD                            NOUN_PROP        (NP*        riyAD   -   -   -   (PERSON*            *      -
+nw/ann/03/ann_0311   0   28                      سَلامَة#salAmap#slAmp#salAm+ap               NOUN_PROP+NSUFF_FEM_SG          *))     salAmap   -   -   -          *)           *      -
+nw/ann/03/ann_0311   0   29                                  وَ-#clitics#w#wa-                                  CONJ           *      clitics   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   30                      -رَئِيسِ#ra}iys#r}ys#-ra}iys+i                    NOUN+CASE_DEF_GEN     (NP(NP*       ra}iys   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   31                     مَجْلِسِ#majolis#mjls#majolis+i                    NOUN+CASE_DEF_GEN        (NP*      majolis   -   -   -      (ORG*            *      -
+nw/ann/03/ann_0311   0   32             الإِنْماءِ#<inomA'#AlAnmA'#Al+<inomA'+i                DET+NOUN+CASE_DEF_GEN        (NP*      <inomA'   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   33                                  وَ-#clitics#w#wa-                                  CONJ           *      clitics   -   -   -          *            *      -
+nw/ann/03/ann_0311   0   34           -الإِعْمارِ#<iEomAr#Al<EmAr#-Al+<iEomAr+i                DET+NOUN+CASE_DEF_GEN         *)))     <iEomAr   -   -   -          *)           *      -
+nw/ann/03/ann_0311   0   35                              جَمال#jamAl#jmAl#jamAl                            NOUN_PROP        (NP*        jamAl   -   -   -   (PERSON*            *      -
+nw/ann/03/ann_0311   0   36                عِيتانِيّ#EiytAniy~#EytAny#EiytAniy~                            NOUN_PROP      *))))))   EiytAniy~   -   -   -          *)           *)     -
+nw/ann/03/ann_0311   0   37                                       .#DEFAULT#.#.                                 PUNC          *))     DEFAULT   -   -   -          *            *      -
+
+nw/ann/03/ann_0311   0    0                                                وَ-#clitics#w#wa-                                  CONJ         (TOP(S*        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0    1                          -{ِعْتَبَرَ#{iEotabar#{Etbr#-{iEotabar+a                   PV+PVSUFF_SUBJ:3MS            (VP*      {iEotabar  01   -   -       *      (V*)     -
+nw/ann/03/ann_0311   0    2                                      رَئِيسُ#ra}iys#r}ys#ra}iys+u                    NOUN+CASE_DEF_NOM            (NP*         ra}iys   -   -   -       *   (ARG0*     (2
+nw/ann/03/ann_0311   0    3                       الحُكُومَةِ#Hukuwmap#AlHkwmp#Al+Hukuwm+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN           (NP*))      Hukuwmap   -   -   -       *        *)     2)
+nw/ann/03/ann_0311   0    4                                              أَنَّ#>an~a#An#>an~a                             SUB_CONJ          (SBAR*          >an~a   -   -   -       *   (ARG1*      -
+nw/ann/03/ann_0311   0    5                                         قَرارَ#qarAr#qrAr#qarAr+a                 NOUN.VN+CASE_DEF_ACC        (S(S(VP*          qarAr   -   -   -       *        *      -
+nw/ann/03/ann_0311   0    6                                   مَجْلِسِ#majolis#mjls#majolis+i                    NOUN+CASE_DEF_GEN            (NP*        majolis   -   -   -   (ORG*        *      -
+nw/ann/03/ann_0311   0    7                            الوُزَراءِ#waziyr#AlwzrA'#Al+wuzarA'+i                DET+NOUN+CASE_DEF_GEN           (NP*))        waziyr   -   -   -       *)       *      -
+nw/ann/03/ann_0311   0    8                                  إِعْطاءَ#<iEoTA'#AETA'#<iEoTA'+a                    NOUN+CASE_DEF_ACC         (NP(NP*        <iEoTA'   -   -   -       *        *      -
+nw/ann/03/ann_0311   0    9                        تَأْشِيراتِ#ta>o$iyr#t>$yrAt#ta>o$iyr+At+i       NOUN+NSUFF_FEM_PL+CASE_DEF_GEN            (NP*       ta>o$iyr   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   10                                      دُخُولٍ#duxuwl#dxwl#duxuwl+K                  NOUN+CASE_INDEF_GEN          (NP*)))        duxuwl   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   11                                                    فِي#fiy#fy#fiy                                 PREP            (PP*            fiy   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   12                                  المَطارِ#maTAr#AlmTAr#Al+maTAr+i                DET+NOUN+CASE_DEF_GEN         (NP(NP*)         maTAr   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   13                                                وَ-#clitics#w#wa-                                  CONJ               *        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   14                                -مَراكِزِ#marokaz#mrAkz#-marAkiz+i                    NOUN+CASE_DEF_GEN            (NP*        marokaz   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   15                                 الحُدُودِ#Had~#AlHdwd#Al+Huduwd+i                DET+NOUN+CASE_DEF_GEN         (NP(NP*)          Had~   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   16                       البَرِّيَّةِ#bar~iy~#Albryp#Al+bar~iy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN          (ADJP*        bar~iy~   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   17                                                وَ-#clitics#w#wa-                                  CONJ               *        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   18                 -البَحْرِيَّةِ#baHoriy~#AlbHryp#-Al+baHoriy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN           *)))))      baHoriy~   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   19                                                لِ-#clitics#l#li-                                  PREP            (PP*        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   20                        -الراغِبِينَ#rAgib#AlrAgbyn#-Al+rAgib+iyna           DET+NOUN+NSUFF_MASC_PL_GEN         (NP(NP*)         rAgib   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   21                                                    فِي#fiy#fy#fiy                                 PREP            (PP*            fiy   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   22                               الدُخُولِ#duxuwl#Aldxwl#Al+duxuwl+i                DET+NOUN+CASE_DEF_GEN         (NP(NP*)        duxuwl   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   23                                             إِلَى#<ilaY#AlY#<ilaY                                 PREP            (PP*          <ilaY   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   24                                  لُبْنانَ#lubonAn#lbnAn#lubonAn+a             NOUN_PROP+CASE_INDEF_GEN           (NP*))       lubonAn   -   -   -    (GPE)       *    (18)
+nw/ann/03/ann_0311   0   25                                                    مِن#min#mn#min                                 PREP            (PP*            min   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   26                                      جَمِيعِ#jamiyE#jmyE#jamiyE+i              NOUN_QUANT+CASE_DEF_GEN            (NP*         jamiyE   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   27                                    أَنْحاءِ#naHow#AnHA'#>anoHA'+i                    NOUN+CASE_DEF_GEN            (NP*          naHow   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   28                                  العالَمِ#EAlam#AlEAlm#Al+EAlam+i                DET+NOUN+CASE_DEF_GEN         (NP*))))         EAlam   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   29                                                بِ-#clitics#b#bi-                                  PREP            (PP*        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   30                  -{ِسْتِثْناءِ#{isotivonA'#{stvnA'#-{isotivonA'+i                    NOUN+CASE_DEF_GEN            (NP*    {isotivonA'   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   31                       إِسْرائِيلَ#<isorA}iyl#AsrA}yl#<isorA}iyl+a             NOUN_PROP+CASE_INDEF_GEN   (NP*))))))))))    <isorA}iyl   -   -   -    (GPE)       *      -
+nw/ann/03/ann_0311   0   32                                                     ,#DEFAULT#,#,                                 PUNC               *        DEFAULT   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   33                                                     "#DEFAULT#"#"                                 PUNC               *        DEFAULT   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   34                                  خَطْوَةٌ#xaTowap#xTwp#xaTow+ap+N     NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM         (NP(NP*)       xaTowap   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   35                   مُتَقَدِّمَةٌ#mutaqad~im#mtqdmp#mutaqad~im+ap+N      ADJ+NSUFF_FEM_SG+CASE_INDEF_NOM          (ADJP*     mutaqad~im   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   36                                          جِدّاً#jid~#jdAF#jid~+AF                  NOUN+CASE_INDEF_ACC               *)          jid~   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   37                                             عَلَى#EalaY#ElY#EalaY                                 PREP            (PP*          EalaY   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   38                                      طَرِيقِ#Tariyq#Tryq#Tariyq+i                    NOUN+CASE_DEF_GEN            (NP*         Tariyq   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   39                               تَكْرِيسِ#takoriys#tkrys#takoriys+i                    NOUN+CASE_DEF_GEN         (NP(NP*       takoriys   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   40                                  لُبْنانَ#lubonAn#lbnAn#lubonAn+a             NOUN_PROP+CASE_INDEF_GEN           (NP*))       lubonAn   -   -   -    (ORG)       *    (18)
+nw/ann/03/ann_0311   0   41                               مَرْكَزاً#marokaz#mrkzAF#marokaz+AF                  NOUN+CASE_INDEF_ACC         (NP(NP*        marokaz   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   42                 إِقْلِيمِيّاً#<iqoliymiy~#AqlymyAF#<iqoliymiy~+AF                   ADJ+CASE_INDEF_ACC               *)   <iqoliymiy~   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   43                                                لِ-#clitics#l#li-                                  PREP            (PP*        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   44                              -السُيّاحِ#sA}iH#AlsyAH#-Al+suy~AH+i                DET+NOUN+CASE_DEF_GEN            (NP*          sA}iH   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   45                                                وَ-#clitics#w#wa-                                  CONJ               *        clitics   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   46    -المُسْتَثْمِرِينَ#musotavomir#Almstvmryn#-Al+musotavomir+iyna           DET+NOUN+NSUFF_MASC_PL_GEN              *))   musotavomir   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   47                                             عَلَى#EalaY#ElY#EalaY                                 PREP            (PP*          EalaY   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   48                                              حَدٍّ#Had~#Hd#Had~+K                  NOUN+CASE_INDEF_GEN            (NP*           Had~   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   49                                         سَواءٍ#sawA'#swA'#sawA'+K                  NOUN+CASE_INDEF_GEN         *)))))))         sawA'   -   -   -       *        *      -
+nw/ann/03/ann_0311   0   50                                                     "#DEFAULT#"#"                                 PUNC             *)))       DEFAULT   -   -   -       *        *)     -
+nw/ann/03/ann_0311   0   51                                                     .#DEFAULT#.#.                                 PUNC              *))       DEFAULT   -   -   -       *        *      -
+
+nw/ann/03/ann_0311   0    0                                                 وَ-#clitics#w#wa-                                  CONJ               (TOP(S*           clitics   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0    1                                             -كانَ#kAn-u#kAn#-kAn+a                   PV+PVSUFF_SUBJ:3MS                  (VP*             kAn-u  03   -   -        *    (V*)           *            *            *      -
+nw/ann/03/ann_0311   0    2                                    البَحْثُ#baHov#AlbHv#Al+baHov+u                DET+NOUN+CASE_DEF_NOM                  (NP*)            baHov   -   -   -        *      *       (ARG0*)           *            *      -
+nw/ann/03/ann_0311   0    3                                   تَناوَلَ#tanAwal#tnAwl#tanAwal+a                   PV+PVSUFF_SUBJ:3MS                  (VP*           tanAwal  01   -   -        *      *          (V*)           *            *      -
+nw/ann/03/ann_0311   0    4                                تَطْوِيرَ#taTowiyr#tTwyr#taTowiyr+a                    NOUN+CASE_DEF_ACC               (NP(NP*          taTowiyr   -   -   -        *      *       (ARG1*            *            *      -
+nw/ann/03/ann_0311   0    5                          العَلاقاتِ#EalAqap#AlElAqAt#Al+EalAq+At+i   DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN                 (NP*))          EalAqap   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0    6                                           بَيْنَ#bayon#byn#bayon+a                    NOUN+CASE_DEF_ACC               (NP(NP*             bayon   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0    7                                   لُبْنانَ#lubonAn#lbnAn#lubonAn+a             NOUN_PROP+CASE_INDEF_GEN               (NP(NP*)          lubonAn   -   -   -     (ORG)     *            *            *            *    (18)
+nw/ann/03/ann_0311   0    8                                                 وَ-#clitics#w#wa-                                  CONJ                     *           clitics   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0    9                                  -البَنْكِ#banok#Albnk#-Al+banok+i                DET+NOUN+CASE_DEF_GEN                  (NP*             banok   -   -   -    (ORG*      *            *            *            *     (1
+nw/ann/03/ann_0311   0   10                الأُورُوبِّيِّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+i                 DET+ADJ+CASE_DEF_GEN                   *)))       >uwrub~iy~   -   -   -        *)     *            *            *            *      1)
+nw/ann/03/ann_0311   0   11                                                 وَ-#clitics#w#wa-                                  CONJ                     *           clitics   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   12                                  -خُصُوصاً#xuSuwS#xSwSA#-xuSuwS+AF                  NOUN+CASE_INDEF_ACC               (NP(NP*)           xuSuwS   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   13                                           بَعْدَ#baEod#bEd#baEod+a                    NOUN+CASE_DEF_ACC                     *             baEod   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   14                                تَوْقِيعِ#tawoqiyE#twqyE#tawoqiyE+i                    NOUN+CASE_DEF_GEN                  (NP*          tawoqiyE   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   15                                {ِتِّفاقِ#{it~ifAq#AtfAq#{it~ifAq+i                    NOUN+CASE_DEF_GEN                  (NP*          {it~ifAq   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   16                           الشِراكَةِ#$irAkap#Al$rAkp#Al+$irAk+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN                (NP*)))          $irAkap   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   17                      ال{ِثْنَيْنِ#{ivonayoni#AlAvnyn#Al+{ivonayoni                             DET+NOUN                  (NP*        {ivonayoni   -   -   -   (DATE*      *            *            *            *      -
+nw/ann/03/ann_0311   0   18                             المُقْبِلِ#muqobil#Almqbl#Al+muqobil+i                 DET+ADJ+CASE_DEF_GEN                  *))))          muqobil   -   -   -        *)     *            *)           *            *      -
+nw/ann/03/ann_0311   0   19                                                      ,#DEFAULT#,#,                                 PUNC                     *           DEFAULT   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   20                                                      "#DEFAULT#"#"                                 PUNC                  (PP*           DEFAULT   -   -   -        *      *   (ARGM-ADV*            *            *      -
+nw/ann/03/ann_0311   0   21                                                 مِن-#mim~A#m#min-                                  PREP                     *             mim~A   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   22                                                 -ما#clitics#mA#-mA                             REL_PRON           (SBAR(WHNP*)          clitics   -   -   -        *      *            *       (ARG0*)           *      -
+nw/ann/03/ann_0311   0   23                                  يُحَتِّمُ#Hat~am#yHtm#yu+Hat~im+u               IV3MS+IV+IVSUFF_MOOD:I                (S(VP*            Hat~am  01   -   -        *      *            *          (V*)           *      -
+nw/ann/03/ann_0311   0   24                                              عَلَى#EalaY#ElY#EalaY                                 PREP                  (PP*             EalaY   -   -   -        *      *            *       (ARG2*            *      -
+nw/ann/03/ann_0311   0   25                                   لُبْنانَ#lubonAn#lbnAn#lubonAn+a             NOUN_PROP+CASE_INDEF_GEN                 (NP*))          lubonAn   -   -   -     (ORG)     *            *            *)           *    (18)
+nw/ann/03/ann_0311   0   26                                  زِيادَةَ#ziyAdap#zyAdp#ziyAd+ap+a       NOUN+NSUFF_FEM_SG+CASE_DEF_ACC               (NP(NP*           ziyAdap   -   -   -        *      *            *       (ARG1*            *      -
+nw/ann/03/ann_0311   0   27                               قُدْراتِ-#qudorap#qdrAt#qudor+At+i-        NOUN+NSUFF_FEM_PL+CASE_DEF_GEN            (NP(NP(NP*           qudorap   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   28                                                  -هِ#clitics#h#-hi                        POSS_PRON_3MS                 (NP*))          clitics   -   -   -        *      *            *            *            *    (18)
+nw/ann/03/ann_0311   0   29            التَنافُسِيَّةِ#tanAfusiy~#AltnAfsyp#Al+tanAfusiy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN               (ADJP*))       tanAfusiy~   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   30                                                     فِي#fiy#fy#fiy                                 PREP                  (PP*               fiy   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   31                                          مَجالِ#majAl#mjAl#majAl+i                    NOUN+CASE_DEF_GEN                  (NP*             majAl   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   32                           الصِناعَةِ#SinAEap#AlSnAEp#Al+SinAE+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN              (NP*)))))          SinAEap   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   33                                                      ,#DEFAULT#,#,                                 PUNC                     *           DEFAULT   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   34                                                 وَ-#clitics#w#wa-                                  CONJ                     *           clitics   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   35                                         -رَفْعَ#rafoE#rfE#-rafoE+a                    NOUN+CASE_DEF_ACC               (NP(NP*             rafoE   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   36                               مُسْتَوا-#musotawaY#mstwA#musotawA-                                  NOUN               (NP(NP*         musotawaY   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   37                                                  -هُ#clitics#h#-hu                        POSS_PRON_3MS                 (NP*))          clitics   -   -   -        *      *            *            *            *    (18)
+nw/ann/03/ann_0311   0   38    التِكْنُولُوجِيِّ#tikonuwluwjiy~#Altknwlwjy#Al+tikonuwluwjiy~+i                 DET+ADJ+CASE_DEF_GEN              (ADJP*)))   tikonuwluwjiy~   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   39                               إِجْمالاً#<ijomAl#AjmAlAF#<ijomAl+AF                  NOUN+CASE_INDEF_ACC                (NP*)))          <ijomAl   -   -   -        *      *            *            *)           *      -
+nw/ann/03/ann_0311   0   40                                                      ,#DEFAULT#,#,                                 PUNC                     *           DEFAULT   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   41                                                     فِي#fiy#fy#fiy                                 PREP                  (PP*               fiy   -   -   -        *      *            *   (ARGM-TMP*            *      -
+nw/ann/03/ann_0311   0   42                                           وَقْتٍ#waqot#wqt#waqot+K                  NOUN+CASE_INDEF_GEN               (NP(NP*)            waqot   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   43                                                 سَ-#clitics#s#sa-                              FUT_PART       (SBAR(S(VP(PRT*)          clitics   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   44                                 -يَحْفِزُ#Hafaz-i#yHfz#-ya+Hofiz+u               IV3MS+IV+IVSUFF_MOOD:I                     *           Hafaz-i  01   -   -        *      *            *            *          (V*)     -
+nw/ann/03/ann_0311   0   45                                {ِتِّفاقُ#{it~ifAq#AtfAq#{it~ifAq+u                    NOUN+CASE_DEF_NOM                  (NP*          {it~ifAq   -   -   -        *      *            *            *       (ARG0*      -
+nw/ann/03/ann_0311   0   46                           الشِراكَةِ#$irAkap#Al$rAkp#Al+$irAk+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN                  (NP*           $irAkap   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   47          الأُورُوبِّيَّةِ#>uwrub~iy~#AlAwrwbyp#Al+>uwruwb~iy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN                    *))       >uwrub~iy~   -   -   -    (NORP)     *            *            *            *)     -
+nw/ann/03/ann_0311   0   48              ال{ِسْتِثْمارَ#{isotivomAr#AlAstvmAr#Al+{isotivomAr+a                DET+NOUN+CASE_DEF_ACC               (NP(NP*       {isotivomAr   -   -   -        *      *            *            *       (ARG1*      -
+nw/ann/03/ann_0311   0   49                   الأَجْنَبِيَّ#>ajonabiy~#AlAjnby#Al+>ajonabiy~+a                 DET+ADJ+CASE_DEF_ACC                     *)       >ajonabiy~   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   50                                                     فِي#fiy#fy#fiy                                 PREP                  (PP*               fiy   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   51                                     قِطاعَيْ#qiTAE#qTAEy#qiTAE+ayo          NOUN+NSUFF_MASC_DU_GEN_POSS                  (NP*             qiTAE   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   52                           الصِناعَةِ#SinAEap#AlSnAEp#Al+SinAE+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN                  (NP*           SinAEap   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   53                                                 وَ-#clitics#w#wa-                                  CONJ                     *           clitics   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   54                         -الخَدَماتِ#xidomap#AlxdmAt#-Al+xadam+At+i   DET+NOUN+NSUFF_FEM_PL+CASE_DEF_GEN                  *))))          xidomap   -   -   -        *      *            *            *            *)     -
+nw/ann/03/ann_0311   0   55                                                      ,#DEFAULT#,#,                                 PUNC                     *           DEFAULT   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   56                                                 كَما#kamA#kmA#kamA                                 CONJ                (SBAR*              kamA   -   -   -        *      *            *            *   (ARGM-ADV*      -
+nw/ann/03/ann_0311   0   57                                               أَنَّ#>an~a#An#>an~a                             SUB_CONJ                     *             >an~a   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   58                         ال{ِتِّفاقَ#{it~ifAq#AlAtfAq#Al+{it~ifAq+a                DET+NOUN+CASE_DEF_ACC                (S(NP*)         {it~ifAq   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   59                                   يَفْسَحُ#fasaH-a#yfsH#ya+fosaH+u               IV3MS+IV+IVSUFF_MOOD:I                  (VP*           fasaH-a   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   60                                   المَجالَ#majAl#AlmjAl#Al+majAl+a                DET+NOUN+CASE_DEF_ACC                  (NP*)            majAl   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   61                                          أَمامَ#>amAm#AmAm#>amAm+a                    NOUN+CASE_DEF_ACC                  (NP*             >amAm   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   62                                تَسْوِيقِ#tasowiyq#tswyq#tasowiyq+i                    NOUN+CASE_DEF_GEN                  (NP*          tasowiyq   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   63                             مُنْتَجاتِ#munotaj#mntjAt#munotaj+At+i       NOUN+NSUFF_FEM_PL+CASE_DEF_GEN                  (NP*           munotaj   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   64                                   لُبْنانَ#lubonAn#lbnAn#lubonAn+a             NOUN_PROP+CASE_INDEF_GEN               (NP*))))          lubonAn   -   -   -     (ORG)     *            *            *            *    (18)
+nw/ann/03/ann_0311   0   65                                                     فِي#fiy#fy#fiy                                 PREP                  (PP*               fiy   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   66                                          سائِرِ#sA}ir#sA}r#sA}ir+i                     ADJ+CASE_DEF_GEN             (NP(ADJP*             sA}ir   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   67                                      أَسْواقِ#suwq#AswAq#>asowAq+i                    NOUN+CASE_DEF_GEN                  (NP*              suwq   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   68                                أُورُوبّا#>uwrub~A#AwrwbA#>uwruwb~A                            NOUN_PROP              (NP*)))))         >uwrub~A   -   -   -     (GPE)     *            *            *            *      -
+nw/ann/03/ann_0311   0   69                                                     مِن#min#mn#min                                 PREP                  (PP*               min   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   70                                              دُونِ#duwn#dwn#duwn+i                    NOUN+CASE_DEF_GEN                  (NP*              duwn   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   71                                     عَوائِقَ#EA}iq#EwA}q#EawA}iq+a                  NOUN+CASE_INDEF_GEN               (NP(NP*             EA}iq   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   72                    جُمْرُكِيَّةٍ#jumorukiy~#jmrkyp#jumorukiy~+ap+K      ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN                     *)       jumorukiy~   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   73                                                     أَو#>aw#Aw#>aw                                 CONJ                     *               >aw   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   74                                        غَيْرِ-#gayor#gyr#gayor+i-                     NOUN+CASE_DEF_GEN                  (NP*             gayor   -   -   -        *      *            *            *            *      -
+nw/ann/03/ann_0311   0   75                                                 -ها#clitics#hA#-hA                        POSS_PRON_3FS   (NP*))))))))))))))))          clitics   -   -   -        *      *            *            *)           *)     -
+nw/ann/03/ann_0311   0   76                                                      "#DEFAULT#"#"                                 PUNC                   *)))          DEFAULT   -   -   -        *      *            *)           *            *      -
+nw/ann/03/ann_0311   0   77                                                      .#DEFAULT#.#.                                 PUNC                    *))          DEFAULT   -   -   -        *      *            *            *            *      -
+
+nw/ann/03/ann_0311   0    0                                     وَ-#clitics#w#wa-                                 CONJ           (TOP(S*        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0    1                     -يَدْرُسُ#daras-u#ydrs#-ya+dorus+u              IV3MS+IV+IVSUFF_MOOD:I              (VP*        daras-u  01   -   -         *           (V*)       *      -
+nw/ann/03/ann_0311   0    2                 المَصْرِفُ#maSoraf#AlmSrf#Al+maSorif+u               DET+NOUN+CASE_DEF_NOM              (NP*)       maSoraf   -   -   -         *        (ARG0*)       *     (1)
+nw/ann/03/ann_0311   0    3                       حالِيّاً#HAliy~#HAlyAF#HAliy~+AF                 NOUN+CASE_INDEF_ACC              (NP*)        HAliy~   -   -   -         *    (ARGM-TMP*)       *      -
+nw/ann/03/ann_0311   0    4                    تَمْوِيلَ#tamowiyl#tmwyl#tamowiyl+a                   NOUN+CASE_DEF_ACC              (NP*       tamowiyl   -   -   -         *        (ARG1*        *      -
+nw/ann/03/ann_0311   0    5                   مَشارِيعَ#ma$oruwE#m$AryE#ma$AriyE+a                 NOUN+CASE_INDEF_GEN           (NP(NP*       ma$oruwE   -   -   -         *             *        *     (3
+nw/ann/03/ann_0311   0    6                     جَدِيدَةٍ#jadiyd#jdydp#jadiyd+ap+K     ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN                 *)        jadiyd   -   -   -         *             *        *      3)
+nw/ann/03/ann_0311   0    7           تَتَعَدَّى#taEad~aY#ttEdY#ta+taEad~aY+(null)              IV3FS+IV+IVSUFF_MOOD:I  (SBAR(SBAR(S(VP*       taEad~aY  02   -   -         *             *      (V*)     -
+nw/ann/03/ann_0311   0    8                       قِيمَتُ-#qiymap#qymt#qiym+at+u-       NOUN+NSUFF_FEM_SG+CASE_DEF_NOM              (NP*         qiymap   -   -   -         *             *   (ARG0*      -
+nw/ann/03/ann_0311   0    9                                     -ها#clitics#hA#-hA                       POSS_PRON_3FS         (NP(NP*)))       clitics   -   -   -         *             *        *)    (3)
+nw/ann/03/ann_0311   0   10                                   165#DEFAULT#165#165                             NOUN_NUM              (NP*        DEFAULT   -   -   -   (MONEY*             *   (ARG1*      -
+nw/ann/03/ann_0311   0   11                    مِلْيُونِ#miloyuwn#mlywn#miloyuwn+i               NOUN_NUM+CASE_DEF_GEN              (NP*       miloyuwn   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   12                              أُورُو#>uwruw#Awrw#>uwruw                                NOUN         (NP*))))))        >uwruw   -   -   -         *)            *        *)     -
+nw/ann/03/ann_0311   0   13                                          ,#DEFAULT#,#,                                PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   14                                      مِن-#min#mn#min-                                 PREP       (SBAR(S(PP*            min   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   15                                     -ها#clitics#hA#-hA                            PRON_3FS         (NP(NP*)))       clitics   -   -   -         *             *        *     (3)
+nw/ann/03/ann_0311   0   16                       وُصْلَةُ#wuSolap#wSlp#wuSol+ap+u      NOUN+NSUFF_FEM_SG+CASE_DEF_NOM        (NP(NP(NP*        wuSolap   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   17                              شتورا#DEFAULT#$twrA#$twrA                           NOUN_PROP              (NP*        DEFAULT   -   -   -      (GPE)            *        *      -
+nw/ann/03/ann_0311   0   18                                         -#DEFAULT#-#-                                 PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   19              المُصَنَّعُ#muSan~aE#AlmSnE#Al+muSan~aE+u                DET+ADJ+CASE_DEF_NOM                *))      muSan~aE   -   -   -      (GPE)            *        *      -
+nw/ann/03/ann_0311   0   20                                         مِن#min#mn#min                                PREP              (PP*            min   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   21          أُوتُوستراد#>uwtuwstrAd#>wtwstrAd#>uwtuwstrAd                           NOUN_PROP              (NP*    >uwtuwstrAd   -   -   -     (LOC*             *        *      -
+nw/ann/03/ann_0311   0   22                    بَيْرُوتَ#bayoruwt#byrwt#bayoruwt+a            NOUN_PROP+CASE_INDEF_GEN           (NP(NP*)      bayoruwt   -   -   -         *             *        *    (14)
+nw/ann/03/ann_0311   0   23                                         -#DEFAULT#-#-                                 PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   24                        دِمَشْقَ#dima$oq#dm$q#dima$oq+a            NOUN_PROP+CASE_INDEF_GEN          (NP*)))))       dima$oq   -   -   -         *)            *        *      -
+nw/ann/03/ann_0311   0   25                                          ,#DEFAULT#,#,                                PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   26                                     وَ-#clitics#w#wa-                                 CONJ                 *        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   27                     -وُصْلَةٌ#wuSolap#wSlp#-wuSol+ap+N    NOUN+NSUFF_FEM_SG+CASE_INDEF_NOM           (NP(NP*)       wuSolap   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   28                                         مِن#min#mn#min                                PREP              (PP*            min   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   29          أُوتُوستراد#>uwtuwstrAd#AwtwstrAd#>uwtuwstrAd                           NOUN_PROP              (NP*    >uwtuwstrAd   -   -   -     (LOC*             *        *      -
+nw/ann/03/ann_0311   0   30                   المِيناءِ#miynA'#AlmynA'#Al+miynA'+i               DET+NOUN+CASE_DEF_GEN              (NP*         miynA'   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   31                                         -#DEFAULT#-#-                                 PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   32                       البداوي#DEFAULT#AlbdAwy#Al+bdAwy                       DET+NOUN_PROP              *))))       DEFAULT   -   -   -         *)            *        *      -
+nw/ann/03/ann_0311   0   33                                          ,#DEFAULT#,#,                                PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   34                                     وَ-#clitics#w#wa-                                 CONJ                 *        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   35                     -وُصْلَةُ#wuSolap#wSlp#-wuSol+ap+u      NOUN+NSUFF_FEM_SG+CASE_DEF_NOM           (NP(NP*        wuSolap   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   36                          الحكمة#DEFAULT#AlHkmp#Al+Hkmp                       DET+NOUN_PROP              (NP*        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   37                                         -#DEFAULT#-#-                                 PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   38                                 جادة#DEFAULT#jAdp#jAdp                           NOUN_PROP                 *        DEFAULT   -   -   -     (LOC*             *        *      -
+nw/ann/03/ann_0311   0   39                                    شارل#$Arl#$Arl#$Arl                           NOUN_PROP                 *           $Arl   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   40                                  حُلْو#Hulow#Hlw#Hulow                           NOUN_PROP                *))         Hulow   -   -   -         *)            *        *      -
+nw/ann/03/ann_0311   0   41                                         مِن#min#mn#min                                PREP              (PP*            min   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   42          أُوتُوستراد#>uwtuwstrAd#>wtwstrAd#>uwtuwstrAd                           NOUN_PROP           (NP(NP*    >uwtuwstrAd   -   -   -     (LOC*             *        *      -
+nw/ann/03/ann_0311   0   43                    بَيْرُوتَ#bayoruwt#byrwt#bayoruwt+a              NOUN_PROP+CASE_DEF_ACC             (NP*))      bayoruwt   -   -   -         *             *        *    (14)
+nw/ann/03/ann_0311   0   44             الدائِرِيِّ#dA}iriy~#AldA}ry#Al+dA}iriy~+i                DET+ADJ+CASE_DEF_GEN         (ADJP*))))      dA}iriy~   -   -   -         *)            *        *      -
+nw/ann/03/ann_0311   0   45                                          ,#DEFAULT#,#,                                PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   46                                     وَ-#clitics#w#wa-                                 CONJ                 *        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   47                  -مَحَطَّةُ#maHaT~ap#mHTp#-maHaT~+ap+u      NOUN+NSUFF_FEM_SG+CASE_DEF_NOM        (NP(NP(NP*       maHaT~ap   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   48                    تَكْرِيرِ#takoriyr#tkryr#takoriyr+i                   NOUN+CASE_DEF_GEN              (NP*       takoriyr   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   49                         المِياهِ#mA'#AlmyAh#Al+miyAh+i               DET+NOUN+CASE_DEF_GEN           (NP(NP*            mA'   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   50    المُبْتَذَلَةِ#mubota*al#Almbt*lp#Al+mubota*al+ap+i   DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN                 *)     mubota*al   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   51                                     وَ-#clitics#w#wa-                                 CONJ                 *        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   52                              -مِياهِ#mA'#myAh#-miyAh+i                   NOUN+CASE_DEF_GEN              (NP*            mA'   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   53                  الأَمْطارِ#maTar#AlAmTAr#Al+>amoTAr+i               DET+NOUN+CASE_DEF_GEN          (NP*)))))         maTar   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   54                                         فِي#fiy#fy#fiy                                PREP              (PP*            fiy   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   55                                     صُور#Suwr#Swr#Suwr                           NOUN_PROP            (NP*)))          Suwr   -   -   -      (GPE)            *        *      -
+nw/ann/03/ann_0311   0   56                                          ,#DEFAULT#,#,                                PUNC                 *        DEFAULT   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   57                                     وَ-#clitics#w#wa-                                 CONJ                 *        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   58                     -شَبَكَةُ#$abakap#$bkp#-$abak+ap+u      NOUN+NSUFF_FEM_SG+CASE_DEF_NOM           (NP(NP*        $abakap   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   59                        الصِرْفِ#Sirof#AlSrf#Al+Sirof+i               DET+NOUN+CASE_DEF_GEN              (NP*          Sirof   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   60                  الصِحِّيِّ#SiH~iy~#AlSHy#Al+SiH~iy~+i                DET+ADJ+CASE_DEF_GEN                *))       SiH~iy~   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   61                                     لِ-#clitics#l#li-                                 PREP              (PP*        clitics   -   -   -         *             *        *      -
+nw/ann/03/ann_0311   0   62                  -بَيْرُوتَ#bayoruwt#byrwt#-bayoruwt+a            NOUN_PROP+CASE_INDEF_GEN              (NP*       bayoruwt   -   -   -      (GPE)            *        *    (14)
+nw/ann/03/ann_0311   0   63                    الكُبْرَى#>akobar#AlkbrY#Al+kuboraY                        DET+ADJ_COMP       *)))))))))))       >akobar   -   -   -         *             *)       *      -
+nw/ann/03/ann_0311   0   64                                          .#DEFAULT#.#.                                PUNC                *))       DEFAULT   -   -   -         *             *        *      -
+
+nw/ann/03/ann_0311   0    0                                         وَ-#clitics#w#wa-                        CONJ      (TOP(S(S*        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0    1                                     -كانَ#kAn-u#kAn#-kAn+a         PV+PVSUFF_SUBJ:3MS           (VP*          kAn-u  03   -   -          *    (V*)           *            *      -
+nw/ann/03/ann_0311   0    2                                     تَمَّ#tam~-i#tm#tam~+a         PV+PVSUFF_SUBJ:3MS           (VP*         tam~-i  01   -   -          *      *          (V*)           *      -
+nw/ann/03/ann_0311   0    3                                أَوَّلَ#>aw~al#Awl#>aw~al+a       ADJ_NUM+CASE_DEF_ACC        (NP(NP*)        >aw~al   -   -   -     (DATE*      *   (ARGM-TMP*            *      -
+nw/ann/03/ann_0311   0    4                                             مِن#min#mn#min                       PREP           (PP*            min   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0    5                                   أَمْسِ#>amosi#>ms#>amosi                       NOUN         (NP*)))        >amosi   -   -   -          *)     *            *)           *      -
+nw/ann/03/ann_0311   0    6                                             فِي#fiy#fy#fiy                       PREP           (PP*            fiy   -   -   -          *      *   (ARGM-LOC*            *      -
+nw/ann/03/ann_0311   0    7                            مَجْلِسِ#majolis#mjls#majolis+i          NOUN+CASE_DEF_GEN           (NP*        majolis   -   -   -      (FAC*      *            *            *     (8
+nw/ann/03/ann_0311   0    8                    الإِنْماءِ#<inomA'#AlAnmA'#Al+<inomA'+i      DET+NOUN+CASE_DEF_GEN           (NP*        <inomA'   -   -   -          *      *            *            *      8)
+nw/ann/03/ann_0311   0    9                                         وَ-#clitics#w#wa-                        CONJ              *        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   10                  -الإِعْمارِ#<iEomAr#Al<EmAr#-Al+<iEomAr+i      DET+NOUN+CASE_DEF_GEN            *)))       <iEomAr   -   -   -          *)     *            *)           *      -
+nw/ann/03/ann_0311   0   11                        تَوْقِيعُ#tawoqiyE#twqyE#tawoqiyE+u          NOUN+CASE_DEF_NOM           (NP*       tawoqiyE   -   -   -          *      *       (ARG1*            *      -
+nw/ann/03/ann_0311   0   12                        {ِتِّفاقٍ#{it~ifAq#AtfAq#{it~ifAq+K        NOUN+CASE_INDEF_GEN        (NP(NP*       {it~ifAq   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   13              تَمْوِيلِيٍّ#tamowiyliy~#tmwyly#tamowiyliy~+K         ADJ+CASE_INDEF_GEN              *)   tamowiyliy~   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   14                                   بَيْنَ#bayon#byn#bayon+a          NOUN+CASE_DEF_ACC           (NP*          bayon   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   15                     المَجْلِسِ#majolis#Almjls#Al+majolis+i      DET+NOUN+CASE_DEF_GEN        (NP(NP*)       majolis   -   -   -          *      *            *            *     (8)
+nw/ann/03/ann_0311   0   16                                         وَ-#clitics#w#wa-                        CONJ              *        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   17                          -البَنْكِ#banok#Albnk#-Al+banok+i      DET+NOUN+CASE_DEF_GEN        (NP(NP*          banok   -   -   -      (ORG*      *            *            *     (1
+nw/ann/03/ann_0311   0   18        الأُورُوبِّيِّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+i       DET+ADJ+CASE_DEF_GEN              *)    >uwrub~iy~   -   -   -          *      *            *            *      1)
+nw/ann/03/ann_0311   0   19                                         لِ-#clitics#l#li-                        PREP           (PP*        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   20    -ال{ِسْتِثْمارِ#{isotivomAr#Al{stvmAr#-Al+{isotivomAr+i      DET+NOUN+CASE_DEF_GEN       (NP*)))))   {isotivomAr   -   -   -          *)     *            *            *      -
+nw/ann/03/ann_0311   0   21                                         لِ-#clitics#l#li-                        PREP           (PP*        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   22                      -تَمْوِيلِ#tamowiyl#tmwyl#-tamowiyl+i          NOUN+CASE_DEF_GEN        (NP(NP*       tamowiyl   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   23                        مَشْرُوعِ#ma$oruwE#m$rwE#ma$oruwE+i          NOUN+CASE_DEF_GEN           (NP*       ma$oruwE   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   24                        تَوْسِيعِ#tawosiyE#twsyE#tawosiyE+i          NOUN+CASE_DEF_GEN           (NP*       tawosiyE   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   25                               مَرْفَأ#marofa>#mrf>#marofa>                       NOUN           (NP*        marofa>   -   -   -      (FAC*      *            *            *     (6
+nw/ann/03/ann_0311   0   26                    طَرابُلُسَ#TarAbulus#TrAbls#TarAbulus+a   NOUN_PROP+CASE_INDEF_GEN       (NP*)))))     TarAbulus   -   -   -          *)     *            *            *      6)
+nw/ann/03/ann_0311   0   27                                         وَ-#clitics#w#wa-                        CONJ              *        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   28                   -تَطْوِيرِ-#taTowiyr#tTwyr#-taTowiyr+i-           NOUN+CASE_DEF_GEN           (NP*       taTowiyr   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   29                                          -هِ#clitics#h#-hi              POSS_PRON_3MS   (NP*)))))))))       clitics   -   -   -          *      *            *)           *     (6)
+nw/ann/03/ann_0311   0   30                                              ,#DEFAULT#,#,                       PUNC              *        DEFAULT   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   31                                         وَ-#clitics#w#wa-                        CONJ              *        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   32                              -وَقَّعَ#waq~aE#wqE#-waq~aE+a         PV+PVSUFF_SUBJ:3MS      (S(VP(VP*         waq~aE  01   -   -          *      *            *          (V*)     -
+nw/ann/03/ann_0311   0   33                 ال{ِتِّفاقَ#{it~ifAq#AlAtfAq#Al+{it~ifAq+a      DET+NOUN+CASE_DEF_ACC           (NP*)      {it~ifAq   -   -   -          *      *            *       (ARG1*)     -
+nw/ann/03/ann_0311   0   34                                             عَن#Ean#En#Ean                       PREP           (PP*            Ean   -   -   -          *      *            *   (ARGM-ADV*      -
+nw/ann/03/ann_0311   0   35                     المَجْلِسِ#majolis#Almjls#Al+majolis+i      DET+NOUN+CASE_DEF_GEN          (NP*))       majolis   -   -   -          *      *            *            *)   (16)
+nw/ann/03/ann_0311   0   36                            رَئِيسُ-#ra}iys#r}ys#ra}iys+u-           NOUN+CASE_DEF_NOM        (NP(NP*         ra}iys   -   -   -          *      *            *       (ARG0*      -
+nw/ann/03/ann_0311   0   37                                          -هُ#clitics#h#-hu              POSS_PRON_3MS          (NP*))       clitics   -   -   -          *      *            *            *    (16)
+nw/ann/03/ann_0311   0   38                                     جَمال#jamAl#jmAl#jamAl                  NOUN_PROP           (NP*          jamAl   -   -   -   (PERSON*      *            *            *      -
+nw/ann/03/ann_0311   0   39                       عِيتانِيّ#EiytAniy~#EytAny#EiytAniy~                  NOUN_PROP            *)))     EiytAniy~   -   -   -          *)     *            *            *)     -
+nw/ann/03/ann_0311   0   40                                              ,#DEFAULT#,#,                       PUNC              *        DEFAULT   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   41                                         وَ-#clitics#w#wa-                        CONJ              *        clitics   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   42                                           -عَن#Ean#En#-Ean                       PREP        (VP(PP*            Ean   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   43                     المَصْرِفِ#maSoraf#AlmSrf#Al+maSorif+i      DET+NOUN+CASE_DEF_GEN          (NP*))       maSoraf   -   -   -          *      *            *            *     (1)
+nw/ann/03/ann_0311   0   44                            رَئِيسُ-#ra}iys#r}ys#ra}iys+u-           NOUN+CASE_DEF_NOM        (NP(NP*         ra}iys   -   -   -          *      *            *            *      -
+nw/ann/03/ann_0311   0   45                                          -هُ#clitics#h#-hu              POSS_PRON_3MS          (NP*))       clitics   -   -   -          *      *            *            *     (1)
+nw/ann/03/ann_0311   0   46                      فرَنْسِيس#faranosiys#frnsys#franosiys                  NOUN_PROP           (NP*     faranosiys   -   -   -   (PERSON*      *            *            *    (11
+nw/ann/03/ann_0311   0   47                                  مايير#DEFAULT#mAyyr#mAyyr                  NOUN_PROP          *)))))       DEFAULT   -   -   -          *)     *            *            *     11)
+nw/ann/03/ann_0311   0   48                                              .#DEFAULT#.#.                       PUNC             *))       DEFAULT   -   -   -          *      *            *            *      -
+
+nw/ann/03/ann_0311   0    0                                     وَ-#clitics#w#wa-                              CONJ     (TOP(S*       clitics   -   -   -          *        *    -
+nw/ann/03/ann_0311   0    1                           -حَضَرَ#HaDar-u#HDr#-HaDar+a               PV+PVSUFF_SUBJ:3MS        (VP*       HaDar-u  01   -   -          *      (V*)   -
+nw/ann/03/ann_0311   0    2                               حَفْلَ#Hafol#Hfl#Hafol+a                NOUN+CASE_DEF_ACC        (NP*         Hafol   -   -   -          *   (ARG1*    -
+nw/ann/03/ann_0311   0    3             التَوْقِيعِ#tawoqiyE#AltwqyE#Al+tawoqiyE+i            DET+NOUN+CASE_DEF_GEN       (NP*))     tawoqiyE   -   -   -          *        *)   -
+nw/ann/03/ann_0311   0    4                           وَزِيرُ#waziyr#wzyr#waziyr+u                NOUN+CASE_DEF_NOM  (NP(NP(NP*        waziyr   -   -   -          *   (ARG0*    -
+nw/ann/03/ann_0311   0    5                        النَقْلِ#naqol#Alnql#Al+naqol+i            DET+NOUN+CASE_DEF_GEN       (NP*))        naqol   -   -   -          *        *    -
+nw/ann/03/ann_0311   0    6                              نَجِيب#najiyb#njyb#najiyb                        NOUN_PROP        (NP*        najiyb   -   -   -   (PERSON*        *    -
+nw/ann/03/ann_0311   0    7                           ميقاتي#DEFAULT#myqAty#myqAty                        NOUN_PROP          *))      DEFAULT   -   -   -          *)       *    -
+nw/ann/03/ann_0311   0    8                                          ,#DEFAULT#,#,                             PUNC           *       DEFAULT   -   -   -          *        *    -
+nw/ann/03/ann_0311   0    9                                     وَ-#clitics#w#wa-                              CONJ           *       clitics   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   10                  -السَفِيرُ#safiyr#Alsfyr#-Al+safiyr+u            DET+NOUN+CASE_DEF_NOM        (NP*        safiyr   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   11                              رِينُو#riynuw#rynw#riynuw                        NOUN_PROP           *)       riynuw   -   -   -    (PERSON)       *    -
+nw/ann/03/ann_0311   0   12                                          ,#DEFAULT#,#,                             PUNC           *       DEFAULT   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   13                                     وَ-#clitics#w#wa-                              CONJ           *       clitics   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   14                      -الوَفْدُ#wafod#Alwfd#-Al+wafod+u            DET+NOUN+CASE_DEF_NOM        (NP*         wafod   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   15    الأُورُوبِّيُّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+u             DET+ADJ+CASE_DEF_NOM           *    >uwrub~iy~   -   -   -      (NORP)       *    -
+nw/ann/03/ann_0311   0   16                المُرافِقُ#murAfiq#AlmrAfq#Al+murAfiq+u             DET+ADJ+CASE_DEF_NOM           *)      murAfiq   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   17                                          ,#DEFAULT#,#,                             PUNC           *       DEFAULT   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   18                                     وَ-#clitics#w#wa-                              CONJ           *       clitics   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   19                            -نائِبُ#nA}ib#nA}b#-nA}ib+u                NOUN+CASE_DEF_NOM     (NP(NP*         nA}ib   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   20                           رَئِيسِ#ra}iys#r}ys#ra}iys+i                NOUN+CASE_DEF_GEN        (NP*        ra}iys   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   21                        مَجْلِسِ#majolis#mjls#majolis+i                NOUN+CASE_DEF_GEN        (NP*       majolis   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   22                      إِدارَةِ#<idArap#AdArp#<idAr+ap+i   NOUN+NSUFF_FEM_SG+CASE_DEF_GEN        (NP*       <idArap   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   23                           مَرْفَأ#marofa>#mrf>#marofa>                             NOUN        (NP*       marofa>   -   -   -      (FAC*        *   (6
+nw/ann/03/ann_0311   0   24                طَرابُلُسَ#TarAbulus#TrAbls#TarAbulus+a         NOUN_PROP+CASE_INDEF_GEN   (NP*))))))    TarAbulus   -   -   -          *)       *    6)
+nw/ann/03/ann_0311   0   25                                  عَبْد#Eabod#Ebd#Eabod                        NOUN_PROP        (NP*         Eabod   -   -   -   (PERSON*        *    -
+nw/ann/03/ann_0311   0   26                       الحَمِيد#Hamiyd#AlHmyd#Al+Hamiyd                    DET+NOUN_PROP           *        Hamiyd   -   -   -          *        *    -
+nw/ann/03/ann_0311   0   27                           ميقاتي#DEFAULT#myqAty#myqAty                        NOUN_PROP        *))))      DEFAULT   -   -   -          *)       *)   -
+nw/ann/03/ann_0311   0   28                                          .#DEFAULT#.#.                             PUNC          *))      DEFAULT   -   -   -          *        *    -
+
+nw/ann/03/ann_0311   0    0                                     وَ-#clitics#w#wa-                                  CONJ         (TOP(S*        clitics   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0    1                                       -فِي#fiy#fy#-fiy                                 PREP            (PP*            fiy   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0    2        المُناسَبَةِ#munAsabap#AlmnAsbp#Al+munAsab+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN           (NP*))     munAsabap   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0    3                    أَلْقَى#>aloqaY#AlqY#>aloqaY+(null)                   PV+PVSUFF_SUBJ:3MS            (VP*        >aloqaY  03   -   -          *       (V*)           *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0    4                           ميقاتي#DEFAULT#myqAty#myqAty                            NOUN_PROP            (NP*)       DEFAULT   -   -   -    (PERSON)   (ARG0*)      (ARG0*)       *        *         *         *        *      -
+nw/ann/03/ann_0311   0    5                       كَلِمَةً#kalimap#klmp#kalim+ap+F     NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC         (NP(NP*)       kalimap   -   -   -          *    (ARG1*            *        *        *         *         *        *    (10)
+nw/ann/03/ann_0311   0    6                            أَكَّدَ#>ak~ad#Akd#>ak~ad+a                   PV+PVSUFF_SUBJ:3MS     (SBAR(S(VP*         >ak~ad  01   -   -          *         *          (V*)       *        *         *         *        *      -
+nw/ann/03/ann_0311   0    7                                      فِي-#fiy#fy#fiy-                                  PREP            (PP*            fiy   -   -   -          *         *   (ARGM-LOC*        *        *         *         *        *      -
+nw/ann/03/ann_0311   0    8                                     -ها#clitics#hA#-hA                             PRON_3FS       (NP(NP*)))       clitics   -   -   -          *         *            *)       *        *         *         *        *    (10)
+nw/ann/03/ann_0311   0    9             التَصْمِيمَ#taSomiym#AltSmym#Al+taSomiym+a                DET+NOUN+CASE_DEF_ACC         (NP(NP*)      taSomiym   -   -   -          *         *       (ARG1*        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   10                                  عَلَى#EalaY#ElY#EalaY                                 PREP            (PP*          EalaY   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   11               مُتابَعَةِ#mutAbaEap#mtAbEp#mutAbaE+ap+i       NOUN+NSUFF_FEM_SG+CASE_DEF_GEN            (NP*      mutAbaEap   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   12                        العَمَلِ#Eamal#AlEml#Al+Eamal+i                DET+NOUN+CASE_DEF_GEN          (NP*)))         Eamal   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   13                                     لِ-#clitics#l#li-                                  PREP            (PP*        clitics   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   14                  -تَطْوِيرِ#taTowiyr#tTwyr#-taTowiyr+i                    NOUN+CASE_DEF_GEN            (NP*       taTowiyr   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   15                           مَرْفَأ#marofa>#mrf>#marofa>                                 NOUN            (NP*        marofa>   -   -   -      (FAC*         *            *   (ARG1*   (ARG1*         *         *        *     (6
+nw/ann/03/ann_0311   0   16                طَرابُلُسَ#TarAbulus#TrAbls#TarAbulus+a             NOUN_PROP+CASE_INDEF_GEN        (NP*)))))     TarAbulus   -   -   -          *)        *            *)       *)       *)        *         *        *      6)
+nw/ann/03/ann_0311   0   17                                         كَي#kay#ky#kay                             SUB_CONJ      (UCP(SBAR*            kay   -   -   -          *         *   (ARGM-PRP*        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   18                           يَكُونَ#kAn-u#ykwn#ya+kuwn+a               IV3MS+IV+IVSUFF_MOOD:S          (S(VP*          kAn-u  01   -   -          *         *            *      (V*)       *         *         *        *      -
+nw/ann/03/ann_0311   0   19                          جاهِزاً#jAhiz#jAhzAF#jAhiz+AF                   ADJ+CASE_INDEF_ACC          (ADJP*          jAhiz  01   -   -          *         *            *   (ARG2*      (V*)        *         *        *      -
+nw/ann/03/ann_0311   0   20                                     لِ-#clitics#l#li-                                  PREP            (PP*        clitics   -   -   -          *         *            *        *   (ARG2*         *         *        *      -
+nw/ann/03/ann_0311   0   21       -{ِسْتِقْبالِ#{isotiqobAl#{stqbAl#-{isotiqobAl+i                    NOUN+CASE_DEF_GEN            (NP*    {isotiqobAl   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   22                الحَرَكَةِ#Harakap#AlHrkp#Al+Harak+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN            (NP*        Harakap   -   -   -          *         *            *        *        *    (ARG1*)   (ARG1*)       *      -
+nw/ann/03/ann_0311   0   23       التِجارِيَّةِ#tijAriy~#AltjAryp#Al+tijAriy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN               *       tijAriy~  01   -   -          *         *            *        *        *       (V*)        *        *      -
+nw/ann/03/ann_0311   0   24    المُرْتَقَبَةِ#murotaqab#Almrtqbp#Al+murotaqab+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN         *)))))))     murotaqab  01   -   -          *         *            *        *)       *)        *       (V*)       *      -
+nw/ann/03/ann_0311   0   25                                          ,#DEFAULT#,#,                                 PUNC               *        DEFAULT   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   26                                     وَ-#clitics#w#wa-                                  CONJ               *        clitics   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   27                                   -لِ-#clitics#l#-li-                                  PREP            (PP*        clitics   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   28                         -يَكُونَ#kAn-u#ykwn#-ya+kuwn+a               IV3MS+IV+IVSUFF_MOOD:S     (SBAR(S(VP*          kAn-u  01   -   -          *         *            *        *        *         *         *      (V*)     -
+nw/ann/03/ann_0311   0   29                           مَرْفَأ#marofa>#mrf>#marofa>                                 NOUN            (NP*        marofa>   -   -   -      (FAC*         *            *        *        *         *         *   (ARG1*      -
+nw/ann/03/ann_0311   0   30                    بَيْرُوتَ#bayoruwt#byrwt#bayoruwt+a             NOUN_PROP+CASE_INDEF_GEN           (NP*))      bayoruwt   -   -   -          *)        *            *        *        *         *         *        *)   (14)
+nw/ann/03/ann_0311   0   31                   بَوّابَةً#baw~Abap#bwAbp#baw~Ab+ap+F     NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC         (NP(NP*       baw~Abap   -   -   -          *         *            *        *        *         *         *   (ARG2*      -
+nw/ann/03/ann_0311   0   32                           أُخْرَى#>uxoraY#AxrY#>uxoraY                                  ADJ               *)       >uxoraY   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   33                                     لِ-#clitics#l#li-                                  PREP            (PP*        clitics   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   34               -المَشْرِقِ#ma$oriq#Alm$rq#-Al+ma$oriq+i                DET+NOUN+CASE_DEF_GEN            (NP*        ma$oriq   -   -   -          *         *            *        *        *         *         *        *      -
+nw/ann/03/ann_0311   0   35              العَرَبِيِّ#Earabiy~#AlErby#Al+Earabiy~+i                 DET+ADJ+CASE_DEF_GEN   *)))))))))))))      Earabiy~   -   -   -          *         *)           *)       *        *         *         *        *)     -
+nw/ann/03/ann_0311   0   36                                          .#DEFAULT#.#.                                 PUNC              *))       DEFAULT   -   -   -          *         *            *        *        *         *         *        *      -
+
+nw/ann/03/ann_0311   0    0                                           وَ-#clitics#w#wa-                                  CONJ        (TOP(S*       clitics   -   -   -          *            *           *     -
+nw/ann/03/ann_0311   0    1                                 -عَرَضَ#EaraD-i#ErD#-EaraD+a                   PV+PVSUFF_SUBJ:3MS           (VP*       EaraD-i  01   -   -          *          (V*)          *     -
+nw/ann/03/ann_0311   0    2                         عِيتانِيّ#EiytAniy~#EytAny#EiytAniy~                            NOUN_PROP           (NP*)    EiytAniy~   -   -   -    (PERSON)      (ARG0*)          *    (9)
+nw/ann/03/ann_0311   0    3                                                ,#DEFAULT#,#,                                 PUNC              *       DEFAULT   -   -   -          *            *           *     -
+nw/ann/03/ann_0311   0    4                                               مِن#min#mn#min                                 PREP           (PP*           min   -   -   -          *   (ARGM-ADV*           *     -
+nw/ann/03/ann_0311   0    5                                 جِهَتِ-#jihap#jht#jih+at+i-        NOUN+NSUFF_FEM_SG+CASE_DEF_GEN           (NP*         jihap   -   -   -          *            *           *     -
+nw/ann/03/ann_0311   0    6                                            -هِ#clitics#h#-hi                        POSS_PRON_3MS         (NP*)))      clitics   -   -   -          *            *)          *    (9)
+nw/ann/03/ann_0311   0    7                                                ,#DEFAULT#,#,                                 PUNC              *       DEFAULT   -   -   -          *            *           *     -
+nw/ann/03/ann_0311   0    8                                تارِيخَ#tAriyx#tAryx#tAriyx+a                    NOUN+CASE_DEF_ACC           (NP*        tAriyx   -   -   -          *       (ARG1*           *     -
+nw/ann/03/ann_0311   0    9                     الشِراكَةِ#$irAkap#Al$rAkp#Al+$irAk+ap+i   DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN     (NP(NP(NP*)      $irAkap   -   -   -          *            *      (ARG1*)    -
+nw/ann/03/ann_0311   0   10      اللُبْنانِيَّةِ#lubonAniy~#AllbnAnyp#Al+lubonAniy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN         (ADJP*    lubonAniy~   -   -   -      (NORP)           *           *     -
+nw/ann/03/ann_0311   0   11                                               -#DEFAULT#-#-                                  PUNC              *       DEFAULT   -   -   -          *            *           *     -
+nw/ann/03/ann_0311   0   12    الأُورُوبِّيَّةِ#>uwrub~iy~#AlAwrwbyp#Al+>uwruwb~iy~+ap+i    DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN             *))   >uwrub~iy~   -   -   -      (NORP)           *           *     -
+nw/ann/03/ann_0311   0   13                                 الَّتِي#Al~a*iy#Alty#Al~atiy                             REL_PRON    (SBAR(WHNP*)      Al~a*iy   -   -   -          *            *    (R-ARG1*)    -
+nw/ann/03/ann_0311   0   14                                 تَعُودُ#EAd-u#tEwd#ta+Euwd+u               IV3FS+IV+IVSUFF_MOOD:I         (S(VP*         EAd-u  03   -   -          *            *         (V*)    -
+nw/ann/03/ann_0311   0   15                                        إِلَى#<ilaY#AlY#<ilaY                                 PREP           (PP*         <ilaY   -   -   -          *            *      (ARG2*     -
+nw/ann/03/ann_0311   0   16                                           عامِ#EAm#EAm#EAm+i                    NOUN+CASE_DEF_GEN           (NP*           EAm   -   -   -          *            *           *     -
+nw/ann/03/ann_0311   0   17                                      1977#DEFAULT#1977#1977                              NOUN_NUM   (NP*)))))))))      DEFAULT   -   -   -      (DATE)           *)          *)    -
+nw/ann/03/ann_0311   0   18                                                .#DEFAULT#.#.                                 PUNC             *))      DEFAULT   -   -   -          *            *           *     -
+
+nw/ann/03/ann_0311   0    0                      معدداً#TBupdate#mEddAF#mEddAF                              ADJ.VN      (TOP(S(VP*     TBupdate  01   -   -   *      (V*)           *     -
+nw/ann/03/ann_0311   0    1        المَشارِيعَ#ma$oruwE#Alm$AryE#Al+ma$AriyE+a               DET+NOUN+CASE_DEF_ACC         (NP(NP*)    ma$oruwE   -   -   -   *   (ARG1*            *    (5)
+nw/ann/03/ann_0311   0    2                       الَّتِي#Al~a*iy#Alty#Al~atiy                            REL_PRON     (SBAR(WHNP*)     Al~a*iy   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0    3                               قامَ#qAm-u#qAm#qAm+a                  PV+PVSUFF_SUBJ:3MS          (S(VP*        qAm-u  06   -   -   *        *          (V*)    -
+nw/ann/03/ann_0311   0    4             المَصْرِفُ#maSoraf#AlmSrf#Al+maSorif+u               DET+NOUN+CASE_DEF_NOM            (NP*)     maSoraf   -   -   -   *        *       (ARG0*)   (1)
+nw/ann/03/ann_0311   0    5                                 بِ-#clitics#b#bi-                                 PREP            (PP*      clitics   -   -   -   *        *       (ARG1*     -
+nw/ann/03/ann_0311   0    6           -تَمْوِيلِ-#tamowiyl#tmwyl#-tamowiyl+i-                    NOUN+CASE_DEF_GEN            (NP*     tamowiyl   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0    7                                 -ها#clitics#hA#-hA                       POSS_PRON_3FS      (NP(NP*))))     clitics   -   -   -   *        *            *)   (5)
+nw/ann/03/ann_0311   0    8                                     فِي#fiy#fy#fiy                                PREP         (PP(PP*          fiy   -   -   -   *        *   (ARGM-LOC*     -
+nw/ann/03/ann_0311   0    9                   قِطاعاتٍ#qiTAE#qTAEAt#qiTAE+At+K    NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN            (NP*        qiTAE   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   10       مُخْتَلِفَةٍ#muxotalif#mxtlfp#muxotalif+ap+K     ADJ+NSUFF_FEM_SG+CASE_INDEF_GEN              *))   muxotalif   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   11                                 وَ-#clitics#w#wa-                                 CONJ               *      clitics   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   12                                      -لا#lA#lA#-lA                            NEG_PART   (PP(ADVP(PRT*)          lA   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   13                       سِيَّما#siy~amA#symA#siy~amA                                 ADV               *)     siy~amA   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   14                              عَلَى#EalaY#ElY#EalaY                                PREP               *        EalaY   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   15                       صَعِيدِ#SaEiyd#SEyd#SaEiyd+i                   NOUN+CASE_DEF_GEN            (NP*       SaEiyd   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   16                     البِنَى#binoyap#AlbnY#Al+binaY                            DET+NOUN            (NP*      binoyap   -   -   -   *        *            *     -
+nw/ann/03/ann_0311   0   17    التَحْتِيَّةِ#taHotiy~#AltHtyp#Al+taHotiy~+ap+i   DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN       *)))))))))    taHotiy~   -   -   -   *        *)           *)    -
+nw/ann/03/ann_0311   0   18                                      .#DEFAULT#.#.                                PUNC              *))     DEFAULT   -   -   -   *        *            *     -
+
+nw/ann/03/ann_0311   0    0                            وَ-#clitics#w#wa-                                CONJ                 (TOP(S*     clitics   -   -   -         *            *      -
+nw/ann/03/ann_0311   0    1            -تَبْلُغُ#balag-u#tblg#-ta+bolug+u             IV3FS+IV+IVSUFF_MOOD:I                    (VP*     balag-u  02   -   -         *          (V*)     -
+nw/ann/03/ann_0311   0    2                 قِيمَةُ#qiymap#qymp#qiym+ap+u     NOUN+NSUFF_FEM_SG+CASE_DEF_NOM                    (NP*      qiymap   -   -   -         *       (ARG1*      -
+nw/ann/03/ann_0311   0    3    ال{ِتِّفاقِ#{it~ifAq#AlAtfAq#Al+{it~ifAq+i              DET+NOUN+CASE_DEF_GEN                   (NP*))   {it~ifAq   -   -   -         *            *)     -
+nw/ann/03/ann_0311   0    4                             45#DEFAULT#45#45                            NOUN_NUM                    (NP*     DEFAULT   -   -   -   (MONEY*       (ARG2*      -
+nw/ann/03/ann_0311   0    5           مِلْيُونِ#miloyuwn#mlywn#miloyuwn+i              NOUN_NUM+CASE_DEF_GEN                    (NP*    miloyuwn   -   -   -         *            *      -
+nw/ann/03/ann_0311   0    6                     أُورُو#>uwruw#Awrw#>uwruw                               NOUN                  (NP*)))     >uwruw   -   -   -         *)           *)     -
+nw/ann/03/ann_0311   0    7                                فِي#fiy#fy#fiy                               PREP                    (PP*         fiy   -   -   -         *   (ARGM-MNR*      -
+nw/ann/03/ann_0311   0    8                 صِيغَةِ#Siygap#Sygp#Siyg+ap+i     NOUN+NSUFF_FEM_SG+CASE_DEF_GEN                    (NP*      Siygap   -   -   -         *            *    (19
+nw/ann/03/ann_0311   0    9                      قَرْضٍ#qaroD#qrD#qaroD+K                NOUN+CASE_INDEF_GEN                 (NP(NP*)      qaroD   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   10               مُدَّتُ-#mud~ap#mdt#mud~+at+u-      NOUN+NSUFF_FEM_SG+CASE_DEF_NOM             (SBAR(S(NP*      mud~ap   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   11                             -هُ#clitics#h#-hu                      POSS_PRON_3MS               (NP(NP*)))    clitics   -   -   -         *            *    (19)
+nw/ann/03/ann_0311   0   12           عِشْرُونَ#Ei$oruwn#E$rwn#Ei$or+uwna         NOUN_NUM+NSUFF_MASC_PL_NOM                 (NP(NP*    Ei$oruwn   -   -   -    (DATE*            *      -
+nw/ann/03/ann_0311   0   13                     سَنَةً#sanap#snp#san+ap+F   NOUN+NSUFF_FEM_SG+CASE_INDEF_ACC                   (NP*))      sanap   -   -   -         *)           *      -
+nw/ann/03/ann_0311   0   14                            بِ-#clitics#b#bi-                                PREP                    (PP*     clitics   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   15                               -ما#bimA#mA#-mA                           REL_PRON             (SBAR(WHNP*)       bimA   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   16                             فِي-#fiy#fy#fiy-                                PREP                  (S(PP*         fiy   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   17                            -ها#clitics#hA#-hA                           PRON_3FS               (NP(NP*)))    clitics   -   -   -         *            *    (19)
+nw/ann/03/ann_0311   0   18              فَتْرَةُ#fatorap#ftrp#fator+ap+u     NOUN+NSUFF_FEM_SG+CASE_DEF_NOM                    (NP*     fatorap   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   19                     سَماحٍ#samAH#smAH#samAH+K                NOUN+CASE_INDEF_GEN                 (NP(NP*)      samAH   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   20              تَبْلُغُ#balag-u#tblg#ta+bolug+u             IV3FS+IV+IVSUFF_MOOD:I             (SBAR(S(VP*     balag-u   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   21                      خَمْسَ#xamos#xms#xamos+a              NOUN_NUM+CASE_DEF_ACC                 (NP(NP*       xamos   -   -   -    (DATE*            *      -
+nw/ann/03/ann_0311   0   22               سَنَواتٍ#sanap#snwAt#sanaw+At+K   NOUN+NSUFF_FEM_PL+CASE_INDEF_GEN                   (NP*))      sanap   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   23                            وَ-#clitics#w#wa-                                CONJ                       *     clitics   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   24                    -نِصْفَ#niSof#nSf#-niSof+a            NOUN_QUANT+CASE_DEF_ACC                    (NP*       niSof   -   -   -         *            *      -
+nw/ann/03/ann_0311   0   25                     سَنَةٍ#sanap#snp#san+ap+K   NOUN+NSUFF_FEM_SG+CASE_INDEF_GEN   (NP*))))))))))))))))))      sanap   -   -   -         *)           *)    19)
+nw/ann/03/ann_0311   0   26                                 .#DEFAULT#.#.                               PUNC                      *))    DEFAULT   -   -   -         *            *      -
+
+nw/ann/03/ann_0311   0    0                           وَ-#clitics#w#wa-                                    CONJ      (TOP(S*    clitics   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0    1          -تُحَدَّدُ#Had~ad#tHdd#-tu+Had~ad+u            IV3FS+IV_PASS+IVSUFF_MOOD:I         (VP*     Had~ad  01   -   -   *          (V*)        *      -
+nw/ann/03/ann_0311   0    2            فائِدَةُ#fA}idap#fA}dp#fA}id+ap+u         NOUN+NSUFF_FEM_SG+CASE_DEF_NOM         (NP*    fA}idap   -   -   -   *       (ARG1*         *      -
+nw/ann/03/ann_0311   0    3              القَرْضِ#qaroD#AlqrD#Al+qaroD+i                  DET+NOUN+CASE_DEF_GEN        (NP*))     qaroD   -   -   -   *            *)        *     (7)
+nw/ann/03/ann_0311   0    4                     وِفْقَ#wifoq#wfq#wifoq+a                      NOUN+CASE_DEF_ACC         (NP*      wifoq   -   -   -   *   (ARGM-MNR*         *      -
+nw/ann/03/ann_0311   0    5           الشُرُوطِ#$aroT#Al$rwT#Al+$uruwT+i                  DET+NOUN+CASE_DEF_GEN      (NP(NP*)     $aroT   -   -   -   *            *    (ARG1*)   (17
+nw/ann/03/ann_0311   0    6       السائِدَةِ#sA}id#AlsA}dp#Al+sA}id+ap+i   DET+ADJ.VN+NSUFF_FEM_SG+CASE_DEF_GEN  (SBAR(S(VP*      sA}id  01   -   -   *            *       (V*)    17)
+nw/ann/03/ann_0311   0    7                               فِي#fiy#fy#fiy                                   PREP         (PP*        fiy   -   -   -   *            *    (ARG2*      -
+nw/ann/03/ann_0311   0    8         الأَسْواقِ#suwq#AlAswAq#Al+>asowAq+i                  DET+NOUN+CASE_DEF_GEN         (NP*       suwq   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0    9    المالِيَّةِ#mAliy~#AlmAlyp#Al+mAliy~+ap+i      DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN      *)))))))    mAliy~   -   -   -   *            *)        *)     -
+nw/ann/03/ann_0311   0   10                                ,#DEFAULT#,#,                                   PUNC            *    DEFAULT   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0   11                        لَدَى#ladaY#ldY#ladaY                                   NOUN         (NP*      ladaY   -   -   -   *   (ARGM-TMP*         *      -
+nw/ann/03/ann_0311   0   12                     سَحْبِ#saHob#sHb#saHob+i                      NOUN+CASE_DEF_GEN         (NP*      saHob   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0   13                         كُلِّ#kul~#kl#kul~+i                NOUN_QUANT+CASE_DEF_GEN      (NP(NP*       kul~   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0   14                     شَطْرٍ#$aTor#$Tr#$aTor+K                    NOUN+CASE_INDEF_GEN        (NP*))     $aTor   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0   15                               مِن#min#mn#min                                   PREP         (PP*        min   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0   16               شُطُورِ-#$aTor#$Twr#$uTuwr+i-                       NOUN+CASE_DEF_GEN         (NP*      $aTor   -   -   -   *            *         *      -
+nw/ann/03/ann_0311   0   17                            -هِ#clitics#h#-hi                          POSS_PRON_3MS   (NP*)))))))   clitics   -   -   -   *            *)        *    (17)
+nw/ann/03/ann_0311   0   18                                .#DEFAULT#.#.                                   PUNC           *))   DEFAULT   -   -   -   *            *         *      -
+
+nw/ann/03/ann_0311   0    0                                     وَ-#clitics#w#wa-                              CONJ     (TOP(S*       clitics   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0    1                                 -كانَ#kAn-u#kAn#-kAn+a               PV+PVSUFF_SUBJ:3MS        (VP*         kAn-u  03   -   -           *    (V*)           *        -
+nw/ann/03/ann_0311   0    2                           رَئِيسُ#ra}iys#r}ys#ra}iys+u                NOUN+CASE_DEF_NOM        (NP*        ra}iys   -   -   -           *      *       (ARG0*      (15
+nw/ann/03/ann_0311   0    3                        مَجْلِسِ#majolis#mjls#majolis+i                NOUN+CASE_DEF_GEN        (NP*       majolis   -   -   -       (ORG*      *            *       (8
+nw/ann/03/ann_0311   0    4                       الانمآء#TBupdate#AlAnm|'#AlAnm|'                             TYPO        (NP*      TBupdate   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0    5                                     وَ-#clitics#w#wa-                              CONJ           *       clitics   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0    6              -الإِعْمارِ#<iEomAr#Al<EmAr#-Al+<iEomAr+i            DET+NOUN+CASE_DEF_GEN         *)))      <iEomAr   -   -   -           *)     *            *)   15)|8)
+nw/ann/03/ann_0311   0    7                            وَقَّعَ#waq~aE#wqE#waq~aE+a               PV+PVSUFF_SUBJ:3MS        (VP*        waq~aE  01   -   -           *      *          (V*)       -
+nw/ann/03/ann_0311   0    8                    {ِتِّفاقَ#{it~ifAq#AtfAq#{it~ifAq+a                NOUN+CASE_DEF_ACC        (NP*      {it~ifAq   -   -   -           *      *       (ARG1*        -
+nw/ann/03/ann_0311   0    9                        القَرْضِ#qaroD#AlqrD#Al+qaroD+i            DET+NOUN+CASE_DEF_GEN       (NP*))        qaroD   -   -   -           *      *            *)       -
+nw/ann/03/ann_0311   0   10                                     بِ-#clitics#b#bi-                              PREP        (PP*       clitics   -   -   -           *      *   (ARGM-MNR*        -
+nw/ann/03/ann_0311   0   11                 -الأَحْرُفِ#Harof#Al>Hrf#-Al+>aHoruf+i            DET+NOUN+CASE_DEF_GEN        (NP*         Harof   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0   12                       الأُولَى#>aw~al#AlAwlY#Al+>uwlaY                      DET+ADJ_NUM          *))       >aw~al   -   -   -    (ORDINAL)     *            *)       -
+nw/ann/03/ann_0311   0   13                              خِلالَ#xilAl#xlAl#xilAl+a                NOUN+CASE_DEF_ACC        (NP*         xilAl   -   -   -           *      *   (ARGM-TMP*        -
+nw/ann/03/ann_0311   0   14                   زِيارَتِ-#ziyArap#zyArt#ziyAr+at+i-    NOUN+NSUFF_FEM_SG+CASE_DEF_GEN     (NP(NP*       ziyArap   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0   15                                      -هِ#clitics#h#-hi                    POSS_PRON_3MS       (NP*))      clitics   -   -   -           *      *            *      (15)
+nw/ann/03/ann_0311   0   16                                     لِ-#clitics#l#li-                              PREP        (PP*       clitics   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0   17                          -مَقَرِّ#maqar~#mqr#-maqar~+i                NOUN+CASE_DEF_GEN     (NP(NP*        maqar~   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0   18                 المَصْرِفِ#maSoraf#AlmSrf#Al+maSorif+i            DET+NOUN+CASE_DEF_GEN        (NP*       maSoraf   -   -   -       (FAC*      *            *        -
+nw/ann/03/ann_0311   0   19    الأُورُوبِّيِّ#>uwrub~iy~#AlAwrwby#Al+>uwruwb~iy~+i             DET+ADJ+CASE_DEF_GEN          *))   >uwrub~iy~   -   -   -           *)     *            *        -
+nw/ann/03/ann_0311   0   20                                         فِي#fiy#fy#fiy                             PREP        (PP*           fiy   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0   21              اللوكسمبور#DEFAULT#Allwksmbwr#Al+lwksmbwr                    DET+NOUN_PROP   (NP*))))))      DEFAULT   -   -   -        (GPE)     *            *)       -
+nw/ann/03/ann_0311   0   22                                         فِي#fiy#fy#fiy                             PREP        (PP*           fiy   -   -   -           *      *   (ARGM-TMP*        -
+nw/ann/03/ann_0311   0   23                                      12#DEFAULT#12#12                          NOUN_NUM        (NP*       DEFAULT   -   -   -      (DATE*      *            *        -
+nw/ann/03/ann_0311   0   24                             نِيسان#niysAn#nysAn#niysAn                        NOUN_PROP     (NP(NP*)       niysAn   -   -   -           *      *            *        -
+nw/ann/03/ann_0311   0   25                                2002#DEFAULT#2002#2002                          NOUN_NUM   (NP*))))))      DEFAULT   -   -   -           *)     *            *)       -
+nw/ann/03/ann_0311   0   26                                          .#DEFAULT#.#.                             PUNC          *))      DEFAULT   -   -   -           *      *            *        -
+
+nw/ann/03/ann_0311   0    0                                  وَ-#clitics#w#wa-                              CONJ           (TOP(S*        clitics   -   -   -        *            *        *      -
+nw/ann/03/ann_0311   0    1    -تَسْتَعْمِلُ#{isotaEomal#tstEml#-ta+sotaEomil+u           IV3FS+IV+IVSUFF_MOOD:I              (VP*    {isotaEomal  01   -   -        *          (V*)       *      -
+nw/ann/03/ann_0311   0    2                حَصِيلَةُ#HaSiylap#HSylp#HaSiyl+ap+u   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM              (NP*       HaSiylap   -   -   -        *       (ARG1*        *      -
+nw/ann/03/ann_0311   0    3                                  ه`ذا#h`*A#h*A#h`*A                      DEM_PRON_MS           (NP(NP*)          h`*A   -   -   -        *            *        *     (7
+nw/ann/03/ann_0311   0    4                     القَرْضِ#qaroD#AlqrD#Al+qaroD+i            DET+NOUN+CASE_DEF_GEN            (NP*)))         qaroD   -   -   -        *            *)       *      7)
+nw/ann/03/ann_0311   0    5                                  لِ-#clitics#l#li-                              PREP              (PP*        clitics   -   -   -        *   (ARGM-PRP*        *      -
+nw/ann/03/ann_0311   0    6               -تَنْفِيذِ#tanofiy*#tnfy*#-tanofiy*+i                NOUN+CASE_DEF_GEN              (NP*      tanofiy*    -   -   -        *            *        *      -
+nw/ann/03/ann_0311   0    7                      أَشْغالِ#$ugol#A$gAl#>a$ogAl+i                NOUN+CASE_DEF_GEN              (NP*          $ugol   -   -   -        *            *        *      -
+nw/ann/03/ann_0311   0    8                 مَشْرُوعِ#ma$oruwE#m$rwE#ma$oruwE+i                NOUN+CASE_DEF_GEN              (NP*       ma$oruwE   -   -   -        *            *        *    (12
+nw/ann/03/ann_0311   0    9                 تَوْسِيعِ#tawosiyE#twsyE#tawosiyE+i                NOUN+CASE_DEF_GEN              (NP*       tawosiyE   -   -   -        *            *        *      -
+nw/ann/03/ann_0311   0   10                        مَرْفَأ#marofa>#mrf>#marofa>                             NOUN           (NP(NP*        marofa>   -   -   -    (FAC*            *        *     (6
+nw/ann/03/ann_0311   0   11             طَرابُلُسَ#TarAbulus#TrAbls#TarAbulus+a         NOUN_PROP+CASE_INDEF_GEN             (NP*))     TarAbulus   -   -   -        *)           *        *      6)
+nw/ann/03/ann_0311   0   12                        الَّذِي#Al~a*iy#Al*y#Al~a*iy                         REL_PRON       (SBAR(WHNP*)       Al~a*iy   -   -   -        *            *        *      -
+nw/ann/03/ann_0311   0   13                        باشَرَت#bA$ar#bA$rt#bA$ar+at               PV+PVSUFF_SUBJ:3FS            (S(VP*          bA$ar  01   -   -        *            *      (V*)     -
+nw/ann/03/ann_0311   0   14              تَنْفِيذَ-#tanofiy*#tnfy*#tanofiy*+a-                 NOUN+CASE_DEF_ACC              (NP*      tanofiy*    -   -   -        *            *   (ARG1*      -
+nw/ann/03/ann_0311   0   15                                   -هُ#clitics#h#-hu                    POSS_PRON_3MS         (NP(NP*)))       clitics   -   -   -        *            *        *)   (12)
+nw/ann/03/ann_0311   0   16             مَصْلَحَةُ#maSolaHap#mSlHp#maSolaH+ap+u   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM              (NP*      maSolaHap   -   -   -        *            *   (ARG0*      -
+nw/ann/03/ann_0311   0   17      {ِسْتِثْمارِ#{isotivomAr#AstvmAr#{isotivomAr+i                NOUN+CASE_DEF_GEN              (NP*    {isotivomAr   -   -   -        *            *        *      -
+nw/ann/03/ann_0311   0   18                 المَرْفَأ#marofa>#Almrf>#Al+marofa>                         DET+NOUN            (NP*)))       marofa>   -   -   -        *            *        *)    (6)
+nw/ann/03/ann_0311   0   19                            قَبْلَ#qabol#qbl#qabol+a                NOUN+CASE_DEF_ACC           (NP(NP*          qabol   -   -   -        *            *   (ARG2*      -
+nw/ann/03/ann_0311   0   20                  سَنَتَيْنِ#sanap#sntyn#san+atayoni            NOUN+NSUFF_FEM_DU_GEN             (NP*))         sanap   -   -   -    (DATE)           *        *      -
+nw/ann/03/ann_0311   0   21             تَقْرِيباً#taqoriyb#tqrybAF#taqoriyb+AF              NOUN+CASE_INDEF_ACC   (NP*))))))))))))      taqoriyb   -   -   -        *            *)       *)    12)
+nw/ann/03/ann_0311   0   22                                       .#DEFAULT#.#.                             PUNC                *))       DEFAULT   -   -   -        *            *        *      -
+
+nw/ann/03/ann_0311   0   0                       وَ-#clitics#w#wa-                      CONJ   (TOP(S*    clitics   -   -   -   *         *   -
+nw/ann/03/ann_0311   0   1       -تَشْمَلُ#$amil-a#t$ml#-ta+$omal+u   IV3FS+IV+IVSUFF_MOOD:I      (VP*    $amil-a  01   -   -   *       (V*)  -
+nw/ann/03/ann_0311   0   2                   ه`ذِهِ#h`*A#h*h#h`*ihi               DEM_PRON_F   (NP(NP*)      h`*A   -   -   -   *    (ARG1*   -
+nw/ann/03/ann_0311   0   3    الأَشْغالُ#$ugol#AlA$gAl#Al+>a$ogAl+u    DET+NOUN+CASE_DEF_NOM     (NP*))     $ugol   -   -   -   *         *)  -
+nw/ann/03/ann_0311   0   4                الآتِي#|tiy#Al|ty#Al+|tiy                 DET+NOUN     (NP*))      |tiy   -   -   -   *    (ARG2*)  -
+nw/ann/03/ann_0311   0   5                            :#DEFAULT#:#:                     PUNC        *))   DEFAULT   -   -   -   *         *   -
+
+nw/ann/03/ann_0311   0    0                           -#DEFAULT#-#-                              PUNC   (TOP(FRAG(LST*)   DEFAULT   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    1                 حَفْرُ#Hafor#Hfr#Hafor+u                NOUN+CASE_DEF_NOM          (NP(NP*      Hafor   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    2                 قَعْرِ#qaEor#qEr#qaEor+i                NOUN+CASE_DEF_GEN          (NP(NP*      qaEor   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    3    الأَحْواضِ#HawoD#AlAHwAD#Al+>aHowAD+i            DET+NOUN+CASE_DEF_GEN            (NP*))     HawoD   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    4                       وَ-#clitics#w#wa-                              CONJ                *    clitics   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    5           -قَناَةُ#qanAp#qnAp#-qanA+ap+u   NOUN+NSUFF_FEM_SG+CASE_DEF_NOM             (NP*      qanAp   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    6      الدُخُولِ#duxuwl#Aldxwl#Al+duxuwl+i            DET+NOUN+CASE_DEF_GEN          (NP*))))    duxuwl   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    7                    عَلَى#EalaY#ElY#EalaY                             PREP             (PP*      EalaY   -   -   -            *         *   -
+nw/ann/03/ann_0311   0    8                 عُمْقٍ#Eumoq#Emq#Eumoq+K              NOUN+CASE_INDEF_GEN          (NP(NP*)     Eumoq   -   -   -            *    (ARG1*)  -
+nw/ann/03/ann_0311   0    9          يُراوِحُ#rAwaH#yrAwH#yu+rAwiH+u           IV3MS+IV+IVSUFF_MOOD:I      (SBAR(S(VP*      rAwaH  02   -   -            *       (V*)  -
+nw/ann/03/ann_0311   0   10                 بَيْنَ#bayon#byn#bayon+a                NOUN+CASE_DEF_ACC             (NP*      bayon   -   -   -            *    (ARG2*   -
+nw/ann/03/ann_0311   0   11                        10#DEFAULT#10#10                          NOUN_NUM          (NP(NP*    DEFAULT   -   -   -   (QUANTITY*         *   -
+nw/ann/03/ann_0311   0   12           أَمْتارٍ#mitor#AmtAr#>amotAr+K              NOUN+CASE_INDEF_GEN            (NP*))     mitor   -   -   -            *)        *   -
+nw/ann/03/ann_0311   0   13                               وَ#wa#w#wa                             CONJ                *         wa   -   -   -            *         *   -
+nw/ann/03/ann_0311   0   14                        13#DEFAULT#13#13                          NOUN_NUM             (NP*    DEFAULT   -   -   -   (QUANTITY*         *   -
+nw/ann/03/ann_0311   0   15              مِتْراً#mitor#mtrA#mitor+AF              NOUN+CASE_INDEF_ACC    (NP*))))))))))     mitor   -   -   -            *)        *)  -
+nw/ann/03/ann_0311   0   16                            .#DEFAULT#.#.                             PUNC               *))   DEFAULT   -   -   -            *         *   -
+
+nw/ann/03/ann_0311   0   0                                   -#DEFAULT#-#-                     PUNC   (TOP(FRAG(LST*)     DEFAULT  -   -   -            *   -
+nw/ann/03/ann_0311   0   1              تَمْدِيدُ#tamodiyd#tmdyd#tamodiyd+u       NOUN+CASE_DEF_NOM          (NP(NP*     tamodiyd  -   -   -            *   -
+nw/ann/03/ann_0311   0   2                  مَكْسِرِ#makosir#mksr#makosir+i       NOUN+CASE_DEF_GEN          (NP(NP*      makosir  -   -   -            *   -
+nw/ann/03/ann_0311   0   3                  المَوْجِ#mawoj#Almwj#Al+mawoj+i   DET+NOUN+CASE_DEF_GEN            (NP*))       mawoj  -   -   -            *   -
+nw/ann/03/ann_0311   0   4    الرَئِيسِيِّ#ra}iysiy~#Alr}ysy#Al+ra}iysiy~+i    DET+ADJ+CASE_DEF_GEN         (ADJP*)))   ra}iysiy~  -   -   -            *   -
+nw/ann/03/ann_0311   0   5                               بِ-#clitics#b#bi-                     PREP             (PP*      clitics  -   -   -            *   -
+nw/ann/03/ann_0311   0   6                          -طُولِ#Tuwl#Twl#-Tuwl+i       NOUN+CASE_DEF_GEN             (NP*         Tuwl  -   -   -            *   -
+nw/ann/03/ann_0311   0   7                          1000#DEFAULT#1000#1000                 NOUN_NUM             (NP*      DEFAULT  -   -   -   (QUANTITY*   -
+nw/ann/03/ann_0311   0   8                         مِتْرٍ#mitor#mtr#mitor+K     NOUN+CASE_INDEF_GEN         (NP*)))))       mitor  -   -   -            *)  -
+nw/ann/03/ann_0311   0   9                                    .#DEFAULT#.#.                    PUNC               *))     DEFAULT  -   -   -            *   -
+
+nw/ann/03/ann_0311   0    0                                   -#DEFAULT#-#-                              PUNC   (TOP(FRAG(LST*)     DEFAULT  -   -   -            *   -
+nw/ann/03/ann_0311   0    1                 إِنْشاءُ#<ino$A'#An$A'#<ino$A'+u                NOUN+CASE_DEF_NOM          (NP(NP*      <ino$A'  -   -   -            *   -
+nw/ann/03/ann_0311   0    2                  مَكْسِرِ#makosir#mksr#makosir+i                NOUN+CASE_DEF_GEN          (NP(NP*      makosir  -   -   -            *   -
+nw/ann/03/ann_0311   0    3                         مَوْجٍ#mawoj#mwj#mawoj+K              NOUN+CASE_INDEF_GEN            (NP*))       mawoj  -   -   -            *   -
+nw/ann/03/ann_0311   0    4              ثانَوِيٍّ#vAnawiy~#vAnwy#vAnawiy~+K               ADJ+CASE_INDEF_GEN         (ADJP*)))    vAnawiy~  -   -   -            *   -
+nw/ann/03/ann_0311   0    5                                   فِي#fiy#fy#fiy                             PREP             (PP*          fiy  -   -   -            *   -
+nw/ann/03/ann_0311   0    6       ال{ِتِّجاهِ#{it~ijAh#AlAtjAh#Al+{it~ijAh+i            DET+NOUN+CASE_DEF_GEN             (NP*     {it~ijAh  -   -   -            *   -
+nw/ann/03/ann_0311   0    7       الشَمالِيِّ#$amAliy~#Al$mAly#Al+$amAliy~+i             DET+ADJ+CASE_DEF_GEN                *     $amAliy~  -   -   -            *   -
+nw/ann/03/ann_0311   0    8    الجَنُوبِيِّ#januwbiy~#Aljnwby#Al+januwbiy~+i             DET+ADJ+CASE_DEF_GEN               *))   januwbiy~  -   -   -            *   -
+nw/ann/03/ann_0311   0    9                               بِ-#clitics#b#bi-                              PREP             (PP*      clitics  -   -   -            *   -
+nw/ann/03/ann_0311   0   10                          -طُولِ#Tuwl#Twl#-Tuwl+i                NOUN+CASE_DEF_GEN          (NP(NP*         Tuwl  -   -   -            *   -
+nw/ann/03/ann_0311   0   11                          1300#DEFAULT#1300#1300                          NOUN_NUM             (NP*      DEFAULT  -   -   -   (QUANTITY*   -
+nw/ann/03/ann_0311   0   12                         مِتْرٍ#mitor#mtr#mitor+K              NOUN+CASE_INDEF_GEN           (NP*)))       mitor  -   -   -            *)  -
+nw/ann/03/ann_0311   0   13          تَقْرِيباً#taqoriyb#tqrybAF#taqoriyb+AF              NOUN+CASE_INDEF_ACC           (NP*)))    taqoriyb  -   -   -            *   -
+nw/ann/03/ann_0311   0   14                               لِ-#clitics#l#li-                              PREP             (PP*      clitics  -   -   -            *   -
+nw/ann/03/ann_0311   0   15              -حِمايَةِ#HimAyap#HmAyp#-HimAy+ap+i   NOUN+NSUFF_FEM_SG+CASE_DEF_GEN          (NP(NP*      HimAyap  -   -   -            *   -
+nw/ann/03/ann_0311   0   16              المَرْفَأ#marofa>#Almrf>#Al+marofa>                         DET+NOUN            (NP*))     marofa>  -   -   -            *   -
+nw/ann/03/ann_0311   0   17                                   مِن#min#mn#min                             PREP             (PP*          min  -   -   -            *   -
+nw/ann/03/ann_0311   0   18            الأَمْواجِ#mawoj#AlAmwAj#Al+>amowAj+i            DET+NOUN+CASE_DEF_GEN          (NP*))))       mawoj  -   -   -            *   -
+nw/ann/03/ann_0311   0   19                                    .#DEFAULT#.#.                             PUNC              *)))     DEFAULT  -   -   -            *   -
+
+nw/ann/03/ann_0311   0    0                      -#DEFAULT#-#-                   PUNC   (TOP(FRAG(LST*)   DEFAULT  -   -   -            *   -
+nw/ann/03/ann_0311   0    1    إِنْشاءُ#<ino$A'#An$A'#<ino$A'+u     NOUN+CASE_DEF_NOM             (NP*    <ino$A'  -   -   -            *   -
+nw/ann/03/ann_0311   0    2        رَصِيفٍ#raSiyf#rSyf#raSiyf+K   NOUN+CASE_INDEF_GEN          (NP(NP*)    raSiyf  -   -   -            *   -
+nw/ann/03/ann_0311   0    3                  بِ-#clitics#b#bi-                   PREP          (PP(PP*    clitics  -   -   -            *   -
+nw/ann/03/ann_0311   0    4             -طُولِ#Tuwl#Twl#-Tuwl+i     NOUN+CASE_DEF_GEN             (NP*       Tuwl  -   -   -            *   -
+nw/ann/03/ann_0311   0    5                600#DEFAULT#600#600               NOUN_NUM             (NP*    DEFAULT  -   -   -   (QUANTITY*   -
+nw/ann/03/ann_0311   0    6            مِتْرٍ#mitor#mtr#mitor+K   NOUN+CASE_INDEF_GEN          (NP*))))     mitor  -   -   -            *)  -
+nw/ann/03/ann_0311   0    7                  وَ-#clitics#w#wa-                   CONJ                *    clitics  -   -   -            *   -
+nw/ann/03/ann_0311   0    8                -بِ-#clitics#b#-bi-                   PREP             (PP*    clitics  -   -   -            *   -
+nw/ann/03/ann_0311   0    9          -عُمْقِ#Eumoq#Emq#-Eumoq+i     NOUN+CASE_DEF_GEN             (NP*      Eumoq  -   -   -            *   -
+nw/ann/03/ann_0311   0   10                   12#DEFAULT#12#12               NOUN_NUM             (NP*    DEFAULT  -   -   -   (QUANTITY*   -
+nw/ann/03/ann_0311   0   11         مِتْراً#mitor#mtrA#mitor+AF   NOUN+CASE_INDEF_ACC       (NP*)))))))     mitor  -   -   -            *)  -
+nw/ann/03/ann_0311   0   12                       .#DEFAULT#.#.                  PUNC               *))   DEFAULT  -   -   -            *   -
+
+#end document

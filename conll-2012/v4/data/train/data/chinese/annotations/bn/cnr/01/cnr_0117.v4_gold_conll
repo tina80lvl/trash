@@ -1,0 +1,88 @@
+#begin document (bn/cnr/01/cnr_0117); part 000
+bn/cnr/01/cnr_0117   0    0     中央台   NR   (TOP(IP(NP(NP(NP*)  -    -   -   -       (ORG)      (ARG0*             *             *             *        -
+bn/cnr/01/cnr_0117   0    1      记者   NN               (NP*))  -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0    2      李涛   NR               (NP*))  -    -   -   -    (PERSON)           *)            *             *             *        -
+bn/cnr/01/cnr_0117   0    3       从    P             (VP(PP*   -    -   -   -          *   (ARGM-DIR*             *             *             *        -
+bn/cnr/01/cnr_0117   0    4    塞浦路斯   NR               (NP*))  -    -   -   -       (GPE)           *)            *             *             *       (1)
+bn/cnr/01/cnr_0117   0    5      报道   VV                (VP*   -   01   -   -          *          (V*)            *             *             *        -
+bn/cnr/01/cnr_0117   0    6       ：   PU                   *   -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0    7      国家   NN          (IP(NP(NP*   -    -   -   -          *       (ARG1*        (ARG0*        (ARG0*        (ARG0*       (4
+bn/cnr/01/cnr_0117   0    8     副主席   NN                   *)  -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0    9     胡锦涛   NR               (NP*))  -    -   -   -    (PERSON)           *             *)            *)            *)       4)
+bn/cnr/01/cnr_0117   0   10      昨天   NT             (VP(NP*)  -    -   -   -      (DATE)           *    (ARGM-TMP*)   (ARGM-TMP*)   (ARGM-TMP*)      (0)
+bn/cnr/01/cnr_0117   0   11      离开   VV             (VP(VP*   -   01   -   -          *            *           (V*)            *             *        -
+bn/cnr/01/cnr_0117   0   12    塞浦路斯   NR          (NP(NP(NP*)  -    -   -   -       (GPE)           *        (ARG1*             *             *       (1)
+bn/cnr/01/cnr_0117   0   13      首都   NN               (NP*))  -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0   14    尼克西亚   NR              (NP*)))  -    -   -   -       (GPE)           *             *)            *             *        -
+bn/cnr/01/cnr_0117   0   15       ，   PU                   *   -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0   16      抵达   VV             (VP(VP*   -   01   -   -          *            *             *           (V*)            *        -
+bn/cnr/01/cnr_0117   0   17    塞浦路斯   NR          (NP(NP(NP*)  -    -   -   -       (GPE)           *             *        (ARG1*             *    (2|(1)
+bn/cnr/01/cnr_0117   0   18      第二   OD           (ADJP(QP*)  -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0   19       大   JJ             (ADJP*))  -    -   -   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0   20      城市   NN               (NP*))  -    -   1   -          *            *             *             *             *        -
+bn/cnr/01/cnr_0117   0   21     利马索   NR              (NP*)))  -    -   -   -       (GPE)           *             *             *)            *        2)
+bn/cnr/01/cnr_0117   0   22      访问   VV          (VP*)))))))  -   01   -   -          *            *)            *             *           (V*)       -
+bn/cnr/01/cnr_0117   0   23       。   PU                  *))  -    -   -   -          *            *             *             *             *        -
+
+bn/cnr/01/cnr_0117   0    0       在     P                  (TOP(IP(PP*   -    -   2   -          *        *   (ARGM-LOC*        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    1    利马索市    NR   (LCP(NP(CP(CP(IP(NP(NP(NP*)  -    -   -   -       (GPE)  (ARG0*            *        *         *        *         *            *         *    (2)
+bn/cnr/01/cnr_0117   0    2      市长    NN                        (NP*))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    3    孔蒂迪斯    NR                        (NP*))  -    -   -   -    (PERSON)       *)           *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    4      举行    VV                        (VP*))  -   01   -   -          *      (V*)           *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    5       的   DEC                           *))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    6      欢迎    NN                         (NP*   -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    7      宴会    NN                           *))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    8       上    LC                           *))  -    -   1   -          *        *            *)       *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0    9       ，    PU                            *   -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   10     胡锦涛    NR                         (NP*)  -    -   -   -    (PERSON)       *       (ARG0*)       *         *        *         *            *         *    (4)
+bn/cnr/01/cnr_0117   0   11       说    VV                         (VP*   -   01   7   -          *        *          (V*)       *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   12       ，    PU                            *   -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   13      欢迎    VV                   (IP(IP(VP*   -   01   -   -          *        *       (ARG1*      (V*)        *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   14       两    CD                   (NP(NP(QP*)  -    -   -   -          *        *            *   (ARG1*         *        *         *            *         *    (3
+bn/cnr/01/cnr_0117   0   15       国    NN                        (NP*))  -    -   -   -          *        *            *        *         *        *         *            *         *     3)
+bn/cnr/01/cnr_0117   0   16      各界    NN                         (NP*   -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   17      人士    NN                           *))  -    -   -   -          *        *            *        *)        *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   18      加强    VV                      (IP(VP*   -   01   -   -          *        *            *   (ARG2*       (V*)       *         *            *         *     -
+bn/cnr/01/cnr_0117   0   19      互访    NN                     (NP*)))))  -    -   -   -          *        *            *        *)   (ARG1*)       *         *            *         *     -
+bn/cnr/01/cnr_0117   0   20       ，    PU                            *   -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   21       使    VV                      (IP(VP*   -   01   -   -          *        *            *        *         *      (V*)        *            *         *     -
+bn/cnr/01/cnr_0117   0   22       两    CD                   (NP(NP(QP*)  -    -   -   -          *        *            *        *         *   (ARG1*         *            *         *    (3
+bn/cnr/01/cnr_0117   0   23       国    NN                        (NP*))  -    -   -   -          *        *            *        *         *        *         *            *         *     3)
+bn/cnr/01/cnr_0117   0   24      友好    JJ                       (ADJP*)  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   25      合作    NN                         (NP*   -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   26      关系    NN                           *))  -    -   2   -          *        *            *        *         *        *)        *            *         *     -
+bn/cnr/01/cnr_0117   0   27       在     P                   (IP(VP(PP*   -    -   2   -          *        *            *        *         *   (ARG2*         *   (ARGM-TMP*         *     -
+bn/cnr/01/cnr_0117   0   28       新    VA            (NP(CP(CP(IP(VP*))  -   01   -   -     (DATE*        *            *        *         *        *       (V*)           *         *     -
+bn/cnr/01/cnr_0117   0   29       的   DEC                           *))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   30      世纪    NN                       (NP*)))  -    -   -   -          *)       *            *        *         *        *    (ARG0*)           *)        *     -
+bn/cnr/01/cnr_0117   0   31      得到    VV                         (VP*   -   01   -   -          *        *            *        *         *        *         *          (V*)        *     -
+bn/cnr/01/cnr_0117   0   32       新    VA            (NP(CP(CP(IP(VP*))  -   01   -   -          *        *            *        *         *        *         *       (ARG1*       (V*)    -
+bn/cnr/01/cnr_0117   0   33       的   DEC                           *))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   34       更    AD                  (ADJP(ADVP*)  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   35       大    JJ                      (ADJP*))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+bn/cnr/01/cnr_0117   0   36      发展    NN                 (NP*)))))))))  -    -   4   -          *        *            *)       *         *        *)        *            *)   (ARG0*)    -
+bn/cnr/01/cnr_0117   0   37       。    PU                           *))  -    -   -   -          *        *            *        *         *        *         *            *         *     -
+
+bn/cnr/01/cnr_0117   0    0     胡锦涛    NR     (TOP(IP(NP*)  -    -   -   -    (PERSON)       (ARG0*)        *        (ARG0*)   (4)
+bn/cnr/01/cnr_0117   0    1      昨天    NT         (VP(NP*)  -    -   -   -          *    (ARGM-TMP*)        *    (ARGM-TMP*)   (0)
+bn/cnr/01/cnr_0117   0    2       还    AD          (ADVP*)  -    -   -   -          *    (ARGM-DIS*)        *    (ARGM-ADV*)    -
+bn/cnr/01/cnr_0117   0    3      前往    VV         (VP(VP*   -   01   -   -          *           (V*)        *             *     -
+bn/cnr/01/cnr_0117   0    4      中国    NR         (NP(NP*)  -    -   -   -      (ORG*        (ARG1*         *             *     -
+bn/cnr/01/cnr_0117   0    5       驻    VV      (CP(IP(VP*   -   01   -   -          *             *       (V*)            *     -
+bn/cnr/01/cnr_0117   0    6    塞浦路斯    NR         (NP*))))  -    -   -   -          *             *    (ARG1*)            *    (1)
+bn/cnr/01/cnr_0117   0    7     大使馆    NN          (NP*)))  -    -   -   -          *)            *)   (ARG0*)            *     -
+bn/cnr/01/cnr_0117   0    8      看望    VV            (VP*   -   01   -   -          *             *         *           (V*)    -
+bn/cnr/01/cnr_0117   0    9       了    AS               *   -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   10      使馆    NN         (NP(NP*   -    -   -   -       (ORG)            *         *        (ARG1*     -
+bn/cnr/01/cnr_0117   0   11      工作    NN               *   -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   12      人员    NN               *)  -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   13       、    PU               *   -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   14      中资    NN  (NP(DNP(NP(NP*   -    -   -   -       (GPE)            *         *             *     -
+bn/cnr/01/cnr_0117   0   15      机构    NN               *)  -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   16       和    CC               *   -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   17     留学生    NN           (NP*))  -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   18       的   DEG               *)  -    -   -   -          *             *         *             *     -
+bn/cnr/01/cnr_0117   0   19      代表    NN       (NP*))))))  -    -   -   -          *             *         *             *)    -
+bn/cnr/01/cnr_0117   0   20       。    PU              *))  -    -   -   -          *             *         *             *     -
+
+#end document

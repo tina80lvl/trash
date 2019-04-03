@@ -1,0 +1,136 @@
+#begin document (bn/cbs/00/cbs_0015); part 000
+bn/cbs/00/cbs_0015   0   0    继续    VV         (TOP(IP(VP*   -   01   -   -   *      (V*)       *        *   -
+bn/cbs/00/cbs_0015   0   1     是    VC                (VP*   -   01   1   -   *   (ARG1*      (V*)       *   -
+bn/cbs/00/cbs_0015   0   2    重要    VA   (NP(CP(CP(IP(VP*))  -   01   -   -   *        *   (ARG1*      (V*)  -
+bn/cbs/00/cbs_0015   0   3     的   DEC                  *))  -    -   -   -   *        *        *        *   -
+bn/cbs/00/cbs_0015   0   4    国际    NN                (NP*   -    -   -   -   *        *        *   (ARG0*   -
+bn/cbs/00/cbs_0015   0   5    新闻    NN                *))))  -    -   -   -   *        *)       *)       *)  -
+bn/cbs/00/cbs_0015   0   6     。    PU                  *))  -    -   -   -   *        *        *        *   -
+
+bn/cbs/00/cbs_0015   0    0     南斯拉夫    NR   (TOP(IP(IP(NP(NP(NP*)  -    -   -   -        (GPE)       (ARG0*        (ARG0*        (ARG0*             *    (1|(2)
+bn/cbs/00/cbs_0015   0    1       新任    JJ                 (ADJP*)  -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0    2       总统    NN                  (NP*))  -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0    3    科斯图尼察    NR                  (NP*))  -    -   -   -     (PERSON)            *)            *)            *)            *        1)
+bn/cbs/00/cbs_0015   0    4       目前    NT             (VP(VP(NP*)  -    -   -   -           *    (ARGM-TMP*)            *             *             *        -
+bn/cbs/00/cbs_0015   0    5        正    AD                 (ADVP*)  -    -   -   -           *    (ARGM-ADV*)            *             *             *        -
+bn/cbs/00/cbs_0015   0    6        在     P                   (PP*   -    -   2   -           *    (ARGM-LOC*             *             *             *        -
+bn/cbs/00/cbs_0015   0    7       欧洲    NR                (NP(NP*)  -    -   -   -        (LOC)            *             *             *             *        -
+bn/cbs/00/cbs_0015   0    8       地区    NN                 (NP*)))  -    -   -   -           *             *)            *             *             *        -
+bn/cbs/00/cbs_0015   0    9       进行    VV                   (VP*   -   01   3   -           *           (V*)            *             *             *        -
+bn/cbs/00/cbs_0015   0   10       上任    NN        (NP(DNP(LCP(NP*)  -    -   -   -           *        (ARG1*             *             *             *       (4)
+bn/cbs/00/cbs_0015   0   11       之后    LC                      *)  -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   12        的   DEG                      *)  -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   13        首    OD                   (QP*   -    -   -   -   (ORDINAL*             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   14        次     M                 (CLP*))  -    -   -   -           *)            *             *             *             *        -
+bn/cbs/00/cbs_0015   0   15       外访    NN                   (NP*   -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   16       行动    NN                   *))))  -    -   -   -           *             *)            *             *             *        -
+bn/cbs/00/cbs_0015   0   17        ，    PU                      *   -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   18      １４号    NT                (VP(NP*)  -    -   -   -       (DATE)            *             *    (ARGM-TMP*)            *       (6)
+bn/cbs/00/cbs_0015   0   19       已经    AD              (VP(ADVP*)  -    -   -   -           *             *    (ARGM-ADV*)            *             *        -
+bn/cbs/00/cbs_0015   0   20       抵达    VV                   (VP*   -   01   -   -           *             *           (V*)            *             *        -
+bn/cbs/00/cbs_0015   0   21        了    AS                      *   -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   22       瑞士    NR                   (NP*   -    -   -   -        (GPE)            *        (ARG1*             *             *        -
+bn/cbs/00/cbs_0015   0   23      日内瓦    NR                    *)))  -    -   -   -        (GPE)            *             *)            *             *        -
+bn/cbs/00/cbs_0015   0   24        ，    PU                      *   -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   25       进行    VV                   (VP*   -   01   3   -           *             *             *           (V*)            *        -
+bn/cbs/00/cbs_0015   0   26       第二    OD            (NP(DNP(QP*   -    -   -   -    (ORDINAL)            *             *        (ARG1*             *        -
+bn/cbs/00/cbs_0015   0   27        站    NN                 (CLP*))  -    -   3   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   28        的   DEG                      *)  -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   29       访问    NN                   (NP*   -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   30       行程    NN                 *))))))  -    -   -   -           *             *             *             *)            *        -
+bn/cbs/00/cbs_0015   0   31        ，    PU                      *   -    -   -   -           *             *             *             *             *        -
+bn/cbs/00/cbs_0015   0   32    科斯图尼察    NR                (IP(NP*)  -    -   -   -     (PERSON)            *             *             *        (ARG0*)      (1)
+bn/cbs/00/cbs_0015   0   33        并    AD              (VP(ADVP*)  -    -   -   -           *             *             *             *    (ARGM-DIS*)       -
+bn/cbs/00/cbs_0015   0   34        将    AD                 (ADVP*)  -    -   -   -           *             *             *             *    (ARGM-ADV*)       -
+bn/cbs/00/cbs_0015   0   35        与     P                   (PP*   -    -   -   -           *             *             *             *        (ARG0*        -
+bn/cbs/00/cbs_0015   0   36       瑞士    NR                (NP(NP*)  -    -   -   -       (NORP)            *             *             *             *        -
+bn/cbs/00/cbs_0015   0   37       总统    NN                 (NP*)))  -    -   -   -           *             *             *             *             *)       -
+bn/cbs/00/cbs_0015   0   38       进行    VV                   (VP*   -   01   3   -           *             *             *             *           (V*)       -
+bn/cbs/00/cbs_0015   0   39       会谈    NN                (NP*))))  -    -   -   -           *             *             *             *        (ARG1*)       -
+bn/cbs/00/cbs_0015   0   40        。    PU                     *))  -    -   -   -           *             *             *             *             *        -
+
+bn/cbs/00/cbs_0015   0    0          欧盟    NR   (TOP(IP(NP(NP*)  -    -   -   -         (ORG)       (ARG0*        (ARG0*        *    (3|(0)
+bn/cbs/00/cbs_0015   0    1          １５    CD             (QP*   -    -   -   -   (QUANTITY*             *             *        *        -
+bn/cbs/00/cbs_0015   0    2           名     M           (CLP*))  -    -   -   -            *)            *             *        *        -
+bn/cbs/00/cbs_0015   0    3          领袖    NN            (NP*))  -    -   -   -            *             *)            *)       *        3)
+bn/cbs/00/cbs_0015   0    4         １４号    NT       (VP(VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)            *        *       (6)
+bn/cbs/00/cbs_0015   0    5          结束    VV             (VP*   -   01   -   -            *           (V*)            *        *        -
+bn/cbs/00/cbs_0015   0    6           在     P          (NP(PP*   -    -   2   -            *        (ARG1*             *        *       (7
+bn/cbs/00/cbs_0015   0    7          法国    NR            (NP*))  -    -   -   -         (GPE)            *             *        *       (5)
+bn/cbs/00/cbs_0015   0    8           两    CD             (QP*   -    -   -   -       (DATE*             *             *        *        -
+bn/cbs/00/cbs_0015   0    9           天     M           (CLP*))  -    -   -   -            *)            *             *        *        -
+bn/cbs/00/cbs_0015   0   10         高峰会    NN          (NP*))))  -    -   -   -            *             *)            *        *        7)
+bn/cbs/00/cbs_0015   0   11           ，    PU                *   -    -   -   -            *             *             *        *        -
+bn/cbs/00/cbs_0015   0   12           在     P          (VP(PP*   -    -   2   -            *             *    (ARGM-LOC*        *        -
+bn/cbs/00/cbs_0015   0   13          会中    NN            (NP*))  -    -   -   -            *             *             *)       *       (7)
+bn/cbs/00/cbs_0015   0   14          并且    AD           (ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)       *        -
+bn/cbs/00/cbs_0015   0   15          承诺    VV             (VP*   -   01   -   -            *             *           (V*)       *        -
+bn/cbs/00/cbs_0015   0   16           向     P       (IP(VP(PP*   -    -   -   -            *             *        (ARG1*   (ARG2*        -
+bn/cbs/00/cbs_0015   0   17        南斯拉夫    NR            (NP*))  -    -   -   -         (GPE)            *             *        *)      (2)
+bn/cbs/00/cbs_0015   0   18          提供    VV             (VP*   -   01   -   -            *             *             *      (V*)       -
+bn/cbs/00/cbs_0015   0   19    １亿７千５００万    CD      (NP(DNP(QP*   -    -   -   -      (MONEY*             *             *   (ARG1*        -
+bn/cbs/00/cbs_0015   0   20          美元     M           (CLP*))  -    -   -   -            *)            *             *        *        -
+bn/cbs/00/cbs_0015   0   21           的   DEG                *)  -    -   -   -            *             *             *        *        -
+bn/cbs/00/cbs_0015   0   22          经济    NN             (NP*   -    -   2   -            *             *             *        *        -
+bn/cbs/00/cbs_0015   0   23          援助    NN         *))))))))  -    -   -   -            *             *             *)       *)       -
+bn/cbs/00/cbs_0015   0   24           。    PU               *))  -    -   -   -            *             *             *        *        -
+
+bn/cbs/00/cbs_0015   0    0    科斯图尼察   NR   (TOP(IP(IP(NP*)  -    -   -   -      (PERSON)       (ARG0*)            *      *        *         *    (1)
+bn/cbs/00/cbs_0015   0    1       稍早   AD        (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)            *      *        *         *     -
+bn/cbs/00/cbs_0015   0    2        在    P             (PP*   -    -   2   -            *    (ARGM-LOC*             *      *        *         *     -
+bn/cbs/00/cbs_0015   0    3       法国   NR            (NP*))  -    -   -   -         (GPE)            *)            *      *        *         *    (5)
+bn/cbs/00/cbs_0015   0    4        与    P             (PP*   -    -   -   -            *    (ARGM-ADV*             *      *        *         *     -
+bn/cbs/00/cbs_0015   0    5       １５   CD          (NP(QP*   -    -   -   -   (QUANTITY*             *             *      *        *         *    (3
+bn/cbs/00/cbs_0015   0    6        名    M           (CLP*))  -    -   -   -            *)            *             *      *        *         *     -
+bn/cbs/00/cbs_0015   0    7       欧盟   NR             (NP*)  -    -   -   -         (ORG)            *             *      *        *         *    (0)
+bn/cbs/00/cbs_0015   0    8       领袖   NN           (NP*)))  -    -   -   -            *             *)            *      *        *         *     3)
+bn/cbs/00/cbs_0015   0    9        共   AD           (ADVP*)  -    -   3   -            *    (ARGM-ADV*)            *      *        *         *     -
+bn/cbs/00/cbs_0015   0   10        进   VV             (VP*   -   04   4   -            *           (V*)            *      *        *         *     -
+bn/cbs/00/cbs_0015   0   11       午餐   NN             (NP*   -    -   -   -            *        (ARG1*             *      *        *         *     -
+bn/cbs/00/cbs_0015   0   12       汇报   NN             *))))  -    -   -   -            *             *)            *      *        *         *     -
+bn/cbs/00/cbs_0015   0   13        ，   PU                *   -    -   -   -            *             *             *      *        *         *     -
+bn/cbs/00/cbs_0015   0   14       法国   NR    (IP(NP(NP(NP*)  -    -   -   -        (NORP)            *        (ARG0*      *        *         *    (5)
+bn/cbs/00/cbs_0015   0   15       总统   NN            (NP*))  -    -   -   -            *             *             *      *        *         *     -
+bn/cbs/00/cbs_0015   0   16      希哈克   NR            (NP*))  -    -   -   -      (PERSON)            *             *)     *        *         *     -
+bn/cbs/00/cbs_0015   0   17        也   AD        (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)     *        *         *     -
+bn/cbs/00/cbs_0015   0   18       表示   VV             (VP*   -   01   2   -            *             *           (V*)     *        *         *     -
+bn/cbs/00/cbs_0015   0   19        会   VV          (IP(VP*   -   01   -   -            *             *        (ARG1*    (V*)       *         *     -
+bn/cbs/00/cbs_0015   0   20       继续   VV             (VP*   -   01   -   -            *             *             *      *      (V*)        *     -
+bn/cbs/00/cbs_0015   0   21       支持   VV             (VP*   -   01   -   -            *             *             *      *   (ARG1*       (V*)    -
+bn/cbs/00/cbs_0015   0   22    科斯图尼察   NR      (NP*))))))))  -    -   -   -      (PERSON)            *             *)     *        *)   (ARG1*)   (1)
+bn/cbs/00/cbs_0015   0   23        。   PU               *))  -    -   -   -            *             *             *      *        *         *     -
+
+bn/cbs/00/cbs_0015   0    0       而   AD   (TOP(IP(ADVP*)  -    -   -   -          *    (ARGM-DIS*)       *     -
+bn/cbs/00/cbs_0015   0    1      英国   NR      (NP(NP(NP*)  -    -   -   -      (NORP)       (ARG0*        *     -
+bn/cbs/00/cbs_0015   0    2      首相   NN           (NP*))  -    -   -   -          *             *        *     -
+bn/cbs/00/cbs_0015   0    3     布莱尔   NR           (NP*))  -    -   -   -    (PERSON)            *)       *     -
+bn/cbs/00/cbs_0015   0    4       也   AD       (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *     -
+bn/cbs/00/cbs_0015   0    5      希望   VV            (VP*   -   01   1   -          *           (V*)       *     -
+bn/cbs/00/cbs_0015   0    6       与    P      (IP(VP(PP*   -    -   -   -          *        (ARG1*   (ARG0*     -
+bn/cbs/00/cbs_0015   0    7    南斯拉夫   NR           (NP*))  -    -   -   -       (GPE)            *        *)   (2)
+bn/cbs/00/cbs_0015   0    8      建立   VV            (VP*   -   01   -   -          *             *      (V*)    -
+bn/cbs/00/cbs_0015   0    9      友谊   NN         (NP(NP*)  -    -   -   -          *             *   (ARG1*     -
+bn/cbs/00/cbs_0015   0   10      以及   CC               *   -    -   -   -          *             *        *     -
+bn/cbs/00/cbs_0015   0   11      伙伴   NN            (NP*   -    -   -   -          *             *        *     -
+bn/cbs/00/cbs_0015   0   12      关系   NN         *)))))))  -    -   2   -          *             *)       *)    -
+bn/cbs/00/cbs_0015   0   13       。   PU              *))  -    -   -   -          *             *        *     -
+
+bn/cbs/00/cbs_0015   0    0    科斯图尼察    NR    (TOP(IP(NP*)  -    -   -   -    (PERSON)       (ARG0*)            *        *    (1)
+bn/cbs/00/cbs_0015   0    1        也    AD      (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)            *        *     -
+bn/cbs/00/cbs_0015   0    2       表示    VV           (VP*   -   01   2   -          *           (V*)            *        *     -
+bn/cbs/00/cbs_0015   0    3        ，    PU              *   -    -   -   -          *             *             *        *     -
+bn/cbs/00/cbs_0015   0    4        他    PN     (IP(NP(NP*)  -    -   -   -          *        (ARG1*        (ARG0*        *    (1)
+bn/cbs/00/cbs_0015   0    5       上任    NN   (DNP(LCP(NP*)  -    -   -   -          *             *             *        *    (4)
+bn/cbs/00/cbs_0015   0    6       以后    LC              *)  -    -   -   -          *             *             *        *     -
+bn/cbs/00/cbs_0015   0    7        的   DEG              *)  -    -   -   -          *             *             *        *     -
+bn/cbs/00/cbs_0015   0    8       首要    JJ         (ADJP*)  -    -   -   -          *             *             *        *     -
+bn/cbs/00/cbs_0015   0    9       任务    NN          (NP*))  -    -   -   -          *             *             *)       *     -
+bn/cbs/00/cbs_0015   0   10        就    AD      (VP(ADVP*)  -    -   8   -          *             *    (ARGM-ADV*)       *     -
+bn/cbs/00/cbs_0015   0   11        是    VC           (VP*   -   01   1   -          *             *           (V*)       *     -
+bn/cbs/00/cbs_0015   0   12       重建    VV        (IP(VP*   -   01   -   -          *             *        (ARG1*      (V*)    -
+bn/cbs/00/cbs_0015   0   13     南斯拉夫    NR    (NP(DNP(NP*)  -    -   -   -       (GPE)            *             *   (ARG1*    (2)
+bn/cbs/00/cbs_0015   0   14        的   DEG              *)  -    -   -   -          *             *             *        *     -
+bn/cbs/00/cbs_0015   0   15       经济    NN   (NP*)))))))))  -    -   2   -          *             *)            *)       *)    -
+bn/cbs/00/cbs_0015   0   16        。    PU             *))  -    -   -   -          *             *             *        *     -
+
+#end document

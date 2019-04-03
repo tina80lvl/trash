@@ -1,0 +1,309 @@
+#begin document (bn/cts/02/cts_0209); part 000
+bn/cts/02/cts_0209   0    0     新航    NR   (TOP(IP(IP(NP(DNP(NP(NP*)  -    -   -   -      (EVENT*      *        (ARG0*             *         *             *      *             *             *            *    (4|(5|(7)
+bn/cts/02/cts_0209   0    1     空难    NN                      (NP*))  -    -   -   -            *)     *             *             *         *             *      *             *             *            *           4)
+bn/cts/02/cts_0209   0    2      的   DEG                          *)  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0    3      ３    CD                       (QP*   -    -   -   -    (CARDINAL)     *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0    4      名     M                     (CLP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0    5     机师    NN                      (NP*))  -    -   -   -            *      *             *)            *         *             *      *             *             *            *           5)
+bn/cts/02/cts_0209   0    6     终于    AD                  (VP(ADVP*)  -    -   -   -            *      *    (ARGM-ADV*)            *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0    7     可以    VV                       (VP*   -   01   1   -            *    (V*)            *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0    8      回    VV                       (VP*   -   01   1   -            *      *           (V*)            *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0    9    新加坡    NR                   (NP*)))))  -    -   -   -         (GPE)     *        (ARG1*)            *         *             *      *             *             *            *          (2)
+bn/cts/02/cts_0209   0   10      ，    PU                          *   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   11     桃园    NR              (IP(NP(NP(NP*)  -    -   -   -        (ORG*      *             *        (ARG0*         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   12    纪检署    NN                       (NP*)  -    -   -   -            *)     *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   13     主任    NN                       (NP*   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   14    检察官    NN                         *))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   15    宋祖业    NR                      (NP*))  -    -   -   -      (PERSON)     *             *             *)        *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   16     今天    NT                    (VP(NP*)  -    -   -   -        (DATE)     *             *    (ARGM-TMP*)        *             *      *             *             *            *         (11)
+bn/cts/02/cts_0209   0   17     表示    VV                       (VP*   -   01   2   -            *      *             *           (V*)        *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   18      ，    PU                          *   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   19      将    AD            (IP(IP(VP(ADVP*)  -    -   -   -            *      *             *        (ARG1*         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   20      在     P                       (PP*   -    -   2   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   21    １２月    NT                       (NP*   -    -   -   -       (DATE*      *             *             *         *             *      *             *             *            *          (1
+bn/cts/02/cts_0209   0   22    １５号    NT                         *))  -    -   -   -            *)     *             *             *         *             *      *             *             *            *           1)
+bn/cts/02/cts_0209   0   23      将    BA                       (VP*   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   24      ３    CD                 (IP(NP(QP*   -    -   -   -    (CARDINAL)     *             *             *         *             *      *             *             *            *          (5
+bn/cts/02/cts_0209   0   25      名     M                     (CLP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   26     机师    NN                      (NP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           5)
+bn/cts/02/cts_0209   0   27     折付    VV                       (VP*   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   28    新加坡    NR                    (NP(NP*)  -    -   -   -        (ORG*      *             *             *         *             *      *             *             *            *       (3|(6)
+bn/cts/02/cts_0209   0   29      驻    VV                 (CP(IP(VP*   -   01   -   -            *      *             *             *       (V*)            *      *             *             *            *           -
+bn/cts/02/cts_0209   0   30      台    NR                    (NP*))))  -    -   -   -            *      *             *             *    (ARG1*)            *      *             *             *            *          (8)
+bn/cts/02/cts_0209   0   31    办事处    NN                 (NP*)))))))  -    -   -   -            *)     *             *             *    (ARG0*)            *      *             *             *            *           3)
+bn/cts/02/cts_0209   0   32      ，    PU                          *   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   33     以后    AD                  (IP(ADVP*)  -    -   -   -            *      *             *             *         *             *      *    (ARGM-TMP*)            *            *           -
+bn/cts/02/cts_0209   0   34     一旦    CS                  (CP(ADVP*)  -    -   -   -            *      *             *             *         *    (ARGM-DIS*)     *    (ARGM-ADV*             *            *           -
+bn/cts/02/cts_0209   0   35     传讯    VV                  (IP(VP*)))  -   01   -   -            *      *             *             *         *           (V*)     *             *)            *            *           -
+bn/cts/02/cts_0209   0   36      ，    PU                          *   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   37     那么    AD                     (ADVP*)  -    -   -   -            *      *             *             *         *             *      *    (ARGM-DIS*)            *            *           -
+bn/cts/02/cts_0209   0   38    办事处    NN                       (NP*)  -    -   -   -            *      *             *             *         *             *      *        (ARG0*)            *            *          (3)
+bn/cts/02/cts_0209   0   39     必须    VV                       (VP*   -   01   -   -            *      *             *             *         *             *    (V*)            *             *            *           -
+bn/cts/02/cts_0209   0   40      将    BA                       (VP*   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   41      ３    CD                 (IP(NP(QP*   -    -   -   -    (CARDINAL)     *             *             *         *             *      *             *             *            *          (5
+bn/cts/02/cts_0209   0   42      名     M                     (CLP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   43     机师    NN                      (NP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           5)
+bn/cts/02/cts_0209   0   44     送来    VV                       (VP*   -   01   -   -            *      *             *             *         *             *      *           (V*)            *            *           -
+bn/cts/02/cts_0209   0   45     应讯    VV              (IP(VP*)))))))  -    -   -   -            *      *             *             *         *             *      *    (ARGM-PRP*)            *            *           -
+bn/cts/02/cts_0209   0   46      ，    PU                          *   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   47      而    AD                  (IP(ADVP*)  -    -   -   -            *      *             *             *         *             *      *             *    (ARGM-DIS*)           *           -
+bn/cts/02/cts_0209   0   48     新航    NR                       (NP*)  -    -   -   -         (ORG)     *             *             *         *             *      *             *        (ARG0*)           *          (7)
+bn/cts/02/cts_0209   0   49      也    AD                  (VP(ADVP*)  -    -   -   -            *      *             *             *         *             *      *             *    (ARGM-DIS*)           *           -
+bn/cts/02/cts_0209   0   50     打算    VV                       (VP*   -   01   -   -            *      *             *             *         *             *      *             *           (V*)           *           -
+bn/cts/02/cts_0209   0   51      在     P                 (IP(VP(PP*   -    -   2   -            *      *             *             *         *             *      *             *        (ARG1*   (ARGM-TMP*           -
+bn/cts/02/cts_0209   0   52    １２月    NT                       (NP*   -    -   -   -       (DATE*      *             *             *         *             *      *             *             *            *          (1
+bn/cts/02/cts_0209   0   53    １５号    NT                          *   -    -   -   -            *)     *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   54     当天    NT                         *))  -    -   -   -            *      *             *             *         *             *      *             *             *            *)          1)
+bn/cts/02/cts_0209   0   55      将    BA                       (VP*   -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   56      ３    CD                 (IP(NP(QP*   -    -   -   -    (CARDINAL)     *             *             *         *             *      *             *             *       (ARG1*          (5
+bn/cts/02/cts_0209   0   57      名     M                     (CLP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+bn/cts/02/cts_0209   0   58     机师    NN                      (NP*))  -    -   -   -            *      *             *             *         *             *      *             *             *            *)          5)
+bn/cts/02/cts_0209   0   59     送回    VV                       (VP*   -   01   -   -            *      *             *             *         *             *      *             *             *          (V*)          -
+bn/cts/02/cts_0209   0   60    新加坡    NR           (NP*)))))))))))))  -    -   -   -    (QUANTITY)     *             *             *)        *             *      *             *             *)      (ARG2*)         (2)
+bn/cts/02/cts_0209   0   61      。    PU                         *))  -    -   -   -            *      *             *             *         *             *      *             *             *            *           -
+
+bn/cts/02/cts_0209   0    0      １０月    NT        (TOP(IP(NP*   -    -   -   -       (TIME*      *   (ARGM-TMP*   (ARGM-TMP*        *       (10
+bn/cts/02/cts_0209   0    1      ３１号    NT                  *   -    -   -   -            *      *            *            *        *         -
+bn/cts/02/cts_0209   0    2       晚上    NT                  *)  -    -   -   -            *)     *            *)           *)       *        10)
+bn/cts/02/cts_0209   0    3       新航    NR            (NP(NP*)  -    -   -   -         (ORG)     *       (ARG0*       (ARG0*        *    (13|(7)
+bn/cts/02/cts_0209   0    4    ｓ２００６    NN               (NP*   -    -   -   -            *      *            *            *        *         -
+bn/cts/02/cts_0209   0    5       班机    NN                 *))  -    -   -   -            *      *            *)           *)       *        13)
+bn/cts/02/cts_0209   0    6        在     P         (VP(VP(PP*   -    -   2   -            *      *   (ARGM-LOC*       (ARG0*        *         -
+bn/cts/02/cts_0209   0    7       中顿    NR               (NP*   -    -   -   -        (FAC*      *            *            *        *         -
+bn/cts/02/cts_0209   0    8       机场    NN                 *))  -    -   -   -            *)     *            *)           *        *         -
+bn/cts/02/cts_0209   0    9       起飞    VV       (LCP(IP(VP*))  -   01   -   -            *    (V*)  (ARGM-TMP*            *        *         -
+bn/cts/02/cts_0209   0   10        时    LC                  *)  -    -   -   -            *      *            *)           *        *         -
+bn/cts/02/cts_0209   0   11        ，    PU                  *   -    -   -   -            *      *            *            *        *         -
+bn/cts/02/cts_0209   0   12       误入    VV               (VP*   -   01   -   -            *      *          (V*)           *        *         -
+bn/cts/02/cts_0209   0   13       跑道    NN             (NP*)))  -    -   -   -            *      *       (ARG1*)           *)       *         -
+bn/cts/02/cts_0209   0   14        ，    PU                  *   -    -   -   -            *      *            *            *        *         -
+bn/cts/02/cts_0209   0   15       造成    VV               (VP*   -   01   -   -            *      *            *          (V*)       *         -
+bn/cts/02/cts_0209   0   16       ８３    CD   (NP(CP(IP(NP(QP*)  -    -   -   -    (CARDINAL)     *            *       (ARG1*   (ARG1*        (4
+bn/cts/02/cts_0209   0   17        人    NN              (NP*))  -    -   -   -            *      *            *            *        *)        -
+bn/cts/02/cts_0209   0   18       死亡    VV              (VP*))  -   01   -   -            *      *            *            *      (V*)        -
+bn/cts/02/cts_0209   0   19        的   DEC                  *)  -    -   -   -            *      *            *            *        *         -
+bn/cts/02/cts_0209   0   20       严重    JJ             (ADJP*)  -    -   1   -            *      *            *            *        *         -
+bn/cts/02/cts_0209   0   21       空难    NN            (NP*))))  -    -   -   -            *      *            *            *)       *         4)
+bn/cts/02/cts_0209   0   22        。    PU                 *))  -    -   -   -            *      *            *            *        *         -
+
+bn/cts/02/cts_0209   0    0      机    NN   (TOP(IP(IP(NP(LCP(NP*)  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *    (5|(13)
+bn/cts/02/cts_0209   0    1      上    LC                       *)  -    -   1   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0    2      ３    CD                    (QP*   -    -   -   -    (CARDINAL)        *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0    3      名     M                  (CLP*))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0    4     生还    VV          (CP(CP(IP(VP*))  -   01   -   -            *       (V*)     *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0    5      的   DEC                      *))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0    6     机师    NN                   (NP*))  -    -   -   -            *    (ARG0*)     *             *             *             *         *      *             *             *         *            *            *         5)
+bn/cts/02/cts_0209   0    7     当天    NT                 (VP(NP*)  -    -   -   -        (DATE)        *      *             *             *             *         *      *             *             *         *            *            *       (10)
+bn/cts/02/cts_0209   0    8      就    AD                  (ADVP*)  -    -   2   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0    9      被    LB                    (VP*   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   10     桃园    NR                 (IP(NP*   -    -   -   -        (ORG*         *      *             *             *             *         *      *             *             *         *            *            *        (0
+bn/cts/02/cts_0209   0   11    纪检署    NN                       *)  -    -   -   -            *)        *      *             *             *             *         *      *             *             *         *            *            *         0)
+bn/cts/02/cts_0209   0   12     限制    VV                    (VP*   -    -   2   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   13     出境    VV           (IP(VP*)))))))  -   01   -   -            *         *    (V*)            *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   14      ，    PU                       *   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   15     一直    AD         (IP(IP(VP(ADVP*)  -    -   -   -            *         *      *    (ARGM-ADV*)   (ARGM-TMP*             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   16      到    VV                    (VP*   -   01   5   -            *         *      *           (V*)            *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   17      了    AS                       *   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   18     今天    NT                 (NP*))))  -    -   -   -        (DATE)        *      *        (ARG1*)            *)            *         *      *             *             *         *            *            *       (11)
+bn/cts/02/cts_0209   0   19     桃园    NR                    (NP*   -    -   -   -        (ORG*         *      *             *        (ARG0*             *         *      *             *             *         *            *            *        (0
+bn/cts/02/cts_0209   0   20    纪检署    NN                       *)  -    -   -   -            *)        *      *             *             *)            *         *      *             *             *         *            *            *         0)
+bn/cts/02/cts_0209   0   21     终于    AD               (VP(ADVP*)  -    -   -   -            *         *      *             *    (ARGM-ADV*)            *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   22     决定    VV                    (VP*   -   01   -   -            *         *      *             *           (V*)            *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   23      在     P              (IP(VP(PP*   -    -   2   -            *         *      *             *        (ARG1*             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   24    １２月    NT                 (NP(NP*   -    -   -   -       (DATE*         *      *             *             *             *         *      *             *             *         *            *            *        (1
+bn/cts/02/cts_0209   0   25    １５号    NT                       *)  -    -   -   -            *)        *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   26      ，    PU                       *   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   27      也    AD           (PRN(VP(ADVP*)  -    -   -   -            *         *      *             *             *    (ARGM-DIS*)        *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   28      就    AD                  (ADVP*)  -    -   7   -            *         *      *             *             *    (ARGM-ADV*)        *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   29      是    VC                    (VP*   -   01   1   -            *         *      *             *             *           (V*)        *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   30      下    DT                 (NP(DP*   -    -   4   -       (DATE*         *      *             *             *        (ARG1*         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   31      个     M                  (CLP*))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   32    星期五    NT              (NP*)))))))  -    -   -   -            *)        *      *             *             *             *)        *      *             *             *         *            *            *         1)
+bn/cts/02/cts_0209   0   33      将    BA                    (VP*   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   34      ３    CD              (IP(NP(QP*   -    -   -   -         (LAW)        *      *             *             *             *         *      *             *             *         *            *            *        (5
+bn/cts/02/cts_0209   0   35      名     M                  (CLP*))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   36     机师    NN                   (NP*))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         5)
+bn/cts/02/cts_0209   0   37     折付    VV                    (VP*   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   38    新加坡    NR                 (NP(NP*)  -    -   -   -        (ORG*         *      *             *             *             *         *      *             *             *         *            *            *     (3|(6)
+bn/cts/02/cts_0209   0   39      驻    VV              (CP(IP(VP*   -   01   -   -            *         *      *             *             *             *       (V*)     *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   40      台    NR                 (NP*))))  -    -   -   -            *         *      *             *             *             *    (ARG1*)     *             *             *         *            *            *        (8)
+bn/cts/02/cts_0209   0   41    办事处    NN           (NP*))))))))))  -    -   -   -            *)        *      *             *             *)            *    (ARG0*)     *             *             *         *            *            *         3)
+bn/cts/02/cts_0209   0   42      ，    PU                       *   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   43      也    AD            (IP(VP(ADVP*)  -    -   -   -            *         *      *             *             *             *         *      *    (ARGM-ADV*)            *         *            *            *         -
+bn/cts/02/cts_0209   0   44      就    AD                  (ADVP*)  -    -   7   -            *         *      *             *             *             *         *      *    (ARGM-ADV*)            *         *            *            *         -
+bn/cts/02/cts_0209   0   45      是    VC                    (VP*   -   01   1   -            *         *      *             *             *             *         *    (V*)            *             *         *            *            *         -
+bn/cts/02/cts_0209   0   46      说    VV                    (VP*   -   01   5   -            *         *      *             *             *             *         *      *           (V*)            *         *            *            *         -
+bn/cts/02/cts_0209   0   47      在     P                 (IP(PP*   -    -   2   -            *         *      *             *             *             *         *      *        (ARG1*             *         *   (ARGM-TMP*   (ARGM-TMP*         -
+bn/cts/02/cts_0209   0   48     未来    NT             (LCP(IP(NP*)  -    -   -   -            *         *      *             *             *             *         *      *             *    (ARGM-TMP*)        *            *            *         -
+bn/cts/02/cts_0209   0   49     桃园    NR                    (NP*   -    -   -   -        (ORG*         *      *             *             *             *         *      *             *        (ARG0*         *            *            *        (0
+bn/cts/02/cts_0209   0   50    纪检署    NN                       *)  -    -   -   -            *)        *      *             *             *             *         *      *             *             *)        *            *            *         0)
+bn/cts/02/cts_0209   0   51     传讯    VV                    (VP*   -   01   -   -            *         *      *             *             *             *         *      *             *           (V*)        *            *            *         -
+bn/cts/02/cts_0209   0   52      这    DT                 (NP(DP*   -    -   -   -            *         *      *             *             *             *         *      *             *        (ARG1*         *            *            *        (5
+bn/cts/02/cts_0209   0   53      ３    CD                    (QP*   -    -   -   -    (CARDINAL)        *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   54      名     M                 (CLP*)))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   55     机师    NN                 (NP*))))  -    -   -   -            *         *      *             *             *             *         *      *             *             *)        *            *            *         5)
+bn/cts/02/cts_0209   0   56      时    LC                      *))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *)           *)        -
+bn/cts/02/cts_0209   0   57      ，    PU                       *   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   58    新加坡    NR                 (NP(NP*)  -    -   -   -        (ORG*         *      *             *             *             *         *      *             *             *         *       (ARG0*       (ARG0*     (3|(6)
+bn/cts/02/cts_0209   0   59      驻    VV              (CP(IP(VP*   -   01   -   -            *         *      *             *             *             *         *      *             *             *       (V*)           *            *         -
+bn/cts/02/cts_0209   0   60      台    NR                 (NP*))))  -    -   -   -            *         *      *             *             *             *         *      *             *             *    (ARG1*)           *            *        (8)
+bn/cts/02/cts_0209   0   61    办事处    NN                   (NP*))  -    -   -   -            *)        *      *             *             *             *         *      *             *             *    (ARG0*)           *)           *)        3)
+bn/cts/02/cts_0209   0   62      有    VE                 (VP(VP*   -   01   3   -            *         *      *             *             *             *         *      *             *             *         *          (V*)           *         -
+bn/cts/02/cts_0209   0   63     义务    NN                   (NP*))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *       (ARG1*)           *         -
+bn/cts/02/cts_0209   0   64      把    BA                    (VP*   -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+bn/cts/02/cts_0209   0   65     他们    PN                 (IP(NP*)  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *       (ARG1*)       (5)
+bn/cts/02/cts_0209   0   66     送到    VV                    (VP*   -   01   -   -            *         *      *             *             *             *         *      *             *             *         *            *          (V*)        -
+bn/cts/02/cts_0209   0   67     台湾    NR           (NP*))))))))))  -    -   -   -         (GPE)        *      *             *             *             *         *      *             *)            *         *            *       (ARG2*)       (8)
+bn/cts/02/cts_0209   0   68      。    PU                      *))  -    -   -   -            *         *      *             *             *             *         *      *             *             *         *            *            *         -
+
+bn/cts/02/cts_0209   0    0      而   AD   (TOP(IP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)            *             *             *     -
+bn/cts/02/cts_0209   0    1    新加坡   NR         (NP(NP*   -    -   -   -        (ORG*        (ARG0*             *             *             *    (7
+bn/cts/02/cts_0209   0    2     航空   NN               *   -    -   -   -            *             *             *             *             *     -
+bn/cts/02/cts_0209   0    3     公司   NN               *)  -    -   -   -            *)            *             *             *             *     7)
+bn/cts/02/cts_0209   0    4     方面   NN           (NP*))  -    -   -   -            *             *)            *             *             *     -
+bn/cts/02/cts_0209   0    5      也   AD       (VP(ADVP*)  -    -   -   -            *    (ARGM-DIS*)            *             *             *     -
+bn/cts/02/cts_0209   0    6     决定   VV            (VP*   -   01   -   -            *           (V*)            *             *             *     -
+bn/cts/02/cts_0209   0    7      ，   PU               *   -    -   -   -            *             *             *             *             *     -
+bn/cts/02/cts_0209   0    8      在    P      (IP(VP(PP*   -    -   2   -            *        (ARG1*             *    (ARGM-TMP*             *     -
+bn/cts/02/cts_0209   0    9     当天   NT         (NP(NP*)  -    -   -   -        (DATE)            *             *             *             *    (1
+bn/cts/02/cts_0209   0   10      也   AD   (PRN(VP(ADVP*)  -    -   -   -            *             *    (ARGM-DIS*)            *             *     -
+bn/cts/02/cts_0209   0   11      就   AD          (ADVP*)  -    -   7   -            *             *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0209   0   12      是   VC            (VP*   -   01   1   -            *             *           (V*)            *             *     -
+bn/cts/02/cts_0209   0   13    １２月   NT            (NP*   -    -   -   -       (DATE*             *        (ARG1*             *             *     -
+bn/cts/02/cts_0209   0   14    １５号   NT          *))))))  -    -   -   -            *)            *             *)            *)            *     1)
+bn/cts/02/cts_0209   0   15      把   BA            (VP*   -    -   -   -            *             *             *             *             *     -
+bn/cts/02/cts_0209   0   16      ３   CD      (IP(NP(QP*   -    -   -   -    (CARDINAL)            *             *        (ARG1*        (ARG0*    (5
+bn/cts/02/cts_0209   0   17      名    M          (CLP*))  -    -   -   -            *             *             *             *             *     -
+bn/cts/02/cts_0209   0   18     机师   NN           (NP*))  -    -   -   -            *             *             *             *)            *)    5)
+bn/cts/02/cts_0209   0   19      先   AD       (VP(ADVP*)  -    -   1   -            *             *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0209   0   20     送回   VV         (VP(VP*   -   01   -   -            *             *             *           (V*)            *     -
+bn/cts/02/cts_0209   0   21    新加坡   NR           (NP*))  -    -   -   -         (GPE)            *             *        (ARG2*)            *    (2)
+bn/cts/02/cts_0209   0   22      和    P         (VP(PP*   -    -   -   -            *             *             *             *        (ARG0*     -
+bn/cts/02/cts_0209   0   23     家人   NN           (NP*))  -    -   -   -            *             *             *             *             *)    -
+bn/cts/02/cts_0209   0   24     团圆   VV   (VP*))))))))))  -   01   -   -            *             *)            *             *           (V*)    -
+bn/cts/02/cts_0209   0   25      。   PU              *))  -    -   -   -            *             *             *             *             *     -
+
+bn/cts/02/cts_0209   0    0      据     P  (TOP(IP(PP*   -    -   -   -            *      *      *             *   (ARGM-TPC*         *     -
+bn/cts/02/cts_0209   0    1      这    DT   (IP(NP(DP*   -    -   -   -            *      *      *        (ARG0*            *         *    (5
+bn/cts/02/cts_0209   0    2      ３    CD         (QP*   -    -   -   -    (CARDINAL)     *      *             *            *         *     -
+bn/cts/02/cts_0209   0    3      名     M      (CLP*)))  -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0    4     机师    NN        (NP*))  -    -   -   -            *      *      *             *)           *         *     5)
+bn/cts/02/cts_0209   0    5     以后    AD    (VP(ADVP*)  -    -   -   -            *      *      *    (ARGM-TMP*)           *         *     -
+bn/cts/02/cts_0209   0    6      会    VV     (VP(VNV*   -   01   -   -            *    (V*)     *             *            *         *     -
+bn/cts/02/cts_0209   0    7      不    AD            *   -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0    8      会    VV            *)  -   01   -   -            *      *    (V*)            *            *         *     -
+bn/cts/02/cts_0209   0    9     遭到    VV         (VP*   -   01   -   -            *      *      *           (V*)           *         *     -
+bn/cts/02/cts_0209   0   10      我    PN   (IP(NP(NP*   -    -   -   -            *      *      *        (ARG1*            *         *   (12
+bn/cts/02/cts_0209   0   11      国    NN            *)  -    -   -   -            *      *      *             *            *         *    12)
+bn/cts/02/cts_0209   0   12     法律    NN        (NP*))  -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0   13     理诉    VV   (VP*)))))))  -    -   -   -            *      *      *             *)           *)        *     -
+bn/cts/02/cts_0209   0   14      ，    PU            *   -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0   15    检察官    NN         (NP*)  -    -   -   -            *      *      *             *       (ARG0*)        *     -
+bn/cts/02/cts_0209   0   16     强调    VV         (VP*   -   01   -   -            *      *      *             *          (V*)        *     -
+bn/cts/02/cts_0209   0   17      ，    PU            *   -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0   18      这    PN      (IP(NP*)  -    -   -   -            *      *      *             *       (ARG1*    (ARG0*)    -
+bn/cts/02/cts_0209   0   19      是    VC         (VP*   -   01   1   -            *      *      *             *            *       (V*)    -
+bn/cts/02/cts_0209   0   20      我    PN  (NP(DNP(NP*   -    -   -   -            *      *      *             *            *    (ARG1*   (12
+bn/cts/02/cts_0209   0   21      国    NN            *)  -    -   -   -            *      *      *             *            *         *    12)
+bn/cts/02/cts_0209   0   22      的   DEG            *)  -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0   23     司法    NN         (NP*   -    -   -   -            *      *      *             *            *         *     -
+bn/cts/02/cts_0209   0   24     主权    NN        *)))))  -    -   -   -            *      *      *             *            *)        *)    -
+bn/cts/02/cts_0209   0   25      。    PU           *))  -    -   -   -            *      *      *             *            *         *     -
+
+bn/cts/02/cts_0209   0    0     不过   AD   (TOP(IP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)        *        *     -
+bn/cts/02/cts_0209   0    1     国际   NN            (NP*   -    -   -   -   (ORG*        (ARG0*         *        *     -
+bn/cts/02/cts_0209   0    2    飞行员   NN               *   -    -   -   -       *             *         *        *     -
+bn/cts/02/cts_0209   0    3     协会   NN               *)  -    -   -   -       *)            *)        *        *     -
+bn/cts/02/cts_0209   0    4     仍然   AD       (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)        *        *     -
+bn/cts/02/cts_0209   0    5     认为   VV            (VP*   -   01   1   -       *           (V*)        *        *     -
+bn/cts/02/cts_0209   0    6     起诉   VV   (IP(NP(IP(VP*   -   01   -   -       *        (ARG1*       (V*)  (ARG0*     -
+bn/cts/02/cts_0209   0    7     机师   NN          (NP*)))  -    -   -   -       *             *    (ARG1*)       *    (5)
+bn/cts/02/cts_0209   0    8     作法   NN           (NP*))  -    -   -   -       *             *         *        *)    -
+bn/cts/02/cts_0209   0    9     不当   VA         (VP*))))  -   01   -   -       *             *)        *      (V*)    -
+bn/cts/02/cts_0209   0   10      。   PU              *))  -    -   -   -       *             *         *        *     -
+
+bn/cts/02/cts_0209   0    0       “    PU             (TOP(CP*   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0    1      没有    AD   (IP(CP(IP(VP(ADVP*)  -    -   2   -   *    (ARGM-ADV*)     -
+bn/cts/02/cts_0209   0    2      跟着     P                 (PP*   -    -   -   -   *    (ARGM-MNR*      -
+bn/cts/02/cts_0209   0    3      国际    NN             (LCP(NP*)  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0    4       上    LC                   *))  -    -   1   -   *             *)     -
+bn/cts/02/cts_0209   0    5       来   MSP                 (VP*   -    -   7   -   *    (ARGM-ADV*)     -
+bn/cts/02/cts_0209   0    6       走    VV              (VP*))))  -   01   7   -   *           (V*)     -
+bn/cts/02/cts_0209   0    7      的话    SP                    *)  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0    8       ，    PU                    *   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0    9       你    PN           (CP(IP(NP*)  -    -   -   -   *             *    (12)
+bn/cts/02/cts_0209   0   10    自成一格    VV                (VP*))  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   11      的话    SP                    *)  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   12       ，    PU                    *   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   13      将来    NT                 (NP*)  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   14      的话    SP                (FLR*)  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   15       ，    PU                    *   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   16      怎么    AD            (VP(ADVP*)  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   17      步入    VV                 (VP*   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   18      国际    NN                 (NP*   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   19      社会    NN                 *))))  -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   20       呢    SP                    *   -    -   -   -   *             *      -
+bn/cts/02/cts_0209   0   21       ？    PU                   *))  -    -   -   -   *             *      -
+
+bn/cts/02/cts_0209   0    0     很多   CD   (TOP(IP(IP(NP(QP*)  -    -    -   -       *   (ARG0*         *             *             *             *             *            *             *             *    (9
+bn/cts/02/cts_0209   0    1    飞行员   NN               (NP*))  -    -    -   -       *        *)        *             *             *             *             *            *             *             *     9)
+bn/cts/02/cts_0209   0    2      讲   VV                (VP*   -   01    2   -       *      (V*)        *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0    3      ，   PU                   *   -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0    4     我们   PN          (CP(IP(NP*)  -    -    -   -       *   (ARG1*    (ARG0*)       (ARG0*)       (ARG0*)            *             *            *             *             *    (9)
+bn/cts/02/cts_0209   0    5      到   VV             (VP(VP*   -   01    2   -       *        *       (V*)            *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0    6     台湾   NR               (NP*))  -    -    -   -    (GPE)       *    (ARG1*)            *             *             *             *            *             *             *    (8)
+bn/cts/02/cts_0209   0    7      都   AD           (VP(ADVP*)  -    -    -   -       *        *         *    (ARGM-ADV*)   (ARGM-ADV*)            *             *            *             *             *     -
+bn/cts/02/cts_0209   0    8      很   AD              (ADVP*)  -    -    -   -       *        *         *    (ARGM-ADV*)   (ARGM-ADV*)            *             *            *             *             *     -
+bn/cts/02/cts_0209   0    9      怕   VV            (VP(VCD*   -   01    1   -       *        *         *           (V*)            *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   10      怕   VV               *)))))  -   01    1   -       *        *         *             *           (V*)            *             *            *             *             *     -
+bn/cts/02/cts_0209   0   11      的   SP                 *)))  -    -    -   -       *        *)        *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   12      ，   PU                   *   -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   13     他们   PN          (CP(IP(NP*)  -    -    -   -       *        *         *             *             *        (ARG0*)            *            *             *             *     -
+bn/cts/02/cts_0209   0   14      都   AD           (VP(ADVP*)  -    -    -   -       *        *         *             *             *    (ARGM-ADV*)            *            *             *             *     -
+bn/cts/02/cts_0209   0   15      不   AD              (ADVP*)  -    -    -   -       *        *         *             *             *    (ARGM-ADV*)            *            *             *             *     -
+bn/cts/02/cts_0209   0   16      来   VV              (VP*)))  -   01    1   -       *        *         *             *             *           (V*)            *            *             *             *     -
+bn/cts/02/cts_0209   0   17      了   SP                   *)  -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   18      ，   PU                   *   -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   19     台湾   NR          (IP(IP(NP*)  -    -    -   -    (GPE)       *         *             *             *             *             *   (ARGM-ADV*             *             *    (8)
+bn/cts/02/cts_0209   0   20      不   AD           (VP(ADVP*)  -    -    -   -       *        *         *             *             *             *    (ARGM-ADV*)           *             *             *     -
+bn/cts/02/cts_0209   0   21      来   VV              (VP*)))  -   01    1   -       *        *         *             *             *             *           (V*)           *)            *             *     -
+bn/cts/02/cts_0209   0   22     我们   PN                (NP*)  -    -    -   -       *        *         *             *             *             *             *       (ARG0*)            *             *    (9)
+bn/cts/02/cts_0209   0   23     没有   VE                (VP*   -   02    1   -       *        *         *             *             *             *             *          (V*)            *             *     -
+bn/cts/02/cts_0209   0   24     关系   NN              (NP*)))  -    -    3   -       *        *         *             *             *             *             *       (ARG1*)            *             *     -
+bn/cts/02/cts_0209   0   25      ，   PU                   *   -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   26     你们   PN          (CP(IP(NP*)  -    -    -   -       *        *         *             *             *             *             *            *        (ARG0*)       (ARG0*)    -
+bn/cts/02/cts_0209   0   27      也   AD           (VP(ADVP*)  -    -    -   -       *        *         *             *             *             *             *            *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0209   0   28     不必   VV                (VP*   -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   29      到   VV             (VP(VP*   -   01    2   -       *        *         *             *             *             *             *            *           (V*)            *     -
+bn/cts/02/cts_0209   0   30     我们   PN                (NP*   -    -    -   -       *        *         *             *             *             *             *            *        (ARG1*             *     -
+bn/cts/02/cts_0209   0   31      这   PN                  *))  -    -    -   -       *        *         *             *             *             *             *            *             *)            *     -
+bn/cts/02/cts_0209   0   32      来   VV            (VP*)))))  -   01   10   -       *        *         *             *             *             *             *            *             *           (V*)    -
+bn/cts/02/cts_0209   0   33      了   SP                   *)  -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+bn/cts/02/cts_0209   0   34      。   PU                  *))  -    -    -   -       *        *         *             *             *             *             *            *             *             *     -
+
+bn/cts/02/cts_0209   0    0     ”   PU       (TOP(IP*   -    -   -   -   *             *      *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    1    根据    P        (IP(PP*   -    -   -   -   *    (ARGM-MNR*      *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    2    国际   NN           (NP*   -    -   -   -   *             *      *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    3    惯例   NN             *))  -    -   -   -   *             *)     *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    4    空难   NN           (NP*   -    -   -   -   *        (ARG0*      *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    5    机师   NN              *)  -    -   -   -   *             *)     *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    6     并   AD      (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)     *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    7    没有   VE           (VP*   -   02   1   -   *           (V*)     *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    8    刑责   NN        (NP*))))  -    -   -   -   *        (ARG1*)     *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0    9     ，   PU              *   -    -   -   -   *             *      *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0   10    多半   AD      (IP(ADVP*)  -    -   -   -   *             *      *             *    (ARGM-ADV*)     *             *         *   -
+bn/cts/02/cts_0209   0   11     是   VC           (VP*   -   01   2   -   *             *    (V*)            *             *      *             *         *   -
+bn/cts/02/cts_0209   0   12     以    P        (VP(PP*   -    -   -   -   *             *      *             *        (ARG2*      *             *         *   -
+bn/cts/02/cts_0209   0   13     不   AD   (IP(VP(ADVP*)  -    -   -   -   *             *      *    (ARGM-ADV*)            *      *             *         *   -
+bn/cts/02/cts_0209   0   14    起诉   VV        (VP*))))  -   01   -   -   *             *      *           (V*)            *)     *             *         *   -
+bn/cts/02/cts_0209   0   15    处分   VV        (VP*))))  -   01   -   -   *             *      *             *           (V*)     *             *         *   -
+bn/cts/02/cts_0209   0   16     ，   PU              *   -    -   -   -   *             *      *             *             *      *             *         *   -
+bn/cts/02/cts_0209   0   17    最多   AD      (IP(ADVP*)  -    -   -   -   *             *      *             *             *      *    (ARGM-ADV*)        *   -
+bn/cts/02/cts_0209   0   18     也   AD      (VP(ADVP*)  -    -   -   -   *             *      *             *             *      *    (ARGM-DIS*)        *   -
+bn/cts/02/cts_0209   0   19     是   VC           (VP*   -   01   2   -   *             *      *             *             *    (V*)            *         *   -
+bn/cts/02/cts_0209   0   20     获   VV           (VP*   -   01   1   -   *             *      *             *             *      *           (V*)        *   -
+bn/cts/02/cts_0209   0   21     判   VV        (IP(VP*   -   01   1   -   *             *      *             *             *      *        (ARG1*       (V*)  -
+bn/cts/02/cts_0209   0   22    缓刑   NN     (NP*)))))))  -    -   -   -   *             *      *             *             *      *             *)   (ARG2*)  -
+bn/cts/02/cts_0209   0   23     。   PU             *))  -    -   -   -   *             *      *             *             *      *             *         *   -
+
+#end document

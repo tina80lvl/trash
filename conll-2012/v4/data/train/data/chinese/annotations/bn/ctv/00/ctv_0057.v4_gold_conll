@@ -1,0 +1,158 @@
+#begin document (bn/ctv/00/ctv_0057); part 000
+bn/ctv/00/ctv_0057   0    0     第３    OD  (TOP(IP(NP(NP(CP(CP(IP(LCP(IP(NP(QP*   -    -   -   -      (EVENT*   (ARG0*    (ARGM-TMP*        (ARG1*   (0|(6
+bn/ctv/00/ctv_0057   0    1      届     M                                (CLP*))  -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0    2     航展    NN                                 (NP*))  -    -   -   -            *)       *)            *             *       0)
+bn/ctv/00/ctv_0057   0    3     开幕    VV                                 (VP*))  -   01   -   -            *      (V*)            *             *       -
+bn/ctv/00/ctv_0057   0    4     以来    LC                                     *)  -    -   -   -            *        *             *)            *       -
+bn/ctv/00/ctv_0057   0    5      ，    PU                                     *   -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0    6    成交额    NN                                  (NP*)  -    -   -   -            *        *        (ARG0*)            *      (3)
+bn/ctv/00/ctv_0057   0    7      最    AD                             (VP(ADVP*)  -    -   -   -            *        *    (ARGM-ADV*)            *       -
+bn/ctv/00/ctv_0057   0    8      大    VA                                (VP*)))  -   01   -   -            *        *           (V*)            *       -
+bn/ctv/00/ctv_0057   0    9      的   DEC                                    *))  -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   10      一    CD                                  (QP*   -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   11      笔     M                                (CLP*))  -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   12     飞机    NN                                  (NP*   -    -   -   -            *        *        (ARG0*             *       -
+bn/ctv/00/ctv_0057   0   13     订货    NN                                     *   -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   14     合同    NN                                    *))  -    -   -   -            *        *             *)            *       -
+bn/ctv/00/ctv_0057   0   15      ，    PU                                     *   -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   16     ６０    CD                               (NP(QP*   -    -   -   -    (CARDINAL)       *             *             *      (2
+bn/ctv/00/ctv_0057   0   17      架     M                                (CLP*))  -    -   2   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   18     新舟    NR                                  (NP*   -    -   -   -    (PRODUCT*        *             *             *       -
+bn/ctv/00/ctv_0057   0   19     ６０    NN                                     *)  -    -   -   -            *)       *             *             *       -
+bn/ctv/00/ctv_0057   0   20     飞机    NN                                 (NP*))  -    -   -   -            *        *             *             *       2)
+bn/ctv/00/ctv_0057   0   21     订货    NN                                  (NP*   -    -   -   -            *        *             *             *       -
+bn/ctv/00/ctv_0057   0   22     合同    NN                                    *))  -    -   -   -            *        *             *             *)      6)
+bn/ctv/00/ctv_0057   0   23     ７号    NT                               (VP(NP*)  -    -   -   -        (DATE)       *             *    (ARGM-TMP*)     (8)
+bn/ctv/00/ctv_0057   0   24      在     P                                  (PP*   -    -   2   -            *        *             *    (ARGM-LOC*       -
+bn/ctv/00/ctv_0057   0   25     珠海    NR                                 (NP*))  -    -   -   -         (GPE)       *             *             *)     (5)
+bn/ctv/00/ctv_0057   0   26     签订    VV                                 (VP*))  -   01   -   -            *        *             *           (V*)      -
+bn/ctv/00/ctv_0057   0   27      。    PU                                    *))  -    -   -   -            *        *             *             *       -
+
+bn/ctv/00/ctv_0057   0    0     深圳    NR   (TOP(IP(IP(NP(DNP(NP(IP(NP(NP*)  -    -   -   -        (ORG*   (ARG0*        (ARG1*        *        *        *             *    (1|(6|(7)
+bn/ctv/00/ctv_0057   0    1     金融    NN                             (NP*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0    2     租赁    NN                                *)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0    3     有限    JJ                           (ADJP*)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0    4     公司    NN                            (NP*))  -    -   -   -            *)       *)            *        *        *        *             *           1)
+bn/ctv/00/ctv_0057   0    5      向     P                          (VP(PP*   -    -   -   -            *   (ARG2*             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0    6     中国    NR                       (NP(NP(NP*)  -    -   -   -        (ORG*        *             *        *        *        *             *          (4)
+bn/ctv/00/ctv_0057   0    7     航空    NN                             (NP*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0    8     工业    NN                                *)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0    9     第一    OD                             (QP*)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   10     集团    NN                             (NP*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   11     公司    NN                               *))  -    -   -   -            *)       *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   12     ——    PU                            (PRN*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   13     西安    NR                          (NP(NP*)  -    -   -   -        (ORG*        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   14     工业    NN                             (NP*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   15     集团    NN                                *)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   16     有限    JJ                        (NP(ADJP*)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   17     责任    NN                            (NP*))  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   18     公司    NN                         (NP*)))))  -    -   -   -            *)       *)            *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   19      ，    PU                                *   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   20     订购    VV                             (VP*   -   01   -   -            *      (V*)            *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   21     ６０    CD                          (NP(QP*   -    -   -   -    (CARDINAL)  (ARG1*             *        *        *        *             *          (2
+bn/ctv/00/ctv_0057   0   22      架     M                           (CLP*))  -    -   2   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   23     新舟    NR                             (NP*   -    -   -   -    (PRODUCT*        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   24     ６０    NN                                *)  -    -   -   -            *)       *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   25     飞机    NN                         (NP*)))))  -    -   -   -            *        *)            *        *        *        *             *           2)
+bn/ctv/00/ctv_0057   0   26     合同    NN                            (NP*))  -    -   -   -            *        *             *        *        *        *             *           6)
+bn/ctv/00/ctv_0057   0   27      的   DEG                                *)  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   28     签字    NN                             (NP*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   29     仪式    NN                               *))  -    -   -   -            *        *             *)       *        *        *             *           -
+bn/ctv/00/ctv_0057   0   30      ，    PU                                *   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   31     今天    NT                          (VP(NP*)  -    -   -   -        (DATE)       *    (ARGM-TMP*)       *        *        *             *          (8)
+bn/ctv/00/ctv_0057   0   32      在     P                             (PP*   -    -   2   -            *        *    (ARGM-LOC*        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   33     珠海    NR                            (NP*))  -    -   -   -         (GPE)       *             *)       *        *        *             *          (5)
+bn/ctv/00/ctv_0057   0   34     举行    VV                           (VP*)))  -   01   -   -            *        *           (V*)       *        *        *             *           -
+bn/ctv/00/ctv_0057   0   35      ，    PU                                *   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   36     合同    NN                          (IP(NP*   -    -   -   -            *        *             *   (ARG0*        *        *             *           -
+bn/ctv/00/ctv_0057   0   37     金额    NN                                *)  -    -   -   -            *        *             *        *)       *        *             *           -
+bn/ctv/00/ctv_0057   0   38     价值    VV                             (VP*   -   01   -   -            *        *             *      (V*)       *        *             *           -
+bn/ctv/00/ctv_0057   0   39    ４０亿    CD                          (NP(QP*   -    -   -   -      (MONEY*        *             *   (ARG1*        *        *             *           -
+bn/ctv/00/ctv_0057   0   40      元     M                           (CLP*))  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   41    人民币    NN                          (NP*))))  -    -   -   -            *)       *             *        *)       *        *             *           -
+bn/ctv/00/ctv_0057   0   42      ，    PU                                *   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   43      是    VC                          (IP(VP*   -   01   1   -            *        *             *        *      (V*)       *             *           -
+bn/ctv/00/ctv_0057   0   44      本    DT       (NP(CP(CP(IP(LCP(IP(NP(DP*   -    -   2   -            *        *             *        *   (ARG1*   (ARG0*    (ARGM-TMP*          (0
+bn/ctv/00/ctv_0057   0   45      届     M                           (CLP*))  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   46     航展    NN                            (NP*))  -    -   -   -            *        *             *        *        *        *)            *           0)
+bn/ctv/00/ctv_0057   0   47     开幕    VV                            (VP*))  -   01   -   -            *        *             *        *        *      (V*)            *           -
+bn/ctv/00/ctv_0057   0   48     以来    LC                                *)  -    -   -   -            *        *             *        *        *        *             *)          -
+bn/ctv/00/ctv_0057   0   49    成交额    NN                             (NP*)  -    -   -   -            *        *             *        *        *        *        (ARG0*)         (3)
+bn/ctv/00/ctv_0057   0   50      最    AD                        (VP(ADVP*)  -    -   -   -            *        *             *        *        *        *    (ARGM-ADV*)          -
+bn/ctv/00/ctv_0057   0   51      大    VA                           (VP*)))  -   01   -   -            *        *             *        *        *        *           (V*)          -
+bn/ctv/00/ctv_0057   0   52      的   DEC                               *))  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   53      一    CD                             (QP*   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   54      笔     M                           (CLP*))  -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   55     飞机    NN                             (NP*   -    -   -   -            *        *             *        *        *        *        (ARG0*           -
+bn/ctv/00/ctv_0057   0   56     订购    NN                                *   -    -   -   -            *        *             *        *        *        *             *           -
+bn/ctv/00/ctv_0057   0   57     合同    NN                             *))))  -    -   -   -            *        *             *        *        *)       *             *)          -
+bn/ctv/00/ctv_0057   0   58      。    PU                               *))  -    -   -   -            *        *             *        *        *        *             *           -
+
+bn/ctv/00/ctv_0057   0    0     此    DT   (TOP(IP(NP(DP*)  -    -   -   -   *   (ARG0*             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    1     举    NN            (NP*))  -    -   5   -   *        *)            *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    2    标志    VV             (VP*   -   01   -   -   *      (V*)            *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    3     着    AS                *   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    4    国产    JJ     (IP(NP(ADJP*)  -    -   -   -   *   (ARG1*        (ARG0*   (ARG0*         *         *   (ARG0*     -
+bn/ctv/00/ctv_0057   0    5    民机    NN            (NP*))  -    -   -   -   *        *             *)       *)        *         *        *)    -
+bn/ctv/00/ctv_0057   0    6     在     P       (VP(VP(PP*   -    -   2   -   *        *    (ARGM-LOC*        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    7    销售    NN         (LCP(NP*   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    8    方式    NN                *)  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0    9     上    LC               *))  -    -   3   -   *        *             *)       *         *         *        *     -
+bn/ctv/00/ctv_0057   0   10    已经    AD           (ADVP*)  -    -   -   -   *        *    (ARGM-ADV*)       *         *         *        *     -
+bn/ctv/00/ctv_0057   0   11     与     P             (PP*   -    -   -   -   *        *    (ARGM-ADV*        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   12    国际    NN            (NP*))  -    -   -   -   *        *             *)       *         *         *        *     -
+bn/ctv/00/ctv_0057   0   13    接轨    VV            (VP*))  -   01   -   -   *        *           (V*)       *         *         *        *     -
+bn/ctv/00/ctv_0057   0   14     ，    PU                *   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   15    打破    VV             (VP*   -   01   -   -   *        *             *      (V*)        *         *        *     -
+bn/ctv/00/ctv_0057   0   16     了    AS                *   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   17    国内    NN       (NP(NP(NP*)  -    -   -   -   *        *             *   (ARG1*         *         *        *    (4)
+bn/ctv/00/ctv_0057   0   18    民用    JJ        (NP(ADJP*)  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   19    飞机    NN            (NP*))  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   20    销售    NN            (NP*))  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   21     一    CD    (CP(IP(IP(QP*)  -    -   -   -   *        *             *        *    (ARG0*)        *        *     -
+bn/ctv/00/ctv_0057   0   22     买    VV            (VP*))  -   01   -   -   *        *             *        *       (V*)        *        *     -
+bn/ctv/00/ctv_0057   0   23     一    CD          (IP(QP*)  -    -   -   -   *        *             *        *         *    (ARG1*)       *     -
+bn/ctv/00/ctv_0057   0   24     卖    VV           (VP*)))  -   01   1   -   *        *             *        *         *       (V*)       *     -
+bn/ctv/00/ctv_0057   0   25     的   DEC                *)  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   26    方式    NN            (NP*))  -    -   -   -   *        *             *        *)        *         *        *     -
+bn/ctv/00/ctv_0057   0   27     ，    PU                *   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   28     为     P          (VP(PP*   -    -   4   -   *        *             *        *         *         *   (ARG2*     -
+bn/ctv/00/ctv_0057   0   29    航空    NN          (NP(NP*   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   30    公司    NN                *)  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   31    购机    NN             (NP*   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   32    方式    NN              *)))  -    -   -   -   *        *             *        *         *         *        *)    -
+bn/ctv/00/ctv_0057   0   33    提供    VV             (VP*   -   01   -   -   *        *             *        *         *         *      (V*)    -
+bn/ctv/00/ctv_0057   0   34     了    AS                *   -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   35     多    CD          (NP(QP*   -    -   -   -   *        *             *        *         *         *   (ARG1*     -
+bn/ctv/00/ctv_0057   0   36     种     M           (CLP*))  -    -   -   -   *        *             *        *         *         *        *     -
+bn/ctv/00/ctv_0057   0   37    选择    NN      (NP*))))))))  -    -   -   -   *        *)            *        *         *         *        *)    -
+bn/ctv/00/ctv_0057   0   38     。    PU               *))  -    -   -   -   *        *             *        *         *         *        *     -
+
+bn/ctv/00/ctv_0057   0    0    深圳    NR   (TOP(IP(QP(CP(CP(IP(NP(NP*)  -    -   -   -        (ORG*   (ARG0*        (ARG1*        *    (1|(7)
+bn/ctv/00/ctv_0057   0    1    金融    NN                         (NP*   -    -   -   -            *        *             *        *        -
+bn/ctv/00/ctv_0057   0    2    租赁    NN                            *)  -    -   -   -            *        *             *        *        -
+bn/ctv/00/ctv_0057   0    3    有限    JJ                       (ADJP*)  -    -   -   -            *        *             *        *        -
+bn/ctv/00/ctv_0057   0    4    公司    NN                        (NP*))  -    -   -   -            *)       *)            *        *        1)
+bn/ctv/00/ctv_0057   0    5    购买    VV                        (VP*))  -   01   -   -            *      (V*)            *        *        -
+bn/ctv/00/ctv_0057   0    6     的   DEC                           *))  -    -   -   -            *        *             *        *        -
+bn/ctv/00/ctv_0057   0    7    ６０    CD                         (QP*   -    -   -   -    (CARDINAL)       *             *        *        -
+bn/ctv/00/ctv_0057   0    8     架     M                       (CLP*))  -    -   2   -            *        *             *        *        -
+bn/ctv/00/ctv_0057   0    9    新舟    NR                      (QP(NP*)  -    -   -   -    (PRODUCT*        *             *        *        -
+bn/ctv/00/ctv_0057   0   10    ６０    NN                       (QP*)))  -    -   -   -            *)       *             *)       *        -
+bn/ctv/00/ctv_0057   0   11     将    AD                    (VP(ADVP*)  -    -   -   -            *        *    (ARGM-ADV*)       *        -
+bn/ctv/00/ctv_0057   0   12    用于    VV                         (VP*   -   01   -   -            *        *           (V*)       *        -
+bn/ctv/00/ctv_0057   0   13    开展    VV                      (IP(VP*   -   01   -   -            *        *        (ARG2*      (V*)       -
+bn/ctv/00/ctv_0057   0   14    租赁    NN                         (NP*   -    -   -   -            *        *             *   (ARG1*        -
+bn/ctv/00/ctv_0057   0   15    业务    NN                        *)))))  -    -   -   -            *        *             *)       *)       -
+bn/ctv/00/ctv_0057   0   16     。    PU                           *))  -    -   -   -            *        *             *        *        -
+
+bn/ctv/00/ctv_0057   0   0    稍后   AD   (TOP(IP(VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)   (ARGM-TMP*)    -
+bn/ctv/00/ctv_0057   0   1    继续   VV               (VP*   -   01   -   -       *           (V*)            *     -
+bn/ctv/00/ctv_0057   0   2     向    P            (VP(PP*   -    -   -   -       *        (ARG1*        (ARG1*     -
+bn/ctv/00/ctv_0057   0   3     您   PN              (NP*))  -    -   -   -       *             *             *)    -
+bn/ctv/00/ctv_0057   0   4    报道   VV               (VP*   -   01   -   -       *             *           (V*)    -
+bn/ctv/00/ctv_0057   0   5    中国   NR            (NP(NP*)  -    -   -   -    (GPE)            *        (ARG1*    (4)
+bn/ctv/00/ctv_0057   0   6    新闻   NN          (NP*))))))  -    -   -   -       *             *)            *)    -
+bn/ctv/00/ctv_0057   0   7     。   PU                 *))  -    -   -   -       *             *             *     -
+
+#end document

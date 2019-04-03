@@ -1,0 +1,438 @@
+#begin document (wb/cmn/00/cmn_0007); part 000
+wb/cmn/00/cmn_0007   0   0    空腹   AD   (TOP(CP(IP(IP(VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)       (ARG0*   -
+wb/cmn/00/cmn_0007   0   1    喝奶   VV                   (VP*)))  -   01   -   -   *           (V*)            *)  -
+wb/cmn/00/cmn_0007   0   2    真的   AD                (VP(ADVP*)  -    -   -   -   *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   3    健康   VA                   (VP*)))  -   01   -   -   *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   4     吗   SP                        *   -    -   -   -   *             *             *   -
+wb/cmn/00/cmn_0007   0   5     ？   PU                       *))  -    -   -   -   *             *             *   -
+
+wb/cmn/00/cmn_0007   0   0    健康   VA  (TOP(IP(VP(VCD*   -   01   -   -   *    (V*)     *   -
+wb/cmn/00/cmn_0007   0   1    快乐   VA             *))))  -   01   -   -   *      *    (V*)  -
+
+wb/cmn/00/cmn_0007   0   0     空腹   AD   (TOP(IP(VP(VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)     *         *   -
+wb/cmn/00/cmn_0007   0   1     喝奶   VV                 (VP*))  -   01   -    _健康快乐_  *           (V*)     *         *   -
+wb/cmn/00/cmn_0007   0   2      会   VV                  (VP*   -   02   -    _健康快乐_  *             *    (V*)        *   -
+wb/cmn/00/cmn_0007   0   3     浪费   VV                  (VP*   -   01   -    _健康快乐_  *             *      *       (V*)  -
+wb/cmn/00/cmn_0007   0   4    蛋白质   NN               (NP*))))  -    -   -    _健康快乐_  *             *      *    (ARG1*)  -
+wb/cmn/00/cmn_0007   0   5      ？   PU                    *))  -    -   -    _健康快乐_  *             *      *         *   -
+
+wb/cmn/00/cmn_0007   0    0      有   VE       (TOP(IP(VP*   -   05   -    _健康快乐_  *      (V*)        *             *      *             *      *   -
+wb/cmn/00/cmn_0007   0    1      人   NN           (IP(NP*)  -    -   -    _健康快乐_  *   (ARG1*    (ARG0*)            *      *             *      *   -
+wb/cmn/00/cmn_0007   0    2      说   VV              (VP*   -   01   -    _健康快乐_  *        *       (V*)            *      *             *      *   -
+wb/cmn/00/cmn_0007   0    3     空腹   AD   (IP(VP(VP(ADVP*)  -    -   -    _健康快乐_  *        *    (ARG1*    (ARGM-ADV*)     *             *      *   -
+wb/cmn/00/cmn_0007   0    4      喝   VV              (VP*   -   01   -    _健康快乐_  *        *         *           (V*)     *             *      *   -
+wb/cmn/00/cmn_0007   0    5     牛奶   NN            (NP*)))  -    -   -    _健康快乐_  *        *         *        (ARG1*)     *             *      *   -
+wb/cmn/00/cmn_0007   0    6      会   VV              (VP*   -   02   -    _健康快乐_  *        *         *             *    (V*)            *      *   -
+wb/cmn/00/cmn_0007   0    7      把   BA              (VP*   -    -   -    _健康快乐_  *        *         *             *      *             *      *   -
+wb/cmn/00/cmn_0007   0    8    蛋白质   NN           (IP(NP*)  -    -   -    _健康快乐_  *        *         *             *      *             *      *   -
+wb/cmn/00/cmn_0007   0    9     当作    P           (VP(PP*   -    -   -    _健康快乐_  *        *         *             *      *    (ARGM-ADV*      *   -
+wb/cmn/00/cmn_0007   0   10     能量   NN             (NP*))  -    -   -    _健康快乐_  *        *         *             *      *             *)     *   -
+wb/cmn/00/cmn_0007   0   11     白白   AD            (ADVP*)  -    -   -    _健康快乐_  *        *         *             *      *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0007   0   12     消耗   VV          (VP(VRD*   -   01   -    _健康快乐_  *        *         *             *      *           (V*)     *   -
+wb/cmn/00/cmn_0007   0   13      掉   VV       *)))))))))))  -   01   -    _健康快乐_  *        *)        *)            *      *             *    (V*)  -
+wb/cmn/00/cmn_0007   0   14      ，   PU                *))  -    -   -    _健康快乐_  *        *         *             *      *             *      *   -
+
+wb/cmn/00/cmn_0007   0   0     实际上    AD      (TOP(IP(ADVP*)  -    -   -    _健康快乐_          *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0007   0   1      牛奶    NN           (LCP(NP*)  -    -   -    _健康快乐_          *        (ARG0*     -
+wb/cmn/00/cmn_0007   0   2       中    LC                  *)  -    -   -    _健康快乐_          *             *)    -
+wb/cmn/00/cmn_0007   0   3      含有    VV               (VP*   -   01   -    _健康快乐_          *           (V*)    -
+wb/cmn/00/cmn_0007   0   4       约    AD   (NP(DNP(QP(ADVP*)  -    -   -    _健康快乐_          *        (ARG1*     -
+wb/cmn/00/cmn_0007   0   5    4．5％    CD              (QP*))  -    -   -    _健康快乐_   (PERCENT)            *     -
+wb/cmn/00/cmn_0007   0   6       的   DEG                  *)  -    -   -    _健康快乐_          *             *     -
+wb/cmn/00/cmn_0007   0   7      乳糖    NN             (NP*)))  -    -   -    _健康快乐_          *             *)   (0)
+wb/cmn/00/cmn_0007   0   8       ，    PU                 *))  -    -   -    _健康快乐_          *             *     -
+
+wb/cmn/00/cmn_0007   0    0        它   PN    (TOP(IP(NP*)  -    -   -    _健康快乐_  *    (ARG0*)     *        (ARG0*)   (ARG0*)   (0)
+wb/cmn/00/cmn_0007   0    1       属于   VV        (VP(VP*   -   01   -    _健康快乐_  *       (V*)     *             *         *     -
+wb/cmn/00/cmn_0007   0    2    碳水化合物   NN          (NP*))  -    -   -    _健康快乐_  *    (ARG1*)     *             *         *     -
+wb/cmn/00/cmn_0007   0    3        ，   PU              *   -    -   -    _健康快乐_  *         *      *             *         *     -
+wb/cmn/00/cmn_0007   0    4        会   VV           (VP*   -   02   -    _健康快乐_  *         *    (V*)            *         *     -
+wb/cmn/00/cmn_0007   0    5       优先   AD   (VP(VP(ADVP*)  -    -   -    _健康快乐_  *         *      *    (ARGM-ADV*)        *     -
+wb/cmn/00/cmn_0007   0    6       分解   VV       (VP(VSB*   -    -   -    _健康快乐_  *         *      *             *         *     -
+wb/cmn/00/cmn_0007   0    7       供应   VV              *   -   01   -    _健康快乐_  *         *      *           (V*)        *     -
+wb/cmn/00/cmn_0007   0    8       能量   NN        (NP*))))  -    -   -    _健康快乐_  *         *      *        (ARG1*)        *     -
+wb/cmn/00/cmn_0007   0    9       节约   VV           (VP*   -   01   -    _健康快乐_  *         *      *             *       (V*)    -
+wb/cmn/00/cmn_0007   0   10      蛋白质   NN       (NP*)))))  -    -   -    _健康快乐_  *         *      *             *    (ARG1*)    -
+wb/cmn/00/cmn_0007   0   11        ，   PU             *))  -    -   -    _健康快乐_  *         *      *             *         *     -
+
+wb/cmn/00/cmn_0007   0    0    此外    AD   (TOP(IP(IP(ADVP*)  -    -   -    _健康快乐_          *    (ARGM-DIS*)     *             *         *   -
+wb/cmn/00/cmn_0007   0    1    牛奶    NN           (LCP(NP*)  -    -   -    _健康快乐_          *        (ARG0*      *             *         *   -
+wb/cmn/00/cmn_0007   0    2     中    LC                  *)  -    -   -    _健康快乐_          *             *)     *             *         *   -
+wb/cmn/00/cmn_0007   0    3     还    AD          (VP(ADVP*)  -    -   -    _健康快乐_          *    (ARGM-DIS*)     *             *         *   -
+wb/cmn/00/cmn_0007   0    4    含有    VV               (VP*   -   01   -    _健康快乐_          *           (V*)     *             *         *   -
+wb/cmn/00/cmn_0007   0    5    3％    CD    (NP(DNP(LCP(QP*)  -    -   -    _健康快乐_   (PERCENT)       (ARG1*      *             *         *   -
+wb/cmn/00/cmn_0007   0    6    左右    LC                  *)  -    -   -    _健康快乐_          *             *      *             *         *   -
+wb/cmn/00/cmn_0007   0    7     的   DEG                  *)  -    -   -    _健康快乐_          *             *      *             *         *   -
+wb/cmn/00/cmn_0007   0    8    脂肪    NN           (NP*)))))  -    -   -    _健康快乐_          *             *)     *             *         *   -
+wb/cmn/00/cmn_0007   0    9     ，    PU                  *   -    -   -    _健康快乐_          *             *      *             *         *   -
+wb/cmn/00/cmn_0007   0   10     也    AD       (IP(VP(ADVP*)  -    -   -    _健康快乐_          *             *      *    (ARGM-DIS*)        *   -
+wb/cmn/00/cmn_0007   0   11     能    VV               (VP*   -   01   -    _健康快乐_          *             *    (V*)            *         *   -
+wb/cmn/00/cmn_0007   0   12    起到    VV               (VP*   -   01   -    _健康快乐_          *             *      *           (V*)        *   -
+wb/cmn/00/cmn_0007   0   13    供应    VV      (NP(CP(IP(VP*   -   01   -    _健康快乐_          *             *      *        (ARG1*       (V*)  -
+wb/cmn/00/cmn_0007   0   14    能量    NN             (NP*)))  -    -   -    _健康快乐_          *             *      *             *    (ARG1*)  -
+wb/cmn/00/cmn_0007   0   15     的   DEC                  *)  -    -   -    _健康快乐_          *             *      *             *         *   -
+wb/cmn/00/cmn_0007   0   16    作用    NN          (NP*))))))  -    -   -    _健康快乐_          *             *      *             *)        *   -
+wb/cmn/00/cmn_0007   0   17     。    PU                 *))  -    -   -    _健康快乐_          *             *      *             *         *   -
+
+wb/cmn/00/cmn_0007   0   0     因此    AD   (TOP(IP(ADVP*)  -    -   -    _健康快乐_  *             *      *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0007   0   1     空腹    AD    (IP(VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)     *        (ARG0*   -
+wb/cmn/00/cmn_0007   0   2     喝奶    VV          (VP*)))  -   01   -    _健康快乐_  *           (V*)     *             *)  -
+wb/cmn/00/cmn_0007   0   3     并不    AD       (VP(ADVP*)  -    -   -    _健康快乐_  *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   4      会    VV            (VP*   -   02   -    _健康快乐_  *             *    (V*)            *   -
+wb/cmn/00/cmn_0007   0   5     造成    VV            (VP*   -   01   -    _健康快乐_  *             *      *           (V*)  -
+wb/cmn/00/cmn_0007   0   6    蛋白质    NN     (NP(DNP(NP*)  -    -   -    _健康快乐_  *             *      *        (ARG1*   -
+wb/cmn/00/cmn_0007   0   7      的   DEG               *)  -    -   -    _健康快乐_  *             *      *             *   -
+wb/cmn/00/cmn_0007   0   8     浪费    NN        (NP*)))))  -    -   -    _健康快乐_  *             *      *             *)  -
+wb/cmn/00/cmn_0007   0   9      。    PU              *))  -    -   -    _健康快乐_  *             *      *             *   -
+
+wb/cmn/00/cmn_0007   0    0     不    AD   (TOP(IP(IP(NP(CP(CP(IP(VP(ADVP*)  -    -   -    _健康快乐_  (DATE*    (ARGM-ADV*)     *        (ARG0*        (ARG0*   (ARG0*             *      *             *   -
+wb/cmn/00/cmn_0007   0    1     满    VV                              (VP*   -   02   -    _健康快乐_       *           (V*)     *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0    2     一    CD                              (QP*   -    -   -    _健康快乐_       *        (ARG1*      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0    3     岁     M                        (CLP*))))))  -    -   -    _健康快乐_       *)            *)     *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0    4     的   DEC                                 *)  -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0    5    婴儿    NN                             (NP*))  -    -   -    _健康快乐_       *             *      *             *)            *)       *             *      *             *   -
+wb/cmn/00/cmn_0007   0    6     都    AD                         (VP(ADVP*)  -    -   -    _健康快乐_       *             *      *    (ARGM-ADV*)   (ARGM-ADV*)       *             *      *             *   -
+wb/cmn/00/cmn_0007   0    7    可以    VV                              (VP*   -   01   -    _健康快乐_       *             *    (V*)            *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0    8    空腹    AD                      (VP(VP(ADVP*)  -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0    9    喝奶    VV                             (VP*))  -   01   -    _健康快乐_       *             *      *           (V*)            *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   10     而   MSP                              (VP*   -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   11    吸收    VV                              (VP*   -   01   -    _健康快乐_       *             *      *             *           (V*)       *             *      *             *   -
+wb/cmn/00/cmn_0007   0   12    营养    NN                        (NP*)))))))  -    -   -    _健康快乐_       *             *      *             *        (ARG1*)       *)            *      *             *   -
+wb/cmn/00/cmn_0007   0   13     ，    PU                                 *   -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   14    证明    VV                              (VP*   -   01   -    _健康快乐_       *             *      *             *             *      (V*)            *      *             *   -
+wb/cmn/00/cmn_0007   0   15    奶中    NN                    (IP(NP(DNP(NP*)  -    -   -    _健康快乐_       *             *      *             *             *   (ARG1*        (ARG0*      *             *   -
+wb/cmn/00/cmn_0007   0   16     的   DEG                                 *)  -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   17    营养    NN                              (NP*   -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   18    物质    NN                                *))  -    -   -    _健康快乐_       *             *      *             *             *        *             *)     *             *   -
+wb/cmn/00/cmn_0007   0   19    十分    AD                      (VP(VP(ADVP*)  -    -   -    _健康快乐_       *             *      *             *             *        *    (ARGM-ADV*)     *             *   -
+wb/cmn/00/cmn_0007   0   20    全面    VA                             (VP*))  -   01   -    _健康快乐_       *             *      *             *             *        *           (V*)     *             *   -
+wb/cmn/00/cmn_0007   0   21     ，    PU                                 *   -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   22    可以    VV                              (VP*   -   01   -    _健康快乐_       *             *      *             *             *        *             *    (V*)            *   -
+wb/cmn/00/cmn_0007   0   23     为    LB                              (VP*   -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+wb/cmn/00/cmn_0007   0   24    人体    NN                           (IP(NP*)  -    -   -    _健康快乐_       *             *      *             *             *        *             *      *        (ARG0*)  -
+wb/cmn/00/cmn_0007   0   25    充分    AD                         (VP(ADVP*)  -    -   -    _健康快乐_       *             *      *             *             *        *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   26    利用    VV                       (VP*))))))))  -   01   -    _健康快乐_       *             *      *             *             *        *)            *      *           (V*)  -
+wb/cmn/00/cmn_0007   0   27     。    PU                                *))  -    -   -    _健康快乐_       *             *      *             *             *        *             *      *             *   -
+
+wb/cmn/00/cmn_0007   0    0     即便   CS   (TOP(IP(CP(ADVP*)  -    -   -    _健康快乐_       *    (ARGM-DIS*)            *             *             *    (ARGM-ADV*   -
+wb/cmn/00/cmn_0007   0    1    消化率   NN            (IP(NP*)  -    -   -    _健康快乐_       *        (ARG1*)            *             *             *             *   -
+wb/cmn/00/cmn_0007   0    2     略有   AD          (VP(ADVP*)  -    -   -    _健康快乐_       *    (ARGM-ADV*)            *             *             *             *   -
+wb/cmn/00/cmn_0007   0    3     降低   VV            (VP*))))  -   01   -    _健康快乐_       *           (V*)            *             *             *             *)  -
+wb/cmn/00/cmn_0007   0    4      ，   PU                  *   -    -   -    _健康快乐_       *             *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    5      在    P               (PP*   -    -   -    _健康快乐_       *             *             *             *             *    (ARGM-TMP*   -
+wb/cmn/00/cmn_0007   0    6    来不及   AD   (LCP(IP(VP(ADVP*)  -    -   -    _健康快乐_       *             *    (ARGM-ADV*)            *             *             *   -
+wb/cmn/00/cmn_0007   0    7      吃   VV               (VP*   -   01   -    _健康快乐_       *             *           (V*)            *             *             *   -
+wb/cmn/00/cmn_0007   0    8     早饭   NN            (NP*))))  -    -   -    _健康快乐_       *             *        (ARG1*)            *             *             *   -
+wb/cmn/00/cmn_0007   0    9      时   LC                 *))  -    -   -    _健康快乐_       *             *             *             *             *             *)  -
+wb/cmn/00/cmn_0007   0   10      ，   PU                  *   -    -   -    _健康快乐_       *             *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   11     空腹   AD       (IP(VP(ADVP*)  -    -   -    _健康快乐_       *             *             *    (ARGM-ADV*)            *        (ARG0*   -
+wb/cmn/00/cmn_0007   0   12     饮奶   VV             (VP*)))  -   01   -    _健康快乐_       *             *             *           (V*)            *             *)  -
+wb/cmn/00/cmn_0007   0   13     仍然   AD          (VP(ADVP*)  -    -   -    _健康快乐_       *             *             *             *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   14      比    P               (PP*   -    -   -    _健康快乐_       *             *             *             *             *    (ARGM-ADV*   -
+wb/cmn/00/cmn_0007   0   15      一   CD      (IP(VP(NP(QP*   -    -   -    _健康快乐_  (TIME*             *             *             *    (ARGM-TMP*             *   -
+wb/cmn/00/cmn_0007   0   16      个    M             (CLP*))  -    -   -    _健康快乐_       *             *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   17     早上   NT              (NP*))  -    -   -    _健康快乐_       *)            *             *             *             *)            *   -
+wb/cmn/00/cmn_0007   0   18     完全   AD             (ADVP*)  -    -   -    _健康快乐_       *             *             *             *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0007   0   19      不   AD             (ADVP*)  -    -   -    _健康快乐_       *             *             *             *    (ARGM-ADV*)            *   -
+wb/cmn/00/cmn_0007   0   20      吃   VV               (VP*   -   01   -    _健康快乐_       *             *             *             *           (V*)            *   -
+wb/cmn/00/cmn_0007   0   21     东西   NN           (NP*)))))  -    -   -    _健康快乐_       *             *             *             *        (ARG1*)            *)  -
+wb/cmn/00/cmn_0007   0   22      更   AD             (ADVP*)  -    -   -    _健康快乐_       *             *             *             *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   23    有利于   VV               (VP*   -   01   -    _健康快乐_       *             *             *             *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   24     健康   NN             (NP*)))  -    -   -    _健康快乐_       *             *             *             *             *        (ARG1*)  -
+wb/cmn/00/cmn_0007   0   25      。   PU                 *))  -    -   -    _健康快乐_       *             *             *             *             *             *   -
+
+wb/cmn/00/cmn_0007   0   0      小   JJ   (TOP(IP(NP(ADJP*)  -    -   -    _健康快乐_  *         *    (ARGM-TPC*   -
+wb/cmn/00/cmn_0007   0   1     贴士   NN              (NP*))  -    -   -    _健康快乐_  *         *             *)  -
+wb/cmn/00/cmn_0007   0   2      ：   PU                  *   -    -   -    _健康快乐_  *         *             *   -
+wb/cmn/00/cmn_0007   0   3      喝   VV     (VP(LCP(IP(VP*   -   01   -    _健康快乐_  *       (V*)   (ARGM-TMP*   -
+wb/cmn/00/cmn_0007   0   4     牛奶   NN             (NP*)))  -    -   -    _健康快乐_  *    (ARG1*)            *   -
+wb/cmn/00/cmn_0007   0   5      前   LC                  *)  -    -   -    _健康快乐_  *         *             *)  -
+wb/cmn/00/cmn_0007   0   6      先   AD             (ADVP*)  -    -   -    _健康快乐_  *         *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   7      喝   VV               (VP*   -   01   -    _健康快乐_  *         *           (V*)  -
+wb/cmn/00/cmn_0007   0   8    白开水   NN           (NP*)))))  -    -   -    _健康快乐_  *         *        (ARG1*)  -
+
+wb/cmn/00/cmn_0007   0   0    清晨    NT   (TOP(IP(VP(NP*)  -    -   -    _健康快乐_  *    (ARGM-TMP*)  -
+wb/cmn/00/cmn_0007   0   1    不宜    AD           (ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   2     把    BA             (VP*   -    -   -    _健康快乐_  *             *   -
+wb/cmn/00/cmn_0007   0   3    牛奶    NN          (IP(NP*)  -    -   -    _健康快乐_  *        (ARG1*)  -
+wb/cmn/00/cmn_0007   0   4    当成    VV             (VP*   -   01   -    _健康快乐_  *           (V*)  -
+wb/cmn/00/cmn_0007   0   5    惟一    JJ    (NP(DNP(ADJP*)  -    -   -    _健康快乐_  *        (ARG2*   -
+wb/cmn/00/cmn_0007   0   6     的   DEG                *)  -    -   -    _健康快乐_  *             *   -
+wb/cmn/00/cmn_0007   0   7    饮品    NN        (NP*))))))  -    -   -    _健康快乐_  *             *)  -
+wb/cmn/00/cmn_0007   0   8     。    PU               *))  -    -   -    _健康快乐_  *             *   -
+
+wb/cmn/00/cmn_0007   0    0     早上   NT     (TOP(IP(IP(VP(LCP(IP(VP(NP*)  -    -   -    _健康快乐_  *      *    (ARGM-TMP*      *         *            *             *    (ARGM-TMP*   (ARG0*   -
+wb/cmn/00/cmn_0007   0    1     起床   VV                          (VP*)))  -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    2      时   LC                               *)  -    -   -    _健康快乐_  *      *             *)     *         *            *             *             *)       *   -
+wb/cmn/00/cmn_0007   0    3      要   VV                            (VP*   -   03   -    _健康快乐_  *    (V*)            *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    4      先   AD                    (VP(VP(ADVP*)  -    -   -    _健康快乐_  *      *    (ARGM-DIS*)     *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    5      喝   VV                            (VP*   -   01   -    _健康快乐_  *      *           (V*)     *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    6      一   CD                         (NP(QP*   -    -   -    _健康快乐_  *      *        (ARG1*      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    7      大   JJ                      (CLP(ADJP*)  -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    8      杯    M                         (CLP*)))  -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0    9    白开水   NN                          (NP*)))  -    -   -    _健康快乐_  *      *             *)     *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0   10      （   PU                               *   -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0   11     供暖   VV   (PRN(IP(VP(NP(CP(IP(VP(VP*))))  -   01   -    _健康快乐_  *      *             *    (V*)        *   (ARGM-TMP*        (ARG0*             *        *   -
+wb/cmn/00/cmn_0007   0   12     季节   NN                           (NP*))  -    -   -    _健康快乐_  *      *             *      *         *            *)            *             *        *   -
+wb/cmn/00/cmn_0007   0   13     室内   NN                     (LCP(IP(NP*)  -    -   -    _健康快乐_  *      *             *      *    (ARG0*)  (ARGM-TMP*             *             *        *   -
+wb/cmn/00/cmn_0007   0   14     干燥   VA                           (VP*))  -   01   -    _健康快乐_  *      *             *      *       (V*)           *             *             *        *   -
+wb/cmn/00/cmn_0007   0   15      时   LC                               *)  -    -   -    _健康快乐_  *      *             *      *         *            *)            *             *        *   -
+wb/cmn/00/cmn_0007   0   16      饮   VV                            (VP*   -   01   -    _健康快乐_  *      *             *      *         *          (V*)            *             *        *   -
+wb/cmn/00/cmn_0007   0   17      淡   JJ                       (NP(ADJP*)  -    -   -    _健康快乐_  *      *             *      *         *       (ARG1*             *             *        *   -
+wb/cmn/00/cmn_0007   0   18    蜂蜜水   NN                        (NP*)))))  -    -   -    _健康快乐_  *      *             *      *         *            *)            *)            *        *   -
+wb/cmn/00/cmn_0007   0   19      更   AD                       (VP(ADVP*)  -    -   -    _健康快乐_  *      *             *      *         *            *    (ARGM-ADV*)            *        *   -
+wb/cmn/00/cmn_0007   0   20      佳   VA                          (VP*)))  -   01   -    _健康快乐_  *      *             *      *         *            *           (V*)            *        *   -
+wb/cmn/00/cmn_0007   0   21      ）   PU                               *)  -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0   22      ，   PU                               *   -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+wb/cmn/00/cmn_0007   0   23     然后   AD                       (VP(ADVP*)  -    -   -    _健康快乐_  *      *             *      *         *            *             *    (ARGM-DIS*)       *   -
+wb/cmn/00/cmn_0007   0   24      再   AD                          (ADVP*)  -    -   -    _健康快乐_  *      *             *      *         *            *             *    (ARGM-DIS*)       *   -
+wb/cmn/00/cmn_0007   0   25      喝   VV                            (VP*   -   01   -    _健康快乐_  *      *             *      *         *            *             *           (V*)       *   -
+wb/cmn/00/cmn_0007   0   26     牛奶   NN                      (NP*)))))))  -    -   -    _健康快乐_  *      *             *      *         *            *             *        (ARG1*)       *)  -
+wb/cmn/00/cmn_0007   0   27     为好   VV                            (VP*)  -   01   -    _健康快乐_  *      *             *      *         *            *             *             *      (V*)  -
+wb/cmn/00/cmn_0007   0   28      。   PU                              *))  -    -   -    _健康快乐_  *      *             *      *         *            *             *             *        *   -
+
+wb/cmn/00/cmn_0007   0    0     因为     P      (TOP(IP(PP*   -    -   -    _健康快乐_  *             *         *    (ARGM-PRP*    (ARGM-PRP*   -
+wb/cmn/00/cmn_0007   0    1     牛奶    NN   (IP(NP(DNP(NP*)  -    -   -    _健康快乐_  *        (ARG0*         *             *             *   -
+wb/cmn/00/cmn_0007   0    2      的   DEG                *)  -    -   -    _健康快乐_  *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    3    渗透压    NN            (NP*))  -    -   -    _健康快乐_  *             *)        *             *             *   -
+wb/cmn/00/cmn_0007   0    4      较    AD        (VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)        *             *             *   -
+wb/cmn/00/cmn_0007   0    5      高    VA          (VP*))))  -   01   -    _健康快乐_  *           (V*)        *             *)            *)  -
+wb/cmn/00/cmn_0007   0    6      ，    PU                *   -    -   -    _健康快乐_  *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    7      在     P          (VP(PP*   -    -   -    _健康快乐_  *             *         *    (ARGM-LOC*    (ARGM-LOC*   -
+wb/cmn/00/cmn_0007   0    8     补充    VV       (NP(IP(VP*   -   01   -    _健康快乐_  *             *       (V*)            *             *   -
+wb/cmn/00/cmn_0007   0    9     水分    NN           (NP*)))  -    -   -    _健康快乐_  *             *    (ARG1*)            *             *   -
+wb/cmn/00/cmn_0007   0   10     方面    NN           (NP*)))  -    -   -    _健康快乐_  *             *         *             *)            *)  -
+wb/cmn/00/cmn_0007   0   11      远    AD           (ADVP*)  -    -   -    _健康快乐_  *             *         *    (ARGM-ADV*)   (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   12     不如     P             (PP*   -    -   -    _健康快乐_  *             *         *    (ARGM-ADV*    (ARGM-ADV*   -
+wb/cmn/00/cmn_0007   0   13    白开水    NN            (NP*))  -    -   -    _健康快乐_  *             *         *             *)            *)  -
+wb/cmn/00/cmn_0007   0   14     迅速    VA             (VP*   -   01   -    _健康快乐_  *             *         *           (V*)            *   -
+wb/cmn/00/cmn_0007   0   15      和    CC                *   -    -   -    _健康快乐_  *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   16     有效    VA               *))  -   01   -    _健康快乐_  *             *         *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   17      。    PU               *))  -    -   -    _健康快乐_  *             *         *             *             *   -
+
+wb/cmn/00/cmn_0007   0   0    什么   DT   (TOP(IP(NP(DP*)  -    -   -    _健康快乐_  *      *        (ARG0*   -
+wb/cmn/00/cmn_0007   0   1     人   NN            (NP*))  -    -   -    _健康快乐_  *      *             *)  -
+wb/cmn/00/cmn_0007   0   2     不   AD        (VP(ADVP*)  -    -   -    _健康快乐_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   3     能   VV             (VP*   -   02   -    _健康快乐_  *    (V*)            *   -
+wb/cmn/00/cmn_0007   0   4    空腹   AD        (VP(ADVP*)  -    -   -    _健康快乐_  *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   5     喝   VV             (VP*   -   01   -    _健康快乐_  *      *           (V*)  -
+wb/cmn/00/cmn_0007   0   6    牛奶   NN         (NP*)))))  -    -   -    _健康快乐_  *      *        (ARG1*)  -
+wb/cmn/00/cmn_0007   0   7     ？   PU               *))  -    -   -    _健康快乐_  *      *             *   -
+
+wb/cmn/00/cmn_0007   0    0    需要    VV  (TOP(IP(NP(CP(CP(IP(VP*   -   03   -    _健康快乐_  *    (V*)     *   (ARG0*         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0    1    注意    VV                  (VP*))))  -   01   -    _健康快乐_  *      *    (V*)       *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0    2     的   DEC                       *))  -    -   -    _健康快乐_  *      *      *        *)        *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0    3     是    VC                     (VP*   -   01   -    _健康快乐_  *      *      *      (V*)        *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0    4     ，    PU                        *   -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0    5    如果    CS             (IP(CP(ADVP*)  -    -   -    _健康快乐_  *      *      *   (ARG1*         *    (ARGM-DIS*)     *      *             *   -
+wb/cmn/00/cmn_0007   0    6     喝    VV        (IP(VP(LCP(IP(VP*   -   01   -    _健康快乐_  *      *      *        *       (V*)   (ARGM-TMP*      *      *             *   -
+wb/cmn/00/cmn_0007   0    7    牛奶    NN                   (NP*)))  -    -   -    _健康快乐_  *      *      *        *    (ARG1*)            *      *      *             *   -
+wb/cmn/00/cmn_0007   0    8     后    LC                        *)  -    -   -    _健康快乐_  *      *      *        *         *             *)     *      *             *   -
+wb/cmn/00/cmn_0007   0    9     有    VE                     (VP*   -   01   -    _健康快乐_  *      *      *        *         *           (V*)     *      *             *   -
+wb/cmn/00/cmn_0007   0   10    腹胀    VV               (NP(IP(VP*   -   01   -    _健康快乐_  *      *      *        *         *        (ARG1*    (V*)     *             *   -
+wb/cmn/00/cmn_0007   0   11     、    PU                        *   -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0   12    腹泻    VV                       *))  -   01   -    _健康快乐_  *      *      *        *         *             *      *    (V*)            *   -
+wb/cmn/00/cmn_0007   0   13    问题    NN                (NP*))))))  -    -   -    _健康快乐_  *      *      *        *         *             *)     *      *             *   -
+wb/cmn/00/cmn_0007   0   14     ，    PU                        *   -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0   15    那么    AD                   (ADVP*)  -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0   16    的确    AD                (VP(ADVP*)  -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0   17     不    AD                   (ADVP*)  -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0   18     宜    VV                     (VP*   -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+wb/cmn/00/cmn_0007   0   19    空腹    AD             (IP(VP(ADVP*)  -    -   -    _健康快乐_  *      *      *        *         *             *      *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   20    大量    AD                   (ADVP*)  -    -   -    _健康快乐_  *      *      *        *         *             *      *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   21    饮奶    VV               (VP*)))))))  -   01   -    _健康快乐_  *      *      *        *)        *             *      *      *           (V*)  -
+wb/cmn/00/cmn_0007   0   22     ，    PU                       *))  -    -   -    _健康快乐_  *      *      *        *         *             *      *      *             *   -
+
+wb/cmn/00/cmn_0007   0    0     还是    AD   (TOP(IP(IP(ADVP*)  -    -   -    _健康快乐_  *        *             *    (ARGM-DIS*)     *             *   -
+wb/cmn/00/cmn_0007   0    1      吃    VV  (IP(VP(LCP(IP(VP*   -   01   -    _健康快乐_  *      (V*)   (ARGM-TMP*        (ARG0*      *             *   -
+wb/cmn/00/cmn_0007   0    2      些    CD            (NP(QP*)  -    -   -    _健康快乐_  *   (ARG1*             *             *      *             *   -
+wb/cmn/00/cmn_0007   0    3    淀粉类    JJ             (ADJP*)  -    -   -    _健康快乐_  *        *             *             *      *             *   -
+wb/cmn/00/cmn_0007   0    4     食物    NN            (NP*))))  -    -   -    _健康快乐_  *        *)            *             *      *             *   -
+wb/cmn/00/cmn_0007   0    5     之后    LC                  *)  -    -   -    _健康快乐_  *        *             *)            *      *             *   -
+wb/cmn/00/cmn_0007   0    6      再    AD             (ADVP*)  -    -   -    _健康快乐_  *        *    (ARGM-DIS*)            *      *             *   -
+wb/cmn/00/cmn_0007   0    7     少量    AD         (DVP(ADVP*   -    -   -    _健康快乐_  *        *    (ARGM-ADV*             *      *             *   -
+wb/cmn/00/cmn_0007   0    8     多次    AD                  *)  -    -   -    _健康快乐_  *        *             *             *      *             *   -
+wb/cmn/00/cmn_0007   0    9      地   DEV                  *)  -    -   -    _健康快乐_  *        *             *)            *      *             *   -
+wb/cmn/00/cmn_0007   0   10      喝    VV               (VP*   -   01   -    _健康快乐_  *        *           (V*)            *      *             *   -
+wb/cmn/00/cmn_0007   0   11     牛奶    NN            (NP*))))  -    -   -    _健康快乐_  *        *        (ARG1*)            *)     *             *   -
+wb/cmn/00/cmn_0007   0   12     为好    VV              (VP*))  -   01   -    _健康快乐_  *        *             *           (V*)     *             *   -
+wb/cmn/00/cmn_0007   0   13      ，    PU                  *   -    -   -    _健康快乐_  *        *             *             *      *             *   -
+wb/cmn/00/cmn_0007   0   14     最好    AD       (IP(VP(ADVP*)  -    -   -    _健康快乐_  *        *             *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   15      能    VV               (VP*   -   01   -    _健康快乐_  *        *             *             *    (V*)            *   -
+wb/cmn/00/cmn_0007   0   16     饮用    VV               (VP*   -   01   -    _健康快乐_  *        *             *             *      *           (V*)  -
+wb/cmn/00/cmn_0007   0   17     酸奶    NN           (NP*)))))  -    -   -    _健康快乐_  *        *             *             *      *        (ARG1*)  -
+wb/cmn/00/cmn_0007   0   18      。    PU                 *))  -    -   -    _健康快乐_  *        *             *             *      *             *   -
+
+wb/cmn/00/cmn_0007   0    0      在     P       (TOP(IP(IP(PP*   -    -   -    _健康快乐_       *   (ARGM-TMP*      *             *   (ARG0*             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    1    20     CD             (LCP(QP*   -    -   -    _健康快乐_  (DATE*            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    2      年     M               (CLP*))  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    3      前    LC                   *))  -    -   -    _健康快乐_       *)           *)     *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    4      ，    PU                    *   -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    5    专家们    NN                 (NP*)  -    -   -    _健康快乐_       *       (ARG0*)     *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    6     提出    VV              (VP(VP*   -   01   -    _健康快乐_       *          (V*)     *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    7      不    AD         (IP(VP(ADVP*)  -    -   -    _健康快乐_       *       (ARG1*      *    (ARGM-ADV*)       *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    8      能    VV                 (VP*   -   01   -    _健康快乐_       *            *    (V*)            *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0    9     空腹    AD            (VP(ADVP*)  -    -   -    _健康快乐_       *            *      *    (ARGM-ADV*)       *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   10      喝    VV                 (VP*   -   01   -    _健康快乐_       *            *      *           (V*)       *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   11     牛奶    NN         (NP*)))))))))  -    -   -    _健康快乐_       *            *)     *        (ARG1*)       *)            *         *             *             *   -
+wb/cmn/00/cmn_0007   0   12      ，    PU                    *   -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   13      是    VC                 (VP*   -   01   -    _健康快乐_       *            *      *             *      (V*)            *         *             *             *   -
+wb/cmn/00/cmn_0007   0   14     因为     P                 (PP*   -    -   -    _健康快乐_       *            *      *             *   (ARG1*             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   15     当时    NT           (CP(IP(NP*)  -    -   -    _健康快乐_       *            *      *             *        *    (ARGM-TMP*)        *             *    (ARGM-TMP*)  -
+wb/cmn/00/cmn_0007   0   16     国人    NN                 (NP*)  -    -   -    _健康快乐_       *            *      *             *        *        (ARG0*)        *             *        (ARG0*)  -
+wb/cmn/00/cmn_0007   0   17     很少    AD         (VP(VP(ADVP*)  -    -   -    _健康快乐_       *            *      *             *        *    (ARGM-ADV*)        *             *             *   -
+wb/cmn/00/cmn_0007   0   18      有    VE                 (VP*   -   01   -    _健康快乐_       *            *      *             *        *           (V*)        *             *             *   -
+wb/cmn/00/cmn_0007   0   19      喝    VV  (NP(CP(CP(IP(VP(VP*   -   01   -    _健康快乐_       *            *      *             *        *        (ARG1*       (V*)            *             *   -
+wb/cmn/00/cmn_0007   0   20     牛奶    NN              (NP*))))  -    -   -    _健康快乐_       *            *      *             *        *             *    (ARG1*)            *             *   -
+wb/cmn/00/cmn_0007   0   21      的   DEC                   *))  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   22     机会    NN              (NP*))))  -    -   -    _健康快乐_       *            *      *             *        *             *)        *             *             *   -
+wb/cmn/00/cmn_0007   0   23      ，    PU                    *   -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   24     一旦    CS         (VP(CP(ADVP*)  -    -   -    _健康快乐_       *            *      *             *        *             *         *    (ARGM-DIS*)   (ARGM-TMP*   -
+wb/cmn/00/cmn_0007   0   25      断    VV              (IP(VP*   -   02   -    _健康快乐_       *            *      *             *        *             *         *           (V*)            *   -
+wb/cmn/00/cmn_0007   0   26      了    AS                    *   -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   27     母乳    NN              (NP*))))  -    -   -    _健康快乐_       *            *      *             *        *             *         *        (ARG1*)            *)  -
+wb/cmn/00/cmn_0007   0   28      ，    PU                    *   -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   29    基本上    AD               (ADVP*)  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   30      就    AD               (ADVP*)  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0007   0   31      见    VV             (VP(VPT*   -   01   -    _健康快乐_       *            *      *             *        *             *         *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   32      不    AD                    *   -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   33      到    VV                    *)  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+wb/cmn/00/cmn_0007   0   34    奶制品    NN             (NP*)))))  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *        (ARG1*)  -
+wb/cmn/00/cmn_0007   0   35      了    SP                  *)))  -    -   -    _健康快乐_       *            *      *             *        *)            *         *             *             *   -
+wb/cmn/00/cmn_0007   0   36      。    PU                   *))  -    -   -    _健康快乐_       *            *      *             *        *             *         *             *             *   -
+
+wb/cmn/00/cmn_0007   0    0     长期   AD   (TOP(IP(IP(VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)  (ARG0*         *             *   -
+wb/cmn/00/cmn_0007   0    1      不   AD                (ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)       *         *             *   -
+wb/cmn/00/cmn_0007   0    2     接触   VV                  (VP*   -   01   -    _健康快乐_  *           (V*)       *         *             *   -
+wb/cmn/00/cmn_0007   0    3    奶制品   NN               (NP*))))  -    -   -    _健康快乐_  *        (ARG0*)       *)        *             *   -
+wb/cmn/00/cmn_0007   0    4      ，   PU                     *   -    -   -    _健康快乐_  *             *        *         *             *   -
+wb/cmn/00/cmn_0007   0    5     导致   VV                  (VP*   -   01   -    _健康快乐_  *             *      (V*)        *             *   -
+wb/cmn/00/cmn_0007   0    6     人体   NN               (IP(NP*)  -    -   -    _健康快乐_  *             *   (ARG1*    (ARG1*)            *   -
+wb/cmn/00/cmn_0007   0    7     发生   VV                  (VP*   -   01   -    _健康快乐_  *             *        *       (V*)            *   -
+wb/cmn/00/cmn_0007   0    8      ＂   PU                     *   -    -   -    _健康快乐_  *             *        *         *             *   -
+wb/cmn/00/cmn_0007   0    9     乳糖   NN               (IP(NP*)  -    -   -    _健康快乐_  *             *        *    (ARG0*        (ARG1*)  -
+wb/cmn/00/cmn_0007   0   10      不   AD             (VP(ADVP*)  -    -   -    _健康快乐_  *             *        *         *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   11      耐   VV                (VP*)))  -   01   -    _健康快乐_  *             *        *         *)          (V*)  -
+wb/cmn/00/cmn_0007   0   12      ＂   PU                   *)))  -    -   -    _健康快乐_  *             *        *)        *             *   -
+wb/cmn/00/cmn_0007   0   13      ，   PU                    *))  -    -   -    _健康快乐_  *             *        *         *             *   -
+
+wb/cmn/00/cmn_0007   0   0       一   AD   (TOP(IP(VP(VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-DIS*)            *             *             *   -
+wb/cmn/00/cmn_0007   0   1      喝奶   VV                 (VP*))  -   01   -    _健康快乐_  *           (V*)            *             *             *   -
+wb/cmn/00/cmn_0007   0   2       就   AD             (VP(ADVP*)  -    -   -    _健康快乐_  *             *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)  -
+wb/cmn/00/cmn_0007   0   3      腹胀   VV                  (VP*   -   01   -    _健康快乐_  *             *           (V*)            *             *   -
+wb/cmn/00/cmn_0007   0   4       、   PU                     *   -    -   -    _健康快乐_  *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   5      腹泻   VV                     *   -   01   -    _健康快乐_  *             *             *           (V*)            *   -
+wb/cmn/00/cmn_0007   0   6       ，   PU                     *   -    -   -    _健康快乐_  *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   7    消化不良   VV                   *)))  -   01   -    _健康快乐_  *             *             *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   8       。   PU                    *))  -    -   -    _健康快乐_  *             *             *             *             *   -
+
+wb/cmn/00/cmn_0007   0    0     如果    CS   (TOP(IP(CP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-DIS*)            *      *   -
+wb/cmn/00/cmn_0007   0    1      喝    VV            (IP(VP*   -   01   -    _健康快乐_  *           (V*)            *      *   -
+wb/cmn/00/cmn_0007   0    2      得   DER                  *   -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0    3      太    AD          (VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-EXT*             *      *   -
+wb/cmn/00/cmn_0007   0    4      急    AD             (VP*)))  -    -   -    _健康快乐_  *             *)            *      *   -
+wb/cmn/00/cmn_0007   0    5      ，    PU                  *   -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0    6    特别是    AD      (PRN(VP(ADVP*)  -    -   -    _健康快乐_  *             *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0007   0    7     空腹    AD             (ADVP*)  -    -   -    _健康快乐_  *             *    (ARGM-ADV*)     *   -
+wb/cmn/00/cmn_0007   0    8     喝奶    VV           (VP*)))))  -   01   -    _健康快乐_  *             *           (V*)     *   -
+wb/cmn/00/cmn_0007   0    9      ，    PU                  *   -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0   10     症状    NN               (NP*)  -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0   11      就    AD          (VP(ADVP*)  -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0   12      会    VV               (VP*   -   02   -    _健康快乐_  *             *             *    (V*)  -
+wb/cmn/00/cmn_0007   0   13     更加    AD          (VP(ADVP*)  -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0   14     严重    VA            (VP*))))  -    -   -    _健康快乐_  *             *             *      *   -
+wb/cmn/00/cmn_0007   0   15      。    PU                 *))  -    -   -    _健康快乐_  *             *             *      *   -
+
+wb/cmn/00/cmn_0007   0    0    现在   NT   (TOP(IP(CP(IP(NP*)  -    -   -    _健康快乐_  *    (ARGM-TMP*)            *   -
+wb/cmn/00/cmn_0007   0    1     ，   PU                   *   -    -   -    _健康快乐_  *             *             *   -
+wb/cmn/00/cmn_0007   0    2    时代   NN                (NP*)  -    -   -    _健康快乐_  *        (ARG0*)            *   -
+wb/cmn/00/cmn_0007   0    3    不同   VA               (VP*))  -   01   -    _健康快乐_  *           (V*)            *   -
+wb/cmn/00/cmn_0007   0    4     了   SP                   *)  -    -   -    _健康快乐_  *             *             *   -
+wb/cmn/00/cmn_0007   0    5     ，   PU                   *   -    -   -    _健康快乐_  *             *             *   -
+wb/cmn/00/cmn_0007   0    6    饮食   NN             (IP(NP*   -    -   -    _健康快乐_  *             *        (ARG1*   -
+wb/cmn/00/cmn_0007   0    7    方式   NN                   *)  -    -   -    _健康快乐_  *             *             *)  -
+wb/cmn/00/cmn_0007   0    8     也   AD           (VP(ADVP*)  -    -   -    _健康快乐_  *             *    (ARGM-DIS*)  -
+wb/cmn/00/cmn_0007   0    9     变   VV                (VP*   -   01   -    _健康快乐_  *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   10     了   AS                 *)))  -    -   -    _健康快乐_  *             *             *   -
+wb/cmn/00/cmn_0007   0   11     。   PU                  *))  -    -   -    _健康快乐_  *             *             *   -
+
+wb/cmn/00/cmn_0007   0    0     很多    CD       (TOP(IP(IP(NP(QP*)  -    -   -    _健康快乐_  *        (ARG0*        (ARG0*        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    1     孩子    NN                    (NP*   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    2      和    CC                       *   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    3    年轻人    NN                      *))  -    -   -    _健康快乐_  *             *)            *)       *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    4     从小    AD               (VP(ADVP*)  -    -   -    _健康快乐_  *    (ARGM-TMP*)   (ARGM-TMP*)       *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    5      就    AD                  (ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)   (ARGM-ADV*)       *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    6     经常    AD                  (ADVP*)  -    -   -    _健康快乐_  *    (ARGM-ADV*)   (ARGM-ADV*)       *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    7      喝    VV                 (VP(VP*   -   01   -    _健康快乐_  *           (V*)            *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    8     牛奶    NN                    (NP*   -    -   -    _健康快乐_  *        (ARG1*             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0    9      、    PU                       *   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   10     酸奶    NN                      *))  -    -   -    _健康快乐_  *             *)            *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   11      ，    PU                       *   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   12      吃    VV                    (VP*   -   01   -    _健康快乐_  *             *           (V*)       *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   13    冰淇淋    NN                 (NP(NP*)  -    -   -    _健康快乐_  *             *        (ARG1*        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   14     甚至    AD               (NP(ADVP*)  -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   15     奶酪    NN              (NP*)))))))  -    -   -    _健康快乐_  *             *             *)       *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   16      ，    PU                       *   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   17     消化    VV  (IP(NP(CP(CP(IP(VP(VP*   -   01   -    _健康快乐_  *             *             *      (V*)       (ARG0*             *             *             *   -
+wb/cmn/00/cmn_0007   0   18     牛奶    NN             (NP(LCP(NP*)  -    -   -    _健康快乐_  *             *             *   (ARG1*             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   19      中    LC                       *)  -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   20     乳糖    NN                (NP*)))))  -    -   -    _健康快乐_  *             *             *        *)            *             *             *             *   -
+wb/cmn/00/cmn_0007   0   21      的   DEC                      *))  -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   22     能力    NN                   (NP*))  -    -   -    _健康快乐_  *             *             *        *             *)            *             *             *   -
+wb/cmn/00/cmn_0007   0   23      很    AD               (VP(ADVP*)  -    -   -    _健康快乐_  *             *             *        *    (ARGM-ADV*)            *             *             *   -
+wb/cmn/00/cmn_0007   0   24      强    VA                  (VP*)))  -   01   -    _健康快乐_  *             *             *        *           (V*)            *             *             *   -
+wb/cmn/00/cmn_0007   0   25      ，    PU                       *   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   26     即便    AD         (IP(VP(CP(ADVP*)  -    -   -    _健康快乐_  *             *             *        *             *    (ARGM-DIS*)   (ARGM-ADV*             *   -
+wb/cmn/00/cmn_0007   0   27     空腹    AD            (IP(VP(ADVP*)  -    -   -    _健康快乐_  *             *             *        *             *    (ARGM-ADV*)            *             *   -
+wb/cmn/00/cmn_0007   0   28      喝    VV                    (VP*   -   01   -    _健康快乐_  *             *             *        *             *           (V*)            *             *   -
+wb/cmn/00/cmn_0007   0   29     牛奶    NN                (NP*)))))  -    -   -    _健康快乐_  *             *             *        *             *        (ARG1*)            *)            *   -
+wb/cmn/00/cmn_0007   0   30      ，    PU                       *   -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   31      也    AD                  (ADVP*)  -    -   -    _健康快乐_  *             *             *        *             *             *    (ARGM-DIS*)            *   -
+wb/cmn/00/cmn_0007   0   32      没    VE                    (VP*   -   02   -    _健康快乐_  *             *             *        *             *             *           (V*)            *   -
+wb/cmn/00/cmn_0007   0   33     什么    DT                 (NP(DP*)  -    -   -    _健康快乐_  *             *             *        *             *             *        (ARG1*             *   -
+wb/cmn/00/cmn_0007   0   34      不    AD         (CP(IP(VP(ADVP*)  -    -   -    _健康快乐_  *             *             *        *             *             *             *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   35     舒服    VA                  (VP*)))  -   01   -    _健康快乐_  *             *             *        *             *             *             *           (V*)  -
+wb/cmn/00/cmn_0007   0   36      的   DEC                       *)  -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+wb/cmn/00/cmn_0007   0   37     感觉    NN                (NP*)))))  -    -   -    _健康快乐_  *             *             *        *             *             *             *)            *   -
+wb/cmn/00/cmn_0007   0   38      。    PU                      *))  -    -   -    _健康快乐_  *             *             *        *             *             *             *             *   -
+
+wb/cmn/00/cmn_0007   0    0      那么    AD   (TOP(IP(CP(IP(ADVP*)  -    -   -    _健康快乐_  *      *             *    (ARGM-DIS*)     *             *      *             *   -
+wb/cmn/00/cmn_0007   0    1       ，    PU                     *   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    2      所谓    JJ             (NP(ADJP*)  -    -   -    _健康快乐_  *      *             *        (ARG1*      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    3       ＂    PU                  (CP*   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    4      空腹    AD          (IP(VP(ADVP*)  -    -   -    _健康快乐_  *      *    (ARGM-ADV*)            *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    5       不    AD                (ADVP*)  -    -   -    _健康快乐_  *      *    (ARGM-ADV*)            *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    6       能    VV                  (VP*   -   01   -    _健康快乐_  *    (V*)            *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    7      喝奶    VV               (VP*))))  -   01   -    _健康快乐_  *      *           (V*)            *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    8       ＂    PU                     *   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0    9       的   DEC                     *)  -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   10      说法    NN                 (NP*))  -    -   -    _健康快乐_  *      *             *             *)     *             *      *             *   -
+wb/cmn/00/cmn_0007   0   11       ，    PU                     *   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   12       也    AD             (VP(ADVP*)  -    -   -    _健康快乐_  *      *             *    (ARGM-DIS*)     *             *      *             *   -
+wb/cmn/00/cmn_0007   0   13       该    VV                  (VP*   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   14       改    VV              (VP(VNV*   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   15       一    AD                     *   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   16       改    VV                 *)))))  -   01   -    _健康快乐_  *      *             *           (V*)     *             *      *             *   -
+wb/cmn/00/cmn_0007   0   17       了    SP                     *)  -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   18       ，    PU                     *   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   19      至少    AD       (IP(VP(VP(ADVP*)  -    -   -    _健康快乐_  *      *             *             *      *    (ARGM-ADV*)     *             *   -
+wb/cmn/00/cmn_0007   0   20       要    VV                  (VP*   -   03   -    _健康快乐_  *      *             *             *    (V*)            *      *             *   -
+wb/cmn/00/cmn_0007   0   21       加    VV                  (VP*   -   01   -    _健康快乐_  *      *             *             *      *           (V*)     *             *   -
+wb/cmn/00/cmn_0007   0   22       个     M              (NP(CLP*)  -    -   -    _健康快乐_  *      *             *             *      *        (ARG1*      *             *   -
+wb/cmn/00/cmn_0007   0   23      前提    NN              (NP*)))))  -    -   -    _健康快乐_  *      *             *             *      *             *)     *             *   -
+wb/cmn/00/cmn_0007   0   24       ，    PU                     *   -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+wb/cmn/00/cmn_0007   0   25       不    AD             (VP(ADVP*)  -    -   -    _健康快乐_  *      *             *             *      *             *      *    (ARGM-ADV*)  -
+wb/cmn/00/cmn_0007   0   26       能    VV                  (VP*   -   01   -    _健康快乐_  *      *             *             *      *             *    (V*)            *   -
+wb/cmn/00/cmn_0007   0   27    一概而论    VV              (VP*)))))  -   01   -    _健康快乐_  *      *             *             *      *             *      *           (V*)  -
+wb/cmn/00/cmn_0007   0   28       。    PU                    *))  -    -   -    _健康快乐_  *      *             *             *      *             *      *             *   -
+
+wb/cmn/00/cmn_0007   0   0               点击    VV   (TOP(IP(VP(VP*)  -   01   -    _健康快乐_  *    (V*)     *        *   -
+wb/cmn/00/cmn_0007   0   1               可以    VV             (VP*   -   01   -    _健康快乐_  *      *    (V*)       *   -
+wb/cmn/00/cmn_0007   0   2               了解    VV             (VP*   -   02   -    _健康快乐_  *      *      *      (V*)  -
+wb/cmn/00/cmn_0007   0   3                更    AD     (NP(QP(ADVP*)  -    -   -    _健康快乐_  *      *      *   (ARG1*   -
+wb/cmn/00/cmn_0007   0   4                多    CD            (QP*))  -    -   -    _健康快乐_  *      *      *        *   -
+wb/cmn/00/cmn_0007   0   5               详细    JJ           (ADJP*)  -    -   -    _健康快乐_  *      *      *        *   -
+wb/cmn/00/cmn_0007   0   6               内容    NN         (NP*)))))  -    -   -    _健康快乐_  *      *      *        *)  -
+wb/cmn/00/cmn_0007   0   7    www．120zy．com   URL     (FRAG(NP*))))  -    -   -    _健康快乐_  *      *      *        *   -
+
+#end document

@@ -1,0 +1,128 @@
+#begin document (bn/cnr/01/cnr_0112); part 000
+bn/cnr/01/cnr_0112   0    0      《   PU  (TOP(IP(NP(NP*   -    -   -   -         *    (ARGM-TPC*    -
+bn/cnr/01/cnr_0112   0    1     人民   NN               *   -    -   -   -     (ORG*             *    -
+bn/cnr/01/cnr_0112   0    2     日报   NN               *   -    -   -   -         *)            *    -
+bn/cnr/01/cnr_0112   0    3      》   PU               *)  -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0    4     消息   NN           (NP*))  -    -   -   -         *             *)   -
+bn/cnr/01/cnr_0112   0    5      ：   PU               *   -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0    6      中   NR      (NP(NP(NP*   -    -   -   -   (EVENT*        (ARG1*   (3
+bn/cnr/01/cnr_0112   0    7      日   NR               *)  -    -   -   -         *             *    3)
+bn/cnr/01/cnr_0112   0    8     友好   NN            (NP*)  -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0    9     ２１   OD         (NP(QP*)  -    -   -   -         *             *   (0
+bn/cnr/01/cnr_0112   0   10     世纪   NN           (NP*))  -    -   -   -         *             *    0)
+bn/cnr/01/cnr_0112   0   11    委员会   NN           (NP*))  -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0   12    第１４   OD            (QP*   -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0   13      次    M          (CLP*))  -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0   14     会议   NN           (NP*))  -    -   -   -         *)            *)   -
+bn/cnr/01/cnr_0112   0   15      ，   PU               *   -    -   -   -         *             *    -
+bn/cnr/01/cnr_0112   0   16     昨天   NT         (VP(NP*)  -    -   -   -     (DATE)   (ARGM-TMP*)   -
+bn/cnr/01/cnr_0112   0   17      在    P            (PP*   -    -   2   -         *    (ARGM-LOC*    -
+bn/cnr/01/cnr_0112   0   18    海南省   NR            (NP*   -    -   -   -      (GPE)            *    -
+bn/cnr/01/cnr_0112   0   19    琼海市   NR              *))  -    -   -   -      (GPE)            *)   -
+bn/cnr/01/cnr_0112   0   20     举行   VV           (VP*))  -   01   -   -         *           (V*)   -
+bn/cnr/01/cnr_0112   0   21      。   PU              *))  -    -   -   -         *             *    -
+
+bn/cnr/01/cnr_0112   0    0    国务院   NN  (TOP(IP(NP(NP(NP*   -   -   -   -       (ORG)  (1
+bn/cnr/01/cnr_0112   0    1     总理   NN                  *)  -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0    2    朱容基   NR              (NP*))  -   -   -   -    (PERSON)   1)
+bn/cnr/01/cnr_0112   0    3      和   CC                  *   -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0    4     日本   NR         (NP(NP(NP*)  -   -   -   -       (GPE)   -
+bn/cnr/01/cnr_0112   0    5     首相   NN              (NP*))  -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0    6    森喜朗   NR             (NP*)))  -   -   -   -    (PERSON)   -
+bn/cnr/01/cnr_0112   0    7     分别   AD          (VP(ADVP*)  -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0    8     发去   VV               (VP*   -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0    9     贺辞   NN               (NP*   -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0   10      和   CC                  *   -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0   11     贺电   NN                *)))  -   -   -   -          *    -
+bn/cnr/01/cnr_0112   0   12      。   PU                 *))  -   -   -   -          *    -
+
+bn/cnr/01/cnr_0112   0    0      朱    NR      (TOP(IP(NP*   -    -   -   -    (GPE)      (ARG0*             *        *             *         *   (1
+bn/cnr/01/cnr_0112   0    1     总理    NN                *)  -    -   -   -       *            *)            *        *             *         *    1)
+bn/cnr/01/cnr_0112   0    2      在     P          (VP(PP*   -    -   2   -       *   (ARGM-LOC*             *        *             *         *    -
+bn/cnr/01/cnr_0112   0    3     贺辞    NN         (LCP(NP*)  -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0    4      中    LC               *))  -    -   -   -       *            *)            *        *             *         *    -
+bn/cnr/01/cnr_0112   0    5     表示    VV             (VP*   -   01   2   -       *          (V*)            *        *             *         *    -
+bn/cnr/01/cnr_0112   0    6      ：    PU                *   -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0    7     世纪    NN   (IP(NP(DNP(NP*)  -    -   -   -       *       (ARG1*    (ARGM-TMP*        *    (ARGM-TMP*         *    -
+bn/cnr/01/cnr_0112   0    8      之   DEG                *)  -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0    9      交    NN            (NP*))  -    -   3   -       *            *             *)       *             *)        *    -
+bn/cnr/01/cnr_0112   0   10      ，    PU                *   -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0   11      中    NR          (NP(NP*   -    -   -   -    (GPE)           *        (ARG0*        *        (ARG0*         *   (3
+bn/cnr/01/cnr_0112   0   12      日    NR                *)  -    -   -   -    (GPE)           *             *        *             *         *    3)
+bn/cnr/01/cnr_0112   0   13     关系    NN            (NP*))  -    -   2   -       *            *             *)       *             *)        *    -
+bn/cnr/01/cnr_0112   0   14      既    AD     (VP(VP(ADVP*)  -    -   -   -       *            *    (ARGM-DIS*)       *             *         *    -
+bn/cnr/01/cnr_0112   0   15     迎来    VV             (VP*   -   01   -   -       *            *           (V*)       *             *         *    -
+bn/cnr/01/cnr_0112   0   16    一系列    CD          (NP(QP*)  -    -   -   -       *            *        (ARG1*        *             *         *    -
+bn/cnr/01/cnr_0112   0   17      新    VA   (CP(CP(IP(VP*))  -   01   -   -       *            *             *      (V*)            *         *    -
+bn/cnr/01/cnr_0112   0   18      的   DEC               *))  -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0   19     发展    NN             (NP*   -    -   1   -       *            *             *   (ARG0*             *         *    -
+bn/cnr/01/cnr_0112   0   20     机遇    NN             *))))  -    -   -   -       *            *             *)       *)            *         *    -
+bn/cnr/01/cnr_0112   0   21      ，    PU                *   -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0   22      也    AD        (VP(ADVP*)  -    -   -   -       *            *             *        *    (ARGM-ADV*)        *    -
+bn/cnr/01/cnr_0112   0   23     面临    VV             (VP*   -   01   -   -       *            *             *        *           (V*)        *    -
+bn/cnr/01/cnr_0112   0   24      着    AS                *   -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0   25     不少    CD          (NP(QP*)  -    -   -   -       *            *             *        *        (ARG1*         *    -
+bn/cnr/01/cnr_0112   0   26      新    VA   (CP(CP(IP(VP*))  -   01   -   -       *            *             *        *             *       (V*)   -
+bn/cnr/01/cnr_0112   0   27      的   DEC               *))  -    -   -   -       *            *             *        *             *         *    -
+bn/cnr/01/cnr_0112   0   28     课题    NN      (NP*))))))))  -    -   -   -       *            *)            *        *             *)   (ARG0*)   -
+bn/cnr/01/cnr_0112   0   29      。    PU               *))  -    -   -   -       *            *             *        *             *         *    -
+
+bn/cnr/01/cnr_0112   0    0     他    PN           (TOP(IP(NP*)  -    -   -   -        *    (ARG0*)     *      *            *      *      *            *         *         *    (1)
+bn/cnr/01/cnr_0112   0    1    希望    VV                  (VP*   -   02   1   -        *       (V*)     *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0    2    双方    PN               (IP(NP*   -    -   -   -        *    (ARG1*      *      *       (ARG0*      *      *       (ARG0*         *         *    (2
+bn/cnr/01/cnr_0112   0    3    委员    NN                     *)  -    -   -   -        *         *      *      *            *)     *      *            *)        *         *     2)
+bn/cnr/01/cnr_0112   0    4    坦诚    VA    (VP(VP(DVP(VP(VCD*   -   01   -   -        *         *    (V*)     *   (ARGM-ADV*      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0    5    深入    VA                    *))  -   01   -   -        *         *      *    (V*)           *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0    6     的   DEV                     *)  -    -   -   -        *         *      *      *            *)     *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0    7    交换    VV                  (VP*   -   01   -   -        *         *      *      *          (V*)     *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0    8    意见    NN                (NP*)))  -    -   -   -        *         *      *      *       (ARG1*)     *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0    9     ，    PU                     *   -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0   10     为     P               (VP(PP*   -    -   5   -        *         *      *      *            *      *      *   (ARGM-PRP*         *         *     -
+bn/cnr/01/cnr_0112   0   11    充实    VV            (IP(VP(VP*)  -   01   -   -        *         *      *      *            *    (V*)     *            *         *         *     -
+bn/cnr/01/cnr_0112   0   12     和    CC                     *   -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0   13    发展    VV                  (VP*   -   01   1   -        *         *      *      *            *      *    (V*)           *         *         *     -
+bn/cnr/01/cnr_0112   0   14    ２１    OD        (NP(DNP(NP(QP*)  -    -   -   -   (DATE*         *      *      *            *      *      *            *         *         *    (0
+bn/cnr/01/cnr_0112   0   15    世纪    NN                 (NP*))  -    -   -   -        *)        *      *      *            *      *      *            *         *         *     0)
+bn/cnr/01/cnr_0112   0   16     的   DEG                     *)  -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0   17     中    NR                  (NP*   -    -   -   -     (GPE)        *      *      *            *      *      *            *         *         *    (3
+bn/cnr/01/cnr_0112   0   18     日    NR                     *)  -    -   -   -     (GPE)        *      *      *            *      *      *            *         *         *     3)
+bn/cnr/01/cnr_0112   0   19    友好    JJ                (ADJP*)  -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0   20    合作    NN                  (NP*   -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0   21    关系    NN                *))))))  -    -   2   -        *         *      *      *            *      *      *            *)        *         *     -
+bn/cnr/01/cnr_0112   0   22    提出    VV                  (VP*   -   01   -   -        *         *      *      *            *      *      *          (V*)        *         *     -
+bn/cnr/01/cnr_0112   0   23    积极    VA  (NP(CP(CP(IP(VP(VCD*   -   01   -   -        *         *      *      *            *      *      *       (ARG1*       (V*)        *     -
+bn/cnr/01/cnr_0112   0   24    有益    VA                   *)))  -   01   -   -        *         *      *      *            *      *      *            *         *       (V*)    -
+bn/cnr/01/cnr_0112   0   25     的   DEC                    *))  -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+bn/cnr/01/cnr_0112   0   26    建议    NN            (NP*)))))))  -    -   -   -        *         *)     *      *            *      *      *            *)   (ARG0*)   (ARG0*)    -
+bn/cnr/01/cnr_0112   0   27     。    PU                    *))  -    -   -   -        *         *      *      *            *      *      *            *         *         *     -
+
+bn/cnr/01/cnr_0112   0    0       森    NR         (TOP(IP(NP*   -    -   -   -    (PERSON)      (ARG0*        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    1      首相    NN                   *)  -    -   -   -          *            *)       *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    2       在     P             (VP(PP*   -    -   2   -          *   (ARGM-LOC*        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    3      贺电    NN            (LCP(NP*)  -    -   -   -          *            *        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    4       中    LC                  *))  -    -   -   -          *            *)       *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    5      表示    VV                (VP*   -   01   2   -          *          (V*)       *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    6       ：    PU                   *   -    -   -   -          *            *        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0    7      期待    VV             (IP(VP*   -   01   -   -          *       (ARG1*      (V*)            *             *        *         *    -
+bn/cnr/01/cnr_0112   0    8      双方    PN             (IP(NP*   -    -   -   -          *            *   (ARG1*        (ARG0*             *   (ARG0*         *   (2
+bn/cnr/01/cnr_0112   0    9      委员    NN                   *)  -    -   -   -          *            *        *             *)            *        *)        *    2)
+bn/cnr/01/cnr_0112   0   10      充分    AD        (VP(VP(ADVP*)  -    -   -   -          *            *        *    (ARGM-ADV*)            *        *         *    -
+bn/cnr/01/cnr_0112   0   11      发挥    VV                (VP*   -   01   2   -          *            *        *           (V*)            *        *         *    -
+bn/cnr/01/cnr_0112   0   12    聪明才智    NN              (NP*)))  -    -   -   -          *            *        *        (ARG1*)            *        *         *    -
+bn/cnr/01/cnr_0112   0   13       ，    PU                   *   -    -   -   -          *            *        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0   14       就     P             (VP(PP*   -    -   1   -          *            *        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0   15      如何    AD        (IP(VP(ADVP*)  -    -   -   -          *            *        *             *    (ARGM-ADV*)       *         *    -
+bn/cnr/01/cnr_0112   0   16      发展    VV                (VP*   -   01   1   -          *            *        *             *           (V*)       *         *    -
+bn/cnr/01/cnr_0112   0   17      ２１    OD      (NP(DNP(NP(QP*)  -    -   -   -     (DATE*            *        *             *        (ARG1*        *         *   (0
+bn/cnr/01/cnr_0112   0   18      世纪    NN               (NP*))  -    -   -   -          *)           *        *             *             *        *         *    0)
+bn/cnr/01/cnr_0112   0   19       的   DEG                   *)  -    -   -   -          *            *        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0   20       中    NR                (NP*   -    -   -   -       (GPE)           *        *             *             *        *         *   (3
+bn/cnr/01/cnr_0112   0   21       日    NR                   *)  -    -   -   -       (GPE)           *        *             *             *        *         *    3)
+bn/cnr/01/cnr_0112   0   22      关系    NN           (NP*))))))  -    -   2   -          *            *        *             *             *)       *         *    -
+bn/cnr/01/cnr_0112   0   23      进行    VV                (VP*   -   01   3   -          *            *        *             *             *      (V*)        *    -
+bn/cnr/01/cnr_0112   0   24      坦诚    VA   (NP(CP(CP(IP(VP*))  -   01   -   -          *            *        *             *             *   (ARG1*       (V*)   -
+bn/cnr/01/cnr_0112   0   25       的   DEC                  *))  -    -   -   -          *            *        *             *             *        *         *    -
+bn/cnr/01/cnr_0112   0   26      对话    NN       (NP*))))))))))  -    -   -   -          *            *)       *)            *             *        *)   (ARG0*)   -
+bn/cnr/01/cnr_0112   0   27       。    PU                  *))  -    -   -   -          *            *        *             *             *        *         *    -
+
+#end document

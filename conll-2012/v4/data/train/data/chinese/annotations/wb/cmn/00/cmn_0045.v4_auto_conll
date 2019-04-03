@@ -1,0 +1,79 @@
+#begin document (wb/cmn/00/cmn_0045); part 000
+wb/cmn/00/cmn_0045   0   0      早上   NT   (TOP(IP(NP*)  -   -   -   -   *   -
+wb/cmn/00/cmn_0045   0   1       不   AD     (VP(ADVP*)  -   -   -   -   *   -
+wb/cmn/00/cmn_0045   0   2       用   VV          (VP*   -   -   2   -   *   -
+wb/cmn/00/cmn_0045   0   3    soap   NN      (NP*)))))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0045   0   0    MichaelZhou   NR   (TOP(NP*))  -   -   -   -   *    (1)
+
+wb/cmn/00/cmn_0045   0    0      每    DT  (TOP(IP(IP(NP(DP*    -   -   -    _Michael_Zhou_  *   (ARGM-TMP*             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0    1      天     M             (CLP*))   -   -   -    _Michael_Zhou_  *            *             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0    2     早上    NT              (NP*))   -   -   -    _Michael_Zhou_  *            *)            *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0    3      给     P            (VP(PP*    -   -   -    _Michael_Zhou_  *   (ARGM-BNF*             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0    4     丫丫    NN              (NP*))   -   -   -    _Michael_Zhou_  *            *)            *        *      *             *             *    (0)
+wb/cmn/00/cmn_0045   0    5     洗脸    VV               (VP*    洗脸  -   -    _Michael_Zhou_  *          (V*)            *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0    6      （    PU              (PRN*    -   -   -    _Michael_Zhou_  *   (ARGM-ADV*             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0    7    尤其是    AD          (IP(ADVP*)   -   -   -    _Michael_Zhou_  *            *    (ARGM-ADV*)       *      *             *             *     -
+wb/cmn/00/cmn_0045   0    8     孩儿    VV               (VP*    孩儿  -   -    _Michael_Zhou_  *            *           (V*)       *      *             *             *    (0)
+wb/cmn/00/cmn_0045   0    9      她    PN      (NP(CP(IP(NP*    -   -   -    _Michael_Zhou_  *            *        (ARG1*   (ARG1*      *             *             *    (0)
+wb/cmn/00/cmn_0045   0   10      妈    NN                  *)   -   -   -    _Michael_Zhou_  *            *             *        *)     *             *             *     -
+wb/cmn/00/cmn_0045   0   11      洗    VV              (VP*))    洗  -   -    _Michael_Zhou_  *            *             *      (V*)     *             *             *     -
+wb/cmn/00/cmn_0045   0   12      的   DEC                  *)   -   -   -    _Michael_Zhou_  *            *             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0   13     时候    NN            (NP*))))   -   -   1    _Michael_Zhou_  *            *             *)       *      *             *             *     -
+wb/cmn/00/cmn_0045   0   14      ）    PU               *))))   -   -   -    _Michael_Zhou_  *            *)            *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0   15      ，    PU                  *    -   -   -    _Michael_Zhou_  *            *             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0   16     丫丫    NN            (IP(NP*)   -   -   -    _Michael_Zhou_  *            *             *        *      *        (ARG0*)       (ARG0*)   (0)
+wb/cmn/00/cmn_0045   0   17      都    AD       (VP(VP(ADVP*)   -   -   -    _Michael_Zhou_  *            *             *        *      *    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0045   0   18      要    VV               (VP*     要  -   3    _Michael_Zhou_  *            *             *        *    (V*)            *             *     -
+wb/cmn/00/cmn_0045   0   19     提醒    VV             (VP*)))   提醒  -   -    _Michael_Zhou_  *            *             *        *      *           (V*)            *     -
+wb/cmn/00/cmn_0045   0   20      ，    PU                  *    -   -   -    _Michael_Zhou_  *            *             *        *      *             *             *     -
+wb/cmn/00/cmn_0045   0   21     早上    NT            (VP(NP*)   -   -   -    _Michael_Zhou_  *            *             *        *      *             *    (ARGM-TMP*)    -
+wb/cmn/00/cmn_0045   0   22      不    AD             (ADVP*)   -   -   -    _Michael_Zhou_  *            *             *        *      *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0045   0   23      用    VV               (VP*     用  -   2    _Michael_Zhou_  *            *             *        *      *             *           (V*)    -
+wb/cmn/00/cmn_0045   0   24    洗脸液    NN           (NP*)))))   -   -   -    _Michael_Zhou_  *            *             *        *      *             *        (ARG1*)    -
+wb/cmn/00/cmn_0045   0   25      。    PU                 *))   -   -   -    _Michael_Zhou_  *            *             *        *      *             *             *     -
+
+wb/cmn/00/cmn_0045   0    0    小家伙    NN      (TOP(IP(IP(NP*)   -   -   -    _Michael_Zhou_  *        (ARG0*)            *        *         *      *        (ARG0*)     *      *         *        *             *    (0)
+wb/cmn/00/cmn_0045   0    1     一直    AD        (VP(VP(ADVP*)   -   -   -    _Michael_Zhou_  *    (ARGM-ADV*)            *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    2      都    AD              (ADVP*)   -   -   -    _Michael_Zhou_  *    (ARGM-ADV*)            *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    3     记得    VV                (VP*    记得  -   -    _Michael_Zhou_  *           (V*)            *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    4      我    PN             (IP(NP*)   -   -   -    _Michael_Zhou_  *        (ARG1*        (ARG0*)       *    (ARG0*)     *             *      *      *         *        *             *    (1)
+wb/cmn/00/cmn_0045   0    5    有一次    AD        (VP(VP(ADVP*)   -   -   -    _Michael_Zhou_  *             *    (ARGM-ADV*)       *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    6      讲    VV                (VP*     讲  -   2    _Michael_Zhou_  *             *           (V*)       *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    7     电视    NN         (IP(LCP(NP*)   -   -   1    _Michael_Zhou_  *             *        (ARG1*   (ARG0*         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    8      里    LC                   *)   -   -   -    _Michael_Zhou_  *             *             *        *)        *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0    9      有    VE                (VP*     有  -   3    _Michael_Zhou_  *             *             *      (V*)        *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   10      个     M        (NP(QP(CLP*))   -   -   -    _Michael_Zhou_  *             *             *   (ARG1*         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   11     节目    NN           (NP*))))))   -   -   1    _Michael_Zhou_  *             *             *)       *)        *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   12      ，    PU                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   13     记录    VV            (VP(VRD*    记录  -   -    _Michael_Zhou_  *             *             *        *       (V*)     *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   14      去    VV                   *)    去  -   1    _Michael_Zhou_  *             *             *        *         *    (V*)            *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   15     西藏    NR         (NP(DNP(NP*)   -   -   -    _Michael_Zhou_  *             *             *        *    (ARG3*      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   16      的   DEG                   *)   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   17      人    NN          (NP*)))))))   -   -   1    _Michael_Zhou_  *             *)            *        *         *)     *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   18      ，    PU                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   19     早上    NT             (VP(NP*)   -   -   -    _Michael_Zhou_  *             *             *        *         *      *    (ARGM-TMP*)     *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   20      不    AD              (ADVP*)   -   -   -    _Michael_Zhou_  *             *             *        *         *      *    (ARGM-ADV*)     *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   21     洗脸    VV             (VP*))))   洗脸  -   -    _Michael_Zhou_  *             *             *        *         *      *           (V*)     *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   22      ，    PU                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   23      为    VV   (IP(NP(CP(IP(VP*))    为  -   5    _Michael_Zhou_  *             *             *        *         *      *             *    (V*)     *    (ARG0*   (ARG0*        (ARG0*     -
+wb/cmn/00/cmn_0045   0   24      的   DEC                  *))   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *)       *)            *)    -
+wb/cmn/00/cmn_0045   0   25      是    VC                (VP*     是  -   1    _Michael_Zhou_  *             *             *        *         *      *             *      *    (V*)        *        *             *     -
+wb/cmn/00/cmn_0045   0   26     保留    VV             (VP(VP*    保留  -   1    _Michael_Zhou_  *             *             *        *         *      *             *      *      *       (V*)       *             *     -
+wb/cmn/00/cmn_0045   0   27     油脂    NN               (NP*))   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *    (ARG1*)       *             *     -
+wb/cmn/00/cmn_0045   0   28      ，    PU                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   29     对付    VV                (VP*    对付  -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *      (V*)            *     -
+wb/cmn/00/cmn_0045   0   30     强光    NN                (NP*    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *   (ARG1*             *     -
+wb/cmn/00/cmn_0045   0   31     照射    NN                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   32      和    CC                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   33    紫外线    NN                  *))   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *)            *     -
+wb/cmn/00/cmn_0045   0   34      ，    PU                   *    -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+wb/cmn/00/cmn_0045   0   35     晚上    NT             (VP(NP*)   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *    (ARGM-TMP*)    -
+wb/cmn/00/cmn_0045   0   36      才    AD              (ADVP*)   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0045   0   37      用     P                (PP*    -   -   1    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *    (ARGM-MNR*     -
+wb/cmn/00/cmn_0045   0   38     香皂    NN               (NP*))   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *)    -
+wb/cmn/00/cmn_0045   0   39     洗掉    VV                (VP*    洗掉  -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *           (V*)    -
+wb/cmn/00/cmn_0045   0   40     灰尘    NN           (NP*))))))   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *        (ARG1*)    -
+wb/cmn/00/cmn_0045   0   41      。    PU                  *))   -   -   -    _Michael_Zhou_  *             *             *        *         *      *             *      *      *         *        *             *     -
+
+#end document

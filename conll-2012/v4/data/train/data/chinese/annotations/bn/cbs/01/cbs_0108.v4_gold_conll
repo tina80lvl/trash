@@ -1,0 +1,224 @@
+#begin document (bn/cbs/01/cbs_0108); part 000
+bn/cbs/01/cbs_0108   0    0     接着   AD   (TOP(IP(ADVP*)  -    -   -   -        *    (ARGM-ADV*)  -
+bn/cbs/01/cbs_0108   0    1      为    P         (VP(PP*   -    -   4   -        *    (ARGM-BNF*   -
+bn/cbs/01/cbs_0108   0    2      您   PN           (NP*))  -    -   -   -        *             *)  -
+bn/cbs/01/cbs_0108   0    3     报道   VV            (VP*   -   01   -   -        *           (V*)  -
+bn/cbs/01/cbs_0108   0    4    １１月   NT         (NP(NP*   -    -   -   -   (DATE*        (ARG1*   -
+bn/cbs/01/cbs_0108   0    5    ２６号   NT               *)  -    -   -   -        *)            *   -
+bn/cbs/01/cbs_0108   0    6     世界   NN            (NP*   -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0    7     各地   NN               *)  -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0    8     主要   JJ       (NP(ADJP*)  -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0    9     报纸   NN           (NP*))  -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0   10      头   OD            (QP*   -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0   11      条    M          (CLP*))  -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0   12     新闻   NN            (NP*   -    -   -   -        *             *   -
+bn/cbs/01/cbs_0108   0   13     标题   NN            *))))  -    -   -   -        *             *)  -
+bn/cbs/01/cbs_0108   0   14      。   PU              *))  -    -   -   -        *             *   -
+
+bn/cbs/01/cbs_0108   0    0     美国   NR   (TOP(IP(NP(NP*)  -    -   -   -       (GPE)  (ARGM-DIS*    (0)
+bn/cbs/01/cbs_0108   0    1      《   PU             (NP*   -    -   -   -          *            *     -
+bn/cbs/01/cbs_0108   0    2    华盛顿   NR                *   -    -   -   -      (ORG*            *     -
+bn/cbs/01/cbs_0108   0    3     邮报   NN                *   -    -   -   -          *)           *     -
+bn/cbs/01/cbs_0108   0    4      》   PU               *))  -    -   -   -          *            *)    -
+bn/cbs/01/cbs_0108   0    5      ：   PU                *   -    -   -   -          *            *     -
+bn/cbs/01/cbs_0108   0    6     美国   NR       (NP(NP(NP*   -    -   -   -       (GPE)      (ARG0*    (3
+bn/cbs/01/cbs_0108   0    7    共和党   NR                *)  -    -   -   -       (ORG)           *     -
+bn/cbs/01/cbs_0108   0    8     总统   NN             (NP*   -    -   -   -          *            *     -
+bn/cbs/01/cbs_0108   0    9    候选人   NN               *))  -    -   -   -          *            *     -
+bn/cbs/01/cbs_0108   0   10      小   JJ           (ADJP*)  -    -   -   -   (PERSON*            *     -
+bn/cbs/01/cbs_0108   0   11     布什   NR            (NP*))  -    -   -   -          *)           *)    3)
+bn/cbs/01/cbs_0108   0   12     放弃   VV             (VP*   -   01   -   -          *          (V*)    -
+bn/cbs/01/cbs_0108   0   13     海外   NN             (NP*   -    -   -   -          *       (ARG1*     -
+bn/cbs/01/cbs_0108   0   14     军人   NN                *   -    -   -   -          *            *     -
+bn/cbs/01/cbs_0108   0   15     选票   NN                *   -    -   -   -          *            *     -
+bn/cbs/01/cbs_0108   0   16    诉讼案   NN               *))  -    -   -   -          *            *)    -
+bn/cbs/01/cbs_0108   0   17      。   PU               *))  -    -   -   -          *            *     -
+
+bn/cbs/01/cbs_0108   0    0     美国    NR          (TOP(IP(NP(NP*)  -    -   -   -       (GPE)  (ARGM-TPC*        *        *   (ARGM-TPC*            *    (0)
+bn/cbs/01/cbs_0108   0    1      《    PU                       *   -    -   -   -          *            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0    2    洛杉矶    NR                    (NP*   -    -   -   -      (ORG*            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0    3     时报    NN                       *)  -    -   -   -          *)           *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0    4      》    PU                       *)  -    -   -   -          *            *)       *        *            *)           *     -
+bn/cbs/01/cbs_0108   0    5      ：    PU                       *   -    -   -   -          *            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0    6     美国    NR                 (NP(NP*)  -    -   -   -       (GPE)      (ARG0*        *        *       (ARG0*            *    (0)
+bn/cbs/01/cbs_0108   0    7     联邦    NN                    (NP*)  -    -   -   -      (ORG*            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0    8     最高    JJ                  (ADJP*)  -    -   -   -          *            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0    9     法院    NN                   (NP*))  -    -   -   -          *)           *)       *        *            *)           *     -
+bn/cbs/01/cbs_0108   0   10     同意    VV                 (VP(VP*   -   02   1   -          *          (V*)       *        *            *            *     -
+bn/cbs/01/cbs_0108   0   11     受理    VV                 (IP(VP*   -   01   -   -          *       (ARG1*      (V*)       *            *            *     -
+bn/cbs/01/cbs_0108   0   12      小    JJ   (NP(CP(CP(IP(NP(ADJP*)  -    -   -   -   (PERSON*            *   (ARG1*   (ARG0*            *            *    (3
+bn/cbs/01/cbs_0108   0   13     布什    NR                   (NP*))  -    -   -   -          *)           *        *        *)           *            *     3)
+bn/cbs/01/cbs_0108   0   14     提出    VV                   (VP*))  -   01   -   -          *            *        *      (V*)           *            *     -
+bn/cbs/01/cbs_0108   0   15      的   DEC                      *))  -    -   -   -          *            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0   16     选票    NN                    (NP*   -    -   -   -          *            *        *   (ARG1*            *            *     -
+bn/cbs/01/cbs_0108   0   17    上诉案    NN                   *)))))  -    -   -   -          *            *)       *)       *)           *            *     -
+bn/cbs/01/cbs_0108   0   18      ，    PU                       *   -    -   -   -          *            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0   19     决定    VV                    (VP*   -   01   -   -          *            *        *        *          (V*)           *     -
+bn/cbs/01/cbs_0108   0   20    １２月    NT              (IP(VP(NP*   -    -   -   -     (DATE*            *        *        *       (ARG1*   (ARGM-TMP*     -
+bn/cbs/01/cbs_0108   0   21     １号    NT                       *)  -    -   -   -          *)           *        *        *            *            *)    -
+bn/cbs/01/cbs_0108   0   22     举行    VV                    (VP*   -   01   -   -          *            *        *        *            *          (V*)    -
+bn/cbs/01/cbs_0108   0   23     选票    NN                    (NP*   -    -   -   -          *            *        *        *            *       (ARG1*     -
+bn/cbs/01/cbs_0108   0   24     争议    NN                       *   -    -   -   -          *            *        *        *            *            *     -
+bn/cbs/01/cbs_0108   0   25    听证会    NN                  *))))))  -    -   -   -          *            *        *        *            *)           *)    -
+bn/cbs/01/cbs_0108   0   26      。    PU                      *))  -    -   -   -          *            *        *        *            *            *     -
+
+bn/cbs/01/cbs_0108   0    0     日本    NR    (TOP(IP(IP(NP(NP*)  -    -   -   -      (GPE)           *        *        *   -
+bn/cbs/01/cbs_0108   0    1      《    PU                 (NP*   -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0    2     独卖    JJ               (ADJP*)  -    -   -   -     (ORG*            *        *        *   -
+bn/cbs/01/cbs_0108   0    3     新闻    NN                (NP*))  -    -   -   -         *)           *        *        *   -
+bn/cbs/01/cbs_0108   0    4      》    PU                    *)  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0    5      ：    PU                    *   -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0    6     荷兰    NR  (NP(CP(CP(IP(VP(NP*   -    -   -   -      (GPE)  (ARGM-LOC*        *   (ARG0*   -
+bn/cbs/01/cbs_0108   0    7     海牙    NR                    *)  -    -   -   -      (GPE)           *)       *        *   -
+bn/cbs/01/cbs_0108   0    8     召开    VV               (VP*)))  -   01   -   -         *          (V*)       *        *   -
+bn/cbs/01/cbs_0108   0    9      的   DEC                   *))  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   10     防止    VV           (NP(IP(VP*   -   01   -   -   (EVENT*            *      (V*)       *   -
+bn/cbs/01/cbs_0108   0   11     地球    NN                 (NP*   -    -   -   -         *            *   (ARG1*        *   -
+bn/cbs/01/cbs_0108   0   12     暖化    NN                  *)))  -    -   -   -         *            *        *)       *   -
+bn/cbs/01/cbs_0108   0   13     公约    NN                (NP*))  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   14     第６    OD                 (QP*   -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   15      届     M               (CLP*))  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   16     会议    NN                (NP*))  -    -   -   -         *)      (ARG1*)       *        *)  -
+bn/cbs/01/cbs_0108   0   17     破裂    VV                (VP*))  -   01   -   -         *            *        *      (V*)  -
+bn/cbs/01/cbs_0108   0   18      ，    PU                    *   -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   19    与会国    NN              (IP(NP*)  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   20     没有    AD            (VP(ADVP*)  -    -   2   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   21     能够    VV                 (VP*   -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   22     答成    VV                 (VP*   -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   23     任何    DT              (NP(DP*)  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   24     协议    NN            (NP*))))))  -    -   -   -         *            *        *        *   -
+bn/cbs/01/cbs_0108   0   25      。    PU                   *))  -    -   -   -         *            *        *        *   -
+
+bn/cbs/01/cbs_0108   0    0    新加坡   NR   (TOP(IP(IP(NP(NP*)  -    -   -   -        (GPE)  (ARGM-DIS*             *             *             *    (4)
+bn/cbs/01/cbs_0108   0    1      《   PU                (NP*   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0    2     海峡   NN                   *   -    -   -   -       (ORG*            *             *             *             *     -
+bn/cbs/01/cbs_0108   0    3     时报   NN                   *)  -    -   -   -           *)           *             *             *             *     -
+bn/cbs/01/cbs_0108   0    4      》   PU                   *)  -    -   -   -           *            *)            *             *             *     -
+bn/cbs/01/cbs_0108   0    5      ：   PU                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0    6    东南亚   NR                (NP*   -    -   -   -        (LOC)      (ARG0*             *             *             *     -
+bn/cbs/01/cbs_0108   0    7     国家   NN                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0    8     协会   NN                   *)  -    -   -   -           *            *)            *             *             *     -
+bn/cbs/01/cbs_0108   0    9     推动   VV                (VP*   -   02   3   -           *          (V*)            *             *             *     -
+bn/cbs/01/cbs_0108   0   10    一连串   CD             (NP(QP*)  -    -   -   -           *       (ARG1*             *             *             *     -
+bn/cbs/01/cbs_0108   0   11     行动   NN                (NP*   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0   12     计划   NN                *))))  -    -   -   -           *            *)            *             *             *     -
+bn/cbs/01/cbs_0108   0   13      ，   PU                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0   14    新加坡   NR             (IP(NP*)  -    -   -   -        (LOC)           *        (ARG0*)       (ARG0*)       (ARG0*)   (4)
+bn/cbs/01/cbs_0108   0   15     首先   AD        (VP(VP(ADVP*)  -    -   -   -    (ORDINAL)           *    (ARGM-ADV*)            *             *     -
+bn/cbs/01/cbs_0108   0   16     推动   VV                (VP*   -   02   3   -           *            *           (V*)            *             *     -
+bn/cbs/01/cbs_0108   0   17    一体化   NN                (NP*   -    -   -   -           *            *        (ARG1*             *             *     -
+bn/cbs/01/cbs_0108   0   18     计划   NN                 *)))  -    -   -   -           *            *             *)            *             *     -
+bn/cbs/01/cbs_0108   0   19      ，   PU                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0   20      将   AD           (VP(ADVP*)  -    -   -   -           *            *             *    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cbs/01/cbs_0108   0   21     提供   VV             (VP(VP*   -   01   -   -           *            *             *           (V*)            *     -
+bn/cbs/01/cbs_0108   0   22     技术   NN               (NP*))  -    -   -   -           *            *             *        (ARG1*)            *     -
+bn/cbs/01/cbs_0108   0   23     援助   VV                (VP*   -   01   -   -           *            *             *             *           (V*)    -
+bn/cbs/01/cbs_0108   0   24    柬甫寨   NR                (NP*   -    -   -   -        (GPE)           *             *             *        (ARG1*     -
+bn/cbs/01/cbs_0108   0   25      、   PU                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0   26     辽国   NR                   *   -    -   -   -        (GPE)           *             *             *             *     -
+bn/cbs/01/cbs_0108   0   27      、   PU                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0   28     缅甸   NR                   *   -    -   -   -        (GPE)           *             *             *             *     -
+bn/cbs/01/cbs_0108   0   29      和   CC                   *   -    -   -   -           *            *             *             *             *     -
+bn/cbs/01/cbs_0108   0   30     越南   NR              *))))))  -    -   -   -        (GPE)           *             *             *             *)    -
+bn/cbs/01/cbs_0108   0   31      。   PU                  *))  -    -   -   -           *            *             *             *             *     -
+
+bn/cbs/01/cbs_0108   0    0     泰国   NR   (TOP(IP(IP(NP(NP*)  -    -   -   -       (GPE)   (ARGM-TPC*         *        *    (1)
+bn/cbs/01/cbs_0108   0    1      《   PU                (NP*   -    -   -   -          *             *         *        *     -
+bn/cbs/01/cbs_0108   0    2     曼谷   NR                   *   -    -   -   -      (ORG*             *         *        *     -
+bn/cbs/01/cbs_0108   0    3     新报   NN                   *)  -    -   -   -          *)            *         *        *     -
+bn/cbs/01/cbs_0108   0    4      》   PU                   *)  -    -   -   -          *             *)        *        *     -
+bn/cbs/01/cbs_0108   0    5      ：   PU                   *   -    -   -   -          *             *         *        *     -
+bn/cbs/01/cbs_0108   0    6     泰国   NR             (NP(NP*)  -    -   -   -       (GPE)       (ARG0*         *        *    (1)
+bn/cbs/01/cbs_0108   0    7     南部   NN                (NP*)  -    -   -   -          *             *         *        *     -
+bn/cbs/01/cbs_0108   0    8     水患   NN               (NP*))  -    -   -   -          *             *)        *        *     -
+bn/cbs/01/cbs_0108   0    9      渐   AD           (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)        *        *     -
+bn/cbs/01/cbs_0108   0   10      趋   VV                (VP*   -   01   -   -          *           (V*)        *        *     -
+bn/cbs/01/cbs_0108   0   11     缓和   NN             (NP*))))  -    -   -   -          *        (ARG1*)        *        *     -
+bn/cbs/01/cbs_0108   0   12      ，   PU                   *   -    -   -   -          *             *         *        *     -
+bn/cbs/01/cbs_0108   0   13     总理   NN          (IP(NP(NP*)  -    -   -   -          *             *    (ARG0*   (ARG0*     -
+bn/cbs/01/cbs_0108   0   14    川力佩   NR               (NP*))  -    -   -   -    (PERSON)            *         *)       *)    -
+bn/cbs/01/cbs_0108   0   15     前往   VV             (VP(VP*   -   01   -   -          *             *       (V*)       *     -
+bn/cbs/01/cbs_0108   0   16     灾区   NN               (NP*))  -    -   -   -          *             *    (ARG1*)       *     -
+bn/cbs/01/cbs_0108   0   17     视察   VV              (VP*)))  -   01   -   -          *             *         *      (V*)    -
+bn/cbs/01/cbs_0108   0   18      。   PU                  *))  -    -   -   -          *             *         *        *     -
+
+bn/cbs/01/cbs_0108   0    0     泰国    NR      (TOP(IP(NP(NP*)  -    -   -   -         (GPE)  (ARGM-DIS*    (1)
+bn/cbs/01/cbs_0108   0    1      《    PU                (NP*   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0    2     亚洲    NR                   *   -    -   -   -        (ORG*            *     -
+bn/cbs/01/cbs_0108   0    3     日报    NN                   *)  -    -   -   -            *)           *     -
+bn/cbs/01/cbs_0108   0    4      》    PU                   *)  -    -   -   -            *            *)    -
+bn/cbs/01/cbs_0108   0    5      ：    PU                   *   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0    6     东协    NR   (NP(DNP(NP(NP(NP*)  -    -   -   -            *       (ARG0*     -
+bn/cbs/01/cbs_0108   0    7     １０    CD                (QP*)  -    -   -   -   (QUANTITY*            *     -
+bn/cbs/01/cbs_0108   0    8      国    NN               (NP*))  -    -   -   -            *)           *     -
+bn/cbs/01/cbs_0108   0    9     加上    CC                   *   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   10     中共    NR                (NP*   -    -   -   -         (ORG)           *     -
+bn/cbs/01/cbs_0108   0   11      、    PU                   *   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   12     日本    NR                   *   -    -   -   -         (GPE)           *     -
+bn/cbs/01/cbs_0108   0   13      和    CC                   *   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   14     南韩    NR                  *))  -    -   -   -         (GPE)           *     -
+bn/cbs/01/cbs_0108   0   15      的   DEG                   *)  -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   16    非正式    JJ              (ADJP*)  -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   17     领袖    NN                (NP*   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   18    高峰会    NN                  *))  -    -   -   -            *            *)    -
+bn/cbs/01/cbs_0108   0   19     达成    VV                (VP*   -   01   -   -            *          (V*)    -
+bn/cbs/01/cbs_0108   0   20     电子    NN                (NP*   -    -   -   -            *       (ARG1*     -
+bn/cbs/01/cbs_0108   0   21     框架    NN                   *   -    -   -   -            *            *     -
+bn/cbs/01/cbs_0108   0   22     协议    NN                  *))  -    -   -   -            *            *)    -
+bn/cbs/01/cbs_0108   0   23      。    PU                  *))  -    -   -   -            *            *     -
+
+bn/cbs/01/cbs_0108   0    0      香港    NR   (TOP(IP(NP(NP*)  -    -   -   -         (GPE)  (ARGM-DIS*   (ARGM-DIS*    (2)
+bn/cbs/01/cbs_0108   0    1       《    PU             (NP*   -    -   -   -            *            *            *     -
+bn/cbs/01/cbs_0108   0    2      苹果    NN                *   -    -   -   -        (ORG*            *            *     -
+bn/cbs/01/cbs_0108   0    3      日报    NN                *)  -    -   -   -            *)           *            *     -
+bn/cbs/01/cbs_0108   0    4       》    PU                *)  -    -   -   -            *            *)           *)    -
+bn/cbs/01/cbs_0108   0    5       ：    PU                *   -    -   -   -            *            *            *     -
+bn/cbs/01/cbs_0108   0    6      全球    NN          (NP(NP*)  -    -   -   -            *       (ARG0*       (ARG0*     -
+bn/cbs/01/cbs_0108   0    7    三分之一    CD         (DNP(QP*)  -    -   -   -    (CARDINAL)           *            *     -
+bn/cbs/01/cbs_0108   0    8       的   DEG                *)  -    -   -   -            *            *            *     -
+bn/cbs/01/cbs_0108   0    9      黑面    JJ           (ADJP*)  -    -   -   -            *            *            *     -
+bn/cbs/01/cbs_0108   0   10      皮鹭    NN            (NP*))  -    -   -   -            *            *)           *)    -
+bn/cbs/01/cbs_0108   0   11      飞到    VV          (VP(VP*   -   01   -   -            *          (V*)           *     -
+bn/cbs/01/cbs_0108   0   12      香港    NR            (NP*))  -    -   -   -         (GPE)      (ARG1*)           *    (2)
+bn/cbs/01/cbs_0108   0   13      过冬    VV            (VP*))  -   01   -   -            *            *          (V*)    -
+bn/cbs/01/cbs_0108   0   14       。    PU               *))  -    -   -   -            *            *            *     -
+
+bn/cbs/01/cbs_0108   0    0     香港    NR     (TOP(IP(NP(NP*)  -    -   -   -       (GPE)  (ARGM-TPC*      *    (2)
+bn/cbs/01/cbs_0108   0    1      《    PU               (NP*   -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0    2    公正报    NR                  *)  -    -   -   -       (ORG)           *      *     -
+bn/cbs/01/cbs_0108   0    3      》    PU                  *)  -    -   -   -          *            *)     *     -
+bn/cbs/01/cbs_0108   0    4      ：    PU                  *   -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0    5     中共    NR         (NP(NP(NP*)  -    -   -   -       (ORG)      (ARG0*      *     -
+bn/cbs/01/cbs_0108   0    6     总理    NN              (NP*))  -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0    7    朱容基    NR              (NP*))  -    -   -   -    (PERSON)           *)     *     -
+bn/cbs/01/cbs_0108   0    8     要求    VV               (VP*   -   03   1   -          *          (V*)     *     -
+bn/cbs/01/cbs_0108   0    9     远华    NR  (IP(NP(NP(DNP(NP*   -    -   -   -       (ORG)      (ARG1*      *     -
+bn/cbs/01/cbs_0108   0   10    走私案    NN                  *)  -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0   11      的   DEG                  *)  -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0   12     主谋    NN              (NP*))  -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0   13    赖昌星    NR              (NP*))  -    -   -   -    (PERSON)           *      *     -
+bn/cbs/01/cbs_0108   0   14     引渡    VV        (VP(VP(VRD*   -    -   -   -          *            *      *     -
+bn/cbs/01/cbs_0108   0   15      回    VV                  *)  -   01   3   -          *            *    (V*)    -
+bn/cbs/01/cbs_0108   0   16     大陆    NN              (NP*))  -    -   -   -       (GPE)           *      *     -
+bn/cbs/01/cbs_0108   0   17     受审    VV            (VP*))))  -    -   -   -          *            *)     *     -
+bn/cbs/01/cbs_0108   0   18      。    PU                 *))  -    -   -   -          *            *      *     -
+
+bn/cbs/01/cbs_0108   0    0    土耳基   NR   (TOP(IP(NP(NP*)  -   -    -   -        (GPE)  -
+bn/cbs/01/cbs_0108   0    1      《   PU             (NP*)  -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0    2      每   DT             (DP*   -   -    -   -       (ORG*   -
+bn/cbs/01/cbs_0108   0    3      日    M           (CLP*))  -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0    4    新闻报   NN             (NP*)  -   -    -   -           *)  -
+bn/cbs/01/cbs_0108   0    5      》   PU                *)  -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0    6      ：   PU                *   -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0    7    伊拉克   NR          (NP(NP*)  -   -    -   -        (GPE)  -
+bn/cbs/01/cbs_0108   0    8     班机   NN            (NP*))  -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0    9     ２０   CD      (VP(LCP(QP*   -   -    -   -       (DATE)  -
+bn/cbs/01/cbs_0108   0   10      年    M           (CLP*))  -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0   11      来   LC                *)  -   -   13   -           *   -
+bn/cbs/01/cbs_0108   0   12      首   OD             (QP*   -   -    -   -   (ORDINAL*   -
+bn/cbs/01/cbs_0108   0   13      次    M           (CLP*))  -   -    -   -           *)  -
+bn/cbs/01/cbs_0108   0   14     飞航   VV             (VP*   -   -    -   -           *   -
+bn/cbs/01/cbs_0108   0   15    叙利亚   NR           (NP*)))  -   -    -   -        (GPE)  -
+bn/cbs/01/cbs_0108   0   16      。   PU               *))  -   -    -   -           *   -
+
+#end document

@@ -1,0 +1,251 @@
+#begin document (bn/cbs/01/cbs_0102); part 000
+bn/cbs/01/cbs_0102   0    0      俄罗斯    NR   (TOP(IP(NP(CP(CP(IP(NP(NP(NP*)  -    -   -   -        (GPE)       (ARG0*   (ARG0*         *         *      *      *    (5|(6|(3)
+bn/cbs/01/cbs_0102   0    1       总统    NN                           (NP*))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    2       普京    NR                           (NP*))  -    -   -   -     (PERSON)            *)       *         *         *      *      *           5)
+bn/cbs/01/cbs_0102   0    3       今天    NT                         (VP(NP*)  -    -   -   -        (ORG)   (ARGM-TMP*)       *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    4        首    OD                            (QP*   -    -   -   -    (ORDINAL)   (ARGM-ADV*        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    5        次     M                          (CLP*))  -    -   -   -           *             *)       *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    6       举行    VV                          (VP*)))  -   01   -   -           *           (V*)       *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    7        的   DEC                              *))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    8       国务    NN                            (NP*   -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0    9       委员    NN                               *)  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   10       第一    OD                            (QP*   -    -   -   -    (ORDINAL)            *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   11        次     M                          (CLP*))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   12       会议    NN                           (NP*))  -    -   -   -           *        (ARG1*)       *)        *         *      *      *           6)
+bn/cbs/01/cbs_0102   0   13       决议    VV                            (VP*   -   01   -   -           *             *      (V*)        *         *      *      *           -
+bn/cbs/01/cbs_0102   0   14        ，    PU                               *   -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   15       对于     P                      (IP(IP(PP*   -    -   -   -           *             *   (ARG1*         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   16      俄罗斯    NR                      (NP(IP(NP*)  -    -   -   -        (GPE)            *        *    (ARG0*)        *      *      *          (3)
+bn/cbs/01/cbs_0102   0   17       变更    VV                            (VP*   -   01   -   -           *             *        *       (V*)        *      *      *           -
+bn/cbs/01/cbs_0102   0   18       国歌    NN                          (NP*)))  -    -   -   -           *             *        *    (ARG1*)        *      *      *          (2)
+bn/cbs/01/cbs_0102   0   19        案    NN                          (NP*)))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   20        由     P                         (VP(PP*   -    -   -   -           *             *        *         *    (ARG0*      *      *           -
+bn/cbs/01/cbs_0102   0   21     圣彼得堡    NR                      (NP(NP(NP*)  -    -   -   -        (GPE)            *        *         *         *      *      *          (4
+bn/cbs/01/cbs_0102   0   22       市长    NN                           (NP*))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   23    亚科夫列会    NR                          (NP*)))  -    -   -   -     (PERSON)            *        *         *         *)     *      *           4)
+bn/cbs/01/cbs_0102   0   24       担任    VV                         (VP(VP*   -   01   -   -           *             *        *         *       (V*)     *      *           -
+bn/cbs/01/cbs_0102   0   25      召集人    NN                        (NP*)))))  -    -   -   -           *             *        *         *    (ARG1*)     *      *           -
+bn/cbs/01/cbs_0102   0   26        ，    PU                               *   -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   27        在     P                         (IP(PP*   -    -   2   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   28       征选    VV                     (LCP(IP(VP*   -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   29       国歌    NN                          (NP*)))  -    -   -   -           *             *        *         *         *      *      *         (10)
+bn/cbs/01/cbs_0102   0   30       之后    LC                              *))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   31       根据     P                            (PP*   -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   32       民意    NN                           (NP*))  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   33        再    AD                       (VP(ADVP*)  -    -   -   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   34        送    VV                            (VP*   -    -   4   -           *             *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   35      下议院    NN                            (NP*)  -    -   -   -        (ORG)            *        *         *         *      *      *           -
+bn/cbs/01/cbs_0102   0   36       审议    VV                     (IP(VP(VCD*   -   01   -   -           *             *        *         *         *    (V*)     *           -
+bn/cbs/01/cbs_0102   0   37       通过    VV                        *))))))))  -   01   3   -           *             *        *)        *         *      *    (V*)          -
+bn/cbs/01/cbs_0102   0   38        。    PU                              *))  -    -   -   -           *             *        *         *         *      *      *           -
+
+bn/cbs/01/cbs_0102   0    0      而    AD        (TOP(IP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)            *          -
+bn/cbs/01/cbs_0102   0    1     情况    NN                 (NP*)  -    -   -   -       *        (ARG0*)            *          -
+bn/cbs/01/cbs_0102   0    2     显示    VV                 (VP*   -   01   1   -       *           (V*)            *          -
+bn/cbs/01/cbs_0102   0    3      ，    PU                    *   -    -   -   -       *             *             *          -
+bn/cbs/01/cbs_0102   0    4      前    JJ   (IP(NP(NP(NP(ADJP*)  -    -   -   -       *        (ARG1*        (ARG0*   (0|(8|(9
+bn/cbs/01/cbs_0102   0    5     苏联    NR                (NP*))  -    -   -   -    (GPE)            *             *          9)
+bn/cbs/01/cbs_0102   0    6     国歌    NN                (NP*))  -    -   -   -       *             *             *          8)
+bn/cbs/01/cbs_0102   0    7      和    CC                    *   -    -   -   -       *             *             *          -
+bn/cbs/01/cbs_0102   0    8     目前    NT          (NP(DNP(NP*)  -    -   -   -       *             *             *         (7)
+bn/cbs/01/cbs_0102   0    9      的   DEG                    *)  -    -   -   -       *             *             *          -
+bn/cbs/01/cbs_0102   0   10    俄罗斯    NR                 (NP*)  -    -   -   -    (GPE)            *             *         (3)
+bn/cbs/01/cbs_0102   0   11     国歌    NN               (NP*)))  -    -   -   -       *             *             *)         0)
+bn/cbs/01/cbs_0102   0   12     入选    NN                 (NP*   -    -   -   -       *             *        (ARG0*          -
+bn/cbs/01/cbs_0102   0   13     机率    NN                    *)  -    -   -   -       *             *             *)         -
+bn/cbs/01/cbs_0102   0   14      最    AD            (VP(ADVP*)  -    -   -   -       *             *    (ARGM-ADV*)         -
+bn/cbs/01/cbs_0102   0   15      大    VA              (VP*))))  -   01   -   -       *             *)          (V*)         -
+bn/cbs/01/cbs_0102   0   16      。    PU                   *))  -    -   -   -       *             *             *          -
+
+bn/cbs/01/cbs_0102   0    0        在     P              (TOP(IP(PP*   -    -    2   -           *         *        *   (ARGM-TMP*            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0    1       会议    NN              (LCP(IP(NP*)  -    -    -   -           *    (ARG1*)       *            *            *        *        *             *        *       (6)
+bn/cbs/01/cbs_0102   0    2       举行    VV                    (VP*))  -   01    -   -           *       (V*)       *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0    3       前夕    LC                       *))  -    -    -   -           *         *        *            *)           *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0    4        ，    PU                        *   -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0    5      俄罗斯    NR   (NP(NP(CP(CP(IP(NP(NP*)  -    -    -   -        (GPE)        *   (ARG0*       (ARG0*            *        *        *             *        *       (3)
+bn/cbs/01/cbs_0102   0    6        全    DT               (NP(NP(DP*)  -    -    2   -           *         *        *            *            *        *        *             *        *       (3
+bn/cbs/01/cbs_0102   0    7        俄    NR                    (NP*))  -    -    -   -        (GPE)        *        *            *            *        *        *             *        *        3)
+bn/cbs/01/cbs_0102   0    8       民意    NN                     (NP*   -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0    9       协会    NN                      *)))  -    -    -   -           *         *        *)           *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   10       进行    VV                    (VP*))  -   01    3   -           *         *      (V*)           *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   11        的   DEC                       *))  -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   12        一    CD                     (QP*   -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   13        项     M                   (CLP*))  -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   14       民意    NN                     (NP*   -    -    -   -           *         *   (ARG1*            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   15       调查    NN                       *))  -    -    -   -           *         *        *)           *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   16       结果    NN                    (NP*))  -    -    -   -           *         *        *            *)           *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   17       显示    VV                     (VP*   -   01    1   -           *         *        *          (V*)           *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   18        ：    PU                        *   -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   19        有    VE               (IP(VP(VP*   -   05    4   -           *         *        *       (ARG1*          (V*)       *        *             *        *        -
+bn/cbs/01/cbs_0102   0   20       将近    AD      (IP(NP(DNP(QP(ADVP*)  -    -    -   -           *         *        *            *   (ARGM-ADV*   (ARG0*        *             *        *        -
+bn/cbs/01/cbs_0102   0   21    ４９．９％    CD                    (QP*))  -    -    -   -    (PERCENT)        *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   22        的   DEG                        *)  -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   23        人    NN                    (NP*))  -    -    -   -           *         *        *            *            *        *)       *             *        *        -
+bn/cbs/01/cbs_0102   0   24       赞成    VV                     (VP*   -   01    -   -           *         *        *            *            *      (V*)       *             *        *        -
+bn/cbs/01/cbs_0102   0   25       恢复    VV                  (IP(VP*   -   02    3   -           *         *        *            *            *   (ARG1*      (V*)            *        *        -
+bn/cbs/01/cbs_0102   0   26        前    JJ             (NP(NP(ADJP*)  -    -    -   -           *         *        *            *            *        *   (ARG0*             *        *    (8|(9
+bn/cbs/01/cbs_0102   0   27       苏联    NR                    (NP*))  -    -    -   -        (GPE)        *        *            *            *        *        *             *        *        9)
+bn/cbs/01/cbs_0102   0   28       国歌    NN               (NP*)))))))  -    -    -   -           *         *        *            *            *)       *)       *)            *        *        8)
+bn/cbs/01/cbs_0102   0   29        ；    PU                        *   -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   30        只    AD                (VP(ADVP*)  -    -    -   -           *         *        *            *            *        *        *    (ARGM-ADV*)       *        -
+bn/cbs/01/cbs_0102   0   31        有    VE                     (VP*   -   05   10   -           *         *        *            *            *        *        *           (V*)       *        -
+bn/cbs/01/cbs_0102   0   32    １５．５％    CD           (IP(NP(DNP(QP*)  -    -    -   -    (PERCENT)        *        *            *            *        *        *    (ARGM-ADV*   (ARG0*        -
+bn/cbs/01/cbs_0102   0   33        的   DEG                        *)  -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   34        人    NN                    (NP*))  -    -    -   -           *         *        *            *            *        *        *             *        *)       -
+bn/cbs/01/cbs_0102   0   35       喜欢    VV                     (VP*   -   01    -   -           *         *        *            *            *        *        *             *      (V*)       -
+bn/cbs/01/cbs_0102   0   36       现在    NT              (NP(DNP(NP*)  -    -    -   -           *         *        *            *            *        *        *             *   (ARG1*    (2|(7)
+bn/cbs/01/cbs_0102   0   37        的   DEG                        *)  -    -    -   -           *         *        *            *            *        *        *             *        *        -
+bn/cbs/01/cbs_0102   0   38      俄罗斯    NR                     (NP*)  -    -    -   -        (GPE)        *        *            *            *        *        *             *        *       (3)
+bn/cbs/01/cbs_0102   0   39       国歌    NN             (NP*)))))))))  -    -    -   -           *         *        *            *)           *        *        *             *)       *)       2)
+bn/cbs/01/cbs_0102   0   40        。    PU                       *))  -    -    -   -           *         *        *            *            *        *        *             *        *        -
+
+bn/cbs/01/cbs_0102   0    0         而    AD        (TOP(IP(ADVP*)  -    -   -   -               *        *             *    (ARGM-DIS*)      -
+bn/cbs/01/cbs_0102   0    1         由     P  (NP(CP(CP(IP(VP(PP*   -    -   -   -               *   (ARG0*             *        (ARG0*      (1
+bn/cbs/01/cbs_0102   0    2       俄罗斯    NR           (NP(NP(NP*)  -    -   -   -            (GPE)       *             *             *      (3)
+bn/cbs/01/cbs_0102   0    3         最    AD      (DNP(ADJP(ADVP*)  -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0    4        资深    JJ              (ADJP*))  -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0    5         的   DEG                    *)  -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0    6        歌唱    NN                 (NP*   -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0    7        天后    NN                   *))  -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0    8    阿拉古佳乔娃    NR               (NP*)))  -    -   -   -            (GPE)       *)            *             *       -
+bn/cbs/01/cbs_0102   0    9        演唱    VV               (VP*)))  -   01   -   -               *      (V*)            *             *       -
+bn/cbs/01/cbs_0102   0   10         的   DEC                   *))  -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0   11         《    PU                 (NP*   -    -   -   -               *   (ARG1*             *             *      (1
+bn/cbs/01/cbs_0102   0   12         我    PN                 (NP*)  -    -   -   -   (WORK_OF_ART*        *             *             *       -
+bn/cbs/01/cbs_0102   0   13        辽阔    VA       (CP(CP(IP(VP*))  -   01   -   -               *        *           (V*)            *       -
+bn/cbs/01/cbs_0102   0   14         的   DEC                   *))  -    -   -   -               *        *             *             *       -
+bn/cbs/01/cbs_0102   0   15        祖国    NN                 (NP*)  -    -   -   -               *)       *             *             *      (3)
+bn/cbs/01/cbs_0102   0   16         》    PU                   *))  -    -   -   -               *        *)   (ARGM-ADV*)            *)   1)|1)
+bn/cbs/01/cbs_0102   0   17         则    AD            (VP(ADVP*)  -    -   -   -               *        *             *    (ARGM-DIS*)      -
+bn/cbs/01/cbs_0102   0   18         以     P                 (PP*   -    -   -   -               *        *             *    (ARGM-MNR*       -
+bn/cbs/01/cbs_0102   0   19       １５％    CD                (QP*))  -    -   -   -        (PERCENT)       *             *             *)      -
+bn/cbs/01/cbs_0102   0   20        名列    VV                 (VP*   -   01   -   -               *        *             *           (V*)      -
+bn/cbs/01/cbs_0102   0   21        第３    OD               (QP*)))  -    -   -   -        (ORDINAL)       *             *        (ARG1*)      -
+bn/cbs/01/cbs_0102   0   22         。    PU                   *))  -    -   -   -               *        *             *             *       -
+
+bn/cbs/01/cbs_0102   0    0       值得    VV  (TOP(IP(NP(CP(CP(IP(VP*   -   01    -   -               *       (V*)  (ARG0*             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    1       注意    NN                   (NP*)))  -    -    1   -               *    (ARG1*)       *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    2        的   DEC                      *)))  -    -    -   -               *         *        *)            *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    3        是    VC                     (VP*   -   01    1   -               *         *      (V*)            *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    4        ，    PU                        *   -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    5       根据     P               (IP(IP(PP*   -    -    -   -               *         *   (ARG1*             *        *      *    (ARGM-MNR*        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    6    亚科夫列夫    NR              (NP(DNP(NP*)  -    -    -   -         (PERSON)        *        *             *        *      *             *        *             *      *            *      *    (4)
+bn/cbs/01/cbs_0102   0    7        的   DEG                        *)  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    8       说法    NN                   (NP*)))  -    -    -   -               *         *        *             *        *      *             *)       *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0    9        ，    PU                        *   -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   10       即使    AD                (CP(ADVP*)  -    -    -   -               *         *        *    (ARGM-DIS*)       *      *    (ARGM-ADV*        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   11        是    VC                  (IP(VP*   -   01    2   -               *         *        *           (V*)       *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   12        这    DT               (IP(NP(DP*   -    -    -   -               *         *        *        (ARG1*   (ARG0*      *             *        *             *      *            *      *    (0
+bn/cbs/01/cbs_0102   0   13        两    CD                     (QP*   -    -    -   -       (CARDINAL)        *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   14        首     M                  (CLP*)))  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   15       国歌    NN                    (NP*))  -    -    -   -               *         *        *             *        *)     *             *        *             *      *            *      *     0)
+bn/cbs/01/cbs_0102   0   16       入选    VV                 (VP*)))))  -   01    -   -               *         *        *             *)     (V*)     *             *)       *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   17       歌词    NN                  (NP(NP*)  -    -    -   -               *         *        *             *        *      *        (ARG1*)       *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   18        都    AD                (VP(ADVP*)  -    -    -   -               *         *        *             *        *      *    (ARGM-ADV*)       *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   19       需要    VV                     (VP*   -   01    1   -               *         *        *             *        *    (V*)            *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   20        做    VV                     (VP*   -   01   11   -               *         *        *             *        *      *           (V*)       *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   21       一些    CD                  (NP(QP*)  -    -    -   -               *         *        *             *        *      *        (ARG1*        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   22       修改    NN               (NP*)))))))  -    -    3   -               *         *        *             *        *      *             *)       *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   23        ，    PU                        *   -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   24        使    VV                  (IP(VP*   -   01    -   -               *         *        *             *        *      *             *      (V*)            *      *            *      *     -
+bn/cbs/01/cbs_0102   0   25        《    PU           (NP(DNP(NP(NP*   -    -    -   -               *         *        *             *        *      *             *   (ARG1*             *      *            *      *    (1
+bn/cbs/01/cbs_0102   0   26        我    PN                     (NP*)  -    -    -   -   (WORK_OF_ART*         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   27       辽阔    VA           (CP(CP(IP(VP*))  -   01    -   -               *         *        *             *        *      *             *        *           (V*)     *            *      *     -
+bn/cbs/01/cbs_0102   0   28        的   DEC                       *))  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   29       祖国    NN                    (NP*))  -    -    -   -               *)        *        *             *        *      *             *        *    (ARGM-ADV*)     *            *      *     1)
+bn/cbs/01/cbs_0102   0   30        》    PU                        *   -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   31        这    DT                  (NP(DP*   -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   32        首     M                   (CLP*))  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   33        歌    NN                   (NP*)))  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   34        的   DEG                        *)  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+bn/cbs/01/cbs_0102   0   35       后势    NN                    (NP*))  -    -    -   -               *         *        *             *        *      *             *        *)            *      *            *      *     -
+bn/cbs/01/cbs_0102   0   36       相当    VA           (IP(VP(DVP(VP*)  -   01    -   -               *         *        *             *        *      *             *   (ARG2*             *    (V*)  (ARGM-ADV*      *     -
+bn/cbs/01/cbs_0102   0   37        的   DEV                        *)  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *)     *     -
+bn/cbs/01/cbs_0102   0   38        令    VV                     (VP*   -   01    1   -               *         *        *             *        *      *             *        *             *      *          (V*)     *     -
+bn/cbs/01/cbs_0102   0   39        人    NN                     (NP*)  -    -    -   -               *         *        *             *        *      *             *        *             *      *       (ARG1*)     *     -
+bn/cbs/01/cbs_0102   0   40       看好    VV          (IP(VP*)))))))))  -   02    -   -               *         *        *)            *        *      *             *        *)            *      *       (ARG2*)   (V*)    -
+bn/cbs/01/cbs_0102   0   41        。    PU                       *))  -    -    -   -               *         *        *             *        *      *             *        *             *      *            *      *     -
+
+bn/cbs/01/cbs_0102   0    0      俄国    NR   (TOP(IP(IP(NP(DNP(NP(NP*)  -    -   -   -       (GPE)  (ARG0*         *         *        *        *         *        *        *             *    (10|(3)
+bn/cbs/01/cbs_0102   0    1      国歌    NN                      (NP*))  -    -   -   -          *        *         *         *        *        *         *        *        *             *        10)
+bn/cbs/01/cbs_0102   0    2       的   DEG                          *)  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    3      争议    NN                      (NP*))  -    -   -   -          *        *)        *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    4      反映    VV                       (VP*   -   02   2   -          *      (V*)        *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    5      现代    JJ               (NP(NP(ADJP*)  -    -   -   -          *   (ARG1*         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    6    俄罗斯人    NN                      (NP*))  -    -   -   -      (NORP)       *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    7      强烈    VA              (CP(CP(IP(VP*   -   01   -   -          *        *       (V*)        *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    8       而    CC                          *   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0    9      复杂    VA                         *))  -   01   -   -          *        *         *       (V*)       *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   10       的   DEC                         *))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   11      心态    NN                    (NP*))))  -    -   -   -          *        *)   (ARG0*)   (ARG0*)       *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   12       ，    PU                          *   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   13      包括    VV                    (IP(VP*   -   01   -   -          *        *         *         *      (V*)       *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   14       对     P             (NP(NP(DNP(PP*   -    -   3   -          *        *         *         *   (ARG1*        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   15       前    JJ               (IP(NP(ADJP*)  -    -   -   -          *        *         *         *        *   (ARG0*         *        *        *             *        (9
+bn/cbs/01/cbs_0102   0   16      苏联    NR                      (NP*))  -    -   -   -       (GPE)       *         *         *        *        *)        *        *        *             *         9)
+bn/cbs/01/cbs_0102   0   17      解体    VV                    (VP*))))  -   01   -   -          *        *         *         *        *      (V*)        *        *        *             *         -
+bn/cbs/01/cbs_0102   0   18       的   DEC                          *   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   19      惋惜    NN                      (NP*))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   20       ，    PU                          *   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   21       对     P                (NP(DNP(PP*   -    -   3   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   22      过去    NT                       (NP*   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   23      生活    NN                         *))  -    -   1   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   24       的   DEG                          *)  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   25      怀念    NN                      (NP*))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   26       和    CC                          *   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   27       近    AD        (NP(DNP(NP(QP(ADVP*)  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   28      １０    CD                       (QP*   -    -   -   -     (DATE*        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   29       年     M                    (CLP*)))  -    -   -   -          *)       *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   30      经济    NN                       (NP*   -    -   2   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   31      改革    NN                         *))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   32       的   DEG                          *)  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   33      失望    NN                   (NP*)))))  -    -   -   -          *        *         *         *        *)       *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   34       ，    PU                          *   -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   35       对     P                    (IP(PP*   -    -   3   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   36      主张    VV           (NP(CP(CP(IP(VP*   -   01   -   -          *        *         *         *        *        *       (V*)       *        *             *        (5
+bn/cbs/01/cbs_0102   0   37      恢复    VV                    (IP(VP*   -   02   3   -          *        *         *         *        *        *    (ARG1*      (V*)       *             *         -
+bn/cbs/01/cbs_0102   0   38      强大    JJ                  (NP(ADJP*)  -    -   -   -          *        *         *         *        *        *         *   (ARG0*        *             *        (3
+bn/cbs/01/cbs_0102   0   39     俄罗斯    NR                  (NP*))))))  -    -   -   -       (GPE)       *         *         *        *        *         *)       *)       *             *         3)
+bn/cbs/01/cbs_0102   0   40       的   DEC                         *))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   41      普京    NR                     (NP*)))  -    -   -   -    (PERSON)       *         *         *        *        *    (ARG0*)       *        *             *         5)
+bn/cbs/01/cbs_0102   0   42       有    VE                       (VP*   -   01   5   -          *        *         *         *        *        *         *        *      (V*)            *         -
+bn/cbs/01/cbs_0102   0   43       很    AD      (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -          *        *         *         *        *        *         *        *   (ARG1*    (ARGM-ADV*)        -
+bn/cbs/01/cbs_0102   0   44       大    VA                     (VP*)))  -   01   -   -          *        *         *         *        *        *         *        *        *           (V*)        -
+bn/cbs/01/cbs_0102   0   45       的   DEC                         *))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+bn/cbs/01/cbs_0102   0   46      期待    NN                    (NP*))))  -    -   -   -          *        *         *         *        *        *         *        *        *)       (ARG0*)        -
+bn/cbs/01/cbs_0102   0   47       。    PU                         *))  -    -   -   -          *        *         *         *        *        *         *        *        *             *         -
+
+bn/cbs/01/cbs_0102   0    0     这此    AD   (TOP(IP(LCP(IP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)  (ARGM-LOC*        *        *        -
+bn/cbs/01/cbs_0102   0    1    俄罗斯    NR            (LCP(NP(NP*)  -    -   -   -       (GPE)   (ARGM-LOC*        *    (ARGM-LOC*    (ARGM-LOC*    (ARGM-LOC*            *        *        *    (6|(3)
+bn/cbs/01/cbs_0102   0    2     国务    NN                   (NP*   -    -   -   -          *             *        *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0    3     会议    NN                     *))  -    -   -   -          *             *        *             *             *             *            *        *        *        6)
+bn/cbs/01/cbs_0102   0    4     中顾    LC                      *)  -    -   -   -          *             *)       *             *)            *)            *)           *        *        *        -
+bn/cbs/01/cbs_0102   0    5      前    JJ           (NP(NP(ADJP*)  -    -   -   -          *        (ARG0*        *        (ARG0*        (ARG0*        (ARG0*            *        *        *        -
+bn/cbs/01/cbs_0102   0    6     总统    NN                  (NP*))  -    -   -   -          *             *        *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0    7    叶利钦    NR                  (NP*))  -    -   -   -    (PERSON)            *)       *             *)            *)            *)           *        *        *        -
+bn/cbs/01/cbs_0102   0    8     坚决    AD           (VP(VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0    9     反对    VV                   (VP*   -   01   -   -          *           (V*)       *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   10      前    JJ    (IP(NP(DNP(NP(ADJP*)  -    -   -   -          *        (ARG1*   (ARG0*             *             *             *            *        *        *       (9
+bn/cbs/01/cbs_0102   0   11     苏联    NR                  (NP*))  -    -   -   -       (GPE)            *        *             *             *             *            *        *        *        9)
+bn/cbs/01/cbs_0102   0   12      的   DEG                      *)  -    -   -   -          *             *        *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   13     象征    NN                  (NP*))  -    -   -   -          *             *        *)            *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   14     复活    VV                (VP*))))  -   01   -   -          *             *)     (V*)            *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   15      ，    PU                      *   -    -   -   -          *             *        *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   16      要    VV                   (VP*   -   05   1   -          *             *        *           (V*)            *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   17     广征    VV                (VP(VP*   -   01   -   -          *             *        *    (ARGM-ADV*           (V*)            *            *        *        *        -
+bn/cbs/01/cbs_0102   0   18     民意    NN                  (NP*))  -    -   -   -          *             *        *             *        (ARG1*)            *            *        *        *        -
+bn/cbs/01/cbs_0102   0   19     更改    VV                   (VP*   -   01   -   -          *             *        *             *             *           (V*)           *        *        *        -
+bn/cbs/01/cbs_0102   0   20     国歌    NN              (NP*))))))  -    -   -   -          *             *        *             *)            *        (ARG1*)           *        *        *       (2)
+bn/cbs/01/cbs_0102   0   21     背后    LC                      *)  -    -   -   -          *             *        *             *             *             *            *)       *        *        -
+bn/cbs/01/cbs_0102   0   22      有    VE                   (VP*   -   05   3   -          *             *        *             *             *             *          (V*)       *        *        -
+bn/cbs/01/cbs_0102   0   23      着    AS                      *   -    -   -   -          *             *        *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   24     普京    NR             (IP(NP(NP*)  -    -   -   -    (PERSON)            *        *             *             *             *   (ARGM-ADV*        *   (ARG1*       (5)
+bn/cbs/01/cbs_0102   0   25     恢复    VV             (CP(IP(VP*   -   02   3   -          *             *        *             *             *             *            *      (V*)       *        -
+bn/cbs/01/cbs_0102   0   26     强大    JJ              (NP(ADJP*)  -    -   -   -          *             *        *             *             *             *            *   (ARG0*        *       (3
+bn/cbs/01/cbs_0102   0   27    俄罗斯    NR                (NP*))))  -    -   -   -       (GPE)            *        *             *             *             *            *        *)       *        3)
+bn/cbs/01/cbs_0102   0   28      的   DEC                      *)  -    -   -   -          *             *        *             *             *             *            *        *        *        -
+bn/cbs/01/cbs_0102   0   29     意识    NN                  (NP*))  -    -   -   -          *             *        *             *             *             *            *        *        *)       -
+bn/cbs/01/cbs_0102   0   30     存在    VV                 (VP*)))  -   01   -   -          *             *        *             *             *             *            *)       *      (V*)       -
+bn/cbs/01/cbs_0102   0   31      。    PU                     *))  -    -   -   -          *             *        *             *             *             *            *        *        *        -
+
+#end document

@@ -1,0 +1,180 @@
+#begin document (bn/cts/00/cts_0077); part 000
+bn/cts/00/cts_0077   0    0      台东    NR   (TOP(IP(IP(NP*      -   -   -   -   *             *             *         *         *             *    (2
+bn/cts/00/cts_0077   0    1      医院    NN                *)     -   -   -   -   *             *             *         *         *             *     2)
+bn/cts/00/cts_0077   0    2      上午    NT          (VP(NP*)     -   -   1   -   *             *             *         *         *             *    (1)
+bn/cts/00/cts_0077   0    3      发生    VV             (VP*      -   -   1   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0    4       了    AS                *      -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0    5      火警    NN          (NP*))))     -   -   -   -   *             *             *         *         *             *    (3)
+bn/cts/00/cts_0077   0    6       ，    PU                *      -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0    7      虽然    CS     (IP(CP(ADVP*)     -   -   -   -   *    (ARGM-DIS*)   (ARGM-ADV*         *         *             *     -
+bn/cts/00/cts_0077   0    8      没有    AD     (IP(VP(ADVP*)     -   -   2   -   *    (ARGM-ADV*)            *         *         *             *     -
+bn/cts/00/cts_0077   0    9      造成    VV             (VP*      造成  -   -   -   *           (V*)            *         *         *             *     -
+bn/cts/00/cts_0077   0   10      严重    JJ    (NP(DNP(ADJP*)     -   -   1   -   *        (ARG1*             *         *         *             *     -
+bn/cts/00/cts_0077   0   11       的   DEG                *)     -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0   12      灾情    NN        (NP*))))))     -   -   -   -   *             *)            *)        *         *             *     -
+bn/cts/00/cts_0077   0   13       ，    PU                *      -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0   14      但是    AD           (ADVP*)     -   -   -   -   *             *    (ARGM-DIS*)        *         *             *     -
+bn/cts/00/cts_0077   0   15       人    NN             (NP*)     -   -   1   -   *             *        (ARG0*)   (ARG0*)        *             *    (0
+bn/cts/00/cts_0077   0   16      已经    AD        (VP(ADVP*)     -   -   -   -   *             *    (ARGM-ADV*)        *         *             *     -
+bn/cts/00/cts_0077   0   17       是    VC             (VP*       是  -   1   -   *             *           (V*)        *         *             *     -
+bn/cts/00/cts_0077   0   18       祸    NN   (IP(NP(DNP(NP*)     -   -   -   -   *             *        (ARG1*    (ARG0*         *             *     -
+bn/cts/00/cts_0077   0   19       的   DEG                *)     -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0   20      病患    NN            (NP*))     -   -   -   -   *             *             *         *)        *             *     0)
+bn/cts/00/cts_0077   0   21      碰上    VV             (VP*      碰上  -   -   -   *             *             *       (V*)        *             *     -
+bn/cts/00/cts_0077   0   22       了    AS                *      -   -   -   -   *             *             *    (ARG1*)   (ARG1*)            *     -
+bn/cts/00/cts_0077   0   23    突如其来    VV   (NP(CP(IP(VP*))   突如其来  -   -   -   *             *             *    (ARG1*       (V*)            *     -
+bn/cts/00/cts_0077   0   24       的   DEC                *)     -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0   25      大火    NN       (NP*)))))))     -   -   -   -   *             *             *)        *)        *             *     -
+bn/cts/00/cts_0077   0   26       ，    PU                *      -   -   -   -   *             *             *         *         *             *     -
+bn/cts/00/cts_0077   0   27      个个    PN          (IP(NP*)     -   -   -   -   *             *             *         *         *        (ARG0*)   (0)
+bn/cts/00/cts_0077   0   28      紧张    VA      (VP(DVP(VP*)     紧张  -   1   -   *             *             *         *         *           (V*)    -
+bn/cts/00/cts_0077   0   29       的   DEV                *)     -   -   -   -   *             *             *         *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0077   0   30    七上八下    CD       (VP(QP*))))     -   -   -   -   *             *             *         *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0077   0   31       。    PU               *))     -   -   -   -   *             *             *         *         *             *     -
+
+bn/cts/00/cts_0077   0    0     浓烟    NN     (TOP(IP(IP(NP*)   -   -   -   -   *        (ARG0*)        *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    1      从     P            (VP(PP*    -   -   -   -   *        (ARG2*         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    2    地下室    NN              (NP*))   -   -   -   -   *             *)        *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    3     往上    AD             (ADVP*)   -   -   -   -   *    (ARGM-ADV*)        *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    4     扩散    VV             (VP*)))   扩散  -   -   -   *           (V*)        *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    5      ，    PU                  *    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    6     整个    DT         (IP(NP(DP*)   -   -   -   -   *             *    (ARG0*         *      *             *             *             *      *    (2
+bn/cts/00/cts_0077   0    7     台东    NR               (NP*    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0    8     医院    NN                 *))   -   -   -   -   *             *         *)        *      *             *             *             *      *     2)
+bn/cts/00/cts_0077   0    9     弥漫    VV               (VP*    弥漫  -   -   -   *             *       (V*)        *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   10      着    AS                  *    -   -   -   -   *             *    (ARG1*)        *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   11     刺鼻    JJ      (NP(DNP(ADJP*)   -   -   -   -   *             *    (ARG1*         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   12      的   DEG                  *)   -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   13     烟雾    NN            (NP*))))   -   -   -   -   *             *         *)        *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   14      ，    PU                  *    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   15     医护    NN            (IP(NP*    -   -   -   -   *             *         *    (ARG0*      *             *             *             *      *    (4
+bn/cts/00/cts_0077   0   16     人员    NN                  *)   -   -   -   -   *             *         *         *)     *             *             *             *      *     4)
+bn/cts/00/cts_0077   0   17      将    BA               (VP*    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   18     病患    NN            (IP(NP*)   -   -   -   -   *             *         *    (ARG1*)     *             *             *             *      *    (0)
+bn/cts/00/cts_0077   0   19     疏散    VV           (VP(VRD*    疏散  -   -   -   *             *         *       (V*)     *             *             *             *      *     -
+bn/cts/00/cts_0077   0   20      到    VV                  *)    到  -   4   -   *             *         *    (ARG2*)   (V*)            *             *             *      *     -
+bn/cts/00/cts_0077   0   21     户外    JJ          (NP(ADJP*)   -   -   -   -   *             *         *    (ARG2*      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   22     走廊    NN          (NP*))))))   -   -   -   -   *             *         *         *)     *             *             *             *      *     -
+bn/cts/00/cts_0077   0   23      ，    PU                  *    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   24     不少    CD         (IP(NP(QP*)   -   -   -   -   *             *         *         *      *        (ARG0*        (ARG0*             *      *     -
+bn/cts/00/cts_0077   0   25     重症    NN               (NP*)   -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   26     病患    NN              (NP*))   -   -   -   -   *             *         *         *      *             *)            *)            *      *     -
+bn/cts/00/cts_0077   0   27     甚至    AD          (VP(ADVP*)   -   -   -   -   *             *         *         *      *    (ARGM-ADV*)   (ARGM-ADV*)            *      *     -
+bn/cts/00/cts_0077   0   28      还    AD             (ADVP*)   -   -   -   -   *             *         *         *      *    (ARGM-ADV*)   (ARGM-ADV*)            *      *     -
+bn/cts/00/cts_0077   0   29      打    VV            (VP(VP*     打  -   8   -   *             *         *         *      *           (V*)            *             *      *     -
+bn/cts/00/cts_0077   0   30      着    AS                  *    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   31     点滴    NN              (NP*))   -   -   -   -   *             *         *         *      *        (ARG1*)            *             *      *     -
+bn/cts/00/cts_0077   0   32      躺    VV               (VP*     躺  -   -   -   *             *         *         *      *             *           (V*)            *      *     -
+bn/cts/00/cts_0077   0   33      在     P               (PP*    -   -   2   -   *             *         *         *      *             *        (ARG1*             *      *     -
+bn/cts/00/cts_0077   0   34     病床    NN           (LCP(NP*)   -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   35      上    LC             *))))))   -   -   1   -   *             *         *         *      *             *             *)            *      *     -
+bn/cts/00/cts_0077   0   36      ，    PU                  *    -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   37      每    DT  (IP(NP(DNP(NP(DP*    -   -   -   -   *             *         *         *      *             *             *        (ARG1*      *    (0
+bn/cts/00/cts_0077   0   38      个     M             (CLP*))   -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   39      人    NN              (NP*))   -   -   1   -   *             *         *         *      *             *             *             *      *     0)
+bn/cts/00/cts_0077   0   40      的   DEG                  *)   -   -   -   -   *             *         *         *      *             *             *             *      *     -
+bn/cts/00/cts_0077   0   41     脸上    NN              (NP*))   -   -   -   -   *             *         *         *      *             *             *             *)     *     -
+bn/cts/00/cts_0077   0   42      都    AD          (VP(ADVP*)   -   -   -   -   *             *         *         *      *             *             *    (ARGM-ADV*)     *     -
+bn/cts/00/cts_0077   0   43      写    VV           (VP(VRD*     写  -   -   -   *             *         *         *      *             *             *           (V*)     *     -
+bn/cts/00/cts_0077   0   44      满    VV                  *)    满  -   1   -   *             *         *         *      *             *             *        (ARG2*)   (V*)    -
+bn/cts/00/cts_0077   0   45      了    AS                  *    -   -   -   -   *             *         *         *      *             *             *        (ARG1*)     *     -
+bn/cts/00/cts_0077   0   46     惊慌    NN            (NP*))))   -   -   -   -   *             *         *         *      *             *             *        (ARG1*)     *     -
+bn/cts/00/cts_0077   0   47      。    PU                 *))   -   -   -   -   *             *         *         *      *             *             *             *      *     -
+
+bn/cts/00/cts_0077   0    0      今天   NT    (TOP(IP(IP(NP*      -   -   -   -   *    (ARGM-TMP*             *        *      *             *             *         *             *    (1
+bn/cts/00/cts_0077   0    1      上午   NT                 *)     -   -   1   -   *             *)            *        *      *             *             *         *             *     1)
+bn/cts/00/cts_0077   0    2      台东   NR              (NP*      -   -   -   -   *        (ARG0*             *        *      *             *             *         *             *    (2
+bn/cts/00/cts_0077   0    3      医院   NN                 *)     -   -   -   -   *             *)            *        *      *             *             *         *             *     2)
+bn/cts/00/cts_0077   0    4      突然   AD         (VP(ADVP*)     -   -   -   -   *    (ARGM-ADV*)            *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0    5      警铃   VV              (VP*      警铃  -   -   -   *           (V*)            *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0    6      大作   NN           (NP*))))     -   -   -   -   *        (ARG1*)            *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0    7       ，   PU                 *      -   -   -   -   *             *             *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0    8     一开始   AD         (IP(ADVP*)     -   -   -   -   *             *    (ARGM-ADV*)       *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0    9      医护   NN              (NP*      -   -   -   -   *             *        (ARG0*        *      *             *             *         *             *    (4
+bn/cts/00/cts_0077   0   10      人员   NN                 *)     -   -   -   -   *             *             *)       *      *             *             *         *             *     4)
+bn/cts/00/cts_0077   0   11       还   AD         (VP(ADVP*)     -   -   -   -   *             *    (ARGM-ADV*)       *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   12      以为   VV              (VP*      以为  -   1   -   *             *           (V*)       *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   13       是   VC           (IP(VP*       是  -   1   -   *             *        (ARG1*      (V*)     *             *             *         *             *     -
+bn/cts/00/cts_0077   0   14      火警   NN              (NP*      -   -   -   -   *             *             *   (ARG1*      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   15      演习   NN            *))))))     -   -   -   -   *             *             *)       *)     *             *             *         *             *     -
+bn/cts/00/cts_0077   0   16       ，   PU                 *      -   -   -   -   *             *             *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   17    不以为然   VV        (IP(VP(VP*)   不以为然  -   -   -   *             *             *        *    (V*)            *             *         *             *     -
+bn/cts/00/cts_0077   0   18       ，   PU                 *      -   -   -   -   *             *             *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   19       没   AD         (VP(ADVP*)     -   -   2   -   *             *             *        *      *    (ARGM-ADV*)   (ARGM-ADV*)        *             *     -
+bn/cts/00/cts_0077   0   20      想到   VV              (VP*      想到  -   -   -   *             *             *        *      *           (V*)            *         *             *     -
+bn/cts/00/cts_0077   0   21      阵阵    M   (IP(NP(QP(CLP*))     -   -   -   -   *             *             *        *      *        (ARG1*        (ARG0*    (ARG0*             *     -
+bn/cts/00/cts_0077   0   22      浓烟   NN             (NP*))     -   -   -   -   *             *             *        *      *             *             *)        *)            *     -
+bn/cts/00/cts_0077   0   23      迅速   AD      (VP(VP(ADVP*)     -   -   -   -   *             *             *        *      *             *    (ARGM-ADV*)        *             *     -
+bn/cts/00/cts_0077   0   24      窜升   VV             (VP*))     窜升  -   -   -   *             *             *        *      *             *           (V*)        *             *     -
+bn/cts/00/cts_0077   0   25       ，   PU                 *      -   -   -   -   *             *             *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   26      笼罩   VV              (VP*      笼罩  -   -   -   *             *             *        *      *             *             *       (V*)            *     -
+bn/cts/00/cts_0077   0   27       了   AS                 *      -   -   -   -   *             *             *        *      *             *             *    (ARG1*)            *     -
+bn/cts/00/cts_0077   0   28      整个   DT           (NP(DP*)     -   -   -   -   *             *             *        *      *             *             *    (ARG1*             *    (2
+bn/cts/00/cts_0077   0   29      医院   NN      (NP*)))))))))     -   -   -   -   *             *             *        *      *             *)            *         *)            *     2)
+bn/cts/00/cts_0077   0   30       ，   PU                 *      -   -   -   -   *             *             *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   31      院方   NN           (IP(NP*)     -   -   -   -   *             *             *        *      *             *             *         *        (ARG0*)   (4)
+bn/cts/00/cts_0077   0   32       才   AD         (VP(ADVP*)     -   -   -   -   *             *             *        *      *             *             *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0077   0   33      紧急   AD            (ADVP*)     -   -   -   -   *             *             *        *      *             *             *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0077   0   34       将   BA              (VP*      -   -   -   -   *             *             *        *      *             *             *         *             *     -
+bn/cts/00/cts_0077   0   35      病患   NN           (IP(NP*)     -   -   -   -   *             *             *        *      *             *             *         *        (ARG1*)   (0)
+bn/cts/00/cts_0077   0   36      往外   AD         (VP(ADVP*)     -   -   -   -   *             *             *        *      *             *             *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0077   0   37      疏散   VV         (VP*))))))     疏散  -   -   -   *             *             *        *      *             *             *         *           (V*)    -
+bn/cts/00/cts_0077   0   38       。   PU                *))     -   -   -   -   *             *             *        *      *             *             *         *             *     -
+
+bn/cts/00/cts_0077   0    0     消防   NN  (TOP(IP(IP(NP*     -   -   -   -   *    (ARG0*        (ARG0*      *            *             *             *             *   -
+bn/cts/00/cts_0077   0    1     人员   NN               *)    -   -   -   -   *         *)            *)     *            *             *             *             *   -
+bn/cts/00/cts_0077   0    2     赶到   VV         (VP(VP*     赶到  -   -   -   *       (V*)            *      *            *             *             *             *   -
+bn/cts/00/cts_0077   0    3     现场   NN           (NP*))    -   -   -   -   *    (ARG1*)            *      *            *             *             *             *   -
+bn/cts/00/cts_0077   0    4     立刻   AD       (VP(ADVP*)    -   -   -   -   *         *    (ARGM-ADV*)     *            *             *             *             *   -
+bn/cts/00/cts_0077   0    5     铺设   VV            (VP*     铺设  -   -   -   *         *           (V*)     *            *             *             *             *   -
+bn/cts/00/cts_0077   0    6     灭火   VV     (NP(IP(VP*))    灭火  -   -   -   *         *        (ARG1*    (V*)           *             *             *             *   -
+bn/cts/00/cts_0077   0    7     管线   NN       (NP*))))))    -   -   -   -   *         *             *)     *            *             *             *             *   -
+bn/cts/00/cts_0077   0    8      ，   PU               *     -   -   -   -   *         *             *      *            *             *             *             *   -
+bn/cts/00/cts_0077   0    9     起火   NN         (IP(NP*     -   -   -   -   *         *             *      *       (ARG0*             *             *             *   -
+bn/cts/00/cts_0077   0   10     地点   NN               *)    -   -   -   -   *         *             *      *            *)            *             *             *   -
+bn/cts/00/cts_0077   0   11      在    P         (VP(PP*     -   -   2   -   *         *             *      *   (ARGM-LOC*             *             *             *   -
+bn/cts/00/cts_0077   0   12    地下室   NN           (NP*))    -   -   -   -   *         *             *      *            *)            *             *             *   -
+bn/cts/00/cts_0077   0   13    储藏间   VV          (VP*)))   储藏间  -   -   -   *         *             *      *          (V*)            *             *             *   -
+bn/cts/00/cts_0077   0   14      ，   PU               *     -   -   -   -   *         *             *      *            *             *             *             *   -
+bn/cts/00/cts_0077   0   15     还好   AD       (IP(ADVP*)    -   -   -   -   *         *             *      *            *    (ARGM-ADV*)   (ARGM-ADV*)            *   -
+bn/cts/00/cts_0077   0   16      只   AD    (VP(VP(ADVP*)    -   -   -   -   *         *             *      *            *    (ARGM-ADV*)            *             *   -
+bn/cts/00/cts_0077   0   17     烧掉   VV            (VP*     烧掉  -   -   -   *         *             *      *            *           (V*)            *             *   -
+bn/cts/00/cts_0077   0   18      了   AS               *     -   -   -   -   *         *             *      *            *        (ARG1*)            *             *   -
+bn/cts/00/cts_0077   0   19     部分   CD         (NP(QP*)    -   -   -   -   *         *             *      *            *        (ARG1*             *             *   -
+bn/cts/00/cts_0077   0   20     杂物   NN         (NP*))))    -   -   -   -   *         *             *      *            *             *)            *             *   -
+bn/cts/00/cts_0077   0   21      ，   PU               *     -   -   -   -   *         *             *      *            *             *             *             *   -
+bn/cts/00/cts_0077   0   22    并没有   AD       (VP(ADVP*)    -   -   -   -   *         *             *      *            *             *    (ARGM-ADV*)            *   -
+bn/cts/00/cts_0077   0   23     造成   VV            (VP*     造成  -   -   -   *         *             *      *            *             *           (V*)            *   -
+bn/cts/00/cts_0077   0   24     严重   JJ       (NP(ADJP*)    -   -   1   -   *         *             *      *            *             *        (ARG1*             *   -
+bn/cts/00/cts_0077   0   25     灾情   NN       (NP*))))))    -   -   -   -   *         *             *      *            *             *             *)            *   -
+bn/cts/00/cts_0077   0   26      ，   PU               *     -   -   -   -   *         *             *      *            *             *             *             *   -
+bn/cts/00/cts_0077   0   27      也   AD    (IP(VP(ADVP*)    -   -   -   -   *         *             *      *            *             *             *    (ARGM-ADV*)  -
+bn/cts/00/cts_0077   0   28     没有   VE            (VP*     没有  -   1   -   *         *             *      *            *             *             *           (V*)  -
+bn/cts/00/cts_0077   0   29     人员   NN            (NP*     -   -   -   -   *         *             *      *            *             *             *        (ARG1*   -
+bn/cts/00/cts_0077   0   30     伤亡   NN            *))))    -   -   -   -   *         *             *      *            *             *             *             *)  -
+bn/cts/00/cts_0077   0   31      。   PU              *))    -   -   -   -   *         *             *      *            *             *             *             *   -
+
+bn/cts/00/cts_0077   0    0    不过    AD      (TOP(IP(ADVP*)   -   -    -   -   *             *      *             *    (ARGM-DIS*)     *     -
+bn/cts/00/cts_0077   0    1    对于     P               (PP*    -   -    -   -   *    (ARGM-DIR*)     *             *    (ARGM-ADV*      *     -
+bn/cts/00/cts_0077   0    2    这些    DT        (LCP(NP(DP*)   -   -    -   -   *             *      *             *             *      *    (0
+bn/cts/00/cts_0077   0    3    生病    VV  (CP(IP(VP(VP(VRD*    生病  -    -   -   *           (V*)     *             *             *      *     -
+bn/cts/00/cts_0077   0    4     上    VV                  *)    上  -   10   -   *             *    (V*)            *             *      *     -
+bn/cts/00/cts_0077   0    5    医院    NN              (NP*))   -   -    -   -   *    (ARGM-LOC*)     *             *             *      *    (2)
+bn/cts/00/cts_0077   0    6     还    AD          (VP(ADVP*)   -   -    -   -   *             *      *    (ARGM-ADV*)            *      *     -
+bn/cts/00/cts_0077   0    7    碰上    VV               (VP*    碰上  -    -   -   *             *      *           (V*)            *      *     -
+bn/cts/00/cts_0077   0    8    火警    NN           (NP*)))))   -   -    -   -   *             *      *        (ARG1*)            *      *    (3)
+bn/cts/00/cts_0077   0    9     的   DEC                  *)   -   -    -   -   *    (ARGM-ADV*)     *             *             *      *     -
+bn/cts/00/cts_0077   0   10    病患    NN              (NP*))   -   -    -   -   *             *      *             *             *      *     0)
+bn/cts/00/cts_0077   0   11    来说    LC                 *))   -   -    -   -   *    (ARGM-ADV*)     *             *             *)     *     -
+bn/cts/00/cts_0077   0   12     ，    PU                  *    -   -    -   -   *             *      *             *             *      *     -
+bn/cts/00/cts_0077   0   13    今天    NT               (NP*)   -   -    -   -   *             *      *             *        (ARG0*)     *     -
+bn/cts/00/cts_0077   0   14     还    AD          (VP(ADVP*)   -   -    -   -   *             *      *             *    (ARGM-ADV*)     *     -
+bn/cts/00/cts_0077   0   15     真    AD             (ADVP*)   -   -    1   -   *             *      *             *    (ARGM-ADV*)     *     -
+bn/cts/00/cts_0077   0   16     是    VC               (VP*     是  -    1   -   *             *      *             *           (V*)     *     -
+bn/cts/00/cts_0077   0   17    倒霉    VA     (QP(CP(IP(VP*))   倒霉  -    -   -   *             *      *             *        (ARG1*    (V*)    -
+bn/cts/00/cts_0077   0   18     的   DEC                  *)   -   -    -   -   *             *      *             *             *      *     -
+bn/cts/00/cts_0077   0   19     一    CD               (QP*    -   -    -   -   *             *      *             *             *      *     -
+bn/cts/00/cts_0077   0   20     天     M          (CLP*)))))   -   -    -   -   *             *      *             *             *)     *     -
+bn/cts/00/cts_0077   0   21     。    PU                 *))   -   -    -   -   *             *      *             *             *      *     -
+
+#end document

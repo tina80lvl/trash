@@ -1,0 +1,593 @@
+#begin document (bn/vom/03/vom_0311); part 000
+bn/vom/03/vom_0311   0    0      欢迎    VV         (TOP(IP(IP(VP*   -   01   -   -               *      (V*)       *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0    1      继续    VV                (IP(VP*   -   01   -   -               *   (ARG2*      (V*)       *             *         *        *         *     -
+bn/vom/03/vom_0311   0    2      收听    VV                   (VP*   -   01   -   -               *        *   (ARG1*      (V*)            *         *        *         *     -
+bn/vom/03/vom_0311   0    3      美国    NR     (NP(DNP(NP(DNP(NP*)  -    -   -   -           (ORG*        *        *   (ARG1*             *         *        *         *    (4
+bn/vom/03/vom_0311   0    4       之   DEG                      *)  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0    5       音    NN                  (NP*))  -    -   -   -               *)       *        *        *             *         *        *         *     4)
+bn/vom/03/vom_0311   0    6       的   DEG                      *)  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0    7       《    PU                   (NP*   -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0    8      时事    NN                      *   -    -   -   -   (WORK_OF_ART*        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0    9      经纬    NN                      *   -    -   -   -               *)       *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   10       》    PU                      *)  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   11      节目    NN             (NP*)))))))  -    -   -   -               *        *)       *)       *)            *         *        *         *     -
+bn/vom/03/vom_0311   0   12    澳大利亚    NR         (IP(NP(DNP(NP*)  -    -   -   -            (GPE)       *        *        *        (ARG0*         *        *         *    (8)
+bn/vom/03/vom_0311   0   13       的   DEG                      *)  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   14      一些    CD                   (QP*)  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   15      地区    NN                  (NP*))  -    -   -   -               *        *        *        *             *)        *        *         *     -
+bn/vom/03/vom_0311   0   16      近来    AD              (VP(ADVP*)  -    -   -   -               *        *        *        *    (ARGM-TMP*)        *        *         *     -
+bn/vom/03/vom_0311   0   17      受到    VV                   (VP*   -   01   1   -               *        *        *        *           (V*)        *        *         *     -
+bn/vom/03/vom_0311   0   18      严重    VA   (IP(NP(CP(CP(IP(VP*))  -   01   1   -               *        *        *        *        (ARG1*       (V*)  (ARG0*         *     -
+bn/vom/03/vom_0311   0   19       的   DEC                     *))  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   20      热浪    NN                  (NP*))  -    -   -   -               *        *        *        *             *    (ARG0*)       *)        *     -
+bn/vom/03/vom_0311   0   21      袭击    VV               (VP*)))))  -   01   -   -               *        *        *        *             *)        *      (V*)        *     -
+bn/vom/03/vom_0311   0   22       ，    PU                      *   -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   23      温度    NN                (IP(NP*)  -    -   -   -               *        *        *        *             *         *        *    (ARG0*)    -
+bn/vom/03/vom_0311   0   24      达到    VV                   (VP*   -   01   -   -               *        *        *        *             *         *        *       (V*)    -
+bn/vom/03/vom_0311   0   25      将近    AD              (QP(ADVP*)  -    -   -   -               *        *        *        *             *         *        *    (ARG1*     -
+bn/vom/03/vom_0311   0   26      摄氏    NN                (QP(NP*)  -    -   -   -               *        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   27      ５０    CD                   (QP*   -    -   -   -      (QUANTITY*        *        *        *             *         *        *         *     -
+bn/vom/03/vom_0311   0   28       度     M             (CLP*))))))  -    -   -   -               *)       *        *        *             *         *        *         *)    -
+bn/vom/03/vom_0311   0   29       。    PU                     *))  -    -   -   -               *        *        *        *             *         *        *         *     -
+
+bn/vom/03/vom_0311   0    0     在     P    (TOP(IP(PP*   -    -   2   -       *   (ARGM-LOC*   (ARGM-LOC*     -
+bn/vom/03/vom_0311   0    1    悉尼    NR          (NP*))  -    -   -   -    (GPE)           *)           *)   (5)
+bn/vom/03/vom_0311   0    2     ，    PU              *   -    -   -   -       *            *            *     -
+bn/vom/03/vom_0311   0    3    铁路    NN           (NP*   -    -   -   -       *       (ARG0*       (ARG0*     -
+bn/vom/03/vom_0311   0    4    轨道    NN              *)  -    -   -   -       *            *)           *)    -
+bn/vom/03/vom_0311   0    5    因为     P     (VP(VP(PP*   -    -   -   -       *   (ARGM-PRP*       (ARG0*     -
+bn/vom/03/vom_0311   0    6    高温    NN          (NP*))  -    -   -   -       *            *)           *     -
+bn/vom/03/vom_0311   0    7     而   MSP           (VP*   -    -   -   -       *            *            *     -
+bn/vom/03/vom_0311   0    8    变形    VV         (VP*)))  -   01   -   -       *          (V*)           *)    -
+bn/vom/03/vom_0311   0    9     ，    PU              *   -    -   -   -       *            *            *     -
+bn/vom/03/vom_0311   0   10    导致    VV           (VP*   -   01   -   -       *            *          (V*)    -
+bn/vom/03/vom_0311   0   11    车辆    NN        (IP(NP*)  -    -   -   -       *            *       (ARG1*     -
+bn/vom/03/vom_0311   0   12     长    JJ   (VP(NP(ADJP*)  -    -   3   -       *            *            *     -
+bn/vom/03/vom_0311   0   13    时间    NN          (NP*))  -    -   -   -       *            *            *     -
+bn/vom/03/vom_0311   0   14    晚点    VV       (VP*)))))  -    -   -   -       *            *            *)    -
+bn/vom/03/vom_0311   0   15     。    PU             *))  -    -   -   -       *            *            *     -
+
+bn/vom/03/vom_0311   0    0    处理    VV  (TOP(IP(NP(CP(CP(IP(VP*   -    -   2   -   *        (ARG0*        *   -
+bn/vom/03/vom_0311   0    1    紧急    JJ                (NP(ADJP*)  -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0    2    情况    NN                  (NP*))))  -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0    3     的   DEC                       *))  -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0    4    部门    NN                    (NP*))  -    -   -   -   *             *)       *   -
+bn/vom/03/vom_0311   0    5     也    AD                (VP(ADVP*)  -    -   -   -   *    (ARGM-DIS*)       *   -
+bn/vom/03/vom_0311   0    6    做好    VV                     (VP*   -   01   -   -   *           (V*)       *   -
+bn/vom/03/vom_0311   0    7     了    AS                        *   -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0    8    应付    VV            (NP(CP(IP(VP*   -   01   -   -   *        (ARG1*      (V*)  -
+bn/vom/03/vom_0311   0    9     更    AD         (NP(DNP(QP(ADVP*)  -    -   -   -   *             *   (ARG1*   -
+bn/vom/03/vom_0311   0   10     多    CD                    (QP*))  -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0   11     的   DEG                        *)  -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0   12    灌木    NN                     (NP*   -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0   13    火灾    NN                     *))))  -    -   -   -   *             *        *)  -
+bn/vom/03/vom_0311   0   14     的   DEC                        *)  -    -   -   -   *             *        *   -
+bn/vom/03/vom_0311   0   15    准备    NN                  (NP*))))  -    -   3   -   *             *)       *   -
+bn/vom/03/vom_0311   0   16     。    PU                       *))  -    -   -   -   *             *        *   -
+
+bn/vom/03/vom_0311   0    0     请    VV                     (TOP(IP(VP*   -   01   -   -          *      (V*)       *            *     -
+bn/vom/03/vom_0311   0    1     听    VV                            (VP*   -   01   -   -          *   (ARG2*      (V*)           *     -
+bn/vom/03/vom_0311   0    2    美国    NR   (NP(CP(CP(IP(NP(NP(NP(DNP(NP*)  -    -   -   -      (ORG*        *   (ARG1*       (ARG0*    (4
+bn/vom/03/vom_0311   0    3     之   DEG                               *)  -    -   -   -          *        *        *            *     -
+bn/vom/03/vom_0311   0    4     音    NN                           (NP*))  -    -   -   -          *)       *        *            *     4)
+bn/vom/03/vom_0311   0    5    记者    NN                           (NP*))  -    -   -   -          *        *        *            *     -
+bn/vom/03/vom_0311   0    6    莫瑟    NR                           (NP*))  -    -   -   -    (PERSON)       *        *            *)    -
+bn/vom/03/vom_0311   0    7     从     P                         (VP(PP*   -    -   -   -          *        *        *   (ARGM-DIR*     -
+bn/vom/03/vom_0311   0    8    悉尼    NR                           (NP*))  -    -   -   -       (GPE)       *        *            *)   (5)
+bn/vom/03/vom_0311   0    9    发来    VV                          (VP*)))  -   01   -   -          *        *        *          (V*)    -
+bn/vom/03/vom_0311   0   10     的   DEC                              *))  -    -   -   -          *        *        *            *     -
+bn/vom/03/vom_0311   0   11    报道    NN                         (NP*))))  -    -   -   -          *        *)       *)      (ARG1*)    -
+bn/vom/03/vom_0311   0   12     。    PU                              *))  -    -   -   -          *        *        *            *     -
+
+bn/vom/03/vom_0311   0   0      眼下    AD   (TOP(IP(ADVP*)  -    -   -   -       *    (ARGM-TMP*)   (ARGM-TMP*)    -
+bn/vom/03/vom_0311   0   1    澳大利亚    NR         (NP(NP*)  -    -   -   -    (GPE)       (ARG0*        (ARG0*    (8)
+bn/vom/03/vom_0311   0   2      天气    NN           (NP*))  -    -   -   -       *             *)            *)    -
+bn/vom/03/vom_0311   0   3       热    VA         (VP(VP*   -   01   6   -       *           (V*)            *     -
+bn/vom/03/vom_0311   0   4       得   DER               *   -    -   -   -       *             *             *     -
+bn/vom/03/vom_0311   0   5      要命    VV           (VP*))  -    -   -   -       *    (ARGM-EXT*)            *     -
+bn/vom/03/vom_0311   0   6      而且    CC               *   -    -   -   -       *             *             *     -
+bn/vom/03/vom_0311   0   7     越来越    AD       (VP(ADVP*)  -    -   -   -       *             *    (ARGM-ADV*)    -
+bn/vom/03/vom_0311   0   8       热    VA          (VP*)))  -   01   6   -       *             *           (V*)    -
+bn/vom/03/vom_0311   0   9       。    PU              *))  -    -   -   -       *             *             *     -
+
+bn/vom/03/vom_0311   0    0       在     P   (TOP(IP(IP(PP*   -    -   2   -            *    (ARGM-LOC*             *     -
+bn/vom/03/vom_0311   0    1      偏远    JJ    (NP(DNP(ADJP*)  -    -   -   -            *             *             *    (6
+bn/vom/03/vom_0311   0    2       的   DEG                *)  -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0    3      西南    NN         (DNP(NP*   -    -   -   -        (GPE*             *             *     -
+bn/vom/03/vom_0311   0    4    威尔士州    NR                *)  -    -   -   -            *)            *             *     -
+bn/vom/03/vom_0311   0    5       的   DEG                *)  -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0    6      科巴    NR           (NP*)))  -    -   -   -         (GPE)            *)            *     6)
+bn/vom/03/vom_0311   0    7       ，    PU                *   -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0    8      居民    NN             (NP*)  -    -   -   -            *        (ARG0*)            *     -
+bn/vom/03/vom_0311   0    9       在     P          (VP(PP*   -    -   2   -            *    (ARGM-LOC*             *     -
+bn/vom/03/vom_0311   0   10      ４７    CD  (LCP(NP(DNP(QP*   -    -   -   -   (QUANTITY*             *             *    (0
+bn/vom/03/vom_0311   0   11     摄氏度     M           (CLP*))  -    -   -   -            *)            *             *     -
+bn/vom/03/vom_0311   0   12       的   DEG                *)  -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0   13      高温    NN            (NP*))  -    -   -   -            *             *             *     0)
+bn/vom/03/vom_0311   0   14       下    LC               *))  -    -   1   -            *             *)            *     -
+bn/vom/03/vom_0311   0   15       热    VA             (VP*   -   01   6   -            *           (V*)            *     -
+bn/vom/03/vom_0311   0   16       得   DER                *   -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0   17      发昏    VV          (VP*))))  -    -   -   -            *    (ARGM-EXT*)            *     -
+bn/vom/03/vom_0311   0   18       ，    PU                *   -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0   19      这样    PN   (IP(NP(DNP(NP*)  -    -   -   -            *             *        (ARG0*    (0
+bn/vom/03/vom_0311   0   20       的   DEG                *)  -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0   21      温度    NN            (NP*))  -    -   -   -            *             *             *)    0)
+bn/vom/03/vom_0311   0   22      远远    AD        (VP(ADVP*)  -    -   -   -            *             *    (ARGM-ADV*)    -
+bn/vom/03/vom_0311   0   23      超出    VV             (VP*   -   01   -   -            *             *           (V*)    -
+bn/vom/03/vom_0311   0   24      这里    PN      (NP(DNP(NP*)  -    -   -   -            *             *        (ARG1*    (6)
+bn/vom/03/vom_0311   0   25       的   DEG                *)  -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0   26      平均    JJ           (ADJP*)  -    -   -   -            *             *             *     -
+bn/vom/03/vom_0311   0   27      温度    NN         (NP*)))))  -    -   -   -            *             *             *)    -
+bn/vom/03/vom_0311   0   28       。    PU               *))  -    -   -   -            *             *             *     -
+
+bn/vom/03/vom_0311   0   0    朱迪·卡尔博特    NR      (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)   (1)
+bn/vom/03/vom_0311   0   1          是    VC             (VP*   -   01   1   -          *       (V*)    -
+bn/vom/03/vom_0311   0   2         当地    NN   (NP(DNP(NP(NP*)  -    -   -   -          *    (ARG1*    (6)
+bn/vom/03/vom_0311   0   3          一    CD             (QP*   -    -   -   -          *         *     -
+bn/vom/03/vom_0311   0   4          家     M           (CLP*))  -    -   -   -          *         *     -
+bn/vom/03/vom_0311   0   5        玩具店    NN            (NP*))  -    -   -   -          *         *     -
+bn/vom/03/vom_0311   0   6          的   DEG                *)  -    -   -   -          *         *     -
+bn/vom/03/vom_0311   0   7         店主    NN           (NP*)))  -    -   -   -          *         *)    -
+bn/vom/03/vom_0311   0   8          。    PU               *))  -    -   -   -          *         *     -
+
+bn/vom/03/vom_0311   0    0     他   PN   (TOP(IP(NP*)  -    -   -   -   *    (ARG0*)            *             *    (1)
+bn/vom/03/vom_0311   0    1     说   VV          (VP*   -   01   7   -   *       (V*)            *             *     -
+bn/vom/03/vom_0311   0    2     ：   PU             *   -    -   -   -   *         *             *             *     -
+bn/vom/03/vom_0311   0    3     “   PU          (IP*   -    -   -   -   *    (ARG1*             *             *     -
+bn/vom/03/vom_0311   0    4     他   PN          (NP*)  -    -   -   -   *         *        (ARG0*)            *    (1)
+bn/vom/03/vom_0311   0    5    从来   AD     (VP(ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)            *     -
+bn/vom/03/vom_0311   0    6     不   AD        (ADVP*)  -    -   -   -   *         *    (ARGM-ADV*)            *     -
+bn/vom/03/vom_0311   0    7    记得   VV          (VP*   -   01   -   -   *         *           (V*)            *     -
+bn/vom/03/vom_0311   0    8     天   NN       (IP(NP*)  -    -   -   -   *         *        (ARG1*        (ARG0*)    -
+bn/vom/03/vom_0311   0    9    这么   AD     (VP(ADVP*)  -    -   -   -   *         *             *    (ARGM-ADV*)    -
+bn/vom/03/vom_0311   0   10     热   VV          (VP*   -   01   6   -   *         *             *           (V*)    -
+bn/vom/03/vom_0311   0   11     过   AS         *)))))  -    -   1   -   *         *             *)            *     -
+bn/vom/03/vom_0311   0   12     ”   PU            *))  -    -   -   -   *         *)            *             *     -
+bn/vom/03/vom_0311   0   13     。   PU            *))  -    -   -   -   *         *             *             *     -
+
+bn/vom/03/vom_0311   0    0    卡尔博特    NR             (TOP(IP(NP*)  -    -   -   -      (PERSON)   (ARG0*)           *      *        *             *            *         *             *         *             *    (1)
+bn/vom/03/vom_0311   0    1       说    VV                    (VP*   -   01   7   -            *       (V*)           *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    2       ：    PU                       *   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    3       ＂    PU                    (IP*   -    -   -   -            *    (ARG1*            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    4       从     P           (IP(IP(VP(PP*   -    -   -   -            *         *   (ARGM-MNR*      *        *        (ARG0*            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    5       我    PN             (NP(DNP(NP*)  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *    (1)
+bn/vom/03/vom_0311   0    6       的   DEG                       *)  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    7      店门    NN                  (NP*)))  -    -   -   -            *         *            *)     *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    8       走    VV                (VP(VRD*   -   02   3   -            *         *          (V*)     *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0    9      出去    VV                    *))))  -   01   -   -            *         *            *    (V*)       *             *)           *         *             *         *             *     -
+bn/vom/03/vom_0311   0   10       就    AD               (VP(ADVP*)  -    -   8   -            *         *            *      *        *    (ARGM-ADV*)           *         *             *         *             *     -
+bn/vom/03/vom_0311   0   11       像     P                    (PP*   -    -   -   -            *         *            *      *        *    (ARGM-ADV*            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   12      走进    VV                 (IP(VP*   -   01   -   -            *         *            *      *      (V*)            *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   13       一    CD                 (NP(QP*   -    -   -   -            *         *            *      *   (ARG1*             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   14       个     M                  (CLP*))  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   15      喷火    VV          (CP(CP(IP(VP*))  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   16       的   DEC                      *))  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   17      炉子    NN                (NP*)))))  -    -   -   -            *         *            *      *        *)            *)           *         *             *         *             *     -
+bn/vom/03/vom_0311   0   18      一样    VA                  (VP*)))  -   02   -   -            *         *            *      *        *           (V*)           *         *             *         *             *     -
+bn/vom/03/vom_0311   0   19       ，    PU                       *   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   20       我    PN              (CP(IP(NP*)  -    -   -   -            *         *            *      *        *             *       (ARG0*)        *             *         *             *    (1)
+bn/vom/03/vom_0311   0   21       在     P                 (VP(PP*   -    -   2   -            *         *            *      *        *             *       (ARG1*         *             *         *             *     -
+bn/vom/03/vom_0311   0   22      科巴    NR                   (NP*))  -    -   -   -         (GPE)        *            *      *        *             *            *)        *             *         *             *    (6)
+bn/vom/03/vom_0311   0   23       住    VV                    (VP*   -   01   -   -            *         *            *      *        *             *          (V*)        *             *         *             *     -
+bn/vom/03/vom_0311   0   24       了    AS                       *   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   25      １５    CD                    (QP*   -    -   -   -       (DATE*         *            *      *        *             *   (ARGM-EXT*         *             *         *             *     -
+bn/vom/03/vom_0311   0   26       年     M               (CLP*)))))  -    -   -   -            *)        *            *      *        *             *            *)        *             *         *             *     -
+bn/vom/03/vom_0311   0   27       了    SP                       *)  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   28       ，    PU                       *   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   29      我们    PN                 (IP(NP*)  -    -   -   -            *         *            *      *        *             *            *    (ARG0*)            *         *             *    (6)
+bn/vom/03/vom_0311   0   30       有    VE                    (VP*   -   01   7   -            *         *            *      *        *             *            *       (V*)            *         *             *     -
+bn/vom/03/vom_0311   0   31       过    AS                       *   -    -   1   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   32       一    CD                 (NP(QP*   -    -   -   -       (DATE*         *            *      *        *             *            *    (ARG1*             *         *             *     -
+bn/vom/03/vom_0311   0   33       天     M                  (CLP*))  -    -   -   -            *)        *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   34      摄氏    NN             (DNP(QP(NP*)  -    -   -   -   (QUANTITY*         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   35      ４５    CD                    (QP*   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   36       度     M                 (CLP*)))  -    -   -   -            *)        *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   37       的   DEG                       *)  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   38      高温    NN                 (NP*))))  -    -   -   -            *         *            *      *        *             *            *         *)            *         *             *     -
+bn/vom/03/vom_0311   0   39       ，    PU                       *   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   40      但是    AD               (IP(ADVP*)  -    -   -   -            *         *            *      *        *             *            *         *    (ARGM-DIS*)        *             *     -
+bn/vom/03/vom_0311   0   41       我    PN                    (NP*)  -    -   -   -            *         *            *      *        *             *            *         *        (ARG0*)        *             *    (1)
+bn/vom/03/vom_0311   0   42       不    AD               (VP(ADVP*)  -    -   -   -            *         *            *      *        *             *            *         *    (ARGM-ADV*)        *             *     -
+bn/vom/03/vom_0311   0   43      记得    VV                    (VP*   -   01   -   -            *         *            *      *        *             *            *         *           (V*)        *             *     -
+bn/vom/03/vom_0311   0   44      我们    PN                 (IP(NP*)  -    -   -   -            *         *            *      *        *             *            *         *        (ARG1*    (ARG0*)            *    (6)
+bn/vom/03/vom_0311   0   45       有    VE                    (VP*   -   01   7   -            *         *            *      *        *             *            *         *             *       (V*)            *     -
+bn/vom/03/vom_0311   0   46       过    AS                       *   -    -   1   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   47      这么    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *         *            *      *        *             *            *         *             *    (ARG1*    (ARGM-ADV*)    -
+bn/vom/03/vom_0311   0   48       热    VA                  (VP*)))  -   01   6   -            *         *            *      *        *             *            *         *             *         *           (V*)    -
+bn/vom/03/vom_0311   0   49       的   DEC                      *))  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   50      天气    NN            (NP*)))))))))  -    -   -   -            *         *)           *      *        *             *            *         *             *)        *)       (ARG0*)    -
+bn/vom/03/vom_0311   0   51       ”    PU                       *   -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+bn/vom/03/vom_0311   0   52       。    PU                      *))  -    -   -   -            *         *            *      *        *             *            *         *             *         *             *     -
+
+bn/vom/03/vom_0311   0    0        在     P                (TOP(IP(PP*   -    -   2   -        *         *        *             *             *    (ARGM-TMP*        *         *   -
+bn/vom/03/vom_0311   0    1    澳大利亚人    NN              (NP(CP(IP(NP*)  -    -   -   -    (NORP)   (ARG0*)       *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0    2       准备    VV                       (VP*   -   02   2   -        *       (V*)       *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0    3       应付    VV                    (IP(VP*   -   01   -   -        *    (ARG1*      (V*)            *             *             *        *         *   -
+bn/vom/03/vom_0311   0    4        更    AD   (NP(CP(CP(IP(VP(VP(ADVP*)  -    -   -   -        *         *   (ARG1*    (ARGM-ADV*)            *             *        *         *   -
+bn/vom/03/vom_0311   0    5        热    VA                      (VP*))  -   01   6   -        *         *        *           (V*)            *             *        *         *   -
+bn/vom/03/vom_0311   0    6        更    AD                  (VP(ADVP*)  -    -   -   -        *         *        *             *    (ARGM-ADV*)            *        *         *   -
+bn/vom/03/vom_0311   0    7        潮    VA                    (VP*))))  -   01   -   -        *         *        *             *           (V*)            *        *         *   -
+bn/vom/03/vom_0311   0    8        的   DEC                         *))  -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0    9       天气    NN                  (NP*))))))  -    -   -   -        *         *)       *)       (ARG0*)       (ARG0*)            *        *         *   -
+bn/vom/03/vom_0311   0   10        的   DEC                          *)  -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   11       同时    NN                     (NP*)))  -    -   -   -        *         *        *             *             *             *)       *         *   -
+bn/vom/03/vom_0311   0   12        ，    PU                          *   -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   13       能源    NN                       (NP*   -    -   -   -        *         *        *             *             *        (ARG0*        *         *   -
+bn/vom/03/vom_0311   0   14        和    CC                          *   -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   15      自来水    NN                          *   -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   16       公司    NN                          *)  -    -   -   -        *         *        *             *             *             *)       *         *   -
+bn/vom/03/vom_0311   0   17       正在    AD                  (VP(ADVP*)  -    -   -   -        *         *        *             *             *    (ARGM-ADV*)       *         *   -
+bn/vom/03/vom_0311   0   18     竭尽全力    VV                    (VP(VP*)  -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   19       保证    VV                       (VP*   -   01   -   -        *         *        *             *             *           (V*)       *         *   -
+bn/vom/03/vom_0311   0   20       满足    VV                    (IP(VP*   -   01   -   -        *         *        *             *             *        (ARG1*      (V*)        *   -
+bn/vom/03/vom_0311   0   21       人们    NN                    (NP(NP*)  -    -   -   -        *         *        *             *             *             *   (ARG2*         *   -
+bn/vom/03/vom_0311   0   22        对     P                       (PP*   -    -   3   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   23       水电    NN                      (NP*))  -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   24        创    VV              (CP(CP(IP(VP*   -   01   -   -        *         *        *             *             *             *        *       (V*)  -
+bn/vom/03/vom_0311   0   25       记录    NN                     (NP*)))  -    -   -   -        *         *        *             *             *             *        *    (ARG1*)  -
+bn/vom/03/vom_0311   0   26        的   DEC                         *))  -    -   -   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   27        高    JJ                     (ADJP*)  -    -   1   -        *         *        *             *             *             *        *         *   -
+bn/vom/03/vom_0311   0   28       需求    NN                 (NP*)))))))  -    -   -   -        *         *        *             *             *             *)       *)   (ARG0*)  -
+bn/vom/03/vom_0311   0   29        。    PU                         *))  -    -   -   -        *         *        *             *             *             *        *         *   -
+
+bn/vom/03/vom_0311   0    0      气象    NN         (TOP(IP(NP*   -    -   -   -       *   (ARG0*        *         *        *     -
+bn/vom/03/vom_0311   0    1      人员    NN                   *)  -    -   -   -       *        *)       *         *        *     -
+bn/vom/03/vom_0311   0    2       说    VV                (VP*   -   01   7   -       *      (V*)       *         *        *     -
+bn/vom/03/vom_0311   0    3       ：    PU                   *   -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0    4    澳大利亚    NR   (IP(NP(DNP(NP(NP*)  -    -   -   -    (GPE)  (ARG1*   (ARG0*         *   (ARG0*    (8)
+bn/vom/03/vom_0311   0    5      南部    NN               (NP*))  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0    6       的   DEG                   *)  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0    7      高压    NN                (NP*   -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0    8      系统    NN                  *))  -    -   1   -       *        *        *)        *        *)    -
+bn/vom/03/vom_0311   0    9       把    BA             (VP(VP*   -    -   -   -       *        *        *         *   (ARG0*     -
+bn/vom/03/vom_0311   0   10      沙漠    NN      (IP(NP(DNP(NP*   -    -   -   -       *        *   (ARG1*         *        *     -
+bn/vom/03/vom_0311   0   11      地区    NN                   *)  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   12       的   DEG                   *)  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   13     热空气    NN               (NP*))  -    -   -   -       *        *        *)        *        *     -
+bn/vom/03/vom_0311   0   14      带到    VV                (VP*   -   01   -   -       *        *      (V*)        *        *     -
+bn/vom/03/vom_0311   0   15      人口    NN    (NP(CP(CP(IP(NP*)  -    -   -   -       *        *   (ARG2*    (ARG0*)       *     -
+bn/vom/03/vom_0311   0   16      密集    VA               (VP*))  -   01   -   -       *        *        *       (V*)       *     -
+bn/vom/03/vom_0311   0   17       的   DEC                  *))  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   18      南部    NN                (NP*   -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   19       和    CC                   *   -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   20      东部    NN                   *)  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   21      海岸    NN            (NP*)))))  -    -   -   -       *        *        *)   (ARG0*)       *)    -
+bn/vom/03/vom_0311   0   22       ，    PU                   *   -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   23      造成    VV                (VP*   -   01   -   -       *        *        *         *      (V*)    -
+bn/vom/03/vom_0311   0   24       了    AS                   *   -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   25      目前    NT         (NP(DNP(NP*)  -    -   -   -       *        *        *         *   (ARG1*     -
+bn/vom/03/vom_0311   0   26       的   DEG                   *)  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   27      高温    JJ              (ADJP*)  -    -   -   -       *        *        *         *        *     -
+bn/vom/03/vom_0311   0   28      天气    NN           (NP*))))))  -    -   -   -       *        *)       *         *        *)    -
+bn/vom/03/vom_0311   0   29       。    PU                  *))  -    -   -   -       *        *        *         *        *     -
+
+bn/vom/03/vom_0311   0    0     随着     P        (TOP(IP(IP(PP*   -    -   -   -            *             *   (ARGM-TMP*   (ARGM-ADV*             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    1      天    NN               (IP(NP*)  -    -   -   -            *        (ARG0*)           *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    2    越来越    AD             (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)           *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    3      热    VA               (VP*))))  -   01   6   -            *           (V*)           *)           *)            *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    4      ，    PU                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    5     警察    NN                  (NP*)  -    -   -   -            *             *       (ARG0*)      (ARG0*)            *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    6     开始    VV               (VP(VP*   -   01   -   -            *             *          (V*)           *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    7      了    AS                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    8      一    CD               (NP(QP*   -    -   -   -            *             *       (ARG1*            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0    9      项     M                (CLP*))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   10      新    JJ            (DNP(ADJP*)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   11      的   DEG                     *)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   12     任务    NN                (NP*)))  -    -   -   -            *             *            *)           *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   13      ，    PU                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   14     告诫    VV                  (VP*   -   01   -   -            *             *            *          (V*)            *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   15     父母    NN                  (NP*)  -    -   2   -            *             *            *       (ARG1*)            *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   16      在     P            (IP(VP(PP*   -    -   2   -            *             *            *       (ARG2*             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   17     气温    NN      (NP(CP(CP(IP(NP*)  -    -   -   -            *             *            *            *        (ARG0*)            *            *             *            *            *   -
+bn/vom/03/vom_0311   0   18      高    VA             (VP(VP*)))  -   01   1   -            *             *            *            *           (V*)            *            *             *            *            *   -
+bn/vom/03/vom_0311   0   19      的   DEC                    *))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   20     日子    NN                (NP*)))  -    -   -   -            *             *            *            *    (ARGM-TMP*)            *            *             *            *            *   -
+bn/vom/03/vom_0311   0   21      不    AD                (ADVP*)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   22      要    VV                  (VP*   -    -   3   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   23      把    BA                  (VP*   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   24     小孩    NN               (IP(NP*)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   25      留    VV                  (VP*   -    -   4   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   26      在     P                  (PP*   -    -   2   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   27      车    NN              (LCP(NP*)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   28      里    LC           *)))))))))))  -    -   -   -            *             *            *            *)            *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   29      ，    PU                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   30     夏天    NT   (IP(NP(CP(CP(IP(NP*)  -    -   -   -        (DATE)            *            *            *             *        (ARG1*)  (ARGM-TMP*             *            *            *   -
+bn/vom/03/vom_0311   0   31     开始    VV             (VP(VP*)))  -   01   -   -            *             *            *            *             *           (V*)           *             *            *            *   -
+bn/vom/03/vom_0311   0   32      的   DEC                    *))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   33     时候    NN                 (NP*))  -    -   -   -            *             *            *            *             *    (ARGM-TMP*)           *)            *            *            *   -
+bn/vom/03/vom_0311   0   34      ，    PU                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   35      有    VE                  (VP*   -   05   4   -            *             *            *            *             *             *          (V*)            *            *            *   -
+bn/vom/03/vom_0311   0   36      ３    CD            (IP(NP(QP*   -    -   -   -    (CARDINAL)            *            *            *             *             *       (ARG1*        (ARG0*            *            *   -
+bn/vom/03/vom_0311   0   37      个     M                (CLP*))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   38     不到    AD         (DNP(QP(ADVP*)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   39      ７    CD                  (QP*   -    -   -   -       (DATE*             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   40      岁     M               (CLP*)))  -    -   -   -            *)            *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   41      的   DEG                     *)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   42     小孩    NN                 (NP*))  -    -   -   -            *             *            *            *             *             *            *             *)           *            *   -
+bn/vom/03/vom_0311   0   43      被    SB               (VP(VP*   -    -   -   -            *             *            *            *             *             *            *        (ARG0*            *            *   -
+bn/vom/03/vom_0311   0   44      留    VV                  (VP*   -    -   4   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   45      在     P                  (PP*   -    -   2   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   46     汽车    NN              (LCP(NP*   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   47     后座    NN                     *)  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   48      上    LC                  *))))  -    -   1   -            *             *            *            *             *             *            *             *)           *            *   -
+bn/vom/03/vom_0311   0   49      长    AD             (VP(ADVP*)  -    -   4   -            *             *            *            *             *             *            *    (ARGM-ADV*)           *            *   -
+bn/vom/03/vom_0311   0   50      达    VV                  (VP*   -   01   1   -            *             *            *            *             *             *            *           (V*)           *            *   -
+bn/vom/03/vom_0311   0   51      １    CD            (NP(QP(QP*   -    -   -   -       (TIME*             *            *            *             *             *            *        (ARG1*            *            *   -
+bn/vom/03/vom_0311   0   52      个     M                (CLP*))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   53      多    AD               (ADVP*))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   54     小时    NN           (NP*))))))))  -    -   -   -            *)            *            *            *             *             *            *)            *)           *            *   -
+bn/vom/03/vom_0311   0   55      ，    PU                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   56      车    NN           (IP(LCP(NP*)  -    -   -   -            *             *            *            *             *             *            *             *       (ARG0*       (ARG0*   -
+bn/vom/03/vom_0311   0   57      里    LC                     *)  -    -   -   -            *             *            *            *             *             *            *             *            *)           *)  -
+bn/vom/03/vom_0311   0   58      热    VA                  (VP*   -   01   6   -            *             *            *            *             *             *            *             *          (V*)           *   -
+bn/vom/03/vom_0311   0   59      得   DER                     *   -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+bn/vom/03/vom_0311   0   60      像     P               (VP(PP*   -    -   -   -            *             *            *            *             *             *            *             *   (ARGM-EXT*   (ARGM-ADV*   -
+bn/vom/03/vom_0311   0   61     炉子    NN                 (NP*))  -    -   -   -            *             *            *            *             *             *            *             *            *            *)  -
+bn/vom/03/vom_0311   0   62     一样    VA               (VP*))))  -   01   -   -            *             *            *            *             *             *            *             *            *)         (V*)  -
+bn/vom/03/vom_0311   0   63      。    PU                    *))  -    -   -   -            *             *            *            *             *             *            *             *            *            *   -
+
+bn/vom/03/vom_0311   0    0      去年    NT         (TOP(IP(IP(NP*)  -    -   -   -        (DATE)     *            *      *   -
+bn/vom/03/vom_0311   0    1       ，    PU                      *   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    2      紧急    JJ              (NP(ADJP*)  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    3      救援    NN                   (NP*   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    4      部门    NN                     *))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    5       从     P                (VP(PP*   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    6       锁    VV   (LCP(NP(CP(CP(IP(VP*   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    7       着    AS                     *))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    8       的   DEC                     *))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0    9       车    NN                  (NP*))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   10       里    LC                     *))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   11      救出    VV                   (VP*   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   12       了    AS                      *   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   13    １３００    CD                (NP(QP*   -    -   -   -    (CARDINAL)     *            *      *   -
+bn/vom/03/vom_0311   0   14       个     M                 (CLP*))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   15      儿童    NN               (NP*)))))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   16       ，    PU                      *   -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   17       一    CD  (IP(NP(DNP(LCP(NP(QP*   -    -   -   -            *      *       (ARG0*      *   -
+bn/vom/03/vom_0311   0   18       辆     M                 (CLP*))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   19      汽车    NN                  (NP*))  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   20       里    LC                      *)  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   21       的   DEG                      *)  -    -   -   -            *      *            *      *   -
+bn/vom/03/vom_0311   0   22      温度    NN                  (NP*))  -    -   -   -            *      *            *)     *   -
+bn/vom/03/vom_0311   0   23      可以    VV                   (VP*   -   01   1   -            *    (V*)           *      *   -
+bn/vom/03/vom_0311   0   24       比     P                (VP(PP*   -    -   -   -            *      *   (ARGM-ADV*      *   -
+bn/vom/03/vom_0311   0   25      外面    NN                  (NP*))  -    -   -   -            *      *            *)     *   -
+bn/vom/03/vom_0311   0   26       高    VA               (VP(VRD*   -   01   1   -            *      *          (V*)     *   -
+bn/vom/03/vom_0311   0   27       到    VV                      *)  -   01   3   -            *      *            *    (V*)  -
+bn/vom/03/vom_0311   0   28      ４０    CD                   (QP*   -    -   -   -   (QUANTITY*      *   (ARGM-EXT*      *   -
+bn/vom/03/vom_0311   0   29       度     M             (CLP*))))))  -    -   -   -            *)     *            *)     *   -
+bn/vom/03/vom_0311   0   30       。    PU                     *))  -    -   -   -            *      *            *      *   -
+
+bn/vom/03/vom_0311   0    0     一    CD  (TOP(IP(NP(QP*   -    -   -   -          *         *   (ARG0*             *      *      *   (2
+bn/vom/03/vom_0311   0    1     位     M          (CLP*))  -    -   2   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0    2    名叫    VV   (CP(CP(IP(VP*   -   01   -   -          *       (V*)       *             *      *      *    -
+bn/vom/03/vom_0311   0    3    谢尔    NR          (NP*)))  -    -   -   -    (PERSON)   (ARG1*)       *             *      *      *    -
+bn/vom/03/vom_0311   0    4     的   DEC              *))  -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0    5    医生    NN           (NP*))  -    -   -   -          *    (ARG0*)       *)            *      *      *    2)
+bn/vom/03/vom_0311   0    6     说    VV            (VP*   -   01   7   -          *         *      (V*)            *      *      *    -
+bn/vom/03/vom_0311   0    7     ：    PU               *   -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0    8     “    PU            (IP*   -    -   -   -          *         *   (ARG1*             *      *      *    -
+bn/vom/03/vom_0311   0    9    任何    DT         (NP(DP*)  -    -   -   -          *         *        *        (ARG0*      *      *    -
+bn/vom/03/vom_0311   0   10     被    SB   (CP(CP(IP(VP*   -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   11     锁    VV            (VP*   -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   12     在     P            (PP*   -    -   2   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   13     车    NN        (LCP(NP*)  -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   14     里    LC           *)))))  -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   15     的   DEC              *))  -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   16     人    NN           (NP*))  -    -   -   -          *         *        *             *)     *      *    -
+bn/vom/03/vom_0311   0   17     都    AD       (VP(ADVP*)  -    -   -   -          *         *        *    (ARGM-ADV*)     *      *    -
+bn/vom/03/vom_0311   0   18     有    VE            (VP*   -   01   3   -          *         *        *           (V*)     *      *    -
+bn/vom/03/vom_0311   0   19     被    SB   (NP(CP(IP(VP*   -    -   -   -          *         *        *        (ARG1*      *      *    -
+bn/vom/03/vom_0311   0   20     热    VV        (VP(VRD*   -   01   6   -          *         *        *             *    (V*)     *    -
+bn/vom/03/vom_0311   0   21     死    VV            *))))  -   01   1   -          *         *        *             *      *    (V*)   -
+bn/vom/03/vom_0311   0   22     的   DEC               *)  -    -   -   -          *         *        *             *      *      *    -
+bn/vom/03/vom_0311   0   23    危险    NN         (NP*))))  -    -   -   -          *         *        *             *)     *      *    -
+bn/vom/03/vom_0311   0   24     ”    PU              *))  -    -   -   -          *         *        *)            *      *      *    -
+bn/vom/03/vom_0311   0   25     。    PU              *))  -    -   -   -          *         *        *             *      *      *    -
+
+bn/vom/03/vom_0311   0    0    谢尔    NR      (TOP(IP(NP*)  -    -   -   -    (PERSON)   (ARG0*)        *         *            *      *    (2)
+bn/vom/03/vom_0311   0    1     说    VV             (VP*   -   01   7   -          *       (V*)        *         *            *      *     -
+bn/vom/03/vom_0311   0    2     ：    PU                *   -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0    3     “    PU             (IP*   -    -   -   -          *    (ARG1*         *         *            *      *     -
+bn/vom/03/vom_0311   0    4     一    CD          (NP(QP*   -    -   -   -          *         *         *    (ARG0*       (ARG0*      *     -
+bn/vom/03/vom_0311   0    5     个     M           (CLP*))  -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0    6    小孩    NN            (NP*))  -    -   -   -          *         *         *         *)           *)     *     -
+bn/vom/03/vom_0311   0    7     被    SB          (VP(VP*   -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0    8     锁    VV             (VP*   -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0    9     在     P             (PP*   -    -   2   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   10     车    NN         (LCP(NP*)  -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   11     里    LC               *))  -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   12    ２０    CD             (QP*   -    -   -   -     (TIME*         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   13    分钟     M         (CLP*))))  -    -   -   -          *)        *         *         *            *      *     -
+bn/vom/03/vom_0311   0   14     ，    PU                *   -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   15     有    VE          (VP(VP*   -   03   5   -          *         *       (V*)        *            *      *     -
+bn/vom/03/vom_0311   0   16    可能    NN            (NP*))  -    -   -   -          *         *    (ARG1*)        *            *      *     -
+bn/vom/03/vom_0311   0   17    失去    VV             (VP*   -   01   -   -          *         *         *       (V*)           *      *     -
+bn/vom/03/vom_0311   0   18    知觉    NN           (NP*)))  -    -   -   -          *         *         *    (ARG1*)           *      *     -
+bn/vom/03/vom_0311   0   19     ，    PU                *)  -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   20     一    CD   (VP(LCP(NP(QP*   -    -   -   -     (TIME*         *         *         *   (ARGM-TMP*      *     -
+bn/vom/03/vom_0311   0   21     个     M           (CLP*))  -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   22    小时    NN            (NP*))  -    -   -   -          *)        *         *         *            *      *     -
+bn/vom/03/vom_0311   0   23     内    LC                *)  -    -   -   -          *         *         *         *            *)     *     -
+bn/vom/03/vom_0311   0   24     有    VE             (VP*   -   01   3   -          *         *         *         *          (V*)     *     -
+bn/vom/03/vom_0311   0   25    死亡    VV   (NP(CP(IP(VP*))  -   01   -   -          *         *         *         *       (ARG1*    (V*)    -
+bn/vom/03/vom_0311   0   26     的   DEC                *)  -    -   -   -          *         *         *         *            *      *     -
+bn/vom/03/vom_0311   0   27    危险    NN          (NP*))))  -    -   -   -          *         *         *         *            *)     *     -
+bn/vom/03/vom_0311   0   28     ”    PU               *))  -    -   -   -          *         *)        *         *            *      *     -
+bn/vom/03/vom_0311   0   29     。    PU               *))  -    -   -   -          *         *         *         *            *      *     -
+
+bn/vom/03/vom_0311   0   0    消防   NN  (TOP(IP(NP*   -    -   -   -   *        (ARG0*   -
+bn/vom/03/vom_0311   0   1    人员   NN            *)  -    -   -   -   *             *)  -
+bn/vom/03/vom_0311   0   2     也   AD    (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)  -
+bn/vom/03/vom_0311   0   3    处于   VV         (VP*   -   01   -   -   *           (V*)  -
+bn/vom/03/vom_0311   0   4    高度   JJ    (NP(ADJP*)  -    -   -   -   *        (ARG1*   -
+bn/vom/03/vom_0311   0   5    警戒   NN         (NP*   -    -   -   -   *             *   -
+bn/vom/03/vom_0311   0   6    状态   NN         *))))  -    -   -   -   *             *)  -
+bn/vom/03/vom_0311   0   7     。   PU           *))  -    -   -   -   *             *   -
+
+bn/vom/03/vom_0311   0    0       在     P       (TOP(IP(IP(PP*   -    -   2   -       *             *    (ARGM-LOC*             *     -
+bn/vom/03/vom_0311   0    1      悉尼    NR           (NP(NP(NP*)  -    -   -   -    (GPE)            *             *             *    (5)
+bn/vom/03/vom_0311   0    2      北部    NN                (NP*))  -    -   -   -       *             *             *             *     -
+bn/vom/03/vom_0311   0    3       不    AD   (CP(CP(IP(VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)            *             *     -
+bn/vom/03/vom_0311   0    4       远    VA               (VP*)))  -   01   -   -       *           (V*)            *             *     -
+bn/vom/03/vom_0311   0    5       的   DEC                   *))  -    -   -   -       *             *             *             *     -
+bn/vom/03/vom_0311   0    6      国家    NN                 (NP*   -    -   -   -   (FAC*        (ARG0*             *             *     -
+bn/vom/03/vom_0311   0    7      公园    NN                  *)))  -    -   -   -       *)            *)            *)            *     -
+bn/vom/03/vom_0311   0    8       ，    PU                    *   -    -   -   -       *             *             *             *     -
+bn/vom/03/vom_0311   0    9      灌木    NN                 (NP*   -    -   -   -       *             *        (ARG0*             *     -
+bn/vom/03/vom_0311   0   10      火灾    NN                    *)  -    -   -   -       *             *             *)            *     -
+bn/vom/03/vom_0311   0   11      正在    AD            (VP(ADVP*)  -    -   -   -       *             *    (ARGM-ADV*)            *     -
+bn/vom/03/vom_0311   0   12      肆虐    VV               (VP*)))  -   01   -   -       *             *           (V*)            *     -
+bn/vom/03/vom_0311   0   13       ，    PU                    *   -    -   -   -       *             *             *             *     -
+bn/vom/03/vom_0311   0   14      紧急    JJ         (IP(NP(ADJP*)  -    -   -   -       *             *             *        (ARG0*     -
+bn/vom/03/vom_0311   0   15      救援    NN                 (NP*   -    -   -   -       *             *             *             *     -
+bn/vom/03/vom_0311   0   16      部门    NN                   *))  -    -   -   -       *             *             *             *)    -
+bn/vom/03/vom_0311   0   17       在     P              (VP(PP*   -    -   2   -       *             *             *    (ARGM-LOC*     -
+bn/vom/03/vom_0311   0   18      整个    DT              (NP(DP*)  -    -   -   -       *             *             *             *    (3
+bn/vom/03/vom_0311   0   19       新    JJ            (NP(ADJP*)  -    -   -   -   (GPE*             *             *             *     -
+bn/vom/03/vom_0311   0   20       南    NN                 (NP*)  -    -   -   -       *             *             *             *     -
+bn/vom/03/vom_0311   0   21    威尔士州    NR              (NP*))))  -    -   -   -       *)            *             *             *)    3)
+bn/vom/03/vom_0311   0   22      全面    AD               (ADVP*)  -    -   -   -       *             *             *    (ARGM-ADV*)    -
+bn/vom/03/vom_0311   0   23      禁止    VV                 (VP*   -   01   -   -       *             *             *           (V*)    -
+bn/vom/03/vom_0311   0   24      烟火    NN              (NP*))))  -    -   -   -       *             *             *        (ARG1*)    -
+bn/vom/03/vom_0311   0   25       。    PU                   *))  -    -   -   -       *             *             *             *     -
+
+bn/vom/03/vom_0311   0    0       一    CD             (TOP(IP(NP(QP*   -    -   -   -   *   (ARG0*             *             *             *   -
+bn/vom/03/vom_0311   0    1       位     M                     (CLP*))  -    -   2   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0    2      建筑    NN                       (NP*   -    -   -   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0    3      工人    NN                         *))  -    -   -   -   *        *)            *             *             *   -
+bn/vom/03/vom_0311   0    4       说    VV                       (VP*   -   01   7   -   *      (V*)            *             *             *   -
+bn/vom/03/vom_0311   0    5       ：    PU                          *   -    -   -   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0    6       “    PU                       (IP*   -    -   -   -   *   (ARG1*             *             *             *   -
+bn/vom/03/vom_0311   0    7       天    NN                    (IP(NP*)  -    -   -   -   *        *        (ARG0*)            *             *   -
+bn/vom/03/vom_0311   0    8      简直    AD                  (VP(ADVP*)  -    -   -   -   *        *    (ARGM-ADV*)            *             *   -
+bn/vom/03/vom_0311   0    9       热    VA                       (VP*   -   01   6   -   *        *           (V*)            *             *   -
+bn/vom/03/vom_0311   0   10       得   DER                          *   -    -   -   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0   11       不    AD                  (VP(ADVP*)  -    -   -   -   *        *    (ARGM-EXT*             *             *   -
+bn/vom/03/vom_0311   0   12      像话    VA                   (VP*)))))  -    -   -   -   *        *             *)            *             *   -
+bn/vom/03/vom_0311   0   13       ，    PU                          *   -    -   -   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0   14      我们    PN                    (IP(NP*)  -    -   -   -   *        *             *             *        (ARG0*)  -
+bn/vom/03/vom_0311   0   15      上班    VV   (VP(NP(CP(CP(IP(VP(VP*)))  -   01   -   -   *        *             *           (V*)   (ARGM-TMP*   -
+bn/vom/03/vom_0311   0   16       的   DEC                         *))  -    -   -   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0   17      时候    NN                      (NP*))  -    -   -   -   *        *             *    (ARGM-TMP*)            *)  -
+bn/vom/03/vom_0311   0   18       热    VA                       (VP*   -   01   6   -   *        *             *             *           (V*)  -
+bn/vom/03/vom_0311   0   19       得   DER                          *   -    -   -   -   *        *             *             *             *   -
+bn/vom/03/vom_0311   0   20    大汗淋漓    VV                    (VP*))))  -    -   -   -   *        *             *             *    (ARGM-EXT*)  -
+bn/vom/03/vom_0311   0   21       ”    PU                         *))  -    -   -   -   *        *)            *             *             *   -
+bn/vom/03/vom_0311   0   22       。    PU                         *))  -    -   -   -   *        *             *             *             *   -
+
+bn/vom/03/vom_0311   0    0      交通    NN   (TOP(IP(IP(NP*)  -    -   -   -       *        (ARG0*)        *         *            *         *    -
+bn/vom/03/vom_0311   0    1       也    AD        (VP(ADVP*)  -    -   -   -       *    (ARGM-ADV*)        *         *            *         *    -
+bn/vom/03/vom_0311   0    2       成    VV             (VP*   -   01   1   -       *           (V*)        *         *            *         *    -
+bn/vom/03/vom_0311   0    3       了    AS                *   -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0    4       个     M     (NP(QP(CLP*))  -    -   -   -       *        (ARG1*         *         *            *         *    -
+bn/vom/03/vom_0311   0    5      头疼    VV   (CP(CP(IP(VP*))  -   01   -   -       *             *       (V*)        *            *         *    -
+bn/vom/03/vom_0311   0    6       的   DEC               *))  -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0    7      问题    NN         (NP*)))))  -    -   -   -       *             *)   (ARG0*)        *            *         *    -
+bn/vom/03/vom_0311   0    8       ，    PU                *   -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0    9       在     P          (IP(PP*   -    -   2   -       *             *         *         *   (ARGM-LOC*         *    -
+bn/vom/03/vom_0311   0   10       新    JJ        (NP(ADJP*)  -    -   -   -   (GPE*             *         *         *            *         *   (3
+bn/vom/03/vom_0311   0   11       南    NN             (NP*)  -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   12    威尔士州    NR           (NP*)))  -    -   -   -       *)            *         *         *            *)        *    3)
+bn/vom/03/vom_0311   0   13       ，    PU                *   -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   14       天    NN          (IP(NP*)  -    -   -   -       *             *         *    (ARG0*)      (ARG0*         *    -
+bn/vom/03/vom_0311   0   15       热    VA            (VP*))  -   01   6   -       *             *         *       (V*)           *)        *    -
+bn/vom/03/vom_0311   0   16      引起    VV             (VP*   -   01   -   -       *             *         *         *          (V*)        *    -
+bn/vom/03/vom_0311   0   17      铁轨    NN          (IP(NP*)  -    -   -   -       *             *         *         *       (ARG1*    (ARG0*)   -
+bn/vom/03/vom_0311   0   18      变形    VV          (VP*))))  -   01   -   -       *             *         *         *            *)      (V*)   -
+bn/vom/03/vom_0311   0   19       ，    PU                *   -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   20      火车    NN          (IP(NP*)  -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   21       长    JJ     (VP(NP(ADJP*)  -    -   3   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   22      时间    NN            (NP*))  -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   23      晚点    VV           (VP*)))  -    -   -   -       *             *         *         *            *         *    -
+bn/vom/03/vom_0311   0   24       。    PU               *))  -    -   -   -       *             *         *         *            *         *    -
+
+bn/vom/03/vom_0311   0    0     在    P  (TOP(IP(PP*   -    -    2   -   *      *    (ARGM-LOC*   -
+bn/vom/03/vom_0311   0    1    火车   NN     (LCP(NP*)  -    -    -   -   *      *             *   -
+bn/vom/03/vom_0311   0    2     内   LC           *))  -    -    -   -   *      *             *)  -
+bn/vom/03/vom_0311   0    3    情况   NN         (NP*)  -    -    -   -   *      *        (ARG0*)  -
+bn/vom/03/vom_0311   0    4     也   AD    (VP(ADVP*)  -    -    -   -   *      *    (ARGM-ADV*)  -
+bn/vom/03/vom_0311   0    5    没有   AD       (ADVP*)  -    -    3   -   *      *    (ARGM-ADV*)  -
+bn/vom/03/vom_0311   0    6     好   VA  (VP(VP(VRD*   -    -    1   -   *      *             *   -
+bn/vom/03/vom_0311   0    7     到   VV            *)  -   01    3   -   *    (V*)            *   -
+bn/vom/03/vom_0311   0    8    哪里   PN        (NP*))  -    -    -   -   *      *             *   -
+bn/vom/03/vom_0311   0    9     去   VV       (VP*)))  -   01   10   -   *      *           (V*)  -
+bn/vom/03/vom_0311   0   10     。   PU           *))  -    -    -   -   *      *             *   -
+
+bn/vom/03/vom_0311   0    0     高温    NN              (TOP(IP(IP(NP*)  -    -   -   -            *    (ARG0*)           *             *   -
+bn/vom/03/vom_0311   0    1     导致    VV                        (VP*   -   01   -   -            *       (V*)           *             *   -
+bn/vom/03/vom_0311   0    2     许多    CD           (IP(NP(DNP(NP(QP*)  -    -   -   -            *    (ARG1*            *             *   -
+bn/vom/03/vom_0311   0    3     车厢    NN                       (NP*))  -    -   -   -            *         *            *             *   -
+bn/vom/03/vom_0311   0    4      的   DEG                           *)  -    -   -   -            *         *            *             *   -
+bn/vom/03/vom_0311   0    5     冷气    NN                        (NP*   -    -   -   -            *         *            *             *   -
+bn/vom/03/vom_0311   0    6     系统    NN                          *))  -    -   1   -            *         *            *             *   -
+bn/vom/03/vom_0311   0    7     失灵    VV                     (VP*))))  -    -   -   -            *         *)           *             *   -
+bn/vom/03/vom_0311   0    8      ，    PU                           *   -    -   -   -            *         *            *             *   -
+bn/vom/03/vom_0311   0    9     许多    CD                  (IP(NP(QP*)  -    -   -   -            *         *       (ARG0*             *   -
+bn/vom/03/vom_0311   0   10      人    NN                       (NP*))  -    -   -   -            *         *            *)            *   -
+bn/vom/03/vom_0311   0   11      坐    VV                     (VP(VP*   -   01   1   -            *         *          (V*)            *   -
+bn/vom/03/vom_0311   0   12      在     P                        (PP*   -    -   2   -            *         *   (ARGM-ADV*             *   -
+bn/vom/03/vom_0311   0   13      高    AD   (LCP(NP(CP(CP(IP(VP(ADVP*)  -    -   1   -            *         *            *    (ARGM-ADV*)  -
+bn/vom/03/vom_0311   0   14      达    VV                        (VP*   -   01   1   -            *         *            *           (V*)  -
+bn/vom/03/vom_0311   0   15     ４０    CD                        (QP*   -    -   -   -   (QUANTITY*         *            *        (ARG1*   -
+bn/vom/03/vom_0311   0   16    摄氏度     M                   (CLP*)))))  -    -   -   -            *)        *            *             *)  -
+bn/vom/03/vom_0311   0   17      的   DEC                          *))  -    -   -   -            *         *            *             *   -
+bn/vom/03/vom_0311   0   18     慢车    NN                       (NP*))  -    -   -   -            *         *            *        (ARG0*)  -
+bn/vom/03/vom_0311   0   19      里    LC                         *)))  -    -   -   -            *         *            *)            *   -
+bn/vom/03/vom_0311   0   20     受罪    VV                      (VP*)))  -    -   -   -            *         *            *             *   -
+bn/vom/03/vom_0311   0   21      。    PU                          *))  -    -   -   -            *         *            *             *   -
+
+bn/vom/03/vom_0311   0    0     随着     P             (TOP(IP(PP*   -    -   -   -   *             *   (ARGM-ADV*         *   -
+bn/vom/03/vom_0311   0    1     热浪    NN                 (IP(NP*)  -    -   -   -   *        (ARG1*)           *         *   -
+bn/vom/03/vom_0311   0    2    越来越    AD               (VP(ADVP*)  -    -   -   -   *    (ARGM-ADV*)           *         *   -
+bn/vom/03/vom_0311   0    3     难以    AD                  (ADVP*)  -    -   -   -   *    (ARGM-ADV*)           *         *   -
+bn/vom/03/vom_0311   0    4     忍受    VV                 (VP*))))  -   01   -   -   *           (V*)           *)        *   -
+bn/vom/03/vom_0311   0    5      ，    PU                       *   -    -   -   -   *             *            *         *   -
+bn/vom/03/vom_0311   0    6      有    VE                    (VP*   -   05   4   -   *             *          (V*)        *   -
+bn/vom/03/vom_0311   0    7      人    NN                 (IP(NP*)  -    -   -   -   *             *       (ARG1*    (ARG0*)  -
+bn/vom/03/vom_0311   0    8     采取    VV                    (VP*   -   01   -   -   *             *            *       (V*)  -
+bn/vom/03/vom_0311   0    9      了    AS                       *   -    -   -   -   *             *            *         *   -
+bn/vom/03/vom_0311   0   10      不    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -   *             *            *    (ARG1*   -
+bn/vom/03/vom_0311   0   11     寻同    VA                  (VP*)))  -    -   -   -   *             *            *         *   -
+bn/vom/03/vom_0311   0   12      的   DEC                      *))  -    -   -   -   *             *            *         *   -
+bn/vom/03/vom_0311   0   13     凉快    NN                    (NP*   -    -   -   -   *             *            *         *   -
+bn/vom/03/vom_0311   0   14     方式    NN                   *)))))  -    -   -   -   *             *            *)        *)  -
+bn/vom/03/vom_0311   0   15      。    PU                      *))  -    -   -   -   *             *            *         *   -
+
+bn/vom/03/vom_0311   0    0      一    CD  (TOP(IP(IP(LCP(NP(DNP(NP(QP*   -    -    -   -   *      *             *             *             *      *             *             *             *    (7
+bn/vom/03/vom_0311   0    1      家     M                        (CLP*))  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    2     医院    NN                         (NP*))  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    3      的   DEG                             *)  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    4    接待区    NN                         (NP*))  -    -    -   -   *      *             *             *             *      *             *             *             *     7)
+bn/vom/03/vom_0311   0    5      里    LC                             *)  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    6     挤满    VV                          (VP*   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    7      了    AS                             *   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    8      人    NN                        (NP*)))  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0    9      ，    PU                             *   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   10     原来    AD                  (CP(IP(ADVP*)  -    -    -   -   *      *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)     *             *             *             *     -
+bn/vom/03/vom_0311   0   11     人们    NN                          (NP*)  -    -    -   -   *      *        (ARG0*)       (ARG0*)       (ARG0*)     *             *             *             *     -
+bn/vom/03/vom_0311   0   12      不    AD                     (VP(ADVP*)  -    -    -   -   *      *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)     *             *             *             *     -
+bn/vom/03/vom_0311   0   13      是    VC                          (VP*   -   01    1   -   *    (V*)            *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   14      到    VV                       (VP(VP*   -   01    1   -   *      *           (V*)            *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   15     这里    PN                         (NP*))  -    -    -   -   *      *        (ARG1*)            *             *      *             *             *             *    (7)
+bn/vom/03/vom_0311   0   16      来    VV                          (VP*   -   05   10   -   *      *             *           (V*)            *      *             *             *             *     -
+bn/vom/03/vom_0311   0   17     看病    VV                     (VP*))))))  -   01    -   -   *      *             *        (ARG1*)          (V*)     *             *             *             *     -
+bn/vom/03/vom_0311   0   18      的    SP                             *)  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   19      ，    PU                             *   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   20      而    AD               (CP(IP(VP(ADVP*)  -    -    -   -   *      *             *             *             *      *    (ARGM-DIS*)   (ARGM-DIS*)            *     -
+bn/vom/03/vom_0311   0   21      是    VC                          (VP*   -   01    1   -   *      *             *             *             *    (V*)            *             *             *     -
+bn/vom/03/vom_0311   0   22      到    VV                       (VP(VP*   -   01    1   -   *      *             *             *             *      *           (V*)            *             *     -
+bn/vom/03/vom_0311   0   23     这里    PN                         (NP*))  -    -    -   -   *      *             *             *             *      *        (ARG1*)            *             *    (7)
+bn/vom/03/vom_0311   0   24      来    VV                          (VP*   -   05   10   -   *      *             *             *             *      *             *           (V*)            *     -
+bn/vom/03/vom_0311   0   25     凉快    VV                     (VP*))))))  -    -    -   -   *      *             *             *             *      *             *        (ARG1*)            *     -
+bn/vom/03/vom_0311   0   26      的    SP                             *   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   27      ，    PU                             *   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   28     因为     P                          (PP*   -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   29     这里    PN                (IP(NP(DNP(NP*)  -    -    -   -   *      *             *             *             *      *             *             *        (ARG0*    (7)
+bn/vom/03/vom_0311   0   30      的   DEG                             *)  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+bn/vom/03/vom_0311   0   31     冷气    NN                         (NP*))  -    -    -   -   *      *             *             *             *      *             *             *             *)    -
+bn/vom/03/vom_0311   0   32     特别    AD                     (VP(ADVP*)  -    -    -   -   *      *             *             *             *      *             *             *    (ARGM-ADV*)    -
+bn/vom/03/vom_0311   0   33      足    VA                      (VP*)))))  -   02    -   -   *      *             *             *             *      *             *             *           (V*)    -
+bn/vom/03/vom_0311   0   34      。    PU                            *))  -    -    -   -   *      *             *             *             *      *             *             *             *     -
+
+#end document

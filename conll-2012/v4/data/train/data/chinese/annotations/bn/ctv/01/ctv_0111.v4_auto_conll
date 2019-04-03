@@ -1,0 +1,223 @@
+#begin document (bn/ctv/01/ctv_0111); part 000
+bn/ctv/01/ctv_0111   0    0       在     P  (TOP(IP(IP(PP*     -   -   2   -   *        *    (ARGM-TMP*            *     -
+bn/ctv/01/ctv_0111   0    1    澳大利亚    NR   (NP(CP(IP(NP*)    -   -   -   -   *        *             *            *    (3)
+bn/ctv/01/ctv_0111   0    2      进入    VV            (VP*     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0    3      旅游    NN            (NP*     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0    4      旺季    NN             *)))    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0    5       的   DEC               *)    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0    6      时候    NN          (NP*)))    -   -   1   -   *        *             *)           *     -
+bn/ctv/01/ctv_0111   0    7       ，    PU               *     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0    8     来往于    VV   (NP(CP(IP(VP*    来往于  -   -   -   *      (V*)       (ARG0*            *     -
+bn/ctv/01/ctv_0111   0    9      中国    NR        (LCP(NP*     -   -   -   -   *   (ARG1*             *            *    (1
+bn/ctv/01/ctv_0111   0   10       和    CC               *     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   11    澳大利亚    NR               *)    -   -   -   -   *        *             *            *     1)
+bn/ctv/01/ctv_0111   0   12      之间    LC             *)))    -   -   -   -   *        *)            *            *     -
+bn/ctv/01/ctv_0111   0   13       的   DEC               *)    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   14      乘客    NN           (NP*))    -   -   -   -   *        *             *)           *     -
+bn/ctv/01/ctv_0111   0   15       又    AD       (VP(ADVP*)    -   -   -   -   *        *    (ARGM-ADV*)           *     -
+bn/ctv/01/ctv_0111   0   16       多    VA            (VP*      多  -   2   -   *        *           (V*)           *     -
+bn/ctv/01/ctv_0111   0   17       了    AS               *     -   -   -   -   *        *    (ARGM-ADV*)           *     -
+bn/ctv/01/ctv_0111   0   18       一    CD         (NP(QP*     -   -   -   -   *        *        (ARG1*            *     -
+bn/ctv/01/ctv_0111   0   19       个     M          (CLP*))    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   20      选择    NN        (NP*)))))    -   -   -   -   *        *             *)           *     -
+bn/ctv/01/ctv_0111   0   21       ，    PU               *     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   22       从     P         (IP(PP*     -   -   -   -   *        *             *   (ARGM-TMP*     -
+bn/ctv/01/ctv_0111   0   23      ７号    NT        (LCP(NP*)    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   24       起    LC              *))    -   -   2   -   *        *             *            *)    -
+bn/ctv/01/ctv_0111   0   25      中国    NR         (NP(NP*)    -   -   -   -   *        *             *       (ARG0*    (5
+bn/ctv/01/ctv_0111   0   26      南方    NR            (NP*     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   27      航空    NN               *     -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   28      公司    NN              *))    -   -   1   -   *        *             *            *)    5)
+bn/ctv/01/ctv_0111   0   29      开通    VV            (VP*     开通  -   -   -   *        *             *          (V*)    -
+bn/ctv/01/ctv_0111   0   30       了    AS               *     -   -   -   -   *        *             *       (ARG1*)    -
+bn/ctv/01/ctv_0111   0   31      广州    NR     (NP(DNP(NP*     -   -   -   -   *        *             *       (ARG1*    (0
+bn/ctv/01/ctv_0111   0   32       至    CC               *     -   -   1   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   33      悉尼    NR               *)    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   34       的   DEG               *)    -   -   -   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   35       新    JJ          (ADJP*)    -   -   1   -   *        *             *            *     -
+bn/ctv/01/ctv_0111   0   36      航线    NN         (NP*))))    -   -   -   -   *        *             *            *)    0)
+bn/ctv/01/ctv_0111   0   37       。    PU              *))    -   -   -   -   *        *             *            *     -
+
+bn/ctv/01/ctv_0111   0    0     中国    NR   (TOP(IP(NP(NP*)   -   -   -   -   *    (ARG0*       (ARG0*   (5
+bn/ctv/01/ctv_0111   0    1     南方    NR             (NP*    -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0    2     航空    NN                *    -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0    3     公司    NN               *))   -   -   1   -   *         *)           *)   5)
+bn/ctv/01/ctv_0111   0    4     开通    VV          (VP(VP*    开通  -   -   -   *       (V*)           *    -
+bn/ctv/01/ctv_0111   0    5      了    AS                *    -   -   -   -   *    (ARG1*)           *    -
+bn/ctv/01/ctv_0111   0    6     广州    NR   (NP(DNP(NP(NP*)   -   -   -   -   *    (ARG1*            *   (0
+bn/ctv/01/ctv_0111   0    7      —    PU                *    -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0    8    墨尔本    NR             (NP*)   -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0    9      —    PU                *    -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   10     悉尼    NR          (NP(NP*)   -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   11      新    JJ           (ADJP*)   -   -   1   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   12     航线    NN           (NP*)))   -   -   -   -   *         *            *    0)
+bn/ctv/01/ctv_0111   0   13      的   DEG                *)   -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   14      新    JJ           (ADJP*)   -   -   1   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   15     班航    NN           (NP*)))   -   -   -   -   *         *)           *    -
+bn/ctv/01/ctv_0111   0   16      ，    PU                *    -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   17    １２月    NT          (VP(NP*    -   -   -   -   *         *   (ARGM-TMP*    -
+bn/ctv/01/ctv_0111   0   18     ７号    NT                *    -   -   -   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   19     上午    NT                *)   -   -   1   -   *         *            *)   -
+bn/ctv/01/ctv_0111   0   20     抵达    VV             (VP*    抵达  -   -   -   *         *          (V*)   -
+bn/ctv/01/ctv_0111   0   21     西尼    NR             (NP*    -   -   -   -   *         *       (ARG1*   (4
+bn/ctv/01/ctv_0111   0   22     国际    NN                *    -   -   1   -   *         *            *    -
+bn/ctv/01/ctv_0111   0   23     机场    NN             *))))   -   -   -   -   *         *            *)   4)
+bn/ctv/01/ctv_0111   0   24      。    PU               *))   -   -   -   -   *         *            *    -
+
+bn/ctv/01/ctv_0111   0    0      当     P         (TOP(IP(IP(PP*     -   -   4   -   *             *      *        *   (ARGM-TMP*        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    1     南方    NR  (LCP(IP(NP(NP(DNP(NP*     -   -   -   -   *        (ARG0*      *        *            *        *            *             *        *        *        *    (5
+bn/ctv/01/ctv_0111   0    2     航空    NN                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    3     公司    NN                      *)    -   -   1   -   *             *      *        *            *        *            *             *        *        *        *     5)
+bn/ctv/01/ctv_0111   0    4      的   DEG                      *)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    5     波音    NR                  (NP*))    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    6    ７７７    CD                   (QP*)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    7     飞机    NN                  (NP*))    -   -   -   -   *             *)     *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    8      在     P                (VP(PP*     -   -   2   -   *    (ARGM-LOC*      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0    9     跑道    NN               (LCP(NP*)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   10      上    LC                     *))    -   -   1   -   *             *)     *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   11     徐徐    AD                 (ADVP*)    -   -   -   -   *    (ARGM-ADV*)     *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   12     滑行    VV                 (VP*)))    滑行  -   -   -   *           (V*)     *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   13      时    LC                     *))    -   -   -   -   *    (ARGM-ADV*)     *        *            *)       *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   14      ，    PU                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   15     西尼    NR                   (NP*     -   -   -   -   *             *      *        *       (ARG0*        *            *             *        *        *        *    (4
+bn/ctv/01/ctv_0111   0   16     机场    NN                      *)    -   -   -   -   *             *      *        *            *)       *            *             *        *        *        *     4)
+bn/ctv/01/ctv_0111   0   17      以     P                (VP(PP*     -   -   -   -   *             *      *        *   (ARGM-MNR*        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   18     喷洒    VV      (NP(CP(IP(VP(VCD*     喷洒  -   -   -   *             *    (V*)   (REL*)           *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   19    水帘门    VV                    *)))   水帘门  -   -   -   *             *      *      (V*)           *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   20      的   DEC                      *)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   21     传统    JJ                 (ADJP*)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   22     仪式    NN                 (NP*)))    -   -   -   -   *             *      *        *            *)       *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   23     欢迎    VV                   (VP*     欢迎  -   -   -   *             *      *   (ARG0*          (V*)       *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   24     来自    VV                (IP(VP*     来自  -   -   -   *             *      *        *       (ARG2*      (V*)           *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   25     中国    NR            (NP(DNP(NP*)    -   -   -   -   *             *      *        *            *   (ARG1*            *             *        *        *        *    (2)
+bn/ctv/01/ctv_0111   0   26      的   DEG                      *)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   27     客人    NN             (NP*)))))))    -   -   -   -   *             *      *        *)           *)       *)           *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   28      ，    PU                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   29     南方    NR          (IP(NP(NP(NP*     -   -   -   -   *             *      *        *            *        *       (ARG0*             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   30     航空    NN                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   31     集团    NN                      *)    -   -   1   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   32    副总裁    NN                  (NP*))    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   33    张魏蔼    NR                  (NP*))    -   -   -   -   *             *      *        *            *        *            *)            *        *        *        *     -
+bn/ctv/01/ctv_0111   0   34      在     P                (VP(PP*     -   -   2   -   *             *      *        *            *        *   (ARGM-LOC*             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   35     首航    NN               (LCP(NP*     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   36     仪式    NN                      *)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   37      上    LC                     *))    -   -   1   -   *             *      *        *            *        *            *)            *        *        *        *     -
+bn/ctv/01/ctv_0111   0   38      说    VV                   (VP*      说  -   7   -   *             *      *        *            *        *          (V*)            *        *        *        *     -
+bn/ctv/01/ctv_0111   0   39      ，    PU                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   40     南方    NR                (IP(NP*     -   -   -   -   *             *      *        *            *        *       (ARG1*        (ARG0*   (ARG0*        *        *    (5
+bn/ctv/01/ctv_0111   0   41     航空    NN                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   42     公司    NN                      *)    -   -   1   -   *             *      *        *            *        *            *             *)       *)       *        *     5)
+bn/ctv/01/ctv_0111   0   43     目前    NT             (VP(VP(NP*)    -   -   -   -   *             *      *        *            *        *            *    (ARGM-TMP*)       *        *        *     -
+bn/ctv/01/ctv_0111   0   44     已经    AD                 (ADVP*)    -   -   -   -   *             *      *        *            *        *            *    (ARGM-ADV*)       *        *        *     -
+bn/ctv/01/ctv_0111   0   45     开通    VV                   (VP*     开通  -   -   -   *             *      *        *            *        *            *           (V*)       *        *        *     -
+bn/ctv/01/ctv_0111   0   46      了    AS                      *     -   -   -   -   *             *      *        *            *        *            *        (ARG1*)       *        *        *     -
+bn/ctv/01/ctv_0111   0   47     长达    AD           (NP(QP(ADVP*)    -   -   -   -   *             *      *        *            *        *            *        (ARG1*        *        *        *     -
+bn/ctv/01/ctv_0111   0   48    ３２２    CD                   (QP*     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   49      条     M                (CLP*)))    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   50     国内    NN                   (NP*     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   51     国际    NN                      *     -   -   1   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   52     航线    NN                   *))))    -   -   -   -   *             *      *        *            *        *            *             *)       *        *        *     -
+bn/ctv/01/ctv_0111   0   53      ，    PU                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   54     形成    VV                   (VP*     形成  -   -   -   *             *      *        *            *        *            *             *      (V*)       *        *     -
+bn/ctv/01/ctv_0111   0   55      了    AS                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   56     覆盖    VV       (NP(CP(IP(VP(VP*     覆盖  -   -   -   *             *      *        *            *        *            *             *   (ARG2*      (V*)       *     -
+bn/ctv/01/ctv_0111   0   57      全    DT                (NP(DP*)    -   -   2   -   *             *      *        *            *        *            *             *        *   (ARG1*        *    (2
+bn/ctv/01/ctv_0111   0   58      国    NN                 (NP*)))    -   -   1   -   *             *      *        *            *        *            *             *        *        *)       *     2)
+bn/ctv/01/ctv_0111   0   59      并    CC                      *     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   60     连接    VV                   (VP*     连接  -   -   -   *             *      *        *            *        *            *             *        *        *      (V*)    -
+bn/ctv/01/ctv_0111   0   61     国外    NN                (NP(NP*)    -   -   -   -   *             *      *        *            *        *            *             *        *        *   (ARG1*     -
+bn/ctv/01/ctv_0111   0   62    ８０多    CD                   (QP*     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   63      个     M                 (CLP*))    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   64     城市    NN               (NP*)))))    -   -   1   -   *             *      *        *            *        *            *             *        *        *        *)    -
+bn/ctv/01/ctv_0111   0   65      的   DEC                      *)    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   66     航空    NN                   (NP*     -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+bn/ctv/01/ctv_0111   0   67     网络    NN               *))))))))    -   -   -   -   *             *      *        *            *        *            *)            *        *)       *        *     -
+bn/ctv/01/ctv_0111   0   68      。    PU                     *))    -   -   -   -   *             *      *        *            *        *            *             *        *        *        *     -
+
+bn/ctv/01/ctv_0111   0    0     中国    NR   (TOP(IP(NP(NP(NP*)   -   -   -   -   *        (ARG0*)  (ARG0*        *             *        (ARG0*             *    (2)
+bn/ctv/01/ctv_0111   0    1      驻    VV          (CP(IP(VP*     驻  -   -   -   *           (V*)       *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0    2     西尼    NN             (NP*))))   -   -   -   -   *        (ARG1*)       *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0    3      总    JJ              (ADJP*)   -   -   -   -   *    (ARGM-ADV*)       *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0    4     领事    NN               (NP*))   -   -   -   -   *        (ARG1*)       *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0    5    吴克尼    NR               (NP*))   -   -   -   -   *             *        *)       *             *             *)            *     -
+bn/ctv/01/ctv_0111   0    6      说    VV                (VP*     说  -   7   -   *             *      (V*)       *             *             *             *     -
+bn/ctv/01/ctv_0111   0    7      ，    PU                   *    -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0    8     南方    NR             (IP(NP*    -   -   -   -   *             *   (ARG1*   (ARG0*        (ARG0*        (ARG0*             *    (5
+bn/ctv/01/ctv_0111   0    9     航空    NN                   *    -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   10     公司    NN                   *)   -   -   1   -   *             *        *        *)            *)            *)            *     5)
+bn/ctv/01/ctv_0111   0   11     开辟    VV             (VP(VP*    开辟  -   -   -   *             *        *      (V*)            *             *             *     -
+bn/ctv/01/ctv_0111   0   12     澳州    NN                (NP*    -   -   -   -   *             *        *   (ARG1*             *             *             *    (0
+bn/ctv/01/ctv_0111   0   13     航线    NN                  *))   -   -   -   -   *             *        *        *)            *             *             *     0)
+bn/ctv/01/ctv_0111   0   14      ，    PU                   *    -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   15      即    AD           (VP(ADVP*)   -   -   4   -   *             *        *        *    (ARGM-DIS*)            *             *     -
+bn/ctv/01/ctv_0111   0   16     表明    VV                (VP*    表明  -   -   -   *             *        *        *           (V*)            *             *     -
+bn/ctv/01/ctv_0111   0   17     中国    NR      (NP(DNP(NP(NP*)   -   -   -   -   *             *        *        *        (ARG1*             *             *    (2)
+bn/ctv/01/ctv_0111   0   18     航空    NN                (NP*    -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   19     事业    NN                  *))   -   -   1   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   20      的   DEG                   *)   -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   21     不断    JJ              (ADJP*)   -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   22     发展    NN             (NP*))))   -   -   1   -   *             *        *        *             *)            *             *     -
+bn/ctv/01/ctv_0111   0   23      ，    PU                   *    -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   24      也    AD           (VP(ADVP*)   -   -   -   -   *             *        *        *             *    (ARGM-DIS*)            *     -
+bn/ctv/01/ctv_0111   0   25     反映    VV                (VP*    反映  -   2   -   *             *        *        *             *           (V*)            *     -
+bn/ctv/01/ctv_0111   0   26      了    AS                   *    -   -   -   -   *             *        *        *             *        (ARG1*)       (ARG1*)    -
+bn/ctv/01/ctv_0111   0   27      中    NR       (IP(NP(NP(NP*    -   -   -   -   *             *        *        *             *        (ARG1*        (ARG1*    (1
+bn/ctv/01/ctv_0111   0   28      澳    NR                   *)   -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   29      两    CD                (QP*)   -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   30      国    NN               (NP*))   -   -   1   -   *             *        *        *             *             *             *     1)
+bn/ctv/01/ctv_0111   0   31     友好    JJ              (ADJP*)   -   -   -   -   *             *        *        *             *             *             *     -
+bn/ctv/01/ctv_0111   0   32     交往    NN               (NP*))   -   -   -   -   *             *        *        *             *             *             *)    -
+bn/ctv/01/ctv_0111   0   33     日益    AD           (VP(ADVP*)   -   -   -   -   *             *        *        *             *             *    (ARGM-ADV*)    -
+bn/ctv/01/ctv_0111   0   34     增加    VV         (VP*))))))))   增加  -   1   -   *             *        *)       *             *             *)          (V*)    -
+bn/ctv/01/ctv_0111   0   35      。    PU                  *))   -   -   -   -   *             *        *        *             *             *             *     -
+
+bn/ctv/01/ctv_0111   0    0      “    PU             (TOP(IP*    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0    1     广州    NR              (NP(NP*)   -   -   -   -   *        (ARG0*   (0
+bn/ctv/01/ctv_0111   0    2      —    PU                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0    3    墨尔本    NR                 (NP*)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0    4      —    PU                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0    5     悉尼    NR              (NP(NP*)   -   -   -   -   *             *    0)
+bn/ctv/01/ctv_0111   0    6     航班    NN               (NP*)))   -   -   -   -   *             *)   -
+bn/ctv/01/ctv_0111   0    7      ，    PU                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0    8      每    DT              (QP(DP*    -   -   -   -   *    (ARGM-ADV*    -
+bn/ctv/01/ctv_0111   0    9      周     M               (CLP*))   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   10      三    CD                 (QP*    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   11      班     M              (CLP*)))   -   -   -   -   *             *)   -
+bn/ctv/01/ctv_0111   0   12      ，    PU                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   13     我们    PN              (NP(NP*)   -   -   -   -   *        (ARG0*   (5
+bn/ctv/01/ctv_0111   0   14     南方    NR                 (NP*    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   15     航空    NN                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   16     公司    NN                   *))   -   -   1   -   *             *)   5)
+bn/ctv/01/ctv_0111   0   17      将    AD            (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   -
+bn/ctv/01/ctv_0111   0   18      用     P                 (PP*    -   -   5   -   *    (ARGM-MNR*    -
+bn/ctv/01/ctv_0111   0   19      最    AD   (NP(DNP(ADJP(ADVP*)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   20     优异    JJ              (ADJP*))   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   21      的   DEG                    *)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   22     服务    NN               (NP*)))   -   -   -   -   *             *)   -
+bn/ctv/01/ctv_0111   0   23      为     P                 (PP*    -   -   5   -   *        (ARG2*    -
+bn/ctv/01/ctv_0111   0   24      中    NR           (NP(NP(NP*    -   -   -   -   *             *   (1
+bn/ctv/01/ctv_0111   0   25      澳    NR                    *)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   26      两    CD                 (QP*)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   27      国    NN                (NP*))   -   -   1   -   *             *    1)
+bn/ctv/01/ctv_0111   0   28      ，    PU                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   29      两    CD           (NP(NP(QP*)   -   -   -   -   *             *   (1
+bn/ctv/01/ctv_0111   0   30      国    NN                (NP*))   -   -   1   -   *             *    1)
+bn/ctv/01/ctv_0111   0   31     人民    NN                (NP*))   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   32      和    CC                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   33     旅客    NN               (NP*)))   -   -   -   -   *             *)   -
+bn/ctv/01/ctv_0111   0   34     提供    VV                 (VP*    提供  -   -   -   *           (V*)   -
+bn/ctv/01/ctv_0111   0   35      最    AD   (NP(DNP(ADJP(ADVP*)   -   -   -   -   *        (ARG1*    -
+bn/ctv/01/ctv_0111   0   36     优异    JJ              (ADJP*))   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   37      的   DEG                    *)   -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   38     服务    NN              (NP*))))   -   -   -   -   *             *)   -
+bn/ctv/01/ctv_0111   0   39      。    PU                    *    -   -   -   -   *             *    -
+bn/ctv/01/ctv_0111   0   40      ”    PU                   *))   -   -   -   -   *             *    -
+
+bn/ctv/01/ctv_0111   0   0     中央台   NR   (TOP(IP(NP(NP*)   -   -   -   -   *    (ARG0*)  (ARG0*     -
+bn/ctv/01/ctv_0111   0   1       驻   VV       (CP(IP(VP*     驻  -   -   -   *       (V*)       *     -
+bn/ctv/01/ctv_0111   0   2    澳大利亚   NR          (NP*))))   -   -   -   -   *    (ARG1*)       *    (3)
+bn/ctv/01/ctv_0111   0   3      记者   NN            (NP*))   -   -   -   -   *         *        *)    -
+bn/ctv/01/ctv_0111   0   4      报道   VV             (VP*)   报道  -   -   -   *         *      (V*)    -
+bn/ctv/01/ctv_0111   0   5       。   PU               *))   -   -   -   -   *         *        *     -
+
+#end document

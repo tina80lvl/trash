@@ -1,0 +1,163 @@
+#begin document (bn/ctv/00/ctv_0014); part 000
+bn/ctv/00/ctv_0014   0    0    各位    PN    (TOP(IP(NP*)   -   -   -   -   *        (ARG0*)   (ARG0*)    -
+bn/ctv/00/ctv_0014   0    1     好    AD   (VP(VP(ADVP*)   -   -   5   -   *    (ARGM-ADV*)        *     -
+bn/ctv/00/ctv_0014   0    2    欢迎    VV           (VP*    -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0    3    收看    VV           (VP*    收看  -   -   -   *           (V*)        *     -
+bn/ctv/00/ctv_0014   0    4     《    PU        (NP(NP*    -   -   -   -   *        (ARG1*         *     -
+bn/ctv/00/ctv_0014   0    5    中国    NR              *    -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0    6    新闻    NN              *    -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0    7     》    PU              *)   -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0    8    节目    NN       (NP*)))))   -   -   1   -   *             *)        *     -
+bn/ctv/00/ctv_0014   0    9     ，    PU              *    -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0   10     来   MSP           (VP*    -   -   7   -   *             *         *     -
+bn/ctv/00/ctv_0014   0   11     看    VV           (VP*     看  -   3   -   *             *       (V*)    -
+bn/ctv/00/ctv_0014   0   12    今天    NT    (NP(DNP(NP*)   -   -   -   -   *             *    (ARG1*    (0)
+bn/ctv/00/ctv_0014   0   13     的   DEG              *)   -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0   14    详细    JJ         (ADJP*)   -   -   -   -   *             *         *     -
+bn/ctv/00/ctv_0014   0   15    内容    NN       (NP*)))))   -   -   -   -   *             *         *)    -
+bn/ctv/00/ctv_0014   0   16     。    PU             *))   -   -   -   -   *             *         *     -
+
+bn/ctv/00/ctv_0014   0    0       正    AD   (TOP(IP(IP(NP(NP(CP(IP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       (ARG0*        (ARG0*        *             *        *       (3
+bn/ctv/00/ctv_0014   0    1       在     P                              (PP*    -   -   2   -   *        (ARG1*             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0    2      日本    NR                             (NP*))   -   -   -   -   *             *)            *             *        *             *        *       (4)
+bn/ctv/00/ctv_0014   0    3      访问    VV                            (VP*)))   访问  -   -   -   *           (V*)            *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0    4       的   DEC                                 *)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0    5      中国    NR                              (NP*)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0    6     国务院    NN                              (NP*    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0    7      总理    NN                                *))   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0    8     朱容基    NR                             (NP*))   -   -   -   -   *             *             *)            *)       *             *        *        3)
+bn/ctv/00/ctv_0014   0    9     １７号    NT                           (VP(NP*)   -   -   -   -   *             *    (ARGM-TMP*)   (ARGM-TMP*)       *             *        *       (0)
+bn/ctv/00/ctv_0014   0   10       在     P                              (PP*    -   -   2   -   *             *    (ARGM-LOC*        (ARG1*        *             *        *        -
+bn/ctv/00/ctv_0014   0   11      日本    NR                        (NP(NP(NP*)   -   -   -   -   *             *             *             *        *             *        *    (2|(4)
+bn/ctv/00/ctv_0014   0   12      著名    JJ                        (DNP(ADJP*)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   13       的   DEG                                 *)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   14      港口    NN                              (NP*    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   15      城市    NN                                *))   -   -   1   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   16      神户    NR                            (NP*)))   -   -   -   -   *             *             *)            *)       *             *        *        2)
+bn/ctv/00/ctv_0014   0   17      参观    VV                          (VP(VCD*    参观  -   -   -   *             *           (V*)       (ARG0*)       *             *        *        -
+bn/ctv/00/ctv_0014   0   18      访问    VV                              *))))   访问  -   -   -   *             *    (ARGM-ADV*)          (V*)       *             *        *        -
+bn/ctv/00/ctv_0014   0   19       ，    PU                                 *    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   20      当天    NT                           (IP(NP*    -   -   -   -   *             *             *             *        *    (ARGM-TMP*        *       (6
+bn/ctv/00/ctv_0014   0   21      上午    NT                                 *)   -   -   1   -   *             *             *             *        *             *)       *        6)
+bn/ctv/00/ctv_0014   0   22     朱容基    NR                              (NP*)   -   -   -   -   *             *             *             *        *        (ARG0*)       *       (3)
+bn/ctv/00/ctv_0014   0   23      首先    AD                         (VP(ADVP*)   -   -   -   -   *             *             *             *        *    (ARGM-DIS*)       *        -
+bn/ctv/00/ctv_0014   0   24       在     P                              (PP*    -   -   2   -   *             *             *             *        *    (ARGM-LOC*        *        -
+bn/ctv/00/ctv_0014   0   25      下塌    VV                    (NP(CP(IP(VP*))   下塌  -   -   -   *             *             *             *      (V*)            *        *        -
+bn/ctv/00/ctv_0014   0   26       的   DEC                                 *)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   27      神户    NR                              (NP*)   -   -   -   -   *             *             *             *        *             *        *       (2)
+bn/ctv/00/ctv_0014   0   28     人工岛    NR                              (NP*    -   -   -   -   *             *             *             *   (ARG1*             *        *        -
+bn/ctv/00/ctv_0014   0   29      饭店    NN                               *)))   -   -   -   -   *             *             *             *        *)            *)       *        -
+bn/ctv/00/ctv_0014   0   30      会见    VV                              (VP*    会见  -   -   -   *             *             *             *        *           (V*)       *        -
+bn/ctv/00/ctv_0014   0   31       了    AS                                 *    -   -   -   -   *             *             *             *        *        (ARG1*)       *        -
+bn/ctv/00/ctv_0014   0   32      旅居    VV                     (NP(CP(IP(VP*    旅居  -   -   -   *             *             *             *        *        (ARG1*      (V*)       -
+bn/ctv/00/ctv_0014   0   33      日本    NR                              (NP*    -   -   -   -   *             *             *             *        *             *   (ARG1*        -
+bn/ctv/00/ctv_0014   0   34      板神    NR                                 *    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   35      地区    NN                               *)))   -   -   1   -   *             *             *             *        *             *        *)       -
+bn/ctv/00/ctv_0014   0   36       的   DEC                                 *)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   37      华侨    NN                              (NP*    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   38       和    CC                                 *    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   39     留学生    NN                              (NP*    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   40      代表    NN                                 *)   -   -   1   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   41       、    PU                                 *    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   42    总领事馆    JJ                         (NP(ADJP*)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   43      工作    NN                              (NP*    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   44      人员    NN                                *))   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   45       和    CC                                 *    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   46      中资    NN                       (NP(DNP(NP*    -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   47      机构    NN                                 *)   -   -   1   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   48       的   DEG                                 *)   -   -   -   -   *             *             *             *        *             *        *        -
+bn/ctv/00/ctv_0014   0   49      代表    NN                        (NP*)))))))   -   -   1   -   *             *             *             *        *             *)       *        -
+bn/ctv/00/ctv_0014   0   50       。    PU                                *))   -   -   -   -   *             *             *             *        *             *        *        -
+
+bn/ctv/00/ctv_0014   0    0     随后    AD      (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *    (ARGM-ADV*)    -
+bn/ctv/00/ctv_0014   0    1    朱容基    NR               (NP*)   -   -   -   -   *        (ARG0*)            *        (ARG0*)   (3)
+bn/ctv/00/ctv_0014   0    2     参观    VV            (VP(VP*    参观  -   -   -   *           (V*)            *             *     -
+bn/ctv/00/ctv_0014   0    3      了    AS                  *    -   -   -   -   *        (ARG1*)       (ARG1*)            *     -
+bn/ctv/00/ctv_0014   0    4     目前    NT   (NP(NP(CP(IP(NP*)   -   -   -   -   *        (ARG1*    (ARGM-TMP*)            *     -
+bn/ctv/00/ctv_0014   0    5     世界    NN           (LCP(NP*)   -   -   -   -   *             *    (ARGM-LOC*             *     -
+bn/ctv/00/ctv_0014   0    6      上    LC                  *)   -   -   1   -   *             *             *)            *     -
+bn/ctv/00/ctv_0014   0    7      最    AD          (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *     -
+bn/ctv/00/ctv_0014   0    8      长    VA             (VP*)))    长  -   3   -   *             *           (V*)            *     -
+bn/ctv/00/ctv_0014   0    9      的   DEC                  *)   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   10     吊桥    NN              (NP*))   -   -   -   -   *             *        (ARG1*)            *     -
+bn/ctv/00/ctv_0014   0   11     ——    PU              (PRN*    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   12     明石    NR         (NP(NP(NP*    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   13     海峡    NN                  *)   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   14     大桥    NN              (NP*))   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   15      和    CC                  *    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   16    孙中山    NR            (NP(NP*)   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   17    纪念馆    NN          (NP*))))))   -   -   -   -   *             *)            *             *     -
+bn/ctv/00/ctv_0014   0   18      ，    PU                  *    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   19      并    CC                  *    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   20     视察    VV               (VP*    视察  -   -   -   *             *             *           (V*)    -
+bn/ctv/00/ctv_0014   0   21      了    AS                  *    -   -   -   -   *             *             *        (ARG1*)    -
+bn/ctv/00/ctv_0014   0   22     中国    NR            (NP(NP*    -   -   -   -   *             *             *        (ARG1*     -
+bn/ctv/00/ctv_0014   0   23     远洋    NN                  *    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   24     运输    NN                  *    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   25     集团    NN                  *    -   -   1   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   26    总公司    NN                  *)   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   27      在     P           (DNP(PP*    -   -   2   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   28    神户港    NR              (NP*))   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   29      的   DEG                  *)   -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   30    集装箱    NN               (NP*    -   -   -   -   *             *             *             *     -
+bn/ctv/00/ctv_0014   0   31     码头    NN               *))))   -   -   -   -   *             *             *             *)    -
+bn/ctv/00/ctv_0014   0   32      。    PU                 *))   -   -   -   -   *             *             *             *     -
+
+bn/ctv/00/ctv_0014   0    0    １７号    NT       (TOP(IP(NP*    -   -   -   -   *   (ARGM-TMP*   (ARGM-TMP*   (ARGM-TMP*    (ARGM-TMP*            *    (6
+bn/ctv/00/ctv_0014   0    1     上午    NT                 *)   -   -   1   -   *            *)           *)           *)            *)           *     6)
+bn/ctv/00/ctv_0014   0    2      ，    PU                 *    -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0    3    国务院    NN           (NP(NP*    -   -   -   -   *       (ARG0*       (ARG0*       (ARG0*        (ARG0*            *    (3
+bn/ctv/00/ctv_0014   0    4     总理    NN                 *)   -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0    5    朱容基    NR             (NP*))   -   -   -   -   *            *)           *)           *)            *)           *     3)
+bn/ctv/00/ctv_0014   0    6     抵达    VV           (VP(VP*    抵达  -   -   -   *          (V*)           *            *             *            *     -
+bn/ctv/00/ctv_0014   0    7     汉城    NR             (NP*))   -   -   -   -   *       (ARG1*)           *            *             *            *    (5)
+bn/ctv/00/ctv_0014   0    8      ，    PU                 *    -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0    9     开始    VV              (VP*    开始  -   -   -   *            *          (V*)           *             *            *     -
+bn/ctv/00/ctv_0014   0   10      对     P           (VP(PP*    -   -   3   -   *            *       (ARG1*   (ARGM-DIR*             *            *     -
+bn/ctv/00/ctv_0014   0   11     韩国    NR             (NP*))   -   -   -   -   *            *            *            *)            *            *    (1)
+bn/ctv/00/ctv_0014   0   12     进行    VV              (VP*    进行  -   3   -   *            *            *          (V*)            *            *     -
+bn/ctv/00/ctv_0014   0   13     正式    JJ         (NP(ADJP*)   -   -   -   -   *            *            *       (ARG1*             *            *     -
+bn/ctv/00/ctv_0014   0   14     访问    NN          (NP*)))))   -   -   -   -   *            *            *)           *)            *            *     -
+bn/ctv/00/ctv_0014   0   15      ，    PU                 *    -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   16      并    CC                 *    -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   17      将    AD         (VP(ADVP*)   -   -   -   -   *            *            *            *    (ARGM-ADV*)           *     -
+bn/ctv/00/ctv_0014   0   18     出席    VV              (VP*    出席  -   -   -   *            *            *            *           (V*)           *     -
+bn/ctv/00/ctv_0014   0   19      在     P  (NP(CP(IP(VP(PP*    -   -   2   -   *            *            *            *        (ARG1*   (ARGM-LOC*     -
+bn/ctv/00/ctv_0014   0   20     汉城    NR             (NP*))   -   -   -   -   *            *            *            *             *            *)   (5)
+bn/ctv/00/ctv_0014   0   21     举行    VV            (VP*)))   举行  -   -   -   *            *            *            *             *          (V*)    -
+bn/ctv/00/ctv_0014   0   22      的   DEC                 *)   -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   23     第三    OD              (QP*    -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   24      届     M            (CLP*))   -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   25      亚    NR              (NP*    -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   26      欧    NR                 *)   -   -   -   -   *            *            *            *             *            *     -
+bn/ctv/00/ctv_0014   0   27     会议    NN          (NP*)))))   -   -   -   -   *            *            *            *             *)      (ARG1*)    -
+bn/ctv/00/ctv_0014   0   28      。    PU                *))   -   -   -   -   *            *            *            *             *            *     -
+
+bn/ctv/00/ctv_0014   0    0     访问    VV         (TOP(IP(IP(VP*    访问  -   -   -   *      (V*)   (ARGM-TMP*   (ARGM-TMP*     -
+bn/ctv/00/ctv_0014   0    1     韩国    NR                (NP(NP*)   -   -   -   -   *   (ARG1*             *            *    (1)
+bn/ctv/00/ctv_0014   0    2     期间    NN                (NP*))))   -   -   -   -   *        *)            *)           *)    -
+bn/ctv/00/ctv_0014   0    3      ，    PU                      *    -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0    4    朱容基    NR                   (NP*    -   -   -   -   *        *        (ARG0*       (ARG0*    (3
+bn/ctv/00/ctv_0014   0    5     总理    NN                      *)   -   -   -   -   *        *             *)           *)    3)
+bn/ctv/00/ctv_0014   0    6      将    AD           (VP(VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)           *     -
+bn/ctv/00/ctv_0014   0    7      与     P                   (PP*    -   -   -   -   *        *        (ARG0*            *     -
+bn/ctv/00/ctv_0014   0    8     韩国    NR             (NP(NP(NP*)   -   -   -   -   *        *             *            *    (1)
+bn/ctv/00/ctv_0014   0    9     总统    NN                  (NP*))   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   10    金大中    NR                 (NP*)))   -   -   -   -   *        *             *)           *     -
+bn/ctv/00/ctv_0014   0   11     举行    VV                   (VP*    举行  -   -   -   *        *           (V*)           *     -
+bn/ctv/00/ctv_0014   0   12     会谈    NN                 (NP*)))   -   -   -   -   *        *        (ARG1*)           *     -
+bn/ctv/00/ctv_0014   0   13      ，    PU                      *    -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   14      并    CC                      *    -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   15     会面    VV                   (VP*    会面  -   -   -   *        *             *          (V*)    -
+bn/ctv/00/ctv_0014   0   16     韩国    NR   (NP(DNP(NP(NP(NP(NP*)   -   -   -   -   *        *             *       (ARG1*    (1)
+bn/ctv/00/ctv_0014   0   17     总理    NN                  (NP*))   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   18    李汉东    NR                  (NP*))   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   19      和    CC                      *    -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   20     一些    CD                (NP(QP*)   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   21     主要    JJ                 (ADJP*)   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   22     政党    NN                 (NP*)))   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   23      的   DEG                      *)   -   -   -   -   *        *             *            *     -
+bn/ctv/00/ctv_0014   0   24    领导人    NN                (NP*))))   -   -   -   -   *        *             *            *)    -
+bn/ctv/00/ctv_0014   0   25      。    PU                     *))   -   -   -   -   *        *             *            *     -
+
+#end document

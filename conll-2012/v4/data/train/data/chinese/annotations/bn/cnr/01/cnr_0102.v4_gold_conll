@@ -1,0 +1,52 @@
+#begin document (bn/cnr/01/cnr_0102); part 000
+bn/cnr/01/cnr_0102   0    0      联合国    NR   (TOP(IP(NP(NP(NP*)  -    -   -   -     (ORG*        (ARG0*    (2)
+bn/cnr/01/cnr_0102   0    1      秘书长    NN               (NP*))  -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0    2       新闻    NN                (NP*   -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0    3      办公室    NN                  *))  -    -   -   -         *)            *)    -
+bn/cnr/01/cnr_0102   0    4       前天    NT             (VP(NP*)  -    -   -   -     (DATE)   (ARGM-TMP*)   (1)
+bn/cnr/01/cnr_0102   0    5       宣布    VV                (VP*   -   01   -   -         *           (V*)    -
+bn/cnr/01/cnr_0102   0    6        ，    PU                   *   -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0    7       美国    NR             (IP(NP*)  -    -   -   -      (GPE)       (ARG1*    (3)
+bn/cnr/01/cnr_0102   0    8       当天    NT             (VP(NP*)  -    -   -   -     (DATE)            *    (1)
+bn/cnr/01/cnr_0102   0    9        向     P                (PP*   -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0   10      联合国    NR               (NP*))  -    -   -   -      (GPE)            *    (2)
+bn/cnr/01/cnr_0102   0   11       补交    VV                (VP*   -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0   12        了    AS                   *   -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0   13    ２．１７亿    CD         (NP(DNP(QP*   -    -   -   -   (MONEY*             *     -
+bn/cnr/01/cnr_0102   0   14       美元     M              (CLP*))  -    -   -   -         *)            *     -
+bn/cnr/01/cnr_0102   0   15        的   DEG                   *)  -    -   -   -         *             *     -
+bn/cnr/01/cnr_0102   0   16       会费    NN          (NP*)))))))  -    -   -   -         *             *)    -
+bn/cnr/01/cnr_0102   0   17        。    PU                  *))  -    -   -   -         *             *     -
+
+bn/cnr/01/cnr_0102   0    0        但    AD      (TOP(IP(ADVP*)  -    -   -   -           *         *    (ARGM-ADV*)   (ARGM-DIS*)    -
+bn/cnr/01/cnr_0102   0    1        其    PN   (NP(CP(CP(IP(NP*)  -    -   -   -           *    (ARG0*)       (ARG0*        (ARG0*    (3)
+bn/cnr/01/cnr_0102   0    2        所   MSP               (VP*   -    -   -   -           *         *             *             *     -
+bn/cnr/01/cnr_0102   0    3       拖欠    VV             (VP*)))  -   01   -   -           *       (V*)            *             *     -
+bn/cnr/01/cnr_0102   0    4        的   DEC                 *))  -    -   -   -           *         *             *             *     -
+bn/cnr/01/cnr_0102   0    5      联合国    NR               (NP*)  -    -   -   -        (ORG)        *             *             *    (2)
+bn/cnr/01/cnr_0102   0    6       会费    NN              (NP*))  -    -   -   -           *    (ARG1*)            *)            *)    -
+bn/cnr/01/cnr_0102   0    7        仍    AD       (VP(VP(ADVP*)  -    -   -   -           *         *    (ARGM-ADV*)            *     -
+bn/cnr/01/cnr_0102   0    8        居    VV               (VP*   -   01   1   -           *         *           (V*)            *     -
+bn/cnr/01/cnr_0102   0    9        各    DT     (NP(DNP(NP(DP*)  -    -   -   -           *         *        (ARG1*             *    (0
+bn/cnr/01/cnr_0102   0   10        国    NN              (NP*))  -    -   -   -           *         *             *             *     0)
+bn/cnr/01/cnr_0102   0   11        之   DEG                  *)  -    -   -   -           *         *             *             *     -
+bn/cnr/01/cnr_0102   0   12        首    NN            (NP*))))  -    -   -   -    (ORDINAL)        *             *)            *     -
+bn/cnr/01/cnr_0102   0   13        ，    PU                  *   -    -   -   -           *         *             *             *     -
+bn/cnr/01/cnr_0102   0   14        达    VV               (VP*   -   01   1   -           *         *             *           (V*)    -
+bn/cnr/01/cnr_0102   0   15    １３．２亿    CD               (QP*   -    -   -   -     (MONEY*         *             *        (ARG1*     -
+bn/cnr/01/cnr_0102   0   16       美元     M           (CLP*))))  -    -   -   -           *)        *             *             *)    -
+bn/cnr/01/cnr_0102   0   17        。    PU                 *))  -    -   -   -           *         *             *             *     -
+
+bn/cnr/01/cnr_0102   0    0      约    AD          (TOP(IP(VP(ADVP*)  -    -   -   -           *    (ARGM-ADV*)       *    -
+bn/cnr/01/cnr_0102   0    1      占    VV                      (VP*   -   01   1   -           *           (V*)       *    -
+bn/cnr/01/cnr_0102   0    2      各    DT   (QP(DNP(NP(CP(IP(NP(DP*)  -    -   -   -           *        (ARG1*   (ARG0*   (0
+bn/cnr/01/cnr_0102   0    3    会员国    NN                     (NP*))  -    -   -   -           *             *        *)   0)
+bn/cnr/01/cnr_0102   0    4      所   MSP                      (VP*   -    -   -   -           *             *        *    -
+bn/cnr/01/cnr_0102   0    5      欠    VV                   (VP*))))  -   01   -   -           *             *      (V*)   -
+bn/cnr/01/cnr_0102   0    6     会费    NN                      (NP*   -    -   -   -           *             *   (ARG2*    -
+bn/cnr/01/cnr_0102   0    7     总额    NN                        *))  -    -   -   -           *             *        *)   -
+bn/cnr/01/cnr_0102   0    8      的   DEG                         *)  -    -   -   -           *             *        *    -
+bn/cnr/01/cnr_0102   0    9    ５６％    CD                   (QP*))))  -    -   -   -    (PERCENT)            *)       *    -
+bn/cnr/01/cnr_0102   0   10      。    PU                        *))  -    -   -   -           *             *        *    -
+
+#end document

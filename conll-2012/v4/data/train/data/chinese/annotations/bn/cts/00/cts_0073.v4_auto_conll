@@ -1,0 +1,225 @@
+#begin document (bn/cts/00/cts_0073); part 000
+bn/cts/00/cts_0073   0    0    台北县    NR   (TOP(IP(NP(NP(NP*)   -   -   -   -   *             *    (6
+bn/cts/00/cts_0073   0    1    三堪乡    CD            (DNP(QP*)   -   -   -   -   *             *     -
+bn/cts/00/cts_0073   0    2      的   DEG                   *)   -   -   -   -   *             *     -
+bn/cts/00/cts_0073   0    3     台电    NR                (NP*)   -   -   -   -   *             *    (7)
+bn/cts/00/cts_0073   0    4    超高压    NN               (NP*))   -   -   -   -   *             *     -
+bn/cts/00/cts_0073   0    5    变电所    NN               (NP*))   -   -   -   -   *             *     6)
+bn/cts/00/cts_0073   0    6     今天    NT      (VP(LCP(NP(NP*    -   -   -   -   *             *    (2
+bn/cts/00/cts_0073   0    7     上午    NT                   *    -   -   1   -   *             *     -
+bn/cts/00/cts_0073   0    8     ７点    NT                   *)   -   -   -   -   *             *     -
+bn/cts/00/cts_0073   0    9      多    AD             (ADVP*))   -   -   7   -   *             *     2)
+bn/cts/00/cts_0073   0   10     左右    LC                   *)   -   -   1   -   *             *     -
+bn/cts/00/cts_0073   0   11     发生    VV                (VP*    -   -   1   -   *             *     -
+bn/cts/00/cts_0073   0   12      了    AS                   *    -   -   -   -   *    (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0   13     机组    NN       (NP(CP(IP(NP*)   -   -   -   -   *        (ARG0*)   (3
+bn/cts/00/cts_0073   0   14     爆炸    VV               (VP*))   爆炸  -   -   -   *           (V*)    -
+bn/cts/00/cts_0073   0   15      的   DEC                   *)   -   -   -   -   *             *     -
+bn/cts/00/cts_0073   0   16     意外    NN             (NP*))))   -   -   -   -   *             *     3)
+bn/cts/00/cts_0073   0   17      。    PU                  *))   -   -   -   -   *             *     -
+
+bn/cts/00/cts_0073   0    0    变压器    NN  (TOP(IP(IP(NP*    -   -   -   -   *    (ARG0*      *             *         *    (0
+bn/cts/00/cts_0073   0    1     零件    NN               *    -   -   -   -   *         *      *             *         *     0)
+bn/cts/00/cts_0073   0    2     脱落    NN               *)   -   -   -   -   *         *)     *             *         *     -
+bn/cts/00/cts_0073   0    3     引发    VV            (VP*    引发  -   1   -   *       (V*)     *             *         *     -
+bn/cts/00/cts_0073   0    4      了    AS               *    -   -   -   -   *         *      *             *         *     -
+bn/cts/00/cts_0073   0    5     火警    NN          (NP*)))   -   -   -   -   *    (ARG1*)     *             *         *    (9)
+bn/cts/00/cts_0073   0    6      ，    PU               *    -   -   -   -   *         *      *             *         *     -
+bn/cts/00/cts_0073   0    7     还好    AD       (IP(ADVP*)   -   -   -   -   *         *      *    (ARGM-ADV*)        *     -
+bn/cts/00/cts_0073   0    8     厂方    NN            (NP*)   -   -   -   -   *         *      *        (ARG0*)        *    (6)
+bn/cts/00/cts_0073   0    9     及时    VA     (VP(DVP(VP*)   及时  -   -   -   *         *    (V*)   (ARGM-ADV*         *     -
+bn/cts/00/cts_0073   0   10      的   DEV               *)   -   -   -   -   *         *      *             *)        *     -
+bn/cts/00/cts_0073   0   11     扑救    VV            (VP*    扑救  -   -   -   *         *      *           (V*)        *     -
+bn/cts/00/cts_0073   0   12     没有    VE   (NP(CP(IP(VP*    没有  -   1   -   *         *      *        (ARG1*       (V*)    -
+bn/cts/00/cts_0073   0   13     停电    NN          (NP*)))   -   -   -   -   *         *      *             *    (ARG1*)    -
+bn/cts/00/cts_0073   0   14      的   DEC               *)   -   -   -   -   *         *      *             *         *     -
+bn/cts/00/cts_0073   0   15     问题    NN        (NP*)))))   -   -   1   -   *         *      *             *)        *     -
+bn/cts/00/cts_0073   0   16      。    PU              *))   -   -   -   -   *         *      *             *         *     -
+
+bn/cts/00/cts_0073   0    0     上午    NT  (TOP(IP(NP(CP(IP(VP(NP*    -   -   1   -   *   (ARGM-TMP*        (ARG0*   (2|(9
+bn/cts/00/cts_0073   0    1    ７点半    NT                        *)   -   -   -   -   *            *)            *       2)
+bn/cts/00/cts_0073   0    2     发生    VV                   (VP*)))   发生  -   1   -   *          (V*)            *       -
+bn/cts/00/cts_0073   0    3      的   DEC                        *)   -   -   -   -   *            *             *       -
+bn/cts/00/cts_0073   0    4     火警    NN                    (NP*))   -   -   -   -   *       (ARG0*)            *)      9)
+bn/cts/00/cts_0073   0    5      不    AD             (VP(PP(ADVP*)   -   -   -   -   *            *    (ARGM-TMP*       -
+bn/cts/00/cts_0073   0    6      到     P                     (PP*    -   -   3   -   *            *             *       -
+bn/cts/00/cts_0073   0    7     ２０    CD                     (QP*    -   -   -   -   *            *             *       -
+bn/cts/00/cts_0073   0    8     分钟     M                 (CLP*))))   -   -   -   -   *            *             *)      -
+bn/cts/00/cts_0073   0    9      就    AD                   (ADVP*)   -   -   5   -   *            *    (ARGM-ADV*)      -
+bn/cts/00/cts_0073   0   10     完全    AD                   (ADVP*)   -   -   -   -   *            *    (ARGM-ADV*)      -
+bn/cts/00/cts_0073   0   11     扑灭    VV                    (VP*))   扑灭  -   -   -   *            *           (V*)      -
+bn/cts/00/cts_0073   0   12      。    PU                       *))   -   -   -   -   *            *             *       -
+
+bn/cts/00/cts_0073   0   0      厂方   NN   (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)            *    (6)
+bn/cts/00/cts_0073   0   1      加派   VV          (VP*    加派  -   -   -   *       (V*)            *     -
+bn/cts/00/cts_0073   0   2      人手   NN          (NP*)   -   -   -   -   *    (ARG1*)            *     -
+bn/cts/00/cts_0073   0   3      查看   VV       (IP(VP*    查看  -   -   -   *    (ARG2*           (V*)    -
+bn/cts/00/cts_0073   0   4      到底   AD        (ADVP*)   -   -   -   -   *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0   5    怎么回事   NN       (NP*))))   -   -   -   -   *         *)       (ARG1*)    -
+bn/cts/00/cts_0073   0   6       ？   PU            *))   -   -   -   -   *         *             *     -
+
+bn/cts/00/cts_0073   0    0      烧    VV      (TOP(IP(IP(VP*     烧  -   1   -   *       (V*)     *        *    -
+bn/cts/00/cts_0073   0    1      了    AS                   *    -   -   -   -   *    (ARG1*)     *        *    -
+bn/cts/00/cts_0073   0    2     一半    CD         (NP(DNP(QP*)   -   -   -   -   *    (ARG1*      *        *    -
+bn/cts/00/cts_0073   0    3      的   DEG                   *)   -   -   -   -   *         *      *        *    -
+bn/cts/00/cts_0073   0    4     台子    NN             (NP*))))   -   -   -   -   *         *)     *        *    -
+bn/cts/00/cts_0073   0    5      ，    PU                   *    -   -   -   -   *         *      *        *    -
+bn/cts/00/cts_0073   0    6     出事    VV   (IP(NP(CP(IP(VP*))   出事  -   -   -   *         *    (V*)  (ARG0*    -
+bn/cts/00/cts_0073   0    7      的   DEC                  *))   -   -   -   -   *         *      *        *)   -
+bn/cts/00/cts_0073   0    8      是    VC                (VP*     是  -   1   -   *         *      *      (V*)   -
+bn/cts/00/cts_0073   0    9      ３    CD             (NP(QP*    -   -   -   -   *         *      *   (ARG1*   (1
+bn/cts/00/cts_0073   0   10      号     M              (CLP*))   -   -   1   -   *         *      *        *    -
+bn/cts/00/cts_0073   0   11    变压器    NN             (NP*))))   -   -   -   -   *         *      *        *)   1)
+bn/cts/00/cts_0073   0   12      。    PU                  *))   -   -   -   -   *         *      *        *    -
+
+bn/cts/00/cts_0073   0    0       台电    NR          (TOP(IP(NP(NP*)   -   -   -   -   *   (ARG0*         *      *         *             *        *             *            *         *    (6|(7)
+bn/cts/00/cts_0073   0    1       三堪    CD                    (QP*)   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0    2      供电所    NN                   (NP*))   -   -   -   -   *        *)        *      *         *             *        *             *            *         *        6)
+bn/cts/00/cts_0073   0    3       表示    VV                    (VP*    表示  -   2   -   *      (V*)        *      *     (REL*)            *        *             *            *         *        -
+bn/cts/00/cts_0073   0    4        ，    PU                       *    -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0    5        从     P           (IP(IP(VP(PP*    -   -   -   -   *   (ARG1*         *      *         *        (ARG2*        *    (ARGM-ADV*   (ARGM-ADV*         *        -
+bn/cts/00/cts_0073   0    6       整个    DT              (NP(NP(DP*)   -   -   -   -   *        *         *      *         *             *        *             *            *         *       (1
+bn/cts/00/cts_0073   0    7        烧    VV          (CP(IP(VP(VRD*     烧  -   1   -   *        *       (V*)     *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0    8        黑    VA                     *)))    黑  -   3   -   *        *    (ARG1*)   (V*)        *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0    9        的   DEC                       *)   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   10      变压器    NN                    (NP*    -   -   -   -   *        *         *      *         *             *        *             *            *         *        1)
+bn/cts/00/cts_0073   0   11       外观    NN                      *))   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   12       以及    CC                       *    -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   13       散落    VV           (NP(CP(IP(VP*    散落  -   -   -   *        *         *      *       (V*)            *        *             *            *         *        -
+bn/cts/00/cts_0073   0   14       一地    CD                  (QP*)))   -   -   -   -   *        *         *      *    (ARG1*)            *        *             *            *         *        -
+bn/cts/00/cts_0073   0   15        的   DEC                       *)   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   16       电线    NN                 (NP*))))   -   -   -   -   *        *         *      *         *             *)       *             *            *         *        -
+bn/cts/00/cts_0073   0   17       清楚    AD                  (ADVP*)   -   -   1   -   *        *         *      *         *    (ARGM-ADV*)       *             *            *         *        -
+bn/cts/00/cts_0073   0   18       了解    VV                  (VP*)))   了解  -   1   -   *        *         *      *         *           (V*)       *             *)           *)        *        -
+bn/cts/00/cts_0073   0   19        ，    PU                       *    -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   20      变压器    NN   (IP(NP(DNP(NP(LCP(NP*)   -   -   -   -   *        *         *      *         *             *   (ARG0*        (ARG0*       (ARG0*         *       (1)
+bn/cts/00/cts_0073   0   21        上    LC                       *)   -   -   1   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   22    ３４万５千    CD                    (QP*)   -   -   -   -   *        *         *      *         *             *        *             *            *         *       (0
+bn/cts/00/cts_0073   0   23       伏特    NN                   (NP*))   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   24        的   DEG                       *)   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   25       套管    NN                   (NP*))   -   -   -   -   *        *         *      *         *             *        *)            *            *         *        0)
+bn/cts/00/cts_0073   0   26       脱落    VV                   (VP*))   脱落  -   -   -   *        *         *      *         *             *      (V*)            *)           *)        *        -
+bn/cts/00/cts_0073   0   27        ，    PU                       *    -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+bn/cts/00/cts_0073   0   28       瞬间    AD            (VP(VP(ADVP*)   -   -   -   -   *        *         *      *         *             *        *    (ARGM-ADV*)           *         *        -
+bn/cts/00/cts_0073   0   29       产生    VV                    (VP*    产生  -   2   -   *        *         *      *         *             *        *           (V*)           *         *        -
+bn/cts/00/cts_0073   0   30       火花    NN                  (NP*)))   -   -   -   -   *        *         *      *         *             *        *        (ARG1*)           *         *        -
+bn/cts/00/cts_0073   0   31        让    VV                    (VP*     让  -   2   -   *        *         *      *         *             *        *             *          (V*)        *        -
+bn/cts/00/cts_0073   0   32      变压器    NN                    (NP*)   -   -   -   -   *        *         *      *         *             *        *             *       (ARG1*)        *       (1)
+bn/cts/00/cts_0073   0   33       陷入    VV                 (IP(VP*    陷入  -   -   -   *        *         *      *         *             *        *             *       (ARG2*       (V*)       -
+bn/cts/00/cts_0073   0   34       火海    NN              (NP*)))))))   -   -   -   -   *        *)        *      *         *             *        *             *            *)   (ARG1*)       -
+bn/cts/00/cts_0073   0   35        。    PU                      *))   -   -   -   -   *        *         *      *         *             *        *             *            *         *        -
+
+bn/cts/00/cts_0073   0    0    许多    CD   (TOP(IP(IP(NP(QP*)   -   -   -   -   *        (ARG0*      *        *             *            *     -
+bn/cts/00/cts_0073   0    1    零件    NN               (NP*))   -   -   -   -   *             *)     *        *             *            *     -
+bn/cts/00/cts_0073   0    2    甚至    AD           (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *        *             *            *     -
+bn/cts/00/cts_0073   0    3     飞    VV            (VP(VRD*     飞  -   1   -   *           (V*)     *        *             *            *     -
+bn/cts/00/cts_0073   0    4     到    VV                   *)    到  -   3   -   *             *    (V*)       *             *            *     -
+bn/cts/00/cts_0073   0    5    几十    CD    (NP(CP(IP(VP(QP*    -   -   -   -   *        (ARG3*      *   (ARG1*             *            *     -
+bn/cts/00/cts_0073   0    6    公尺     M              (CLP*))   -   -   -   -   *             *      *        *)            *            *     -
+bn/cts/00/cts_0073   0    7     远    VA              (VP*)))    远  -   1   -   *             *      *      (V*)            *            *     -
+bn/cts/00/cts_0073   0    8     的   DEC                   *)   -   -   -   -   *             *      *        *             *            *     -
+bn/cts/00/cts_0073   0    9    距离    NN            (NP*)))))   -   -   -   -   *             *)     *        *             *            *     -
+bn/cts/00/cts_0073   0   10     ，    PU                   *    -   -   -   -   *             *      *        *             *            *     -
+bn/cts/00/cts_0073   0   11    幸好    AD           (IP(ADVP*)   -   -   -   -   *             *      *        *    (ARGM-ADV*)           *     -
+bn/cts/00/cts_0073   0   12    机组    NN                (NP*)   -   -   -   -   *             *      *        *        (ARG0*)           *    (8)
+bn/cts/00/cts_0073   0   13     有    VE                (VP*     有  -   3   -   *             *      *        *           (V*)           *     -
+bn/cts/00/cts_0073   0   14    互相    AD      (NP(ADJP(ADVP*)   -   -   -   -   *             *      *        *        (ARG1*   (ARGM-ADV*     -
+bn/cts/00/cts_0073   0   15    备用    JJ             (ADJP*))   -   -   -   -   *             *      *        *             *            *)    -
+bn/cts/00/cts_0073   0   16    没有    VE          (CP(IP(VP*    没有  -   1   -   *             *      *        *             *          (V*)    -
+bn/cts/00/cts_0073   0   17    停电    NN              (NP*)))   -   -   -   -   *             *      *        *             *       (ARG1*)    -
+bn/cts/00/cts_0073   0   18     的   DEC                   *)   -   -   -   -   *             *      *        *             *            *     -
+bn/cts/00/cts_0073   0   19    疑虑    NN             (NP*))))   -   -   -   -   *             *      *        *             *)           *     -
+bn/cts/00/cts_0073   0   20     。    PU                  *))   -   -   -   -   *             *      *        *             *            *     -
+
+bn/cts/00/cts_0073   0    0      “    PU        (TOP(IP*    -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0    1     这样    JJ   (NP(DNP(ADJP*)   -   -   -   -   *             *             *             *    (5
+bn/cts/00/cts_0073   0    2      的   DEG               *)   -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0    3    变压器    NN           (NP*))   -   -   -   -   *             *             *             *     5)
+bn/cts/00/cts_0073   0    4      呀    SP           (FLR*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0    5      ，    PU               *    -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0    6      它    PN      (CP(IP(NP*)   -   -   -   -   *    (ARGM-TPC*)            *             *    (5)
+bn/cts/00/cts_0073   0    7     现在    NT         (VP(NP*)   -   -   -   -   *    (ARGM-TMP*)            *             *    (4)
+bn/cts/00/cts_0073   0    8      有    VE            (VP*     有  -   3   -   *           (V*)            *             *     -
+bn/cts/00/cts_0073   0    9      一    CD         (NP(QP*    -   -   -   -   *        (ARG1*             *             *     -
+bn/cts/00/cts_0073   0   10      组     M          (CLP*))   -   -   1   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   11     故障    NN        (NP*)))))   -   -   -   -   *             *)            *             *     -
+bn/cts/00/cts_0073   0   12      啊    SP               *)   -   -   -   -   *    (ARGM-ADV*)            *             *     -
+bn/cts/00/cts_0073   0   13      ，    PU               *    -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   14      又    AD    (IP(PP(ADVP*)   -   -   -   -   *             *    (ARGM-PRP*             *     -
+bn/cts/00/cts_0073   0   15     因为     P            (PP*    -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   16     现在    NT      (CP(IP(NP*)   -   -   -   -   *             *             *             *    (4)
+bn/cts/00/cts_0073   0   17     已经    AD       (VP(ADVP*)   -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   18    １０月    NT     (VP(LCP(NP*)   -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   19      底    LC            *))))   -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   20      了    SP             *)))   -   -   -   -   *             *             *)            *     -
+bn/cts/00/cts_0073   0   21     天气    NN            (NP*)   -   -   -   -   *             *        (ARG0*)            *     -
+bn/cts/00/cts_0073   0   22     比较    AD       (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *     -
+bn/cts/00/cts_0073   0   23     凉快    VA            (VP*    凉快  -   -   -   *             *           (V*)            *     -
+bn/cts/00/cts_0073   0   24     用电    NN         (IP(NP*)   -   -   -   -   *             *        (ARG1*        (ARG0*)    -
+bn/cts/00/cts_0073   0   25     没有    AD       (VP(ADVP*)   -   -   1   -   *             *             *    (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0   26     那么    AD          (ADVP*)   -   -   -   -   *             *             *    (ARGM-DIS*)    -
+bn/cts/00/cts_0073   0   27     紧迫    VA       (VP*))))))   紧迫  -   -   -   *             *             *)          (V*)    -
+bn/cts/00/cts_0073   0   28      。    PU               *    -   -   -   -   *             *             *             *     -
+bn/cts/00/cts_0073   0   29      ”    PU              *))   -   -   -   -   *             *             *             *     -
+
+bn/cts/00/cts_0073   0    0    厂方    NN        (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)            *             *    (6)
+bn/cts/00/cts_0073   0    1     说    VV               (VP*     说  -   7   -   *       (V*)            *             *     -
+bn/cts/00/cts_0073   0    2    意外    NN   (IP(NP(CP(IP(NP*)   -   -   -   -   *    (ARG1*        (ARG1*)       (ARG0*    (3)
+bn/cts/00/cts_0073   0    3    要是    AD          (VP(ADVP*)   -   -   -   -   *         *    (ARGM-DIS*)            *     -
+bn/cts/00/cts_0073   0    4    发生    VV               (VP*    发生  -   1   -   *         *           (V*)            *     -
+bn/cts/00/cts_0073   0    5     在     P               (PP*    -   -   2   -   *         *        (ARG1*             *     -
+bn/cts/00/cts_0073   0    6    炎热    NN           (NP*)))))   -   -   -   -   *         *             *)            *     -
+bn/cts/00/cts_0073   0    7     的   DEC                  *)   -   -   -   -   *         *             *             *     -
+bn/cts/00/cts_0073   0    8    夏天    NN              (NP*))   -   -   -   -   *         *        (ARG0*)            *)    -
+bn/cts/00/cts_0073   0    9     可    AD          (VP(ADVP*)   -   -   5   -   *         *             *    (ARGM-DIS*)    -
+bn/cts/00/cts_0073   0   10     就    AD             (ADVP*)   -   -   2   -   *         *             *    (ARGM-DIS*)    -
+bn/cts/00/cts_0073   0   11    麻烦    VA               (VP*    麻烦  -   -   -   *         *             *           (V*)    -
+bn/cts/00/cts_0073   0   12     了    AS               *))))   -   -   -   -   *         *)            *        (ARG1*)    -
+bn/cts/00/cts_0073   0   13     。    PU                 *))   -   -   -   -   *         *             *             *     -
+
+bn/cts/00/cts_0073   0    0    供电所    NN   (TOP(IP(NP(DNP(NP*)  -   -   -   -   *   (ARG0*       (ARG0*    (6)
+bn/cts/00/cts_0073   0    1      的   DEG                    *)  -   -   -   -   *        *            *     -
+bn/cts/00/cts_0073   0    2     范围    NN                (NP*))  -   -   -   -   *        *)           *)    -
+bn/cts/00/cts_0073   0    3      是    VC                 (VP*    是  -   1   -   *      (V*)           *     -
+bn/cts/00/cts_0073   0    4      在     P              (VP(PP*   -   -   2   -   *        *   (ARGM-TMP*     -
+bn/cts/00/cts_0073   0    5    台北市    NR          (LCP(NP(NP*)  -   -   -   -   *        *            *     -
+bn/cts/00/cts_0073   0    6     东管    NN                (NP*))  -   -   -   -   *        *            *     -
+bn/cts/00/cts_0073   0    7     以北    LC                   *))  -   -   -   -   *        *            *)    -
+bn/cts/00/cts_0073   0    8      到    VV                 (VP*    到  -   1   -   *        *          (V*)    -
+bn/cts/00/cts_0073   0    9     东山    NR                 (NP*   -   -   -   -   *        *       (ARG1*     -
+bn/cts/00/cts_0073   0   10     地区    NN                 *))))  -   -   1   -   *        *            *)    -
+bn/cts/00/cts_0073   0   11      。    PU                   *))  -   -   -   -   *        *            *     -
+
+bn/cts/00/cts_0073   0    0    截至    P  (TOP(IP(IP(PP*    -   -   -   -   *    (ARGM-TMP*    (ARGM-TMP*             *    -
+bn/cts/00/cts_0073   0    1    中午   NT           (NP*))   -   -   -   -   *             *)            *)            *    -
+bn/cts/00/cts_0073   0    2    １２   CD         (NP(QP*    -   -   -   -   *        (ARG0*        (ARG0*             *   (8
+bn/cts/00/cts_0073   0    3     台    M          (CLP*))   -   -   -   -   *             *             *             *    -
+bn/cts/00/cts_0073   0    4    机组   NN           (NP*))   -   -   -   -   *             *)            *)            *    8)
+bn/cts/00/cts_0073   0    5     都   AD       (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)            *    -
+bn/cts/00/cts_0073   0    6    能够   VV            (VP*    能够  -   -   -   *           (V*)            *             *    -
+bn/cts/00/cts_0073   0    7    正常   AD       (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *    -
+bn/cts/00/cts_0073   0    8    负载   VV        (VP*)))))   负载  -   -   -   *             *           (V*)            *    -
+bn/cts/00/cts_0073   0    9     ，   PU               *    -   -   -   -   *             *             *             *    -
+bn/cts/00/cts_0073   0   10    民众   NN         (IP(NP*)   -   -   -   -   *             *             *        (ARG0*)   -
+bn/cts/00/cts_0073   0   11    不必   AD       (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-ADV*)   -
+bn/cts/00/cts_0073   0   12    担心   VV          (VP*)))   担心  -   -   -   *             *             *           (V*)   -
+bn/cts/00/cts_0073   0   13     。   PU              *))   -   -   -   -   *             *             *             *    -
+
+bn/cts/00/cts_0073   0   0     而   AD   (TOP(IP(PP(ADVP*)  -   -   -   -   *        (ARG1*   -
+bn/cts/00/cts_0073   0   1    至于    P               (PP*   -   -   -   -   *             *   -
+bn/cts/00/cts_0073   0   2    问题   NN             (NP*)))  -   -   1   -   *             *)  -
+bn/cts/00/cts_0073   0   3    究竟   AD          (VP(ADVP*)  -   -   -   -   *    (ARGM-ADV*)  -
+bn/cts/00/cts_0073   0   4     出   VV               (VP*    出  -   1   -   *           (V*)  -
+bn/cts/00/cts_0073   0   5     在    P               (PP*   -   -   2   -   *        (ARG1*   -
+bn/cts/00/cts_0073   0   6    哪里   PN            (NP*))))  -   -   -   -   *             *)  -
+bn/cts/00/cts_0073   0   7     ？   PU                 *))  -   -   -   -   *             *   -
+
+bn/cts/00/cts_0073   0   0     厂方   NN   (TOP(IP(NP*)   -   -   -   -   *      *        (ARG0*)   (6)
+bn/cts/00/cts_0073   0   1      还   AD     (VP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0   2      要   VV          (VP*     要  -   3   -   *    (V*)            *     -
+bn/cts/00/cts_0073   0   3      再   AD     (VP(ADVP*)   -   -   1   -   *      *    (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0   4    进一步   AD        (ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)    -
+bn/cts/00/cts_0073   0   5     了解   VV       (VP*))))   了解  -   1   -   *      *           (V*)    -
+bn/cts/00/cts_0073   0   6      。   PU            *))   -   -   -   -   *      *             *     -
+
+#end document

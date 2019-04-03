@@ -1,0 +1,230 @@
+#begin document (wb/cmn/00/cmn_0041); part 000
+wb/cmn/00/cmn_0041   0   0     美国    NR   (TOP(CP(IP(NP(DNP(NP*)  -   -    -   -   *        (ARG0*    (2)
+wb/cmn/00/cmn_0041   0   1      的   DEG                       *)  -   -    -   -   *             *     -
+wb/cmn/00/cmn_0041   0   2     注册    JJ                  (ADJP*)  -   -    -   -   *             *     -
+wb/cmn/00/cmn_0041   0   3    会计师    NN                   (NP*))  -   -    -   -   *             *)    -
+wb/cmn/00/cmn_0041   0   4     日子    NN                    (NP*)  -   -    -   -   *        (ARG0*)    -
+wb/cmn/00/cmn_0041   0   5      过    VV                    (VP*   -   -    6   -   *             *     -
+wb/cmn/00/cmn_0041   0   6      得   DER                       *   -   -    -   -   *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   7      好    VA                  (VP*)))   好  -   10   -   *           (V*)    -
+wb/cmn/00/cmn_0041   0   8      吗    SP                       *   -   -    -   -   *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   9      ？    PU                      *))  -   -    -   -   *             *     -
+
+wb/cmn/00/cmn_0041   0   0    chaoxing   NR   (TOP(FRAG*))  -   -   -   -   *    (3)
+
+wb/cmn/00/cmn_0041   0   0         发信人   NN  (TOP(FRAG*   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   1           ：   PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   2    chaoxing   NR           *   -   -   -    _chaoxing_  *   (3
+wb/cmn/00/cmn_0041   0   3           （   PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   4     wildcat   NR           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   5           ）   PU           *   -   -   -    _chaoxing_  *    3)
+wb/cmn/00/cmn_0041   0   6           ，   PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   7          信区   NN           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   8           ：   PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   9    Business   NN          *))  -   -   -    _chaoxing_  *    -
+
+wb/cmn/00/cmn_0041   0    0     标题    NN   (TOP(CP(IP(NP*)  -   -    -    _chaoxing_  *        (ARG1*)            *     -
+wb/cmn/00/cmn_0041   0    1      ：    PU                *   -   -    -    _chaoxing_  *             *             *     -
+wb/cmn/00/cmn_0041   0    2     美国    NR      (NP(DNP(NP*)  -   -    -    _chaoxing_  *        (ARG1*        (ARG0*    (2)
+wb/cmn/00/cmn_0041   0    3      的   DEG                *)  -   -    -    _chaoxing_  *             *             *     -
+wb/cmn/00/cmn_0041   0    4     注册    JJ        (NP(ADJP*)  -   -    -    _chaoxing_  *             *             *     -
+wb/cmn/00/cmn_0041   0    5    会计师    NN            (NP*))  -   -    -    _chaoxing_  *             *             *     -
+wb/cmn/00/cmn_0041   0    6     日子    NN            (NP*))  -   -    -    _chaoxing_  *             *)            *)    -
+wb/cmn/00/cmn_0041   0    7      过    VV             (VP*    过  -    6    _chaoxing_  *           (V*)            *     -
+wb/cmn/00/cmn_0041   0    8      得   DER                *   -   -    -    _chaoxing_  *        (ARG1*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0    9      好    VA           (VP*)))   好  -   10    _chaoxing_  *    (ARGM-EXT*)          (V*)    -
+wb/cmn/00/cmn_0041   0   10      吗    SP                *   -   -    -    _chaoxing_  *    (ARGM-ADV*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   11      ？    PU               *))  -   -    -    _chaoxing_  *             *             *     -
+
+wb/cmn/00/cmn_0041   0    0         发信站   NN  (TOP(FRAG*   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    1           ：   PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    2         BBS   NN           *   -   -   -    _chaoxing_  *   (0
+wb/cmn/00/cmn_0041   0    3          未名   NR           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    4         空间站   NR           *   -   -   -    _chaoxing_  *    0)
+wb/cmn/00/cmn_0041   0    5           （   PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    6         Sun   NT           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    7         Jan   NT           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    8         21    NT           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    9   11：23：38    NT           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   10       2007    NT           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   11           ）   PU          *))  -   -   -    _chaoxing_  *    -
+
+wb/cmn/00/cmn_0041   0   0      我    PN      (TOP(IP(NP*)   -   -   -    _chaoxing_  *    (ARG0*)            *    (3)
+wb/cmn/00/cmn_0041   0   1      是    VC             (VP*     是  -   1    _chaoxing_  *       (V*)            *     -
+wb/cmn/00/cmn_0041   0   2     国内    NN   (IP(NP(DNP(NP*)   -   -   -    _chaoxing_  *    (ARG1*        (ARG0*    (5)
+wb/cmn/00/cmn_0041   0   3      的   DEG                *)   -   -   -    _chaoxing_  *         *             *     -
+wb/cmn/00/cmn_0041   0   4    会计师    NN             (NP*    -   -   -    _chaoxing_  *         *             *     -
+wb/cmn/00/cmn_0041   0   5    事务所    NN               *))   -   -   -    _chaoxing_  *         *             *)    -
+wb/cmn/00/cmn_0041   0   6     工作    VV             (VP*    工作  -   -    _chaoxing_  *         *           (V*)    -
+wb/cmn/00/cmn_0041   0   7      过    AS              *)))   -   -   1    _chaoxing_  *         *)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   8      ，    PU               *))   -   -   -    _chaoxing_  *         *             *     -
+
+wb/cmn/00/cmn_0041   0    0    虽然    CS   (TOP(IP(CP(ADVP*)   -   -   -    _chaoxing_  *    (ARGM-DIS*)   (ARGM-ADV*         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    1    并不    AD       (IP(VP(ADVP*)   -   -   -    _chaoxing_  *    (ARGM-ADV*)            *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    2     是    VC               (VP*     是  -   1    _chaoxing_  *           (V*)            *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    3    什么    DT            (NP(DP*)   -   -   -    _chaoxing_  *        (ARG1*             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    4     大    JJ         (DNP(ADJP*)   -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    5     的   DEG                  *)   -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    6    城市    NN          (NP*))))))   -   -   1    _chaoxing_  *             *)            *)        *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    7     ，    PU                  *    -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    8     但    AD             (ADVP*)   -   -   -    _chaoxing_  *             *    (ARGM-DIS*)        *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0    9     我    PN               (NP*)   -   -   -    _chaoxing_  *             *        (ARG0*)        *             *             *             *             *      *    (3)
+wb/cmn/00/cmn_0041   0   10     总    AD          (VP(ADVP*)   -   -   -    _chaoxing_  *             *    (ARGM-ADV*)        *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)            *      *     -
+wb/cmn/00/cmn_0041   0   11    觉得    VV               (VP*    觉得  -   -    _chaoxing_  *             *           (V*)        *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   12     我    PN   (IP(NP(CP(IP(NP*)   -   -   -    _chaoxing_  *             *        (ARG1*    (ARG0*)       (ARG1*             *        (ARG0*             *      *    (3)
+wb/cmn/00/cmn_0041   0   13     所   MSP               (VP*    -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   14     做    VV             (VP*)))    做  -   3    _chaoxing_  *             *             *       (V*)            *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   15     的   DEC                  *)   -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   16    工作    NN              (NP*))   -   -   -    _chaoxing_  *             *             *         *             *)            *             *)            *      *     -
+wb/cmn/00/cmn_0041   0   17    并没    AD       (IP(IP(ADVP*)   -   -   -    _chaoxing_  *             *             *    (ARG1*    (ARGM-ADV*)   (ARGM-ADV*)            *             *      *     -
+wb/cmn/00/cmn_0041   0   18    别人    NN               (NP*)   -   -   -    _chaoxing_  *             *             *         *        (ARG0*)       (ARG0*)            *             *      *     -
+wb/cmn/00/cmn_0041   0   19    想象    VV               (VP*    想象  -   -    _chaoxing_  *             *             *         *           (V*)       (ARG0*)            *             *      *     -
+wb/cmn/00/cmn_0041   0   20     的   DER                  *    -   -   -    _chaoxing_  *             *             *         *    (ARGM-ADV*)   (ARGM-ADV*)            *             *      *     -
+wb/cmn/00/cmn_0041   0   21    那内    AD          (VP(ADVP*)   -   -   -    _chaoxing_  *             *             *         *    (ARGM-ADV*    (ARGM-ADV*)            *             *      *     -
+wb/cmn/00/cmn_0041   0   22     难    VA            (VP*))))    难  -   -    _chaoxing_  *             *             *         *             *)          (V*)            *             *      *     -
+wb/cmn/00/cmn_0041   0   23     ，    PU                  *    -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   24    也许    AD       (IP(VP(ADVP*)   -   -   -    _chaoxing_  *             *             *         *             *             *    (ARGM-ADV*)            *      *     -
+wb/cmn/00/cmn_0041   0   25     是    VC               (VP*     是  -   2    _chaoxing_  *             *             *         *             *             *           (V*)            *      *     -
+wb/cmn/00/cmn_0041   0   26    因为     P               (PP*    -   -   -    _chaoxing_  *             *             *         *             *             *        (ARG1*             *      *     -
+wb/cmn/00/cmn_0041   0   27    前人    NN            (IP(NP*)   -   -   -    _chaoxing_  *             *             *         *             *             *             *        (ARG0*)     *     -
+wb/cmn/00/cmn_0041   0   28     都    AD          (VP(ADVP*)   -   -   -    _chaoxing_  *             *             *         *             *             *             *    (ARGM-ADV*)     *     -
+wb/cmn/00/cmn_0041   0   29     早    AD             (ADVP*)   -   -   1    _chaoxing_  *             *             *         *             *             *             *    (ARGM-ADV*)     *     -
+wb/cmn/00/cmn_0041   0   30     已    AD             (ADVP*)   -   -   2    _chaoxing_  *             *             *         *             *             *             *    (ARGM-ADV*)     *     -
+wb/cmn/00/cmn_0041   0   31     有    VE               (VP*     有  -   7    _chaoxing_  *             *             *         *             *             *             *           (V*)     *     -
+wb/cmn/00/cmn_0041   0   32     一    CD            (NP(QP*    -   -   -    _chaoxing_  *             *             *         *             *             *             *        (ARG1*      *     -
+wb/cmn/00/cmn_0041   0   33     套     M             (CLP*))   -   -   1    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   34    约定    VV        (CP(IP(VP*))   约定  -   -    _chaoxing_  *             *             *         *             *             *             *             *    (V*)    -
+wb/cmn/00/cmn_0041   0   35     的   DEC                  *)   -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+wb/cmn/00/cmn_0041   0   36    模式    NN   (NP*)))))))))))))   -   -   -    _chaoxing_  *             *             *)        *)            *             *             *)            *)     *     -
+wb/cmn/00/cmn_0041   0   37     ，    PU                 *))   -   -   -    _chaoxing_  *             *             *         *             *             *             *             *      *     -
+
+wb/cmn/00/cmn_0041   0    0      我    PN   (TOP(IP(IP(NP*)   -   -    -    _chaoxing_  *    (ARG0*)   (ARG0*)       *             *             *    (3)
+wb/cmn/00/cmn_0041   0    1      想    VV             (VP*     想  -    4    _chaoxing_  *       (V*)        *        *             *             *     -
+wb/cmn/00/cmn_0041   0    2     问问    VV          (IP(VP*    问问  -    -    _chaoxing_  *    (ARG1*       (V*)       *             *             *     -
+wb/cmn/00/cmn_0041   0    3     那些    DT          (NP(DP*)   -   -    -    _chaoxing_  *         *    (ARG2*        *             *             *    (4
+wb/cmn/00/cmn_0041   0    4     考过    VV       (CP(IP(VP*    考过  -    -    _chaoxing_  *         *         *      (V*)            *             *     -
+wb/cmn/00/cmn_0041   0    5     美国    NR          (NP(NP*)   -   -    -    _chaoxing_  *         *         *   (ARG1*             *             *    (2)
+wb/cmn/00/cmn_0041   0    6     注册    JJ           (ADJP*)   -   -    -    _chaoxing_  *         *         *        *             *             *     -
+wb/cmn/00/cmn_0041   0    7    会计师    NN          (NP*))))   -   -    -    _chaoxing_  *         *         *        *)            *             *     -
+wb/cmn/00/cmn_0041   0    8      的   DEC                *)   -   -    -    _chaoxing_  *         *         *        *             *             *     -
+wb/cmn/00/cmn_0041   0    9      人    NN        (NP*))))))   -   -    1    _chaoxing_  *         *)        *)       *             *             *     4)
+wb/cmn/00/cmn_0041   0   10      ，    PU                *    -   -    -    _chaoxing_  *         *         *        *             *             *     -
+wb/cmn/00/cmn_0041   0   11     你们    PN       (CP(IP(NP*)   -   -    -    _chaoxing_  *         *         *        *        (ARG0*)       (ARG0*)   (4)
+wb/cmn/00/cmn_0041   0   12      过    VV             (VP*     过  -    6    _chaoxing_  *         *         *        *           (V*)            *     -
+wb/cmn/00/cmn_0041   0   13      得   DER                *    -   -    -    _chaoxing_  *         *         *        *        (ARG1*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   14      好    VA           (VP*)))    好  -   10    _chaoxing_  *         *         *        *    (ARGM-EXT*)          (V*)    -
+wb/cmn/00/cmn_0041   0   15      吗    SP                *)   -   -    -    _chaoxing_  *         *         *        *    (ARGM-ADV*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   16      ？    PU               *))   -   -    -    _chaoxing_  *         *         *        *             *             *     -
+
+wb/cmn/00/cmn_0041   0    0      我    PN             (TOP(IP(NP*)   -   -   -    _chaoxing_  *        (ARG0*)            *             *    (3)
+wb/cmn/00/cmn_0041   0    1      在     P                 (VP(PP*    -   -   2    _chaoxing_  *    (ARGM-LOC*             *             *     -
+wb/cmn/00/cmn_0041   0    2     国内    NN                   (NP*))   -   -   -    _chaoxing_  *             *)            *             *     -
+wb/cmn/00/cmn_0041   0    3      也    AD                  (ADVP*)   -   -   -    _chaoxing_  *    (ARGM-ADV*)            *             *     -
+wb/cmn/00/cmn_0041   0    4      是    VC                    (VP*     是  -   1    _chaoxing_  *           (V*)            *             *     -
+wb/cmn/00/cmn_0041   0    5      很    AD   (NP(CP(IP(VP(VP(ADVP*)   -   -   -    _chaoxing_  *        (ARG1*    (ARGM-ADV*)            *     -
+wb/cmn/00/cmn_0041   0    6     艰难    VA                   (VP*))   艰难  -   -    _chaoxing_  *             *           (V*)            *     -
+wb/cmn/00/cmn_0041   0    7      才    AD               (VP(ADVP*)   -   -   -    _chaoxing_  *             *             *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0    8      考    VV                    (VP*     考  -   2    _chaoxing_  *             *             *           (V*)    -
+wb/cmn/00/cmn_0041   0    9      过    AS                    *))))   -   -   1    _chaoxing_  *             *             *        (ARG2*)    -
+wb/cmn/00/cmn_0041   0   10      的   DEC                       *)   -   -   -    _chaoxing_  *             *             *        (ARG2*)    -
+wb/cmn/00/cmn_0041   0   11     注册    JJ                  (ADJP*)   -   -   -    _chaoxing_  *             *             *             *     -
+wb/cmn/00/cmn_0041   0   12    会计师    NN                 (NP*))))   -   -   -    _chaoxing_  *             *)            *             *     -
+wb/cmn/00/cmn_0041   0   13      ，    PU                      *))   -   -   -    _chaoxing_  *             *             *             *     -
+
+wb/cmn/00/cmn_0041   0    0      而    AD   (TOP(IP(IP(ADVP*)   -   -   -    _chaoxing_  *      *    (ARGM-DIS*)   (ARGM-DIS*)   (ARGM-DIS*)            *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    1     现在    NT               (NP*)   -   -   -    _chaoxing_  *      *    (ARGM-TMP*)   (ARGM-TMP*)   (ARGM-TMP*)            *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    2      在     P               (PP*    -   -   2    _chaoxing_  *      *    (ARGM-LOC*    (ARGM-LOC*    (ARGM-LOC*             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    3     美国    NR              (NP*))   -   -   -    _chaoxing_  *      *             *)            *)            *)            *             *             *             *             *             *    (1)
+wb/cmn/00/cmn_0041   0    4      ，    PU                  *    -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    5      我    PN               (NP*)   -   -   -    _chaoxing_  *      *        (ARG0*)       (ARG0*)       (ARG0*)            *             *             *             *             *             *    (3)
+wb/cmn/00/cmn_0041   0    6     可能    VV               (VP*    可能  -   -    _chaoxing_  *    (V*)            *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    7      会    VV               (VP*     会  -   1    _chaoxing_  *      *           (V*)            *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    8     找到    VV            (VP(VP*    找到  -   1    _chaoxing_  *      *        (ARG1*           (V*)            *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0    9      一    CD            (NP(QP*    -   -   -    _chaoxing_  *      *             *        (ARG1*             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   10      个     M             (CLP*))   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   11      很    AD    (DNP(ADJP(ADVP*)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   12     普通    JJ            (ADJP*))   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   13      的   DEG                  *)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   14     学校    NN             (NP*)))   -   -   -    _chaoxing_  *      *             *             *)            *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   15      念    VV               (VP*     念  -   1    _chaoxing_  *      *             *             *           (V*)            *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   16      个     M       (NP(QP(CLP*))   -   -   -    _chaoxing_  *      *             *             *        (ARG1*             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   17     硕士    NN         (NP*)))))))   -   -   -    _chaoxing_  *      *             *)            *             *)            *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   18      ，    PU                  *    -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   19     然后    AD          (IP(ADVP*)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *    (ARGM-DIS*)   (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0041   0   20      呢    SP              (FLR*)   -   -   -    _chaoxing_  *      *             *             *             *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   21      ，    PU                  *    -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   22     然后    AD             (ADVP*)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *    (ARGM-DIS*)   (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0041   0   23      是    VC           (VP(VNV*     是  -   2    _chaoxing_  *      *             *             *             *           (V*)            *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   24      不    AD                  *    -   -   -    _chaoxing_  *      *             *             *             *             *    (ARGM-ADV*)            *             *             *             *     -
+wb/cmn/00/cmn_0041   0   25      是    VC                  *)    是  -   2    _chaoxing_  *      *             *             *             *             *           (V*)            *             *             *             *     -
+wb/cmn/00/cmn_0041   0   26      又    AD          (VP(ADVP*)   -   -   -    _chaoxing_  *      *             *             *             *        (ARG1*        (ARG1*             *    (ARGM-ADV*)   (ARGM-DIS*)            *     -
+wb/cmn/00/cmn_0041   0   27      要    VV               (VP*     要  -   1    _chaoxing_  *      *             *             *             *             *             *           (V*)            *             *             *     -
+wb/cmn/00/cmn_0041   0   28     开始    VV               (VP*    开始  -   -    _chaoxing_  *      *             *             *             *             *             *             *           (V*)            *             *     -
+wb/cmn/00/cmn_0041   0   29     准备    VV               (VP*    准备  -   2    _chaoxing_  *      *             *             *             *             *             *             *        (ARG1*           (V*)            *     -
+wb/cmn/00/cmn_0041   0   30      考    VV            (IP(VP*     考  -   3    _chaoxing_  *      *             *             *             *             *             *             *             *        (ARG1*           (V*)    -
+wb/cmn/00/cmn_0041   0   31     这边    PN        (NP(DNP(NP*)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *        (ARG1*    (2)
+wb/cmn/00/cmn_0041   0   32      的   DEG                  *)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   33     注册    JJ             (ADJP*)   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+wb/cmn/00/cmn_0041   0   34    会计师    NN      (NP*))))))))))   -   -   -    _chaoxing_  *      *             *             *             *             *)            *)            *             *)            *)            *)    -
+wb/cmn/00/cmn_0041   0   35      。    PU                 *))   -   -   -    _chaoxing_  *      *             *             *             *             *             *             *             *             *             *     -
+
+wb/cmn/00/cmn_0041   0    0      还    AD   (TOP(IP(IP(VP(ADVP*)   -   -   -    _chaoxing_  *    (ARGM-DIS*)     *        *     -
+wb/cmn/00/cmn_0041   0    1      有    VE                  (VP*     有  -   3    _chaoxing_  *           (V*)     *        *     -
+wb/cmn/00/cmn_0041   0    2      一    CD                  (QP*    -   -   -    _chaoxing_  *        (ARG1*      *        *     -
+wb/cmn/00/cmn_0041   0    3      个     M             (CLP*)))))   -   -   -    _chaoxing_  *             *)     *        *     -
+wb/cmn/00/cmn_0041   0    4      ，    PU                     *    -   -   -    _chaoxing_  *             *      *        *     -
+wb/cmn/00/cmn_0041   0    5     国内    NN        (IP(NP(DNP(NP*)   -   -   -    _chaoxing_  *             *      *   (ARG1*    (5)
+wb/cmn/00/cmn_0041   0    6      的   DEG                     *)   -   -   -    _chaoxing_  *             *      *        *     -
+wb/cmn/00/cmn_0041   0    7     注册    JJ          (NP(NP(ADJP*)   -   -   -    _chaoxing_  *             *      *        *     -
+wb/cmn/00/cmn_0041   0    8    会计师    NN                 (NP*))   -   -   -    _chaoxing_  *             *      *        *     -
+wb/cmn/00/cmn_0041   0    9      与    CC                     *    -   -   -    _chaoxing_  *             *      *        *     -
+wb/cmn/00/cmn_0041   0   10     注册    JJ             (NP(ADJP*)   -   -   -    _chaoxing_  *             *      *        *     -
+wb/cmn/00/cmn_0041   0   11    税务师    NN               (NP*))))   -   -   -    _chaoxing_  *             *      *        *)    -
+wb/cmn/00/cmn_0041   0   12      是    VC                  (VP*     是  -   1    _chaoxing_  *             *    (V*)       *     -
+wb/cmn/00/cmn_0041   0   13     分开    VV                (VP*)))   分开  -   -    _chaoxing_  *             *      *      (V*)    -
+wb/cmn/00/cmn_0041   0   14      ，    PU                    *))   -   -   -    _chaoxing_  *             *      *        *     -
+
+wb/cmn/00/cmn_0041   0    0      在     P  (TOP(CP(IP(PP*   -   -   2    _chaoxing_  *        *    (ARGM-LOC*    (ARGM-LOC*        *      *             *     -
+wb/cmn/00/cmn_0041   0    1     美国    NR           (NP*))  -   -   -    _chaoxing_  *        *             *)            *)       *      *             *    (1)
+wb/cmn/00/cmn_0041   0    2      是    VC        (VP(VNV*    是  -   1    _chaoxing_  *      (V*)            *             *        *      *             *     -
+wb/cmn/00/cmn_0041   0    3      不    AD               *   -   -   -    _chaoxing_  *        *    (ARGM-ADV*)            *        *      *             *     -
+wb/cmn/00/cmn_0041   0    4      是    VC               *)   是  -   2    _chaoxing_  *        *           (V*)            *        *      *             *     -
+wb/cmn/00/cmn_0041   0    5      也    AD       (VP(ADVP*)  -   -   -    _chaoxing_  *   (ARG1*        (ARG1*    (ARGM-DIS*)       *      *             *     -
+wb/cmn/00/cmn_0041   0    6      有    VE            (VP*    有  -   3    _chaoxing_  *        *             *           (V*)       *      *             *     -
+wb/cmn/00/cmn_0041   0    7      考    VV      (IP(IP(VP*    考  -   3    _chaoxing_  *        *             *        (ARG1*      (V*)     *    (ARGM-ADV*     -
+wb/cmn/00/cmn_0041   0    8     注册    JJ       (NP(ADJP*)  -   -   -    _chaoxing_  *        *             *             *   (ARG1*      *             *     -
+wb/cmn/00/cmn_0041   0    9    税务师    NN         (NP*))))  -   -   -    _chaoxing_  *        *             *             *        *)     *             *)    -
+wb/cmn/00/cmn_0041   0   10      ，    PU               *   -   -   -    _chaoxing_  *        *             *             *        *      *             *     -
+wb/cmn/00/cmn_0041   0   11     美国    NR     (NP(DNP(NP*)  -   -   -    _chaoxing_  *        *             *             *        *      *        (ARG1*    (2)
+wb/cmn/00/cmn_0041   0   12      的   DEG               *)  -   -   -    _chaoxing_  *        *             *             *        *      *             *     -
+wb/cmn/00/cmn_0041   0   13     税务    NN            (NP*   -   -   -    _chaoxing_  *        *             *             *        *      *             *     -
+wb/cmn/00/cmn_0041   0   14     代理    NN               *   -   -   -    _chaoxing_  *        *             *             *        *      *             *     -
+wb/cmn/00/cmn_0041   0   15     工作    NN              *))  -   -   -    _chaoxing_  *        *             *             *        *      *             *)    -
+wb/cmn/00/cmn_0041   0   16      也    AD       (VP(ADVP*)  -   -   -    _chaoxing_  *        *             *             *        *      *    (ARGM-DIS*)    -
+wb/cmn/00/cmn_0041   0   17      是    VC            (VP*    是  -   1    _chaoxing_  *        *             *             *        *    (V*)            *     -
+wb/cmn/00/cmn_0041   0   18      由     P         (VP(PP*   -   -   1    _chaoxing_  *        *             *             *        *      *        (ARG0*     -
+wb/cmn/00/cmn_0041   0   19    会计师    NN            (NP*   -   -   -    _chaoxing_  *        *             *             *        *      *             *     -
+wb/cmn/00/cmn_0041   0   20    事务所    NN              *))  -   -   -    _chaoxing_  *        *             *             *        *      *             *)    -
+wb/cmn/00/cmn_0041   0   21     一并    AD          (ADVP*)  -   -   -    _chaoxing_  *        *             *             *        *      *    (ARGM-ADV*)    -
+wb/cmn/00/cmn_0041   0   22      做    VV    (VP*)))))))))   做  -   3    _chaoxing_  *        *)            *)            *)       *      *           (V*)    -
+wb/cmn/00/cmn_0041   0   23      吗    SP               *   -   -   -    _chaoxing_  *        *    (ARGM-ADV*)   (ARGM-ADV*)       *      *             *     -
+wb/cmn/00/cmn_0041   0   24      ？    PU              *))  -   -   -    _chaoxing_  *        *             *             *        *      *             *     -
+
+wb/cmn/00/cmn_0041   0   0    －－   PU   (TOP(FRAG*))  -   -   -   -   *   -
+
+wb/cmn/00/cmn_0041   0    0                    ※    PU  (TOP(FRAG*   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    1                   来源    NN           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    2                    ：    PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    3                  99     CD           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    4                  BBS    NN           *   -   -   -    _chaoxing_  *   (0
+wb/cmn/00/cmn_0041   0    5                   未名    NR           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    6                  空间站    NR           *   -   -   -    _chaoxing_  *    0)
+wb/cmn/00/cmn_0041   0    7    http：／／mitbbs．com   URL           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    8                  99     CD           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0    9                    ［    PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   10                 FROM     P           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   11                    ：    PU           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   12               70．21．   URL           *   -   -   -    _chaoxing_  *    -
+wb/cmn/00/cmn_0041   0   13                    ］    PU          *))  -   -   -    _chaoxing_  *    -
+
+#end document

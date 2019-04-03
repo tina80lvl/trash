@@ -1,0 +1,84 @@
+#begin document (bn/cbs/01/cbs_0143); part 000
+bn/cbs/01/cbs_0143   0    0     因为     P  (TOP(IP(IP(NP(CP(CP(IP(VP(PP*   -    -   -   -          *   (ARGM-PRP*         *        (ARG0*      *    (ARG0*             *             *            *    (0
+bn/cbs/01/cbs_0143   0    1     中东    NR                        (NP(NP*)  -    -   -   -       (LOC)           *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    2     和平    NN                           (NP*   -    -   1   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    3     问题    NN                            *)))  -    -   -   -          *            *)        *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    4     饱受    VV                           (VP*   -   01   -   -          *          (V*)        *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    5     攻击    NN                        (NP*))))  -    -   -   -          *       (ARG1*)        *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    6      的   DEC                             *))  -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    7    以色列    NR                        (NP(NP*)  -    -   -   -       (GPE)           *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    8     总理    NN                          (NP*))  -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0    9    巴拉克    NR                          (NP*))  -    -   -   -    (PERSON)      (ARG0*)        *             *)     *         *)            *             *            *     0)
+bn/cbs/01/cbs_0143   0   10    １０号    NT                     (VP(VP(NP*)  -    -   -   -      (DATE)           *         *    (ARGM-TMP*)     *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   11      在     P                           (PP*   -    -   2   -          *            *         *    (ARGM-LOC*      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   12      无    VE              (LCP(NP(CP(IP(VP*   -   01   1   -          *            *       (V*)            *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   13     预警    NN                         (NP*)))  -    -   -   -          *            *    (ARG1*)            *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   14      的   DEC                              *)  -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   15     情况    NN                          (NP*))  -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   16     之下    LC                             *))  -    -   -   -          *            *         *             *)     *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   17     宣布    VV                           (VP*   -   01   -   -          *            *         *           (V*)     *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   18     辞职    VV                     (IP(VP*))))  -   01   -   -          *            *         *        (ARG1*)   (V*)        *             *             *            *     -
+bn/cbs/01/cbs_0143   0   19      ，    PU                              *   -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   20      让    VV                           (VP*   -   02   2   -          *            *         *             *      *       (V*)            *             *            *     -
+bn/cbs/01/cbs_0143   0   21    国内外    NN                           (NP*)  -    -   -   -          *            *         *             *      *    (ARG1*)            *             *            *     -
+bn/cbs/01/cbs_0143   0   22      同    AD                   (IP(VP(ADVP*)  -    -   -   -          *            *         *             *      *    (ARG2*    (ARGM-ADV*)            *            *     -
+bn/cbs/01/cbs_0143   0   23      感    VV                           (VP*   -   01   -   -          *            *         *             *      *         *           (V*)            *            *     -
+bn/cbs/01/cbs_0143   0   24     意外    NN                     (NP*)))))))  -    -   -   -          *            *         *             *      *         *)       (ARG1*)            *            *     -
+bn/cbs/01/cbs_0143   0   25      ，    PU                              *   -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   26    巴拉克    NR                        (IP(NP*)  -    -   -   -    (PERSON)           *         *             *      *         *             *        (ARG0*)           *    (0)
+bn/cbs/01/cbs_0143   0   27      仍    AD                      (VP(ADVP*)  -    -   -   -          *            *         *             *      *         *             *    (ARGM-ADV*)           *     -
+bn/cbs/01/cbs_0143   0   28      将    AD                         (ADVP*)  -    -   -   -          *            *         *             *      *         *             *    (ARGM-ADV*)           *     -
+bn/cbs/01/cbs_0143   0   29     参加    VV                           (VP*   -   01   -   -          *            *         *             *      *         *             *           (V*)           *     -
+bn/cbs/01/cbs_0143   0   30      在     P            (NP(CP(CP(IP(VP(PP*   -    -   2   -          *            *         *             *      *         *             *        (ARG1*   (ARGM-TMP*     -
+bn/cbs/01/cbs_0143   0   31     ６０    CD                           (QP*   -    -   -   -     (DATE*            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   32      天     M                        (CLP*)))  -    -   -   -          *)           *         *             *      *         *             *             *            *)    -
+bn/cbs/01/cbs_0143   0   33     举行    VV                         (VP*)))  -   01   -   -          *            *         *             *      *         *             *             *          (V*)    -
+bn/cbs/01/cbs_0143   0   34      的   DEC                             *))  -    -   -   -          *            *         *             *      *         *             *             *            *     -
+bn/cbs/01/cbs_0143   0   35     总理    NN                           (NP*   -    -   -   -          *            *         *             *      *         *             *             *       (ARG1*     -
+bn/cbs/01/cbs_0143   0   36     改选    NN                          *)))))  -    -   -   -          *            *         *             *      *         *             *             *)           *)    -
+bn/cbs/01/cbs_0143   0   37      。    PU                             *))  -    -   -   -          *            *         *             *      *         *             *             *            *     -
+
+bn/cbs/01/cbs_0143   0    0       他    PN     (TOP(IP(NP*)  -    -   -   -        *    (ARG0*)            *            *    (0)
+bn/cbs/01/cbs_0143   0    1      表示    VV            (VP*   -   01   2   -        *       (V*)            *            *     -
+bn/cbs/01/cbs_0143   0    2       将    AD    (IP(VP(ADVP*)  -    -   -   -        *    (ARG1*    (ARGM-ADV*)           *     -
+bn/cbs/01/cbs_0143   0    3      借由     P            (PP*   -    -   -   -        *         *    (ARGM-MNR*            *     -
+bn/cbs/01/cbs_0143   0    4       这    DT     (NP(DNP(DP*   -    -   -   -        *         *             *            *     -
+bn/cbs/01/cbs_0143   0    5       次     M          (CLP*))  -    -   -   -        *         *             *            *     -
+bn/cbs/01/cbs_0143   0    6       的   DEG               *)  -    -   -   -        *         *             *            *     -
+bn/cbs/01/cbs_0143   0    7      辞职    NN          (NP*)))  -    -   -   -        *         *             *)           *     -
+bn/cbs/01/cbs_0143   0    8       让    VV            (VP*   -   02   2   -        *         *           (V*)           *     -
+bn/cbs/01/cbs_0143   0    9    以色列人    NN            (NP*)  -    -   -   -    (NORP)        *        (ARG1*)           *     -
+bn/cbs/01/cbs_0143   0   10      能够    VV         (IP(VP*   -    -   -   -        *         *        (ARG2*            *     -
+bn/cbs/01/cbs_0143   0   11       就     P         (VP(PP*   -    -   1   -        *         *             *   (ARGM-TPC*     -
+bn/cbs/01/cbs_0143   0   12      和平    NN            (NP*   -    -   1   -        *         *             *            *     -
+bn/cbs/01/cbs_0143   0   13      议题    NN              *))  -    -   -   -        *         *             *            *)    -
+bn/cbs/01/cbs_0143   0   14      举行    VV            (VP*   -   01   -   -        *         *             *          (V*)    -
+bn/cbs/01/cbs_0143   0   15      公民    NN   (NP(CP(IP(NP*)  -    -   -   -        *         *             *       (ARG1*     -
+bn/cbs/01/cbs_0143   0   16      复职    VV           (VP*))  -    -   -   -        *         *             *            *     -
+bn/cbs/01/cbs_0143   0   17       的   DEC               *)  -    -   -   -        *         *             *            *     -
+bn/cbs/01/cbs_0143   0   18      机会    NN   (NP*))))))))))  -    -   -   -        *         *)            *)           *)    -
+bn/cbs/01/cbs_0143   0   19       。    PU              *))  -    -   -   -        *         *             *            *     -
+
+bn/cbs/01/cbs_0143   0    0       最近    NT   (TOP(IP(IP(NP(DNP(NP(NP*)  -    -   -   -            *        (ARG0*        *         *     -
+bn/cbs/01/cbs_0143   0    1       １０    CD                       (QP*   -    -   -   -       (DATE*             *        *         *     -
+bn/cbs/01/cbs_0143   0    2        个     M                     (CLP*))  -    -   -   -            *             *        *         *     -
+bn/cbs/01/cbs_0143   0    3       星期    NN                      (NP*))  -    -   -   -            *)            *        *         *     -
+bn/cbs/01/cbs_0143   0    4        的   DEG                          *)  -    -   -   -            *             *        *         *     -
+bn/cbs/01/cbs_0143   0    5        以    NR                       (NP*   -    -   -   -         (GPE)            *        *         *     -
+bn/cbs/01/cbs_0143   0    6        巴    NR                          *)  -    -   -   -         (GPE)            *        *         *     -
+bn/cbs/01/cbs_0143   0    7       严重    JJ                     (ADJP*)  -    -   1   -            *             *        *         *     -
+bn/cbs/01/cbs_0143   0    8       冲突    NN                      (NP*))  -    -   -   -            *             *)       *         *     -
+bn/cbs/01/cbs_0143   0    9       已经    AD                  (VP(ADVP*)  -    -   -   -            *    (ARGM-ADV*)       *         *     -
+bn/cbs/01/cbs_0143   0   10       造成    VV                       (VP*   -   01   -   -            *           (V*)       *         *     -
+bn/cbs/01/cbs_0143   0   11        了    AS                          *   -    -   -   -            *             *        *         *     -
+bn/cbs/01/cbs_0143   0   12     ３００多    CD                 (IP(NP(QP*)  -    -   -   -    (CARDINAL)       (ARG1*   (ARG0*         *    (1
+bn/cbs/01/cbs_0143   0   13        人    NN                      (NP*))  -    -   -   -            *             *        *)        *     1)
+bn/cbs/01/cbs_0143   0   14       丧生    VV                   (VP*)))))  -   01   -   -            *             *)     (V*)        *     -
+bn/cbs/01/cbs_0143   0   15        ，    PU                          *   -    -   -   -            *             *        *         *     -
+bn/cbs/01/cbs_0143   0   16       其中    NN                 (IP(QP(NP*)  -    -   -   -            *             *        *    (ARG0*    (1)
+bn/cbs/01/cbs_0143   0   17      大部分    CD                      (QP*))  -    -   -   -            *             *        *         *)    -
+bn/cbs/01/cbs_0143   0   18        是    VC                       (VP*   -   01   1   -            *             *        *       (V*)    -
+bn/cbs/01/cbs_0143   0   19    巴勒斯坦人    NN                     (NP*)))  -    -   -   -        (NORP)            *        *    (ARG1*)    -
+bn/cbs/01/cbs_0143   0   20        。    PU                         *))  -    -   -   -            *             *        *         *     -
+
+#end document

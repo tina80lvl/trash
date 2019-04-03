@@ -1,0 +1,243 @@
+#begin document (bn/cts/00/cts_0078); part 000
+bn/cts/00/cts_0078   0    0    台北市    NR    (TOP(IP(IP(NP*)   -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0    1     昨天    NT           (VP(NP*    -   -   1   -   *        *             *            *         *      (4
+bn/cts/00/cts_0078   0    2     深夜    NT                 *)   -   -   -   -   *        *             *            *         *       4)
+bn/cts/00/cts_0078   0    3     发生    VV              (VP*    -   -   1   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0    4      了    AS                 *    -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0    5      一    CD           (NP(QP*    -   -   -   -   *        *             *            *         *      (8
+bn/cts/00/cts_0078   0    6      起     M            (CLP*))   -   -   5   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0    7    凶杀案    NN          (NP*)))))   -   -   -   -   *        *             *            *         *       8)
+bn/cts/00/cts_0078   0    8      ，    PU                 *    -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0    9      有    VE  (IP(NP(CP(IP(VP*     有  -   4   -   *      (V*)            *       (ARG0*         *       -
+bn/cts/00/cts_0078   0   10      一    CD           (NP(QP*    -   -   -   -   *   (ARG1*             *            *         *   (2|(5
+bn/cts/00/cts_0078   0   11      名     M            (CLP*))   -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0   12     女子    NN           (NP*))))   -   -   -   -   *        *)            *            *         *       5)
+bn/cts/00/cts_0078   0   13      的   DEC                 *)   -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0   14     胸口    NN             (NP*))   -   -   -   -   *        *             *            *)        *       2)
+bn/cts/00/cts_0078   0   15      被    SB           (VP(VP*    -   -   -   -   *        *    (ARGM-ADV*)           *         *       -
+bn/cts/00/cts_0078   0   16      刺    VV              (VP*     刺  -   -   -   *        *           (V*)           *         *       -
+bn/cts/00/cts_0078   0   17      了    AS                 *    -   -   -   -   *        *        (ARG1*)           *         *       -
+bn/cts/00/cts_0078   0   18      两    CD              (QP*    -   -   -   -   *        *        (ARG1*            *         *       -
+bn/cts/00/cts_0078   0   19      刀     M          (CLP*))))   -   -   -   -   *        *             *)           *         *       -
+bn/cts/00/cts_0078   0   20      ，    PU                 *    -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0   21      死    VV              (VP*     死  -   1   -   *        *             *          (V*)        *       -
+bn/cts/00/cts_0078   0   22      在     P              (PP*    -   -   2   -   *        *             *   (ARGM-LOC*         *       -
+bn/cts/00/cts_0078   0   23     同居    VV     (NP(CP(IP(VP*    同居  -   -   -   *        *             *            *       (V*)  (0|(3
+bn/cts/00/cts_0078   0   24     男友    NN            (NP*)))   -   -   -   -   *        *             *            *    (ARG1*)      0)
+bn/cts/00/cts_0078   0   25      的   DEC                 *)   -   -   -   -   *        *             *            *         *       -
+bn/cts/00/cts_0078   0   26     家里    NN         (NP*))))))   -   -   -   -   *        *             *            *)        *       3)
+bn/cts/00/cts_0078   0   27      。    PU                *))   -   -   -   -   *        *             *            *         *       -
+
+bn/cts/00/cts_0078   0    0    男友   NN   (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)   (ARG0*)        *             *    (0)
+bn/cts/00/cts_0078   0    1     说   VV          (VP*     说  -   7   -   *       (V*)        *         *             *     -
+bn/cts/00/cts_0078   0    2    死者   NN       (IP(NP*)   -   -   -   -   *    (ARG1*    (ARG0*)        *             *    (5)
+bn/cts/00/cts_0078   0    3     是   VC          (VP*     是  -   2   -   *         *       (V*)        *             *     -
+bn/cts/00/cts_0078   0    4    因为    P          (PP*    -   -   -   -   *         *    (ARG1*         *             *     -
+bn/cts/00/cts_0078   0    5    吵架   VV    (IP(IP(VP*    吵架  -   -   -   *         *         *       (V*)       (ARG0*     -
+bn/cts/00/cts_0078   0    6    气愤   NN        (NP*)))   -   -   -   -   *         *         *    (ARG1*)            *)    -
+bn/cts/00/cts_0078   0    7     才   AD     (VP(ADVP*)   -   -   -   -   *         *         *         *    (ARGM-ADV*)    -
+bn/cts/00/cts_0078   0    8     拿    P          (PP*    -   -   1   -   *         *         *         *    (ARGM-MNR*     -
+bn/cts/00/cts_0078   0    9     刀   NN         (NP*))   -   -   -   -   *         *         *         *             *)   (1)
+bn/cts/00/cts_0078   0   10    自杀   VV    (VP*)))))))   自杀  -   -   -   *         *)        *)        *           (V*)    -
+bn/cts/00/cts_0078   0   11     。   PU            *))   -   -   -   -   *         *         *         *             *     -
+
+bn/cts/00/cts_0078   0    0    不过    AD     (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)        *     -
+bn/cts/00/cts_0078   0    1     从     P              (PP*    -   -   -   -   *    (ARGM-ADV*         *     -
+bn/cts/00/cts_0078   0    2    现场    NN   (LCP(NP(DNP(NP*)   -   -   -   -   *             *         *    (3)
+bn/cts/00/cts_0078   0    3     的   DEG                 *)   -   -   -   -   *             *         *     -
+bn/cts/00/cts_0078   0    4    迹象    NN             (NP*))   -   -   -   -   *             *         *     -
+bn/cts/00/cts_0078   0    5    来看    LC                *))   -   -   -   -   *             *)        *     -
+bn/cts/00/cts_0078   0    6     ，    PU                 *    -   -   -   -   *             *         *     -
+bn/cts/00/cts_0078   0    7    警方    NN              (NP*)   -   -   -   -   *        (ARG0*)   (ARG0*)   (7)
+bn/cts/00/cts_0078   0    8    认为    VV              (VP*    认为  -   1   -   *           (V*)        *     -
+bn/cts/00/cts_0078   0    9     全    DT     (IP(NP(NP(DP*)   -   -   2   -   *        (ARG1*    (ARG0*    (8
+bn/cts/00/cts_0078   0   10     案    NN             (NP*))   -   -   -   -   *             *         *     8)
+bn/cts/00/cts_0078   0   11    疑点    NN             (NP*))   -   -   -   -   *             *         *)    -
+bn/cts/00/cts_0078   0   12    重重    VA            (VP*)))   重重  -   -   -   *             *)      (V*)    -
+bn/cts/00/cts_0078   0   13     。    PU                *))   -   -   -   -   *             *         *     -
+
+bn/cts/00/cts_0078   0    0      命案    NN      (TOP(IP(NP*   -   -   -   -   *        (ARG0*    (8)
+bn/cts/00/cts_0078   0    1      发生    NN                *   -   -   1   -   *             *     -
+bn/cts/00/cts_0078   0    2      地点    NN                *)  -   -   -   -   *             *)    -
+bn/cts/00/cts_0078   0    3       就    AD        (VP(ADVP*)  -   -   8   -   *    (ARGM-ADV*)    -
+bn/cts/00/cts_0078   0    4       在    VV             (VP*    在  -   2   -   *           (V*)    -
+bn/cts/00/cts_0078   0    5    东山北路    NR   (NP(DNP(NP(NP*)  -   -   -   -   *        (ARG1*    (3
+bn/cts/00/cts_0078   0    6       二    CD             (QP*   -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0    7       段     M           (CLP*))  -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0    8       一    CD             (QP*   -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0    9       栋     M           (CLP*))  -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0   10      公寓    NN            (NP*))  -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0   11       的   DEG                *)  -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0   12       ４    CD             (QP*)  -   -   -   -   *             *     -
+bn/cts/00/cts_0078   0   13       楼    NN          (NP*))))  -   -   -   -   *             *)    3)
+bn/cts/00/cts_0078   0   14       。    PU               *))  -   -   -   -   *             *     -
+
+bn/cts/00/cts_0078   0    0      住    VV  (TOP(IP(IP(NP(NP(CP(IP(VP*     住  -   1   -   *      (V*)            *      *             *      *             *    (5
+bn/cts/00/cts_0078   0    1      在     P                        (PP*    -   -   2   -   *   (ARG1*             *      *             *      *             *     -
+bn/cts/00/cts_0078   0    2     这里    PN                     (NP*))))   -   -   -   -   *        *)            *      *             *      *             *    (3)
+bn/cts/00/cts_0078   0    3      的   DEC                           *)   -   -   -   -   *        *             *      *             *      *             *     -
+bn/cts/00/cts_0078   0    4     ３５    CD                        (QP*    -   -   -   -   *        *             *      *             *      *             *     -
+bn/cts/00/cts_0078   0    5      岁     M                      (CLP*))   -   -   -   -   *        *             *      *             *      *             *     -
+bn/cts/00/cts_0078   0    6     女子    NN                       (NP*))   -   -   -   -   *        *             *      *             *      *             *     -
+bn/cts/00/cts_0078   0    7    徐明珠    NR                       (NP*))   -   -   -   -   *        *             *      *             *      *             *     5)
+bn/cts/00/cts_0078   0    8     凌晨    NT                     (VP(NP*)   -   -   -   -   *   (ARG1*    (ARGM-TMP*)     *    (ARGM-TMP*)     *             *     -
+bn/cts/00/cts_0078   0    9     因为     P                        (PP*    -   -   -   -   *        *    (ARGM-PRP*      *    (ARGM-PRP*      *             *     -
+bn/cts/00/cts_0078   0   10     胸口    NN                       (NP*))   -   -   -   -   *        *             *)     *             *)     *             *    (2)
+bn/cts/00/cts_0078   0   11      被    SB                        (VP*    -   -   -   -   *        *             *      *    (ARGM-ADV*)     *             *     -
+bn/cts/00/cts_0078   0   12      刺    VV                     (VP(VP*     刺  -   -   -   *        *           (V*)     *             *      *             *     -
+bn/cts/00/cts_0078   0   13      两    CD                     (NP(QP*)   -   -   -   -   *        *        (ARG1*      *             *      *             *     -
+bn/cts/00/cts_0078   0   14      刀    NN                      (NP*)))   -   -   -   -   *        *             *)     *             *      *             *     -
+bn/cts/00/cts_0078   0   15      ，    PU                           *    -   -   -   -   *        *             *      *             *      *             *     -
+bn/cts/00/cts_0078   0   16     送医    VV                    (VP(VSB*    送医  -   -   -   *        *             *    (V*)       (ARG0*)     *             *     -
+bn/cts/00/cts_0078   0   17     急救    VV                      *))))))   急救  -   -   -   *        *)            *      *           (V*)     *             *     -
+bn/cts/00/cts_0078   0   18      ，    PU                           *    -   -   -   -   *        *             *      *             *      *             *     -
+bn/cts/00/cts_0078   0   19     不过    AD                   (IP(ADVP*)   -   -   -   -   *        *             *      *             *      *    (ARGM-DIS*)    -
+bn/cts/00/cts_0078   0   20     最后    AD                   (VP(ADVP*)   -   -   -   -   *        *             *      *             *      *    (ARGM-ADV*)    -
+bn/cts/00/cts_0078   0   21     还是    AD                      (ADVP*)   -   -   -   -   *        *             *      *             *      *    (ARGM-ADV*)    -
+bn/cts/00/cts_0078   0   22     伤重    VV                    (VP(VSB*    伤重  -   -   -   *        *             *      *             *    (V*)            *     -
+bn/cts/00/cts_0078   0   23     死亡    VV                        *))))   死亡  -   -   -   *        *             *      *             *      *           (V*)    -
+bn/cts/00/cts_0078   0   24      。    PU                          *))   -   -   -   -   *        *             *      *             *      *             *     -
+
+bn/cts/00/cts_0078   0   0    检察官   NN   (TOP(IP(NP*)   -   -   -   -   *        (ARG0*)   (ARG0*)       *    (9)
+bn/cts/00/cts_0078   0   1     上午   NT       (VP(NP*)   -   -   1   -   *    (ARGM-TMP*)        *        *     -
+bn/cts/00/cts_0078   0   2     率领   VV          (VP*    率领  -   -   -   *           (V*)        *        *     -
+bn/cts/00/cts_0078   0   3    见证员   NN          (NP*)   -   -   -   -   *        (ARG1*)        *        *     -
+bn/cts/00/cts_0078   0   4     到达   VV    (IP(VP(VP*    到达  -   -   -   *        (ARG2*       (V*)       *     -
+bn/cts/00/cts_0078   0   5     现场   NN         (NP*))   -   -   -   -   *             *    (ARG1*)       *    (3)
+bn/cts/00/cts_0078   0   6     进行   VV          (VP*    进行  -   3   -   *             *         *      (V*)    -
+bn/cts/00/cts_0078   0   7     详细   JJ     (NP(ADJP*)   -   -   -   -   *             *         *   (ARG1*     -
+bn/cts/00/cts_0078   0   8     采证   NN    (NP*)))))))   -   -   -   -   *             *)        *        *)    -
+bn/cts/00/cts_0078   0   9      。   PU            *))   -   -   -   -   *             *         *        *     -
+
+bn/cts/00/cts_0078   0    0    报案人    NN   (TOP(IP(IP(NP*)   -   -    -   -   *    (ARG0*)        *         *             *        *    (0)
+bn/cts/00/cts_0078   0    1      是    VC             (VP*     是  -    1   -   *       (V*)        *         *             *        *     -
+bn/cts/00/cts_0078   0    2     死者    NN          (NP(NP*)   -   -    -   -   *    (ARG1*    (ARG1*)        *             *        *    (5)
+bn/cts/00/cts_0078   0    3      林    NR       (CP(IP(NP*    -   -    -   -   *         *    (ARG0*         *             *        *     -
+bn/cts/00/cts_0078   0    4      姓    NN                *)   -   -    -   -   *         *         *)        *             *        *     -
+bn/cts/00/cts_0078   0    5     同居    VV           (VP*)))   同居  -    -   -   *         *       (V*)        *             *        *     -
+bn/cts/00/cts_0078   0    6     男友    NN          (NP*))))   -   -    -   -   *         *)        *         *             *        *     -
+bn/cts/00/cts_0078   0    7      ，    PU                *    -   -    -   -   *         *         *         *             *        *     -
+bn/cts/00/cts_0078   0    8      两    CD       (IP(NP(QP*    -   -    -   -   *         *         *    (ARG0*             *        *    (6
+bn/cts/00/cts_0078   0    9      个     M           (CLP*))   -   -    -   -   *         *         *         *             *        *     -
+bn/cts/00/cts_0078   0   10      人    NN            (NP*))   -   -    1   -   *         *         *         *)            *        *     6)
+bn/cts/00/cts_0078   0   11      是    VC             (VP*     是  -    1   -   *         *         *       (V*)            *        *     -
+bn/cts/00/cts_0078   0   12     同事    NN           (NP*)))   -   -    -   -   *         *         *    (ARG1*)            *        *     -
+bn/cts/00/cts_0078   0   13      ，    PU                *    -   -    -   -   *         *         *         *             *        *     -
+bn/cts/00/cts_0078   0   14     平时    AD     (IP(VP(ADVP*)   -   -    -   -   *         *         *         *    (ARGM-ADV*)       *     -
+bn/cts/00/cts_0078   0   15      做    VV             (VP*     做  -   11   -   *         *         *         *           (V*)       *     -
+bn/cts/00/cts_0078   0   16     铺设    VV    (NP(CP(IP(VP*    铺设  -    -   -   *         *         *         *        (ARG1*      (V*)    -
+bn/cts/00/cts_0078   0   17     柏油    NN             (NP*    -   -    -   -   *         *         *         *             *   (ARG1*     -
+bn/cts/00/cts_0078   0   18     沥青    NN              *)))   -   -    -   -   *         *         *         *             *        *)    -
+bn/cts/00/cts_0078   0   19      的   DEC                *)   -   -    -   -   *         *         *         *             *        *     -
+bn/cts/00/cts_0078   0   20     工作    NN         (NP*)))))   -   -    -   -   *         *         *         *             *)       *     -
+bn/cts/00/cts_0078   0   21      。    PU               *))   -   -    -   -   *         *         *         *             *        *     -
+
+bn/cts/00/cts_0078   0    0       林    NR  (TOP(IP(NP(NP*      -   -   -   -   *   (ARG0*             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *       (0
+bn/cts/00/cts_0078   0    1       姓    NN               *)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0    2      男子    NN           (NP*))     -   -   -   -   *        *)            *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        0)
+bn/cts/00/cts_0078   0    3       说    VV            (VP*       说  -   7   -   *      (V*)            *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0    4       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0    5      昨天    NT      (IP(IP(NP*      -   -   1   -   *   (ARG1*    (ARGM-TMP*   (ARGM-TMP*         *             *         *             *             *             *         *      *        *             *             *             *             *       (4
+bn/cts/00/cts_0078   0    6      深夜    NT               *)     -   -   -   -   *        *             *)           *)        *             *         *             *             *             *         *      *        *             *             *             *             *        4)
+bn/cts/00/cts_0078   0    7     徐明珠    NN            (NP*)     -   -   -   -   *        *        (ARG0*)      (ARG0*)        *             *         *             *             *             *         *      *        *             *             *             *             *       (5)
+bn/cts/00/cts_0078   0    8      突然    AD    (VP(VP(ADVP*)     -   -   -   -   *        *    (ARGM-ADV*)           *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0    9       打    VV            (VP*       打  -   2   -   *        *           (V*)           *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   10      电话    NN            (NP*)     -   -   2   -   *        *        (ARG1*)           *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   11       给     P            (PP*      -   -   -   -   *        *    (ARGM-ADV*            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   12       他    PN         (NP*))))     -   -   -   -   *        *             *)           *         *             *         *             *             *             *         *      *        *             *             *             *             *       (0)
+bn/cts/00/cts_0078   0   13       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   14       说    VV            (VP*       说  -   7   -   *        *             *          (V*)        *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   15       她    PN         (IP(NP*)     -   -   -   -   *        *             *       (ARG1*    (ARG0*)            *         *             *             *             *         *      *        *             *             *             *             *       (5)
+bn/cts/00/cts_0078   0   16    另结新欢    VV        (VP*)))))   另结新欢  -   -   -   *        *             *            *)      (V*)            *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   17       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   18       两    CD      (IP(NP(QP*      -   -   -   -   *        *             *            *         *        (ARG0*         *             *             *             *         *      *        *             *             *             *             *       (6
+bn/cts/00/cts_0078   0   19       个     M          (CLP*))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   20       人    NN           (NP*))     -   -   1   -   *        *             *            *         *             *)        *             *             *             *         *      *        *             *             *             *             *        6)
+bn/cts/00/cts_0078   0   21       还    AD       (VP(ADVP*)     -   -   -   -   *        *             *            *         *    (ARGM-ADV*)        *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   22       吵    VV            (VP*       吵  -   1   -   *        *             *            *         *           (V*)        *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   23       了    AS               *      -   -   -   -   *        *             *            *         *        (ARG1*)        *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   24       一    CD            (QP*      -   -   -   -   *        *             *            *         *    (ARGM-EXT*         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   25       架     M       (CLP*)))))     -   -   2   -   *        *             *            *         *             *)        *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   26       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   27       他    PN         (IP(NP*)     -   -   -   -   *        *             *            *         *             *    (ARG0*)            *        (ARG0*)       (ARG0*)        *      *        *             *             *             *             *       (0)
+bn/cts/00/cts_0078   0   28      赶回    VV      (VP(VP(VP*      赶回  -   -   -   *        *             *            *         *             *       (V*)            *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   29      家里    NN           (NP*))     -   -   -   -   *        *             *            *         *             *    (ARG1*)            *             *             *         *      *        *             *             *             *             *       (3)
+bn/cts/00/cts_0078   0   30     徐明珠    AD       (VP(ADVP*)     -   -   -   -   *        *             *            *         *             *         *    (ARGM-ADV*)   (ARGM-ADV*)            *         *      *        *             *             *             *             *       (5)
+bn/cts/00/cts_0078   0   31       不    AD          (ADVP*)     -   -   -   -   *        *             *            *         *             *         *    (ARGM-ADV*)   (ARGM-ADV*)            *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   32       肯    VV            (VP*       肯  -   -   -   *        *             *            *         *             *         *           (V*)   (ARGM-ADV*)            *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   33      开门    VV         (VP*))))     开门  -   -   -   *        *             *            *         *             *         *             *           (V*)            *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   34       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   35       就    AD       (VP(ADVP*)     -   -   2   -   *        *             *            *         *             *         *             *             *    (ARGM-ADV*)        *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   36       说    VV            (VP*       说  -   7   -   *        *             *            *         *             *         *             *             *           (V*)        *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   37       要    VV      (IP(VP(VP*       要  -   1   -   *        *             *            *         *             *         *             *             *        (ARG1*       (V*)     *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   38       死    VV           (VP*))      死  -   1   -   *        *             *            *         *             *         *             *             *             *    (ARG1*)   (V*)       *             *             *             *             *        -
+bn/cts/00/cts_0078   0   39       给     P         (VP(PP*      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *   (ARG0*             *             *             *             *        -
+bn/cts/00/cts_0078   0   40       他    PN           (NP*))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *)            *             *             *             *       (0)
+bn/cts/00/cts_0078   0   41       看    VV     (VP*))))))))      看  -   2   -   *        *             *            *         *             *         *             *             *             *)        *      *      (V*)            *             *             *             *        -
+bn/cts/00/cts_0078   0   42       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   43      后来    AD       (IP(ADVP*)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *    (ARGM-TMP*)   (ARGM-TMP*)            *             *        -
+bn/cts/00/cts_0078   0   44       就    AD       (VP(ADVP*)     -   -   2   -   *        *             *            *         *             *         *             *             *             *         *      *        *    (ARGM-ADV*)   (ARGM-ADV*)            *             *        -
+bn/cts/00/cts_0078   0   45      真的    AD          (ADVP*)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *    (ARGM-ADV*)   (ARGM-ADV*)            *             *        -
+bn/cts/00/cts_0078   0   46       拿    VV         (VP(VP*       拿  -   1   -   *        *             *            *         *             *         *             *             *             *         *      *        *           (V*)            *             *             *        -
+bn/cts/00/cts_0078   0   47       刀    NN           (NP*))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *        (ARG1*)            *             *             *       (1)
+bn/cts/00/cts_0078   0   48       往     P         (VP(PP*      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *    (ARGM-DIR*             *             *        -
+bn/cts/00/cts_0078   0   49      自己    PN     (NP(DNP(NP*)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *    (2|(5)
+bn/cts/00/cts_0078   0   50       的   DEG               *)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   51      胸口    NN          (NP*)))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *)            *             *        2)
+bn/cts/00/cts_0078   0   52       刺    VV        (VP*)))))      刺  -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *           (V*)            *             *        -
+bn/cts/00/cts_0078   0   53       ，    PU               *      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   54       林    NR      (IP(NP(NP*      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *        (ARG0*        (ARG0*       (0
+bn/cts/00/cts_0078   0   55       姓    NN               *)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   56      男子    NN           (NP*))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *)            *)       0)
+bn/cts/00/cts_0078   0   57      赶快    AD       (VP(ADVP*)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *    (ARGM-ADV*)   (ARGM-ADV*)       -
+bn/cts/00/cts_0078   0   58      叫来    VV         (VP(VP*      叫来  -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *           (V*)            *        -
+bn/cts/00/cts_0078   0   59     救护车    NN           (NP*))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *        (ARG1*)            *        -
+bn/cts/00/cts_0078   0   60       将    BA            (VP*      -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+bn/cts/00/cts_0078   0   61       她    PN         (IP(NP*)     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *        (ARG1*)      (5)
+bn/cts/00/cts_0078   0   62      送医    VV     (VP*))))))))     送医  -   -   -   *        *)            *            *         *             *         *             *             *             *         *      *        *             *             *             *           (V*)       -
+bn/cts/00/cts_0078   0   63       。    PU              *))     -   -   -   -   *        *             *            *         *             *         *             *             *             *         *      *        *             *             *             *             *        -
+
+bn/cts/00/cts_0078   0    0     不过    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)            *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0    1     警方    NN               (NP*)   -   -   -   -   *        (ARG0*)            *             *             *      *             *         *             *             *    (7)
+bn/cts/00/cts_0078   0    2     发现    VV               (VP*    发现  -   1   -   *           (V*)            *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0    3     死者    NN            (IP(NP*    -   -   -   -   *        (ARG1*        (ARG0*             *             *      *             *         *             *             *    (2
+bn/cts/00/cts_0078   0    4     胸口    NN                  *)   -   -   -   -   *             *             *)            *             *      *             *         *             *             *     2)
+bn/cts/00/cts_0078   0    5      两    CD            (NP(QP*)   -   -   -   -   *             *        (ARG0*             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0    6      刀    NN              (NP*))   -   -   -   -   *             *             *)            *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0    7     相当    AD          (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)            *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0    8      深    VA           (VP*)))))    深  -   1   -   *             *)          (V*)            *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0    9      ，    PU                  *    -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   10      连    AD          (IP(ADVP*)   -   -   1   -   *             *             *    (ARGM-ADV*)            *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   11     肋骨    NN               (NP*)   -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   12      都    AD          (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-ADV*)            *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   13      被    SB               (VP*    -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   14     切断    VV            (VP*))))   切断  -   -   -   *             *             *           (V*)            *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   15      ，    PU                  *    -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   16      在     P         (IP(VP(PP*    -   -   2   -   *             *             *             *    (ARGM-LOC*      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   17     现场    NN              (NP*))   -   -   -   -   *             *             *             *             *)     *             *         *             *             *    (3)
+bn/cts/00/cts_0078   0   18      还    AD             (ADVP*)   -   -   -   -   *             *             *             *    (ARGM-ADV*)     *             *         *             *             *     -
+bn/cts/00/cts_0078   0   19      有    VE               (VP*     有  -   3   -   *             *             *             *           (V*)     *             *         *             *             *     -
+bn/cts/00/cts_0078   0   20     打斗    VV     (NP(CP(IP(VP*))   打斗  -   -   -   *             *             *             *        (ARG1*    (V*)            *         *             *             *     -
+bn/cts/00/cts_0078   0   21      的   DEC                  *)   -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   22     迹象    NN           (NP*)))))   -   -   -   -   *             *             *             *             *)     *             *         *             *             *     -
+bn/cts/00/cts_0078   0   23      ，    PU                  *    -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   24     因此    AD          (IP(ADVP*)   -   -   -   -   *             *             *             *             *      *    (ARGM-DIS*)        *             *             *     -
+bn/cts/00/cts_0078   0   25      对     P            (NP(PP*    -   -   3   -   *             *             *             *             *      *        (ARG0*         *             *             *     -
+bn/cts/00/cts_0078   0   26      这    DT            (NP(DP*    -   -   -   -   *             *             *             *             *      *             *         *             *             *    (0
+bn/cts/00/cts_0078   0   27      名     M             (CLP*))   -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   28     男子    NN             (NP*)))   -   -   -   -   *             *             *             *             *      *             *         *             *             *     0)
+bn/cts/00/cts_0078   0   29     说法    NN              (NP*))   -   -   -   -   *             *             *             *             *      *             *)        *             *             *     -
+bn/cts/00/cts_0078   0   30     非常    AD          (VP(ADVP*)   -   -   -   -   *             *             *             *             *      *    (ARGM-ADV*)        *             *             *     -
+bn/cts/00/cts_0078   0   31     怀疑    VV             (VP*)))   怀疑  -   -   -   *             *             *             *             *      *           (V*)        *             *             *     -
+bn/cts/00/cts_0078   0   32      ，    PU                  *    -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   33    检察官    NN            (IP(NP*)   -   -   -   -   *             *             *             *             *      *             *    (ARG0*)       (ARG0*)       (ARG0*)   (9)
+bn/cts/00/cts_0078   0   34      会    VV               (VP*     会  -   1   -   *             *             *             *             *      *             *       (V*)            *             *     -
+bn/cts/00/cts_0078   0   35    进一步    AD          (VP(ADVP*)   -   -   -   -   *             *             *             *             *      *             *    (ARG1*    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/00/cts_0078   0   36     侦破    VV            (VP(VP*)   侦破  -   -   -   *             *             *             *             *      *             *         *           (V*)            *     -
+bn/cts/00/cts_0078   0   37      、    PU                  *    -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+bn/cts/00/cts_0078   0   38     调查    VV               (VP*    调查  -   1   -   *             *             *             *             *      *             *         *             *           (V*)    -
+bn/cts/00/cts_0078   0   39     命案    NN               (NP*    -   -   -   -   *             *             *             *             *      *             *         *             *        (ARG1*     -
+bn/cts/00/cts_0078   0   40     真象    NN             *))))))   -   -   -   -   *             *             *             *             *      *             *         *)            *             *)    -
+bn/cts/00/cts_0078   0   41      。    PU                 *))   -   -   -   -   *             *             *             *             *      *             *         *             *             *     -
+
+#end document

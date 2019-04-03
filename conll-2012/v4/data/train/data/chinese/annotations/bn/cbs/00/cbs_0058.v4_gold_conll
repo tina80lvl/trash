@@ -1,0 +1,210 @@
+#begin document (bn/cbs/00/cbs_0058); part 000
+bn/cbs/00/cbs_0058   0    0    行政院长   NN   (TOP(IP(NP(NP*)  -    -   -   -       (ORG)       (ARG0*        (ARG0*         *         *        *        *    (6
+bn/cbs/00/cbs_0058   0    1     张俊雄   NR            (NP*))  -    -   -   -    (PERSON)            *)            *)        *         *        *        *     6)
+bn/cbs/00/cbs_0058   0    2      今天   NT          (VP(NP*)  -    -   -   -      (DATE)   (ARGM-TMP*)   (ARGM-TMP*)        *         *        *        *    (8)
+bn/cbs/00/cbs_0058   0    3      召开   VV          (VP(VP*   -   01   -   -          *           (V*)            *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    4     记者会   NN            (NP*))  -    -   -   -          *        (ARG1*)            *         *         *        *        *    (2)
+bn/cbs/00/cbs_0058   0    5      重申   VV             (VP*   -   01   -   -          *             *           (V*)        *         *        *        *     -
+bn/cbs/00/cbs_0058   0    6       ，   PU                *   -    -   -   -          *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    7     行政院   NN       (IP(IP(NP*)  -    -   -   -       (ORG)            *        (ARG1*    (ARG0*)        *   (ARG0*   (ARG0*    (3)
+bn/cbs/00/cbs_0058   0    8      宣布   VV             (VP*   -   01   -   -          *             *             *       (V*)        *        *        *     -
+bn/cbs/00/cbs_0058   0    9      停建   VV          (IP(VP*   -   01   -   -          *             *             *    (ARG1*       (V*)       *        *     -
+bn/cbs/00/cbs_0058   0   10      核四   NR         (NP*)))))  -    -   -   -       (FAC)            *             *         *)   (ARG1*)       *)       *)   (5)
+bn/cbs/00/cbs_0058   0   11      合法   VV             (VP*   -   01   -   -          *             *             *         *         *      (V*)       *     -
+bn/cbs/00/cbs_0058   0   12       、   PU                *   -    -   -   -          *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   13      合宪   VV            *)))))  -   01   -   -          *             *             *)        *         *        *      (V*)    -
+bn/cbs/00/cbs_0058   0   14       。   PU               *))  -    -   -   -          *             *             *         *         *        *        *     -
+
+bn/cbs/00/cbs_0058   0    0      对于     P        (TOP(IP(PP*   -    -   -   -          *        *        (ARG2*         *             *     -
+bn/cbs/00/cbs_0058   0    1    立法院长    NN         (IP(NP(NP*)  -    -   -   -       (ORG)  (ARG0*             *         *             *    (0
+bn/cbs/00/cbs_0058   0    2     王新平    NR              (NP*))  -    -   -   -    (PERSON)       *)            *         *             *     0)
+bn/cbs/00/cbs_0058   0    3       说    VV             (VP*)))  -   01   7   -          *      (V*)            *)        *             *     -
+bn/cbs/00/cbs_0058   0    4       ，    PU                  *   -    -   -   -          *        *             *         *             *     -
+bn/cbs/00/cbs_0058   0    5       张    NR               (NP*   -    -   -   -    (PERSON)       *        (ARG0*         *             *    (6
+bn/cbs/00/cbs_0058   0    6      院长    NN                  *)  -    -   -   -          *        *             *)        *             *     6)
+bn/cbs/00/cbs_0058   0    7       早    AD          (VP(ADVP*)  -    -   -   -          *        *    (ARGM-ADV*)        *             *     -
+bn/cbs/00/cbs_0058   0    8       就    AD             (ADVP*)  -    -   6   -          *        *    (ARGM-ADV*)        *             *     -
+bn/cbs/00/cbs_0058   0    9      表示    VV               (VP*   -   01   2   -          *        *           (V*)        *             *     -
+bn/cbs/00/cbs_0058   0   10      核四    NR   (IP(NP(CP(IP(NP*)  -    -   -   -       (FAC)       *        (ARG1*    (ARG1*)       (ARG1*    (5)
+bn/cbs/00/cbs_0058   0   11      停建    VV              (VP*))  -   01   -   -          *        *             *       (V*)            *     -
+bn/cbs/00/cbs_0058   0   12       的   DEC                  *)  -    -   -   -          *        *             *         *             *     -
+bn/cbs/00/cbs_0058   0   13      宪法    NN               (NP*   -    -   -   -          *        *             *         *             *     -
+bn/cbs/00/cbs_0058   0   14      问题    NN                 *))  -    -   -   -          *        *             *         *             *)    -
+bn/cbs/00/cbs_0058   0   15       将    AD          (VP(ADVP*)  -    -   -   -          *        *             *         *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0058   0   16       由     P               (PP*   -    -   -   -          *        *             *         *        (ARG0*     -
+bn/cbs/00/cbs_0058   0   17     行政院    NN              (NP*))  -    -   -   -       (ORG)       *             *         *             *)   (3)
+bn/cbs/00/cbs_0058   0   18      提出    VV               (VP*   -   01   -   -          *        *             *         *           (V*)    -
+bn/cbs/00/cbs_0058   0   19      事件    NN               (NP*   -    -   -   -          *        *             *         *        (ARG1*    (7
+bn/cbs/00/cbs_0058   0   20      申请    NN             *))))))  -    -   -   -          *        *             *)        *             *)    7)
+bn/cbs/00/cbs_0058   0   21       。    PU                 *))  -    -   -   -          *        *             *         *             *     -
+
+bn/cbs/00/cbs_0058   0    0      而   AD   (TOP(IP(ADVP*)  -    -   -   -          *    (ARGM-DIS*)        *      *     -
+bn/cbs/00/cbs_0058   0    1     最后   JJ       (NP(ADJP*)  -    -   -   -          *    (ARGM-TPC*         *      *   (10
+bn/cbs/00/cbs_0058   0    2     结论   NN           (NP*))  -    -   -   -          *             *)        *      *    10)
+bn/cbs/00/cbs_0058   0    3      ，   PU               *   -    -   -   -          *             *         *      *     -
+bn/cbs/00/cbs_0058   0    4    王新平   NR            (NP*)  -    -   -   -    (PERSON)       (ARG0*)        *      *    (0)
+bn/cbs/00/cbs_0058   0    5     强调   VV            (VP*   -   01   -   -          *           (V*)        *      *     -
+bn/cbs/00/cbs_0058   0    6      ，   PU               *   -    -   -   -          *             *         *      *     -
+bn/cbs/00/cbs_0058   0    7     一切   PN         (IP(NP*)  -    -   -   -          *        (ARG1*    (ARG1*)     *    (1)
+bn/cbs/00/cbs_0058   0    8     交由   VV            (VP*   -   01   -   -          *             *       (V*)     *     -
+bn/cbs/00/cbs_0058   0    9    大法官   NN            (NP*)  -    -   -   -          *             *    (ARG2*)     *    (4)
+bn/cbs/00/cbs_0058   0   10     决定   VV     (IP(VP*)))))  -   01   -   -          *             *)   (ARG3*)   (V*)    -
+bn/cbs/00/cbs_0058   0   11      。   PU              *))  -    -   -   -          *             *         *      *     -
+
+bn/cbs/00/cbs_0058   0    0      面对    VV   (TOP(IP(FLR(VP*))  -   01   -   -          *    (V*)            *            *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    1    行政院长    NN            (NP(NP*)  -    -   -   -       (ORG)     *        (ARG0*            *        (ARG0*        (ARG0*         *         *        *        *    (6
+bn/cbs/00/cbs_0058   0    2     张俊雄    NR              (NP*))  -    -   -   -    (PERSON)     *             *)           *             *)            *)        *         *        *        *     6)
+bn/cbs/00/cbs_0058   0    3       不    AD       (VP(VP(ADVP*)  -    -   -   -          *      *    (ARGM-ADV*)           *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    4       顾    VV               (VP*   -   01   -   -          *      *           (V*)           *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    5     立法院    NN            (IP(NP*)  -    -   -   -       (ORG)     *        (ARG1*       (ARG0*)            *             *         *         *        *        *    (9)
+bn/cbs/00/cbs_0058   0    6    如火如荼    VV        (VP(DVP(VP*   -    -   -   -          *      *             *   (ARGM-ADV*             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    7       的   DEV                 *))  -    -   -   -          *      *             *            *)            *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    8      推动    VV               (VP*   -   02   1   -          *      *             *          (V*)            *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0    9     罢免案    NN            (NP(NP*)  -    -   -   -          *      *             *       (ARG1*             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   10       ，    PU                  *   -    -   -   -          *      *             *            *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   11      以及    CC                  *   -    -   -   -          *      *             *            *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   12    行政院长    NN               (NP*   -    -   -   -       (ORG)     *             *            *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   13     弹劾案    NN            *)))))))  -    -   -   -          *      *             *)           *)            *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   14       ，    PU                  *   -    -   -   -          *      *             *            *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   15       还    AD          (VP(ADVP*)  -    -   -   -          *      *             *            *    (ARGM-DIS*)   (ARGM-DIS*)        *         *        *        *     -
+bn/cbs/00/cbs_0058   0   16       在     P               (PP*   -    -   2   -          *      *             *            *    (ARGM-TMP*    (ARGM-TMP*         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   17      今天    NT              (NP*))  -    -   -   -      (DATE)     *             *            *             *)            *)        *         *        *        *    (8)
+bn/cbs/00/cbs_0058   0   18      举行    VV            (VP(VP*   -   01   -   -          *      *             *            *           (V*)            *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   19     记者会    NN              (NP*))  -    -   -   -          *      *             *            *        (ARG1*)            *         *         *        *        *    (2)
+bn/cbs/00/cbs_0058   0   20      重申    VV               (VP*   -   01   -   -          *      *             *            *             *           (V*)        *         *        *        *     -
+bn/cbs/00/cbs_0058   0   21     行政院    NN         (IP(IP(NP*)  -    -   -   -       (ORG)     *             *            *             *        (ARG1*    (ARG0*)        *   (ARG0*   (ARG0*    (3)
+bn/cbs/00/cbs_0058   0   22      宣布    VV               (VP*   -   01   -   -          *      *             *            *             *             *       (V*)        *        *        *     -
+bn/cbs/00/cbs_0058   0   23      停建    VV            (IP(VP*   -   01   -   -          *      *             *            *             *             *    (ARG1*       (V*)       *        *     -
+bn/cbs/00/cbs_0058   0   24      核四    NR           (NP*)))))  -    -   -   -       (FAC)     *             *            *             *             *         *)   (ARG1*)       *)       *)   (5)
+bn/cbs/00/cbs_0058   0   25      合法    VV               (VP*   -   01   -   -          *      *             *            *             *             *         *         *      (V*)       *     -
+bn/cbs/00/cbs_0058   0   26       、    PU                  *   -    -   -   -          *      *             *            *             *             *         *         *        *        *     -
+bn/cbs/00/cbs_0058   0   27      合宪    VV             *))))))  -   01   -   -          *      *             *            *             *             *)        *         *        *      (V*)    -
+bn/cbs/00/cbs_0058   0   28       。    PU                 *))  -    -   -   -          *      *             *            *             *             *         *         *        *        *     -
+
+bn/cbs/00/cbs_0058   0    0     而    AD   (TOP(IP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)     *            *     -
+bn/cbs/00/cbs_0058   0    1     这    PN            (NP*)  -    -   -   -       *        (ARG0*)     *            *     -
+bn/cbs/00/cbs_0058   0    2     也    AD       (VP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)     *            *     -
+bn/cbs/00/cbs_0058   0    3    引发    VV            (VP*   -   02   -   -       *           (V*)     *            *     -
+bn/cbs/00/cbs_0058   0    4    立院    NN      (IP(NP(NP*)  -    -   -   -    (ORG)       (ARG2*      *       (ARG0*    (9)
+bn/cbs/00/cbs_0058   0    5     各    DT            (DP*)  -    -   -   -       *             *      *            *     -
+bn/cbs/00/cbs_0058   0    6    在野    JJ          (ADJP*)  -    -   -   -   (ORG*             *      *            *     -
+bn/cbs/00/cbs_0058   0    7    党团    NN           (NP*))  -    -   -   -       *)            *      *            *)    -
+bn/cbs/00/cbs_0058   0    8    一致    VA     (VP(DVP(VP*)  -   01   -   -       *             *    (V*)  (ARGM-ADV*     -
+bn/cbs/00/cbs_0058   0    9     的   DEV               *)  -    -   -   -       *             *      *            *)    -
+bn/cbs/00/cbs_0058   0   10    抨击    VV        (VP*)))))  -   01   -   -       *             *)     *          (V*)    -
+bn/cbs/00/cbs_0058   0   11     。    PU              *))  -    -   -   -       *             *      *            *     -
+
+bn/cbs/00/cbs_0058   0    0     行政院    NN     (TOP(IP(IP(NP*)  -    -    -   -        (ORG)       (ARG0*)       (ARG0*)     *             *         *             *            *        *    (3)
+bn/cbs/00/cbs_0058   0    1       不    AD       (VP(VP(ADVP*)  -    -    -   -           *    (ARGM-ADV*)       (ARG0*      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    2       顾    VV               (VP*   -   01    -   -           *           (V*)            *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    3      宪政    NN               (NP*   -    -    -   -           *        (ARG1*             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    4      体制    NN                *)))  -    -    -   -           *             *)            *)     *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    5      充分    AD          (VP(ADVP*)  -    -    -   -           *             *    (ARGM-ADV*)     *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    6      显示    VV           (VP(VRD*   -   01    1   -           *             *           (V*)     *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    7       出    VV                  *)  -   01    8   -           *             *             *    (V*)            *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    8     行政权    NN        (NP(DNP(NP*)  -    -    -   -           *             *        (ARG1*      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0    9       的   DEG                  *)  -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   10      傲慢    NN          (NP*))))))  -    -    -   -           *             *             *)     *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   11       ，    PU                  *   -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   12      不过    AD          (IP(ADVP*)  -    -    -   -           *             *             *      *    (ARGM-DIS*)        *             *            *        *     -
+bn/cbs/00/cbs_0058   0   13    立法院长    NN            (NP(NP*)  -    -    -   -        (ORG)            *             *      *        (ARG0*         *             *            *        *    (0
+bn/cbs/00/cbs_0058   0   14     王新平    NR              (NP*))  -    -    -   -     (PERSON)            *             *      *             *)        *             *            *        *     0)
+bn/cbs/00/cbs_0058   0   15       则    AD          (VP(ADVP*)  -    -    -   -           *             *             *      *    (ARGM-DIS*)        *             *            *        *     -
+bn/cbs/00/cbs_0058   0   16      认为    VV               (VP*   -   01    1   -           *             *             *      *           (V*)        *             *            *        *     -
+bn/cbs/00/cbs_0058   0   17       ，    PU                  *   -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   18     行政院    NN         (IP(IP(NP*)  -    -    -   -        (ORG)            *             *      *        (ARG1*    (ARG0*)            *            *        *    (3)
+bn/cbs/00/cbs_0058   0   19      是否    VV               (VP*   -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   20      违宪    VV               (VP*   -   01    -   -           *             *             *      *             *       (V*)            *            *        *     -
+bn/cbs/00/cbs_0058   0   21       ，    PU                *)))  -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   22      一切    DT         (IP(NP(DP*)  -    -    -   -           *             *             *      *             *         *        (ARG1*            *        *    (1
+bn/cbs/00/cbs_0058   0   23      是非    NN              (NP*))  -    -    -   -           *             *             *      *             *         *             *)           *        *     1)
+bn/cbs/00/cbs_0058   0   24       都    AD          (VP(ADVP*)  -    -    -   -           *             *             *      *             *         *    (ARGM-ADV*)           *        *     -
+bn/cbs/00/cbs_0058   0   25      应该    VV               (VP*   -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   26      交由    VV               (VP*   -   01    -   -           *             *             *      *             *         *           (V*)           *        *     -
+bn/cbs/00/cbs_0058   0   27     大法官    NN               (NP*)  -    -    -   -           *             *             *      *             *         *        (ARG2*)           *        *    (4)
+bn/cbs/00/cbs_0058   0   28       来    VV            (IP(VP*   -   05    7   -           *             *             *      *             *         *        (ARG3*          (V*)       *     -
+bn/cbs/00/cbs_0058   0   29       做    VV               (VP*   -   01   11   -           *             *             *      *             *         *             *   (ARGM-ADV*      (V*)    -
+bn/cbs/00/cbs_0058   0   30      最后    JJ      (NP(DNP(ADJP*)  -    -    -   -    (ORDINAL)            *             *      *             *         *             *            *   (ARG1*   (10
+bn/cbs/00/cbs_0058   0   31       的   DEG                  *)  -    -    -   -           *             *             *      *             *         *             *            *        *     -
+bn/cbs/00/cbs_0058   0   32      裁决    NN   (NP*)))))))))))))  -    -    -   -           *             *             *      *             *)        *             *)           *)       *)   10)
+bn/cbs/00/cbs_0058   0   33       。    PU                 *))  -    -    -   -           *             *             *      *             *         *             *            *        *     -
+
+bn/cbs/00/cbs_0058   0    0     另外   AD   (TOP(IP(ADVP*)  -    -   -   -          *      *         *    (ARGM-DIS*)     *     -
+bn/cbs/00/cbs_0058   0    1    王新平   NR            (NP*)  -    -   -   -    (PERSON)     *         *        (ARG0*)     *    (0)
+bn/cbs/00/cbs_0058   0    2      也   AD       (VP(ADVP*)  -    -   -   -          *      *         *    (ARGM-DIS*)     *     -
+bn/cbs/00/cbs_0058   0    3      对    P            (PP*   -    -   3   -          *      *         *        (ARG2*      *     -
+bn/cbs/00/cbs_0058   0    4    行政院   NN         (IP(NP*)  -    -   -   -       (ORG)     *    (ARG0*)            *      *    (3)
+bn/cbs/00/cbs_0058   0    5     可能   VV            (VP*   -   01   -   -          *    (V*)        *             *      *     -
+bn/cbs/00/cbs_0058   0    6     提出   VV            (VP*   -   01   -   -          *      *       (V*)            *      *     -
+bn/cbs/00/cbs_0058   0    7     事件   NN            (NP*   -    -   -   -          *      *    (ARG1*             *      *    (7
+bn/cbs/00/cbs_0058   0    8     生平   NN           *)))))  -    -   -   -          *      *         *)            *)     *     7)
+bn/cbs/00/cbs_0058   0    9     表示   VV            (VP*   -   01   1   -          *      *         *           (V*)     *     -
+bn/cbs/00/cbs_0058   0   10     赞同   VV      (IP(VP*))))  -   01   -   -          *      *         *        (ARG1*)   (V*)    -
+bn/cbs/00/cbs_0058   0   11      。   PU              *))  -    -   -   -          *      *         *             *      *     -
+
+bn/cbs/00/cbs_0058   0    0      他    PN           (TOP(IP(NP*)  -    -   -   -          *    (ARG0*)            *             *             *             *         *             *         *    (0)
+bn/cbs/00/cbs_0058   0    1      说    VV                  (VP*   -   01   7   -          *       (V*)            *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0    2      ，    PU                     *   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0    3      张    NR               (IP(NP*   -    -   -   -    (PERSON)   (ARG1*             *        (ARG0*             *             *         *             *         *    (6
+bn/cbs/00/cbs_0058   0    4     院长    NN                     *)  -    -   -   -          *         *             *             *)            *             *         *             *         *     6)
+bn/cbs/00/cbs_0058   0    5      很    AD   (VP(LCP(IP(VP(ADVP*)  -    -   -   -          *         *    (ARGM-ADV*)   (ARGM-TMP*             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0    6      早    VA                (VP*)))  -   01   -   -          *         *           (V*)            *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0    7     以前    LC                     *)  -    -   -   -          *         *             *             *)            *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0    8      就    AD                (ADVP*)  -    -   6   -          *         *             *    (ARGM-ADV*)            *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0    9     已经    AD                (ADVP*)  -    -   -   -          *         *             *    (ARGM-ADV*)            *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   10     表示    VV                  (VP*   -   01   2   -          *         *             *           (V*)            *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   11      ，    PU                     *   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   12     如果    CS       (IP(IP(CP(ADVP*)  -    -   -   -          *         *             *        (ARG1*    (ARGM-DIS*)            *         *             *         *     -
+bn/cbs/00/cbs_0058   0   13     核四    NR               (IP(NP*)  -    -   -   -       (FAC)        *             *             *        (ARG1*)            *         *             *         *    (5)
+bn/cbs/00/cbs_0058   0   14      不    AD             (VP(ADVP*)  -    -   -   -          *         *             *             *    (ARGM-ADV*)            *         *             *         *     -
+bn/cbs/00/cbs_0058   0   15     兴建    VV               (VP*))))  -   01   -   -          *         *             *             *           (V*)            *         *             *         *     -
+bn/cbs/00/cbs_0058   0   16      ，    PU                     *   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   17      将    AD             (VP(ADVP*)  -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   18      由     P                  (PP*   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   19    行政院    NN                 (NP*))  -    -   -   -       (ORG)        *             *             *             *             *         *             *         *    (3)
+bn/cbs/00/cbs_0058   0   20     提出    VV                  (VP*   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   21     事件    NN                  (NP*   -    -   -   -          *         *             *             *             *             *         *             *         *    (7
+bn/cbs/00/cbs_0058   0   22     申请    NN                  *))))  -    -   -   -          *         *             *             *             *             *         *             *         *     7)
+bn/cbs/00/cbs_0058   0   23      ，    PU                     *   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   24      而    CC                     *   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   25    立法院    NN    (IP(NP(DNP(LCP(NP*)  -    -   -   -       (ORG)        *             *             *             *        (ARG1*         *             *         *    (9)
+bn/cbs/00/cbs_0058   0   26      内    LC                     *)  -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   27      的   DEG                     *)  -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   28     所有    DT                  (DP*)  -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   29     事件    NN                  (NP*   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   30     申请    NN                    *))  -    -   -   -          *         *             *             *             *             *)        *             *         *     -
+bn/cbs/00/cbs_0058   0   31     目前    NT               (VP(NP*)  -    -   -   -          *         *             *             *             *    (ARGM-TMP*)        *             *         *     -
+bn/cbs/00/cbs_0058   0   32      都    AD                (ADVP*)  -    -   -   -          *         *             *             *             *    (ARGM-ADV*)        *             *         *     -
+bn/cbs/00/cbs_0058   0   33     已经    AD                (ADVP*)  -    -   -   -          *         *             *             *             *    (ARGM-ADV*)        *             *         *     -
+bn/cbs/00/cbs_0058   0   34     撤回    VV                (VP*)))  -   01   -   -          *         *             *             *             *           (V*)        *             *         *     -
+bn/cbs/00/cbs_0058   0   35      ，    PU                     *   -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   36     因此    AD             (IP(ADVP*)  -    -   -   -          *         *             *             *             *             *         *    (ARGM-DIS*)        *     -
+bn/cbs/00/cbs_0058   0   37    行政院    NN               (IP(NP*)  -    -   -   -       (ORG)        *             *             *             *             *    (ARG0*)       (ARG0*         *    (3)
+bn/cbs/00/cbs_0058   0   38     提出    VV                  (VP*   -   01   -   -          *         *             *             *             *             *       (V*)            *         *     -
+bn/cbs/00/cbs_0058   0   39    释宪案    NN                (NP*)))  -    -   -   -          *         *             *             *             *             *    (ARG1*)            *)        *     -
+bn/cbs/00/cbs_0058   0   40      是    VC                  (VP*   -   01   1   -          *         *             *             *             *             *         *           (V*)        *     -
+bn/cbs/00/cbs_0058   0   41     正确    VA     (NP(CP(CP(IP(VP*))  -   01   -   -          *         *             *             *             *             *         *        (ARG1*       (V*)    -
+bn/cbs/00/cbs_0058   0   42      的   DEC                    *))  -    -   -   -          *         *             *             *             *             *         *             *         *     -
+bn/cbs/00/cbs_0058   0   43     做法    NN          (NP*)))))))))  -    -   -   -          *         *)            *             *)            *             *         *             *)   (ARG0*)    -
+bn/cbs/00/cbs_0058   0   44      。    PU                    *))  -    -   -   -          *         *             *             *             *             *         *             *         *     -
+
+bn/cbs/00/cbs_0058   0    0      而   AD   (TOP(IP(ADVP*)  -    -   -   -          *            *        *      *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0058   0    1     对于    P            (PP*   -    -   -   -          *            *        *      *        (ARG1*     -
+bn/cbs/00/cbs_0058   0    2    立法院   NN      (IP(IP(NP*)  -    -   -   -       (ORG)      (ARG0*)  (ARG0*      *             *    (9)
+bn/cbs/00/cbs_0058   0    3     通过    P         (VP(PP*   -    -   3   -          *   (ARGM-MNR*        *      *             *     -
+bn/cbs/00/cbs_0058   0    4     见警   NN            (NP*   -    -   -   -          *            *        *      *             *     -
+bn/cbs/00/cbs_0058   0    5    监察院   NN              *))  -    -   -   -       (ORG)           *)       *      *             *     -
+bn/cbs/00/cbs_0058   0    6     弹劾   VV            (VP*   -   01   -   -          *          (V*)       *      *             *     -
+bn/cbs/00/cbs_0058   0    7    张俊雄   NR            (NP*   -    -   -   -    (PERSON)      (ARG1*        *      *             *    (6
+bn/cbs/00/cbs_0058   0    8     院长   NN            *))))  -    -   -   -          *            *)       *)     *             *     6)
+bn/cbs/00/cbs_0058   0    9     是否   VV            (VP*   -    -   -   -          *            *        *      *             *     -
+bn/cbs/00/cbs_0058   0   10     违法   VV         (VP*))))  -   01   -   -          *            *      (V*)     *             *)    -
+bn/cbs/00/cbs_0058   0   11      ，   PU               *   -    -   -   -          *            *        *      *             *     -
+bn/cbs/00/cbs_0058   0   12    王新平   NR            (NP*)  -    -   -   -    (PERSON)           *        *      *        (ARG0*)   (0)
+bn/cbs/00/cbs_0058   0   13      则   AD       (VP(ADVP*)  -    -   -   -          *            *        *      *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0058   0   14      是   VC            (VP*   -   01   2   -          *            *        *    (V*)            *     -
+bn/cbs/00/cbs_0058   0   15     没有   AD       (VP(ADVP*)  -    -   2   -          *            *        *      *    (ARGM-ADV*)    -
+bn/cbs/00/cbs_0058   0   16     回答   VV         (VP*))))  -   01   -   -          *            *        *      *           (V*)    -
+bn/cbs/00/cbs_0058   0   17      。   PU              *))  -    -   -   -          *            *        *      *             *     -
+
+#end document

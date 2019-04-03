@@ -1,0 +1,190 @@
+#begin document (bn/ctv/00/ctv_0070); part 000
+bn/ctv/00/ctv_0070   0    0        日本    NR             (TOP(IP(NP(NP*   -    -   -   -         (GPE)       (ARG0*        (ARG0*             *         *         *        *    (0|(1
+bn/ctv/00/ctv_0070   0    1        大阪    NR                          *)  -    -   -   -        (ORG*             *             *             *         *         *        *        0)
+bn/ctv/00/ctv_0070   0    2        地方    JJ                     (ADJP*)  -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0    3        法院    NN                      (NP*))  -    -   -   -            *)            *)            *)            *         *         *        *        1)
+bn/ctv/00/ctv_0070   0    4       １３号    NT                    (VP(NP*)  -    -   -   -        (DATE)   (ARGM-TMP*)   (ARGM-TMP*)            *         *         *        *        -
+bn/ctv/00/ctv_0070   0    5        做出    VV                    (VP(VP*   -   01   -   -            *           (V*)            *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0    6        判决    NN                      (NP*))  -    -   -   -            *        (ARG1*)            *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0    7         ，    PU                          *   -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0    8        要求    VV                       (VP*   -   02   1   -            *             *           (V*)            *         *         *        *        -
+bn/ctv/00/ctv_0070   0    9         以     P  (NP(NP(CP(CP(IP(VP(VP(PP*   -    -   -   -            *             *        (ARG1*             *    (ARG2*         *        *       (2
+bn/ctv/00/ctv_0070   0   10         毫    AD      (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -            *             *             *    (ARGM-ADV*)        *         *        *        -
+bn/ctv/00/ctv_0070   0   11         无    VE                       (VP*   -   01   1   -            *             *             *           (V*)        *         *        *        -
+bn/ctv/00/ctv_0070   0   12        科学    NN                       (NP*   -    -   -   -            *             *             *        (ARG1*         *         *        *        -
+bn/ctv/00/ctv_0070   0   13        根据    NN                       *))))  -    -   -   -            *             *             *             *)        *         *        *        -
+bn/ctv/00/ctv_0070   0   14         的   DEC                         *))  -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   15        脚相    NN                       (NP*   -    -   -   -            *             *             *        (ARG0*         *         *        *        -
+bn/ctv/00/ctv_0070   0   16        诊断    NN                        *)))  -    -   -   -            *             *             *             *)        *)        *        *        -
+bn/ctv/00/ctv_0070   0   17         为    VC                       (VP*   -   02   2   -            *             *             *             *       (V*)        *        *        -
+bn/ctv/00/ctv_0070   0   18        手段    NN                     (NP*)))  -    -   -   -            *             *             *             *    (ARG1*)        *        *        -
+bn/ctv/00/ctv_0070   0   19         ，    PU                          *   -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   20        骗取    VV                       (VP*   -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   21        钱财    NN                    (NP*))))  -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   22         的   DEC                         *))  -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   23        邪教    NN                      (NP*))  -    -   -   -            *             *             *             *    (ARG0*)        *        *        -
+bn/ctv/00/ctv_0070   0   24        ——    PU                      (PRN*   -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   25         “    PU                       (NP*   -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   26    法之华三法行    NR                          *   -    -   -   -         (ORG)            *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   27         ”    PU                        *)))  -    -   -   -            *             *             *)            *         *         *        *        2)
+bn/ctv/00/ctv_0070   0   28         对     P                 (IP(VP(PP*   -    -   3   -            *             *        (ARG2*             *         *         *   (ARG1*        -
+bn/ctv/00/ctv_0070   0   29       大阪府    NR                    (NP(NP*)  -    -   -   -         (GPE)            *             *             *         *         *        *    (3|(0)
+bn/ctv/00/ctv_0070   0   30        １６    CD                       (QP*   -    -   -   -    (CARDINAL)            *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   31         名     M                     (CLP*))  -    -   -   -            *             *             *             *         *         *        *        -
+bn/ctv/00/ctv_0070   0   32        受骗    VV               (CP(IP(VP*)))  -   01   -   -            *             *             *             *         *       (V*)       *        -
+bn/ctv/00/ctv_0070   0   33        男子    NN                     (NP*)))  -    -   -   -            *             *             *             *         *    (ARG0*)       *)       3)
+bn/ctv/00/ctv_0070   0   34        赔偿    VV                       (VP*   -   01   -   -            *             *             *             *         *         *      (V*)       -
+bn/ctv/00/ctv_0070   0   35      １．１亿    CD                       (QP*   -    -   -   -      (MONEY*             *             *             *         *         *   (ARG2*        -
+bn/ctv/00/ctv_0070   0   36        日元     M               (CLP*))))))))  -    -   -   -            *)            *             *)            *         *         *        *)       -
+bn/ctv/00/ctv_0070   0   37         。    PU                         *))  -    -   -   -            *             *             *             *         *         *        *        -
+
+bn/ctv/00/ctv_0070   0    0        这些    DT           (TOP(IP(NP(DP*)  -    -   -   -         *            *       (ARG0*         *            *         *    (3
+bn/ctv/00/ctv_0070   0    1        男子    NN                    (NP*))  -    -   -   -         *            *            *)        *            *         *     3)
+bn/ctv/00/ctv_0070   0    2         在     P                  (VP(PP*   -    -   2   -         *            *   (ARGM-LOC*         *            *         *     -
+bn/ctv/00/ctv_0070   0    3         向     P  (LCP(NP(CP(CP(IP(VP(PP*   -    -   -   -         *   (ARGM-DIR*            *         *            *         *     -
+bn/ctv/00/ctv_0070   0    4        法院    NN                    (NP*))  -    -   -   -         *            *)           *         *            *         *    (1)
+bn/ctv/00/ctv_0070   0    5        提出    VV                   (VP*)))  -   01   -   -         *          (V*)           *         *            *         *     -
+bn/ctv/00/ctv_0070   0    6         的   DEC                       *))  -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0    7        财产    NN                     (NP*   -    -   -   -         *       (ARG1*            *         *            *         *     -
+bn/ctv/00/ctv_0070   0    8        赔偿    NN                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0    9        诉讼    NN                       *))  -    -   -   -         *            *)           *         *            *         *     -
+bn/ctv/00/ctv_0070   0   10         中    LC                       *))  -    -   -   -         *            *            *)        *            *         *     -
+bn/ctv/00/ctv_0070   0   11         说    VV                     (VP*   -   01   8   -         *            *          (V*)        *            *         *     -
+bn/ctv/00/ctv_0070   0   12         ，    PU                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   13         从     P                  (IP(PP*   -    -   -   -         *            *       (ARG1*         *   (ARGM-TMP*         *     -
+bn/ctv/00/ctv_0070   0   14     １９９２年    NT                 (LCP(NP*)  -    -   -   -     (DATE)           *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   15        开始    LC                       *))  -    -   -   -         *            *            *         *            *)        *     -
+bn/ctv/00/ctv_0070   0   16         ，    PU                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   17         “    PU                  (NP(NP*   -    -   -   -         *            *            *         *       (ARG0*         *    (2
+bn/ctv/00/ctv_0070   0   18    法之华三法行    NR                        *   -    -   -   -      (ORG)           *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   19         ”    PU                        *)  -    -   -   -         *            *            *         *            *         *     2)
+bn/ctv/00/ctv_0070   0   20        教团    NN                     (NP*   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   21        成员    NN                       *))  -    -   -   -         *            *            *         *            *)        *     -
+bn/ctv/00/ctv_0070   0   22         ，    PU                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   23         以     P               (VP(VP(PP*   -    -   -   -         *            *            *         *   (ARGM-MNR*         *     -
+bn/ctv/00/ctv_0070   0   24         看    VV            (NP(CP(IP(VP*   -   02   2   -         *            *            *       (V*)           *         *     -
+bn/ctv/00/ctv_0070   0   25        脚相    NN                   (NP*)))  -    -   -   -         *            *            *    (ARG1*)           *         *     -
+bn/ctv/00/ctv_0070   0   26         的   DEC                        *)  -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   27        方式    NN                   (NP*)))  -    -   -   -         *            *            *         *            *)        *     -
+bn/ctv/00/ctv_0070   0   28        恐吓    VV                     (VP*   -   01   -   -         *            *            *         *          (V*)        *     -
+bn/ctv/00/ctv_0070   0   29        他们    PN                  (IP(NP*)  -    -   -   -         *            *            *         *       (ARG1*         *    (3)
+bn/ctv/00/ctv_0070   0   30         已    AD                (VP(ADVP*)  -    -   2   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   31        身患    VV                     (VP*   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   32        癌症    NN                (NP*))))))  -    -   -   -         *            *            *         *            *)        *     -
+bn/ctv/00/ctv_0070   0   33         ，    PU                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   34        骗取    VV                     (VP*   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   35         了    AS                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   36       ２０万    CD                  (NP(QP*   -    -   -   -   (MONEY*            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   37         到    CC                        *   -    -   7   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   38     ３０００万    CD                        *   -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   39        日元     M                   (CLP*))  -    -   -   -         *)           *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   40        不等    VA           (CP(CP(IP(VP*))  -   01   -   -         *            *            *         *            *       (V*)    -
+bn/ctv/00/ctv_0070   0   41         的   DEC                       *))  -    -   -   -         *            *            *         *            *         *     -
+bn/ctv/00/ctv_0070   0   42       研修费    NN               (NP*)))))))  -    -   -   -         *            *            *)        *            *    (ARG0*)    -
+bn/ctv/00/ctv_0070   0   43         。    PU                       *))  -    -   -   -         *            *            *         *            *         *     -
+
+bn/ctv/00/ctv_0070   0    0        另外    AD   (TOP(IP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)       *        *    -
+bn/ctv/00/ctv_0070   0    1        福冈    NR      (NP(NP(NP*)  -    -   -   -   (ORG*        (ARG0*        *        *    -
+bn/ctv/00/ctv_0070   0    2        地方    JJ          (ADJP*)  -    -   -   -       *             *        *        *    -
+bn/ctv/00/ctv_0070   0    3        法院    NN           (NP*))  -    -   -   -       *)            *        *        *    -
+bn/ctv/00/ctv_0070   0    4         、    PU               *   -    -   -   -       *             *        *        *    -
+bn/ctv/00/ctv_0070   0    5        邱田    NR         (NP(NP*)  -    -   -   -   (ORG*             *        *        *    -
+bn/ctv/00/ctv_0070   0    6        地方    JJ          (ADJP*)  -    -   -   -       *             *        *        *    -
+bn/ctv/00/ctv_0070   0    7        法院    NN          (NP*)))  -    -   -   -       *)            *)       *        *    -
+bn/ctv/00/ctv_0070   0    8         也    AD       (VP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)       *        *    -
+bn/ctv/00/ctv_0070   0    9        正在    AD          (ADVP*)  -    -   -   -       *    (ARGM-ADV*)       *        *    -
+bn/ctv/00/ctv_0070   0   10        审理    VV            (VP*   -   01   -   -       *           (V*)       *        *    -
+bn/ctv/00/ctv_0070   0   11        要求    VV   (NP(CP(IP(VP*   -   02   1   -       *        (ARG1*      (V*)       *    -
+bn/ctv/00/ctv_0070   0   12         “    PU            (NP*   -    -   -   -       *             *   (ARG1*        *   (2
+bn/ctv/00/ctv_0070   0   13    法之华三法行    NR               *   -    -   -   -    (ORG)            *        *        *    -
+bn/ctv/00/ctv_0070   0   14         ”    PU               *   -    -   -   -       *             *        *        *    -
+bn/ctv/00/ctv_0070   0   15        教团    NN               *)  -    -   -   -       *             *        *)       *    2)
+bn/ctv/00/ctv_0070   0   16        进行    VV         (IP(VP*   -   01   3   -       *             *   (ARG2*      (V*)   -
+bn/ctv/00/ctv_0070   0   17        财产    NN            (NP*   -    -   -   -       *             *        *   (ARG1*    -
+bn/ctv/00/ctv_0070   0   18        赔偿    NN           *)))))  -    -   -   -       *             *        *)       *)   -
+bn/ctv/00/ctv_0070   0   19         的   DEC               *)  -    -   -   -       *             *        *        *    -
+bn/ctv/00/ctv_0070   0   20        诉讼    NN            (NP*   -    -   -   -       *             *        *        *    -
+bn/ctv/00/ctv_0070   0   21        案件    NN            *))))  -    -   -   -       *             *)       *        *    -
+bn/ctv/00/ctv_0070   0   22         。    PU              *))  -    -   -   -       *             *        *        *    -
+
+bn/ctv/00/ctv_0070   0    0       目前    NT       (TOP(IP(IP(NP*)  -    -   -   -            *    (ARGM-TMP*)        *         *         *        *   -
+bn/ctv/00/ctv_0070   0    1       日本    NR              (NP(NP*)  -    -   -   -         (GPE)       (ARG0*         *         *         *        *   -
+bn/ctv/00/ctv_0070   0    2        全    DT                 (DP*)  -    -   2   -            *             *         *         *         *        *   -
+bn/ctv/00/ctv_0070   0    3        国    NN                (NP*))  -    -   -   -            *             *)        *         *         *        *   -
+bn/ctv/00/ctv_0070   0    4        有    VE                 (VP*   -   05   4   -            *           (V*)        *         *         *        *   -
+bn/ctv/00/ctv_0070   0    5    １２００多    CD           (IP(NP(QP*   -    -   -   -    (CARDINAL)       (ARG1*    (ARG0*         *         *        *   -
+bn/ctv/00/ctv_0070   0    6        名     M               (CLP*))  -    -   -   -            *             *         *         *         *        *   -
+bn/ctv/00/ctv_0070   0    7      受害者    NN                (NP*))  -    -   -   -            *             *         *)        *         *        *   -
+bn/ctv/00/ctv_0070   0    8       提出    VV                 (VP*   -   01   -   -            *             *       (V*)        *         *        *   -
+bn/ctv/00/ctv_0070   0    9       诉讼    NN             (NP*)))))  -    -   -   -            *             *)   (ARG1*)        *         *        *   -
+bn/ctv/00/ctv_0070   0   10        ，    PU                    *   -    -   -   -            *             *         *         *         *        *   -
+bn/ctv/00/ctv_0070   0   11       要求    VV  (IP(NP(CP(CP(IP(VP*   -   03   1   -            *             *         *       (V*)        *   (ARG0*   -
+bn/ctv/00/ctv_0070   0   12       赔偿    VV           (IP(VP*))))  -   01   -   -            *             *         *    (ARG1*)      (V*)       *   -
+bn/ctv/00/ctv_0070   0   13        的   DEC                   *))  -    -   -   -            *             *         *         *         *        *   -
+bn/ctv/00/ctv_0070   0   14        总    JJ               (ADJP*)  -    -   -   -            *             *         *         *         *        *   -
+bn/ctv/00/ctv_0070   0   15       金额    NN                (NP*))  -    -   -   -            *             *         *         *    (ARG2*)       *)  -
+bn/ctv/00/ctv_0070   0   16       超过    VV                 (VP*   -   01   -   -            *             *         *         *         *      (V*)  -
+bn/ctv/00/ctv_0070   0   17      ６５亿    CD                 (QP*   -    -   -   -      (MONEY*             *         *         *         *   (ARG1*   -
+bn/ctv/00/ctv_0070   0   18       日元     M             (CLP*))))  -    -   -   -            *)            *         *         *         *        *)  -
+bn/ctv/00/ctv_0070   0   19        。    PU                   *))  -    -   -   -            *             *         *         *         *        *   -
+
+bn/ctv/00/ctv_0070   0    0         “   PU  (TOP(IP(IP(NP*   -    -    -   -        *            *        (ARG0*        (ARG0*         *   (2
+bn/ctv/00/ctv_0070   0    1    法之华三法行   NR               *   -    -    -   -     (ORG)           *             *             *         *    -
+bn/ctv/00/ctv_0070   0    2         ”   PU               *   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0    3        教团   NN               *)  -    -    -   -        *            *             *)            *)        *    2)
+bn/ctv/00/ctv_0070   0    4         多   CD     (VP(LCP(QP*   -    -    -   -   (DATE*            *    (ARGM-TMP*    (ARGM-TMP*         *    -
+bn/ctv/00/ctv_0070   0    5         年    M          (CLP*))  -    -    -   -        *)           *             *             *         *    -
+bn/ctv/00/ctv_0070   0    6         来   LC               *)  -    -   13   -        *            *             *)            *)        *    -
+bn/ctv/00/ctv_0070   0    7        通过    P      (VP(VP(PP*   -    -    4   -        *            *    (ARGM-MNR*             *         *    -
+bn/ctv/00/ctv_0070   0    8         给    P      (IP(VP(PP*   -    -    -   -        *   (ARGM-BNF*             *             *         *    -
+bn/ctv/00/ctv_0070   0    9         人   NN           (NP*))  -    -    -   -        *            *)            *             *         *    -
+bn/ctv/00/ctv_0070   0   10         看   VV         (VP(VP*   -   02    2   -        *          (V*)            *             *         *    -
+bn/ctv/00/ctv_0070   0   11        脚相   NN           (NP*))  -    -    -   -        *       (ARG1*)            *             *         *    -
+bn/ctv/00/ctv_0070   0   12        占卜   VV        (VP*)))))  -    -    -   -        *            *             *)            *         *    -
+bn/ctv/00/ctv_0070   0   13         ，   PU               *   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   14         以    P      (VP(VP(PP*   -    -    -   -        *            *    (ARGM-MNR*             *         *    -
+bn/ctv/00/ctv_0070   0   15      不治之症   NN            (NP*   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   16         和   CC               *   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   17      难逃劫难   NN              *))  -    -    -   -        *            *             *)            *         *    -
+bn/ctv/00/ctv_0070   0   18         相   AD          (ADVP*)  -    -    -   -        *            *    (ARGM-ADV*)            *         *    -
+bn/ctv/00/ctv_0070   0   19        威胁   VV           (VP*))  -   01    -   -        *            *           (V*)            *         *    -
+bn/ctv/00/ctv_0070   0   20         ，   PU               *   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   21        诱骗   VV            (VP*   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   22        人们   NN            (NP*)  -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   23        入教   VV     (IP(VP*)))))  -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   24         ，   PU               *   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   25         并   AD       (VP(ADVP*)  -    -    -   -        *            *             *    (ARGM-DIS*)        *    -
+bn/ctv/00/ctv_0070   0   26         以    P            (PP*   -    -    -   -        *            *             *    (ARGM-MNR*         *    -
+bn/ctv/00/ctv_0070   0   27         各   DT         (NP(DP*   -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   28         种    M          (CLP*))  -    -    -   -        *            *             *             *         *    -
+bn/ctv/00/ctv_0070   0   29        名义   NN          (NP*)))  -    -    -   -        *            *             *             *)        *    -
+bn/ctv/00/ctv_0070   0   30        要求   VV            (VP*   -   02    1   -        *            *             *           (V*)        *    -
+bn/ctv/00/ctv_0070   0   31       修行者   NN            (NP*)  -    -    -   -        *            *             *        (ARG1*)        *    -
+bn/ctv/00/ctv_0070   0   32        缴纳   VV         (IP(VP*   -   01    -   -        *            *             *        (ARG2*       (V*)   -
+bn/ctv/00/ctv_0070   0   33        巨款   NN     (NP*))))))))  -    -    -   -        *            *             *             *)   (ARG1*)   -
+bn/ctv/00/ctv_0070   0   34         。   PU              *))  -    -    -   -        *            *             *             *         *    -
+
+bn/ctv/00/ctv_0070   0    0     法院    NN      (TOP(IP(IP(NP*)  -    -   -   -       *        (ARG0*)        *    (1)
+bn/ctv/00/ctv_0070   0    1     已经    AD        (VP(VP(ADVP*)  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0    2     立案    VV               (VP*))  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0    3      ，    PU                   *   -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0    4      并    AD           (VP(ADVP*)  -    -   -   -       *    (ARGM-DIS*)        *     -
+bn/ctv/00/ctv_0070   0    5      对     P                (PP*   -    -   3   -       *             *         *     -
+bn/ctv/00/ctv_0070   0    6      这    DT  (NP(DNP(LCP(NP(DP*   -    -   -   -       *             *         *    (2
+bn/ctv/00/ctv_0070   0    7      个     M              (CLP*))  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0    8     教团    NN               (NP*))  -    -   -   -       *             *         *     2)
+bn/ctv/00/ctv_0070   0    9      里    LC                   *)  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   10      的   DEG                   *)  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   11     一些    CD                (QP*)  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   12     骨干    NN              (NP*)))  -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   13     进行    VV                (VP*   -   01   3   -       *           (V*)        *     -
+bn/ctv/00/ctv_0070   0   14      了    AS                   *   -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   15     有罪    JJ           (NP(ADJP*)  -    -   -   -       *        (ARG1*         *     -
+bn/ctv/00/ctv_0070   0   16     判决    NN           (NP*))))))  -    -   -   -       *             *)        *     -
+bn/ctv/00/ctv_0070   0   17      ，    PU                   *   -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   18    中央台    NR             (IP(NP*)  -    -   -   -    (ORG)            *    (ARG0*)    -
+bn/ctv/00/ctv_0070   0   19     编译    VV            (VP(VSB*   -    -   -   -       *             *         *     -
+bn/ctv/00/ctv_0070   0   20     报道    VV                 *)))  -   01   -   -       *             *       (V*)    -
+bn/ctv/00/ctv_0070   0   21      。    PU                  *))  -    -   -   -       *             *         *     -
+
+#end document

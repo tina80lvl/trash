@@ -1,0 +1,192 @@
+#begin document (bn/ctv/01/ctv_0151); part 000
+bn/ctv/01/ctv_0151   0    0     上海   NR   (TOP(IP(IP(NP(NP(NP(NP*)  -   -   -   -   *             *    (1|(3)
+bn/ctv/01/ctv_0151   0    1     轨道   NN                     (NP*))  -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0    2     交通   NN                     (NP*))  -   -   1   -   *             *        -
+bn/ctv/01/ctv_0151   0    3    明珠线   NR                     (NP*))  -   -   -   -   *             *        1)
+bn/ctv/01/ctv_0151   0    4    ２６号   NT                   (VP(NP*)  -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0    5     正式   AD                    (ADVP*)  -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0    6     通车   VV                      (VP*   -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0    7    试运行   NN                   (NP*))))  -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0    8      ，   PU                         *   -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0    9      这   PN                   (IP(NP*)  -   -   -   -   *        (ARG0*)      (1)
+bn/ctv/01/ctv_0151   0   10      也   AD                 (VP(ADVP*)  -   -   -   -   *    (ARGM-DIS*)       -
+bn/ctv/01/ctv_0151   0   11      是   VC                      (VP*    是  -   1   -   *           (V*)       -
+bn/ctv/01/ctv_0151   0   12     中国   NR                   (NP(NP*)  -   -   -   -   *        (ARG1*       (0)
+bn/ctv/01/ctv_0151   0   13     第一   OD                      (QP*   -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0   14      条    M                    (CLP*))  -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0   15     城市   NN                      (NP*)  -   -   1   -   *             *        -
+bn/ctv/01/ctv_0151   0   16     高架   NN                      (NP*   -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0   17     轨道   NN                         *)  -   -   -   -   *             *        -
+bn/ctv/01/ctv_0151   0   18    交通线   NN                  (NP*)))))  -   -   -   -   *             *)       -
+bn/ctv/01/ctv_0151   0   19      。   PU                        *))  -   -   -   -   *             *        -
+
+bn/ctv/01/ctv_0151   0    0         这    DT  (TOP(IP(IP(NP(DP*     -   -   -   -   *   (ARGM-ADV*   (ARG0*         *         *         *       (4
+bn/ctv/01/ctv_0151   0    1         次     M             (CLP*))    -   -   -   -   *            *)       *         *         *         *        -
+bn/ctv/01/ctv_0151   0    2        开通    VV        (CP(IP(VP*))    开通  -   -   -   *          (V*)       *         *         *         *        -
+bn/ctv/01/ctv_0151   0    3         的   DEC                  *)    -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0    4        上海    NR            (NP(NP*)    -   -   -   -   *            *        *         *         *         *    (1|(3)
+bn/ctv/01/ctv_0151   0    5        轨道    NN              (NP*))    -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0    6        交通    NN              (NP*))    -   -   1   -   *       (ARG1*)       *)        *         *         *        -
+bn/ctv/01/ctv_0151   0    7       明珠线    VV               (VP*    明珠线  -   -   -   *            *      (V*)        *         *         *        1)
+bn/ctv/01/ctv_0151   0    8         一    CD            (NP(QP*     -   -   -   -   *            *   (ARG1*         *         *         *        -
+bn/ctv/01/ctv_0151   0    9         期     M             (CLP*))    -   -   1   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   10        工程    NN            (NP*))))    -   -   1   -   *            *        *)        *         *         *        4)
+bn/ctv/01/ctv_0151   0   11         ，    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   12         南    NN        (IP(LCP(NP*)    -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   13         起    LC                  *)    -   -   2   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   14        铁路    NN               (NP*)    -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   15        上海    NR            (VP(NP*     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   16         南    NN                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   17         站    NN                *)))    -   -   3   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   18         ，    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   19         北    NN            (IP(NP*)    -   -   -   -   *            *        *    (ARG0*)   (ARG0*)   (ARG0*)       -
+bn/ctv/01/ctv_0151   0   20         至    VV            (VP(VP*      至  -   1   -   *            *        *       (V*)        *         *        -
+bn/ctv/01/ctv_0151   0   21       江弯镇    NN              (NP*))    -   -   -   -   *            *        *    (ARG1*)        *         *        -
+bn/ctv/01/ctv_0151   0   22         ，    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   23        贯穿    VV               (VP*     贯穿  -   -   -   *            *        *         *       (V*)        *        -
+bn/ctv/01/ctv_0151   0   24        徐汇    NR            (NP(NP*     -   -   -   -   *            *        *         *    (ARG1*         *        -
+bn/ctv/01/ctv_0151   0   25         、    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   26        长宁    NR                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   27         、    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   28        蒲陀    NR                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   29         、    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   30        闸北    NR                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   31         、    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   32        虹口    NR                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   33         、    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   34        宝山    NR                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   35         等   ETC                  *)    -   -   2   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   36         六    CD               (QP*)    -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   37         区    NN             (NP*)))    -   -   -   -   *            *        *         *         *)        *        -
+bn/ctv/01/ctv_0151   0   38         ，    PU                  *     -   -   -   -   *            *        *         *         *         *        -
+bn/ctv/01/ctv_0151   0   39        全长    VV               (VP*     全长  -   -   -   *            *        *         *         *       (V*)       -
+bn/ctv/01/ctv_0151   0   40    ２４．９７５    CD               (QP*     -   -   -   -   *            *        *         *         *    (ARG1*        -
+bn/ctv/01/ctv_0151   0   41        公里     M          (CLP*)))))    -   -   -   -   *            *        *         *         *         *)       -
+bn/ctv/01/ctv_0151   0   42         。    PU                 *))    -   -   -   -   *            *        *         *         *         *        -
+
+bn/ctv/01/ctv_0151   0    0        其中   NN   (TOP(IP(IP(NP(NP*)  -   -   -   -   *    (1)
+bn/ctv/01/ctv_0151   0    1        高架   NN                (NP*   -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    2        线路   NN                  *))  -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    3    ２１．５１６   CD             (VP(QP*   -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    4        公里    M            (CLP*))))  -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    5         ，   PU                   *   -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    6        地面   NN             (IP(NP*   -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    7        线路   NN                   *)  -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    8     ３．４５９   CD             (VP(QP*   -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0    9        公里    M            (CLP*))))  -   -   -   -   *     -
+bn/ctv/01/ctv_0151   0   10         。   PU                  *))  -   -   -   -   *     -
+
+bn/ctv/01/ctv_0151   0    0     利用    VV   (TOP(IP(VP*    利用  -   1   -   *      (V*)  -
+bn/ctv/01/ctv_0151   0    1     沪杭    NR       (NP(NP*    -   -   -   -   *   (ARG1*   -
+bn/ctv/01/ctv_0151   0    2     铁路    NN             *)   -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0    3     上海    NR    (NP(NP(NP*)   -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0    4    内环线    NN         (NP*))   -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0    5      和    CC             *    -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0    6    凇沪线    NN   (NP(DNP(NP*)   -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0    7      的   DEG             *)   -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0    8     线路    NN       (NP*))))   -   -   -   -   *        *)  -
+bn/ctv/01/ctv_0151   0    9     １８    CD          (QP*    -   -   -   -   *   (ARG1*   -
+bn/ctv/01/ctv_0151   0   10     公里     M       (CLP*)))   -   -   -   -   *        *)  -
+bn/ctv/01/ctv_0151   0   11      。    PU            *))   -   -   -   -   *        *   -
+
+bn/ctv/01/ctv_0151   0    0    沿线   NN   (TOP(IP(IP(NP*)   -   -   -   -   *        (ARG2*)       *     -
+bn/ctv/01/ctv_0151   0    1     共   AD        (VP(ADVP*)   -   -   2   -   *    (ARGM-ADV*)       *     -
+bn/ctv/01/ctv_0151   0    2    设有   VV             (VP*    设有  -   -   -   *           (V*)       *     -
+bn/ctv/01/ctv_0151   0    3    １９   CD          (NP(QP*    -   -   -   -   *        (ARG1*        *    (2
+bn/ctv/01/ctv_0151   0    4     座    M           (CLP*))   -   -   -   -   *             *        *     -
+bn/ctv/01/ctv_0151   0    5    车站   NN         (NP*)))))   -   -   -   -   *             *)       *     2)
+bn/ctv/01/ctv_0151   0    6     ，   PU                *    -   -   -   -   *             *        *     -
+bn/ctv/01/ctv_0151   0    7    其中   NN       (IP(NP(NP*)   -   -   -   -   *             *   (ARG0*    (2)
+bn/ctv/01/ctv_0151   0    8    １６   CD             (QP*    -   -   -   -   *             *        *     -
+bn/ctv/01/ctv_0151   0    9     座    M           (CLP*))   -   -   -   -   *             *        *     -
+bn/ctv/01/ctv_0151   0   10    车站   NN            (NP*))   -   -   -   -   *             *        *)    -
+bn/ctv/01/ctv_0151   0   11     为   VC             (VP*     为  -   1   -   *             *      (V*)    -
+bn/ctv/01/ctv_0151   0   12    高架   NR             (NP*    -   -   -   -   *             *   (ARG1*     -
+bn/ctv/01/ctv_0151   0   13    车站   NN              *)))   -   -   -   -   *             *        *)    -
+bn/ctv/01/ctv_0151   0   14     。   PU               *))   -   -   -   -   *             *        *     -
+
+bn/ctv/01/ctv_0151   0    0      一    CD  (TOP(IP(IP(NP(CP(IP(NP(QP*    -   -   -   -   *   (ARG0*        (ARG0*        *             *             *      *             *             *        *    (4
+bn/ctv/01/ctv_0151   0    1      期     M                      (CLP*))   -   -   1   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0    2     工程    NN                       (NP*))   -   -   1   -   *        *)            *        *             *             *      *             *             *        *     4)
+bn/ctv/01/ctv_0151   0    3     经过    VV                       (VP*))   经过  -   -   -   *      (V*)            *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0    4      的   DEC                           *)   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0    5     地方    NN                       (NP*))   -   -   4   -   *        *             *)       *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0    6     基本    AD                   (VP(ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)       *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0    7      是    VC                        (VP*     是  -   1   -   *        *           (V*)       *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0    8    上海市    NR            (NP(CP(IP(NP(NP*)   -   -   -   -   *        *        (ARG1*   (ARG0*             *             *      *             *             *        *    (3)
+bn/ctv/01/ctv_0151   0    9     人口    NN                       (NP*))   -   -   -   -   *        *             *        *)            *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   10     集中    VV                        (VP*    集中  -   1   -   *        *             *      (V*)            *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   11      而    AD                   (IP(ADVP*)   -   -   -   -   *        *             *   (ARG1*    (ARGM-DIS*)            *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   12     交通    NN                        (NP*)   -   -   1   -   *        *             *        *        (ARG0*)            *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   13      不    AD                   (VP(ADVP*)   -   -   -   -   *        *             *        *    (ARGM-ADV*)            *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   14      太    AD                      (ADVP*)   -   -   -   -   *        *             *        *    (ARGM-ADV*)            *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   15     便利    VA                    (VP*)))))   便利  -   1   -   *        *             *        *)          (V*)            *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   16      的   DEC                           *)   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   17     地方    NN                    (NP*)))))   -   -   4   -   *        *             *)       *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   18      ，    PU                           *    -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   19    明珠线    NN              (IP(LCP(IP(NP*)   -   -   -   -   *        *             *        *             *        (ARG0*)     *    (ARGM-TMP*    (ARGM-TMP*        *    (1)
+bn/ctv/01/ctv_0151   0   20     通车    VV                       (VP*))   通车  -   -   -   *        *             *        *             *           (V*)     *             *             *        *     -
+bn/ctv/01/ctv_0151   0   21      后    LC                           *)   -   -   -   -   *        *             *        *             *    (ARGM-ADV*)     *             *)            *)       *     -
+bn/ctv/01/ctv_0151   0   22    上海人    NN                        (NP*)   -   -   -   -   *        *             *        *             *             *      *        (ARG0*)       (ARG0*)       *     -
+bn/ctv/01/ctv_0151   0   23      在     P                  (VP(VP(PP*    -   -   2   -   *        *             *        *             *             *      *    (ARGM-TMP*             *        *     -
+bn/ctv/01/ctv_0151   0   24      一    CD                    (LCP(QP*    -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   25     小时     M                      (CLP*))   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   26     之内    LC                          *))   -   -   -   -   *        *             *        *             *             *      *             *)            *        *     -
+bn/ctv/01/ctv_0151   0   27      就    AD                      (ADVP*)   -   -   2   -   *        *             *        *             *             *      *    (ARGM-ADV*)            *        *     -
+bn/ctv/01/ctv_0151   0   28     可以    VV                        (VP*    可以  -   1   -   *        *             *        *             *             *    (V*)            *             *        *     -
+bn/ctv/01/ctv_0151   0   29      从     P                     (VP(PP*    -   -   -   -   *        *             *        *             *             *      *        (ARG2*             *        *     -
+bn/ctv/01/ctv_0151   0   30     市区    NN                 (NP(DNP(NP*)   -   -   -   -   *        *             *        *             *             *      *             *             *        *    (3)
+bn/ctv/01/ctv_0151   0   31      的   DEG                           *)   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   32     南端    NN                      (NP*)))   -   -   -   -   *        *             *        *             *             *      *             *)            *        *     -
+bn/ctv/01/ctv_0151   0   33     来到    VV                        (VP*    来到  -   -   -   *        *             *        *             *             *      *           (V*)            *        *     -
+bn/ctv/01/ctv_0151   0   34     北端    NN                    (NP*)))))   -   -   -   -   *        *             *        *             *             *      *        (ARG1*)            *        *     -
+bn/ctv/01/ctv_0151   0   35      ，    PU                           *    -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   36    明珠线    AD                   (VP(ADVP*)   -   -   -   -   *        *             *        *             *             *      *             *    (ARGM-ADV*)       *    (1)
+bn/ctv/01/ctv_0151   0   37     成为    VV                        (VP*    成为  -   -   -   *        *             *        *             *             *      *             *           (V*)       *     -
+bn/ctv/01/ctv_0151   0   38     上海    NR            (NP(CP(IP(NP(NP*)   -   -   -   -   *        *             *        *             *             *      *             *        (ARG1*   (ARG0*    (3)
+bn/ctv/01/ctv_0151   0   39     市民    NN                       (NP*))   -   -   -   -   *        *             *        *             *             *      *             *             *        *)    -
+bn/ctv/01/ctv_0151   0   40     出行    VV                       (VP*))   出行  -   -   -   *        *             *        *             *             *      *             *             *      (V*)    -
+bn/ctv/01/ctv_0151   0   41      的   DEC                           *)   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   42      又    AD                   (QP(ADVP*)   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   43      一    CD                        (QP*    -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   44      条     M                     (CLP*)))   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+bn/ctv/01/ctv_0151   0   45     捷径    NN                   (NP*))))))   -   -   -   -   *        *             *        *             *             *      *             *             *)       *     -
+bn/ctv/01/ctv_0151   0   46      。    PU                          *))   -   -   -   -   *        *             *        *             *             *      *             *             *        *     -
+
+bn/ctv/01/ctv_0151   0    0     随着     P      (TOP(IP(PP*    -   -   -   -   *    (ARGM-ADV*      *   (ARGM-ADV*     -
+bn/ctv/01/ctv_0151   0    1    明珠线    NN      (NP(DNP(NP*)   -   -   -   -   *             *      *            *    (1)
+bn/ctv/01/ctv_0151   0    2      的   DEG                *)   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0    3     投入    NN             (NP*    -   -   2   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0    4     运行    NN              *)))   -   -   -   -   *             *)     *            *)    -
+bn/ctv/01/ctv_0151   0    5      ，    PU                *    -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0    6     上海    NR      (NP(DNP(NP*)   -   -   -   -   *        (ARG1*      *       (ARG0*    (3)
+bn/ctv/01/ctv_0151   0    7      的   DEG                *)   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0    8     轨道    NN             (NP*    -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0    9     交通    NN                *    -   -   1   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   10     里程    NN               *))   -   -   -   -   *             *)     *            *)    -
+bn/ctv/01/ctv_0151   0   11      将    AD     (VP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *            *     -
+bn/ctv/01/ctv_0151   0   12     增加    VV         (VP(VRD*    增加  -   1   -   *           (V*)     *            *     -
+bn/ctv/01/ctv_0151   0   13      到    VV                *)    到  -   3   -   *        (ARG2*)   (V*)           *     -
+bn/ctv/01/ctv_0151   0   14     ６５    CD         (LCP(QP*    -   -   -   -   *        (ARG2*      *            *     -
+bn/ctv/01/ctv_0151   0   15     公里     M           (CLP*))   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   16     左右    LC              *)))   -   -   1   -   *             *)     *            *     -
+bn/ctv/01/ctv_0151   0   17      ，    PU                *    -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   18     位居    VV             (VP*    位居  -   -   -   *             *      *          (V*)    -
+bn/ctv/01/ctv_0151   0   19     中国    NR   (NP(DNP(NP(NP*)   -   -   -   -   *             *      *       (ARG1*    (0)
+bn/ctv/01/ctv_0151   0   20     城市    NN             (NP*    -   -   1   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   21     轨道    NN                *)   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   22     交通    NN             (NP*    -   -   1   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   23     线路    NN                *)   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   24     长度    NN            (NP*))   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   25      之   DEG                *)   -   -   -   -   *             *      *            *     -
+bn/ctv/01/ctv_0151   0   26      首    NN          (NP*))))   -   -   -   -   *             *      *            *)    -
+bn/ctv/01/ctv_0151   0   27      。    PU               *))   -   -   -   -   *             *      *            *     -
+
+bn/ctv/01/ctv_0151   0   0    东方台   NR  (TOP(IP(NP(NP*    -   -   -   -   *   (ARG0*   -
+bn/ctv/01/ctv_0151   0   1      、   PU               *    -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0   2    上海台   NR               *)   -   -   -   -   *        *   -
+bn/ctv/01/ctv_0151   0   3     记者   NN           (NP*))   -   -   -   -   *        *)  -
+bn/ctv/01/ctv_0151   0   4     报道   VV            (VP*)   报道  -   -   -   *      (V*)  -
+bn/ctv/01/ctv_0151   0   5      。   PU              *))   -   -   -   -   *        *   -
+
+#end document

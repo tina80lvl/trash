@@ -1,0 +1,251 @@
+#begin document (bn/cts/01/cts_0122); part 000
+bn/cts/01/cts_0122   0    0      在     P  (TOP(IP(IP(PP*    -   -   2   -   *    (ARGM-LOC*   (ARGM-LOC*      *             *             *        -
+bn/cts/01/cts_0122   0    1    台北市    NR      (NP(NP(NP*)   -   -   -   -   *             *            *      *             *             *       (5)
+bn/cts/01/cts_0122   0    2     方面    NN           (NP*))   -   -   1   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0    3     市长    NN          (NP*)))   -   -   -   -   *             *)           *)     *             *             *       (6
+bn/cts/01/cts_0122   0    4    马英久    NR            (NP*)   -   -   -   -   *        (ARG0*)      (ARG0*)     *             *             *        6)
+bn/cts/01/cts_0122   0    5     昨天    NT      (VP(VP(NP*)   -   -   1   -   *    (ARGM-TMP*)           *      *             *             *       (3)
+bn/cts/01/cts_0122   0    6     继续    VV            (VP*    -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0    7     视查    VV            (VP*    视查  -   -   -   *           (V*)           *      *             *             *        -
+bn/cts/01/cts_0122   0    8     南港    NR  (NP(DNP(NP(NP*    -   -   -   -   *        (ARG1*            *      *             *             *    (0|(4
+bn/cts/01/cts_0122   0    9     内湖    NR               *)   -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   10     灾区    NN            (NP*)   -   -   -   -   *             *            *      *             *             *        0)
+bn/cts/01/cts_0122   0   11    中小学    NN            (NP*    -   -   -   -   *             *            *      *             *             *        4)
+bn/cts/01/cts_0122   0   12     复学    NN              *))   -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   13      的   DEG               *)   -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   14     状况    NN        (NP*)))))   -   -   -   -   *             *)           *      *             *             *        -
+bn/cts/01/cts_0122   0   15      ，    PU               *    -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   16     停课    VV            (VP*    停课  -   -   -   *             *          (V*)     *             *             *        -
+bn/cts/01/cts_0122   0   17      了    AS               *    -   -   -   -   *             *       (ARG1*)     *             *             *        -
+bn/cts/01/cts_0122   0   18      三    CD         (QP(QP*    -   -   -   -   *             *       (ARG1*      *             *             *        -
+bn/cts/01/cts_0122   0   19      天     M          (CLP*))   -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   20      半    CD        (QP*)))))   -   -   -   -   *             *            *)     *             *             *        -
+bn/cts/01/cts_0122   0   21      ，    PU               *    -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   22     今天    NT         (IP(NP*)   -   -   -   -   *             *            *      *    (ARGM-TMP*)   (ARGM-TMP*)      (2)
+bn/cts/01/cts_0122   0   23     灾区    NN         (NP(NP*)   -   -   -   -   *             *            *      *        (ARG0*        (ARG1*    (4|(0)
+bn/cts/01/cts_0122   0   24      各    DT            (DP*    -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   25      级     M          (CLP*))   -   -   -   -   *             *            *      *             *             *        -
+bn/cts/01/cts_0122   0   26     学校    NN           (NP*))   -   -   -   -   *             *            *      *             *)            *)       4)
+bn/cts/01/cts_0122   0   27      都    AD       (VP(ADVP*)   -   -   -   -   *             *            *      *    (ARGM-ADV*)   (ARGM-ADV*)       -
+bn/cts/01/cts_0122   0   28     可以    VV            (VP*    可以  -   1   -   *             *            *    (V*)   (ARGM-ADV*)            *        -
+bn/cts/01/cts_0122   0   29     恢复    VV         (VP(VP*    恢复  -   3   -   *             *            *      *           (V*)            *        -
+bn/cts/01/cts_0122   0   30     正常    NN           (NP*))   -   -   -   -   *             *            *      *        (ARG0*)            *        -
+bn/cts/01/cts_0122   0   31     上课    VV        (VP*)))))   上课  -   -   -   *             *            *      *             *           (V*)       -
+bn/cts/01/cts_0122   0   32      。    PU              *))   -   -   -   -   *             *            *      *             *             *        -
+
+bn/cts/01/cts_0122   0    0    马英久    NR       (TOP(IP(NP*)   -   -   -   -   *    (ARG0*)       (ARG0*)            *         *      *    (ARG0*)   (ARG0*)            *    (6)
+bn/cts/01/cts_0122   0    1     要求    VV              (VP*    要求  -   1   -   *       (V*)            *             *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0    2     学校    NN              (NP*)   -   -   -   -   *    (ARG1*)            *        (ARG1*)        *      *    (ARG1*)   (ARG1*)            *    (4)
+bn/cts/01/cts_0122   0    3     全面    AD   (IP(VP(VP(ADVP*)   -   -   -   -   *    (ARG2*    (ARGM-ADV*)            *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0    4     消毒    VV             (VP*))   消毒  -   -   -   *         *           (V*)            *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0    5      ，    PU                 *    -   -   -   -   *         *             *             *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0    6      也    AD         (VP(ADVP*)   -   -   -   -   *         *             *             *         *      *         *         *    (ARGM-DIS*)    -
+bn/cts/01/cts_0122   0    7     因为     P              (PP*    -   -   -   -   *         *             *             *         *      *         *         *    (ARGM-PRP*     -
+bn/cts/01/cts_0122   0    8    自来水    NN    (IP(NP(DNP(NP*)   -   -   -   -   *         *             *        (ARG1*    (ARG0*      *         *         *             *     -
+bn/cts/01/cts_0122   0    9      的   DEG                 *)   -   -   -   -   *         *             *             *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0   10     水质    NN             (NP*))   -   -   -   -   *         *             *             *)        *)     *         *         *             *     -
+bn/cts/01/cts_0122   0   11      还    AD      (VP(VP(ADVP*)   -   -   -   -   *         *             *    (ARGM-ADV*)        *      *         *         *             *     -
+bn/cts/01/cts_0122   0   12      不    AD            (ADVP*)   -   -   -   -   *         *             *    (ARGM-ADV*)        *      *         *         *             *     -
+bn/cts/01/cts_0122   0   13     稳定    VA             (VP*))   稳定  -   -   -   *         *             *           (V*)        *      *         *         *             *     -
+bn/cts/01/cts_0122   0   14      ，    PU                 *    -   -   -   -   *         *             *             *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0   15     提醒    VV              (VP*    提醒  -   -   -   *         *             *             *       (V*)     *         *         *             *     -
+bn/cts/01/cts_0122   0   16     学生    NN              (NP*)   -   -   -   -   *         *             *             *    (ARG1*)     *         *         *             *    (1)
+bn/cts/01/cts_0122   0   17      要    VV           (IP(VP*     要  -   3   -   *         *             *             *    (ARG2*    (V*)        *         *             *     -
+bn/cts/01/cts_0122   0   18     自备    VV          (VP(VCD*    自备  -   -   -   *         *             *             *         *      *       (V*)        *             *     -
+bn/cts/01/cts_0122   0   19     水壶    VV          *))))))))   水壶  -   -   -   *         *             *             *         *)     *         *       (V*)            *)    -
+bn/cts/01/cts_0122   0   20     确保    VV              (VP*    确保  -   -   -   *         *             *        (ARG1*         *      *         *    (ARG1*           (V*)    -
+bn/cts/01/cts_0122   0   21    饮用水    NN       (NP(DNP(NP*)   -   -   -   -   *         *             *             *         *      *         *         *        (ARG1*     -
+bn/cts/01/cts_0122   0   22      的   DEG                 *)   -   -   -   -   *         *             *             *         *      *         *         *             *     -
+bn/cts/01/cts_0122   0   23     安全    NN        (NP*)))))))   -   -   1   -   *         *)            *             *)        *      *         *         *)            *)    -
+bn/cts/01/cts_0122   0   24      。    PU                *))   -   -   -   -   *         *             *             *         *      *         *         *             *     -
+
+bn/cts/01/cts_0122   0    0     内湖    NR  (TOP(IP(IP(NP(NP*    -   -   -   -   *        (ARG0*        (ARG0*         *             *      *         *      *             *    (4
+bn/cts/01/cts_0122   0    1     南港    NR                  *)   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0    2     木嘉    NN               (NP*)   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0    3     灾区    NN            (NP(NP*)   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0    4      各    DT               (DP*    -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0    5      级     M             (CLP*))   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0    6      区    NN              (NP*))   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0    7     学校    NN              (NP*))   -   -   -   -   *             *)            *)        *             *      *         *      *             *     4)
+bn/cts/01/cts_0122   0    8    星期一    NT            (VP(NP*)   -   -   -   -   *    (ARGM-TMP*)   (ARGM-TMP*)        *             *      *         *      *             *    (2)
+bn/cts/01/cts_0122   0    9     全面    AD             (ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)        *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   10     恢复    VV           (VP(VCD*    恢复  -   3   -   *           (V*)   (ARGM-ADV*)        *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   11     上课    VV               *))))   上课  -   -   -   *        (ARG0*)          (V*)        *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   12      ，    PU                  *    -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   13     灾情    NN   (IP(NP(CP(IP(NP*)   -   -   -   -   *             *             *    (ARG0*)       (ARG0*      *    (ARG0*      *             *     -
+bn/cts/01/cts_0122   0   14     惨重    VA              (VP*))   惨重  -   -   -   *             *             *       (V*)            *      *         *      *             *     -
+bn/cts/01/cts_0122   0   15      的   DEC                  *)   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   16     内湖    NR               (NP*    -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   17     南湖    NR                  *    -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   18     国小    NN                  *)   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   19     淤沙    NR              (NP*))   -   -   -   -   *             *             *         *             *)     *         *)     *             *     -
+bn/cts/01/cts_0122   0   20     消除    VV        (VP(VP(VRD*    消除  -   -   -   *             *             *         *           (V*)     *         *      *             *     -
+bn/cts/01/cts_0122   0   21     完毕    VV                 *))   完毕  -   -   -   *             *             *         *    (ARGM-ADV*)   (V*)        *      *             *     -
+bn/cts/01/cts_0122   0   22      ，    PU                  *    -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   23     进行    VV               (VP*    进行  -   3   -   *             *             *         *             *      *       (V*)     *             *     -
+bn/cts/01/cts_0122   0   24      了    AS                  *    -   -   -   -   *             *             *         *             *      *    (ARG1*)     *             *     -
+bn/cts/01/cts_0122   0   25      两    CD            (NP(QP*    -   -   -   -   *             *             *         *             *      *    (ARG1*      *             *     -
+bn/cts/01/cts_0122   0   26      次     M             (CLP*))   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   27     消毒    NN           (NP*)))))   -   -   -   -   *             *             *         *             *      *         *)     *             *     -
+bn/cts/01/cts_0122   0   28      ，    PU                  *    -   -   -   -   *             *             *         *             *      *         *      *             *     -
+bn/cts/01/cts_0122   0   29     学童    NN            (IP(NP*)   -   -   -   -   *             *             *         *             *      *         *      *        (ARG0*)    -
+bn/cts/01/cts_0122   0   30     可以    VV               (VP*    可以  -   1   -   *             *             *         *             *      *         *    (V*)            *     -
+bn/cts/01/cts_0122   0   31     安心    AD          (VP(ADVP*)   -   -   -   -   *             *             *         *             *      *         *      *    (ARGM-ADV*)    -
+bn/cts/01/cts_0122   0   32     上学    VV            (VP*))))   上学  -   -   -   *             *             *         *             *      *         *      *           (V*)    -
+bn/cts/01/cts_0122   0   33      。    PU                 *))   -   -   -   -   *             *             *         *             *      *         *      *             *     -
+
+bn/cts/01/cts_0122   0    0      而    AD   (TOP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)            *         *             *      *    -
+bn/cts/01/cts_0122   0    1     另外    AD          (NP(ADVP*)   -   -   -   -   *        (ARG0*             *         *             *      *    -
+bn/cts/01/cts_0122   0    2     南港    NR        (NP(DNP(NP*)   -   -   -   -   *             *             *         *             *      *   (7
+bn/cts/01/cts_0122   0    3      的   DEG                  *)   -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0    4     陈正    NR               (NP*    -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0    5     国中    NN                *)))   -   -   -   -   *             *)            *         *             *      *    7)
+bn/cts/01/cts_0122   0    6      ，    PU                  *    -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0    7    地下室    NN               (NP*)   -   -   -   -   *        (ARG0*)            *         *             *      *    -
+bn/cts/01/cts_0122   0    8      还    AD          (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)            *         *             *      *    -
+bn/cts/01/cts_0122   0    9      有    VE               (VP*     有  -   4   -   *           (V*)            *         *             *      *    -
+bn/cts/01/cts_0122   0   10     大量    CD            (NP(QP*)   -   -   -   -   *        (ARG1*             *         *             *      *    -
+bn/cts/01/cts_0122   0   11     淤沙    NN           (NP*)))))   -   -   -   -   *             *)            *         *             *      *    -
+bn/cts/01/cts_0122   0   12      ，    PU                  *    -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   13      一    CD         (IP(NP(QP*    -   -   -   -   *             *        (ARG0*    (ARG0*             *      *   (3
+bn/cts/01/cts_0122   0   14      整    JJ         (CLP(ADJP*)   -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   15      天     M            (CLP*)))   -   -   -   -   *             *             *         *             *      *    3)
+bn/cts/01/cts_0122   0   16      全    DT            (NP(DP*)   -   -   2   -   *             *             *         *             *      *   (7
+bn/cts/01/cts_0122   0   17      校    NN              (NP*))   -   -   -   -   *             *             *         *             *      *    7)
+bn/cts/01/cts_0122   0   18     师生    NN              (NP*))   -   -   -   -   *             *             *)        *)            *      *    -
+bn/cts/01/cts_0122   0   19      都    AD       (VP(VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)        *             *      *    -
+bn/cts/01/cts_0122   0   20      在     P               (PP*    -   -   2   -   *             *    (ARGM-LOC*         *             *      *    -
+bn/cts/01/cts_0122   0   21     国军    NN    (LCP(NP(DNP(NP*)   -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   22      的   DEG                  *)   -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   23     协助    NN              (NP*))   -   -   2   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   24      下    LC                 *))   -   -   1   -   *             *             *)        *             *      *    -
+bn/cts/01/cts_0122   0   25     消除    VV               (VP*    消除  -   -   -   *             *           (V*)        *             *      *    -
+bn/cts/01/cts_0122   0   26     积水    NN             (NP*)))   -   -   -   -   *             *        (ARG1*)        *             *      *    -
+bn/cts/01/cts_0122   0   27      ，    PU                  *    -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   28     刷洗    VV               (VP*    刷洗  -   -   -   *             *             *       (V*)            *      *    -
+bn/cts/01/cts_0122   0   29    课桌椅    NN            (NP*))))   -   -   -   -   *             *             *    (ARG1*)            *      *    -
+bn/cts/01/cts_0122   0   30      ，    PU                  *    -   -   -   -   *             *             *         *             *      *    -
+bn/cts/01/cts_0122   0   31     天黑    NN            (IP(NP*)   -   -   -   -   *             *             *         *        (ARG0*)     *    -
+bn/cts/01/cts_0122   0   32     以前    NT            (VP(NP*)   -   -   -   -   *             *             *         *    (ARGM-TMP*)     *    -
+bn/cts/01/cts_0122   0   33      也    AD             (ADVP*)   -   -   -   -   *             *             *         *    (ARGM-ADV*)     *    -
+bn/cts/01/cts_0122   0   34     已经    AD             (ADVP*)   -   -   -   -   *             *             *         *    (ARGM-ADV*)     *    -
+bn/cts/01/cts_0122   0   35     清理    VV           (VP(VRD*    清理  -   -   -   *             *             *         *           (V*)     *    -
+bn/cts/01/cts_0122   0   36     完毕    VV               *))))   完毕  -   -   -   *             *             *         *    (ARGM-ADV*)   (V*)   -
+bn/cts/01/cts_0122   0   37      。    PU                 *))   -   -   -   -   *             *             *         *             *      *    -
+
+bn/cts/01/cts_0122   0    0      “    PU            (TOP(IP*    -   -   -   -   *             *        *      *     -
+bn/cts/01/cts_0122   0    1     我们    PN                (NP*)   -   -   -   -   *        (ARG0*)       *      *    (5)
+bn/cts/01/cts_0122   0    2     一定    AD           (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *      *     -
+bn/cts/01/cts_0122   0    3     要求    VV                (VP*    要求  -   1   -   *           (V*)       *      *     -
+bn/cts/01/cts_0122   0    4     学校    NN                (NP*)   -   -   -   -   *        (ARG1*)       *      *    (4)
+bn/cts/01/cts_0122   0    5      作    VV             (IP(VP*     作  -   3   -   *        (ARG2*      (V*)     *     -
+bn/cts/01/cts_0122   0    6     严格    VA   (NP(NP(CP(IP(VP*))   严格  -   -   -   *             *   (ARG1*    (V*)    -
+bn/cts/01/cts_0122   0    7      的   DEC                   *)   -   -   -   -   *             *        *      *     -
+bn/cts/01/cts_0122   0    8     检查    NN               (NP*))   -   -   -   -   *             *        *      *     -
+bn/cts/01/cts_0122   0    9      ，    PU                   *    -   -   -   -   *             *        *      *     -
+bn/cts/01/cts_0122   0   10      各    DT             (NP(DP*    -   -   -   -   *             *        *      *     -
+bn/cts/01/cts_0122   0   11      种     M              (CLP*))   -   -   -   -   *             *        *      *     -
+bn/cts/01/cts_0122   0   12    饮水器    NN          (NP*)))))))   -   -   -   -   *             *)       *)     *     -
+bn/cts/01/cts_0122   0   13      。    PU                  *))   -   -   -   -   *             *        *      *     -
+
+bn/cts/01/cts_0122   0    0     第一    OD       (TOP(IP(QP*    -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0    1      天     M            (CLP*))   -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0    2     的话    SP             (FLR*)   -   -   -   -   *      *             *         *    (ARGM-ADV*)            *    (ARGM-ADV*)     *    -
+bn/cts/01/cts_0122   0    3     可能    VV              (VP*    可能  -   -   -   *    (V*)            *         *             *             *    (ARGM-ADV*      *    -
+bn/cts/01/cts_0122   0    4      还    AD         (VP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)        *             *             *             *      *    -
+bn/cts/01/cts_0122   0    5     需要    VV              (VP*    需要  -   1   -   *      *           (V*)        *             *             *             *      *    -
+bn/cts/01/cts_0122   0    6    小朋友    NN           (IP(NP*    -   -   -   -   *      *        (ARG1*    (ARG0*        (ARG0*             *             *      *   (1
+bn/cts/01/cts_0122   0    7     自己    PN                 *)   -   -   -   -   *      *             *         *)            *)            *             *      *    1)
+bn/cts/01/cts_0122   0    8      带    VV           (VP(VP*     带  -   2   -   *      *             *       (V*)            *             *             *      *    -
+bn/cts/01/cts_0122   0    9      水    NN             (NP*))   -   -   -   -   *      *             *    (ARG1*)            *             *             *      *    -
+bn/cts/01/cts_0122   0   10      来    VV         (VP*))))))    来  -   1   -   *      *             *)        *           (V*)            *             *)     *    -
+bn/cts/01/cts_0122   0   11      ，    PU                 *    -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0   12     那么    AD         (PP(ADVP*)   -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0   13     因为     P              (PP*    -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0   14     外面    NN           (IP(NP*)   -   -   -   -   *      *             *         *             *        (ARG0*)            *      *    -
+bn/cts/01/cts_0122   0   15      还    AD         (VP(ADVP*)   -   -   -   -   *      *             *         *             *    (ARGM-ADV*)            *      *    -
+bn/cts/01/cts_0122   0   16      有    VE              (VP*     有  -   4   -   *      *             *         *             *           (V*)            *      *    -
+bn/cts/01/cts_0122   0   17     一些    CD           (NP(QP*)   -   -   -   -   *      *             *         *             *        (ARG1*        (ARG0*)     *    -
+bn/cts/01/cts_0122   0   18     没有    AD   (CP(IP(VP(ADVP*)   -   -   2   -   *      *             *         *             *             *    (ARGM-ADV*)     *    -
+bn/cts/01/cts_0122   0   19     整理    VV          (VP(VRD*    整理  -   -   -   *      *             *         *             *             *           (V*)     *    -
+bn/cts/01/cts_0122   0   20     干净    VA              *))))   干净  -   -   -   *      *             *         *             *             *        (ARG1*)   (V*)   -
+bn/cts/01/cts_0122   0   21      的   DEC                 *)   -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0   22     地方    NN        (NP*)))))))   -   -   5   -   *      *             *         *             *             *)            *      *    -
+bn/cts/01/cts_0122   0   23      。    PU                 *    -   -   -   -   *      *             *         *             *             *             *      *    -
+bn/cts/01/cts_0122   0   24      ”    PU                *))   -   -   -   -   *      *             *         *             *             *             *      *    -
+
+bn/cts/01/cts_0122   0    0       全    DT   (TOP(IP(IP(NP(DP*)    -   -   2   -   *             *       (ARG0*             *             *             *             *             *         *             *        *             *             *             *         *             *             *    (5
+bn/cts/01/cts_0122   0    1     台北市    NR                (NP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     5)
+bn/cts/01/cts_0122   0    2     废弃物    NN                (NP*     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    3      废土    NN                  *))    -   -   -   -   *             *            *)            *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    4      已经    AD    (VP(DVP(VP(ADVP*)    -   -   -   -   *    (ARGM-ADV*)  (ARGM-ADV*             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    5      清运    VV               (VP*))    清运  -   -   -   *           (V*)           *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    6       的   DEV                   *)    -   -   -   -   *             *            *)            *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    7     差不多    VV                (VP*    差不多  -   -   -   *    (ARGM-EXT*          (V*)            *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    8       了    AS                 *)))    -   -   -   -   *             *)      (ARG1*)            *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0    9       ，    PU                   *     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   10      市容    NN             (IP(NP*)    -   -   -   -   *             *            *        (ARG0*)            *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   11      逐渐    AD           (VP(ADVP*)    -   -   -   -   *             *            *    (ARGM-ADV*)            *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   12      恢复    VV              (VP*)))    恢复  -   1   -   *             *            *           (V*)            *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   13       ，    PU                   *     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   14      不过    AD           (IP(ADVP*)    -   -   -   -   *             *            *             *             *             *    (ARGM-DIS*)            *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   15       全    DT    (NP(CP(IP(NP(DP*)    -   -   2   -   *             *            *             *        (ARG0*        (ARG0*        (ARG0*             *         *             *        *             *             *             *         *             *             *    (5
+bn/cts/01/cts_0122   0   16       市    NN               (NP*))    -   -   1   -   *             *            *             *             *)            *)            *             *         *             *        *             *             *             *         *             *             *     5)
+bn/cts/01/cts_0122   0   17      唯一    AD           (VP(ADVP*)    -   -   -   -   *             *            *             *    (ARGM-ADV*)   (ARGM-ADV*)            *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   18       还    VV             (VP(VP*      还  -   -   -   *             *            *             *           (V*)            *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   19      积水    NN               (NP*))    -   -   -   -   *             *            *             *        (ARG1*)            *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   20      停电    VV             (VP*))))    停电  -   -   -   *             *            *             *             *           (V*)            *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   21       的   DEC                  *))    -   -   -   -   *             *            *             *             *             *             *)            *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   22       是    VC                (VP*      是  -   1   -   *             *            *             *             *             *           (V*)            *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   23      南港    NR             (NP(NP*     -   -   -   -   *             *            *             *             *             *        (ARG1*             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   24    研究院路    NR                   *)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   25       １    CD                (QP*     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   26       段     M              (CLP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   27       这    DT                (DP*     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   28       栋     M              (CLP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   29      大楼    NN             (NP*))))    -   -   -   -   *             *            *             *             *             *             *)            *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   30       ，    PU                   *     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   31     地下室    NN             (IP(NP*)    -   -   -   -   *             *            *             *             *             *             *        (ARG0*)        *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   32      目前    NT             (VP(NP*)    -   -   -   -   *             *            *             *             *             *             *    (ARGM-TMP*)        *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   33       还    AD              (ADVP*)    -   -   -   -   *             *            *             *             *             *             *    (ARGM-ADV*)        *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   34       有    VE                (VP*      有  -   4   -   *             *            *             *             *             *             *           (V*)        *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   35       两    CD          (NP(QP(QP*     -   -   -   -   *             *            *             *             *             *             *        (ARG1*         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   36       层     M              (CLP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   37       半    CD               (QP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   38      积水    NN            (NP*)))))    -   -   -   -   *             *            *             *             *             *             *             *)        *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   39       ，    PU                   *     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   40      市府    NN             (IP(NP*)    -   -   -   -   *             *            *             *             *             *             *             *    (ARG0*)       (ARG0*)       *             *             *             *         *             *             *    (5)
+bn/cts/01/cts_0122   0   41      出动    VV             (VP(VP*     出动  -   -   -   *             *            *             *             *             *             *             *       (V*)            *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   42       全    DT             (NP(DP*     -   -   2   -   *             *            *             *             *             *             *             *    (ARG1*             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   43       台     M              (CLP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   44       最    AD     (DNP(ADJP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   45      大型    JJ             (ADJP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   46       的   DEG                   *)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   47     发电机    NN                (NP*     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   48     抽水机    NN                 *)))    -   -   -   -   *             *            *             *             *             *             *             *         *)            *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   49      日夜    AD           (VP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *    (ARGM-ADV*)       *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   50      抽水    VV             (VP*))))    抽水  -   -   -   *             *            *             *             *             *             *             *         *           (V*)       *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   51       ，    PU                   *     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   52      预计    VV             (IP(VP*     预计  -   -   -   *             *            *             *             *             *             *             *         *             *      (V*)            *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   53       还    AD     (IP(VP(VP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *   (ARG1*    (ARGM-ADV*)            *             *         *             *             *     -
+bn/cts/01/cts_0122   0   54       要    VV                (VP*      要  -   5   -   *             *            *             *             *             *             *             *         *             *        *           (V*)            *             *         *             *             *     -
+bn/cts/01/cts_0122   0   55      ４３    CD             (NP(QP*     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *        (ARG1*             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   56       个     M              (CLP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   57      小时    NN             (NP*))))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *)            *             *         *             *             *     -
+bn/cts/01/cts_0122   0   58       才    AD           (VP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *    (ARGM-ADV*)        *             *             *     -
+bn/cts/01/cts_0122   0   59       能    VV                (VP*      能  -   1   -   *             *            *             *             *             *             *             *         *             *        *             *           (V*)            *         *             *             *     -
+bn/cts/01/cts_0122   0   60      抽干    VV          (VP*)))))))    抽干  -   -   -   *             *            *             *             *             *             *             *         *             *        *)            *    (ARGM-ADV*)          (V*)        *             *             *     -
+bn/cts/01/cts_0122   0   61       ，    PU                   *     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   62       而    AD           (IP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *    (ARGM-DIS*)   (ARGM-DIS*)    -
+bn/cts/01/cts_0122   0   63      恢复    VV             (IP(VP*     恢复  -   1   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *       (V*)       (ARG0*    (ARGM-ADV*     -
+bn/cts/01/cts_0122   0   64      供电    NN              (NP*)))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *    (ARG0*)            *)            *)    -
+bn/cts/01/cts_0122   0   65       最    AD        (VP(VP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *    (ARGM-ADV*)            *     -
+bn/cts/01/cts_0122   0   66       快    VA               (VP*))     快  -   1   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *           (V*)            *     -
+bn/cts/01/cts_0122   0   67       还    AD           (VP(ADVP*)    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *    (ARGM-ADV*)    -
+bn/cts/01/cts_0122   0   68       要    VV                (VP*      要  -   5   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *           (V*)    -
+bn/cts/01/cts_0122   0   69      ２５    CD             (NP(QP*     -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *        (ARG1*     -
+bn/cts/01/cts_0122   0   70       个     M              (CLP*))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+bn/cts/01/cts_0122   0   71      小时    NN           (NP*))))))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *)    -
+bn/cts/01/cts_0122   0   72       。    PU                  *))    -   -   -   -   *             *            *             *             *             *             *             *         *             *        *             *             *             *         *             *             *     -
+
+#end document

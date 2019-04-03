@@ -1,0 +1,148 @@
+#begin document (bn/cbs/00/cbs_0043); part 000
+bn/cbs/00/cbs_0043   0    0    恢复    VV  (TOP(IP(NP(CP(IP(VP*    -   -   1   -   *   (ARG0*   -
+bn/cbs/00/cbs_0043   0    1    服务    NN                (NP*)))   -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0    2     的   DEC                     *)   -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0    3    航班    NN                 (NP*))   -   -   -   -   *        *)  -
+bn/cbs/00/cbs_0043   0    4    包括    VV                  (VP*    包括  -   -   -   *      (V*)  -
+bn/cbs/00/cbs_0043   0    5    香港    NR               (NP(NP*    -   -   -   -   *   (ARG1*   -
+bn/cbs/00/cbs_0043   0    6     至    CC                     *    -   -   1   -   *        *   -
+bn/cbs/00/cbs_0043   0    7    台北    NR                     *)   -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0    8     ，    PU                     *    -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0    9    以及    CC                     *    -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0   10    台北    NR               (NP(NP*    -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0   11     到    CC                     *    -   -   7   -   *        *   -
+bn/cbs/00/cbs_0043   0   12    香港    NR                     *)   -   -   -   -   *        *   -
+bn/cbs/00/cbs_0043   0   13    航班    NN               (NP*))))   -   -   -   -   *        *)  -
+bn/cbs/00/cbs_0043   0   14     。    PU                    *))   -   -   -   -   *        *   -
+
+bn/cbs/00/cbs_0043   0    0    发言人    NN    (TOP(IP(NP*)   -   -   -   -   *        (ARG0*)       *        (ARG0*)            *            *     -
+bn/cbs/00/cbs_0043   0    1      又    AD      (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *    (ARGM-ADV*)            *            *     -
+bn/cbs/00/cbs_0043   0    2      说    VV           (VP*     说  -   7   -   *           (V*)       *             *             *            *     -
+bn/cbs/00/cbs_0043   0    3     由于     P        (IP(PP*    -   -   -   -   *        (ARG1*        *    (ARGM-PRP*             *            *     -
+bn/cbs/00/cbs_0043   0    4     台北    NR     (IP(NP(NP*)   -   -   -   -   *             *   (ARG0*             *             *            *    (5)
+bn/cbs/00/cbs_0043   0    5     天气    NN          (NP*))   -   -   -   -   *             *        *)            *             *            *     -
+bn/cbs/00/cbs_0043   0    6     好转    VV         (VP*)))   好转  -   -   -   *             *      (V*)            *)            *            *     -
+bn/cbs/00/cbs_0043   0    7     希望    VV           (VP*    希望  -   1   -   *             *        *           (V*)            *            *     -
+bn/cbs/00/cbs_0043   0    8     明天    NT     (IP(VP(NP*)   -   -   -   -   *             *        *        (ARG1*    (ARGM-TMP*)           *     -
+bn/cbs/00/cbs_0043   0    9     恢复    VV           (VP*    恢复  -   3   -   *             *        *             *           (V*)           *     -
+bn/cbs/00/cbs_0043   0   10     所有    DT        (NP(DP*)   -   -   -   -   *             *        *             *        (ARG1*            *     -
+bn/cbs/00/cbs_0043   0   11     １８    CD  (CP(IP(VP(QP*    -   -   -   -   *             *        *             *             *   (ARGM-ADV*     -
+bn/cbs/00/cbs_0043   0   12      班     M         (CLP*))   -   -   -   -   *             *        *             *             *            *)    -
+bn/cbs/00/cbs_0043   0   13     往返    VV           (VP*    往返  -   -   -   *             *        *             *             *          (V*)    -
+bn/cbs/00/cbs_0043   0   14     香港    NR           (NP*    -   -   -   -   *             *        *             *             *       (ARG1*     -
+bn/cbs/00/cbs_0043   0   15      与    CC              *    -   -   -   -   *             *        *             *             *            *     -
+bn/cbs/00/cbs_0043   0   16     台北    NR           *))))   -   -   -   -   *             *        *             *             *            *)    -
+bn/cbs/00/cbs_0043   0   17      的   DEC              *)   -   -   -   -   *             *        *             *             *            *     -
+bn/cbs/00/cbs_0043   0   18     航班    NN   (NP*)))))))))   -   -   -   -   *             *)       *             *)            *)           *     -
+bn/cbs/00/cbs_0043   0   19      。    PU             *))   -   -   -   -   *             *        *             *             *            *     -
+
+bn/cbs/00/cbs_0043   0    0     另外    AD     (TOP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)        *    (ARGM-DIS*)        *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0043   0    1     香港    NR              (NP*    -   -   -   -   *        (ARG0*         *        (ARG0*         *        (ARG0*    (3
+bn/cbs/00/cbs_0043   0    2     机场    NN                 *    -   -   -   -   *             *         *             *         *             *     3)
+bn/cbs/00/cbs_0043   0    3    管理局    NN                 *)   -   -   -   -   *             *)        *             *)        *             *)    -
+bn/cbs/00/cbs_0043   0    4      也    AD         (VP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)        *    (ARGM-DIS*)        *    (ARGM-DIS*)    -
+bn/cbs/00/cbs_0043   0    5     宣布    VV              (VP*    宣布  -   -   -   *           (V*)        *             *         *             *     -
+bn/cbs/00/cbs_0043   0    6      到     P        (IP(IP(PP*    -   -   5   -   *        (ARG1*         *    (ARGM-TMP*         *             *     -
+bn/cbs/00/cbs_0043   0    7     下午    NT          (LCP(NP*    -   -   -   -   *             *         *             *         *             *     -
+bn/cbs/00/cbs_0043   0    8     ５点    NT                 *)   -   -   -   -   *             *         *             *         *             *     -
+bn/cbs/00/cbs_0043   0    9     为止    LC                *))   -   -   -   -   *             *         *             *)        *             *     -
+bn/cbs/00/cbs_0043   0   10      ，    PU                 *    -   -   -   -   *             *         *             *         *             *     -
+bn/cbs/00/cbs_0043   0   11     香港    NR           (NP(NP*)   -   -   -   -   *             *    (ARG0*)       (ARG0*         *             *    (6)
+bn/cbs/00/cbs_0043   0   12     飞往    VV        (CP(IP(VP*    飞往  -   -   -   *             *       (V*)            *         *             *     -
+bn/cbs/00/cbs_0043   0   13     台北    NR            (NP*)))   -   -   -   -   *             *    (ARG1*)            *         *             *    (5)
+bn/cbs/00/cbs_0043   0   14      的   DEC                 *)   -   -   -   -   *             *         *             *         *             *     -
+bn/cbs/00/cbs_0043   0   15     班机    NN             (NP*))   -   -   -   -   *             *         *             *)        *             *    (4)
+bn/cbs/00/cbs_0043   0   16      有    VE              (VP*     有  -   2   -   *             *         *           (V*)        *             *     -
+bn/cbs/00/cbs_0043   0   17      ６    CD              (QP*    -   -   -   -   *             *         *        (ARG1*         *             *     -
+bn/cbs/00/cbs_0043   0   18      班     M          (CLP*))))   -   -   -   -   *             *         *             *)        *             *     -
+bn/cbs/00/cbs_0043   0   19      ，    PU                 *    -   -   -   -   *             *         *             *         *             *     -
+bn/cbs/00/cbs_0043   0   20     飞往    VV  (IP(NP(CP(IP(VP*    飞往  -   -   -   *             *         *             *       (V*)       (ARG0*     -
+bn/cbs/00/cbs_0043   0   21     高雄    NR            (NP*)))   -   -   -   -   *             *         *             *    (ARG1*)            *     -
+bn/cbs/00/cbs_0043   0   22      的   DEC                *))   -   -   -   -   *             *         *             *         *             *)    -
+bn/cbs/00/cbs_0043   0   23      有    VE              (VP*     有  -   2   -   *             *         *             *         *           (V*)    -
+bn/cbs/00/cbs_0043   0   24      １    CD              (QP*    -   -   -   -   *             *         *             *         *        (ARG1*     -
+bn/cbs/00/cbs_0043   0   25      班     M       (CLP*)))))))   -   -   -   -   *             *)        *             *         *             *)    -
+bn/cbs/00/cbs_0043   0   26      。    PU                *))   -   -   -   -   *             *         *             *         *             *     -
+
+bn/cbs/00/cbs_0043   0    0    台北    NR   (TOP(IP(IP(NP(NP*)   -   -   -   -   *       (ARG1*             *        *         *             *    (1|(5)
+bn/cbs/00/cbs_0043   0    1    桃园    NR                (NP*    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0    2    中正    NR                   *    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0    3    机场    NN                  *))   -   -   -   -   *            *)            *        *         *             *        1)
+bn/cbs/00/cbs_0043   0    4    昨天    NT             (VP(NP*    -   -   1   -   *   (ARGM-TMP*             *        *         *             *        -
+bn/cbs/00/cbs_0043   0    5    晚上    NT                   *)   -   -   -   -   *            *)            *        *         *             *        -
+bn/cbs/00/cbs_0043   0    6    发生    VV                (VP*    发生  -   1   -   *          (V*)            *        *         *             *        -
+bn/cbs/00/cbs_0043   0    7    空难    NN         (NP(DNP(NP*)   -   -   -   -   *       (ARG0*             *        *         *             *       (0)
+bn/cbs/00/cbs_0043   0    8     的   DEG                   *)   -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0    9    意外    NN            (NP*)))))   -   -   -   -   *            *)            *        *         *             *        -
+bn/cbs/00/cbs_0043   0   10     ，    PU                   *    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   11    中正    NR          (IP(IP(NP*    -   -   -   -   *            *        (ARG1*   (ARG0*         *             *       (1
+bn/cbs/00/cbs_0043   0   12    机场    NN                   *)   -   -   -   -   *            *             *)       *         *             *        1)
+bn/cbs/00/cbs_0043   0   13    今天    NT             (VP(NP*)   -   -   -   -   *            *    (ARGM-TMP*)       *         *             *        -
+bn/cbs/00/cbs_0043   0   14    封闭    VV              (VP*)))   封闭  -   -   -   *            *           (V*)       *)        *             *        -
+bn/cbs/00/cbs_0043   0   15     ，    PU                   *    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   16    加上    VV                (VP*    加上  -   -   -   *            *        (ARG1*      (V*)        *             *        -
+bn/cbs/00/cbs_0043   0   17    台湾    NR          (IP(IP(NP*)   -   -   -   -   *            *             *   (ARG1*    (ARG0*)            *        -
+bn/cbs/00/cbs_0043   0   18    天气    NN                (NP*)   -   -   -   -   *            *             *        *    (ARG0*)            *        -
+bn/cbs/00/cbs_0043   0   19    恶劣    VA               (VP*))   恶劣  -   -   -   *            *             *        *       (V*)            *        -
+bn/cbs/00/cbs_0043   0   20     ，    PU                   *    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   21    今天    NT             (IP(NP*    -   -   -   -   *            *             *        *         *    (ARGM-TMP*        -
+bn/cbs/00/cbs_0043   0   22    上午    NT                   *)   -   -   1   -   *            *             *        *         *             *)       -
+bn/cbs/00/cbs_0043   0   23    香港    NR       (NP(NP(NP(NP*)   -   -   -   -   *            *             *        *         *        (ARG0*       (6)
+bn/cbs/00/cbs_0043   0   24    往返    NN               (NP*))   -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   25    台北    NR               (NP*))   -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   26     、    PU                   *    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   27    高雄    NR         (NP(DNP(NP*)   -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   28     的   DEG                   *)   -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   29    航班    NN                (NP*    -   -   -   -   *            *             *        *         *             *        -
+bn/cbs/00/cbs_0043   0   30    服务    NN                 *)))   -   -   -   -   *            *             *        *         *             *)       -
+bn/cbs/00/cbs_0043   0   31    全部    AD           (VP(ADVP*)   -   -   -   -   *            *             *        *         *    (ARGM-ADV*)       -
+bn/cbs/00/cbs_0043   0   32    停顿    VV              (VP*)))   停顿  -   -   -   *            *             *        *         *           (V*)       -
+bn/cbs/00/cbs_0043   0   33     。    PU               *)))))   -   -   -   -   *            *             *)       *)        *             *        -
+
+bn/cbs/00/cbs_0043   0    0       除了     P     (TOP(IP(PP*    -   -   -   -   *    (ARGM-ADV*)       *    (ARGM-ADV*)       *    (ARGM-ADV*)            *            *    (ARGM-ADV*         *     -
+bn/cbs/00/cbs_0043   0    1       导致    VV         (IP(VP*    导致  -   -   -   *           (V*)       *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0    2       大批    CD   (IP(IP(NP(QP*)   -   -   -   -   *        (ARG1*   (ARG0*             *        *        (ARG0*             *            *             *         *    (2
+bn/cbs/00/cbs_0043   0    3       旅客    NN           (NP*))   -   -   -   -   *             *        *)            *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0    4       包括    VV            (VP*    包括  -   -   -   *             *      (V*)            *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0    5       许多    CD         (NP(QP*)   -   -   -   -   *             *   (ARG1*             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0    6       准备    VV      (CP(IP(VP*    准备  -   2   -   *             *        *           (V*)       *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0    7       前往    VV         (IP(VP*    前往  -   -   -   *             *        *        (ARG1*      (V*)            *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0    8       台北    NR         (NP(NP*    -   -   -   -   *             *        *             *   (ARG1*             *             *            *             *         *    (5)
+bn/cbs/00/cbs_0043   0    9       采访    NN               *)   -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   10       空难    NN       (NP*))))))   -   -   -   -   *             *        *             *)       *)            *             *            *             *         *    (0)
+bn/cbs/00/cbs_0043   0   11        的   DEC               *)   -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   12       新闻    NN            (NP*    -   -   -   -   *             *        *             *        *             *             *            *             *         *     2)
+bn/cbs/00/cbs_0043   0   13       记者    NN            *))))   -   -   -   -   *             *        *)            *        *             *)            *            *             *         *     -
+bn/cbs/00/cbs_0043   0   14       滞留    VV            (VP*    滞留  -   -   -   *             *        *             *        *           (V*)            *            *             *         *     -
+bn/cbs/00/cbs_0043   0   15        在     P            (PP*    -   -   2   -   *             *        *             *        *        (ARG1*             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   16       香港    NR            (NP*    -   -   -   -   *             *        *             *        *             *             *            *             *         *    (3
+bn/cbs/00/cbs_0043   0   17       机场    NN         *)))))))   -   -   -   -   *             *)       *             *        *             *)            *            *             *)        *     3)
+bn/cbs/00/cbs_0043   0   18        ，    PU               *    -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   19        直    AD       (PP(ADVP*)   -   -   1   -   *             *        *             *        *             *             *            *    (ARGM-TMP*         *     -
+bn/cbs/00/cbs_0043   0   20        到     P            (PP*    -   -   5   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   21       下午    NT         (IP(NP*)   -   -   -   -   *             *        *             *        *             *    (ARGM-TMP*)           *             *         *     -
+bn/cbs/00/cbs_0043   0   22    ２：１７分    CD         (NP(QP*)   -   -   -   -   *             *        *             *        *             *        (ARG0*            *             *         *     -
+bn/cbs/00/cbs_0043   0   23       日本    NR            (NP*    -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   24      亚细亚    NR               *    -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   25       航空    NN               *    -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   26       公司    NN              *))   -   -   1   -   *             *        *             *        *             *             *)           *             *         *     -
+bn/cbs/00/cbs_0043   0   27       开出    VV            (VP*    开出  -   -   -   *             *        *             *        *             *           (V*)           *             *         *     -
+bn/cbs/00/cbs_0043   0   28       第一    OD         (NP(QP*    -   -   -   -   *             *        *             *        *             *        (ARG1*            *             *         *     -
+bn/cbs/00/cbs_0043   0   29        班     M          (CLP*))   -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   30        离     P   (CP(IP(VP(PP*    -   -   2   -   *             *        *             *        *             *             *   (ARGM-DIR*             *         *     -
+bn/cbs/00/cbs_0043   0   31        港    NR           (NP*))   -   -   -   -   *             *        *             *        *             *             *            *)            *         *    (6)
+bn/cbs/00/cbs_0043   0   32        到    VV            (VP*     到  -   2   -   *             *        *             *        *             *             *          (V*)            *         *     -
+bn/cbs/00/cbs_0043   0   33       台北    NR         (NP*))))   -   -   -   -   *             *        *             *        *             *             *       (ARG1*)            *         *    (5)
+bn/cbs/00/cbs_0043   0   34        的   DEC               *)   -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   35       班机    NN       (NP*))))))   -   -   -   -   *             *        *             *        *             *             *)           *             *)        *    (4)
+bn/cbs/00/cbs_0043   0   36        才    AD       (VP(ADVP*)   -   -   -   -   *             *        *             *        *        (ARG1*             *            *    (ARGM-ADV*)        *     -
+bn/cbs/00/cbs_0043   0   37       疏导    VV            (VP*    疏导  -   -   -   *             *        *             *        *             *             *            *           (V*)        *     -
+bn/cbs/00/cbs_0043   0   38        了    AS               *    -   -   -   -   *             *        *             *        *             *             *            *        (ARG1*)   (ARG1*)    -
+bn/cbs/00/cbs_0043   0   39       滞留    VV   (NP(CP(IP(VP*    滞留  -   -   -   *             *        *             *        *             *             *            *        (ARG1*       (V*)   (2
+bn/cbs/00/cbs_0043   0   40        在     P            (PP*    -   -   2   -   *             *        *             *        *             *             *            *             *    (ARG1*     -
+bn/cbs/00/cbs_0043   0   41       机场    NN         (NP*))))   -   -   -   -   *             *        *             *        *             *             *            *             *         *)   (3)
+bn/cbs/00/cbs_0043   0   42        的   DEC               *)   -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+bn/cbs/00/cbs_0043   0   43       旅客    NN         (NP*))))   -   -   -   -   *             *        *             *        *             *)            *            *             *)        *     2)
+bn/cbs/00/cbs_0043   0   44        。    PU              *))   -   -   -   -   *             *        *             *        *             *             *            *             *         *     -
+
+#end document

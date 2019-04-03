@@ -1,0 +1,242 @@
+#begin document (bn/cbs/01/cbs_0137); part 000
+bn/cbs/01/cbs_0137   0    0     这里    PN   (TOP(IP(IP(NP*)  -    -   -   -       *    (ARG0*)            *             *             *     -
+bn/cbs/01/cbs_0137   0    1      是    VC             (VP*   -   01   1   -       *       (V*)            *             *             *     -
+bn/cbs/01/cbs_0137   0    2      《    PU             (NP*   -    -   -   -       *    (ARG1*             *             *             *    (4
+bn/cbs/01/cbs_0137   0    3    ｃｂｓ    NR             (NP*)  -    -   -   -   (ORG*         *             *             *             *    (5)
+bn/cbs/01/cbs_0137   0    4     台北    NR             (NP*)  -    -   -   -       *         *             *             *             *    (3)
+bn/cbs/01/cbs_0137   0    5     国际    NN         (DNP(NP*)  -    -   -   -       *         *             *             *             *     -
+bn/cbs/01/cbs_0137   0    6      之   DEG                *)  -    -   -   -       *         *             *             *             *     -
+bn/cbs/01/cbs_0137   0    7      声    NN             (NP*)  -    -   -   -       *)        *             *             *             *     -
+bn/cbs/01/cbs_0137   0    8      》    PU              *)))  -    -   -   -       *         *)            *             *             *     4)
+bn/cbs/01/cbs_0137   0    9      ，    PU                *   -    -   -   -       *         *             *             *             *     -
+bn/cbs/01/cbs_0137   0   10     稍后    AD     (IP(VP(ADVP*)  -    -   -   -       *         *    (ARGM-TMP*)   (ARGM-ADV*)   (ARGM-TMP*)    -
+bn/cbs/01/cbs_0137   0   11      请    VV             (VP*   -   01   -   -       *         *           (V*)            *             *     -
+bn/cbs/01/cbs_0137   0   12     继续    VV             (VP*   -   01   -   -       *         *        (ARG2*           (V*)            *     -
+bn/cbs/01/cbs_0137   0   13     收听    VV             (VP*   -   01   -   -       *         *             *        (ARG1*           (V*)    -
+bn/cbs/01/cbs_0137   0   14     新闻    NN        (NP*))))))  -    -   -   -       *         *             *)            *)       (ARG1*)    -
+bn/cbs/01/cbs_0137   0   15      。    PU               *))  -    -   -   -       *         *             *             *             *     -
+
+bn/cbs/01/cbs_0137   0   0      《   PU  (TOP(IP(NP(NP*   -   -   -   -       *    (4
+bn/cbs/01/cbs_0137   0   1    ｃｂｓ   NR            (NP*)  -   -   -   -   (ORG*    (5)
+bn/cbs/01/cbs_0137   0   2     台北   NR            (NP*)  -   -   -   -       *    (3)
+bn/cbs/01/cbs_0137   0   3     国际   NN            (NP*   -   -   -   -       *     -
+bn/cbs/01/cbs_0137   0   4     之声   NN               *)  -   -   -   -       *)    -
+bn/cbs/01/cbs_0137   0   5      》   PU               *)  -   -   -   -       *     4)
+bn/cbs/01/cbs_0137   0   6      ，   PU               *   -   -   -   -       *     -
+bn/cbs/01/cbs_0137   0   7     新闻   NN            (NP*   -   -   -   -       *     -
+bn/cbs/01/cbs_0137   0   8    广播网   NN              *))  -   -   -   -       *     -
+bn/cbs/01/cbs_0137   0   9      。   PU              *))  -   -   -   -       *     -
+
+bn/cbs/01/cbs_0137   0    0     欢迎    VV     (TOP(IP(VP(VP*   -   01   -   -        *      (V*)       *         *             *   -
+bn/cbs/01/cbs_0137   0    1     继续    VV            (IP(VP*   -   01   -   -        *   (ARG2*      (V*)        *             *   -
+bn/cbs/01/cbs_0137   0    2     收听    VV               (VP*   -   01   -   -        *        *   (ARG1*       (V*)            *   -
+bn/cbs/01/cbs_0137   0    3     新闻    NN           (NP*)))))  -    -   -   -        *        *)       *)   (ARG1*)            *   -
+bn/cbs/01/cbs_0137   0    4      ，    PU                  *   -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0    5     首先    AD          (VP(ADVP*)  -    -   -   -        *        *        *         *    (ARGM-ADV*)  -
+bn/cbs/01/cbs_0137   0    6      为     P               (PP*   -    -   4   -        *        *        *         *    (ARGM-BNF*   -
+bn/cbs/01/cbs_0137   0    7      您    PN              (NP*))  -    -   -   -        *        *        *         *             *)  -
+bn/cbs/01/cbs_0137   0    8      道    VV               (VP*   -   01   1   -        *        *        *         *           (V*)  -
+bn/cbs/01/cbs_0137   0    9    １２月    NT  (NP(NP(DNP(NP(NP*   -    -   -   -   (DATE*        *        *         *        (ARG1*   -
+bn/cbs/01/cbs_0137   0   10    １６号    NT                  *)  -    -   -   -        *)       *        *         *             *   -
+bn/cbs/01/cbs_0137   0   11     世界    NN               (NP*   -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   12     各地    NN                  *)  -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   13     主要    JJ             (ADJP*)  -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   14     报纸    NN              (NP*))  -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   15      的   DEG                  *)  -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   16      头    DT               (DP*   -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   17      条     M             (CLP*))  -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   18     新闻    NN              (NP*))  -    -   -   -        *        *        *         *             *   -
+bn/cbs/01/cbs_0137   0   19     标题    NN           (NP*)))))  -    -   -   -        *        *        *         *             *)  -
+bn/cbs/01/cbs_0137   0   20      。    PU                 *))  -    -   -   -        *        *        *         *             *   -
+
+bn/cbs/01/cbs_0137   0    0    巴拉圭    NR              (TOP(IP(NP(NP*)  -    -   -   -      (GPE)        *    (ARGM-TPC*         *      *             *    (1)
+bn/cbs/01/cbs_0137   0    1      《    PU                        (NP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0    2    新闻报    NR                           *   -    -   -   -      (ORG)        *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0    3      》    PU                          *))  -    -   -   -         *         *             *)        *      *             *     -
+bn/cbs/01/cbs_0137   0    4      ：    PU                           *   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0    5    巴拉圭    NR                     (NP(NP*)  -    -   -   -      (GPE)        *        (ARG0*         *      *             *    (1)
+bn/cbs/01/cbs_0137   0    6     参加    VV               (CP(CP(IP(VP*   -   01   -   -         *       (V*)            *         *      *             *     -
+bn/cbs/01/cbs_0137   0    7     南方    NN                  (NP(NP(NP*)  -    -   -   -   (EVENT*    (ARG1*             *         *      *             *     -
+bn/cbs/01/cbs_0137   0    8     共同    JJ                      (ADJP*)  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0    9     市场    NN                       (NP*))  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   10     高峰    NN                        (NP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   11     会议    NN                        *))))  -    -   -   -         *)        *)            *         *      *             *     -
+bn/cbs/01/cbs_0137   0   12      的   DEC                          *))  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   13    代表团    NN                       (NP*))  -    -   -   -         *    (ARG0*)            *)        *      *             *     -
+bn/cbs/01/cbs_0137   0   14     没有    AD                   (VP(ADVP*)  -    -   2   -         *         *    (ARGM-ADV*)        *      *             *     -
+bn/cbs/01/cbs_0137   0   15     获得    VV                        (VP*   -   01   -   -         *         *           (V*)        *      *             *     -
+bn/cbs/01/cbs_0137   0   16     预期    JJ                   (NP(ADJP*)  -    -   -   -         *         *        (ARG1*         *      *             *     -
+bn/cbs/01/cbs_0137   0   17     成果    NN                     (NP*))))  -    -   -   -         *         *             *)        *      *             *     -
+bn/cbs/01/cbs_0137   0   18      ，    PU                           *   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   19     因为     P                        (PP*   -    -   -   -         *         *    (ARGM-PRP*         *      *             *     -
+bn/cbs/01/cbs_0137   0   20     关系    VV  (IP(NP(NP(CP(CP(IP(VP(VRD*   -   01   1   -         *         *             *       (V*)     *        (ARG0*     -
+bn/cbs/01/cbs_0137   0   21      到    VV                           *)  -   01   4   -         *         *             *         *    (V*)            *     -
+bn/cbs/01/cbs_0137   0   22    巴拉圭    NR                     (NP(NP*)  -    -   -   -      (GPE)        *             *    (ARG1*      *             *    (1)
+bn/cbs/01/cbs_0137   0   23     国家    NN                        (NP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   24     利益    NN                        *))))  -    -   -   -         *         *             *         *)     *             *     -
+bn/cbs/01/cbs_0137   0   25      的   DEC                          *))  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   26     基本    JJ                      (ADJP*)  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   27     议题    NN                       (NP*))  -    -   -   -         *         *             *    (ARG0*)     *             *     -
+bn/cbs/01/cbs_0137   0   28      ，    PU                           *   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   29      象     P                    (PRN(PP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   30     加工    NN                  (NP(NP(NP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   31     出口    NN                           *   -    -   1   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   32      区    NN                           *)  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   33      、    PU                           *   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   34     汽车    NN                        (NP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   35     进口    NN                           *)  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   36      、    PU                           *   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   37     关税    NN                        (NP*   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   38     障碍    NN                           *)  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   39      和    CC                           *   -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   40    自由区    NN                        (NP*)  -    -   -   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   41      等   ETC                           *)  -    -   2   -         *         *             *         *      *             *     -
+bn/cbs/01/cbs_0137   0   42     规范    NN                    (NP*)))))  -    -   -   -         *         *             *         *      *             *)    -
+bn/cbs/01/cbs_0137   0   43      都    AD                   (VP(ADVP*)  -    -   -   -         *         *             *         *      *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0137   0   44     没有    AD                      (ADVP*)  -    -   2   -         *         *             *         *      *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0137   0   45     获得    VV                        (VP*   -   01   -   -         *         *             *         *      *           (V*)    -
+bn/cbs/01/cbs_0137   0   46     解决    NN                    (NP*)))))  -    -   -   -         *         *             *)        *      *        (ARG1*)    -
+bn/cbs/01/cbs_0137   0   47      。    PU                          *))  -    -   -   -         *         *             *         *      *             *     -
+
+bn/cbs/01/cbs_0137   0    0     日本   NR   (TOP(IP(NP(NP*)  -    -   -   -      (GPE)   (ARGM-TPC*   -
+bn/cbs/01/cbs_0137   0    1      《   PU             (NP*   -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0    2     独卖   JJ           (ADJP*)  -    -   -   -     (ORG*             *   -
+bn/cbs/01/cbs_0137   0    3     新闻   NN             (NP*   -    -   -   -         *)            *   -
+bn/cbs/01/cbs_0137   0    4      》   PU                *)  -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0    5      ：   PU               *))  -    -   -   -         *             *)  -
+bn/cbs/01/cbs_0137   0    6     日本   NR          (NP(NP*   -    -   -   -     (ORG*        (ARG0*   -
+bn/cbs/01/cbs_0137   0    7     电报   NN                *   -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0    8     电话   NN                *   -    -   1   -         *             *   -
+bn/cbs/01/cbs_0137   0    9     公司   NN                *)  -    -   -   -         *)            *   -
+bn/cbs/01/cbs_0137   0   10      东   NN       (NP(NP(NP*)  -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0   11     日本   NR            (NP*))  -    -   -   -      (GPE)            *   -
+bn/cbs/01/cbs_0137   0   12      和   CC                *   -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0   13      西   NN          (NP(NP*)  -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0   14     日本   NR          (NP*))))  -    -   -   -      (GPE)            *)  -
+bn/cbs/01/cbs_0137   0   15      将   AD        (VP(ADVP*)  -    -   -   -         *    (ARGM-ADV*)  -
+bn/cbs/01/cbs_0137   0   16      从    P             (PP*   -    -   -   -         *    (ARGM-TMP*   -
+bn/cbs/01/cbs_0137   0   17     明年   NT         (LCP(NP*   -    -   -   -     (DATE)            *   -
+bn/cbs/01/cbs_0137   0   18     １月   NT                *)  -    -   -   -     (DATE)            *   -
+bn/cbs/01/cbs_0137   0   19     开始   LC               *))  -    -   -   -         *             *)  -
+bn/cbs/01/cbs_0137   0   20      将   BA             (VP*   -    -   -   -         *             *   -
+bn/cbs/01/cbs_0137   0   21     市场   NN          (IP(NP*   -    -   -   -         *        (ARG1*   -
+bn/cbs/01/cbs_0137   0   22    通话费   NN                *)  -    -   -   -         *             *)  -
+bn/cbs/01/cbs_0137   0   23      从    P          (VP(PP*   -    -   -   -         *        (ARG2*   -
+bn/cbs/01/cbs_0137   0   24      ３   CD          (QP(QP*   -    -   -   -    (TIME*             *   -
+bn/cbs/01/cbs_0137   0   25     分钟    M           (CLP*))  -    -   -   -         *)            *   -
+bn/cbs/01/cbs_0137   0   26     １０   CD             (QP*   -    -   -   -   (MONEY*             *   -
+bn/cbs/01/cbs_0137   0   27     日元    M         (CLP*))))  -    -   -   -         *)            *)  -
+bn/cbs/01/cbs_0137   0   28     降为   VV             (VP*   -   01   -   -         *           (V*)  -
+bn/cbs/01/cbs_0137   0   29      ３   CD          (QP(QP*   -    -   -   -    (TIME*        (ARG3*   -
+bn/cbs/01/cbs_0137   0   30     分钟    M           (CLP*))  -    -   -   -         *)            *   -
+bn/cbs/01/cbs_0137   0   31      ９   CD             (QP*   -    -   -   -   (MONEY*             *   -
+bn/cbs/01/cbs_0137   0   32     日元    M     (CLP*))))))))  -    -   -   -         *)            *)  -
+bn/cbs/01/cbs_0137   0   33      。   PU               *))  -    -   -   -         *             *   -
+
+bn/cbs/01/cbs_0137   0    0    新加坡    NR     (TOP(IP(NP(NP*)  -    -   -   -      (ORG)   (ARGM-TPC*    (2)
+bn/cbs/01/cbs_0137   0    1      《    PU               (NP*   -    -   -   -         *             *     -
+bn/cbs/01/cbs_0137   0    2     海峡    NN                  *   -    -   -   -     (ORG*             *     -
+bn/cbs/01/cbs_0137   0    3     时报    NN                  *   -    -   -   -         *)            *     -
+bn/cbs/01/cbs_0137   0    4      》    PU                 *))  -    -   -   -         *             *)    -
+bn/cbs/01/cbs_0137   0    5      ：    PU                  *   -    -   -   -         *             *     -
+bn/cbs/01/cbs_0137   0    6    新加坡    NR               (NP*)  -    -   -   -      (GPE)       (ARG0*)   (2)
+bn/cbs/01/cbs_0137   0    7      将    AD          (VP(ADVP*)  -    -   -   -         *    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0137   0    8     设立    VV               (VP*   -   01   -   -         *           (V*)    -
+bn/cbs/01/cbs_0137   0    9     价值    NN   (NP(CP(CP(IP(NP*)  -    -   -   -         *        (ARG1*     -
+bn/cbs/01/cbs_0137   0   10    ３６亿    CD            (VP(QP*   -    -   -   -   (MONEY*             *     -
+bn/cbs/01/cbs_0137   0   11     美元     M           (CLP*))))  -    -   -   -         *)            *     -
+bn/cbs/01/cbs_0137   0   12      的   DEC                 *))  -    -   -   -         *             *     -
+bn/cbs/01/cbs_0137   0   13    精元厂    NN            (NP*))))  -    -   -   -         *             *)    -
+bn/cbs/01/cbs_0137   0   14      。    PU                 *))  -    -   -   -         *             *     -
+
+bn/cbs/01/cbs_0137   0    0    新加坡    NR   (TOP(IP(NP(NP*)  -    -   -   -      (GPE)  (ARGM-TPC*    (ARGM-DIS*    (2)
+bn/cbs/01/cbs_0137   0    1      《    PU             (NP*   -    -   -   -         *            *             *     -
+bn/cbs/01/cbs_0137   0    2     联合    JJ           (ADJP*)  -    -   4   -     (ORG*            *             *     -
+bn/cbs/01/cbs_0137   0    3     早报    NN             (NP*)  -    -   -   -         *)           *             *     -
+bn/cbs/01/cbs_0137   0    4      》    PU               *))  -    -   -   -         *            *)            *)    -
+bn/cbs/01/cbs_0137   0    5      ：    PU                *   -    -   -   -         *            *             *     -
+bn/cbs/01/cbs_0137   0    6     台湾    NR    (IP(NP(NP(NP*)  -    -   -   -     (ORG*       (ARG0*        (ARG0*     -
+bn/cbs/01/cbs_0137   0    7     联华    NR             (NP*   -    -   -   -         *            *             *     -
+bn/cbs/01/cbs_0137   0    8     电子    NN               *))  -    -   -   -         *)           *             *     -
+bn/cbs/01/cbs_0137   0    9      、    PU                *   -    -   -   -         *            *             *     -
+bn/cbs/01/cbs_0137   0   10     德国    NR          (NP(NP*)  -    -   -   -     (ORG*            *             *     -
+bn/cbs/01/cbs_0137   0   11    西门子    NR            (NP*))  -    -   -   -         *)           *             *     -
+bn/cbs/01/cbs_0137   0   12      和    CC                *   -    -   -   -         *            *             *     -
+bn/cbs/01/cbs_0137   0   13    新加坡    NR             (NP*   -    -   -   -     (ORG*            *             *     -
+bn/cbs/01/cbs_0137   0   14     经济    NN                *   -    -   2   -         *            *             *     -
+bn/cbs/01/cbs_0137   0   15     发展    NN                *   -    -   1   -         *            *             *     -
+bn/cbs/01/cbs_0137   0   16      局    NN               *))  -    -   -   -         *)           *)            *)    -
+bn/cbs/01/cbs_0137   0   17     合资    VV          (VP(VP*)  -   01   -   -         *          (V*)            *     -
+bn/cbs/01/cbs_0137   0   18     明年    NT          (VP(NP*)  -    -   -   -     (DATE)           *    (ARGM-TMP*)    -
+bn/cbs/01/cbs_0137   0   19     兴建    VV             (VP*   -   01   -   -         *            *           (V*)    -
+bn/cbs/01/cbs_0137   0   20    ６３亿    CD      (NP(DNP(QP*   -    -   -   -   (MONEY*            *        (ARG1*     -
+bn/cbs/01/cbs_0137   0   21     新币     M           (CLP*))  -    -   -   -         *)           *             *     -
+bn/cbs/01/cbs_0137   0   22      的   DEG                *)  -    -   -   -         *            *             *     -
+bn/cbs/01/cbs_0137   0   23    精元厂    NN        (NP*))))))  -    -   -   -         *            *             *)    -
+bn/cbs/01/cbs_0137   0   24      。    PU               *))  -    -   -   -         *            *             *     -
+
+bn/cbs/01/cbs_0137   0    0     香港    NR   (TOP(IP(NP(NP*)  -    -   -   -       (GPE)   (ARGM-TPC*        *    (0)
+bn/cbs/01/cbs_0137   0    1      《    PU             (NP*   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0    2     网路    NN                *   -    -   -   -      (ORG*             *        *     -
+bn/cbs/01/cbs_0137   0    3     邮报    NN               *))  -    -   -   -          *)            *)       *     -
+bn/cbs/01/cbs_0137   0    4      》    PU                *   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0    5      ：    PU                *   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0    6     香港    NR       (NP(NP(NP*)  -    -   -   -      (ORG*        (ARG0*        *    (0)
+bn/cbs/01/cbs_0137   0    7    行政院    NN          (NP(NP*)  -    -   -   -          *)            *        *     -
+bn/cbs/01/cbs_0137   0    8     特别    JJ           (ADJP*)  -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0    9     首长    NN           (NP*)))  -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   10    董建华    NR            (NP*))  -    -   -   -    (PERSON)            *)       *     -
+bn/cbs/01/cbs_0137   0   11      将    AD        (VP(ADVP*)  -    -   -   -          *    (ARGM-ADV*)       *     -
+bn/cbs/01/cbs_0137   0   12     决定    VV             (VP*   -   01   -   -          *           (V*)       *     -
+bn/cbs/01/cbs_0137   0   13      下    DT       (IP(NP(DP*   -    -   4   -          *        (ARG1*        *     -
+bn/cbs/01/cbs_0137   0   14      一    CD             (QP*   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   15      任     M          (CLP*)))  -    -   2   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   16     行政    NN             (NP*   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   17     长官    NN               *))  -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   18     是否    VV             (VP*   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   19     应该    VV             (VP*   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   20      由     P          (VP(PP*   -    -   -   -          *             *   (ARG0*     -
+bn/cbs/01/cbs_0137   0   21     现任    JJ    (NP(DNP(ADJP*)  -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   22      的   DEG                *)  -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   23     选举    NN             (NP*   -    -   -   -          *             *        *     -
+bn/cbs/01/cbs_0137   0   24    委员会    NN              *)))  -    -   -   -          *             *        *)    -
+bn/cbs/01/cbs_0137   0   25     选出    VV       (VP*)))))))  -   01   -   -          *             *)     (V*)    -
+bn/cbs/01/cbs_0137   0   26      。    PU               *))  -    -   -   -          *             *        *     -
+
+bn/cbs/01/cbs_0137   0    0      香港    NR          (TOP(IP(NP(NP*)  -    -   -   -    (GPE)  (ARGM-TPC*             *    (0)
+bn/cbs/01/cbs_0137   0    1       《    PU                    (NP*   -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0    2      经济    NN                       *   -    -   2   -   (ORG*            *             *     -
+bn/cbs/01/cbs_0137   0    3      日报    NN                       *   -    -   -   -       *)           *             *     -
+bn/cbs/01/cbs_0137   0    4       》    PU                      *))  -    -   -   -       *            *)            *     -
+bn/cbs/01/cbs_0137   0    5       ：    PU                       *   -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0    6      美国    NR           (IP(IP(NP(NP*)  -    -   -   -   (ORG*            *             *     -
+bn/cbs/01/cbs_0137   0    7     高科技    NN                    (NP*)  -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0    8    纳斯达克    NR                    (NP*)  -    -   -   -       *)           *             *     -
+bn/cbs/01/cbs_0137   0    9      指数    NN                   (NP*))  -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0   10      爆跌    VV                   (VP*))  -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0   11       ，    PU                       *   -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0   12      港股    NN                 (IP(NP*)  -    -   -   -    (GPE)      (ARG0*)            *     -
+bn/cbs/01/cbs_0137   0   13      受到    VV                    (VP*   -   01   1   -       *          (V*)            *     -
+bn/cbs/01/cbs_0137   0   14      相当    AD   (NP(CP(CP(IP(VP(ADVP*)  -    -   -   -       *       (ARG1*    (ARGM-ADV*)    -
+bn/cbs/01/cbs_0137   0   15       大    VA                  (VP*)))  -   01   -   -       *            *           (V*)    -
+bn/cbs/01/cbs_0137   0   16       的   DEC                      *))  -    -   -   -       *            *             *     -
+bn/cbs/01/cbs_0137   0   17      影响    NN                (NP*)))))  -    -   -   -       *            *)       (ARG0*)    -
+bn/cbs/01/cbs_0137   0   18       。    PU                      *))  -    -   -   -       *            *             *     -
+
+bn/cbs/01/cbs_0137   0    0    土耳其   NR   (TOP(IP(NP(NP*)  -    -   -   -       (GPE)       *    (6)
+bn/cbs/01/cbs_0137   0    1      《   PU             (NP*   -    -   -   -          *        *     -
+bn/cbs/01/cbs_0137   0    2      每   DT             (DP*   -    -   -   -      (ORG*        *     -
+bn/cbs/01/cbs_0137   0    3      日    M           (CLP*))  -    -   -   -          *        *     -
+bn/cbs/01/cbs_0137   0    4    新闻报   NN             (NP*)  -    -   -   -          *)       *     -
+bn/cbs/01/cbs_0137   0    5      》   PU               *))  -    -   -   -          *        *     -
+bn/cbs/01/cbs_0137   0    6      ：   PU                *   -    -   -   -          *        *     -
+bn/cbs/01/cbs_0137   0    7    土耳其   NR       (NP(NP(NP*)  -    -   -   -       (GPE)  (ARG0*    (6)
+bn/cbs/01/cbs_0137   0    8     总统   NN            (NP*))  -    -   -   -          *        *     -
+bn/cbs/01/cbs_0137   0    9     赛宅   NR            (NP*))  -    -   -   -    (PERSON)       *)    -
+bn/cbs/01/cbs_0137   0   10     否决   VV             (VP*   -   01   -   -          *      (V*)    -
+bn/cbs/01/cbs_0137   0   11      了   AS                *   -    -   -   -          *        *     -
+bn/cbs/01/cbs_0137   0   12     特赦   NN             (NP*   -    -   -   -          *   (ARG1*     -
+bn/cbs/01/cbs_0137   0   13     法案   NN               *))  -    -   -   -          *        *)    -
+bn/cbs/01/cbs_0137   0   14      。   PU               *))  -    -   -   -          *        *     -
+
+#end document

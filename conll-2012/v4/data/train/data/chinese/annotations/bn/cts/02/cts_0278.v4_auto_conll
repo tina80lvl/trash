@@ -1,0 +1,314 @@
+#begin document (bn/cts/02/cts_0278); part 000
+bn/cts/02/cts_0278   0    0      台湾    NR    (TOP(IP(IP(NP*)   -   -   -   -   *        (ARG0*)     *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    1       从     P        (VP(VP(PP*    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    2      今天    NT          (LCP(NP*)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *      (2)
+bn/cts/02/cts_0278   0    3      开始    LC                *))   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    4      推出    VV             (VP*))   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    5       永    AD         (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *            *             *             *             *         *      *             *             *             *      *      (4
+bn/cts/02/cts_0278   0    6       保    VV              (VP*     保  -   2   -   *           (V*)     *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    7      安康    VA    (NP(CP(IP(VP*))   安康  -   -   -   *        (ARG1*    (V*)           *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    8       的   DEC                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0    9      纪念    NN              (NP*    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   10      车票    NN            *))))))   -   -   -   -   *             *)     *            *             *             *             *         *      *             *             *             *      *       4)
+bn/cts/02/cts_0278   0   11       ，    PU                 *    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   12      车票    NN           (IP(NP*)   -   -   -   -   *             *      *       (ARG0*)            *             *             *         *      *             *             *             *      *      (4)
+bn/cts/02/cts_0278   0   13       从     P           (VP(PP*    -   -   -   -   *             *      *   (ARGM-TMP*             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   14      上午    NT          (LCP(NP*    -   -   1   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   15     ８点钟    NT                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   16      开始    LC                *))   -   -   -   -   *             *      *            *)            *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   17       在     P              (PP*    -   -   2   -   *             *      *   (ARGM-LOC*             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   18      台北    NR       (NP(DNP(NP*    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *   (0|(5
+bn/cts/02/cts_0278   0   19     火车站    NN                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       5)
+bn/cts/02/cts_0278   0   20       的   DEG                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   21      大厅    NN            (NP*)))   -   -   -   -   *             *      *            *)            *             *             *         *      *             *             *             *      *       0)
+bn/cts/02/cts_0278   0   22      贩卖    VV            (VP*)))   贩卖  -   -   -   *             *      *          (V*)            *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   23       ，    PU                 *    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   24      结果    AD         (IP(ADVP*)   -   -   -   -   *             *      *            *    (ARGM-ADV*)            *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   25       是    VC              (VP*     是  -   1   -   *             *      *            *           (V*)            *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   26    大排长龙    NN            (NP*)))   -   -   -   -   *             *      *            *        (ARG1*)            *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   27       ，    PU                 *    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   28      加上    AD         (IP(ADVP*)   -   -   -   -   *             *      *            *             *    (ARGM-DIS*)            *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   29       有    VE              (VP*     有  -   4   -   *             *      *            *             *           (V*)            *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   30      一半    CD    (IP(NP(DNP(QP*)   -   -   -   -   *             *      *            *             *        (ARG1*        (ARG0*         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   31       的   DEG                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   32      纪念    NN              (NP*    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   33      车票    NN                *))   -   -   -   -   *             *      *            *             *             *             *)        *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   34     并没有    AD         (VP(ADVP*)   -   -   -   -   *             *      *            *             *             *    (ARGM-ADV*)        *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   35      按照     P              (PP*    -   -   -   -   *             *      *            *             *             *    (ARGM-MNR*         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   36      预定    JJ     (NP(DNP(ADJP*)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   37       的   DEG                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   38      时间    NN            (NP*)))   -   -   1   -   *             *      *            *             *             *             *)        *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   39      推出    VV          (VP*)))))   推出  -   -   -   *             *      *            *             *             *)          (V*)        *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   40       ，    PU                 *    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   41       去    VV  (IP(NP(CP(IP(VP*     去  -   4   -   *             *      *            *             *             *             *       (V*)     *        (ARG0*             *        (ARG0*      *       -
+bn/cts/02/cts_0278   0   42      购买    VV            (VP*)))   购买  -   -   -   *             *      *            *             *             *             *    (ARG1*)   (V*)            *             *             *      *       -
+bn/cts/02/cts_0278   0   43       的   DEC                 *)   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+bn/cts/02/cts_0278   0   44     消费者    NN             (NP*))   -   -   -   -   *             *      *            *             *             *             *         *      *             *)            *             *)     *       -
+bn/cts/02/cts_0278   0   45       忍    VV          (VP(VPT*     忍  -   1   -   *             *      *            *             *             *             *         *      *           (V*)            *             *      *       -
+bn/cts/02/cts_0278   0   46       不    AD                 *    -   -   -   -   *             *      *            *             *             *             *         *      *    (ARGM-ADV*)   (ARGM-ADV*)            *      *       -
+bn/cts/02/cts_0278   0   47       住    VV                 *)    住  -   1   -   *             *      *            *             *             *             *         *      *             *           (V*)            *      *       -
+bn/cts/02/cts_0278   0   48      当场    AD      (IP(VP(ADVP*)   -   -   -   -   *             *      *            *             *             *             *         *      *        (ARG1*             *    (ARGM-ADV*)     *       -
+bn/cts/02/cts_0278   0   49       吵    VV          (VP(VRD*     吵  -   1   -   *             *      *            *             *             *             *         *      *             *             *           (V*)     *       -
+bn/cts/02/cts_0278   0   50       了    AS                 *    -   -   -   -   *             *      *            *             *             *             *         *      *             *             *        (ARG1*)     *       -
+bn/cts/02/cts_0278   0   51      起来    VV            *))))))   起来  -   -   -   *             *      *            *             *             *             *         *      *             *)            *             *    (V*)      -
+bn/cts/02/cts_0278   0   52       。    PU                *))   -   -   -   -   *             *      *            *             *             *             *         *      *             *             *             *      *       -
+
+bn/cts/02/cts_0278   0    0       要    VV   (TOP(IP(VP(VP*     要  -   1   -   *    (V*)       *            *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0    1      过年    VV          (VP(VP*    过年  -   -   -   *      *      (V*)           *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0    2       了    AS                *    -   -   -   -   *      *        *            *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0    3      台北    NR       (NP(NP(NP*    -   -   -   -   *      *   (ARG1*            *      *      *             *      *             *      *   (0|(5
+bn/cts/02/cts_0278   0    4     火车站    NN                *)   -   -   -   -   *      *        *            *      *      *             *      *             *      *       5)
+bn/cts/02/cts_0278   0    5      大厅    NN            (NP*))   -   -   -   -   *      *        *            *      *      *             *      *             *      *       0)
+bn/cts/02/cts_0278   0    6    大排长龙    NR           (NP*)))   -   -   -   -   *      *        *)           *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0    7       ，    PU                *    -   -   -   -   *      *        *            *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0    8       买    VV             (VP*     买  -   -   -   *      *        *          (V*)     *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0    9       的   DER                *    -   -   -   -   *      *        *       (ARG1*)     *      *    (ARGM-ADV*)     *             *      *       -
+bn/cts/02/cts_0278   0   10       不    AD        (VP(ADVP*)   -   -   -   -   *      *        *   (ARGM-ADV*      *      *    (ARGM-ADV*)     *             *      *       -
+bn/cts/02/cts_0278   0   11       是    VC             (VP*     是  -   2   -   *      *        *            *    (V*)     *             *      *             *      *       -
+bn/cts/02/cts_0278   0   12      返乡    VV         (VP(VSB*    返乡  -   -   -   *      *        *            *      *    (V*)            *      *             *      *       -
+bn/cts/02/cts_0278   0   13      车票    VV          *)))))))   车票  -   -   -   *      *        *            *)     *      *           (V*)     *             *      *       -
+bn/cts/02/cts_0278   0   14       而    CC                *    -   -   -   -   *      *        *            *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0   15       是    VC             (VP*     是  -   2   -   *      *        *            *      *      *             *    (V*)            *      *       -
+bn/cts/02/cts_0278   0   16       永    AD        (VP(ADVP*)   -   -   -   -   *      *        *            *      *      *             *      *    (ARGM-ADV*)     *      (4
+bn/cts/02/cts_0278   0   17       保    VV             (VP*     保  -   2   -   *      *        *            *      *      *             *      *           (V*)     *       -
+bn/cts/02/cts_0278   0   18      安康    VA   (NP(CP(IP(VP*))   安康  -   -   -   *      *        *            *      *      *             *      *        (ARG1*    (V*)      -
+bn/cts/02/cts_0278   0   19       的   DEC                *)   -   -   -   -   *      *        *            *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0   20      纪念    NN             (NP*    -   -   -   -   *      *        *            *      *      *             *      *             *      *       -
+bn/cts/02/cts_0278   0   21      车票    NN           *))))))   -   -   -   -   *      *        *            *      *      *             *      *             *)     *       4)
+bn/cts/02/cts_0278   0   22       。    PU               *))   -   -   -   -   *      *        *            *      *      *             *      *             *      *       -
+
+bn/cts/02/cts_0278   0    0      红红    NN   (TOP(IP(NP(CP(IP(LCP(NP(DNP(NP*)     -   -   -   -   *   (ARG0*   (ARGM-LOC*   (ARG0*        (ARG0*        (ARG0*        (ARG0*      *    -
+bn/cts/02/cts_0278   0    1       的   DEG                                 *)     -   -   -   -   *        *            *        *             *             *             *      *    -
+bn/cts/02/cts_0278   0    2      盒子    NN                             (NP*))     -   -   -   -   *        *            *        *             *             *             *      *    -
+bn/cts/02/cts_0278   0    3       里    LC                                 *)     -   -   -   -   *        *)           *)       *)            *             *             *      *    -
+bn/cts/02/cts_0278   0    4      装上    VV                           (VP(VP*)     装上  -   -   -   *      (V*)           *        *             *             *             *      *    -
+bn/cts/02/cts_0278   0    5       打    VV                           (VP(VP*       打  -   1   -   *        *          (V*)       *             *             *             *      *   (4
+bn/cts/02/cts_0278   0    6       了    AS                                 *      -   -   -   -   *        *            *        *             *             *             *      *    -
+bn/cts/02/cts_0278   0    7       金    NN                             (NP*))     -   -   -   -   *        *       (ARG1*)       *             *             *             *      *    -
+bn/cts/02/cts_0278   0    8      过节    VV                           (VP*))))     过节  -   -   -   *        *            *      (V*)            *             *             *      *    -
+bn/cts/02/cts_0278   0    9       的   DEC                                *))     -   -   -   -   *        *            *        *             *)            *)            *)     *    -
+bn/cts/02/cts_0278   0   10       永    AD                         (VP(ADVP*)     -   -   -   -   *        *            *        *    (ARGM-ADV*)   (ARGM-ADV*)   (ARGM-ADV*)     *    -
+bn/cts/02/cts_0278   0   11       保    VV                           (VP(VP*       保  -   2   -   *        *            *        *           (V*)            *             *      *    -
+bn/cts/02/cts_0278   0   12      安康    NN                             (NP*))     -   -   -   -   *        *            *        *        (ARG1*)            *             *      *    -
+bn/cts/02/cts_0278   0   13      纪念    VV                           (VP(VP*      纪念  -   -   -   *        *            *        *             *           (V*)            *      *    -
+bn/cts/02/cts_0278   0   14      车票    NN                             (NP*))     -   -   -   -   *        *            *        *             *        (ARG1*)            *      *    4)
+bn/cts/02/cts_0278   0   15      显得    VV                              (VP*      显得  -   -   -   *        *            *        *             *             *           (V*)     *    -
+bn/cts/02/cts_0278   0   16    喜气洋洋    VV                      (IP(VP*))))))   喜气洋洋  -   -   -   *        *            *        *             *             *        (ARG1*)   (V*)   -
+bn/cts/02/cts_0278   0   17       。    PU                                *))     -   -   -   -   *        *            *        *             *             *             *      *    -
+
+bn/cts/02/cts_0278   0    0        “   PU  (TOP(IP*    -   -   -   -   *             *      *            *   -
+bn/cts/02/cts_0278   0    1        比    P   (VP(PP*    -   -   -   -   *    (ARGM-ADV*      *   (ARGM-ADV*   -
+bn/cts/02/cts_0278   0    2    洞房花烛夜   NN     (NP*))   -   -   -   -   *             *)     *            *   -
+bn/cts/02/cts_0278   0    3        还   AD    (ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *            *   -
+bn/cts/02/cts_0278   0    4       高兴   VA     (VP*))   高兴  -   -   -   *           (V*)     *            *)  -
+bn/cts/02/cts_0278   0    5        ，   PU         *    -   -   -   -   *             *      *            *   -
+bn/cts/02/cts_0278   0    6       因为    P      (PP*    -   -   -   -   *             *      *            *   -
+bn/cts/02/cts_0278   0    7       我们   PN   (IP(NP*)   -   -   -   -   *             *      *       (ARG0*)  -
+bn/cts/02/cts_0278   0    8        要   VV      (VP*     要  -   3   -   *             *    (V*)           *   -
+bn/cts/02/cts_0278   0    9       结婚   VV   (VP*))))   结婚  -   -   -   *             *      *          (V*)  -
+bn/cts/02/cts_0278   0   10        。   PU         *    -   -   -   -   *             *      *            *   -
+bn/cts/02/cts_0278   0   11        ”   PU        *))   -   -   -   -   *             *      *            *   -
+
+bn/cts/02/cts_0278   0    0     每   DT  (TOP(IP(IP(NP(DP*    -   -   -   -   *        (ARG0*        (ARG0*             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    1     个    M             (CLP*))   -   -   -   -   *             *             *             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    2     人   NN              (NP*))   -   -   1   -   *             *)            *)            *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    3     都   AD          (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    4     不   AD             (ADVP*)   -   -   -   -   *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    5    愿意   VV               (VP*    愿意  -   -   -   *           (V*)            *             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    6     只   AD       (IP(VP(ADVP*)   -   -   -   -   *        (ARG1*    (ARGM-ADV*)            *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    7     买   VV               (VP*     买  -   -   -   *             *           (V*)            *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    8     一   CD               (QP*    -   -   -   -   *             *        (ARG1*             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0    9     张    M       (CLP*))))))))   -   -   -   -   *             *)            *)            *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   10     ，   PU                  *    -   -   -   -   *             *             *             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   11     一   AD    (IP(IP(VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-ADV*)       (ARG0*             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   12     买   VV             (VP*)))    买  -   -   -   *             *             *           (V*)            *)            *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   13     就   AD          (VP(ADVP*)   -   -   2   -   *             *             *             *    (ARGM-ADV*)            *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   14     是   VC               (VP*     是  -   1   -   *             *             *             *           (V*)            *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   15     ４   CD               (QP*    -   -   -   -   *             *             *             *        (ARG1*             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   16     张    M          (CLP*)))))   -   -   -   -   *             *             *             *             *)            *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   17     ，   PU                  *    -   -   -   -   *             *             *             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   18    于是   AD          (IP(ADVP*)   -   -   -   -   *             *             *             *             *             *    (ARGM-DIS*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   19     才   AD          (VP(ADVP*)   -   -   -   -   *             *             *             *             *    (ARGM-ADV*)   (ARGM-ADV*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   20    开卖   VV               (VP*    开卖  -   -   -   *             *             *             *             *           (V*)            *      *             *             *             *   -
+bn/cts/02/cts_0278   0   21    没有   AD          (VP(ADVP*)   -   -   2   -   *             *             *             *             *             *    (ARGM-ADV*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   22    一会   AD             (ADVP*)   -   -   -   -   *             *             *             *             *             *    (ARGM-ADV*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   23    全都   AD             (ADVP*)   -   -   -   -   *             *             *             *             *             *    (ARGM-ADV*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   24     卖   VV           (VP(VRD*     卖  -   1   -   *             *             *             *             *             *           (V*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   25     完   VV                  *)    完  -   2   -   *             *             *             *             *             *             *    (V*)            *             *             *   -
+bn/cts/02/cts_0278   0   26     了   AS              *)))))   -   -   -   -   *             *             *             *             *             *        (ARG3*)     *             *             *             *   -
+bn/cts/02/cts_0278   0   27     ，   PU                  *    -   -   -   -   *             *             *             *             *             *             *      *             *             *             *   -
+bn/cts/02/cts_0278   0   28    大家   PN            (IP(NP*)   -   -   -   -   *             *             *             *             *             *             *      *        (ARG0*)       (ARG0*)       (ARG0*)  -
+bn/cts/02/cts_0278   0   29    只好   AD          (VP(ADVP*)   -   -   -   -   *             *             *             *             *             *             *      *    (ARGM-ADV*)   (ARGM-ADV*)            *   -
+bn/cts/02/cts_0278   0   30     填   VV            (VP(VP*     填  -   -   -   *             *             *             *             *             *             *      *           (V*)            *             *   -
+bn/cts/02/cts_0278   0   31    单子   NN              (NP*))   -   -   -   -   *             *             *             *             *             *             *      *        (ARG1*)            *             *   -
+bn/cts/02/cts_0278   0   32     等   VV               (VP*     等  -   1   -   *             *             *             *             *             *             *      *             *           (V*)            *   -
+bn/cts/02/cts_0278   0   33     着   AS                  *    -   -   -   -   *             *             *             *             *             *             *      *             *        (ARG1*)       (ARG1*)  -
+bn/cts/02/cts_0278   0   34    明天   NT         (IP(VP(NP*)   -   -   -   -   *             *             *             *             *             *             *      *             *        (ARG1*    (ARGM-TMP*)  -
+bn/cts/02/cts_0278   0   35    取货   VV         (VP*)))))))   取货  -   -   -   *             *             *             *             *             *             *      *             *             *)          (V*)  -
+bn/cts/02/cts_0278   0   36     。   PU                 *))   -   -   -   -   *             *             *             *             *             *             *      *             *             *             *   -
+
+bn/cts/02/cts_0278   0    0    买到    VV   (TOP(IP(IP(NP(CP(IP(VP*))   买到  -   -   -   *    (V*)       (ARG0*             *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    1     的   DEC                          *)   -   -   -   -   *      *             *             *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    2     人    NN                      (NP*))   -   -   1   -   *      *             *)            *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    3     很    AD                  (VP(ADVP*)   -   -   -   -   *      *    (ARGM-ADV*)            *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    4    开心    VA                     (VP*)))   开心  -   -   -   *      *           (V*)            *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    5     ，    PU                          *    -   -   -   -   *      *             *             *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    6     没    AD      (IP(NP(CP(IP(VP(ADVP*)   -   -   2   -   *      *             *    (ARGM-ADV*)  (ARG0*             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    7    买到    VV                     (VP*)))   买到  -   -   -   *      *             *           (V*)       *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0    8     的   DEC                         *))   -   -   -   -   *      *             *             *        *)            *             *             *             *      *     -
+bn/cts/02/cts_0278   0    9    眼看    VV                       (VP*    眼看  -   -   -   *      *             *             *      (V*)            *             *             *             *      *     -
+bn/cts/02/cts_0278   0   10    队伍    NN                    (IP(NP*)   -   -   -   -   *      *             *             *   (ARG1*        (ARG0*)       (ARG0*)            *             *      *    (1)
+bn/cts/02/cts_0278   0   11     越    AD               (VP(VP(ADVP*)   -   -   1   -   *      *             *             *        *    (ARGM-ADV*)            *             *             *      *     -
+bn/cts/02/cts_0278   0   12     排    VV                      (VP*))    排  -   1   -   *      *             *             *        *           (V*)            *             *             *      *     -
+bn/cts/02/cts_0278   0   13     越    AD                  (VP(ADVP*)   -   -   1   -   *      *             *             *        *             *    (ARGM-ADV*)            *             *      *     -
+bn/cts/02/cts_0278   0   14     长    VA                  (VP*))))))    长  -   3   -   *      *             *             *        *)            *           (V*)            *             *      *     -
+bn/cts/02/cts_0278   0   15     ，    PU                          *    -   -   -   -   *      *             *             *        *             *             *             *             *      *     -
+bn/cts/02/cts_0278   0   16    心里    NN                    (IP(NP*)   -   -   -   -   *      *             *             *        *             *             *        (ARG0*)       (ARG0*)     *     -
+bn/cts/02/cts_0278   0   17     一    AD               (VP(VP(ADVP*)   -   -   -   -   *      *             *             *        *             *             *    (ARGM-ADV*)            *      *     -
+bn/cts/02/cts_0278   0   18     急    VA                      (VP*))    急  -   1   -   *      *             *             *        *             *             *           (V*)            *      *     -
+bn/cts/02/cts_0278   0   19     就    AD                  (VP(ADVP*)   -   -   2   -   *      *             *             *        *             *             *             *    (ARGM-ADV*)     *     -
+bn/cts/02/cts_0278   0   20     吵    VV                   (VP(VRD*     吵  -   1   -   *      *             *             *        *             *             *             *           (V*)     *     -
+bn/cts/02/cts_0278   0   21    开来    VV                          *)   开来  -   -   -   *      *             *             *        *             *             *             *        (ARG2*)   (V*)    -
+bn/cts/02/cts_0278   0   22     了    AS                       *))))   -   -   -   -   *      *             *             *        *             *             *             *        (ARG1*)     *     -
+bn/cts/02/cts_0278   0   23     。    PU                         *))   -   -   -   -   *      *             *             *        *             *             *             *             *      *     -
+
+bn/cts/02/cts_0278   0    0      队伍    NN    (TOP(IP(IP(NP*)   -   -   -   -   *       (ARG0*)           *             *        *      *             *             *      *    (1)
+bn/cts/02/cts_0278   0    1       从     P           (VP(PP*    -   -   -   -   *   (ARGM-LOC*            *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    2      里头    NN             (NP*))   -   -   -   -   *            *)           *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    3       排    VV              (VP*     排  -   1   -   *          (V*)           *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    4       到     P              (PP*    -   -   7   -   *   (ARGM-ADV*            *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    5      外头    NN          (NP*)))))   -   -   -   -   *            *)           *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    6       ，    PU                 *    -   -   -   -   *            *            *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    7       等    VV  (IP(NP(CP(IP(VP*     等  -   1   -   *            *          (V*)       (ARG0*   (ARG0*      *             *             *      *     -
+bn/cts/02/cts_0278   0    8       在     P              (PP*    -   -   2   -   *            *       (ARG1*             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0    9      队伍    NN          (LCP(NP*)   -   -   -   -   *            *            *             *        *      *             *             *      *    (1)
+bn/cts/02/cts_0278   0   10       里    LC              *))))   -   -   -   -   *            *            *)            *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0   11       的   DEC                *))   -   -   -   -   *            *            *             *)       *)     *             *             *      *     -
+bn/cts/02/cts_0278   0   12       也    AD      (VP(VP(ADVP*)   -   -   -   -   *            *   (ARGM-EXT*    (ARGM-DIS*)       *      *             *             *      *     -
+bn/cts/02/cts_0278   0   13      渐渐    AD            (ADVP*)   -   -   -   -   *            *            *    (ARGM-ADV*)       *      *             *             *      *     -
+bn/cts/02/cts_0278   0   14      失去    VV              (VP*    失去  -   -   -   *            *            *           (V*)       *      *             *             *      *     -
+bn/cts/02/cts_0278   0   15       了    AS                 *    -   -   -   -   *            *            *        (ARG1*)       *      *             *             *      *     -
+bn/cts/02/cts_0278   0   16      耐性    NN            (NP*)))   -   -   -   -   *            *            *        (ARG1*)       *      *             *             *      *     -
+bn/cts/02/cts_0278   0   17       ，    PU                 *    -   -   -   -   *            *            *             *        *      *             *             *      *     -
+bn/cts/02/cts_0278   0   18      认为    VV              (VP*    认为  -   1   -   *            *            *             *      (V*)     *             *             *      *     -
+bn/cts/02/cts_0278   0   19    ７０００    NN           (IP(NP*    -   -   -   -   *            *            *             *   (ARG1*      *             *        (ARG1*      *     -
+bn/cts/02/cts_0278   0   20      车票    NN                 *)   -   -   -   -   *            *            *             *        *      *             *             *)     *     -
+bn/cts/02/cts_0278   0   21       不    AD         (VP(ADVP*)   -   -   -   -   *            *            *             *        *      *             *    (ARGM-ADV*)     *     -
+bn/cts/02/cts_0278   0   22      可能    VV              (VP*    可能  -   -   -   *            *            *             *        *    (V*)            *    (ARGM-ADV*)     *     -
+bn/cts/02/cts_0278   0   23      这么    AD      (VP(VP(ADVP*)   -   -   -   -   *            *            *             *        *      *    (ARGM-ADV*)            *      *     -
+bn/cts/02/cts_0278   0   24       快    VA             (VP*))    快  -   1   -   *            *            *             *        *      *           (V*)            *      *     -
+bn/cts/02/cts_0278   0   25       就    AD         (VP(ADVP*)   -   -   2   -   *            *            *             *        *      *             *    (ARGM-ADV*)     *     -
+bn/cts/02/cts_0278   0   26       卖    VV          (VP(VRD*     卖  -   1   -   *            *            *             *        *      *             *           (V*)     *     -
+bn/cts/02/cts_0278   0   27       完    VV                 *)    完  -   2   -   *            *            *             *        *      *             *        (ARG2*)   (V*)    -
+bn/cts/02/cts_0278   0   28       了    AS         *)))))))))   -   -   -   -   *            *            *)            *        *)     *             *        (ARG3*)     *     -
+bn/cts/02/cts_0278   0   29       。    PU                *))   -   -   -   -   *            *            *             *        *      *             *             *      *     -
+
+bn/cts/02/cts_0278   0    0      “    PU         (TOP(IP*    -   -   -   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0    1     排队    VV      (IP(IP(VP*))   排队  -   -   -   *          (V*)     *    (ARGM-ADV*)     *             *             *             *     -
+bn/cts/02/cts_0278   0    2      就    AD        (VP(ADVP*)   -   -   2   -   *   (ARGM-ADV*      *    (ARGM-ADV*)     *             *             *             *     -
+bn/cts/02/cts_0278   0    3     一定    AD           (ADVP*)   -   -   -   -   *            *      *    (ARGM-ADV*)     *             *             *             *     -
+bn/cts/02/cts_0278   0    4      要    VV             (VP*     要  -   3   -   *            *    (V*)            *      *             *             *             *     -
+bn/cts/02/cts_0278   0    5     保留    VV             (VP*    保留  -   3   -   *            *      *           (V*)     *             *             *             *     -
+bn/cts/02/cts_0278   0    6      位     M     (NP(QP(CLP*))   -   -   2   -   *            *      *        (ARG1*      *             *             *             *     -
+bn/cts/02/cts_0278   0    7     所有    DT             (DP*)   -   -   -   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0    8     保留    JJ           (ADJP*)   -   -   3   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0    9      票    NN        (NP*))))))   -   -   -   -   *            *)     *             *)     *             *             *             *     -
+bn/cts/02/cts_0278   0   10      ，    PU                *    -   -   -   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0   11     今天    NT          (IP(NP*)   -   -   -   -   *            *      *             *      *    (ARGM-TMP*)            *             *    (2)
+bn/cts/02/cts_0278   0   12     排队    VV   (NP(CP(IP(VP*))   排队  -   -   -   *            *      *             *    (V*)       (ARG0*             *        (ARG0*     -
+bn/cts/02/cts_0278   0   13      的   DEC                *)   -   -   -   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0   14      人    NN            (NP*))   -   -   1   -   *            *      *             *      *             *)            *             *)    -
+bn/cts/02/cts_0278   0   15      都    AD        (VP(ADVP*)   -   -   -   -   *            *      *             *      *    (ARGM-ADV*)            *             *     -
+bn/cts/02/cts_0278   0   16     知道    VV             (VP*    知道  -   -   -   *            *      *             *      *           (V*)            *             *     -
+bn/cts/02/cts_0278   0   17      不    AD     (IP(VP(ADVP*)   -   -   -   -   *            *      *             *      *        (ARG1*    (ARGM-ADV*)   (ARGM-ADV*)    -
+bn/cts/02/cts_0278   0   18      会    VV             (VP*     会  -   1   -   *            *      *             *      *             *           (V*)            *     -
+bn/cts/02/cts_0278   0   19     超过    VV             (VP*    超过  -   -   -   *            *      *             *      *             *        (ARG1*           (V*)    -
+bn/cts/02/cts_0278   0   20    ５００    CD          (NP(QP*    -   -   -   -   *            *      *             *      *             *             *        (ARG1*     -
+bn/cts/02/cts_0278   0   21      个     M           (CLP*))   -   -   -   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0   22      人    NN     (NP*)))))))))   -   -   1   -   *            *      *             *      *             *)            *)            *)    -
+bn/cts/02/cts_0278   0   23      。    PU                *    -   -   -   -   *            *      *             *      *             *             *             *     -
+bn/cts/02/cts_0278   0   24      ”    PU               *))   -   -   -   -   *            *      *             *      *             *             *             *     -
+
+bn/cts/02/cts_0278   0    0     “    PU               (TOP(IP*    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    1    这些    DT             (IP(NP(DP*)   -   -   -   -   *        (ARG0*      *             *             *             *             *             *             *             *      *             *         *             *    (4
+bn/cts/02/cts_0278   0    2    东西    NN                  (NP*))   -   -   2   -   *             *)     *             *             *             *             *             *             *             *      *             *         *             *     4)
+bn/cts/02/cts_0278   0    3     都    AD              (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)     *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    4     是    VC                   (VP*     是  -   1   -   *           (V*)     *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    5    全民    NN            (NP(DNP(NP*)   -   -   -   -   *        (ARG1*      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    6     的   DEG                      *)   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    7    资产    NN               (NP*)))))   -   -   -   -   *             *)     *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    8     ，    PU                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0    9    我们    PN                (IP(NP*)   -   -   -   -   *             *      *        (ARG0*)       (ARG0*)       (ARG0*)       (ARG0*)       (ARG0*)            *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   10    一定    AD           (VP(VP(ADVP*)   -   -   -   -   *             *      *    (ARGM-ADV*)   (ARGM-ADV*)            *    (ARGM-ADV*)            *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   11     是    VC                   (VP*     是  -   2   -   *             *    (V*)            *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   12     很    AD           (VP(VP(ADVP*)   -   -   -   -   *             *      *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   13    公正    VA                   (VP*    公正  -   -   -   *             *      *           (V*)   (ARGM-ADV*)            *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   14     、    PU                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   15    公平    VA                     *))   公平  -   -   -   *             *      *    (ARGM-ADV*)          (V*)            *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   16     、    PU                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   17    公开    AD              (VP(ADVP*)   -   -   -   -   *             *      *             *             *    (ARGM-ADV*)   (ARGM-ADV*)            *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   18     来    VV                   (VP*     来  -   7   -   *             *      *             *             *           (V*)            *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   19    制作    VV              (VP*))))))   制作  -   -   -   *             *      *             *             *        (ARG1*)          (V*)            *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   20     ，    PU                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   21     只    AD              (VP(ADVP*)   -   -   -   -   *             *      *             *             *             *             *    (ARGM-ADV*)            *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   22     是    VC                   (VP*     是  -   2   -   *             *      *             *             *             *             *           (V*)            *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   23    因为     P                   (PP*    -   -   -   -   *             *      *             *             *             *             *        (ARG1*             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   24     在     P             (IP(IP(PP*    -   -   2   -   *             *      *             *             *             *             *             *    (ARGM-LOC*)   (ARGM-LOC*      *             *         *             *     -
+bn/cts/02/cts_0278   0   25    我们    PN   (LCP(NP(CP(IP(NP(NP*)   -   -   -   -   *             *      *             *             *             *             *             *        (ARG0*             *      *             *         *             *    (3
+bn/cts/02/cts_0278   0   26    厂商    NN                  (NP*))   -   -   -   -   *             *      *             *             *             *             *             *             *)            *      *             *         *             *     3)
+bn/cts/02/cts_0278   0   27     在    AD              (VP(ADVP*)   -   -   5   -   *             *      *             *             *             *             *             *    (ARGM-ADV*)            *      *             *         *             *     -
+bn/cts/02/cts_0278   0   28    交货    VV                 (VP*)))   交货  -   -   -   *             *      *             *             *             *             *             *           (V*)            *      *             *         *             *     -
+bn/cts/02/cts_0278   0   29     的   DEC                      *)   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   30    时间    NN                  (NP*))   -   -   1   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   31    里面    LC                     *))   -   -   -   -   *             *      *             *             *             *             *             *             *             *)     *             *         *             *     -
+bn/cts/02/cts_0278   0   32     他    PN                   (NP*)   -   -   -   -   *             *      *             *             *             *             *             *             *        (ARG0*)     *             *         *             *    (3)
+bn/cts/02/cts_0278   0   33    没有    AD              (VP(ADVP*)   -   -   2   -   *             *      *             *             *             *             *             *             *    (ARGM-ADV*)     *             *         *             *     -
+bn/cts/02/cts_0278   0   34    掌握    VV               (VP(VRD*    掌握  -   -   -   *             *      *             *             *             *             *             *             *           (V*)     *             *         *             *     -
+bn/cts/02/cts_0278   0   35     好    VA                   *))))    好  -   1   -   *             *      *             *             *             *             *             *             *    (ARGM-ADV*)   (V*)            *         *             *     -
+bn/cts/02/cts_0278   0   36     ，    PU                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   37    那么    AD              (IP(ADVP*)   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *    (ARGM-DIS*)        *             *     -
+bn/cts/02/cts_0278   0   38    造成    VV                   (VP*    造成  -   -   -   *             *      *             *             *             *             *             *             *             *      *           (V*)        *             *     -
+bn/cts/02/cts_0278   0   39     首    OD                (IP(QP*    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *        (ARG1*         *             *     -
+bn/cts/02/cts_0278   0   40     日     M                 (CLP*))   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   41     到    VV                (VP(VP*     到  -   1   -   *             *      *             *             *             *             *             *             *             *      *             *       (V*)            *     -
+bn/cts/02/cts_0278   0   42     了    AS                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *    (ARG1*)            *     -
+bn/cts/02/cts_0278   0   43    那么    AD              (QP(ADVP*)   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *    (ARG1*             *     -
+bn/cts/02/cts_0278   0   44     尾    CD                   (QP*    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   45     日     M               (CLP*))))   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *)            *     -
+bn/cts/02/cts_0278   0   46    没有    AD              (VP(ADVP*)   -   -   2   -   *             *      *             *             *             *             *             *             *             *      *             *         *    (ARGM-ADV*)    -
+bn/cts/02/cts_0278   0   47     到    VV        (VP*))))))))))))    到  -   1   -   *             *      *             *             *             *             *             *)            *             *      *             *)        *           (V*)    -
+bn/cts/02/cts_0278   0   48     。    PU                      *    -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+bn/cts/02/cts_0278   0   49     ”    PU                     *))   -   -   -   -   *             *      *             *             *             *             *             *             *             *      *             *         *             *     -
+
+bn/cts/02/cts_0278   0    0     卖票    NN           (TOP(IP(IP(IP(NP*     -   -   -   -   *   (ARG0*      *   (ARGM-ADV*             *             *         *        *      *             *   (0
+bn/cts/02/cts_0278   0    1     现场    NN                           *)    -   -   -   -   *        *)     *            *             *             *         *        *      *             *    0)
+bn/cts/02/cts_0278   0    2    闹哄哄    VV                       (VP*))   闹哄哄  -   -   -   *      (V*)     *            *)            *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    3      ，    PU                           *     -   -   -   -   *        *      *            *             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    4     排队    VV              (NP(CP(IP(VP*))    排队  -   -   -   *        *    (V*)      (ARG0*             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    5      的   DEC                           *)    -   -   -   -   *        *      *            *             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    6      人    NN                       (NP*))    -   -   1   -   *        *      *            *)            *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    7     失去    VV                        (VP*     失去  -   -   -   *        *      *          (V*)            *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    8      了    AS                           *     -   -   -   -   *        *      *       (ARG1*)            *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0    9     脸上    NN                 (NP(DNP(NP*)    -   -   -   -   *        *      *       (ARG1*             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0   10      的   DEG                           *)    -   -   -   -   *        *      *            *             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0   11     笑容    NN                     (NP*))))    -   -   -   -   *        *      *            *)            *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0   12      ，    PU                           *     -   -   -   -   *        *      *            *             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0   13     似乎    AD                   (IP(ADVP*)    -   -   -   -   *        *      *            *    (ARGM-ADV*)   (ARGM-ADV*)        *        *      *             *    -
+bn/cts/02/cts_0278   0   14     大家    PN                        (NP*)    -   -   -   -   *        *      *            *        (ARG0*)       (ARG0*)        *        *      *             *    -
+bn/cts/02/cts_0278   0   15      都    AD                   (VP(ADVP*)    -   -   -   -   *        *      *            *    (ARGM-ADV*)   (ARGM-ADV*)        *        *      *             *    -
+bn/cts/02/cts_0278   0   16      忘    VV                        (VP*      忘  -   -   -   *        *      *            *           (V*)       (ARG0*)        *        *      *             *    -
+bn/cts/02/cts_0278   0   17      了    AS                           *     -   -   -   -   *        *      *            *        (ARG1*)   (ARGM-ADV*)        *        *      *             *    -
+bn/cts/02/cts_0278   0   18      是    VC                           *      是  -   2   -   *        *      *            *             *           (V*)        *        *      *             *    -
+bn/cts/02/cts_0278   0   19      谁    PN   (IP(NP(CP(IP(NP(CP(IP(NP*)    -   -   -   -   *        *      *            *        (ARG1*        (ARG1*    (ARG0*)  (ARG0*      *        (ARG0*    -
+bn/cts/02/cts_0278   0   20      卖    VV                       (VP*))     卖  -   1   -   *        *      *            *             *             *       (V*)       *      *             *    -
+bn/cts/02/cts_0278   0   21      的   DEC                           *)    -   -   -   -   *        *      *            *             *             *         *        *      *             *    -
+bn/cts/02/cts_0278   0   22     车票    NN                       (NP*))    -   -   -   -   *        *      *            *             *             *         *        *)     *             *    -
+bn/cts/02/cts_0278   0   23      要    VV                       (VP*))     要  -   2   -   *        *      *            *             *             *         *      (V*)     *             *    -
+bn/cts/02/cts_0278   0   24      的   DEC                          *))    -   -   -   -   *        *      *            *             *             *         *        *      *             *)   -
+bn/cts/02/cts_0278   0   25      是    VC                        (VP*      是  -   1   -   *        *      *            *             *             *         *        *    (V*)            *    -
+bn/cts/02/cts_0278   0   26      永    AD                   (VP(ADVP*)    -   -   -   -   *        *      *            *             *             *         *        *      *    (ARGM-ADV*)   -
+bn/cts/02/cts_0278   0   27      保    VV                        (VP*      保  -   2   -   *        *      *            *             *             *         *        *      *           (V*)   -
+bn/cts/02/cts_0278   0   28     安康    NN                 (NP*))))))))    -   -   -   -   *        *      *            *             *)            *)        *        *      *        (ARG1*)   -
+bn/cts/02/cts_0278   0   29      。    PU                          *))    -   -   -   -   *        *      *            *             *             *         *        *      *             *    -
+
+#end document

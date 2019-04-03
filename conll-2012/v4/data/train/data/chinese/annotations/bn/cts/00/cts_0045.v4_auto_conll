@@ -1,0 +1,202 @@
+#begin document (bn/cts/00/cts_0045); part 000
+bn/cts/00/cts_0045   0    0      连接    VV  (TOP(IP(IP(NP(CP(IP(VP*    -   -   -   -   *        (ARG0*        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    1     台北市    NR                     (NP*    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    2    南京东路    NR                        *    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    3      还有    CC                        *    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    4      内湖    NR                        *    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    5     新民路    NR                      *)))   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    6       的   DEC                        *)   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    7      麦晒    NR                     (NP*)   -   -   -   -   *             *        *      *      *            *             *      *             *       (5)
+bn/cts/00/cts_0045   0    8       一    CD                     (QP*    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0    9       条     M                   (CLP*))   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   10      中午    NT                     (NP*    -   -   -   -   *             *        *      *      *            *             *      *             *       (1
+bn/cts/00/cts_0045   0   11     １２点    NT                       *))   -   -   -   -   *             *)       *      *      *            *             *      *             *        1)
+bn/cts/00/cts_0045   0   12      正式    AD                (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   13      通车    VV                   (VP*)))   通车  -   -   -   *           (V*)       *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   14       ，    PU                        *    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   15     台北市    NR               (IP(NP(NP*)   -   -   -   -   *             *   (ARG0*      *      *            *             *      *             *    (3|(2)
+bn/cts/00/cts_0045   0   16     交通局    NN                    (NP*))   -   -   -   -   *             *        *)     *      *            *             *      *             *        3)
+bn/cts/00/cts_0045   0   17      预估    VV                     (VP*    预估  -   -   -   *             *      (V*)     *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   18       在     P                  (IP(PP*    -   -   2   -   *             *   (ARG1*      *      *   (ARGM-TMP*    (ARGM-TMP*      *             *        -
+bn/cts/00/cts_0045   0   19      通车    VV             (LCP(IP(VP*))   通车  -   -   -   *             *        *    (V*)     *            *             *      *             *        -
+bn/cts/00/cts_0045   0   20      之后    LC                       *))   -   -   -   -   *             *        *      *      *            *)            *)     *             *        -
+bn/cts/00/cts_0045   0   21      内湖    NR                  (NP(NP*    -   -   -   -   *             *        *      *      *       (ARG0*        (ARG0*      *             *        -
+bn/cts/00/cts_0045   0   22       、    PU                        *    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   23      南港    NR                        *)   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   24      居民    NN                    (NP*))   -   -   -   -   *             *        *      *      *            *)            *)     *             *        -
+bn/cts/00/cts_0045   0   25      可以    VV                     (VP*    可以  -   1   -   *             *        *      *    (V*)           *    (ARGM-ADV*)     *             *        -
+bn/cts/00/cts_0045   0   26      进出    VV                  (VP(VP*    进出  -   -   -   *             *        *      *      *          (V*)            *      *             *        -
+bn/cts/00/cts_0045   0   27     南松山    NR                    (NP*))   -   -   -   -   *             *        *      *      *       (ARG1*)            *      *             *        -
+bn/cts/00/cts_0045   0   28      节省    VV                     (VP*    节省  -   -   -   *             *        *      *      *            *           (V*)     *             *        -
+bn/cts/00/cts_0045   0   29      １０    CD          (NP(DNP(LCP(QP*    -   -   -   -   *             *        *      *      *            *        (ARG1*      *             *        -
+bn/cts/00/cts_0045   0   30      分钟     M                   (CLP*))   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   31      以上    LC                        *)   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   32       的   DEG                        *)   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   33      车程    NN              (NP*))))))))   -   -   -   -   *             *        *)     *      *            *             *)     *             *        -
+bn/cts/00/cts_0045   0   34       ，    PU                        *    -   -   -   -   *             *        *      *      *            *             *      *             *        -
+bn/cts/00/cts_0045   0   35      所以    AD                (IP(ADVP*)   -   -   -   -   *             *        *      *      *            *             *      *    (ARGM-DIS*)       -
+bn/cts/00/cts_0045   0   36      市民    NN                     (NP*)   -   -   -   -   *             *        *      *      *            *             *      *        (ARG0*)       -
+bn/cts/00/cts_0045   0   37      可以    VV                     (VP*    可以  -   1   -   *             *        *      *      *            *             *    (V*)            *        -
+bn/cts/00/cts_0045   0   38      多加    AD                (VP(ADVP*)   -   -   -   -   *             *        *      *      *            *             *      *    (ARGM-ADV*)       -
+bn/cts/00/cts_0045   0   39      利用    VV                  (VP*))))   利用  -   1   -   *             *        *      *      *            *             *      *           (V*)       -
+bn/cts/00/cts_0045   0   40       。    PU                       *))   -   -   -   -   *             *        *      *      *            *             *      *             *        -
+
+bn/cts/00/cts_0045   0    0    南京东路    NR     (TOP(IP(NP*)   -   -   -   -   *        *        (ARG0*)   (6)
+bn/cts/00/cts_0045   0    1       五    CD  (VP(LCP(NP(QP*    -   -   -   -   *        *    (ARGM-TMP*     -
+bn/cts/00/cts_0045   0    2       段     M          (CLP*))   -   -   -   -   *        *             *     -
+bn/cts/00/cts_0045   0    3      连接    VV      (CP(IP(VP*    连接  -   -   -   *      (V*)            *     -
+bn/cts/00/cts_0045   0    4      内湖    NR         (NP(NP*    -   -   -   -   *   (ARG1*             *     -
+bn/cts/00/cts_0045   0    5     新民路    NR               *)   -   -   -   -   *        *             *     -
+bn/cts/00/cts_0045   0    6    ２９８巷    NR         (NP*))))   -   -   -   -   *        *)            *     -
+bn/cts/00/cts_0045   0    7       的   DEC               *)   -   -   -   -   *        *             *     -
+bn/cts/00/cts_0045   0    8      麦晒    NR            (NP*)   -   -   -   -   *        *             *    (5)
+bn/cts/00/cts_0045   0    9       一    CD            (QP*    -   -   -   -   *        *             *     -
+bn/cts/00/cts_0045   0   10       条     M          (CLP*))   -   -   -   -   *        *             *     -
+bn/cts/00/cts_0045   0   11      今天    NT            (NP*    -   -   -   -   *        *             *    (1
+bn/cts/00/cts_0045   0   12      中午    NT               *    -   -   -   -   *        *             *     -
+bn/cts/00/cts_0045   0   13     １２点    NT              *))   -   -   -   -   *        *             *     1)
+bn/cts/00/cts_0045   0   14      以后    LC               *)   -   -   -   -   *        *             *)    -
+bn/cts/00/cts_0045   0   15       就    AD          (ADVP*)   -   -   2   -   *        *    (ARGM-ADV*)    -
+bn/cts/00/cts_0045   0   16      正式    AD          (ADVP*)   -   -   -   -   *        *    (ARGM-ADV*)    -
+bn/cts/00/cts_0045   0   17      通车    VV           (VP*))   通车  -   -   -   *        *           (V*)    -
+bn/cts/00/cts_0045   0   18       。    PU              *))   -   -   -   -   *        *             *     -
+
+bn/cts/00/cts_0045   0   0     台北   NR   (TOP(IP(NP(NP(NP*)   -   -   -   -   *        (ARG0*    (2)
+bn/cts/00/cts_0045   0   1     市长   NN               (NP*))   -   -   -   -   *             *     -
+bn/cts/00/cts_0045   0   2    马英久   NR               (NP*))   -   -   -   -   *             *)    -
+bn/cts/00/cts_0045   0   3     上午   NT             (VP(NP*)   -   -   1   -   *    (ARGM-TMP*)    -
+bn/cts/00/cts_0045   0   4     举行   VV                (VP*    举行  -   -   -   *           (V*)    -
+bn/cts/00/cts_0045   0   5     通车   NN                (NP*    -   -   -   -   *        (ARG1*     -
+bn/cts/00/cts_0045   0   6     剪彩   NN                   *    -   -   -   -   *             *     -
+bn/cts/00/cts_0045   0   7     仪式   NN                 *)))   -   -   -   -   *             *)    -
+bn/cts/00/cts_0045   0   8      。   PU                  *))   -   -   -   -   *             *     -
+
+bn/cts/00/cts_0045   0    0    通车    VV   (TOP(IP(LCP(IP(VP*))   通车  -   -   -   *    (V*)       *      *    (ARGM-TMP*   -
+bn/cts/00/cts_0045   0    1    之后    LC                     *)   -   -   -   -   *      *        *      *             *)  -
+bn/cts/00/cts_0045   0    2     从     P      (NP(CP(IP(VP(PP*    -   -   -   -   *      *   (ARG2*      *        (ARG0*   -
+bn/cts/00/cts_0045   0    3    基隆    NR                  (NP*    -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0    4     、    PU                     *    -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0    5    细仔    NR                     *    -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0    6     、    PU                     *    -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0    7    南港    NR                     *    -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0    8     、    PU                     *    -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0    9    内湖    NR                    *))   -   -   -   -   *      *        *)     *             *   -
+bn/cts/00/cts_0045   0   10     来    VV                (VP*)))    来  -   1   -   *      *      (V*)     *             *   -
+bn/cts/00/cts_0045   0   11     的   DEC                     *)   -   -   -   -   *      *        *      *             *   -
+bn/cts/00/cts_0045   0   12    车辆    NN                 (NP*))   -   -   -   -   *      *        *      *             *)  -
+bn/cts/00/cts_0045   0   13     都    AD             (VP(ADVP*)   -   -   -   -   *      *        *      *    (ARGM-ADV*)  -
+bn/cts/00/cts_0045   0   14    可以    VV                  (VP*    可以  -   1   -   *      *        *    (V*)   (ARGM-ADV*)  -
+bn/cts/00/cts_0045   0   15    节省    VV                  (VP*    节省  -   -   -   *      *        *      *           (V*)  -
+bn/cts/00/cts_0045   0   16    车程    NN               (NP*))))   -   -   -   -   *      *        *      *        (ARG1*)  -
+bn/cts/00/cts_0045   0   17     。    PU                    *))   -   -   -   -   *      *        *      *             *   -
+
+bn/cts/00/cts_0045   0    0      进入   VV  (TOP(IP(IP(VP*    进入  -   -   -   *       (V*)     *       (ARG0*       (ARG0*     -
+bn/cts/00/cts_0045   0    1     台北市   NR          (NP*)))   -   -   -   -   *    (ARG1*)     *            *)           *)   (2)
+bn/cts/00/cts_0045   0    2      可以   VV            (VP*    可以  -   1   -   *         *    (V*)           *            *     -
+bn/cts/00/cts_0045   0    3       从    P      (VP(VP(PP*    -   -   -   -   *         *      *   (ARGM-DIR*            *     -
+bn/cts/00/cts_0045   0    4     松山高   NR         (NP(NP*)   -   -   -   -   *         *      *            *            *    (0)
+bn/cts/00/cts_0045   0    5      或者   CC               *    -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0    6      内湖   NR         (NP(NP*    -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0    7     从东路   NR               *)   -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0    8      加道   NN         (NP*))))   -   -   -   -   *         *      *            *)           *     -
+bn/cts/00/cts_0045   0    9       进   VV            (VP*     进  -   1   -   *         *      *          (V*)           *     -
+bn/cts/00/cts_0045   0   10      麦晒   NR            (NP*    -   -   -   -   *         *      *       (ARG1*            *    (7
+bn/cts/00/cts_0045   0   11      公路   NN             *)))   -   -   -   -   *         *      *            *)           *     7)
+bn/cts/00/cts_0045   0   12       ，   PU               *    -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0   13       从    P         (VP(PP*    -   -   -   -   *         *      *            *   (ARGM-DIR*     -
+bn/cts/00/cts_0045   0   14      麦晒   NR         (NP(NP*)   -   -   -   -   *         *      *            *            *    (5)
+bn/cts/00/cts_0045   0   15       一   CD            (QP*    -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0   16       层    M          (CLP*))   -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0   17      下层   NN            (NP*    -   -   -   -   *         *      *            *            *     -
+bn/cts/00/cts_0045   0   18       桥   NN             *)))   -   -   -   -   *         *      *            *            *)    -
+bn/cts/00/cts_0045   0   19      进入   VV            (VP*    进入  -   -   -   *         *      *            *          (V*)    -
+bn/cts/00/cts_0045   0   20    南京东路   NR        (NP*)))))   -   -   -   -   *         *      *            *       (ARG1*)   (6)
+bn/cts/00/cts_0045   0   21       。   PU              *))   -   -   -   -   *         *      *            *            *     -
+
+bn/cts/00/cts_0045   0    0      离开    VV  (TOP(IP(IP(IP(VP*    离开  -   -   -   *       (V*)     *    (ARG0*   (ARG0*         *      *             *     -
+bn/cts/00/cts_0045   0    1      市区    NN             (NP*)))   -   -   -   -   *    (ARG1*)     *         *)       *)        *      *             *    (4)
+bn/cts/00/cts_0045   0    2      可以    VV               (VP*    可以  -   1   -   *         *    (V*)        *        *         *      *             *     -
+bn/cts/00/cts_0045   0    3       上    VV            (VP(VP*     上  -   8   -   *         *      *       (V*)       *         *      *             *     -
+bn/cts/00/cts_0045   0    4     松山高    NR              (NP*))   -   -   -   -   *         *      *    (ARG1*)       *         *      *             *    (0)
+bn/cts/00/cts_0045   0    5       往    VV               (VP*     往  -   -   -   *         *      *         *      (V*)        *      *             *     -
+bn/cts/00/cts_0045   0    6      东湖    NR               (NP*    -   -   -   -   *         *      *         *   (ARG1*         *      *             *     -
+bn/cts/00/cts_0045   0    7       、    PU                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0    8     南港区    NR                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0    9       、    PU                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   10     茂源区    NR                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   11      或是    CC                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   12      细仔    NR                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   13       、    PU                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   14      基隆    NR              *)))))   -   -   -   -   *         *      *         *        *)        *      *             *     -
+bn/cts/00/cts_0045   0   15       ，    PU                  *    -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   16     交通局    NN            (IP(NP*)   -   -   -   -   *         *      *         *        *    (ARG0*)     *             *    (3)
+bn/cts/00/cts_0045   0   17      预估    VV               (VP*    预估  -   -   -   *         *      *         *        *       (V*)     *             *     -
+bn/cts/00/cts_0045   0   18    这样下来    AD       (IP(VP(ADVP*)   -   -   -   -   *         *      *         *        *    (ARG1*      *    (ARGM-ADV*)    -
+bn/cts/00/cts_0045   0   19      可以    VV               (VP*    可以  -   1   -   *         *      *         *        *         *    (V*)            *     -
+bn/cts/00/cts_0045   0   20      节省    VV               (VP*    节省  -   -   -   *         *      *         *        *         *      *           (V*)    -
+bn/cts/00/cts_0045   0   21      １０    CD        (NP(DNP(QP*    -   -   -   -   *         *      *         *        *         *      *        (ARG1*     -
+bn/cts/00/cts_0045   0   22      分钟     M             (CLP*))   -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   23       的   DEG                  *)   -   -   -   -   *         *      *         *        *         *      *             *     -
+bn/cts/00/cts_0045   0   24      车程    NN        (NP*))))))))   -   -   -   -   *         *      *         *        *         *)     *             *)    -
+bn/cts/00/cts_0045   0   25       。    PU                 *))   -   -   -   -   *         *      *         *        *         *      *             *     -
+
+bn/cts/00/cts_0045   0    0      不过    AD   (TOP(IP(IP(IP(ADVP*)   -   -   -   -   *    (ARGM-DIS*)  (ARGM-ADV*        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    1      特别    AD             (VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)           *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    2      提醒    VV                  (VP*    提醒  -   -   -   *           (V*)           *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    3      民众    NN               (NP*))))   -   -   -   -   *        (ARG1*)           *)       *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    4       ，    PU                     *    -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    5      交通    NN                  (NP*    -   -   1   -   *             *       (ARG0*        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    6      纵线    NN                     *)   -   -   -   -   *             *            *)       *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    7       有    VE                  (VP*     有  -   3   -   *             *          (V*)       *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    8       些    CD               (NP(QP*)   -   -   -   -   *             *       (ARG1*        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0    9      改变    NN               (NP*))))   -   -   -   -   *             *            *)       *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   10       ，    PU                     *    -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   11      进入    VV        (IP(LCP(IP(VP*    进入  -   -   -   *             *            *      (V*)  (ARGM-TMP*         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   12      市区    NN               (NP(NP*)   -   -   -   -   *             *            *   (ARG1*            *         *             *         *             *             *    (6|(4)
+bn/cts/00/cts_0045   0   13    南京东路    NR               (NP*))))   -   -   -   -   *             *            *        *)           *         *             *         *             *             *        6)
+bn/cts/00/cts_0045   0   14       后    LC                     *)   -   -   -   -   *             *            *        *            *)        *             *         *             *             *        -
+bn/cts/00/cts_0045   0   15      禁止    VV                  (VP*    禁止  -   -   -   *             *            *        *          (V*)        *             *         *             *             *        -
+bn/cts/00/cts_0045   0   16      东转    VV               (IP(VP*    东转  -   -   -   *             *            *        *       (ARG1*       (V*)            *         *             *             *        -
+bn/cts/00/cts_0045   0   17     东新街    NR              (NP*)))))   -   -   -   -   *             *            *        *            *)   (ARG1*)            *         *             *             *        -
+bn/cts/00/cts_0045   0   18       ，    PU                     *    -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   19     基隆河    NR            (IP(NP(NP*)   -   -   -   -   *             *            *        *            *         *        (ARG1*         *             *             *        -
+bn/cts/00/cts_0045   0   20      河外    NN                  (NP*    -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   21      便道    NN                    *))   -   -   -   -   *             *            *        *            *         *             *)        *             *             *        -
+bn/cts/00/cts_0045   0   22       也    AD             (VP(ADVP*)   -   -   -   -   *             *            *        *            *         *    (ARGM-DIS*)        *             *             *        -
+bn/cts/00/cts_0045   0   23      封闭    VV                (VP*)))   封闭  -   -   -   *             *            *        *            *         *           (V*)        *             *             *        -
+bn/cts/00/cts_0045   0   24       ；    PU                     *    -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   25      进入    VV      (IP(NP(CP(IP(VP*    进入  -   -   -   *             *            *        *            *         *             *       (V*)       (ARG1*        (ARG1*        -
+bn/cts/00/cts_0045   0   26      市区    NN                (NP*)))   -   -   -   -   *             *            *        *            *         *             *    (ARG1*)            *             *       (4)
+bn/cts/00/cts_0045   0   27       的   DEC                     *)   -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   28       六    CD                  (QP*    -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   29       号     M                (CLP*))   -   -   1   -   *             *            *        *            *         *             *         *             *             *        -
+bn/cts/00/cts_0045   0   30      水门    NN                 (NP*))   -   -   -   -   *             *            *        *            *         *             *         *             *)            *)       -
+bn/cts/00/cts_0045   0   31       则    AD             (VP(ADVP*)   -   -   -   -   *             *            *        *            *         *             *         *    (ARGM-DIS*)   (ARGM-DIS*)       -
+bn/cts/00/cts_0045   0   32      维持    VV              (VP(VNV*    维持  -   -   -   *             *            *        *            *         *             *         *           (V*)        (REL*)       -
+bn/cts/00/cts_0045   0   33       不    AD                     *    -   -   -   -   *             *            *        *            *         *             *         *             *    (ARGM-ADV*)       -
+bn/cts/00/cts_0045   0   34       变    VV                  *))))    变  -   3   -   *             *            *        *            *         *             *         *             *           (V*)       -
+bn/cts/00/cts_0045   0   35       。    PU                    *))   -   -   -   -   *             *            *        *            *         *             *         *             *             *        -
+
+bn/cts/00/cts_0045   0    0     另外    AD        (TOP(IP(ADVP*)   -   -   -   -   *             *    (ARGM-DIS*)   (ARGM-DIS*)     *    -
+bn/cts/00/cts_0045   0    1     原来    AD   (NP(CP(IP(VP(ADVP*)   -   -   -   -   *    (ARGM-ADV*)       (ARG0*        (ARG0*      *    -
+bn/cts/00/cts_0045   0    2     联营    VV               (VP*)))   联营  -   -   -   *           (V*)            *             *      *    -
+bn/cts/00/cts_0045   0    3      的   DEC                    *)   -   -   -   -   *             *             *             *      *    -
+bn/cts/00/cts_0045   0    4    ２４０    OD                 (QP*    -   -   -   -   *             *             *             *      *    -
+bn/cts/00/cts_0045   0    5      、    PU                    *    -   -   -   -   *             *             *             *      *    -
+bn/cts/00/cts_0045   0    6    ６０５    OD                    *)   -   -   -   -   *             *             *             *      *    -
+bn/cts/00/cts_0045   0    7     快速    JJ               (ADJP*)   -   -   -   -   *             *             *             *      *    -
+bn/cts/00/cts_0045   0    8     公车    NN                (NP*))   -   -   -   -   *             *             *)            *)     *    -
+bn/cts/00/cts_0045   0    9      还    AD            (VP(ADVP*)   -   -   -   -   *             *    (ARGM-ADV*)   (ARGM-ADV*)     *    -
+bn/cts/00/cts_0045   0   10      继    VV              (VP(VP*     继  -   -   -   *             *           (V*)            *      *    -
+bn/cts/00/cts_0045   0   11     客运    NN                 (NP*    -   -   -   -   *             *        (ARG1*             *      *    -
+bn/cts/00/cts_0045   0   12     路线    NN                   *))   -   -   -   -   *             *             *)            *      *    -
+bn/cts/00/cts_0045   0   13      ，    PU                    *    -   -   -   -   *             *             *             *      *    -
+bn/cts/00/cts_0045   0   14      都    AD            (VP(ADVP*)   -   -   -   -   *             *             *    (ARGM-ADV*)     *    -
+bn/cts/00/cts_0045   0   15     经过     P                 (PP*    -   -   -   -   *             *             *    (ARGM-MNR*      *    -
+bn/cts/00/cts_0045   0   16     麦晒    NR                 (NP*    -   -   -   -   *             *             *             *      *   (7
+bn/cts/00/cts_0045   0   17     公路    NN                   *))   -   -   -   -   *             *             *             *)     *    7)
+bn/cts/00/cts_0045   0   18     恢复    VV                 (VP*    恢复  -   1   -   *             *             *           (V*)     *    -
+bn/cts/00/cts_0045   0   19     行驶    VV         (IP(VP*))))))   行驶  -   -   -   *             *             *        (ARG0*)   (V*)   -
+bn/cts/00/cts_0045   0   20      。    PU                   *))   -   -   -   -   *             *             *             *      *    -
+
+#end document
